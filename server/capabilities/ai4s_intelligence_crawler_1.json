@@ -1,0 +1,27 @@
+{
+  "id": "ai4s_intelligence_crawler_1",
+  "pluginKey": "@official-plugins/web-crawler",
+  "pluginVersion": "1.0.10",
+  "name": "AI4S 情报来源抓取",
+  "description": "输入来源页面 URL（RSS 链接、会议页面或官网地址），抓取并解析该页面内容为 Markdown 文本，用于后续 AI 结构化分析",
+  "icon": "",
+  "paramsSchema": {
+    "required": [
+      "page_url"
+    ],
+    "type": "object",
+    "properties": {
+      "page_url": {
+        "type": "string",
+        "description": "来源页面 URL（支持 RSS 链接、会议页面或官网地址）"
+      }
+    }
+  },
+  "formValue": {
+    "url": "{{input.page_url}}",
+    "processMode": "请将抓取到的网页正文完整转换为 Markdown 格式输出，保留原文的标题、小节结构与关键链接，逐段转写而非总结概括，不要省略正文内容；若页面为列表页则完整列出每条条目的标题与链接"
+  },
+  "createdAt": 1788932521404,
+  "updatedAt": 1788945468891,
+  "createdBy": 7664405495511256243
+}

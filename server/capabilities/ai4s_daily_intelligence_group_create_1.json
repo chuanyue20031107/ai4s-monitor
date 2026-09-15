@@ -1,0 +1,38 @@
+{
+  "id": "ai4s_daily_intelligence_group_create_1",
+  "pluginKey": "@official-plugins/feishu-group-create",
+  "pluginVersion": "1.0.16",
+  "name": "AI4S每日情报推送飞书群组创建",
+  "description": "创建用于AI4S每日情报推送的飞书群组，接收群名称和初始成员列表，返回群chat_id供后续推送使用。",
+  "icon": "",
+  "paramsSchema": {
+    "type": "object",
+    "properties": {
+      "group_name": {
+        "type": "string",
+        "description": "飞书群组名称，默认值为'AI4S 每日情报推送'"
+      },
+      "member_list": {
+        "type": "array",
+        "description": "初始群成员用户ID列表",
+        "items": {
+          "description": "群成员用户ID",
+          "type": "string"
+        }
+      }
+    },
+    "required": [
+      "member_list"
+    ]
+  },
+  "formValue": {
+    "owner": "{{input.member_list.[0]}}",
+    "welcomeMessage": "欢迎加入AI4S每日情报推送群，我们将每日为您推送最新行业情报和资讯。",
+    "groupDescription": "AI4S每日情报推送专用群组，每日同步最新行业情报和资讯。",
+    "groupName": "{{input.group_name}}",
+    "members": "{{input.member_list}}"
+  },
+  "createdAt": 1789105404802,
+  "updatedAt": 1789105404802,
+  "createdBy": 7664405495511256243
+}

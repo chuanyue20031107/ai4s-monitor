@@ -1,0 +1,72 @@
+{
+  "id": "ai4s_intelligence_article_structured_analysis_1",
+  "pluginKey": "@official-plugins/ai-text-to-json",
+  "pluginVersion": "1.0.26",
+  "name": "AI4S情报文章结构化分析",
+  "description": "对AI4S领域的情报文章进行结构化分析，提取分类、重要性评分、理由、内容类型、标签和摘要等信息",
+  "icon": "",
+  "paramsSchema": {
+    "required": [
+      "article_title",
+      "article_content"
+    ],
+    "type": "object",
+    "order": [
+      "article_title",
+      "article_content"
+    ],
+    "properties": {
+      "article_title": {
+        "description": "情报文章标题",
+        "type": "string"
+      },
+      "article_content": {
+        "description": "情报文章正文内容",
+        "type": "string"
+      }
+    }
+  },
+  "formValue": {
+    "prompt": "你是一位专业的AI4S领域情报分析师，擅长对科技文章进行结构化分析。请对以下文章进行深度分析：\n文章标题：{{input.article_title}}\n文章内容：{{input.article_content}}\n\n请严格按照给定的JSON结构输出分析结果，所有字段必须完整填写，不得遗漏。\n\n额外分类纪律要求：\n1. 分类时优先归入「模型」「数据」「AI4S应用」「自动化实验室」「产业与商业」五个具体分类之一；只有当文章与 AI4S 完全无关（如纯行政通知、通用学术写作技巧、无关行业资讯）且无法归入任何具体分类时才允许输出「其他」，目标是将「其他」类比例控制在 20% 以下。\n2. 公司主页、产品介绍、团队介绍、新闻列表页按其核心业务领域归类：AI 公司或科研机构主页归「产业与商业」；AI 模型产品介绍归「模型」；AI 科研应用介绍归「AI4S应用」。\n3. 会议、展会、行业活动资讯归「产业与商业」。\n4. 学术论文写作技巧、投稿指南类内容输出「其他」。\n5. 抓取失败产生的无意义内容（如 AI 空回复、404 错误信息、分页残渣）输出「其他」且 importance_score 给 1。",
+    "jsonStructure": [
+      {
+        "name": "category",
+        "paramDescription": "文章分类，只能从以下选项中选择一个：模型/数据/AI4S应用/自动化实验室/产业与商业/其他。分类优先级规则：1. 必须按文章的核心研究对象或核心贡献所属领域选主分类，即使文章同时涉及多个方向，也只能选最主要的一个，绝不能因为跨领域就归为其他。2. 涉及新模型发布、模型架构改进、模型能力评测、世界模型、智能体模型、大模型、生成式模型等内容归为「模型」；涉及数据集发布、数据基准、数据工程方法归为「数据」；涉及 AI 在科研领域的具体应用（如药物发现、材料设计、蛋白质结构预测、气候模拟等）归为「AI4S应用」；涉及实验室自动化、机器人实验、自动驾驶实验平台、高通量筛选归为「自动化实验室」；涉及融资、合作、商业化、产品发布、行业动态归为「产业与商业」。3. 「其他」仅用于完全不属于前五类的纯资讯快讯或行政通知类内容，严禁将跨多个研究方向的深度研究总览、博客综述、年度进展直接归为其他——必须从中判断其最核心的归属方向并归入对应分类。",
+        "paramType": "String"
+      },
+      {
+        "paramType": "Number",
+        "name": "importance_score",
+        "paramDescription": "文章重要性评分，1-5的整数，1最低，5最高"
+      },
+      {
+        "paramDescription": "中文重要性理由，说明给出该评分的原因",
+        "paramType": "String",
+        "name": "importance_reason"
+      },
+      {
+        "paramDescription": "内容类型，只能从以下选项中选择：company_claim/paper_result/media_report",
+        "paramType": "String",
+        "name": "content_type"
+      },
+      {
+        "paramDescription": "护城河影响标签，从以下选项中多选并以逗号分隔：数据/模型/实验自动化/药物设计/材料发现/商业合作/人才",
+        "paramType": "String",
+        "name": "moat_tags"
+      },
+      {
+        "paramDescription": "200字以内的中文摘要，概括文章核心内容",
+        "paramType": "String",
+        "name": "chinese_summary"
+      }
+    ],
+    "modelID": "2015",
+    "modelParams": {
+      "maxTokens": 713,
+      "temperature": 0.5
+    }
+  },
+  "createdAt": 1788932526958,
+  "updatedAt": 1789352637429,
+  "createdBy": 7664405495511256243
+}
