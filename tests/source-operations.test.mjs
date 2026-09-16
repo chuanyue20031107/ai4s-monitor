@@ -74,3 +74,25 @@ test('set enabled is idempotent and does not send network requests', async t => 
   assert.equal(f.readJson(f.pub('sources')).items[0].enabled,false);
   assert.equal(f.readJson(f.pub('runs')).items.filter(r=>r.id==='source-command:test-request-1234').length,1);
 });
+test('real collector integration: manual crawl deduplicates and keeps analyses pending', {skip: !fs.existsSync(new URL('../scripts/crawl.mjs', import.meta.url))}, async t => {
+  const {collect: realCollect} = await import('../scripts/crawl.mjs');
+  const f = fixture(t), beforeMeta = fs.readFileSync(f.pub('meta'));
+  const feed = `<rss><channel><item><title>A detailed scientific materials research finding</title><link>https://example.org/news/research-2026</link><description>${'This study reports measured scientific evidence and experimental methods. '.repeat(8)}</description></item></channel></rss>`;
+  const collect = options => realCollect({...options,fetchPage:async url=>({html:feed,finalUrl:url})});
+  const first = await executeOperation(cmd('crawl',{sourceId:'a'}),{...f,collect});
+  const second = await executeOperation({...cmd('crawl',{sourceId:'a'}),requestId:'test-request-second'},{...f,collect});
+  assert.equal(first.inserted,1); assert.equal(second.inserted,0);
+  assert.equal(fs.readdirSync(path.join(f.root,'data/raw')).filter(n=>n.endsWith('.json')).length,1);
+  assert.equal(f.readJson(f.pub('articles')).items[0].analysisStatus,'pending');
+  assert.deepEqual(fs.readFileSync(f.pub('meta')),beforeMeta);
+  assert.equal(f.readJson(f.pub('sources')).items.length,3);
+  assert.equal(f.readJson(f.pub('sources')).items[2].enabled,false);
+});
+test('multi-batch manual crawl retains every source and restores scheduled state', async t => {
+  const f=fixture(t), all=Array.from({length:27},(_,i)=>({...sources[0],id:`s-${i}`,sourceKey:`s-${i}`}));
+  f.writeJson(f.pub('sources'),{items:all});let batches=0;
+  const collect=async({seeds})=>{batches++;assert.ok(seeds.length<=12);f.writeJson(f.pub('sources'),{items:seeds.map(s=>({...s,crawlStatus:'ok'}))});f.writeJson(f.pub('meta'),{cursor:0});return {processed:seeds.length,succeeded:seeds.length};};
+  const run=await executeOperation(cmd('crawl_all'),{...f,collect});
+  assert.equal(batches,3);assert.equal(run.processed,27);assert.equal(f.readJson(f.pub('meta')).cursor,77);
+  assert.equal(f.readJson(f.pub('sources')).items.filter(s=>s.crawlStatus==='ok').length,27);
+});

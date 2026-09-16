@@ -81,7 +81,7 @@ export async function executeOperation(command, { root, readJson, writeJson, col
     run.detail = `检查 ${run.processed} 个来源：成功 ${run.succeeded}，失败 ${run.failed}；未抓取正文。`;
   } else if (targets.length) {
     // collect() is reused, not modified. It normally rotates sources and rewrites the source view.
-    const protectedFiles = ['meta', 'settings'].map(name => [pub(name), fs.existsSync(pub(name)) ? fs.readFileSync(pub(name)) : null]);
+    const protectedFiles = ['meta', 'settings', 'health'].map(name => [pub(name), fs.existsSync(pub(name)) ? fs.readFileSync(pub(name)) : null]);
     const originalRuns = readJson(pub('runs'), { items: [] });
     try {
       for (let start = 0; start < targets.length; start += 12) {
