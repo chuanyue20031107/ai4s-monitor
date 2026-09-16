@@ -1,0 +1,27 @@
+name: Source operations regression
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/source-operations*.mjs'
+      - 'tests/source-operations.test.mjs'
+      - 'client/src/api/sourceOperations.ts'
+      - 'client/src/pages/SourcesPage/**'
+      - '.github/workflows/source-operations*.yml'
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '22'
+      - run: npm install --no-audit --no-fund
+      - run: node --test tests/pipeline.test.mjs tests/source-operations.test.mjs
+      - run: npm run typecheck
+      - run: npm run build
