@@ -1,0 +1,35 @@
+name: Source health check
+
+on:
+  workflow_dispatch:
+    inputs:
+      source_id:
+        description: Optional single source id
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '22'
+      - run: npm install --no-audit --no-fund
+      - name: Check source health
+        env:
+          SOURCE_ID: ${{ inputs.source_id }}
+        run: node scripts/source-health.mjs
+      - name: Commit health report
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/source-health.json client/public/data/source-health.json
+          if ! git diff --cached --quiet; then
+            git commit -m "data: refresh source health"
+            git push
+          fi
