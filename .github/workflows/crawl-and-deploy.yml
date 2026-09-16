@@ -3,78 +3,139 @@ name: Crawl and deploy
 on:
   push:
     branches: [main]
+    paths:
+      - 'data/inbox/**'
+      - 'scripts/**'
+      - 'tests/**'
+      - 'config/**'
+      - 'client/src/**'
+      - 'shared/**'
+      - 'package*.json'
+      - 'vite.config.ts'
+      - 'tsconfig*.json'
+      - '.github/workflows/**'
+  pull_request:
+    branches: [main]
   schedule:
     - cron: '17 */6 * * *'
   workflow_dispatch:
     inputs:
       batch_size:
-        description: Number of sources to crawl in this run
+        description: Number of sources to crawl (not all sources every 6 hours)
         required: false
-        default: '60'
+        default: '36'
+      collect:
+        description: Collect sources before publishing
+        type: boolean
+        default: true
 
 permissions:
-  contents: write
-  pages: write
-  id-token: write
+  contents: read
 
 concurrency:
-  group: ai4s-crawl-and-pages
+  group: ai4s-pipeline-${{ github.event_name == 'pull_request' && github.event.pull_request.number || 'main' }}
   cancel-in-progress: false
 
 jobs:
-  build:
-    if: github.actor != 'github-actions[bot]'
+  verify:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v5
-        with:
-          fetch-depth: 0
-
       - uses: actions/setup-node@v5
         with:
           node-version: '22'
+      - run: npm install --no-audit --no-fund
+      - name: Pipeline regression tests (no network)
+        run: node --test tests/pipeline.test.mjs
+      - run: npm run typecheck
+      - run: npm run build
 
-      - name: Install dependencies
-        run: npm install --no-audit --no-fund
-
-      - name: Crawl sources into the GitHub JSON database
+  build:
+    if: github.event_name != 'pull_request'
+    needs: verify
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: write
+      pages: read
+    outputs:
+      pages_enabled: ${{ steps.pages.outputs.enabled }}
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '22'
+      - run: npm install --no-audit --no-fund
+      - name: Collect raw evidence (never generate final AI analyses or overwrite reports)
+        if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.collect) || hashFiles('data/state.json') == ''
         env:
           BATCH_SIZE: ${{ inputs.batch_size || '36' }}
-          # Public Railway endpoint for the optional WeRSS sidecar.
-          # WeChat sources still require feed_id + enabled=true in config/wechat_sources.csv.
-          WERSS_BASE_URL: https://werss-production-d388.up.railway.app/
+          MAX_ARTICLES_PER_SOURCE: '3'
+          WERSS_BASE_URL: ${{ secrets.WERSS_BASE_URL || vars.WERSS_BASE_URL || 'https://werss-production-d388.up.railway.app/' }}
         run: npm run crawl
-
-      - name: Commit refreshed database
+      - name: Validate ChatGPT inbox and export frontend views
+        run: node scripts/pipeline.mjs
+      - name: Commit generated database without touching ChatGPT inbox
         run: |
+          set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add client/public/data
+          git add data client/public/data
           if ! git diff --cached --quiet; then
-            git commit -m "data: refresh AI4S intelligence [skip ci]"
-            git push
+            git commit -m "data: publish validated intelligence [skip ci]"
           fi
-
-      - name: Build frontend
-        run: npm run build
-
+          pushed=0
+          for attempt in 1 2 3; do
+            if git pull --rebase origin main && git push origin HEAD:main; then
+              pushed=1
+              break
+            fi
+            if test -d .git/rebase-merge -o -d .git/rebase-apply; then
+              echo 'Concurrent changes conflict; refusing to overwrite.' >&2
+              exit 1
+            fi
+            sleep 3
+          done
+          test "$pushed" = 1
+      - name: Export current checkout for deployment
+        run: node scripts/pipeline.mjs && npm run build
+      - name: Check Pages without blocking persistence when not enabled
+        id: pages
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if kind=$(gh api "repos/$GITHUB_REPOSITORY/pages" --jq '.build_type' 2>/dev/null) && [ "$kind" = workflow ]; then
+            echo 'enabled=true' >> "$GITHUB_OUTPUT"
+          else
+            echo 'enabled=false' >> "$GITHUB_OUTPUT"
+            echo '::warning::Database committed. Pages is not enabled with the GitHub Actions publishing source, or its settings could not be read.'
+          fi
       - name: Configure Pages
+        if: steps.pages.outputs.enabled == 'true'
         uses: actions/configure-pages@v5
         with:
           enablement: true
-
       - name: Upload Pages artifact
+        if: steps.pages.outputs.enabled == 'true'
         uses: actions/upload-pages-artifact@v4
         with:
           path: dist/client
 
   deploy:
-    if: github.actor != 'github-actions[bot]'
+    if: needs.build.outputs.pages_enabled == 'true'
+    needs: build
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-    needs: build
+    timeout-minutes: 10
+    permissions:
+      pages: write
+      id-token: write
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
