@@ -1,6 +1,7 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import process from 'node:process';
+import { fileURLToPath } from 'node:url';
 
 function parseCsvLine(line) {
   const fields = [];
@@ -42,13 +43,13 @@ function requiredEnv(name) {
   return value;
 }
 
-function normalizeAi4sBaseUrl(value) {
+function normalizeBaseUrl(value) {
   const parsed = new URL(value);
-  const href = parsed.href.endsWith('/') ? parsed.href : `${parsed.href}/`;
-  return href;
+  return parsed.href.endsWith('/') ? parsed.href : `${parsed.href}/`;
 }
 
-const repoRoot = path.resolve(new URL('..', import.meta.url).pathname, '..');
+const scriptDir = path.dirname(fileURLToPath(import.meta.url));
+const repoRoot = path.dirname(scriptDir);
 const configPath = process.env.WECHAT_SOURCES_FILE
   ? path.resolve(process.env.WECHAT_SOURCES_FILE)
   : path.join(repoRoot, 'config', 'wechat_sources.csv');
@@ -69,7 +70,10 @@ const payload = {
   })),
 };
 
-const endpoint = new URL('api/ai4s/sources/wechat-rss/sync', normalizeAi4sBaseUrl(requiredEnv('AI4S_BASE_URL')));
+const endpoint = new URL(
+  'api/ai4s/sources/wechat-rss/sync',
+  normalizeBaseUrl(requiredEnv('AI4S_BASE_URL')),
+);
 const response = await fetch(endpoint, {
   method: 'POST',
   headers: { 'content-type': 'application/json' },
