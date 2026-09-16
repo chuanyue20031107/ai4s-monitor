@@ -1,0 +1,60 @@
+source_key,account_name,entity_name,group_name,priority,feed_id,enabled
+wx_2b8939917b6ad8fd,DeepSeek,DeepSeek,国内模型与科研软件,S,,false
+wx_92753a2f51112752,Kimi智能助手,月之暗面 Moonshot AI,国内模型与科研软件,S,,false
+wx_90fd8f044d3a99f4,智谱,智谱,国内模型与科研软件,S,,false
+wx_ab0cfed5d0bdf996,百度AI,百度,国内模型与科研软件,S,,false
+wx_44d4edf2681694d1,飞桨PaddlePaddle,百度,国内模型与科研软件,S,,false
+wx_20ef379bd7bc8a18,阿里云,阿里云,国内模型与科研软件,S,,false
+wx_1742ce2276b83733,魔搭ModelScope,阿里云,国内模型与科研软件,S,,false
+wx_c1c6f8f3a8fdc874,华为云,华为云,国内模型与科研软件,S,,false
+wx_b68098bb1672953b,腾讯混元,腾讯,国内模型与科研软件,A,,false
+wx_87ea1c8f6e61ee61,腾讯AI Lab,腾讯,国内模型与科研软件,A,,false
+wx_45549b51e2588793,火山引擎,字节跳动/火山引擎,国内模型与科研软件,A,,false
+wx_30097c7e02c68043,豆包大模型团队,字节跳动/火山引擎,国内模型与科研软件,A,,false
+wx_2cced23e469aaaa8,科大讯飞,科大讯飞,国内模型与科研软件,A,,false
+wx_2fe67d4c3e1719eb,讯飞星火,科大讯飞,国内模型与科研软件,A,,false
+wx_8e7489bc800fdea6,MiniMax稀宇科技,MiniMax,国内模型与科研软件,A,,false
+wx_8db085b6de4b6d86,阶跃星辰,阶跃星辰,国内模型与科研软件,A,,false
+wx_47ce5eabe1f2a368,百川智能,百川智能,国内模型与科研软件,A,,false
+wx_d8265e58ff7ef3da,零一万物01AI,零一万物,国内模型与科研软件,B,,false
+wx_74dd3948e0c53e62,镁伽科技,镁伽科技 MegaRobo,实验自动化与仪器,S,,false
+wx_affb35c646adcf84,奔曜科技,奔曜科技 Bioyond,实验自动化与仪器,S,,false
+wx_9ad279fc16b75fd9,汇像科技,汇像科技 XImaging,实验自动化与仪器,S,,false
+wx_c30736ee3ca0ae14,华大智造MGI,华大智造 MGI,实验自动化与仪器,S,,false
+wx_87541c7e186473b7,晶泰科技XtalPi,晶泰科技 XtalPi,实验自动化与仪器,S,,false
+wx_e9a3e91dab611f9c,创材深造,创材深造 Deep Material,实验自动化与仪器,S,,false
+wx_efbca05a6a19b371,深势科技,深势科技实验自动化；宜宾市新能源新材料数智创新中心（深势科技宜宾）,实验自动化与仪器；自主实验室与平台,S,,false
+wx_f8afd0b0642d5064,睿科集团,睿科集团 RayKol,实验自动化与仪器,A,,false
+wx_8062fea25e301ccb,聚光科技,聚光科技 FPI,实验自动化与仪器,A,,false
+wx_6d16e362d0f56544,禾信仪器,禾信仪器 Hexin,实验自动化与仪器,A,,false
+wx_094c2e436384c54f,汉邦科技,汉邦科技 Hanbon,实验自动化与仪器,A,,false
+wx_000481cd48513aaa,赛桥生物,赛桥生物,实验自动化与仪器,A,,false
+wx_e5b33a18f41fc5ae,宜宾发布,宜宾市新能源新材料数智创新中心（深势科技宜宾）,自主实验室与平台,S,,false
+wx_6621c3836b074a21,恒瑞医药,恒瑞医药,下游客户与应用方,S,,false
+wx_05065bf7e080b0a0,百济神州,百济神州,下游客户与应用方,S,,false
+wx_eb555690c4f81fa2,药明康德,药明康德,下游客户与应用方,S,,false
+wx_a68bac5e2ad71e2f,东阳光,东阳光,下游客户与应用方,S,,false
+wx_3c85c68653148686,宁德时代,宁德时代,下游客户与应用方,S,,false
+wx_ff594893ceadef2b,比亚迪,比亚迪,下游客户与应用方,S,,false
+wx_8da45e07dc34b17d,万华化学,万华化学,下游客户与应用方,S,,false
+wx_dac6412ce6e868e1,石药集团,石药集团,下游客户与应用方,A,,false
+wx_710b9cdd2cf84153,国轩高科,国轩高科,下游客户与应用方,A,,false
+wx_893b5ef9b609183c,亿纬锂能,亿纬锂能,下游客户与应用方,A,,false
+wx_2baf45ac9011bfd2,中国化学会,科学智能大会（AI for Science Conference）；中国化学会学术年会,国内学会与学术活动,S,,false
+wx_cf464c4e099cdfcc,北京科学智能研究院,科学智能大会（AI for Science Conference）,国内学会与学术活动,S,,false
+wx_530982cfb3107359,世界人工智能大会,世界人工智能大会 WAIC,国内学会与学术活动,S,,false
+wx_8ee8d2165c9d086a,中国材料研究学会,中国材料大会,国内学会与学术活动,S,,false
+wx_59fe809eb50353bd,中国人工智能学会,中国人工智能大会 CCAI,国内学会与学术活动,S,,false
+wx_7bf02436e4fa2c79,中国自动化学会,中国自动化大会 CAC,国内学会与学术活动,S,,false
+wx_c16943cd7d1f7196,中国化工学会,中国化工学会能源、材料与化工学术会议,国内学会与学术活动,S,,false
+wx_98db513902ed2753,清华大学基础分子科学中心,AIM-S&C人工智能分子合成与催化研讨会,国内学会与学术活动,S,,false
+wx_1a93fd350feceace,BCEIA,北京分析测试学术报告会暨展览会 BCEIA,国内学会与学术活动,S,,false
+wx_a8c680bb071f4c06,慕尼黑上海分析生化展,慕尼黑上海分析生化展 analytica China,国内学会与学术活动,S,,false
+wx_b203e45b1aa727be,中国生物工程学会,全国合成生物学大会,国内学会与学术活动,S,,false
+wx_f76a5c0bfc6a2cd4,中国药学会,全国药物化学学术会议；中国药学大会,国内学会与学术活动,S,,false
+wx_e28140568ecb43b9,中国计算机学会,中国计算机大会 CNCC,国内学会与学术活动,A,,false
+wx_30ff0ade02e98df5,CACLP体外诊断资讯,CACLP中国国际检验医学暨输血仪器试剂博览会,国内学会与学术活动,A,,false
+wx_b01d11aeff32d0da,CPHI制药在线,CPHI China,国内学会与学术活动,A,,false
+wx_1d2c9eb2235b3385,BIONNOVA,BIONNOVA生物医药创新者论坛,国内学会与学术活动,A,,false
+wx_832ea027b14f300c,浦江创新论坛,浦江创新论坛,国内学会与学术活动,A,,false
+wx_44f269fffb8ed0a7,中关村论坛,中关村论坛,国内学会与学术活动,A,,false
