@@ -8,9 +8,12 @@
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:57:45.045Z",
   "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "contentStatus": "insufficient_content",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "cbb3d1ed94ce160525280a6ee48a97d0"
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "legacyId": "cbb3d1ed94ce160525280a6ee48a97d0",
+  "lastFetchAt": "2026-09-16T17:07:21.692Z",
+  "contentTruncated": false,
+  "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成"
 }

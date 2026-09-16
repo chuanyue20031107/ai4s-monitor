@@ -7,10 +7,13 @@
   "sourceType": "自主实验室与平台",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:57:36.582Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "近日，苏州实验室王欣然、丁峰团队通过稀土元素对蓝宝石衬底的 “ 点石成晶 ” 技术，在国际上率先突破了 6 英寸二维过渡金属硫族化合物半导体（以下简称二维半导体）单晶量产化制备技术。相关工作以 “Robust epitaxy of single-crystal transition-metal dichalcogenides on lanthanum-passivated sapphire” （镧钝化蓝宝石衬底上单晶过渡金属硫族化合物的稳健外延）为题，于 2025 年 10 月 2 3 日在线发表在《科学》期刊。 团队首创稀土元素表面修饰技术，在蓝宝石表面构建镧单原子层，打破表面对称性，从根本上解决了二维半导体单晶规模化制备的难题。基于量产化的金属有机化学气相沉积（ MOCVD ）技术和镧表面修饰的蓝宝石衬底，团队一举实现了 6 英寸二硫化钼（ MoS 2 ）、二硫化钨（ WS 2 ）、二硒化钨（ WSe 2 ）和二硒化钼（ MoSe 2 ）等二维半导体单晶的普适制备。多种光谱和电学表征技术证实了优异的材料质量和均一性， MoS 2 和 WSe 2 的平均迁移率分别高达 110 cm 2 ·V -1 ·s -1 和 131 cm 2 ·V -1 ·s -1 。单晶尺寸、器件性能同步刷新记录，实现大尺寸与高质量兼得。该成果标志着二维半导体产业化迈出关键一步，为集成电路、显示、传感等领域的规模化应用奠定了材料基础。 论文链接 : https://www.science.org/doi/10.1126/science.aea0849",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "f45ce6e99c981514ac5c20a6f5b4e2f9"
+  "contentHash": "3b40fa9d48650155ecc04b498ab78595783ee4f194e2c81f202dd2cbaf6eb781",
+  "legacyId": "f45ce6e99c981514ac5c20a6f5b4e2f9",
+  "lastFetchAt": "2026-09-16T17:07:06.120Z",
+  "contentTruncated": false,
+  "contentError": ""
 }

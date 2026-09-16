@@ -7,10 +7,13 @@
   "sourceType": "研发型企业",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:57:42.191Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "近日，第十三届“中华慈善奖”表彰大会在北京人民大会堂召开。宁德时代凭借在公益慈善领域的突出贡献，荣获我国公益慈善领域 最高政府奖“中华慈善奖”捐赠企业奖 ，成为 锂电行业唯一获奖企业 。 宁德时代积极践行企业社会责任，通过设立专项基金、资金捐赠及共建合作等方式，持续投入教育助学、社区发展、应急救灾与环境保护等公益事业。在第十三届评选统计周期(2022年至2024年)内， 宁德时代累计捐赠总额超过5亿元 。 教育助学 ：三年间累计投入教育公益3.49亿元，并通过助学项目，资助超2000名困难学子并建成172间希望小屋。 乡村振兴 ：深入对口帮扶地区，通过产业扶持、基础设施改造等项目，助力当地打造零碳示范村。三年间在经济欠发达地区定向招聘5695人，推动当地农户增收与稳定就业。 社会公益 ：设立“宁德时代宁德慈善基金”和“宁德时代蕉城慈善基金”，累计捐赠1亿元并带动社会募捐，统筹支持地方公共福祉。 Copyright © 2020-2023 Contemporary Amperex Technology Co., Limited. All Rights Reserved. 闽ICP备14008486号-3 闽公网安备 35090202000349号",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "4bccf17a402bf0d4e10caaaabb1b1ed4"
+  "contentHash": "b82751b8385a823a84163c2f1235f744991c5744b2438c0769938cd6602037cf",
+  "legacyId": "4bccf17a402bf0d4e10caaaabb1b1ed4",
+  "lastFetchAt": "2026-09-16T17:07:17.084Z",
+  "contentTruncated": false,
+  "contentError": ""
 }

@@ -7,10 +7,13 @@
   "sourceType": "自主实验室与平台",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:57:39.149Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "染色质在细胞核中折叠形成的多尺度三维结构。这种多层级结构是基因表达调控的一个重要层面，在许多发生在DNA上的生物学过程中发挥重要功能。同时，染色质三维结构的异常会导致发育异常、癌症发生，并且和其他多种疾病的发生密切相关。单细胞三维基因组学技术的发展，尤其是基于测序的单细胞Hi-C技术，使得我们能够在单细胞分辨率下研究染色质空间折叠的异质性和细胞类型的特异性。但是现有scHi-C技术普遍面临细胞通量限制。尽管基于组合索引（combinatorial indexing） 策略的高通量方法已见报道，但其仍存在三大技术壁垒：1）实验流程复杂耗时；2）依赖定制化试剂；3）数据稀疏性显著，平均每个细胞仅能 肿瘤微环境对结直肠癌的进展和病人对免疫治疗的响应有着至关重要的影响。基于基因组和bulk层面转录组的分子分型揭示了结直肠癌病人间的高度异质性[1,2]。一些研究试图将这些分子分型与肿瘤微环境特征相联系，发现肿瘤微环境在同一个组内的病人中仍然具有较大的差异[3,4]，表明现有的针对结直肠癌的分子分型并不能很好的反映肿瘤微环境的个体间异质性。此外，整合多个数据集带来的大样本量优势，能够有助于鉴定稀有的细胞类型及其在肿瘤微环境中的重要作用。2024年8月15日，昌平实验室、北京大学生物医学前沿创新中心（BIOPIC）张泽民团队在Nature Cancer发表了题为&ldquo;Integrative singl 2024年5月，DeepPrep中针对个体脑皮层配准的核心技术SUGAR的相关研究发表于医学影像顶级期刊Medical Image Analysis（影响因子10.9），题为 &ldquo; SUGAR: Spherical ultrafast graph attention framework for cortical surface registration&rdquo;。 昌平实验室/北京大学刘志博团队致力于开发放疗特异性响应的保护基团，并应用于化疗药物的前药设计中，以实现放疗介导的化疗药物在肿瘤部位的精准、可控释放，解决临床上放化疗联合治疗中效果差、毒副作用大的问题。2024年4月1日，团队在Nature Chemistry（影响因子21.8）上发表文章&ldquo;Radiotherapy activates picolinium prodrugs in tumours&rdquo;。 氨基酸作为构成蛋白质的基本单位，对于蛋白质的结构和功能至关重要，而其变化也与多种疾病的发生发展密切相关。尽管目前利用碱基编辑等技术1,2可以在基因组中实现碱基替换进而改变密码子，产生内源氨基酸的突变，但在全蛋白质组范围内对特定氨基酸残基进行系统性的功能分析仍然面临挑战。2023年11月22日，北京大学魏文胜团队在Molecular Cell杂志在线发表了题为&ldquo;Unbiased interrogation of functional lysine residues in human proteome&rdquo;的研究论文。该研究采用腺嘌呤碱基编辑工具，建立了一种在全蛋白质组范围内筛选功能性氨基酸位点的策略 2023年11月22日，昌平实验室/北京大学曹云龙课题组在《Nature》杂志上发表了题为&ldquo;Repeated Omicron exposures override ancestral SARS-CoV-2 immune imprinting&rdquo;的研究论文 2023年5月15日，昌平实验室、北京师范大学王晓群课题组、吴倩课题组，首都医科大学附属北京天坛医院王拥军课题组，与伦敦国王学院Oscar Marin课题组合作，在Cell Stem Cell杂志上发表了题为&ldquo;The single-cell and spatial transcriptional landscape of human gastrulation and early brain development&rdquo;的文章。 2023年4月13日，昌平实验室、北京大学生物医学前沿创新中心（BIOPIC）张泽民教授受邀于Cell杂志发表了题为&ldquo;Accelerating the understanding of cancer biology through the lens of genomics&rdquo;的综述文章。 2023年4月11日，昌平实验室、北京大学生命科学学院、高宁团队在Cell期刊在线发表了题为&ldquo;Structural basis of membrane skeleton organization in red blood cells&rdquo;的研究论文。 2023年3月23日，肖俊宇研究组在Nature期刊在线发表了题为&ldquo;Immunoglobulin M Perception by Fc&mu;R&rdquo;的研究成果，揭示了Fc&mu;R识别不同形式IgM的分子机制。",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "b2bebe97a5006f2dd1441e31f0c3d7db"
+  "contentHash": "a8e56f5885e729467ef36eaf953275f0fbe3f3a9b527d4762b4270a0c00c6a0f",
+  "legacyId": "b2bebe97a5006f2dd1441e31f0c3d7db",
+  "lastFetchAt": "2026-09-16T17:07:08.424Z",
+  "contentTruncated": false,
+  "contentError": ""
 }

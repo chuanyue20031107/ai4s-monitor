@@ -7,10 +7,13 @@
   "sourceType": "科学数据库与平台",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:57:49.917Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Please enable Javascript in order to use PubChem website. Please use a modern browser, such as Chrome , Firefox , or Edge to access PubChem website.",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "b3e7d37a29c683c0e879f3206e622898"
+  "contentHash": "36749994e57ca3c3f217982bfb8e07e466922a5ca7fcb5ca1a24f32f0c42375d",
+  "legacyId": "b3e7d37a29c683c0e879f3206e622898",
+  "lastFetchAt": "2026-09-16T17:07:26.852Z",
+  "contentTruncated": false,
+  "contentError": ""
 }

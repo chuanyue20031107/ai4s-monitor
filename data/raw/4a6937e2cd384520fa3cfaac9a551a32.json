@@ -7,10 +7,13 @@
   "sourceType": "自主实验室与平台",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:05:30.861Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "新闻 --> 2024年11月01日 诺奖得主“大学论坛”暨超高分辨率成像研讨会在港科大（广州）圆满落幕 11月1日，诺奖得主“大学论坛”暨超高分辨率成像研讨会在香港科技大学（广州）［下称“港科大（广州）”］成功举办。本... 展开 --> 2023年12月15日 BioCRF(GZ)流式细胞仪成功装机! 12月15日下午，港科大（广州）生物科学中央实验室BD流式细胞仪成功装机。生物科学中央实验室主任、生命科学与生物... 展开 --> 2023年5月25日 EEG/ERP系统使用演示会 2023年5月25日，生物科学中央实验室与深圳瀚翔脑科学技术股份有限公司合作，举办了脑电图（EEG）和事件相关电位（E... 展开 --> 2023年4月19日 第一次线下演示会：3D生物打印机BIO X™ 2023年4月19日上午9点，香港科技大学（广州）生物科学中央实验室BioCRF(GZ)首次举办线下展示活动，特别邀请了上海... 展开 --> 2023年4月18日 瑞典KTH皇家理工学院代表团访问生物科学中央实验室BioCRF(GZ) 2023年4月18日，瑞典KTH皇家理工学院的4名教授代表团参观了香港科技大学（广州）生物科学中央实验室BioCRF(GZ)。Bi... 展开 -->",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "4a6937e2cd384520fa3cfaac9a551a32"
+  "contentHash": "9c0f901211278daf978fee355566611d9b674a8f3003d3c9564d15845630741b",
+  "legacyId": "4a6937e2cd384520fa3cfaac9a551a32",
+  "lastFetchAt": "2026-09-16T17:07:03.461Z",
+  "contentTruncated": false,
+  "contentError": ""
 }

@@ -7,10 +7,13 @@
   "sourceType": "研发型企业",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:57:44.397Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "万华化学集团股份有限公司是一家全球化运营的化工新材料公司，依托不断创新的核心技术、 产业化装置及高效的运营模式，为客户提供更具竞争力的产品及解决方案。",
+  "contentStatus": "insufficient_content",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "c9d7e2a065cd3497347606e2a8b51010"
+  "contentHash": "4e97393bc950c162afaf43472e80ed81f843ecd02861fc6945e3074e3b796aa3",
+  "legacyId": "c9d7e2a065cd3497347606e2a8b51010",
+  "lastFetchAt": "2026-09-16T17:07:20.507Z",
+  "contentTruncated": false,
+  "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成"
 }

@@ -7,10 +7,13 @@
   "sourceType": "研发型企业",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:57:42.191Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "近日，宁德时代与西安泰金新能科技股份有限公司、深圳惠科新材料股份有限公司等企业正式签署战略合作协议。各方围绕 铜箔装备集采、产能共建、成本定价、联合研发及绿电共用 等核心环节，建立起深层次的长期战略合作关系。 在装备端，宁德时代与泰金新能建立统一统筹、统一标准、统一集中采购管理机制。泰金新能为新扩建项目提供标准化、规模化集中交付，推动装备端系统性降本与技术迭代升级。 在供应端，宁德时代将与深圳惠科等2家合作方 在未来3年共同新建40万吨产能 。各方遵循“成本加成、合理利润、风险共担”的全新定价原则，确立新建产能长期供货量与合理加工费锁定机制。宁德时代通过预付款与账期优化给予资金赋能。 此次战略签约，宣告了锂电铜箔行业从传统买卖采购向共建共治新模式的转变。宁德时代通过打破传统定价与产能合作边界，正加速构建自主可控、互利共赢的产业链新生态。 Copyright © 2020-2023 Contemporary Amperex Technology Co., Limited. All Rights Reserved. 闽ICP备14008486号-3 闽公网安备 35090202000349号",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "f7bb9cbf5836e2cb7379c316baab3e02"
+  "contentHash": "bda5be268473f73e4e9f1f8da5f9f43cd45e4374dd1a4055d7eeb7bf1060d368",
+  "legacyId": "f7bb9cbf5836e2cb7379c316baab3e02",
+  "lastFetchAt": "2026-09-16T17:07:18.067Z",
+  "contentTruncated": false,
+  "contentError": ""
 }

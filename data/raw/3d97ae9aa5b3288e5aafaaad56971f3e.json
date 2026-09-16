@@ -7,10 +7,13 @@
   "sourceType": "自主实验室与平台",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:57:39.149Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "王皞鹏，昌平实验室领衔科学家，毕业于南京大学匡亚明学院，2009年在St. Jude儿童医院肿瘤免疫学家Dario Vignali实验室获博士学位，之后在UCSF美国科学院院士Arthur Weiss（CAR-T发明者之一）实验室从事博士后研究。 这是昌平实验室的第一篇背对背他们携手研发了极具转化前景的放射响应免疫小分子前药而这背后的故事更加生动、感人 。 叶丽林，昌平实验室领衔科学家，他在马里兰大学获得免疫学博士，随后在艾默里大学医学院疫苗中心完成博士后研究。在T细胞介导的抗病毒及抗肿瘤免疫应答研究中，他发现耗竭前体T细胞（Progenitor of exhausted T cell, TPEX）以及引流淋巴结内的肿瘤特异性记忆T细胞（tumor-specific memory CD8+ T cells, TTSM0)。",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "3d97ae9aa5b3288e5aafaaad56971f3e"
+  "contentHash": "c30a2dd40cf073e0e43a96ee3451c5264977322f75c594980491960158e1224b",
+  "legacyId": "3d97ae9aa5b3288e5aafaaad56971f3e",
+  "lastFetchAt": "2026-09-16T17:07:08.940Z",
+  "contentTruncated": false,
+  "contentError": ""
 }

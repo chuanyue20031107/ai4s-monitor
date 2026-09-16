@@ -7,10 +7,13 @@
   "sourceType": "科学数据库与平台",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:57:50.143Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "October 2011 Molecule of the Month features historic structures that set the foundation for the PDB archive. The PDB was established in 1971 at Brookhaven National Laboratory under the leadership of Walter Hamilton and originally contained 7 structures. After Hamilton's untimely death, Tom Koetzle began to lead the PDB in 1973, and then Joel Sussman in 1994. Led by Helen M. Berman , the Research Collaboratory for Structural Bioinformatics (RCSB) became responsible for the management of the PDB in 1998 in response to an RFP and a lengthy review process. Three institutions were involved: Rutgers, UCSD/SDSC, and CARB/NIST. In 2003, the Worldwide Protein Data Bank ( wwPDB ) was formed to maintain a single PDB archive of macromolecular structural data that is freely and publicly available to the global community. It consists of organizations that act as deposition, data processing and distribution centers for PDB data. CARB/NIST left RCSB PDB in 2005 (see Emeritus RCSB PDB Leadership ). Stephen K. Burley became RCSB PDB Director in 2014 . Helen M. Berman currently serves as Director Emerita. In 2021, RCSB PDB and the wwPDB celebrated the 50th Anniversary of the PDB with symposia, materials, and more. Updated from The Protein Data Bank at 40: Reflecting on the Past to Prepare for the Future (2012) Structure 20: 391–396 . printable PDF )--> Events order Recent to oldest Oldest to recent Celebrating 50 Years of the Protein Data Bank Archive --> Structural biology methods and milestones that helped to build and grow the PDB archive The history of the beginning of the PDB and the development of other biological data collections is outlined in the book Collecting experiments: Making big data biology (Strasser, Bruno J. Chicago, IL: University of Chicago Press, 2019). For a review, see Helliwell, J. R. (2022). J. Appl. Cryst. 55. RCSB PDB Core Operations are funded by the U.S. National Science Foundation (DBI-2321666), the US Department of Energy (DE-SC0019749), and the National Cancer Institute , National Institute of Allergy and Infectious Diseases , and National Institute of General Medical Sciences of the National Institutes of Health under grant R01GM157729. RCSB PDB uses resources of the National Energy Research Scientific Computing Center ( NERSC ), a Department of Energy User Facility.",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "6d608abcabeceab0c2d8268b857ff794"
+  "contentHash": "62a043d8fb78aeed9e33d591ccc48b33b463ee68330169b2b06ff4b1b5318570",
+  "legacyId": "6d608abcabeceab0c2d8268b857ff794",
+  "lastFetchAt": "2026-09-16T17:07:27.836Z",
+  "contentTruncated": false,
+  "contentError": ""
 }

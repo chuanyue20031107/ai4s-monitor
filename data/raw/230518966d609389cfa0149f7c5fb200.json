@@ -7,10 +7,13 @@
   "sourceType": "科学数据库与平台",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:57:47.113Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "采用异构混合专家架构，通过专业科学知识和数据进行训练，实现了对波、谱、场等多种科学模态数据的深入理解 磐石提供多模态科学数据专业理解、科学文献萃取融合、科学知识表征推理和科学工具编排规划等核心能力 即可直接赋能科研工作者开展跨学科攻关创新，也可作为底座平台支撑各学科领域和场景应用的专业模型研发 提供 工具+智能体 一站式服务，实现工具链自主闭环、智能体快速生成/批量编排/自主调度，支持科研任务的灵活编排与全流程自动执行",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "230518966d609389cfa0149f7c5fb200"
+  "contentHash": "79065d080c9bef83858350abe15d91e5a8b7526e15e36d15a05ec429aa7cdff4",
+  "legacyId": "230518966d609389cfa0149f7c5fb200",
+  "lastFetchAt": "2026-09-16T17:07:23.531Z",
+  "contentTruncated": false,
+  "contentError": ""
 }

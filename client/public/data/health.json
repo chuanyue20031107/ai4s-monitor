@@ -1,22 +1,13 @@
 {
   "stats": {
-    "runId": "source-command:acceptance-source-health-20260917-7bca6b8c",
-    "status": "success",
+    "runId": "b2294290-5238-4853-8101-51c7e9e97c06",
+    "status": "failed",
     "running": false,
     "total": 184,
-    "ok": 97,
-    "noContent": 25,
-    "failed": 62,
-    "failureByType": [
-      {
-        "type": "network_error",
-        "count": 61
-      },
-      {
-        "type": "timeout",
-        "count": 1
-      }
-    ],
-    "lastCheckAt": "2026-09-16T17:03:18.335Z"
+    "ok": 89,
+    "noContent": 34,
+    "failed": 61,
+    "failureByType": [],
+    "lastCheckAt": "2026-09-16T17:07:36.414Z"
   }
 }

@@ -1,10 +1,76 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-16T17:03:18.378Z",
-  "pendingCount": 628,
-  "readyCount": 114,
-  "awaitingContentCount": 514,
+  "updatedAt": "2026-09-16T17:07:36.506Z",
+  "pendingCount": 635,
+  "readyCount": 148,
+  "awaitingContentCount": 487,
   "items": [
+    {
+      "id": "64ac2200d17f6d1b78a874d8ea7d22aa",
+      "title": "科研进展丨热-力耦合诱导相变实现轻质难熔多组元合金高温应变硬化",
+      "url": "https://www.sslab.org.cn/news/researchdetail?id=2608071651034860217FF4278",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T17:07:10.551Z",
+      "contentStatus": "ready",
+      "contentHash": "8397b009e514f8269a97395ac0cc539db11dfccc41f8ca0b1d8f93840c78cc94",
+      "rawPath": "data/raw/64ac2200d17f6d1b78a874d8ea7d22aa.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "3b306cf69b9b931d55729eff146c4763",
+      "title": "科研进展丨纳米线复合电极加速传质，实现安培级CO2电还原制多碳产物",
+      "url": "https://www.sslab.org.cn/news/researchdetail?id=2608261215454055208ABA60E",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T17:07:09.580Z",
+      "contentStatus": "ready",
+      "contentHash": "a86ffc3bd8d9a966e24775ceab3ae0db3fff801485123176c86b065a030d153d",
+      "rawPath": "data/raw/3b306cf69b9b931d55729eff146c4763.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "fc211d921c42ad7ec0a49fe2321efc44",
+      "title": "深圳湾实验室获光明科学城建设卓越贡献奖 会上，参会领导为获得光明科学城建设卓越贡献奖的10家先进集体、30位先进个人进行颁奖。深圳湾实验室获先进集体，实验室特聘研究员张雷获先进个人。 2023 . 10 . 19 科研进展 阅读全文",
+      "url": "https://www.szbl.ac.cn/info/2011/10340.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T17:07:09.562Z",
+      "contentStatus": "ready",
+      "contentHash": "7e6a3ae1b9b9f24ce296d2c5a9b8cf1df1be54267fe2b1886181bf009893aac2",
+      "rawPath": "data/raw/fc211d921c42ad7ec0a49fe2321efc44.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "1b68e6c923fade6f6a64c1f39a6819ed",
+      "title": "昌平实验室任建勋入选亚太区TR35 9月14日，《麻省理工科技评论》2026 年度 &ldquo;35 岁以下科技创新 35 人&rdquo;亚太区入选名单正式发布。其中昌平实验室研究员/科学家任建勋因精准帕金森脑刺激治疗入选。",
+      "url": "https://www.cpl.ac.cn/news/4028c1f1a0a6b16d01a0a991287f0014.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T17:07:09.481Z",
+      "contentStatus": "ready",
+      "contentHash": "d16c1b5f53e2d45a8cabe41f7284b628a5cff5ca5a1e1bed8cbc8fd26d254e9e",
+      "rawPath": "data/raw/1b68e6c923fade6f6a64c1f39a6819ed.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "5e9d3b238f586dc0db0abdd924ca6f07",
+      "title": "了 解 更 多",
+      "url": "https://www.shlab.org.cn/info",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T17:07:09.322Z",
+      "contentStatus": "ready",
+      "contentHash": "fe773a71adbfd31b4697d196ef9bb7d07029f5f15ceca7d3b72a7c211e018ec7",
+      "rawPath": "data/raw/5e9d3b238f586dc0db0abdd924ca6f07.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "e9cbbe3521e35a8615c289891c6e97bc",
+      "title": "深圳湾实验室获光明科学城建设卓越贡献奖 会上，参会领导为获得光明科学城建设卓越贡献奖的10家先进集体、30位先进个人进行颁奖。深圳湾实验室获先进集体，实验室特聘研究员张雷获先进个人。 2023 . 10 . 19 科研进展 阅读全文",
+      "url": "https://www.szbl.ac.cn/info/2010/10483.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T17:07:08.592Z",
+      "contentStatus": "ready",
+      "contentHash": "4bbc57b9cd359f0c09617a3e1e360280e489bcf13a9cd057e377c0d535b405c5",
+      "rawPath": "data/raw/e9cbbe3521e35a8615c289891c6e97bc.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "3856767606292e936060ba664ae12573",
       "title": "我校2026级新生心理健康普查工作顺利完成",
@@ -919,6 +985,259 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "07882c0550660c2b59d0d42b67a14469",
+      "title": "Publications",
+      "url": "https://www.rcsb.org/pages/publications",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T06:57:50.143Z",
+      "contentStatus": "ready",
+      "contentHash": "1935fbc1ea3579768957a535fb79a55ef095cb59f373a0e1f7fe872b519f3430",
+      "rawPath": "data/raw/07882c0550660c2b59d0d42b67a14469.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "6d608abcabeceab0c2d8268b857ff794",
+      "title": "PDB History",
+      "url": "https://www.rcsb.org/pages/about-us/history",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T06:57:50.143Z",
+      "contentStatus": "ready",
+      "contentHash": "62a043d8fb78aeed9e33d591ccc48b33b463ee68330169b2b06ff4b1b5318570",
+      "rawPath": "data/raw/6d608abcabeceab0c2d8268b857ff794.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "d225ede07bcc5de8a76e6174231790b2",
+      "title": "Educational Resources",
+      "url": "https://pdb101.rcsb.org/learn/paper-models",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T06:57:50.143Z",
+      "contentStatus": "ready",
+      "contentHash": "359d306b54b28c7fa3140a8ef8c125f3abb08a3a67a5962d6f5de026ca6aa6f7",
+      "rawPath": "data/raw/d225ede07bcc5de8a76e6174231790b2.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "b3e7d37a29c683c0e879f3206e622898",
+      "title": "PubChem",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T06:57:49.917Z",
+      "contentStatus": "ready",
+      "contentHash": "36749994e57ca3c3f217982bfb8e07e466922a5ca7fcb5ca1a24f32f0c42375d",
+      "rawPath": "data/raw/b3e7d37a29c683c0e879f3206e622898.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "230518966d609389cfa0149f7c5fb200",
+      "title": "磐石(ScienceOne) - AI for Science 科研智能平台",
+      "url": "https://www.scienceone.cn/index-zh.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T06:57:47.113Z",
+      "contentStatus": "ready",
+      "contentHash": "79065d080c9bef83858350abe15d91e5a8b7526e15e36d15a05ec429aa7cdff4",
+      "rawPath": "data/raw/230518966d609389cfa0149f7c5fb200.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "7bcde9ae8b2a8433b7e00afc372019a6",
+      "title": "药明康德连续四年入选富时罗素社会责任指数系列 上海，2026年7月22日 – 药明康德今日宣布，公司连续第四年入选“富时罗素社会责任指数系列”（FTSE4Good Index Series），这一认可体现了公司对可持续发展的坚定承诺。 阅读更多",
+      "url": "https://www.wuxiapptec.cn/news/wuxi-news/fefednqdqf6yearf0uwtswd8",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T06:57:42.620Z",
+      "contentStatus": "ready",
+      "contentHash": "6a33648471e4fc85025d7783d285b5eb2260fb0a1f4415e1500b065503f48964",
+      "rawPath": "data/raw/7bcde9ae8b2a8433b7e00afc372019a6.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "86cd2ee2b1e3c2ce58ad1affe3ecfb38",
+      "title": "药明康德入选2026道琼斯领先全球指数 上海，2026年5月18日 - 药明康德近日宣布公司入选2026道琼斯领先全球指数（Dow Jones Best-in-Class World Index，原道琼斯可持续发展世界指数），该指数基于企业长期可持续发展标准，评选出全球各行业处于领先水平的公司。这一认可充分彰显了公司在推动可持续发展和践行负责任商业实践方面的坚定承诺。 阅读更多",
+      "url": "https://www.wuxiapptec.cn/news/wuxi-news/v1bj6wuxvxdn4a55fcsnwt38",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T06:57:42.620Z",
+      "contentStatus": "ready",
+      "contentHash": "8f156230a67a0680fad2d8b1e0020324e6301b1ab2947e5fc93ba99e0e89f0ae",
+      "rawPath": "data/raw/86cd2ee2b1e3c2ce58ad1affe3ecfb38.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "94a4877a94951b19cb194e12b6716923",
+      "title": "药明康德2026年上半年业绩强劲并全面上调全年指引，得益于多个客户产品的更大成功及CRDMO模式 上海，2026年8月3日，为全球医药及生命科学行业提供全方位、一体化新药研发和生产服务的能力和技术平台公司--药明康德（股份代码：603259.SH / 2359.HK）发布2026年上半年业绩报告。得益于多个客户产品取得的更大成功以及独特的一体化CRDMO平台，公司收入、利润及现金流表现强劲，进而上调全年业绩指引。 阅读更多",
+      "url": "https://www.wuxiapptec.cn/news/wuxi-news/wuxi-apptec-crdmo-model-delivers-strong-results",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T06:57:42.620Z",
+      "contentStatus": "ready",
+      "contentHash": "715b7da0266f02328ee5b39aeb63ae95b3cdf4555cef54a82d011e5d0cfc6c20",
+      "rawPath": "data/raw/94a4877a94951b19cb194e12b6716923.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "4bccf17a402bf0d4e10caaaabb1b1ed4",
+      "title": "2026-09-08 最高政府奖！宁德时代荣获第十三届“中华慈善奖” 了解更多",
+      "url": "https://www.catl.com/news/10172.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T06:57:42.191Z",
+      "contentStatus": "ready",
+      "contentHash": "b82751b8385a823a84163c2f1235f744991c5744b2438c0769938cd6602037cf",
+      "rawPath": "data/raw/4bccf17a402bf0d4e10caaaabb1b1ed4.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "9be95790fd93a79b6dc141ff577794f1",
+      "title": "2026-09-05 「宁德品质」全球开放月启动 了解更多",
+      "url": "https://www.catl.com/news/10163.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T06:57:42.191Z",
+      "contentStatus": "ready",
+      "contentHash": "83556c33b82b8f996527c5334c5c304cc158d5126ec45b91ef1464993142c1bb",
+      "rawPath": "data/raw/9be95790fd93a79b6dc141ff577794f1.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "f7bb9cbf5836e2cb7379c316baab3e02",
+      "title": "2026-09-06 宁德时代与泰金新能、深圳惠科等企业签署战略合作协议 了解更多",
+      "url": "https://www.catl.com/news/10161.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T06:57:42.191Z",
+      "contentStatus": "ready",
+      "contentHash": "bda5be268473f73e4e9f1f8da5f9f43cd45e4374dd1a4055d7eeb7bf1060d368",
+      "rawPath": "data/raw/f7bb9cbf5836e2cb7379c316baab3e02.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "09db20d7a6465a68036a924d4ea85f26",
+      "title": "我所揭示NiO/Al 2 O 3 表面原位重构活性位点驱动甲烷部分氧化制合成气",
+      "url": "https://www.dicp.ac.cn/xwdt/ttxw/202609/t20260904_8278671.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T06:57:41.220Z",
+      "contentStatus": "ready",
+      "contentHash": "696995bcca582eba36b5b1642ca7c0c8e199866796d6314348a2b5c6c56ccb0e",
+      "rawPath": "data/raw/09db20d7a6465a68036a924d4ea85f26.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "3150a3ec1ac217d3201762588b98f86c",
+      "title": "“一种制备乙酸甲酯的方法”发明专利荣获第二十六届中国专利金奖",
+      "url": "https://www.dicp.ac.cn/xwdt/ttxw/202609/t20260901_8274843.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T06:57:41.220Z",
+      "contentStatus": "ready",
+      "contentHash": "b732bdca0b2b5b36a16649c3f94615533dfcc362e5e3b6cf3787ef08ffc3d150",
+      "rawPath": "data/raw/3150a3ec1ac217d3201762588b98f86c.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "e53e01caa56851f629fabbb664130d30",
+      "title": "我所250千瓦级海水制氢联产淡水系统实现高效稳定运行",
+      "url": "https://www.dicp.ac.cn/xwdt/ttxw/202609/t20260916_8283551.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T06:57:41.220Z",
+      "contentStatus": "ready",
+      "contentHash": "cfac09fc80c076170140ca99921c7f839096ae4bf9ad5ac2d256525d956f7566",
+      "rawPath": "data/raw/e53e01caa56851f629fabbb664130d30.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "2b275566768414f5f46e71fc7f835080",
+      "title": "了 解 更 多 科 学 研 究 成 果",
+      "url": "https://www.shlab.org.cn/research",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T06:57:40.684Z",
+      "contentStatus": "ready",
+      "contentHash": "9af1d4287e7bbddb9dfc6f2e7404d3b2c07fd88a72c19e38dfb6b30b4b1defb1",
+      "rawPath": "data/raw/2b275566768414f5f46e71fc7f835080.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "3d97ae9aa5b3288e5aafaaad56971f3e",
+      "title": "2025免疫与癌症国际论坛",
+      "url": "https://www.cpl.ac.cn/ICB2025/list.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T06:57:39.149Z",
+      "contentStatus": "ready",
+      "contentHash": "c30a2dd40cf073e0e43a96ee3451c5264977322f75c594980491960158e1224b",
+      "rawPath": "data/raw/3d97ae9aa5b3288e5aafaaad56971f3e.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "b2bebe97a5006f2dd1441e31f0c3d7db",
+      "title": "- 科研进展",
+      "url": "https://www.cpl.ac.cn/scientific_research/research_news/list.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T06:57:39.149Z",
+      "contentStatus": "ready",
+      "contentHash": "a8e56f5885e729467ef36eaf953275f0fbe3f3a9b527d4762b4270a0c00c6a0f",
+      "rawPath": "data/raw/b2bebe97a5006f2dd1441e31f0c3d7db.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "8bec3465d37660f1c0f6d87168c9bedd",
+      "title": "&#x79D1;&#x7814;&#x8FDB;&#x5C55;&#x4E28;&#x7EB3;&#x7C73;&#x5C3A;&#x5EA6;STO&#x8584;&#x819C;&#x5B9E;&#x73B0;&#x53EF;&#x7F16;&#x7A0B;&#x4E2D;&#x7EA2;&#x5916;&#x89C6;&#x89C9;&#x4F20;&#x611F;",
+      "url": "https://www.sslab.org.cn/news/researchdetail?id=260824185040108534E8A1EDA",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T06:57:38.624Z",
+      "contentStatus": "ready",
+      "contentHash": "1d2a5289ae9fa46b3c2e263b9e80939a4e162b9d7603e90c15dced1f89ec2814",
+      "rawPath": "data/raw/8bec3465d37660f1c0f6d87168c9bedd.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "0f7f725488c8af43daa4b662aa36d6b7",
+      "title": "祝贺！定量合成生物学全国重点实验室胡政研究员荣获2026年“科学探索奖”",
+      "url": "https://isynbio.siat.ac.cn/siat/isb/xwhd/zhxw/2026082611274675177/index.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T06:57:37.446Z",
+      "contentStatus": "ready",
+      "contentHash": "3420c55e28e1072df27f19aa7250c3f834b4619515dba2ddc7a51acc70701024",
+      "rawPath": "data/raw/0f7f725488c8af43daa4b662aa36d6b7.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "31fcaf8912e1e62d1556b4071bfe1a7e",
+      "title": "关于发布贵州省生物制造实验室 第四批小型应用类“揭榜挂帅”项目的通知",
+      "url": "https://isynbio.siat.ac.cn/siat/isb/xwhd/zhxw/2026091418034715135/index.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T06:57:37.446Z",
+      "contentStatus": "ready",
+      "contentHash": "06ac9836e176138d75d9b5229c9e204985b84b3b72cd09ede63ccd3f544f099b",
+      "rawPath": "data/raw/31fcaf8912e1e62d1556b4071bfe1a7e.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "99bab736598050ed968026f15424b2fd",
+      "title": "青年智慧链接全球创新 | 第五届合成生物学创新赛在深圆满落幕",
+      "url": "https://isynbio.siat.ac.cn/siat/isb/xwhd/zhxw/2026082611085799203/index.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T06:57:37.446Z",
+      "contentStatus": "ready",
+      "contentHash": "d29c828b75ae8239550a43da45677e255133fe08dbdb9215e252f5adb881a5eb",
+      "rawPath": "data/raw/99bab736598050ed968026f15424b2fd.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "0497f4e8f73bbf1947308dc06f710545",
+      "title": "苏州国家实验室诚邀海外优秀青年人才依托实验室申报国家级人才项目",
+      "url": "https://www.szlab.ac.cn/news_details/80.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T06:57:36.582Z",
+      "contentStatus": "ready",
+      "contentHash": "f59e0adf69a2c150270939d62205d604905001e7c392cf2054b552f6624a4dcf",
+      "rawPath": "data/raw/0497f4e8f73bbf1947308dc06f710545.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "f45ce6e99c981514ac5c20a6f5b4e2f9",
+      "title": "苏州实验室科研成果在《Science》发表",
+      "url": "https://www.szlab.ac.cn/news_details/76.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T06:57:36.582Z",
+      "contentStatus": "ready",
+      "contentHash": "3b40fa9d48650155ecc04b498ab78595783ee4f194e2c81f202dd2cbaf6eb781",
+      "rawPath": "data/raw/f45ce6e99c981514ac5c20a6f5b4e2f9.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "71c6544ffcb029b275f9950e862ef151",
       "title": "2026“把青春华章写在祖国大地上”大思政课网络主题宣传和互动引...",
       "url": "http://news.ustc.edu.cn/info/1055/96129.htm",
@@ -938,6 +1257,61 @@
       "contentStatus": "ready",
       "contentHash": "82cfd782a4fffbce1a62e3c8766638e5194fc9afc962f8f64bfdc63a6169a26b",
       "rawPath": "data/raw/e07e80d4a0bfa2637a78d7cfde1bcdfb.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "2958aac4a692a03510663dd963b62e24",
+      "title": "合成生物学与微生物制造工程",
+      "url": "https://tib.cas.cn/kxyj/lyfx/202410/t20241031_7412324.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T06:05:32.213Z",
+      "contentStatus": "ready",
+      "contentHash": "317a83ae13e74edc4905d1b829cb11f4a58c0c1c31c85b3eb6966f3d2ad42fa8",
+      "rawPath": "data/raw/2958aac4a692a03510663dd963b62e24.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "cf5158633643513622088b042bcba63e",
+      "title": "生物系统与生物工艺工程",
+      "url": "https://tib.cas.cn/kxyj/lyfx/202410/t20241031_7412325.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T06:05:32.213Z",
+      "contentStatus": "ready",
+      "contentHash": "23708db27ead2bbbad928937700bbef43c653edbff99d20da037d6217695d16f",
+      "rawPath": "data/raw/cf5158633643513622088b042bcba63e.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "d34c98a05a07e006289109928fd94672",
+      "title": "工业蛋白质科学与生物催化工程",
+      "url": "https://tib.cas.cn/kxyj/lyfx/202410/t20241031_7412326.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T06:05:32.213Z",
+      "contentStatus": "ready",
+      "contentHash": "b3bbe348701782348bb7ebaa6cd0db5b15c4348a5f368c9c60f24e95bfbf2b7c",
+      "rawPath": "data/raw/d34c98a05a07e006289109928fd94672.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "74ba2cf28e4f24582c902de6cf4b190e",
+      "title": "天津大学新闻网",
+      "url": "https://news.tju.edu.cn/",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T06:05:31.456Z",
+      "contentStatus": "ready",
+      "contentHash": "af75eb1852b5647f44ae3f56a5562fe84badda3ab831a3a9556ff9a306206b61",
+      "rawPath": "data/raw/74ba2cf28e4f24582c902de6cf4b190e.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "4a6937e2cd384520fa3cfaac9a551a32",
+      "title": "新闻&活动",
+      "url": "https://biocrfgz.hkust-gz.edu.cn/cn/news-events/",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T06:05:30.861Z",
+      "contentStatus": "ready",
+      "contentHash": "9c0f901211278daf978fee355566611d9b674a8f3003d3c9564d15845630741b",
+      "rawPath": "data/raw/4a6937e2cd384520fa3cfaac9a551a32.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -1359,17 +1733,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "0497f4e8f73bbf1947308dc06f710545",
-      "title": "苏州国家实验室诚邀海外优秀青年人才依托实验室申报国家级人才项目",
-      "url": "https://www.szlab.ac.cn/news_details/80.html",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:57:36.582Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "rawPath": "data/raw/0497f4e8f73bbf1947308dc06f710545.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "04fe8e41359a28194f7021b51cc883c5",
       "title": "Poster Prizes Awarded at IUCr",
       "url": "https://www.rcsb.org/news/feature/6a9974be3bf5580b84a87d3c",
@@ -1411,17 +1774,6 @@
       "contentStatus": "needs_fetch",
       "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "rawPath": "data/raw/0733c7162da86c56421e53dc0b984510.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "07882c0550660c2b59d0d42b67a14469",
-      "title": "Publications",
-      "url": "https://www.rcsb.org/pages/publications",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:57:50.143Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "rawPath": "data/raw/07882c0550660c2b59d0d42b67a14469.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -1469,17 +1821,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "09db20d7a6465a68036a924d4ea85f26",
-      "title": "我所揭示NiO/Al 2 O 3 表面原位重构活性位点驱动甲烷部分氧化制合成气",
-      "url": "https://www.dicp.ac.cn/xwdt/ttxw/202609/t20260904_8278671.html",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:57:41.220Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "rawPath": "data/raw/09db20d7a6465a68036a924d4ea85f26.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "0a6279fb2b1b940c0a431bde893a5721",
       "title": "Schrödinger Receives Fast Track Designation for SGR-1505 for the Treatment of Relapsed/Refractory Waldenström Macroglobulinemia",
       "url": "https://ir.schrodinger.com/press-releases/news-details/2025/Schrdinger-Receives-Fast-Track-Designation-for-SGR-1505-for-the-Treatment-of-RelapsedRefractory-Waldenstrm-Macroglobulinemia/default.aspx",
@@ -1518,7 +1859,7 @@
       "url": "https://www.shlab.org.cn/(v.newstype%20===%20113%20||%20v.newstype%20===%2013%20||%20v.newstype%20===%20110)%20?%20v.url%20:",
       "publishedAt": null,
       "crawledAt": "2026-09-16T06:57:40.684Z",
-      "contentStatus": "needs_fetch",
+      "contentStatus": "fetch_failed",
       "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "rawPath": "data/raw/0b8d4b896da1a190b98d8e58451fa3c1.json",
       "lastAnalysisStatus": "pending"
@@ -1609,17 +1950,6 @@
       "contentStatus": "needs_fetch",
       "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "rawPath": "data/raw/0f44f2bbcb97b5c27dd533a8a294898e.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "0f7f725488c8af43daa4b662aa36d6b7",
-      "title": "祝贺！定量合成生物学全国重点实验室胡政研究员荣获2026年“科学探索奖”",
-      "url": "https://isynbio.siat.ac.cn/siat/isb/xwhd/zhxw/2026082611274675177/index.html",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:57:37.446Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "rawPath": "data/raw/0f7f725488c8af43daa4b662aa36d6b7.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -1958,7 +2288,7 @@
       "url": "https://www.casdc.cn/dataV/",
       "publishedAt": null,
       "crawledAt": "2026-09-16T06:57:48.615Z",
-      "contentStatus": "needs_fetch",
+      "contentStatus": "insufficient_content",
       "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "rawPath": "data/raw/222c4e5ce670b522f762fd59da9ef1b4.json",
       "lastAnalysisStatus": "pending"
@@ -1972,17 +2302,6 @@
       "contentStatus": "needs_fetch",
       "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "rawPath": "data/raw/22c56d19ed6da6e99a724e646aac58c2.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "230518966d609389cfa0149f7c5fb200",
-      "title": "磐石(ScienceOne) - AI for Science 科研智能平台",
-      "url": "https://www.scienceone.cn/index-zh.html",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:57:47.113Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "rawPath": "data/raw/230518966d609389cfa0149f7c5fb200.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -2118,17 +2437,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "2958aac4a692a03510663dd963b62e24",
-      "title": "合成生物学与微生物制造工程",
-      "url": "https://tib.cas.cn/kxyj/lyfx/202410/t20241031_7412324.html",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:05:32.213Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "rawPath": "data/raw/2958aac4a692a03510663dd963b62e24.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "2a303fb8fcf42b73cc3b63e5fe497dfa",
       "title": "InternLM 2024.01.02 7.1k",
       "url": "https://github.com/InternLM/InternLM",
@@ -2148,17 +2456,6 @@
       "contentStatus": "needs_fetch",
       "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "rawPath": "data/raw/2a8fd8d321ba36424f7ed708a322369c.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "2b275566768414f5f46e71fc7f835080",
-      "title": "了 解 更 多 科 学 研 究 成 果",
-      "url": "https://www.shlab.org.cn/research",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:57:40.684Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "rawPath": "data/raw/2b275566768414f5f46e71fc7f835080.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -2261,17 +2558,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "3150a3ec1ac217d3201762588b98f86c",
-      "title": "“一种制备乙酸甲酯的方法”发明专利荣获第二十六届中国专利金奖",
-      "url": "https://www.dicp.ac.cn/xwdt/ttxw/202609/t20260901_8274843.html",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:57:41.220Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "rawPath": "data/raw/3150a3ec1ac217d3201762588b98f86c.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "319b9d0ceda562c21fb9c73ccdb44f11",
       "title": "Research IT",
       "url": "https://www.schrodinger.com/materials-science/use-cases/research-it/",
@@ -2280,17 +2566,6 @@
       "contentStatus": "needs_fetch",
       "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "rawPath": "data/raw/319b9d0ceda562c21fb9c73ccdb44f11.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "31fcaf8912e1e62d1556b4071bfe1a7e",
-      "title": "关于发布贵州省生物制造实验室 第四批小型应用类“揭榜挂帅”项目的通知",
-      "url": "https://isynbio.siat.ac.cn/siat/isb/xwhd/zhxw/2026091418034715135/index.html",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:57:37.446Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "rawPath": "data/raw/31fcaf8912e1e62d1556b4071bfe1a7e.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -2492,17 +2767,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "3d97ae9aa5b3288e5aafaaad56971f3e",
-      "title": "2025免疫与癌症国际论坛",
-      "url": "https://www.cpl.ac.cn/ICB2025/list.html",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:57:39.149Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "rawPath": "data/raw/3d97ae9aa5b3288e5aafaaad56971f3e.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "3dc8e858d168f065e595b0a0fa5a71cb",
       "title": "2026-07-16 PerceptionBench",
       "url": "https://www.kimi.com/en/blog/perception-bench",
@@ -2552,8 +2816,8 @@
       "url": "https://www.nbsdc.cn/general/news/newsNoticeView?id=6177ac1599f1de6719243a1f",
       "publishedAt": null,
       "crawledAt": "2026-09-16T06:57:48.779Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "contentStatus": "insufficient_content",
+      "contentHash": "bd4f62aeabb04c11009725eae4c6431a45243816f919775190a3b706172a1dfb",
       "rawPath": "data/raw/40c89fd581d7681ca9d9824e36c8e092.json",
       "lastAnalysisStatus": "pending"
     },
@@ -2723,17 +2987,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "4a6937e2cd384520fa3cfaac9a551a32",
-      "title": "新闻&活动",
-      "url": "https://biocrfgz.hkust-gz.edu.cn/cn/news-events/",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:05:30.861Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "rawPath": "data/raw/4a6937e2cd384520fa3cfaac9a551a32.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "4a9e1df649fa08de97ac0cd4aaa0f0e5",
       "title": "Regional Meetings",
       "url": "https://www.acs.org/events/regional.html",
@@ -2789,17 +3042,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "4bccf17a402bf0d4e10caaaabb1b1ed4",
-      "title": "2026-09-08 最高政府奖！宁德时代荣获第十三届“中华慈善奖” 了解更多",
-      "url": "https://www.catl.com/news/10172.html",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:57:42.191Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "rawPath": "data/raw/4bccf17a402bf0d4e10caaaabb1b1ed4.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "4c0674ba1a70ac7299ce2b079d4d055e",
       "title": "Lab of the Future USA 2026 Closing Keynote",
       "url": "https://www.lab-of-the-future.com/2026/04/20/lab-of-the-future-usa-2026-closing-keynote/",
@@ -2838,8 +3080,8 @@
       "url": "https://www.nbsdc.cn/general/news/newsNoticeView?id=617bccbb99f1de40c335aba7",
       "publishedAt": null,
       "crawledAt": "2026-09-16T06:57:48.779Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "contentStatus": "insufficient_content",
+      "contentHash": "bd4f62aeabb04c11009725eae4c6431a45243816f919775190a3b706172a1dfb",
       "rawPath": "data/raw/4d3498b990884cb148629b4ed89fdf0b.json",
       "lastAnalysisStatus": "pending"
     },
@@ -3020,6 +3262,17 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "5422e08140b54ff53b94207e5e6fcff6",
+      "title": "预印本发布",
+      "url": "https://darxiv.nbsdc.cn/",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T17:07:26.480Z",
+      "contentStatus": "insufficient_content",
+      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "rawPath": "data/raw/5422e08140b54ff53b94207e5e6fcff6.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "5424c33f13b3868c1e459e09f75479d4",
       "title": "Patient-partnered research Patients partner with our scientists to accelerate the pace of discovery and find better treatments.",
       "url": "https://www.broadinstitute.org/patient-partnered-research",
@@ -3036,7 +3289,7 @@
       "url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkad1004/7337608",
       "publishedAt": null,
       "crawledAt": "2026-09-16T06:57:50.684Z",
-      "contentStatus": "needs_fetch",
+      "contentStatus": "fetch_failed",
       "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "rawPath": "data/raw/542fab1deb3e55f53877e3bf6cb00871.json",
       "lastAnalysisStatus": "pending"
@@ -3636,17 +3889,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "6d608abcabeceab0c2d8268b857ff794",
-      "title": "PDB History",
-      "url": "https://www.rcsb.org/pages/about-us/history",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:57:50.143Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "rawPath": "data/raw/6d608abcabeceab0c2d8268b857ff794.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "6dd559c3516573b5744ed22b499d1fad",
       "title": "Wed Sep 16 2026",
       "url": "https://www.rcsb.org/search?query={&quot;type&quot;:&quot;terminal&quot;,&quot;service&quot;:&quot;text&quot;,&quot;parameters&quot;:{&quot;attribute&quot;:&quot;rcsb_accession_info.initial_release_date&quot;,&quot;operator&quot;:&quot;range&quot;,&quot;value&quot;:{&quot;from&quot;:%20&quot;now-1w&quot;,%20&quot;include_lower&quot;:%20false,%20&quot;to&quot;:%20&quot;now&quot;,%20&quot;include_upper&quot;:%20true}}}",
@@ -3809,17 +4051,6 @@
       "contentStatus": "needs_fetch",
       "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "rawPath": "data/raw/74968d33e592b24222e45a70d8585adb.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "74ba2cf28e4f24582c902de6cf4b190e",
-      "title": "天津大学新闻网",
-      "url": "https://news.tju.edu.cn/",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:05:31.456Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "rawPath": "data/raw/74ba2cf28e4f24582c902de6cf4b190e.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -4007,17 +4238,6 @@
       "contentStatus": "insufficient_content",
       "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "rawPath": "data/raw/7bc36af78bd7655e0fb191ac5c97ef4f.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "7bcde9ae8b2a8433b7e00afc372019a6",
-      "title": "药明康德连续四年入选富时罗素社会责任指数系列 上海，2026年7月22日 – 药明康德今日宣布，公司连续第四年入选“富时罗素社会责任指数系列”（FTSE4Good Index Series），这一认可体现了公司对可持续发展的坚定承诺。 阅读更多",
-      "url": "https://www.wuxiapptec.cn/news/wuxi-news/fefednqdqf6yearf0uwtswd8",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:57:42.620Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "rawPath": "data/raw/7bcde9ae8b2a8433b7e00afc372019a6.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -4241,17 +4461,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "86cd2ee2b1e3c2ce58ad1affe3ecfb38",
-      "title": "药明康德入选2026道琼斯领先全球指数 上海，2026年5月18日 - 药明康德近日宣布公司入选2026道琼斯领先全球指数（Dow Jones Best-in-Class World Index，原道琼斯可持续发展世界指数），该指数基于企业长期可持续发展标准，评选出全球各行业处于领先水平的公司。这一认可充分彰显了公司在推动可持续发展和践行负责任商业实践方面的坚定承诺。 阅读更多",
-      "url": "https://www.wuxiapptec.cn/news/wuxi-news/v1bj6wuxvxdn4a55fcsnwt38",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:57:42.620Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "rawPath": "data/raw/86cd2ee2b1e3c2ce58ad1affe3ecfb38.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "87a970549572f634e53cd122aebcfcd2",
       "title": "UK Biotech Day May 27, 2026 London, UK",
       "url": "https://www.ukbiotechday.org/index.html",
@@ -4326,17 +4535,6 @@
       "contentStatus": "needs_fetch",
       "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "rawPath": "data/raw/8b545d61c850efa5e592a462a3262c92.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "8bec3465d37660f1c0f6d87168c9bedd",
-      "title": "&#x79D1;&#x7814;&#x8FDB;&#x5C55;&#x4E28;&#x7EB3;&#x7C73;&#x5C3A;&#x5EA6;STO&#x8584;&#x819C;&#x5B9E;&#x73B0;&#x53EF;&#x7F16;&#x7A0B;&#x4E2D;&#x7EA2;&#x5916;&#x89C6;&#x89C9;&#x4F20;&#x611F;",
-      "url": "https://www.sslab.org.cn/news/researchdetail?id=260824185040108534E8A1EDA",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:57:38.624Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "rawPath": "data/raw/8bec3465d37660f1c0f6d87168c9bedd.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -4549,17 +4747,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "94a4877a94951b19cb194e12b6716923",
-      "title": "药明康德2026年上半年业绩强劲并全面上调全年指引，得益于多个客户产品的更大成功及CRDMO模式 上海，2026年8月3日，为全球医药及生命科学行业提供全方位、一体化新药研发和生产服务的能力和技术平台公司--药明康德（股份代码：603259.SH / 2359.HK）发布2026年上半年业绩报告。得益于多个客户产品取得的更大成功以及独特的一体化CRDMO平台，公司收入、利润及现金流表现强劲，进而上调全年业绩指引。 阅读更多",
-      "url": "https://www.wuxiapptec.cn/news/wuxi-news/wuxi-apptec-crdmo-model-delivers-strong-results",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:57:42.620Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "rawPath": "data/raw/94a4877a94951b19cb194e12b6716923.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "94bf36eef73caa5832ced9cf9ccc9ebf",
       "title": "Public Attitudes for Genomics and Policy Blog",
       "url": "https://www.ga4gh.org/news-eventsxxx/public-attitudes-for-genomics-and-policy-blog/",
@@ -4670,17 +4857,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "99bab736598050ed968026f15424b2fd",
-      "title": "青年智慧链接全球创新 | 第五届合成生物学创新赛在深圆满落幕",
-      "url": "https://isynbio.siat.ac.cn/siat/isb/xwhd/zhxw/2026082611085799203/index.html",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:57:37.446Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "rawPath": "data/raw/99bab736598050ed968026f15424b2fd.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "99ef6997114e8c4e48b5fddcea19c0a4",
       "title": "2026/09 22 Hearing her buzz in a swarm:mosquito auditory circuits for mate tracking 2026年9月22日 10:00-11:00 Dr. Zhilei Zhao 高科创新中心A801 了解详情",
       "url": "https://www.szbl.ac.cn/info/1017/10569.htm",
@@ -4755,17 +4931,6 @@
       "contentStatus": "needs_fetch",
       "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "rawPath": "data/raw/9b9d8e0a22c6d300342af081e4d26ecf.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "9be95790fd93a79b6dc141ff577794f1",
-      "title": "2026-09-05 「宁德品质」全球开放月启动 了解更多",
-      "url": "https://www.catl.com/news/10163.html",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:57:42.191Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "rawPath": "data/raw/9be95790fd93a79b6dc141ff577794f1.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -5082,8 +5247,8 @@
       "url": "https://www.szbl.ac.cn/news-events/The-World-at-SZBL.htm",
       "publishedAt": null,
       "crawledAt": "2026-09-16T06:57:37.192Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "contentStatus": "insufficient_content",
+      "contentHash": "cd76f1ffa9406cf1a27d002b0eaa6e62521de2f357635ccc8f223c726c3784c6",
       "rawPath": "data/raw/a8d5b213aa84a37f1b453a9bf71b6885.json",
       "lastAnalysisStatus": "pending"
     },
@@ -5308,17 +5473,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "b2bebe97a5006f2dd1441e31f0c3d7db",
-      "title": "- 科研进展",
-      "url": "https://www.cpl.ac.cn/scientific_research/research_news/list.html",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:57:39.149Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "rawPath": "data/raw/b2bebe97a5006f2dd1441e31f0c3d7db.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "b316bf597c5497ee9fc94fd4960d5fe3",
       "title": "Professional Services",
       "url": "https://proservices.healthtech.com/?cdtConferenceId=404272006.1663694140&cdtRollupId=404272006.1663694140",
@@ -5338,17 +5492,6 @@
       "contentStatus": "needs_fetch",
       "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "rawPath": "data/raw/b39fcb2a72d3952b96cafa3d25fd33ef.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "b3e7d37a29c683c0e879f3206e622898",
-      "title": "PubChem",
-      "url": "https://pubchem.ncbi.nlm.nih.gov/",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:57:49.917Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "rawPath": "data/raw/b3e7d37a29c683c0e879f3206e622898.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -5830,8 +5973,8 @@
       "url": "https://www.whchem.com/",
       "publishedAt": null,
       "crawledAt": "2026-09-16T06:57:44.397Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "contentStatus": "insufficient_content",
+      "contentHash": "4e97393bc950c162afaf43472e80ed81f843ecd02861fc6945e3074e3b796aa3",
       "rawPath": "data/raw/c9d7e2a065cd3497347606e2a8b51010.json",
       "lastAnalysisStatus": "pending"
     },
@@ -5863,7 +6006,7 @@
       "url": "https://discovery-home.intern-ai.org.cn/home",
       "publishedAt": null,
       "crawledAt": "2026-09-16T06:57:45.045Z",
-      "contentStatus": "needs_fetch",
+      "contentStatus": "insufficient_content",
       "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "rawPath": "data/raw/cbb3d1ed94ce160525280a6ee48a97d0.json",
       "lastAnalysisStatus": "pending"
@@ -5932,17 +6075,6 @@
       "contentStatus": "needs_fetch",
       "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "rawPath": "data/raw/cf32e5a8040179eb9f16d7507efad728.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "cf5158633643513622088b042bcba63e",
-      "title": "生物系统与生物工艺工程",
-      "url": "https://tib.cas.cn/kxyj/lyfx/202410/t20241031_7412325.html",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:05:32.213Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "rawPath": "data/raw/cf5158633643513622088b042bcba63e.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -6067,17 +6199,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "d225ede07bcc5de8a76e6174231790b2",
-      "title": "Educational Resources",
-      "url": "https://pdb101.rcsb.org/learn/paper-models",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:57:50.143Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "rawPath": "data/raw/d225ede07bcc5de8a76e6174231790b2.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "d234d46169ad7a8237e9936a39c8ba74",
       "title": "Chemify and Sanacor Collaborate to Discover and Develop Small Molecule Therapies for Cardiometabolic Diseases February 25, 2026 Business Wire",
       "url": "https://www.businesswire.com/news/home/20260225083560/en/Chemify-and-Sanacor-Collaborate-to-Discover-and-Develop-Small-Molecule-Therapies-for-Cardiometabolic-Diseases",
@@ -6097,17 +6218,6 @@
       "contentStatus": "needs_fetch",
       "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "rawPath": "data/raw/d34a013107e06e4ef23b8ca9fe843604.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "d34c98a05a07e006289109928fd94672",
-      "title": "工业蛋白质科学与生物催化工程",
-      "url": "https://tib.cas.cn/kxyj/lyfx/202410/t20241031_7412326.html",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:05:32.213Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "rawPath": "data/raw/d34c98a05a07e006289109928fd94672.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -6424,8 +6534,8 @@
       "url": "https://www.pjlab.ac.cn/",
       "publishedAt": null,
       "crawledAt": "2026-09-16T06:57:46.946Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "contentStatus": "insufficient_content",
+      "contentHash": "93899862287a108a062c399d748dc67959b2320ad14c8539122ab04b4845d048",
       "rawPath": "data/raw/e3881694273143d5b642a7d4498687b3.json",
       "lastAnalysisStatus": "pending"
     },
@@ -6460,17 +6570,6 @@
       "contentStatus": "needs_fetch",
       "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "rawPath": "data/raw/e48a0706b37921ba33e54ec691650a4e.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "e53e01caa56851f629fabbb664130d30",
-      "title": "我所250千瓦级海水制氢联产淡水系统实现高效稳定运行",
-      "url": "https://www.dicp.ac.cn/xwdt/ttxw/202609/t20260916_8283551.html",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:57:41.220Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "rawPath": "data/raw/e53e01caa56851f629fabbb664130d30.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -6694,17 +6793,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "f45ce6e99c981514ac5c20a6f5b4e2f9",
-      "title": "苏州实验室科研成果在《Science》发表",
-      "url": "https://www.szlab.ac.cn/news_details/76.html",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:57:36.582Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "rawPath": "data/raw/f45ce6e99c981514ac5c20a6f5b4e2f9.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "f4ee503da3dc3f5a411709ad50fa62a5",
       "title": "微试样+数据闭环：创材深造亮相全国微试样力学会议，重构材料力学评价体系 8 月28-29日， 第4届全国微试样力学试验方法研讨会暨第2届中国力学试验仪器装备创新交流会在上海举行 2026.09.01",
       "url": "https://www.deep-material.com/qiyexinwen/91",
@@ -6749,17 +6837,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "f7bb9cbf5836e2cb7379c316baab3e02",
-      "title": "2026-09-06 宁德时代与泰金新能、深圳惠科等企业签署战略合作协议 了解更多",
-      "url": "https://www.catl.com/news/10161.html",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:57:42.191Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "rawPath": "data/raw/f7bb9cbf5836e2cb7379c316baab3e02.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "f7e8a6a95edd650145cac95879e2282f",
       "title": "NIST Research Library",
       "url": "https://www.nist.gov/nist-research-library",
@@ -6776,7 +6853,7 @@
       "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4489243/",
       "publishedAt": null,
       "crawledAt": "2026-09-16T06:57:50.684Z",
-      "contentStatus": "needs_fetch",
+      "contentStatus": "fetch_failed",
       "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "rawPath": "data/raw/f7e8e4ef6bc786c7197048646ab5e8aa.json",
       "lastAnalysisStatus": "pending"

@@ -7,10 +7,13 @@
   "sourceType": "科学数据库与平台",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:57:50.143Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Molecular explorations through biology and medicine A paper folding activity that explores the structure of an antibody Download printable alpha helices and beta strand templates for hands-on exploration of many protein folding domains. Atomic structures reveal how the iconic double helix encodes genomic information Atomic structures of dengue virus are giving new hope for creation of a vaccine A tiny fluorescent protein from jellyfish has revolutionized cell biology GPCRs are a large family of membrane-embedded receptors, with structural features that have been preserved through the course of evolution. This model represents the shared structural features of all GPCRs. With the extracellular N-terminus, the protein chain folds to form a bundle of seven transmembrane alpha helices connected by 3 intracellular and 3 extracellular loops with the C-terminus reaching inside the cell. At the center of HIV, an unusual cone-shaped capsid protects the viral genome and delivers it into infected cells The capsid protein of papillomavirus is used in vaccines that prevent cervical cancer. Learn about insulin, a peptide hormone that plays a critical role in our ability to use glucose from the food that we eat Download templates for a set of paper models that can be cut from paper or card stock and used for demonstrations of the fundamentals of DNA structure, DNA replication, and RNA translation. Build 3D paper models of several viruses to explore how quasisymmetry builds capsids with different sizes. Transfer RNA translates the language of the genome into the language of proteins Atomic-level structures of Zika virus will help researchers better understand how the virus enters human cells and sets the stage for vaccine discovery and drug development. Researchers around the globe make 3D structures freely available from the Protein Data Bank (PDB) archive. PDB-101 training materials help graduate students, postdoctoral scholars, and researchers use PDB data and RCSB PDB tools. Outreach content demonstrate how PDB data impact fundamental biology, biomedicine, bioengineering/biotechnology, and energy sciences in 3D by a multidisciplinary user community. Education Materials provide lessons and activities for teaching and learning. RCSB PDB Core Operations are funded by the U.S. National Science Foundation (DBI-2321666), the US Department of Energy (DE-SC0019749), and the National Cancer Institute , National Institute of Allergy and Infectious Diseases , and National Institute of General Medical Sciences of the National Institutes of Health under grant R01GM157729.",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "d225ede07bcc5de8a76e6174231790b2"
+  "contentHash": "359d306b54b28c7fa3140a8ef8c125f3abb08a3a67a5962d6f5de026ca6aa6f7",
+  "legacyId": "d225ede07bcc5de8a76e6174231790b2",
+  "lastFetchAt": "2026-09-16T17:07:27.465Z",
+  "contentTruncated": false,
+  "contentError": ""
 }
