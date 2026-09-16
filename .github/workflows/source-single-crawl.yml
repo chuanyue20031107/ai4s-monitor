@@ -6,6 +6,7 @@ on:
       source_id:
         description: Source id to crawl
         required: true
+        type: string
 
 permissions:
   contents: write
@@ -23,10 +24,14 @@ jobs:
         env:
           SOURCE_ID: ${{ inputs.source_id }}
         run: node scripts/source-single-crawl.mjs
+      - name: Export frontend data
+        run: node scripts/pipeline.mjs
       - name: Commit data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data client/public/data
-          git commit -m "data: crawl single source" || true
-          git push
+          if ! git diff --cached --quiet; then
+            git commit -m "data: crawl single source"
+            git push
+          fi
