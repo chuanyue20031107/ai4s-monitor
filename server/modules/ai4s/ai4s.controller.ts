@@ -22,12 +22,18 @@ import type {
 } from '@shared/api.interface';
 import { Ai4sService } from './ai4s.service';
 import { Ai4sIngestService } from './ai4s.ingest.service';
+import {
+  Ai4sWechatRssService,
+  type WechatRssSyncRequest,
+  type WechatRssSyncResult,
+} from './ai4s.wechat-rss.service';
 
 @Controller('api/ai4s')
 export class Ai4sController {
   constructor(
     private readonly service: Ai4sService,
     private readonly ingest: Ai4sIngestService,
+    private readonly wechatRss: Ai4sWechatRssService,
   ) {}
 
   @Get('articles')
@@ -60,6 +66,15 @@ export class Ai4sController {
   @Get('sources')
   async listSources(): Promise<IAi4sSourcesResponse> {
     return { items: await this.service.listSources() };
+  }
+
+  /**
+   * 将 WeRSS 中的公众号 feed_id 批量同步为 ai4s_source RSS 来源。
+   * 未配置 feed_id 的项目会强制 disabled，避免被全量抓取或健康检查误判为失败。
+   */
+  @Post('sources/wechat-rss/sync')
+  async syncWechatRssSources(@Body() dto: WechatRssSyncRequest): Promise<WechatRssSyncResult> {
+    return this.wechatRss.syncSources(dto);
   }
 
   @Post('sources/health-check')
