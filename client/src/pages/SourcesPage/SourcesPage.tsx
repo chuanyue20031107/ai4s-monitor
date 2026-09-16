@@ -1,509 +1,99 @@
-import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
+import { useCallback, useEffect, useMemo, useState, type ReactNode } from 'react';
 import { toast } from 'sonner';
-import { Download, FlaskConical, Loader2, Rss, SearchX } from 'lucide-react';
+import { Download, ExternalLink, FlaskConical, Loader2, RefreshCw, Rss } from 'lucide-react';
 import { Badge } from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
-import {
-  Dialog,
-  DialogContent,
-  DialogDescription,
-  DialogHeader,
-  DialogTitle,
-} from '@/components/ui/dialog';
+import { Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle } from '@/components/ui/dialog';
 import { Input } from '@/components/ui/input';
-import {
-  Select,
-  SelectContent,
-  SelectItem,
-  SelectTrigger,
-  SelectValue,
-} from '@/components/ui/select';
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select';
 import { Switch } from '@/components/ui/switch';
-import {
-  Table,
-  TableBody,
-  TableCell,
-  TableHead,
-  TableHeader,
-  TableRow,
-} from '@/components/ui/table';
+import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table';
 import { CrawlStatusBadge } from '@/components/ai4s-badges';
-import { fetchHealthCheckStats, fetchRuns, startCrawlAll, startHealthCheck } from '@/api/ai4s';
 import { HealthCheckPanel } from './HealthCheckPanel';
-import type { IAi4sHealthCheckStats } from '@shared/api.interface';
 import { formatDateTime } from '@/lib/format';
-import { SOURCE_GROUPS, SOURCE_SEED, type ISource, type Priority } from '@/data/ai4s';
-import { useAi4s } from '@/store/Ai4sStore';
+import type { IAi4sSource, IAi4sHealthCheckStats } from '@shared/api.interface';
+import { loadSourceSnapshot, newSourceDraft, readDrafts, saveDrafts, SOURCE_ACTIONS_URL, type SourceAction, type SourceDraft, type SourceReceipt } from '@/api/sourceOperations';
 
-const logger = console;
-
-function DetailRow({ label, children }: { label: string; children: React.ReactNode }) {
-  return (
-    <div className="flex items-start justify-between gap-4 border-b border-border/60 py-2 last:border-b-0">
-      <span className="shrink-0 text-xs text-muted-foreground">{label}</span>
-      <span className="min-w-0 break-all text-right text-sm">{children}</span>
-    </div>
-  );
-}
-
-/** 抓取策略中文标签 */
-const CRAWL_STRATEGY_LABELS: Record<string, string> = {
-  auto: '自动（RSS>Sitemap>会议列表>网页兜底）',
-  rss: 'RSS / Atom',
-  sitemap: 'Sitemap',
-  entry: '会议 / 活动入口',
-  crawler: '网页 crawler 兜底',
-  disabled: '不可抓取 / 需人工配置',
-};
-
-/** 健康检查轮询间隔（毫秒） */
-const HEALTH_CHECK_POLL_INTERVAL_MS = 5000;
+const failures = new Set(['invalid_url','robots_blocked','timeout','network_error','parse_failed','needs_config','failed']);
+const date = (value?: string | null) => value ? formatDateTime(Date.parse(value)) : '—';
+const strategy: Record<string,string> = {auto:'自动',rss:'RSS / Atom',sitemap:'Sitemap',entry:'会议 / 活动入口',crawler:'网页兜底',disabled:'不可抓取 / 需配置'};
+function Row({label,children}:{label:string;children:ReactNode}) { return <div className="flex justify-between gap-4 border-b py-2"><span className="shrink-0 text-xs text-muted-foreground">{label}</span><span className="break-all text-right text-sm">{children || '—'}</span></div>; }
+function Link({url}:{url?:string|null}) { return url && /^https?:\/\//i.test(url) ? <a className="text-primary hover:underline" href={url} target="_blank" rel="noopener noreferrer">{url}</a> : <span>—</span>; }
 
 export default function SourcesPage() {
-  const { sourceRuntime, busy, toggleSource, crawlSource, testSource, refreshAfterWrite } =
-    useAi4s();
-
-  const [groupFilter, setGroupFilter] = useState('all');
-  const [regionFilter, setRegionFilter] = useState('all');
-  const [priorityFilter, setPriorityFilter] = useState('all');
-  const [directionInput, setDirectionInput] = useState('');
-  const [detailSource, setDetailSource] = useState<ISource | null>(null);
-  const [hcStats, setHcStats] = useState<IAi4sHealthCheckStats | null>(null);
-  const [hcRunning, setHcRunning] = useState(false);
-  const [crawlAllRunning, setCrawlAllRunning] = useState(false);
-  const [crawlAllProgress, setCrawlAllProgress] = useState<{ processed: number; total: number }>({
-    processed: 0,
-    total: 0,
-  });
-  const crawlAllRef = useRef<{ runId: string; total: number } | null>(null);
-
-  const regions = useMemo(() => Array.from(new Set(SOURCE_SEED.map((s) => s.region))), []);
-
-  const filtered = useMemo(
-    () =>
-      SOURCE_SEED.filter((s) => {
-        if (groupFilter !== 'all' && s.group !== groupFilter) return false;
-        if (regionFilter !== 'all' && s.region !== regionFilter) return false;
-        if (priorityFilter !== 'all' && s.priority !== priorityFilter) return false;
-        if (directionInput.trim() && !s.directions.includes(directionInput.trim())) return false;
-        return true;
-      }),
-    [groupFilter, regionFilter, priorityFilter, directionInput],
-  );
-
-  const detailRuntime = detailSource ? sourceRuntime[detailSource.id] : undefined;
-
-  const handleCrawl = async (source: ISource) => {
-    const ok = await crawlSource(source.id);
-    if (ok) toast.success(`「${source.name}」抓取并分析完成`);
+  const [sources,setSources] = useState<IAi4sSource[]>([]);
+  const [health,setHealth] = useState<IAi4sHealthCheckStats|null>(null);
+  const [receipts,setReceipts] = useState<SourceReceipt[]>([]);
+  const [drafts,setDrafts] = useState<SourceDraft[]>(readDrafts);
+  const [draft,setDraft] = useState<SourceDraft|null>(null);
+  const [detailId,setDetailId] = useState<string|null>(null);
+  const [loading,setLoading] = useState(true);
+  const [error,setError] = useState('');
+  const [updatedAt,setUpdatedAt] = useState('');
+  const [group,setGroup] = useState('all');
+  const [region,setRegion] = useState('all');
+  const [priority,setPriority] = useState('all');
+  const [status,setStatus] = useState('all');
+  const [search,setSearch] = useState('');
+  const refresh = useCallback(async () => {
+    setLoading(true);
+    try { const data = await loadSourceSnapshot(); setSources(data.sources.items); setHealth(data.health.stats); setReceipts(data.receipts.items); setUpdatedAt(data.sources.updatedAt || ''); setError(''); }
+    catch (e) { setError(e instanceof Error ? e.message : '读取失败'); }
+    finally { setLoading(false); }
+  },[]);
+  useEffect(()=>{ void refresh(); },[refresh]);
+  const pending = useMemo(()=>drafts.filter(d=>!receipts.some(r=>r.requestId===d.command.requestId)),[drafts,receipts]);
+  useEffect(()=>{
+    if (!pending.length) return;
+    const timer = window.setInterval(()=>{if(document.visibilityState==='visible') void refresh();},60000);
+    const focus = ()=>void refresh(); window.addEventListener('focus',focus);
+    return ()=>{window.clearInterval(timer);window.removeEventListener('focus',focus);};
+  },[pending.length,refresh]);
+  const prepare = (action:SourceAction,label:string,source?:IAi4sSource,enabled?:boolean) => {
+    const value = newSourceDraft(action,label,source?.sourceKey,enabled); setDetailId(null); setDraft(value);
   };
-
-  const pollHealthCheck = useCallback(async () => {
-    try {
-      const res = await fetchHealthCheckStats();
-      setHcStats(res.stats);
-      await refreshAfterWrite();
-      if (!res.stats.running) {
-        setHcRunning(false);
-      }
-    } catch (error) {
-      logger.warn('健康检查状态轮询失败:', String(error));
-    }
-  }, [refreshAfterWrite]);
-
-  const handleStartHealthCheck = async () => {
-    try {
-      const res = await startHealthCheck();
-      toast.success(`已启动全量健康检查（${res.total} 个来源）`);
-      setHcRunning(true);
-      void pollHealthCheck();
-    } catch (error) {
-      logger.error('启动健康检查失败:', String(error));
-      toast.error(`启动失败：${String(error).slice(0, 80)}`);
-    }
+  const remember = (value:SourceDraft) => {
+    const next = [value,...drafts.filter(d=>d.command.requestId!==value.command.requestId)].slice(0,20);
+    setDrafts(next); saveDrafts(next);
+    toast.info('请求页面已打开；请在 GitHub 点击提交。尚未确认任务已启动。');
   };
-
-  const pollCrawlAll = useCallback(async () => {
-    const ref = crawlAllRef.current;
-    if (!ref) return;
-    try {
-      const res = await fetchRuns();
-      const run = res.items.find((r) => r.id === ref.runId);
-      if (run) {
-        setCrawlAllProgress({ processed: run.processed, total: ref.total });
-        if (run.status !== 'running') {
-          setCrawlAllRunning(false);
-          await refreshAfterWrite();
-          toast.success(`全量抓取完成：${run.detail}`);
-          return;
-        }
-      }
-      await refreshAfterWrite();
-    } catch (error) {
-      logger.warn('全量抓取状态轮询失败:', String(error));
-    }
-  }, [refreshAfterWrite]);
-
-  const handleStartCrawlAll = async () => {
-    try {
-      const res = await startCrawlAll();
-      crawlAllRef.current = { runId: res.runId, total: res.total };
-      setCrawlAllProgress({ processed: 0, total: res.total });
-      setCrawlAllRunning(true);
-      toast.success(`已启动全量抓取（${res.total} 个来源），完成后会自动刷新列表`);
-      void pollCrawlAll();
-    } catch (error) {
-      logger.error('启动全量抓取失败:', String(error));
-      toast.error(`启动失败：${String(error).slice(0, 80)}`);
-    }
+  const dismiss = (id:string) => { const next = drafts.filter(d=>d.command.requestId!==id); setDrafts(next);saveDrafts(next); };
+  const filtered = useMemo(()=>sources.filter(s=>(group==='all'||s.groupName===group)&&(region==='all'||s.region===region)&&(priority==='all'||s.priority===priority)&&(status==='all'||(status==='failed'?failures.has(s.crawlStatus):status==='disabled'?!s.enabled:s.crawlStatus===status))&&(!search.trim()||[s.name,s.directions,s.products,s.representative,s.wechat,s.sourceKey].some(v=>(v||'').toLowerCase().includes(search.trim().toLowerCase())))),[sources,group,region,priority,status,search]);
+  const detail = sources.find(s=>s.sourceKey===detailId);
+  const failedCount = sources.filter(s=>s.enabled&&s.crawlStrategy!=='disabled'&&failures.has(s.crawlStatus)).length;
+  const exportCsv = () => {
+    const fields: (keyof IAi4sSource)[] = ['sourceKey','name','groupName','type','region','directions','website','wechat','feedUrl','priority','enabled','crawlStatus','lastCrawlAt','lastCheckAt','lastDiagnostic'];
+    const escape = (value:unknown) => { let text=String(value??''); if(/^[=+@\-\t\r]/.test(text)) text=`'${text}`;return `"${text.replace(/"/g,'""')}"`; };
+    const text = '\uFEFF'+[fields.join(','),...filtered.map(s=>fields.map(k=>escape(s[k])).join(','))].join('\r\n');
+    const url=URL.createObjectURL(new Blob([text],{type:'text/csv;charset=utf-8'}));const a=document.createElement('a');a.href=url;a.download='ai4s-monitor-sources.csv';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);
   };
-
-  // 页面加载时同步一次健康检查状态；若后台仍在检查则恢复轮询
-  useEffect(() => {
-    let cancelled = false;
-    void fetchHealthCheckStats()
-      .then((res) => {
-        if (cancelled) return;
-        setHcStats(res.stats);
-        if (res.stats.running) setHcRunning(true);
-      })
-      .catch((error: unknown) => {
-        logger.warn('获取健康检查状态失败:', String(error));
-      });
-    void fetchRuns()
-      .then((res) => {
-        if (cancelled) return;
-        const running = res.items.find((r) => r.taskType === '全量抓取' && r.status === 'running');
-        if (running) {
-          crawlAllRef.current = { runId: running.id, total: SOURCE_SEED.length };
-          setCrawlAllProgress({ processed: running.processed, total: SOURCE_SEED.length });
-          setCrawlAllRunning(true);
-        }
-      })
-      .catch((error: unknown) => {
-        logger.warn('获取运行记录失败:', String(error));
-      });
-    return () => {
-      cancelled = true;
-    };
-  }, []);
-
-  // 检查进行中每 5 秒轮询 stats 并刷新来源运行态；结束后停止轮询
-  useEffect(() => {
-    if (!hcRunning) return undefined;
-    const timer = window.setInterval(() => {
-      void pollHealthCheck();
-    }, HEALTH_CHECK_POLL_INTERVAL_MS);
-    return () => {
-      window.clearInterval(timer);
-    };
-  }, [hcRunning, pollHealthCheck]);
-
-  // 全量抓取进行中每 5 秒轮询进度并刷新来源运行态；结束后停止轮询
-  useEffect(() => {
-    if (!crawlAllRunning) return undefined;
-    const timer = window.setInterval(() => {
-      void pollCrawlAll();
-    }, HEALTH_CHECK_POLL_INTERVAL_MS);
-    return () => {
-      window.clearInterval(timer);
-    };
-  }, [crawlAllRunning, pollCrawlAll]);
-
-  return (
-    <div className="space-y-4">
-      {/* 来源健康检查 */}
-      <HealthCheckPanel
-        stats={hcStats}
-        running={hcRunning}
-        onStart={() => void handleStartHealthCheck()}
-      />
-
-      {/* 筛选 */}
-      <Card>
-        <CardHeader className="pb-3">
-          <CardTitle className="text-sm">来源筛选</CardTitle>
-        </CardHeader>
-        <CardContent className="grid grid-cols-2 gap-3 md:grid-cols-4">
-          <div className="space-y-1">
-            <span className="text-xs text-muted-foreground">清单分组</span>
-            <Select value={groupFilter} onValueChange={setGroupFilter}>
-              <SelectTrigger className="w-full"><SelectValue /></SelectTrigger>
-              <SelectContent>
-                <SelectItem value="all">全部分组</SelectItem>
-                {SOURCE_GROUPS.map((g) => <SelectItem key={g} value={g}>{g}</SelectItem>)}
-              </SelectContent>
-            </Select>
-          </div>
-          <div className="space-y-1">
-            <span className="text-xs text-muted-foreground">国家 / 地区</span>
-            <Select value={regionFilter} onValueChange={setRegionFilter}>
-              <SelectTrigger className="w-full"><SelectValue /></SelectTrigger>
-              <SelectContent>
-                <SelectItem value="all">全部地区</SelectItem>
-                {regions.map((r) => <SelectItem key={r} value={r}>{r}</SelectItem>)}
-              </SelectContent>
-            </Select>
-          </div>
-          <div className="space-y-1">
-            <span className="text-xs text-muted-foreground">优先级</span>
-            <Select value={priorityFilter} onValueChange={setPriorityFilter}>
-              <SelectTrigger className="w-full"><SelectValue /></SelectTrigger>
-              <SelectContent>
-                <SelectItem value="all">全部</SelectItem>
-                <SelectItem value="高">高</SelectItem>
-                <SelectItem value="中">中</SelectItem>
-                <SelectItem value="低">低</SelectItem>
-              </SelectContent>
-            </Select>
-          </div>
-          <div className="space-y-1">
-            <span className="text-xs text-muted-foreground">研究方向（包含）</span>
-            <Input
-              placeholder="如：药物 / 材料 / 模型"
-              value={directionInput}
-              onChange={(e) => setDirectionInput(e.target.value)}
-            />
-          </div>
-        </CardContent>
-      </Card>
-
-      {/* 来源清单 */}
-      <Card>
-        <CardHeader className="pb-3">
-          <div className="flex flex-wrap items-center justify-between gap-2">
-            <CardTitle className="text-sm">
-              监控来源清单（{filtered.length}/{SOURCE_SEED.length}）
-            </CardTitle>
-            <div className="flex gap-2">
-              <Button
-                size="sm"
-                variant="outline"
-                disabled={hcRunning}
-                onClick={() => void handleStartHealthCheck()}
-              >
-                {hcRunning ? <Loader2 className="size-4 animate-spin" /> : <FlaskConical className="size-4" />}
-                {hcRunning ? '测试中…' : '全部测试'}
-              </Button>
-              <Button size="sm" disabled={crawlAllRunning} onClick={() => void handleStartCrawlAll()}>
-                {crawlAllRunning ? <Loader2 className="size-4 animate-spin" /> : <Download className="size-4" />}
-                {crawlAllRunning
-                  ? `抓取中 ${crawlAllProgress.processed}/${crawlAllProgress.total}`
-                  : '全部抓取'}
-              </Button>
-            </div>
-          </div>
-        </CardHeader>
-        <CardContent className="p-0">
-          <div className="w-full overflow-x-auto">
-            <Table>
-              <TableHeader>
-                <TableRow>
-                  <TableHead className="min-w-[170px] whitespace-nowrap">主体名称</TableHead>
-                  <TableHead className="whitespace-nowrap">主体类型</TableHead>
-                  <TableHead className="whitespace-nowrap">国家 / 地区</TableHead>
-                  <TableHead className="min-w-[150px] whitespace-nowrap">研究方向</TableHead>
-                  <TableHead className="min-w-[130px] whitespace-nowrap">核心产品 / 平台</TableHead>
-                  <TableHead className="whitespace-nowrap">代表人物</TableHead>
-                  <TableHead className="whitespace-nowrap">优先级</TableHead>
-                  <TableHead className="whitespace-nowrap">启用</TableHead>
-                  <TableHead className="whitespace-nowrap">最近抓取</TableHead>
-                  <TableHead className="whitespace-nowrap">抓取状态</TableHead>
-                  <TableHead className="whitespace-nowrap text-right">操作</TableHead>
-                </TableRow>
-              </TableHeader>
-              <TableBody>
-                {filtered.length === 0 ? (
-                  <TableRow>
-                    <TableCell colSpan={11} className="h-36">
-                      <div className="flex flex-col items-center gap-2 text-muted-foreground">
-                        <SearchX className="size-8" />
-                        <span className="text-sm">没有符合条件的来源</span>
-                      </div>
-                    </TableCell>
-                  </TableRow>
-                ) : (
-                   filtered.map((source) => {
-                     const runtime = sourceRuntime[source.id];
-                     const crawling = busy[`source:${source.id}`];
-                     const testing = busy[`test:${source.id}`];
-                    return (
-                      <TableRow key={source.id}>
-                        <TableCell>
-                          <button
-                            type="button"
-                            className="block max-w-[170px] truncate text-left font-medium hover:text-primary"
-                            onClick={() => setDetailSource(source)}
-                          >
-                            {source.name}
-                          </button>
-                        </TableCell>
-                        <TableCell className="text-xs">
-                          <span className="block max-w-[130px] truncate" title={`${source.group} · ${source.type}`}>{source.type}</span>
-                        </TableCell>
-                        <TableCell className="text-xs">{source.region}</TableCell>
-                        <TableCell><span className="block max-w-[150px] truncate text-xs">{source.directions}</span></TableCell>
-                        <TableCell><span className="block max-w-[130px] truncate text-xs">{source.products || '—'}</span></TableCell>
-                        <TableCell><span className="block max-w-[110px] truncate text-xs">{source.representative || '—'}</span></TableCell>
-                        <TableCell>
-                          <Badge variant={source.priority === '高' ? 'default' : 'outline'}>{source.priority}</Badge>
-                        </TableCell>
-                        <TableCell>
-                          <Switch
-                            checked={runtime?.enabled ?? true}
-                            onCheckedChange={() => toggleSource(source.id)}
-                            aria-label={`启用或停用 ${source.name}`}
-                          />
-                        </TableCell>
-                        <TableCell className="whitespace-nowrap tabular-nums text-xs">
-                          {formatDateTime(runtime?.lastCrawlAt ?? null)}
-                        </TableCell>
-                        <TableCell>
-                          <div className="flex flex-col gap-1">
-                             <CrawlStatusBadge status={runtime?.crawlStatus ?? 'idle'} />
-                             {(runtime?.lastDiagnostic || runtime?.lastError) && (
-                               <span
-                                 className="block max-w-[150px] truncate text-xs text-destructive"
-                                 title={runtime.lastDiagnostic || runtime.lastError || ''}
-                               >
-                                 {runtime.lastDiagnostic || runtime.lastError}
-                               </span>
-                             )}
-                          </div>
-                        </TableCell>
-                         <TableCell className="whitespace-nowrap text-right">
-                           <div className="flex justify-end gap-2">
-                             <Button
-                               size="sm"
-                               variant="outline"
-                               disabled={testing}
-                               onClick={() => void testSource(source.id)}
-                             >
-                               {testing ? (
-                                 <Loader2 className="size-4 animate-spin" />
-                               ) : (
-                                 <FlaskConical className="size-4" />
-                               )}
-                               {testing ? '测试中' : '测试'}
-                             </Button>
-                             <Button
-                               size="sm"
-                               variant="outline"
-                               disabled={crawling || runtime?.enabled === false}
-                               onClick={() => handleCrawl(source)}
-                             >
-                               {crawling ? <Loader2 className="size-4 animate-spin" /> : <Download className="size-4" />}
-                               {crawling ? '抓取中' : '抓取'}
-                             </Button>
-                           </div>
-                         </TableCell>
-                      </TableRow>
-                    );
-                  })
-                )}
-              </TableBody>
-            </Table>
-          </div>
-        </CardContent>
-      </Card>
-
-      {/* 来源详情弹窗（清单全字段） */}
-      <Dialog open={!!detailSource} onOpenChange={(open) => !open && setDetailSource(null)}>
-        <DialogContent className="max-h-[85vh] overflow-y-auto sm:max-w-lg">
-          {detailSource && (
-            <>
-              <DialogHeader>
-                <DialogTitle className="flex items-center gap-2">
-                  <Rss className="size-4 text-primary" />
-                  {detailSource.name}
-                </DialogTitle>
-                <DialogDescription>{detailSource.group} · {detailSource.type} · {detailSource.region}</DialogDescription>
-              </DialogHeader>
-              <div>
-                <DetailRow label="AI4S 研究方向">{detailSource.directions}</DetailRow>
-                <DetailRow label="核心产品 / 平台">{detailSource.products || '—'}</DetailRow>
-                <DetailRow label="代表人物 / 负责人">{detailSource.representative || '—'}</DetailRow>
-                <DetailRow label="优先级">
-                  <Badge variant={detailSource.priority === '高' ? 'default' : 'outline'}>{detailSource.priority}</Badge>
-                </DetailRow>
-                <DetailRow label="官方网站">
-                  {detailSource.website ? (
-                    <a className="text-primary hover:underline" href={detailSource.website} target="_blank" rel="noreferrer">
-                      {detailSource.website}
-                    </a>
-                  ) : '—'}
-                </DetailRow>
-                <DetailRow label="官方公众号">{detailSource.wechat || '—'}</DetailRow>
-                <DetailRow label="LinkedIn">
-                  {detailSource.linkedin ? (
-                    <a className="text-primary hover:underline" href={detailSource.linkedin} target="_blank" rel="noreferrer">
-                      {detailSource.linkedin}
-                    </a>
-                  ) : '—'}
-                </DetailRow>
-                <DetailRow label="GitHub">
-                  {detailSource.github ? (
-                    <a className="text-primary hover:underline" href={detailSource.github} target="_blank" rel="noreferrer">
-                      {detailSource.github}
-                    </a>
-                  ) : '—'}
-                </DetailRow>
-                <DetailRow label="RSS / 会议链接">
-                  {detailSource.feedUrl ? (
-                    <a className="text-primary hover:underline" href={detailSource.feedUrl} target="_blank" rel="noreferrer">
-                      {detailSource.feedUrl}
-                    </a>
-                  ) : '—'}
-                </DetailRow>
-                <DetailRow label="备注">{detailSource.notes || '—'}</DetailRow>
-                 <DetailRow label="抓取状态">
-                   <CrawlStatusBadge status={detailRuntime?.crawlStatus ?? 'idle'} />
-                 </DetailRow>
-                 <DetailRow label="抓取策略">
-                   {detailRuntime
-                     ? (CRAWL_STRATEGY_LABELS[detailRuntime.crawlStrategy] ??
-                         detailRuntime.crawlStrategy) || '—'
-                     : '—'}
-                 </DetailRow>
-                 <DetailRow label="发现的订阅地址">
-                   {detailRuntime?.discoveredFeedUrl ? (
-                     <a
-                       className="text-primary hover:underline"
-                       href={detailRuntime.discoveredFeedUrl}
-                       target="_blank"
-                       rel="noreferrer"
-                     >
-                       {detailRuntime.discoveredFeedUrl}
-                     </a>
-                   ) : '—'}
-                 </DetailRow>
-                 <DetailRow label="最近抓取时间">
-                   {formatDateTime(detailRuntime?.lastCrawlAt ?? null)}
-                 </DetailRow>
-                 <DetailRow label="最后成功抓取">
-                   {formatDateTime(detailRuntime?.lastSuccessAt ?? null)}
-                 </DetailRow>
-                 <DetailRow label="最近检查">
-                   {formatDateTime(detailRuntime?.lastCheckAt ?? null)}
-                 </DetailRow>
-                 <DetailRow label="诊断信息">
-                   {detailRuntime?.lastDiagnostic ? (
-                     <span className="whitespace-pre-wrap rounded bg-muted px-2 py-1 text-left text-xs text-muted-foreground">
-                       {detailRuntime.lastDiagnostic}
-                     </span>
-                   ) : '—'}
-                 </DetailRow>
-                 {detailRuntime?.lastError && (
-                   <DetailRow label="失败原因">
-                     <span className="text-destructive">{detailRuntime.lastError}</span>
-                   </DetailRow>
-                 )}
-              </div>
-            </>
-          )}
-        </DialogContent>
-      </Dialog>
-    </div>
-  );
+  return <div className="space-y-4">
+    <Card><CardContent className="space-y-2 pt-5 text-sm">
+      <p className="font-medium">GitHub 原生来源管理</p>
+      <p className="text-muted-foreground">操作会先生成 GitHub Issue 请求；在 GitHub 确认提交后，由 Actions 验证仓库写入权限并执行。前端不保存 Token。原每六小时自动抓取保持不变。</p>
+      <div className="flex flex-wrap items-center gap-3"><Button size="sm" variant="outline" onClick={()=>void refresh()} disabled={loading}>{loading?<Loader2 className="size-4 animate-spin"/>:<RefreshCw className="size-4"/>}刷新结果</Button><a className="text-primary hover:underline" href={SOURCE_ACTIONS_URL} target="_blank" rel="noopener noreferrer">查看 Actions / 恢复未处理请求 <ExternalLink className="inline size-3"/></a><span className="text-xs text-muted-foreground">数据时间：{date(updatedAt)}</span></div>
+      {error&&<p role="alert" className="text-destructive">{error}</p>}
+    </CardContent></Card>
+    <HealthCheckPanel stats={health} running={false} onStart={()=>prepare('health_check','全部来源健康检查')}/>
+    <Card><CardHeader className="pb-3"><CardTitle className="text-sm">来源筛选</CardTitle></CardHeader><CardContent className="grid grid-cols-2 gap-3 md:grid-cols-5">
+      {([{label:'清单分组',value:group,set:setGroup,items:[...new Set(sources.map(s=>s.groupName))]}, {label:'国家 / 地区',value:region,set:setRegion,items:[...new Set(sources.map(s=>s.region))]}, {label:'优先级',value:priority,set:setPriority,items:['高','中','低']}] as const).map(f=><div key={f.label} className="space-y-1"><label className="text-xs text-muted-foreground">{f.label}</label><Select value={f.value} onValueChange={f.set}><SelectTrigger className="w-full"><SelectValue/></SelectTrigger><SelectContent><SelectItem value="all">全部</SelectItem>{f.items.filter(Boolean).map(i=><SelectItem key={i} value={i}>{i}</SelectItem>)}</SelectContent></Select></div>)}
+      <div className="space-y-1"><label className="text-xs text-muted-foreground">状态</label><Select value={status} onValueChange={setStatus}><SelectTrigger className="w-full"><SelectValue/></SelectTrigger><SelectContent><SelectItem value="all">全部状态</SelectItem><SelectItem value="failed">仅失败</SelectItem><SelectItem value="ok">成功</SelectItem><SelectItem value="no_content">无可解析内容</SelectItem><SelectItem value="disabled">已停用</SelectItem><SelectItem value="idle">未检查</SelectItem></SelectContent></Select></div>
+      <div className="space-y-1"><label className="text-xs text-muted-foreground">名称 / 方向 / 公众号</label><Input value={search} onChange={e=>setSearch(e.target.value)} placeholder="如：药物 / 材料"/></div>
+    </CardContent></Card>
+    <Card><CardHeader className="pb-3"><div className="flex flex-wrap items-center justify-between gap-2"><CardTitle className="text-sm">监控来源清单（{filtered.length}/{sources.length}）</CardTitle><div className="flex flex-wrap gap-2"><Button size="sm" variant="outline" onClick={exportCsv} disabled={!filtered.length}>导出筛选结果</Button><Button size="sm" variant="outline" disabled={!failedCount} onClick={()=>prepare('retry_failed',`重试失败来源（${failedCount} 个；以执行时状态为准）`)}>重试失败来源（{failedCount}）</Button><Button size="sm" variant="outline" onClick={()=>prepare('health_check','全部来源健康检查')}><FlaskConical className="size-4"/>全部测试</Button><Button size="sm" onClick={()=>prepare('crawl_all','抓取全部已启用来源')}><Download className="size-4"/>全部抓取</Button></div></div></CardHeader>
+      <CardContent className="overflow-x-auto p-0"><Table><TableHeader><TableRow>{['主体名称','主体类型','国家 / 地区','研究方向','核心产品 / 平台','代表人物','优先级','启用','最近抓取','状态','操作'].map(h=><TableHead className="whitespace-nowrap" key={h}>{h}</TableHead>)}</TableRow></TableHeader><TableBody>
+        {!filtered.length&&<TableRow><TableCell colSpan={11} className="h-24 text-center text-muted-foreground">{loading?'正在加载来源…':'没有符合条件的来源'}</TableCell></TableRow>}
+        {filtered.map(s=><TableRow key={s.sourceKey}><TableCell><button className="max-w-[180px] truncate text-left font-medium hover:text-primary" onClick={()=>setDetailId(s.sourceKey)}>{s.name}</button></TableCell><TableCell className="text-xs">{s.type}</TableCell><TableCell className="text-xs">{s.region}</TableCell><TableCell><span className="block max-w-[150px] truncate text-xs" title={s.directions}>{s.directions}</span></TableCell><TableCell><span className="block max-w-[130px] truncate text-xs">{s.products||'—'}</span></TableCell><TableCell className="text-xs">{s.representative||'—'}</TableCell><TableCell><Badge variant={s.priority==='高'?'default':'outline'}>{s.priority}</Badge></TableCell><TableCell><Switch checked={s.enabled} onCheckedChange={enabled=>prepare('set_enabled',`${enabled?'启用':'停用'}：${s.name}`,s,enabled)} aria-label={`启用或停用 ${s.name}`}/></TableCell><TableCell className="whitespace-nowrap text-xs">{date(s.lastCrawlAt)}</TableCell><TableCell><CrawlStatusBadge status={s.crawlStatus}/></TableCell><TableCell><div className="flex gap-2"><Button size="sm" variant="outline" onClick={()=>prepare('health_check',`检测：${s.name}`,s)}>检测</Button><Button size="sm" variant="outline" disabled={!s.enabled||s.crawlStrategy==='disabled'} onClick={()=>prepare('crawl',`抓取：${s.name}`,s)}>{failures.has(s.crawlStatus)?'重新抓取':'抓取'}</Button></div></TableCell></TableRow>)}
+      </TableBody></Table></CardContent></Card>
+    <Card><CardHeader><CardTitle className="text-sm">操作请求与执行结果</CardTitle></CardHeader><CardContent className="space-y-3 text-sm">
+      {pending.map(d=><div key={d.command.requestId} className="rounded border p-3"><p>{d.label}</p><p className="mt-1 text-xs text-muted-foreground">尚未收到执行结果。请确认已在 GitHub 提交；这里不把打开页面视为任务已启动。</p><div className="mt-2 flex gap-3"><a className="text-primary hover:underline" href={d.url} target="_blank" rel="noopener noreferrer">打开请求（已提交请勿重复）</a><button className="text-muted-foreground" onClick={()=>dismiss(d.command.requestId)}>移除此提示</button></div></div>)}
+      {receipts.slice(0,10).map(r=><div key={r.requestId} className="rounded border p-3"><div className="flex flex-wrap justify-between gap-2"><span>{r.status==='success'?'已执行':r.status==='partial'?'部分来源失败':'执行失败'} · {date(r.finishedAt)}</span><div className="flex gap-3"><a className="text-primary" href={r.issueUrl} target="_blank" rel="noopener noreferrer">请求 #{r.issueNumber}</a><a className="text-primary" href={r.runUrl} target="_blank" rel="noopener noreferrer">Actions 日志</a></div></div><p className="mt-2 text-muted-foreground">{r.detail}</p></div>)}
+      {!pending.length&&!receipts.length&&<p className="text-muted-foreground">暂无操作记录。请求执行并写入仓库后会显示结果。</p>}
+    </CardContent></Card>
+    <Dialog open={!!draft} onOpenChange={open=>{if(!open)setDraft(null);}}><DialogContent><DialogHeader><DialogTitle>确认操作请求</DialogTitle><DialogDescription>下一步在 GitHub 登录并提交 Issue；仅生成请求还不会执行。</DialogDescription></DialogHeader>{draft&&<div className="space-y-4"><p className="font-medium">{draft.label}</p><p className="text-sm text-muted-foreground">启停结果以服务器执行后的数据为准。检测不抓正文；抓取也不会被误报为 AI 分析完成。定时抓取计划和轮询位置不变。</p><Button asChild><a href={draft.url} target="_blank" rel="noopener noreferrer" onClick={()=>{remember(draft);setDraft(null);}}>前往 GitHub 提交请求 <ExternalLink className="size-4"/></a></Button></div>}</DialogContent></Dialog>
+    <Dialog open={!!detail} onOpenChange={open=>{if(!open)setDetailId(null);}}><DialogContent className="max-h-[85vh] overflow-y-auto sm:max-w-lg">{detail&&<><DialogHeader><DialogTitle className="flex items-center gap-2"><Rss className="size-4"/>{detail.name}</DialogTitle><DialogDescription>{detail.groupName} · {detail.type} · {detail.region}</DialogDescription></DialogHeader><div>
+      <Row label="来源编号">{detail.sourceKey}</Row><Row label="AI4S 研究方向">{detail.directions}</Row><Row label="核心产品 / 平台">{detail.products}</Row><Row label="代表人物 / 负责人">{detail.representative}</Row><Row label="优先级">{detail.priority}</Row><Row label="官方网站"><Link url={detail.website}/></Row><Row label="官方公众号">{detail.wechat}</Row><Row label="LinkedIn"><Link url={detail.linkedin}/></Row><Row label="GitHub"><Link url={detail.github}/></Row><Row label="RSS / 会议链接"><Link url={detail.feedUrl}/></Row><Row label="备注">{detail.notes}</Row><Row label="抓取状态"><CrawlStatusBadge status={detail.crawlStatus}/></Row><Row label="抓取策略">{strategy[detail.crawlStrategy]||detail.crawlStrategy}</Row><Row label="发现的订阅地址"><Link url={detail.discoveredFeedUrl}/></Row><Row label="最近抓取时间">{date(detail.lastCrawlAt)}</Row><Row label="最后成功抓取">{date(detail.lastSuccessAt)}</Row><Row label="最近检查">{date(detail.lastCheckAt)}</Row><Row label="诊断与修复建议">{detail.lastDiagnostic}</Row><Row label="失败原因">{detail.lastError}</Row>
+    </div><div className="flex gap-2"><Button variant="outline" onClick={()=>prepare('health_check',`检测：${detail.name}`,detail)}>重新检测</Button><Button disabled={!detail.enabled||detail.crawlStrategy==='disabled'} onClick={()=>prepare('crawl',`抓取：${detail.name}`,detail)}>重新抓取</Button></div></>}</DialogContent></Dialog>
+  </div>;
 }

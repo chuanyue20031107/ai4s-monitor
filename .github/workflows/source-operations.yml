@@ -1,0 +1,92 @@
+name: Source operations
+run-name: "Source requests · ${{ github.event.issue.number || 'recover queue' }}"
+on:
+  issues:
+    types: [opened]
+  workflow_dispatch:
+permissions:
+  contents: read
+# Independent from ai4s-pipeline-main: never cancels a scheduled crawl.
+# Each run drains open requests, so superseded pending runs do not lose requests.
+concurrency:
+  group: ai4s-source-operations
+  cancel-in-progress: false
+jobs:
+  operate:
+    if: github.event_name == 'workflow_dispatch' || startsWith(github.event.issue.title, '[source-op]')
+    runs-on: ubuntu-latest
+    timeout-minutes: 50
+    environment:
+      name: github-pages
+    permissions:
+      contents: write
+      issues: write
+      pages: write
+      id-token: write
+    steps:
+      - name: Authorize the triggering actor before installing or fetching sources
+        id: authorize
+        uses: actions/github-script@v7
+        with:
+          script: |
+            let allowed = false;
+            try {
+              const {data} = await github.rest.repos.getCollaboratorPermissionLevel({...context.repo, username: context.actor});
+              allowed = ['admin', 'maintain', 'write'].includes(data.permission);
+            } catch { /* Fail closed. */ }
+            if (!allowed) {
+              if (context.issue.number) await github.rest.issues.createComment({...context.repo, issue_number: context.issue.number, body: '请求未执行：仅仓库 write / maintain / admin 权限用户可以操作来源。'});
+              core.setFailed('Repository write permission required.');
+            }
+      - uses: actions/checkout@v5
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '22'
+      - run: npm install --no-audit --no-fund
+      - name: Execute validated pending source requests
+        env:
+          GH_TOKEN: ${{ github.token }}
+          WERSS_BASE_URL: ${{ secrets.WERSS_BASE_URL || vars.WERSS_BASE_URL }}
+        run: node scripts/source-operations.mjs
+      - name: Validate analyses and export data (no AI generation)
+        run: node scripts/pipeline.mjs
+      - name: Persist results without overwriting concurrent scheduled changes
+        id: persist
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data client/public/data
+          if ! git diff --cached --quiet; then git commit -m 'data: execute source requests [skip ci]'; fi
+          for attempt in 1 2 3; do
+            if git pull --rebase origin main && git push origin HEAD:main; then
+              echo 'saved=true' >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            if test -d .git/rebase-merge -o -d .git/rebase-apply; then
+              echo 'Concurrent data conflict; refusing to overwrite. Retry this workflow after resolving.' >&2
+              exit 1
+            fi
+            sleep 3
+          done
+          exit 1
+      - name: Build latest persisted data for Pages
+        run: node scripts/pipeline.mjs && npm run typecheck && npm run build
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: dist/client
+      - name: Deploy source operation results
+        id: deploy
+        uses: actions/deploy-pages@v4
+      - name: Report confirmed outcomes to request issues
+        if: always() && steps.authorize.outcome == 'success'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          SOURCE_DATA_SAVED: ${{ steps.persist.outputs.saved || 'false' }}
+          SOURCE_PAGES_DEPLOYED: ${{ steps.deploy.outcome == 'success' }}
+        run: node scripts/source-operations.mjs report
