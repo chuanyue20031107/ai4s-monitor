@@ -1,43 +1,38 @@
 # AI4S Monitor
 
-完全运行在 GitHub 上的 AI for Science 情报监控站：
-
-- GitHub Actions 每 6 小时轮转抓取来源；
-- `client/public/data/*.json` 是版本化 JSON 数据库；
-- GitHub Pages 托管只读 React 前端；
-- 不依赖妙搭、外部数据库、私有能力网关或常驻服务器。
-
-## 架构
+GitHub 原生 AI for Science 情报监控：GitHub Actions 采集，ChatGPT 定时任务分析，GitHub 版本化 JSON 存储，GitHub Pages 展示。
 
 ```text
-GitHub Actions (cron / manual)
-  -> scripts/crawl.mjs
-  -> client/public/data/*.json
-  -> commit to main
-  -> Vite build
-  -> GitHub Pages
+Actions 定时抓取 -> data/raw + data/queue
+ChatGPT Scheduled -> 读取正文并分析 -> data/inbox 新批次
+Actions -> 校验来源/字段/哈希 -> articles + 日报历史 -> Pages
 ```
 
-## 本地运行
+完整约定及批次格式见 [ChatGPT 分析协议](docs/chatgpt-analysis.md)。截图规则仍待确认，当前沿用项目已有字段。
 
-```bash
+## 运行
+
+```sh
 npm install
+node --test tests/pipeline.test.mjs
+npm run typecheck
 npm run crawl
+npm run build
 npm run dev
 ```
 
-## 自动抓取
+只校验并发布现有数据：`node scripts/pipeline.mjs`。不会把抓取成功标成 AI 分析完成，不用标题规则冒充日报。
 
-工作流位于 `.github/workflows/crawl-and-deploy.yml`。它每 6 小时抓取一批来源并轮转游标，也支持在 Actions 页面手动运行和指定批量大小。
+## 数据与任务
 
-配置保存在 `client/public/data/settings.json`；抓取后的文章、来源状态和运行记录均写回同一数据目录。Git 历史同时充当备份和审计日志。
+原始数据在 `data/raw/`，待分析索引在 `data/queue.json`，ChatGPT 每次向 `data/inbox/` 新建 JSON 批次。`data/receipts.json` 记录是否被系统接受。派生数据在 `client/public/data/`，日报归档在 `digests.json`。迁移前的旧规则结果备份至 `data/legacy/`。
 
-## GitHub Pages
+数据文件属于轻量级文件式存储，不是独立数据库。仓库公开，原始资料也公开；不要提交密钥、个人敏感信息或未经授权的全文。Pages 构建只复制前端导出数据，不复制 data/raw。
 
-仓库 Settings → Pages → Build and deployment 需选择 **GitHub Actions**。部署完成后的地址为：
+工作流每6小时轮转36个来源，每来源最多处理3篇，ChatGPT分析任务另行在Scheduled创建。公众号配置保留 `config/wechat_sources.csv` 及 `WERSS_BASE_URL` Secret；未配置来源不会被当作已接入。
 
-`https://chuanyue20031107.github.io/ai4s-monitor/`
+## 部署与权限
 
-## 约束
+Settings -> Pages -> Build and deployment 选择 GitHub Actions。未启用 Pages 或无法读取 Pages 配置时，工作流仍保存数据并发出警告，但不能据此声称网页已更新。
 
-GitHub Pages 是静态托管，因此网页不能直接写回数据库。需要立即抓取时，在仓库 Actions 页面运行 `Crawl and deploy`；结果会自动提交并重新发布。
+前端只读；写入经授权 GitHub 工具/Actions 完成。旧的浏览器本地“生成摘要”已停止提供规则假摘要。ChatGPT Scheduled 任务依赖支持的 GitHub 连接及写入批准；创建任务后须用收据和部署记录验证闭环，不保证绕过审批无人值守运行。
