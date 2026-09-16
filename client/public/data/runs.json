@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "id": "source-command:acceptance-source-health-20260917-7bca6b8c",
+      "taskType": "来源健康检查",
+      "status": "success",
+      "processed": 1,
+      "succeeded": 1,
+      "failed": 0,
+      "inserted": 0,
+      "enriched": 0,
+      "startedAt": "2026-09-16T17:03:17.465Z",
+      "finishedAt": "2026-09-16T17:03:18.335Z",
+      "detail": "检查 1 个来源：成功 1，失败 0；未抓取正文。",
+      "failureReason": ""
+    },
+    {
       "id": "01d72574-cc67-4664-9693-affd92c0941c",
       "taskType": "来源抓取",
       "status": "failed",
@@ -103,5 +117,5 @@
       "finishedAt": "2026-09-16T05:12:19.802Z"
     }
   ],
-  "updatedAt": "2026-09-16T17:02:13.988Z"
+  "updatedAt": "2026-09-16T17:03:18.378Z"
 }

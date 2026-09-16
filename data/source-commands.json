@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "version": 1,
+      "requestId": "acceptance-source-health-20260917-7bca6b8c",
+      "action": "health_check",
+      "sourceId": "s01-01",
+      "issueNumber": 5,
+      "issueUrl": "https://github.com/chuanyue20031107/ai4s-monitor/issues/5",
+      "runUrl": "https://github.com/chuanyue20031107/ai4s-monitor/actions/runs/35125701192",
+      "startedAt": "2026-09-16T17:03:17.463Z",
+      "status": "success",
+      "detail": "检查 1 个来源：成功 1，失败 0；未抓取正文。",
+      "processed": 1,
+      "failed": 0,
+      "finishedAt": "2026-09-16T17:03:18.335Z"
+    }
+  ],
+  "updatedAt": "2026-09-16T17:03:18.338Z"
+}

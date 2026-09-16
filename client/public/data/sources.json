@@ -24,8 +24,8 @@
       "crawlStatus": "no_content",
       "lastCrawlAt": "2026-09-16T08:37:05.662Z",
       "lastSuccessAt": "2026-09-16T08:37:06.868Z",
-      "lastDiagnostic": "发现 0 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T08:37:05.662Z",
+      "lastDiagnostic": "入口可访问但未发现可解析条目；可能需要 RSS/专用解析器，不代表网站没有更新。",
+      "lastCheckAt": "2026-09-16T17:03:17.465Z",
       "lastError": ""
     },
     {
@@ -5153,5 +5153,5 @@
       "lastError": ""
     }
   ],
-  "updatedAt": "2026-09-16T11:46:53.330Z"
+  "updatedAt": "2026-09-16T17:03:18.335Z"
 }
