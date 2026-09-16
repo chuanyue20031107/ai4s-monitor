@@ -1,0 +1,16 @@
+{
+  "id": "dae9db2ebdce292c3e53e1c64c642900",
+  "title": "Student opportunities Learn about Broad Institute's mentored research offerings for high school students, college students, and recent college graduates.",
+  "url": "https://www.broadinstitute.org/for-students",
+  "sourceKey": "s01-06",
+  "sourceName": "Broad Institute",
+  "sourceType": "非营利研究机构",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T05:12:08.435Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "dae9db2ebdce292c3e53e1c64c642900"
+}

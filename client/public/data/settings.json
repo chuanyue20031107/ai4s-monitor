@@ -1,15 +1,15 @@
 {
   "settings": {
     "dailyCrawlEnabled": true,
+    "concurrency": 6,
+    "timeoutSeconds": 20,
+    "retryCount": 1,
     "dailyPushEnabled": false,
     "pushTime": "18:00",
     "feishuReceivers": [],
     "groupWebhookUrl": "",
     "weeklyReportEnabled": true,
     "weeklyReportDay": "fri",
-    "concurrency": 6,
-    "retryCount": 1,
-    "timeoutSeconds": 20,
     "minScore": 3,
     "focusCategories": [
       "模型",
@@ -22,6 +22,6 @@
     "retentionDays": 90,
     "crawlWindowStart": "00:00",
     "crawlWindowEnd": "23:59",
-    "lastRunAt": "2026-09-16T07:35:49.962Z"
+    "lastRunAt": "2026-09-16T07:47:45.355Z"
   }
 }

@@ -1,0 +1,16 @@
+{
+  "id": "579b46a3f890fdabd8c0c40ec19d79ee",
+  "title": "备案号： 沪ICP备2022028945号",
+  "url": "https://beian.miit.gov.cn/",
+  "sourceKey": "s04-02",
+  "sourceName": "奔曜科技 Bioyond",
+  "sourceType": "实验室自动化企业",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T06:05:25.992Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "579b46a3f890fdabd8c0c40ec19d79ee"
+}

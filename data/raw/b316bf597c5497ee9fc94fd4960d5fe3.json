@@ -1,0 +1,16 @@
+{
+  "id": "b316bf597c5497ee9fc94fd4960d5fe3",
+  "title": "Professional Services",
+  "url": "https://proservices.healthtech.com/?cdtConferenceId=404272006.1663694140&cdtRollupId=404272006.1663694140",
+  "sourceKey": "s11-13",
+  "sourceName": "Bio-IT World Conference & Expo",
+  "sourceType": "产业技术会议",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T07:35:36.188Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "88ad220df4abb24ff9499c4b1c3c51f0"
+}

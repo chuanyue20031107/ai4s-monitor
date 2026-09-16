@@ -1,0 +1,16 @@
+{
+  "id": "b449dd6aa5e81181e3f87951c34eaeb2",
+  "title": "Paper Published about the PDB Beta Archive",
+  "url": "https://www.rcsb.org/news/feature/6a7367b43bf5580b84a87d2f",
+  "sourceKey": "s07-13",
+  "sourceName": "RCSB Protein Data Bank",
+  "sourceType": "科学数据库与平台",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T06:57:50.143Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "b449dd6aa5e81181e3f87951c34eaeb2"
+}

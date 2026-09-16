@@ -1,0 +1,16 @@
+{
+  "id": "bff4f4761add239f7b1d727e6d09fdc9",
+  "title": "SciEngine期刊",
+  "url": "https://www.sciengine.com/publications/lists?matrix=39DF671BA6A0467795AC820CBE42F48A",
+  "sourceKey": "s08-06",
+  "sourceName": "中国科学院",
+  "sourceType": "国家科研机构",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T07:35:27.532Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "bff4f4761add239f7b1d727e6d09fdc9"
+}

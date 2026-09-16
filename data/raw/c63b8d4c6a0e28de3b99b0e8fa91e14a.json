@@ -1,0 +1,16 @@
+{
+  "id": "c63b8d4c6a0e28de3b99b0e8fa91e14a",
+  "title": "DeepSeek V3",
+  "url": "https://www.deepseek.com/news/deepseek-v3/",
+  "sourceKey": "s03-01",
+  "sourceName": "DeepSeek",
+  "sourceType": "通用模型厂商",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T06:05:19.446Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "c63b8d4c6a0e28de3b99b0e8fa91e14a"
+}

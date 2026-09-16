@@ -1,0 +1,18 @@
+{
+  "id": "4bb4f02568b1eac694abbecd9131c022",
+  "title": "Barcelona",
+  "url": "https://www.embl.org/sites/barcelona/",
+  "sourceKey": "s01-25",
+  "sourceName": "European Molecular Biology Laboratory",
+  "sourceType": "国际研究机构",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T07:47:27.813Z",
+  "content": "02 Sep 2026 Bovine stem cells offer new approach to future cultivated steak research Edit",
+  "contentStatus": "insufficient_content",
+  "extractionMethod": "article-or-main-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-16T07:47:27.813Z",
+  "contentTruncated": false,
+  "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成",
+  "contentHash": "6ec00d9e1cf71065762ef635c2d3a0815f0d34a758f5fbf9670cfa36c0e5121a"
+}

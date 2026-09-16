@@ -1,0 +1,16 @@
+{
+  "id": "542fab1deb3e55f53877e3bf6cb00871",
+  "title": "The ChEMBL Database in 2023: a drug discovery platform spanning multiple bioactivity data types and time periods.",
+  "url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkad1004/7337608",
+  "sourceKey": "s07-12",
+  "sourceName": "ChEMBL",
+  "sourceType": "科学数据库与平台",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T06:57:50.684Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "542fab1deb3e55f53877e3bf6cb00871"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "02bf82d14e7d76a2085f51baad9fff54",
+  "title": "平台实验室",
+  "url": "https://tib2024.cas.cn/kjpt/gk/",
+  "sourceKey": "s05-08",
+  "sourceName": "国家合成生物技术创新中心/生物铸造平台",
+  "sourceType": "自主实验室与平台",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T06:05:32.213Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "02bf82d14e7d76a2085f51baad9fff54"
+}

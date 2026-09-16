@@ -1,0 +1,16 @@
+{
+  "id": "cbb3d1ed94ce160525280a6ee48a97d0",
+  "title": "书生·端砚｜AI 科研工作台",
+  "url": "https://discovery-home.intern-ai.org.cn/home",
+  "sourceKey": "s07-02",
+  "sourceName": "书生科学发现平台 Intern-Discovery",
+  "sourceType": "科学数据库与平台",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T06:57:45.045Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "cbb3d1ed94ce160525280a6ee48a97d0"
+}

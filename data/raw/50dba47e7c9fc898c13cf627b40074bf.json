@@ -1,0 +1,16 @@
+{
+  "id": "50dba47e7c9fc898c13cf627b40074bf",
+  "title": "Publications",
+  "url": "https://research.nvidia.com/publications",
+  "sourceKey": "s01-03",
+  "sourceName": "NVIDIA Research",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T05:12:08.213Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "50dba47e7c9fc898c13cf627b40074bf"
+}

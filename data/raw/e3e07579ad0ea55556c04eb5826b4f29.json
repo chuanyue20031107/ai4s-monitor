@@ -1,0 +1,16 @@
+{
+  "id": "e3e07579ad0ea55556c04eb5826b4f29",
+  "title": "Publications",
+  "url": "https://www.schrodinger.com/materials-science/resources/?type=publication",
+  "sourceKey": "s02-04",
+  "sourceName": "Schrödinger",
+  "sourceType": "计算化学软件与药物公司",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T06:05:18.824Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "e3e07579ad0ea55556c04eb5826b4f29"
+}

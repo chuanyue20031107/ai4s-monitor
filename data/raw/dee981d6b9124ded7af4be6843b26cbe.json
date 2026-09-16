@@ -1,0 +1,16 @@
+{
+  "id": "dee981d6b9124ded7af4be6843b26cbe",
+  "title": "展馆布局图",
+  "url": "https://www.analyticachina.com.cn/cn/analytica-china-2026/Hall-plan",
+  "sourceKey": "s10-10",
+  "sourceName": "慕尼黑上海分析生化展 analytica China",
+  "sourceType": "实验室技术展会",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T07:35:33.582Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "dee981d6b9124ded7af4be6843b26cbe"
+}

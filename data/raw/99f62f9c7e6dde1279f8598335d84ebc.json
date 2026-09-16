@@ -1,0 +1,16 @@
+{
+  "id": "99f62f9c7e6dde1279f8598335d84ebc",
+  "title": "Policy on Clinically Actionable Genomic Research Results",
+  "url": "https://www.ga4gh.org/product/policy-on-clinically-actionable-genomic-research-results/",
+  "sourceKey": "s11-04",
+  "sourceName": "GA4GH",
+  "sourceType": "基因组标准组织",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T07:35:35.568Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "99f62f9c7e6dde1279f8598335d84ebc"
+}

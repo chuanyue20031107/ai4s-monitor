@@ -1,0 +1,16 @@
+{
+  "id": "a772e7c9ad4fd357a60b42f73dbedfc5",
+  "title": "&#x79D1;&#x7814;cafe",
+  "url": "http://www.sslab.org.cn/news/speciallist?id=Y001",
+  "sourceKey": "s05-17",
+  "sourceName": "松山湖材料实验室",
+  "sourceType": "自主实验室与平台",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T06:57:38.624Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "a772e7c9ad4fd357a60b42f73dbedfc5"
+}

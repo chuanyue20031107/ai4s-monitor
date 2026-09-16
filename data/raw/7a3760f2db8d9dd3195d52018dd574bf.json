@@ -1,0 +1,18 @@
+{
+  "id": "7a3760f2db8d9dd3195d52018dd574bf",
+  "title": "関西センター：ニュース",
+  "url": "https://www.aist.go.jp/kansai/ja/news/index.html",
+  "sourceKey": "s01-23",
+  "sourceName": "AIST",
+  "sourceType": "国家研究机构",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T07:47:26.243Z",
+  "content": "",
+  "contentStatus": "insufficient_content",
+  "extractionMethod": "meta-description",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-16T07:47:26.243Z",
+  "contentTruncated": false,
+  "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

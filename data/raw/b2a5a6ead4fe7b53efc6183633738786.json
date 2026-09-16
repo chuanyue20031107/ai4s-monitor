@@ -1,0 +1,16 @@
+{
+  "id": "b2a5a6ead4fe7b53efc6183633738786",
+  "title": "re:Invent",
+  "url": "https://aws.amazon.com/events/reinvent/?nc2=h_l1_f",
+  "sourceKey": "s01-12",
+  "sourceName": "Amazon Web Services",
+  "sourceType": "科技大厂",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T07:35:36.375Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "b2a5a6ead4fe7b53efc6183633738786"
+}

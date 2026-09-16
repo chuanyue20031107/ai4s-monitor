@@ -1,0 +1,16 @@
+{
+  "id": "7947765ced6e7124e97c67c74426cbc4",
+  "title": "Whitepapers Expand your knowledge of the cloud with expert guides and diagrams",
+  "url": "https://aws.amazon.com/whitepapers/?nc2=h_rsc_lrn_wp",
+  "sourceKey": "s01-12",
+  "sourceName": "Amazon Web Services",
+  "sourceType": "科技大厂",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T07:35:36.375Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "7947765ced6e7124e97c67c74426cbc4"
+}

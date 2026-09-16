@@ -1,0 +1,18 @@
+{
+  "id": "a5cca33cda5c30dcf94822d45edf511f",
+  "title": "Latest News",
+  "url": "https://allenai.org/news",
+  "sourceKey": "s01-17",
+  "sourceName": "Allen Institute for AI",
+  "sourceType": "非营利AI研究机构",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T07:47:23.470Z",
+  "content": "Ai2 news September 2026 - The hard parts of AI-assisted science At an Ai2 event marking our expanded collaboration with Providence Swedish, researchers explored the hardest… Read post August 2026 - Ai2 and Providence Swedish Cancer Institute partner to advance AI-assisted scientific discovery Ai2 and Providence Swedish Cancer Institute are expanding their collaboration after AutoDiscovery helped… Read post August 2026 - Ai2 expands collaboration with Hugging Face to accelerate open science Ai2 is expanding its partnership with Hugging Face to give its growing portfolio of fully open models, datasets,… Read post July 2026 - Who gets to understand AI? Why fully open models and research artifacts are essential to independent scrutiny, broader participation, and… Read post July 2026 - Modular LLMs at scale: how FlexOlmo is helping to pool national expertise without pooling sensitive data Danish Foundation Models is using FlexOlmo as the basis for FlexMoRE, a more efficient modular LLM architecture… Read post June 2026 - MolmoMotion: Language-guided 3D motion forecasting MolmoMotion is an open, language-guided 3D motion forecasting model that predicts how object points will move in… Read post May 2026 - Why Artificial Analysis uses Ai2's IFBench instruction-following eval Artificial Analysis uses Ai2’s open IFBench eval because it captures a stubborn, real-world capability many… Read post May 2026 - Open by design: Ai2 brings fully open AI infrastructure online with NSF OMAI Ai2 is bringing NSF OMAI compute online to power a fully open AI research ecosystem, turning national… Read post May 2026 - MolmoAct 2: An open foundation for robots that work in the real world MolmoAct 2 is a fully open robotics foundation model that brings faster, stronger 3D action reasoning to… Read post Previous 1-9 Next",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-16T07:47:23.470Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "c61d0af91ab275f862eadc6d9965d3825c2d71bf1d3793ecc77eb6b6a6314b54"
+}

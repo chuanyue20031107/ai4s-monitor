@@ -1,0 +1,16 @@
+{
+  "id": "adbee91584c1a9344e73cf09708f9137",
+  "title": "Learn about educational offerings and outreach events",
+  "url": "https://pdb101.rcsb.org/news/2023",
+  "sourceKey": "s07-13",
+  "sourceName": "RCSB Protein Data Bank",
+  "sourceType": "科学数据库与平台",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T06:57:50.143Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "adbee91584c1a9344e73cf09708f9137"
+}

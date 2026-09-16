@@ -1,0 +1,16 @@
+{
+  "id": "a9d72a37dea2e2a913eb90fe361bd0d9",
+  "title": "Meta AI Research: Muse Spark, Muse Glimmer and Muse Image",
+  "url": "https://ai.meta.com/research/",
+  "sourceKey": "s01-13",
+  "sourceName": "Meta FAIR",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T07:35:38.656Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "a9d72a37dea2e2a913eb90fe361bd0d9"
+}

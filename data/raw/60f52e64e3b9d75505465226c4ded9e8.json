@@ -1,0 +1,16 @@
+{
+  "id": "60f52e64e3b9d75505465226c4ded9e8",
+  "title": "ModelScope",
+  "url": "https://modelscope.cn/home",
+  "sourceKey": "s03-05",
+  "sourceName": "阿里云",
+  "sourceType": "科技大厂",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T06:05:22.652Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "60f52e64e3b9d75505465226c4ded9e8"
+}

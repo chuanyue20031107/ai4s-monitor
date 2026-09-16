@@ -1,0 +1,16 @@
+{
+  "id": "18ad884bb4065a234b2377b3c19ada46",
+  "title": "Citrine's Blog",
+  "url": "https://citrine.io/resources/blog/",
+  "sourceKey": "s02-15",
+  "sourceName": "Citrine Informatics",
+  "sourceType": "材料信息学公司",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T06:05:19.356Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "18ad884bb4065a234b2377b3c19ada46"
+}

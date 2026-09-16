@@ -1,0 +1,16 @@
+{
+  "id": "2c561c919761d33d7684a76dd85a2d79",
+  "title": "试卷切题识别 新品",
+  "url": "https://ai.baidu.com/tech/ocr/paper_cut_edu",
+  "sourceKey": "s03-04",
+  "sourceName": "百度",
+  "sourceType": "科技大厂",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T06:05:24.251Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "2c561c919761d33d7684a76dd85a2d79"
+}

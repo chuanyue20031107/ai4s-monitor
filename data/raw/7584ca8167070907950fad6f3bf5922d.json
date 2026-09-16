@@ -1,0 +1,16 @@
+{
+  "id": "7584ca8167070907950fad6f3bf5922d",
+  "title": "Events and webinars Connect, collaborate, and learn from AWS experts in the cloud computing community",
+  "url": "https://aws.amazon.com/events/?nc2=h_rsc_cs_ev",
+  "sourceKey": "s01-12",
+  "sourceName": "Amazon Web Services",
+  "sourceType": "科技大厂",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T07:35:36.375Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "7584ca8167070907950fad6f3bf5922d"
+}

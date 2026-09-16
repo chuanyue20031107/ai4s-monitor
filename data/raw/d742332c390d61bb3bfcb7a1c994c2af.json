@@ -1,0 +1,16 @@
+{
+  "id": "d742332c390d61bb3bfcb7a1c994c2af",
+  "title": "EMBL-EBI Training events",
+  "url": "https://www.ebi.ac.uk/training/",
+  "sourceKey": "s01-09",
+  "sourceName": "EMBL-EBI",
+  "sourceType": "国际研究机构",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T05:12:13.867Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "d742332c390d61bb3bfcb7a1c994c2af"
+}

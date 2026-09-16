@@ -1,0 +1,16 @@
+{
+  "id": "16a339fe911038b785319debb66da06d",
+  "title": "Eric and Wendy Schmidt Center The EWSC is catalyzing a new field of interdisciplinary research at the intersection of data science and life science, aimed at improving human health.",
+  "url": "https://www.broadinstitute.org/ewsc",
+  "sourceKey": "s01-06",
+  "sourceName": "Broad Institute",
+  "sourceType": "非营利研究机构",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T05:12:08.435Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "16a339fe911038b785319debb66da06d"
+}

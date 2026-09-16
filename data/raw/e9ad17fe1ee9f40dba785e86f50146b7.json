@@ -1,0 +1,16 @@
+{
+  "id": "e9ad17fe1ee9f40dba785e86f50146b7",
+  "title": "Events",
+  "url": "https://www.schrodinger.com/life-science/resources/?type=event",
+  "sourceKey": "s02-04",
+  "sourceName": "Schrödinger",
+  "sourceType": "计算化学软件与药物公司",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T06:05:18.824Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "e9ad17fe1ee9f40dba785e86f50146b7"
+}

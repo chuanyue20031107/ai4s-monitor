@@ -1,0 +1,16 @@
+{
+  "id": "a6468fc24a5ea769b6315240fd803d61",
+  "title": "GLM-5V-Turbo",
+  "url": "https://www.zhipuai.cn/zh/research/156",
+  "sourceKey": "s03-03",
+  "sourceName": "智谱",
+  "sourceType": "通用模型厂商",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T06:05:27.102Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "a6468fc24a5ea769b6315240fd803d61"
+}

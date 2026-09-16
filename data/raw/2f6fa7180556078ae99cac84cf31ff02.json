@@ -1,0 +1,18 @@
+{
+  "id": "2f6fa7180556078ae99cac84cf31ff02",
+  "title": "Publications",
+  "url": "https://www.sanger.ac.uk/science/scientific-publications/",
+  "sourceKey": "s01-20",
+  "sourceName": "Wellcome Sanger Institute",
+  "sourceType": "非营利研究机构",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T07:47:22.979Z",
+  "content": "Scientific publications The Sanger Institute has published papers in some of the most prestigious scientific journals. We aim to publish research that will transform biology and improve healthcare. See full index Sanger Institute Publications Loading publications... Sanger Institute Publications by year Sanger Institute Publications by year 2026 2025 2024 2023 2022 2021 2020 2019 2018 2017 2016 2015 2014 2013 2012 2011 2010 2009 2008 2007 2006 2005 2004 2003 2002 2001 2000 1999 1998 1997 1996 1995 1994 1993 1992 PhD and MPhil Theses Our PhD and MPhil theses are available.",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-16T07:47:22.979Z",
+  "contentTruncated": true,
+  "contentError": "",
+  "contentHash": "e6a980f7fa20887df7414c4553ab9ed7bc76385b35cce7dc2675516f9541d082"
+}

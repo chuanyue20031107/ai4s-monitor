@@ -1,0 +1,16 @@
+{
+  "id": "60f024e81c4b7c8ade84a13679bc2841",
+  "title": "NIST-Developed Quantum Sensors Improve Nuclear Monitoring",
+  "url": "https://www.nist.gov/news-events/news/2026/09/nist-developed-quantum-sensors-improve-nuclear-monitoring",
+  "sourceKey": "s01-08",
+  "sourceName": "National Institute of Standards and Technology",
+  "sourceType": "国家计量标准机构",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T05:12:09.634Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "60f024e81c4b7c8ade84a13679bc2841"
+}

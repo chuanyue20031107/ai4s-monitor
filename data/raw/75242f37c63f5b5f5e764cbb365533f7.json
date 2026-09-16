@@ -1,0 +1,16 @@
+{
+  "id": "75242f37c63f5b5f5e764cbb365533f7",
+  "title": "All Research",
+  "url": "https://www.futurehouse.org/research-announcements",
+  "sourceKey": "s02-12",
+  "sourceName": "FutureHouse",
+  "sourceType": "非营利AI科研公司",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T06:05:19.109Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "75242f37c63f5b5f5e764cbb365533f7"
+}

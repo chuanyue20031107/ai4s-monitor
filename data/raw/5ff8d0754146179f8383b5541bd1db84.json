@@ -1,0 +1,16 @@
+{
+  "id": "5ff8d0754146179f8383b5541bd1db84",
+  "title": "Quantum Research",
+  "url": "https://research.ibm.com/topics/quantum-information-science",
+  "sourceKey": "s01-11",
+  "sourceName": "IBM Research",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T07:35:36.536Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "5ff8d0754146179f8383b5541bd1db84"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "4a6937e2cd384520fa3cfaac9a551a32",
+  "title": "新闻&活动",
+  "url": "https://biocrfgz.hkust-gz.edu.cn/cn/news-events/",
+  "sourceKey": "s05-06",
+  "sourceName": "自动化合成生物学系统（Biofoundry）",
+  "sourceType": "自主实验室与平台",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T06:05:30.861Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "4a6937e2cd384520fa3cfaac9a551a32"
+}

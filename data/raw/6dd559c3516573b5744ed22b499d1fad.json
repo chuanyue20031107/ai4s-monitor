@@ -1,0 +1,16 @@
+{
+  "id": "6dd559c3516573b5744ed22b499d1fad",
+  "title": "Wed Sep 16 2026",
+  "url": "https://www.rcsb.org/search?query={&quot;type&quot;:&quot;terminal&quot;,&quot;service&quot;:&quot;text&quot;,&quot;parameters&quot;:{&quot;attribute&quot;:&quot;rcsb_accession_info.initial_release_date&quot;,&quot;operator&quot;:&quot;range&quot;,&quot;value&quot;:{&quot;from&quot;:%20&quot;now-1w&quot;,%20&quot;include_lower&quot;:%20false,%20&quot;to&quot;:%20&quot;now&quot;,%20&quot;include_upper&quot;:%20true}}}",
+  "sourceKey": "s07-13",
+  "sourceName": "RCSB Protein Data Bank",
+  "sourceType": "科学数据库与平台",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T06:57:50.143Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "6dd559c3516573b5744ed22b499d1fad"
+}

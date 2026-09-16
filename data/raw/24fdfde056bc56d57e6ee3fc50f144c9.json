@@ -1,0 +1,16 @@
+{
+  "id": "24fdfde056bc56d57e6ee3fc50f144c9",
+  "title": "Life at Citrine",
+  "url": "https://citrine.io/category/blog/life-at-citrine/",
+  "sourceKey": "s02-15",
+  "sourceName": "Citrine Informatics",
+  "sourceType": "材料信息学公司",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T06:05:19.356Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "24fdfde056bc56d57e6ee3fc50f144c9"
+}

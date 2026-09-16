@@ -1,0 +1,16 @@
+{
+  "id": "d7899dcf4a2a9531193268ea67851d6d",
+  "title": "DeepSeek-V4.1-Flash 发布，文本与 Agent 性能全面提升、兼具原生多模态视觉理解能力，能力更强、速度更快、且成本更低，欢迎测试和反馈",
+  "url": "https://www.deepseek.com/news/deepseek-v4-1-flash/",
+  "sourceKey": "s03-01",
+  "sourceName": "DeepSeek",
+  "sourceType": "通用模型厂商",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T06:05:19.446Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "d7899dcf4a2a9531193268ea67851d6d"
+}

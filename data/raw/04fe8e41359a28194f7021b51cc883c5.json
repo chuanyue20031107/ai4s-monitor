@@ -1,0 +1,16 @@
+{
+  "id": "04fe8e41359a28194f7021b51cc883c5",
+  "title": "Poster Prizes Awarded at IUCr",
+  "url": "https://www.rcsb.org/news/feature/6a9974be3bf5580b84a87d3c",
+  "sourceKey": "s07-13",
+  "sourceName": "RCSB Protein Data Bank",
+  "sourceType": "科学数据库与平台",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T06:57:50.143Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "04fe8e41359a28194f7021b51cc883c5"
+}

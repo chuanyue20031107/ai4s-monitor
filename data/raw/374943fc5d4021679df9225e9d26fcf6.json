@@ -1,0 +1,16 @@
+{
+  "id": "374943fc5d4021679df9225e9d26fcf6",
+  "title": "Cloud Computing On-demand IT resources and services, enabling scalability and intelligent insights",
+  "url": "https://www.nvidia.com/en-us/data-center/gpu-cloud-computing/",
+  "sourceKey": "s01-03",
+  "sourceName": "NVIDIA Research",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T05:12:08.212Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "374943fc5d4021679df9225e9d26fcf6"
+}

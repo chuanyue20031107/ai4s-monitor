@@ -1,0 +1,16 @@
+{
+  "id": "f8e9a0159f2350796bf01232ee6ebdee",
+  "title": "2025 Gallery",
+  "url": "https://www.lab-of-the-future.com/europe/gallery/",
+  "sourceKey": "s11-14",
+  "sourceName": "Lab of the Future Congress",
+  "sourceType": "产业技术会议",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T07:35:36.892Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "f8e9a0159f2350796bf01232ee6ebdee"
+}

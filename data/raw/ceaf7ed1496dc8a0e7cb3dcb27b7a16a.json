@@ -1,0 +1,16 @@
+{
+  "id": "ceaf7ed1496dc8a0e7cb3dcb27b7a16a",
+  "title": "&#x901A;&#x77E5;&#x516C;&#x544A;",
+  "url": "https://www.sslab.org.cn/news/notice",
+  "sourceKey": "s05-17",
+  "sourceName": "松山湖材料实验室",
+  "sourceType": "自主实验室与平台",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T06:57:38.624Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "ceaf7ed1496dc8a0e7cb3dcb27b7a16a"
+}

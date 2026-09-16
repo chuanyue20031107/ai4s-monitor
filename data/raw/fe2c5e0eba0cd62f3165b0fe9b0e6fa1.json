@@ -1,0 +1,16 @@
+{
+  "id": "fe2c5e0eba0cd62f3165b0fe9b0e6fa1",
+  "title": "UniProt",
+  "url": "https://www.uniprot.org/",
+  "sourceKey": "s07-14",
+  "sourceName": "UniProt",
+  "sourceType": "科学数据库与平台",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T06:57:50.752Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "fe2c5e0eba0cd62f3165b0fe9b0e6fa1"
+}

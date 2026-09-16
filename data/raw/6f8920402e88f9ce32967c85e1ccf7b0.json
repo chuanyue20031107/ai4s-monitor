@@ -1,0 +1,16 @@
+{
+  "id": "6f8920402e88f9ce32967c85e1ccf7b0",
+  "title": "Latest news",
+  "url": "https://www.ebi.ac.uk/about/news",
+  "sourceKey": "s01-09",
+  "sourceName": "EMBL-EBI",
+  "sourceType": "国际研究机构",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T05:12:13.867Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "6f8920402e88f9ce32967c85e1ccf7b0"
+}

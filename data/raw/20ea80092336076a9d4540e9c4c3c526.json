@@ -1,0 +1,16 @@
+{
+  "id": "20ea80092336076a9d4540e9c4c3c526",
+  "title": "Autonomous Vehicles",
+  "url": "https://research.nvidia.com/labs/avg/",
+  "sourceKey": "s01-03",
+  "sourceName": "NVIDIA Research",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T05:12:08.213Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "20ea80092336076a9d4540e9c4c3c526"
+}

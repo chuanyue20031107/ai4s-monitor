@@ -1,0 +1,16 @@
+{
+  "id": "02de57f64e6ffa9683b2b85055a5ed9f",
+  "title": "News & Advertising",
+  "url": "https://www.healthtech.com/publishing",
+  "sourceKey": "s11-13",
+  "sourceName": "Bio-IT World Conference & Expo",
+  "sourceType": "产业技术会议",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T07:35:36.188Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "02de57f64e6ffa9683b2b85055a5ed9f"
+}

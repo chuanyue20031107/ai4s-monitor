@@ -1,0 +1,16 @@
+{
+  "id": "1006a235cb8941542230bf2f5dc68357",
+  "title": "Videos",
+  "url": "https://www.ga4gh.org/news-eventsxxx/videos/",
+  "sourceKey": "s11-04",
+  "sourceName": "GA4GH",
+  "sourceType": "基因组标准组织",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T07:35:35.568Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "1006a235cb8941542230bf2f5dc68357"
+}

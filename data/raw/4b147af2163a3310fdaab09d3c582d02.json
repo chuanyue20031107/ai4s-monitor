@@ -1,0 +1,16 @@
+{
+  "id": "4b147af2163a3310fdaab09d3c582d02",
+  "title": "Use Shortlinks to Transition to the PDB Beta Archive",
+  "url": "https://www.rcsb.org/news/feature/6a4fc5f40fba48755e86064b",
+  "sourceKey": "s07-13",
+  "sourceName": "RCSB Protein Data Bank",
+  "sourceType": "科学数据库与平台",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T06:57:50.143Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "4b147af2163a3310fdaab09d3c582d02"
+}

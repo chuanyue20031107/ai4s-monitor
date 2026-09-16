@@ -1,0 +1,16 @@
+{
+  "id": "52f9a2327be3ff35af6a18df35f38394",
+  "title": "Live training",
+  "url": "https://www.ebi.ac.uk/training/live-events",
+  "sourceKey": "s01-09",
+  "sourceName": "EMBL-EBI",
+  "sourceType": "国际研究机构",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T05:12:13.867Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "52f9a2327be3ff35af6a18df35f38394"
+}

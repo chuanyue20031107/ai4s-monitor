@@ -1,0 +1,16 @@
+{
+  "id": "c1d3ac8b018dced3fdad2b3949a70ca4",
+  "title": "Login",
+  "url": "https://www.schrodinger.com/auth/login?redirect_to=https%3A%2F%2Fwww.schrodinger.com%2Flife-science%2Fuse-cases%2Fresearch-it",
+  "sourceKey": "s02-04",
+  "sourceName": "Schrödinger",
+  "sourceType": "计算化学软件与药物公司",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T06:05:18.824Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "机构导航或管理页面",
+  "legacyId": "c1d3ac8b018dced3fdad2b3949a70ca4"
+}

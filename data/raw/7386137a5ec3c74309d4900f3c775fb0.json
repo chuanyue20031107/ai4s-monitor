@@ -1,0 +1,18 @@
+{
+  "id": "7386137a5ec3c74309d4900f3c775fb0",
+  "title": "Latest Publication Identification of non-covalent inhibitors for the atypical peroxiredoxin PRDX5 as a therapeutic strategy in malignant pleural mesothelioma Josep Montserrat Sanchez et al. Pub: BioRxiv View publication",
+  "url": "https://www.owkin.com/publications/identification-of-non-covalent-inhibitors-for-the-atypical-peroxiredoxin-prdx5-as-a-therapeutic-strategy-in-malignant-pleural-mesothelioma",
+  "sourceKey": "s02-21",
+  "sourceName": "Owkin",
+  "sourceType": "AI生物医药公司",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T07:47:28.297Z",
+  "content": "May 15, 2026 BioRxiv Identification of non-covalent inhibitors for the atypical peroxiredoxin PRDX5 as a therapeutic strategy in malignant pleural mesothelioma AI Biology Cancer ML Research Abstract Malignant pleural mesothelioma (MPM) is an aggressive asbestos-linked cancer with limited therapeutic options and a dismal 5-year survival rate of ~5%. While aberrant production of reactive oxygen and nitrogen species (ROS/RNS) is a hallmark of MPM, targeted approaches to exploit these redox vulnerabilities remain scarce. Here, using the MOSAIC multimodal cancer patient atlas, we identify Peroxiredoxin 5 (PRDX5) as being significantly upregulated in the epithelioid subtype of MPM. We show that MPM cells exhibit enhanced resistance to nitrosative and oxidative stress compared to healthy mesothelial cells, a phenotype correlated with basal PRDX5 expression. Next, utilising a machine learning guided discovery pipeline, we identified three putative allosteric pockets in PRDX5 and conducted a virtual screen of 3.6 million compounds. High-throughput biochemical validation of 452 candidates yielded 36 non-covalent hits, including sub-micromolar inhibitors. These findings establish PRDX5 as a novel, subtype specific therapeutic target in MPM and provide a chemical framework for the development of next-generation redox-modulating oncology treatments. View publication Share to: or simply highlight any text and click to post it! Authors Floriane Montanari Victor Laurent Pierre-Benoit Ancey Nicolas Jean Cécilia Jeannu Guimin Wang Genshu You Qiancheng Shen Alice Mac Kain Yacine Bareche Loïc Herpin Nadia Jeremiah Roberta Codato Alberto Romagnoni Alex Cornish Ekaterina Rozhavskaya Lucia Pattarini Constance Petit Pierre-Joachim Zindy Jinal Shukla Sylvie Gomez MOSAIC Consortium Dr. Markus Eckstein Almoatazbellah Youssef Ulrich Keilholz Markus Morkel Krisztian Homicsko Chiara Saglietti Leilei Shi ian Zhang Elodie Pronier Josep Montserrat Sanchez More like this AI Biology Cancer ML Research Histology and spatial transcriptomic integration revealed infiltration zone with specific cell composition as a prognostic hotspot in glioblastoma Lucas Fidon et al. BioRxiv Biology Cancer Research Spatial Omics Spatially Integrated Multi-Omics reveals the Multicellular Landscape of Progenitor-Driven Glioblastoma Progression Korbinian Traeuble et al. BioRxiv",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-16T07:47:28.297Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "f923c7fe699ba115e958c0cf1920df27dc2ac8fd1b55813cc5ce070f78c3ed08"
+}

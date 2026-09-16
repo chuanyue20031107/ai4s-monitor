@@ -1,0 +1,16 @@
+{
+  "id": "87a970549572f634e53cd122aebcfcd2",
+  "title": "UK Biotech Day May 27, 2026 London, UK",
+  "url": "https://www.ukbiotechday.org/index.html",
+  "sourceKey": "s02-16",
+  "sourceName": "Chemify",
+  "sourceType": "自动化化学公司",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T06:05:19.334Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "87a970549572f634e53cd122aebcfcd2"
+}

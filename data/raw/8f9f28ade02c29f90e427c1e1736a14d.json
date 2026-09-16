@@ -1,0 +1,16 @@
+{
+  "id": "8f9f28ade02c29f90e427c1e1736a14d",
+  "title": "Broad Discovery Center Visit our free public educational space that showcases how researchers at the Broad and their colleagues around the world seek to understand and treat human disease.",
+  "url": "https://www.broadinstitute.org/broad-discovery-center",
+  "sourceKey": "s01-06",
+  "sourceName": "Broad Institute",
+  "sourceType": "非营利研究机构",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T05:12:08.435Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "8f9f28ade02c29f90e427c1e1736a14d"
+}

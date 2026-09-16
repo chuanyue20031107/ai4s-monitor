@@ -1,0 +1,16 @@
+{
+  "id": "0b8d4b896da1a190b98d8e58451fa3c1",
+  "title": "${ v.tags || '最新动态' } ${ v.newstitle }",
+  "url": "https://www.shlab.org.cn/(v.newstype%20===%20113%20||%20v.newstype%20===%2013%20||%20v.newstype%20===%20110)%20?%20v.url%20:",
+  "sourceKey": "s05-16",
+  "sourceName": "上海人工智能实验室科学智能方向",
+  "sourceType": "自主实验室与平台",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T06:57:40.684Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "0b8d4b896da1a190b98d8e58451fa3c1"
+}

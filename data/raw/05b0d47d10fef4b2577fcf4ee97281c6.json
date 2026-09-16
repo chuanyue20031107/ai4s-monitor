@@ -1,0 +1,16 @@
+{
+  "id": "05b0d47d10fef4b2577fcf4ee97281c6",
+  "title": "机器人科学家的领导者-汇像科技(X-imaging)",
+  "url": "https://www.x-imaging.com/",
+  "sourceKey": "s04-03",
+  "sourceName": "汇像科技 XImaging",
+  "sourceType": "实验室自动化企业",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T06:05:23.294Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "05b0d47d10fef4b2577fcf4ee97281c6"
+}

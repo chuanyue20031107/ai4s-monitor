@@ -1,0 +1,16 @@
+{
+  "id": "2f657d7f21c66a9e4e5771be6c7902c8",
+  "title": "Reuse Metadata from Previous PDB Depositions",
+  "url": "https://www.rcsb.org/news/feature/6a626da53bf5580b84a87d27",
+  "sourceKey": "s07-13",
+  "sourceName": "RCSB Protein Data Bank",
+  "sourceType": "科学数据库与平台",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T06:57:50.143Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "2f657d7f21c66a9e4e5771be6c7902c8"
+}

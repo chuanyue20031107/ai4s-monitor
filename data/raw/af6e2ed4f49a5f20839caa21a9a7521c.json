@@ -1,0 +1,16 @@
+{
+  "id": "af6e2ed4f49a5f20839caa21a9a7521c",
+  "title": "NIST Inventions Are Powering Our World",
+  "url": "https://www.nist.gov/blogs/taking-measure/nist-inventions-are-powering-our-world",
+  "sourceKey": "s01-08",
+  "sourceName": "National Institute of Standards and Technology",
+  "sourceType": "国家计量标准机构",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T05:12:09.634Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "af6e2ed4f49a5f20839caa21a9a7521c"
+}

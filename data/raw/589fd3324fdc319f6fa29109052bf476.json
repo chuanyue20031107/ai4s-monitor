@@ -1,0 +1,16 @@
+{
+  "id": "589fd3324fdc319f6fa29109052bf476",
+  "title": "re:Invent 2026 The session catalog is live. Explore what's waiting for you",
+  "url": "https://aws.amazon.com/events/reinvent/?nc2=h_dsc_ex_s1",
+  "sourceKey": "s01-12",
+  "sourceName": "Amazon Web Services",
+  "sourceType": "科技大厂",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T07:35:36.375Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "589fd3324fdc319f6fa29109052bf476"
+}

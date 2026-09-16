@@ -1,0 +1,17 @@
+{
+  "id": "8fc8316235f3f41f16c9b6de11fa01a0",
+  "title": "Apply",
+  "url": "https://biohub.org/state.jobUrl",
+  "sourceKey": "s01-21",
+  "sourceName": "Chan Zuckerberg Biohub Network",
+  "sourceType": "非营利研究网络",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T07:47:22.619Z",
+  "content": "",
+  "contentStatus": "fetch_failed",
+  "extractionMethod": "",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-16T07:47:22.619Z",
+  "contentError": "HTTP_404",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

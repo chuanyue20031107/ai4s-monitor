@@ -1,0 +1,16 @@
+{
+  "id": "aa9ed418d2f1a0b2cf4b30b8ebedaa12",
+  "title": "All Events & Training",
+  "url": "https://pistoiaalliance.org/events/",
+  "sourceKey": "s11-05",
+  "sourceName": "Pistoia Alliance",
+  "sourceType": "生命科学产业联盟",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T07:35:35.755Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "aa9ed418d2f1a0b2cf4b30b8ebedaa12"
+}

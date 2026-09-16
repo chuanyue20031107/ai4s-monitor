@@ -1,0 +1,16 @@
+{
+  "id": "3dc8e858d168f065e595b0a0fa5a71cb",
+  "title": "2026-07-16 PerceptionBench",
+  "url": "https://www.kimi.com/en/blog/perception-bench",
+  "sourceKey": "s03-02",
+  "sourceName": "月之暗面 Moonshot AI",
+  "sourceType": "通用模型厂商",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T06:05:20.901Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "3dc8e858d168f065e595b0a0fa5a71cb"
+}

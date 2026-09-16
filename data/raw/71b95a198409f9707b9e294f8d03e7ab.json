@@ -1,0 +1,16 @@
+{
+  "id": "71b95a198409f9707b9e294f8d03e7ab",
+  "title": "中国科大举行2026年教职工荣休典礼暨新进教职工入职欢迎仪式",
+  "url": "http://news.ustc.edu.cn/info/1055/96243.htm",
+  "sourceKey": "s05-02",
+  "sourceName": "中国科大机器人化学家实验室",
+  "sourceType": "自主实验室与平台",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T06:05:33.961Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "非 AI4S 行政通知",
+  "legacyId": "71b95a198409f9707b9e294f8d03e7ab"
+}

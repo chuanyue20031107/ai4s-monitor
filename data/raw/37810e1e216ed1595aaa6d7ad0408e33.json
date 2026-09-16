@@ -1,0 +1,16 @@
+{
+  "id": "37810e1e216ed1595aaa6d7ad0408e33",
+  "title": "News & announcements",
+  "url": "https://aws.amazon.com/new/?nc2=h_dsc_new",
+  "sourceKey": "s01-12",
+  "sourceName": "Amazon Web Services",
+  "sourceType": "科技大厂",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T07:35:36.375Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "37810e1e216ed1595aaa6d7ad0408e33"
+}

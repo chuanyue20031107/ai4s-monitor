@@ -1,0 +1,16 @@
+{
+  "id": "6031336a7174cad8f59831469c789e5f",
+  "title": "Conferences",
+  "url": "https://www.healthtech.com/?cdtConferenceId=404272006.1663694140&cdtRollupId=404272006.1663694140",
+  "sourceKey": "s11-13",
+  "sourceName": "Bio-IT World Conference & Expo",
+  "sourceType": "产业技术会议",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T07:35:36.188Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "16a209f8339648dad68d1fc5ea09332e"
+}

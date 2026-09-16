@@ -1,0 +1,16 @@
+{
+  "id": "7839847624a34d1a3fe6078ed408f4eb",
+  "title": "国家科技管理信息系统公共服务平台",
+  "url": "https://service.most.gov.cn/",
+  "sourceKey": "s08-01",
+  "sourceName": "科学技术部",
+  "sourceType": "中央部委",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T06:57:51.887Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "7839847624a34d1a3fe6078ed408f4eb"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "8f2d24059e1538b71622d9784b8b2d03",
+  "title": "Remediation of Metal-containing PDB Entries and CCDs",
+  "url": "https://www.rcsb.org/news/feature/6a847d2b3bf5580b84a87d31",
+  "sourceKey": "s07-13",
+  "sourceName": "RCSB Protein Data Bank",
+  "sourceType": "科学数据库与平台",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T06:57:50.143Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "8f2d24059e1538b71622d9784b8b2d03"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "b977775937d5536de6eed8f581b6ba3d",
+  "title": "Papers by us",
+  "url": "https://citrine.io/category/papers-by-citrine/",
+  "sourceKey": "s02-15",
+  "sourceName": "Citrine Informatics",
+  "sourceType": "材料信息学公司",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T06:05:19.356Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "b977775937d5536de6eed8f581b6ba3d"
+}

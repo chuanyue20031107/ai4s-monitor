@@ -1,0 +1,16 @@
+{
+  "id": "74ba2cf28e4f24582c902de6cf4b190e",
+  "title": "天津大学新闻网",
+  "url": "https://news.tju.edu.cn/",
+  "sourceKey": "s05-07",
+  "sourceName": "智能化自动化合成生物平台",
+  "sourceType": "自主实验室与平台",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T06:05:31.456Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "74ba2cf28e4f24582c902de6cf4b190e"
+}

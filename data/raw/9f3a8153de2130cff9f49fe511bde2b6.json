@@ -1,0 +1,16 @@
+{
+  "id": "9f3a8153de2130cff9f49fe511bde2b6",
+  "title": "SLAS2027 International Conference & Exhibition",
+  "url": "https://www.slas.org/events/slas2027-international-conference-exhibition/",
+  "sourceKey": "s11-06",
+  "sourceName": "SLAS International Conference and Exhibition",
+  "sourceType": "国际学术会议/展会",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T07:35:35.658Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "9f3a8153de2130cff9f49fe511bde2b6"
+}

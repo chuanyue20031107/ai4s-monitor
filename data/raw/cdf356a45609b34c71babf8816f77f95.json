@@ -1,0 +1,16 @@
+{
+  "id": "cdf356a45609b34c71babf8816f77f95",
+  "title": "Press Releases",
+  "url": "https://press.aboutamazon.com/aws",
+  "sourceKey": "s01-12",
+  "sourceName": "Amazon Web Services",
+  "sourceType": "科技大厂",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T07:35:36.375Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "cdf356a45609b34c71babf8816f77f95"
+}

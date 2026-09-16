@@ -1,0 +1,18 @@
+{
+  "id": "eac8a3ea3ba5c2ded3f78aa3b2cc85f1",
+  "title": "...19",
+  "url": "https://aqemia.com/news/page/19",
+  "sourceKey": "s02-22",
+  "sourceName": "Aqemia",
+  "sourceType": "AI药物公司",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T07:47:31.464Z",
+  "content": "Aqemia s'amorce October 17, 2019 Read more",
+  "contentStatus": "insufficient_content",
+  "extractionMethod": "article-or-main-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-16T07:47:31.464Z",
+  "contentTruncated": false,
+  "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成",
+  "contentHash": "e3493942abf4a1c8237b82072cf773b2db5df32f2d79323ad00e9e667b3cbdf8"
+}

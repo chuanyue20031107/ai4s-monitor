@@ -1,0 +1,16 @@
+{
+  "id": "8213e735607ba7abe94c56882f96722f",
+  "title": "White Papers",
+  "url": "https://citrine.io/resources/white-papers/",
+  "sourceKey": "s02-15",
+  "sourceName": "Citrine Informatics",
+  "sourceType": "材料信息学公司",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T06:05:19.356Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "8213e735607ba7abe94c56882f96722f"
+}

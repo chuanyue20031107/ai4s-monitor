@@ -1,0 +1,18 @@
+{
+  "id": "ed5ec4bf9d07d89623f4573fe7220cbf",
+  "title": "産総研ブランドストーリー",
+  "url": "https://www.aist.go.jp/aist_j/information/brandstory.html",
+  "sourceKey": "s01-23",
+  "sourceName": "AIST",
+  "sourceType": "国家研究机构",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T07:47:25.529Z",
+  "content": "産総研ブランドストーリーは、産総研の提供価値を、企業をはじめとするステークホルダーの皆様にわかりやすく伝えるために制作したものです。 企業が持つアセットに産総研の技術や知見を掛け合わせることで、今まで想像できなかった未来に対して期待や確信が持てるようになる、という産総研の提供価値を伝えるメッセージです。研究の初期フェーズから事業化フェーズまで常にパートナーとして寄り添い、共に歩み続けるという産総研の覚悟を伝えています。 未踏の地に向かう、 地図を描く。 多彩な専門家で、 最適なチームを編成する。 最高水準の技術や知財を、 惜しみなく生かす。 そして事業化まで、 ともに挑みつづける。 今はまだ見えなくても、 いつか必ず見える未来の景色へ 社会を変えるその景色まで、 あなたと歩きます。",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-16T07:47:25.529Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "18f74401e3495856671b143ae7e3cc877fc8c0c3747d57be8df620029a1a2f90"
+}

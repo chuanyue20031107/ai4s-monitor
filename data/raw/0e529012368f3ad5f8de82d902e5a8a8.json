@@ -1,0 +1,16 @@
+{
+  "id": "0e529012368f3ad5f8de82d902e5a8a8",
+  "title": "Learn More",
+  "url": "https://www.evolutionaryscale.ai/blog/esm-cambrian",
+  "sourceKey": "s02-06",
+  "sourceName": "EvolutionaryScale",
+  "sourceType": "蛋白基础模型公司",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T06:05:18.818Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "0e529012368f3ad5f8de82d902e5a8a8"
+}

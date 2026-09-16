@@ -1,0 +1,16 @@
+{
+  "id": "ccacf6513e444c5deb1024c084c4ce37",
+  "title": "Postdocs",
+  "url": "https://www.ebi.ac.uk/research/postdocs",
+  "sourceKey": "s01-09",
+  "sourceName": "EMBL-EBI",
+  "sourceType": "国际研究机构",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T05:12:13.867Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "ccacf6513e444c5deb1024c084c4ce37"
+}

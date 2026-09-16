@@ -1,0 +1,16 @@
+{
+  "id": "025d9a87838831eddd4fb583d2cf733a",
+  "title": "DeepSeek R1",
+  "url": "https://www.deepseek.com/news/r1-0528/",
+  "sourceKey": "s03-01",
+  "sourceName": "DeepSeek",
+  "sourceType": "通用模型厂商",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T06:05:19.446Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "025d9a87838831eddd4fb583d2cf733a"
+}

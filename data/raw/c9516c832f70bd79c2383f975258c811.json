@@ -1,0 +1,16 @@
+{
+  "id": "c9516c832f70bd79c2383f975258c811",
+  "title": "Learn more",
+  "url": "https://research.ibm.com/blog/ibm-think-2026-modeling-the-universe-with-quantum-computing",
+  "sourceKey": "s01-11",
+  "sourceName": "IBM Research",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T07:35:36.536Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "c9516c832f70bd79c2383f975258c811"
+}

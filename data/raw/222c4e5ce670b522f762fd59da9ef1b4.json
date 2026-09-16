@@ -1,0 +1,16 @@
+{
+  "id": "222c4e5ce670b522f762fd59da9ef1b4",
+  "title": "中国科学院科学数据中心体系",
+  "url": "https://www.casdc.cn/dataV/",
+  "sourceKey": "s07-07",
+  "sourceName": "中国科学院科学数据中心体系",
+  "sourceType": "科学数据库与平台",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T06:57:48.615Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "222c4e5ce670b522f762fd59da9ef1b4"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cdffd8b5308e7b6bc68671a922389028",
+  "title": "Conference Tracks",
+  "url": "https://www.bio-itworldexpo.com/conference-tracks",
+  "sourceKey": "s11-13",
+  "sourceName": "Bio-IT World Conference & Expo",
+  "sourceType": "产业技术会议",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T07:35:36.188Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "cdffd8b5308e7b6bc68671a922389028"
+}

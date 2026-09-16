@@ -1,0 +1,16 @@
+{
+  "id": "230518966d609389cfa0149f7c5fb200",
+  "title": "磐石(ScienceOne) - AI for Science 科研智能平台",
+  "url": "https://www.scienceone.cn/index-zh.html",
+  "sourceKey": "s07-03",
+  "sourceName": "磐石（ScienceOne）科研智能平台",
+  "sourceType": "科学数据库与平台",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T06:57:47.113Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "230518966d609389cfa0149f7c5fb200"
+}

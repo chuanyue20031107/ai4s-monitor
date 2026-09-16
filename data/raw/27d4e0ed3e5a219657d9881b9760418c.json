@@ -1,0 +1,18 @@
+{
+  "id": "27d4e0ed3e5a219657d9881b9760418c",
+  "title": "Latest updates from EMBL's six sites",
+  "url": "https://www.embl.org/news/",
+  "sourceKey": "s01-25",
+  "sourceName": "European Molecular Biology Laboratory",
+  "sourceType": "国际研究机构",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T07:47:26.252Z",
+  "content": "Every electron counts: most detailed protein structure to date revealed Researchers have used advanced X-ray crystallography methods to determine the resolution of the archaeal rubredoxin protein at unprecedented resolution. 15 September 2026",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-16T07:47:26.252Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "edf3d24e6dcc436f51c7efad2bf7dc124d40fd13bdb2c2f027dd05f0c12b3042"
+}

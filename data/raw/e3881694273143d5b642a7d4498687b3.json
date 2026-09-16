@@ -1,0 +1,16 @@
+{
+  "id": "e3881694273143d5b642a7d4498687b3",
+  "title": "社会招聘_加入我们 - 浦江实验室",
+  "url": "https://www.pjlab.ac.cn/",
+  "sourceKey": "s07-01",
+  "sourceName": "浦江实验室",
+  "sourceType": "科学数据库与平台",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T06:57:46.946Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "e3881694273143d5b642a7d4498687b3"
+}

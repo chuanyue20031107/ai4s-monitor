@@ -1,0 +1,16 @@
+{
+  "id": "0cb5a5ce9c391dc8b65747d39ca69b3d",
+  "title": "LMDeploy 2025.10.30 7.2k",
+  "url": "https://github.com/InternLM/lmdeploy",
+  "sourceKey": "s05-16",
+  "sourceName": "上海人工智能实验室科学智能方向",
+  "sourceType": "自主实验室与平台",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T06:57:40.684Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "0cb5a5ce9c391dc8b65747d39ca69b3d"
+}

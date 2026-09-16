@@ -1,0 +1,18 @@
+{
+  "id": "ef6520bebc94757dc34cf8095716062c",
+  "title": "CONFIDENT-HFpEF: A Machine Learning-Based Risk Stratification for Mortality and Hospitalization Using Multimodal Real-World Data Marat Fudim et al. Pub: ESC Heart Failure Apr 7, 2026",
+  "url": "https://www.owkin.com/publications/confident-hfpef-a-machine-learning-based-risk-stratification-for-mortality-and-hospitalization-using-multimodal-real-world-data",
+  "sourceKey": "s02-21",
+  "sourceName": "Owkin",
+  "sourceType": "AI生物医药公司",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T07:47:28.315Z",
+  "content": "April 7, 2026 ESC Heart Failure CONFIDENT-HFpEF: A Machine Learning-Based Risk Stratification for Mortality and Hospitalization Using Multimodal Real-World Data AI FL ML Research Abstract Heart failure with preserved ejection fraction (HFpEF) is a heterogeneous condition with high morbidity and mortality. Accurate risk stratification is important for advancing drug development and improving clinical care. CONFIDENT is an observational, multi-cohort study across three centers in Europe and the US. Patients with HFpEF, according to the HFA-PEFF criteria with ≥ 2 years of follow-up, were included from 2013 to 2022. Data include electronic health records, lab tests, echocardiography, and electrocardiography. We developed machine learning-based prognostic models to predict all-cause mortality and heart failure (HF) hospitalization. Model performance was compared to validated risk score and validated in an external cohort. A total of 1208 patients were included in the study. The mean age was 72±12 and the mean BMI 32±9 kg/m2. The 2-year risk of HF hospitalization and all-cause mortality ranged from 13 to 44% and 9 to 19%, respectively. The all-cause mortality prognostic model achieved fair discrimination with a C-index of 0.68 [95% CI 0.62-0.74], and 0.71 [95% CI 0.64-0.78] in the training cohorts, and a good discrimination of 0.72 [95% CI 0.65-0.78] in the validation cohort, but performed better than the PREDICT-HFpEF score. CONFIDENT prognostic models for all-cause mortality and HF hospitalization using routinely collected variables can reliably predict outcomes and potentially facilitate personalized care and trial recruitment strategies in HFpEF. View publication Share to: or simply highlight any text and click to post it! Authors Marat Fudim Vanessa Van Empel Tobias Zehnder Benoit Sauty Christian Esposito Felix Balazard Imke Mayer Mohammad Hallal Nicolas Loiseau Jerremy Weerts Manesh Patel Suresh Balu Bradley Hintze Francisco Torres Mariann Micsinai Maxime Touzot Marzia Rigolli Paul Kessler Lars H. Lund Aruna Pradhan Javed Butler More like this AI Biology Cancer ML Research Multiple instance learning with spatial transcriptomics for interpretable patient-level predictions: application in glioblastoma Simon Grouard et al. BioRxiv AI Biology Cancer ML Deep learning uncovers histological patterns of YAP1/TEAD activity related to disease aggressiveness in cancer patients Benoit Schmauch et al. iScience",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-16T07:47:28.315Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "c0d264185c75859064839e30e9dc800386cef4d0bbee5dbcaa93281eb3511b0b"
+}

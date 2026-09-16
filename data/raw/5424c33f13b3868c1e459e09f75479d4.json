@@ -1,0 +1,16 @@
+{
+  "id": "5424c33f13b3868c1e459e09f75479d4",
+  "title": "Patient-partnered research Patients partner with our scientists to accelerate the pace of discovery and find better treatments.",
+  "url": "https://www.broadinstitute.org/patient-partnered-research",
+  "sourceKey": "s01-06",
+  "sourceName": "Broad Institute",
+  "sourceType": "非营利研究机构",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T05:12:08.435Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "5424c33f13b3868c1e459e09f75479d4"
+}

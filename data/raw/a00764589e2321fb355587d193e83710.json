@@ -1,0 +1,16 @@
+{
+  "id": "a00764589e2321fb355587d193e83710",
+  "title": "MinerU 2025.11.06 48.7k",
+  "url": "https://github.com/opendatalab/MinerU",
+  "sourceKey": "s05-16",
+  "sourceName": "上海人工智能实验室科学智能方向",
+  "sourceType": "自主实验室与平台",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T06:57:40.684Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "a00764589e2321fb355587d193e83710"
+}

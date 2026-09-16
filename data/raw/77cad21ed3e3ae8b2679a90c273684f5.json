@@ -1,0 +1,16 @@
+{
+  "id": "77cad21ed3e3ae8b2679a90c273684f5",
+  "title": "Press Pass",
+  "url": "https://www.healthtech.com/press",
+  "sourceKey": "s11-13",
+  "sourceName": "Bio-IT World Conference & Expo",
+  "sourceType": "产业技术会议",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T07:35:36.188Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "77cad21ed3e3ae8b2679a90c273684f5"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "1653c9753995bbdfc5011d913b817408",
+  "title": "Newsroom",
+  "url": "https://www.helmholtz.de/en/newsroom/",
+  "sourceKey": "s01-24",
+  "sourceName": "Helmholtz Association",
+  "sourceType": "国家研究联合体",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T07:47:26.176Z",
+  "content": "09.09.2026 Helmholtz Munich Eleftheria Zeggini Receives FEBS | EMBO Women in Science Award 2027 Prof. Eleftheria Zeggini has been awarded the FEBS | EMBO Women in Science Award 2027 for her pioneering contributions to human genomics and the translation of large-scale genetic discoveries into biological and clinical insights, alongside her scientific leadership and sustained commitment to mentoring, equality and inclusion.",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-16T07:47:26.176Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "98e3114706e9b9aa19db66c8b2c76e2f1e9bf214be69ecec4ccef95cfcd1e973"
+}

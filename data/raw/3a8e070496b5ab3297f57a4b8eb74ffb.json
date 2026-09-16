@@ -1,0 +1,16 @@
+{
+  "id": "3a8e070496b5ab3297f57a4b8eb74ffb",
+  "title": "Demonstrating a theoretical separation between quantum computers and large language models",
+  "url": "https://research.ibm.com/blog/quantum-circuits-vs-llms",
+  "sourceKey": "s01-11",
+  "sourceName": "IBM Research",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T07:35:36.536Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "3a8e070496b5ab3297f57a4b8eb74ffb"
+}

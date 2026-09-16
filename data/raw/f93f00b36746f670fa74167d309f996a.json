@@ -1,0 +1,16 @@
+{
+  "id": "f93f00b36746f670fa74167d309f996a",
+  "title": "Google Research Explore our research",
+  "url": "https://research.google/",
+  "sourceKey": "s01-01",
+  "sourceName": "Google DeepMind",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T05:12:08.466Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "f93f00b36746f670fa74167d309f996a"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "79c575faaecea1f844b8a2f4d39671f8",
+  "title": "Boston 2026 Conference",
+  "url": "https://pistoiaalliance.org/eventdetails/boston-2026-conference/",
+  "sourceKey": "s11-05",
+  "sourceName": "Pistoia Alliance",
+  "sourceType": "生命科学产业联盟",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T07:35:35.755Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "79c575faaecea1f844b8a2f4d39671f8"
+}

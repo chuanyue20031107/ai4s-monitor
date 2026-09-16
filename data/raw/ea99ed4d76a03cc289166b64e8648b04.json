@@ -1,0 +1,16 @@
+{
+  "id": "ea99ed4d76a03cc289166b64e8648b04",
+  "title": "This is Broad Learn about our mission, values, and history.",
+  "url": "https://www.broadinstitute.org/about-broad-institute",
+  "sourceKey": "s01-06",
+  "sourceName": "Broad Institute",
+  "sourceType": "非营利研究机构",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T05:12:08.435Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "ea99ed4d76a03cc289166b64e8648b04"
+}

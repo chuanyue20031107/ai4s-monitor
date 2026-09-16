@@ -1,0 +1,16 @@
+{
+  "id": "9e14eb5286f4d09d8a63ed35fd6d1b70",
+  "title": "Computer Vision",
+  "url": "https://research.nvidia.com/research-area/computer-vision",
+  "sourceKey": "s01-03",
+  "sourceName": "NVIDIA Research",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T05:12:08.213Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "9e14eb5286f4d09d8a63ed35fd6d1b70"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "5be1a17feb49df245f13eacbe6b7cec7",
+  "title": "Research Test Beds",
+  "url": "https://www.nist.gov/research-test-beds",
+  "sourceKey": "s01-08",
+  "sourceName": "National Institute of Standards and Technology",
+  "sourceType": "国家计量标准机构",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T05:12:09.634Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "5be1a17feb49df245f13eacbe6b7cec7"
+}

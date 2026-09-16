@@ -1,0 +1,16 @@
+{
+  "id": "5cd57c49dfd20b5b750f0445cad6ddc3",
+  "title": "BCEIA",
+  "url": "https://www.bceia.cn/",
+  "sourceKey": "s10-09",
+  "sourceName": "北京分析测试学术报告会暨展览会 BCEIA",
+  "sourceType": "仪器学术展会",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T07:35:31.315Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "5cd57c49dfd20b5b750f0445cad6ddc3"
+}

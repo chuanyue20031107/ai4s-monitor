@@ -1,0 +1,16 @@
+{
+  "id": "f7e8a6a95edd650145cac95879e2282f",
+  "title": "NIST Research Library",
+  "url": "https://www.nist.gov/nist-research-library",
+  "sourceKey": "s01-08",
+  "sourceName": "National Institute of Standards and Technology",
+  "sourceType": "国家计量标准机构",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T05:12:09.634Z",
+  "content": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "contentStatus": "needs_fetch",
+  "extractionMethod": "legacy-title-only",
+  "discardReason": "",
+  "legacyId": "f7e8a6a95edd650145cac95879e2282f"
+}

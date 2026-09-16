@@ -1,0 +1,18 @@
+{
+  "id": "aae4dec50ccbea8850f53699e876ab0e",
+  "title": "COLT2027 to Be Held in Tokyo",
+  "url": "https://aip.riken.jp/news/colt2027intokyo/",
+  "sourceKey": "s01-22",
+  "sourceName": "RIKEN Center for Advanced Intelligence Project",
+  "sourceType": "国家研究机构",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T07:47:26.225Z",
+  "content": "The 40th Annual Conference on Learning Theory (COLT2027), an international conference that brings together researchers to share the latest advances in the theoretical foundations of machine learning and to foster the development of the field and collaboration among researchers, will be held in Tokyo from June 28 to July 2, 2027. COLT2027 conference site： https://learningtheory.org/colt2027/ Nihonbashi 1-chome Mitsui Building, 15th floor, e-mail: aip-koho [at]riken.jp *Please replace \"[at]\" with \"@\".",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-16T07:47:26.225Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "6879273cff3a171b0559fd6269f6ea1227e67c7630f22502aa81dbed412df78d"
+}
