@@ -20,6 +20,86 @@ function loadSourceSeed() {
   return module.exports.SOURCE_SEED;
 }
 
+function parseCsvLine(line) {
+  const fields = [];
+  let current = '';
+  let quoted = false;
+  for (let i = 0; i < line.length; i += 1) {
+    const ch = line[i];
+    if (ch === '"') {
+      if (quoted && line[i + 1] === '"') {
+        current += '"';
+        i += 1;
+      } else {
+        quoted = !quoted;
+      }
+    } else if (ch === ',' && !quoted) {
+      fields.push(current);
+      current = '';
+    } else {
+      current += ch;
+    }
+  }
+  fields.push(current);
+  return fields;
+}
+
+function parseCsv(text) {
+  const lines = text.replace(/^\uFEFF/, '').split(/\r?\n/).filter((line) => line.trim());
+  if (lines.length < 2) return [];
+  const headers = parseCsvLine(lines[0]).map((value) => value.trim());
+  return lines.slice(1).map((line) => {
+    const values = parseCsvLine(line);
+    return Object.fromEntries(headers.map((header, index) => [header, values[index] ?? '']));
+  });
+}
+
+function loadWechatSourceSeed() {
+  const configPath = path.join(ROOT, 'config', 'wechat_sources.csv');
+  const baseUrlRaw = String(process.env.WERSS_BASE_URL || '').trim();
+  if (!fs.existsSync(configPath) || !baseUrlRaw) return [];
+
+  let baseUrl;
+  try {
+    baseUrl = new URL(baseUrlRaw);
+  } catch {
+    console.warn('WARN 微信 RSS 已跳过：WERSS_BASE_URL 不是有效 URL');
+    return [];
+  }
+  if (!['http:', 'https:'].includes(baseUrl.protocol)) {
+    console.warn('WARN 微信 RSS 已跳过：WERSS_BASE_URL 仅支持 http(s)');
+    return [];
+  }
+  if (!baseUrl.href.endsWith('/')) baseUrl = new URL(`${baseUrl.href}/`);
+
+  const priorityMap = { S: '高', A: '中', B: '低' };
+  const rows = parseCsv(fs.readFileSync(configPath, 'utf8'));
+  return rows
+    .filter((row) => /^(1|true|yes)$/i.test(String(row.enabled || '').trim()) && String(row.feed_id || '').trim())
+    .map((row) => {
+      const feedId = String(row.feed_id).trim();
+      return {
+        id: String(row.source_key).trim(),
+        name: String(row.entity_name).trim() || String(row.account_name).trim(),
+        group: String(row.group_name).trim() || '微信公众号',
+        type: '微信公众号',
+        region: '中国',
+        directions: '微信公众号官方动态',
+        products: '',
+        representative: '',
+        website: '',
+        wechat: String(row.account_name).trim(),
+        linkedin: '',
+        github: '',
+        feedUrl: new URL(`feed/${encodeURIComponent(feedId)}.xml`, baseUrl).href,
+        priority: priorityMap[String(row.priority).trim()] || '中',
+        notes: 'WeRSS 自动抓取来源',
+        enabled: true,
+        crawlStrategy: 'rss',
+      };
+    });
+}
+
 function readJson(name, fallback) {
   try { return JSON.parse(fs.readFileSync(path.join(DATA_DIR, name), 'utf8')); } catch { return fallback; }
 }
@@ -66,8 +146,8 @@ function sourceRow(item) {
     feedUrl: item.feedUrl,
     priority: item.priority,
     notes: item.notes,
-    enabled: true,
-    crawlStrategy: 'auto',
+    enabled: item.enabled ?? true,
+    crawlStrategy: item.crawlStrategy ?? 'auto',
     discoveredFeedUrl: null,
     crawlStatus: 'idle',
     lastCrawlAt: null,
@@ -183,7 +263,7 @@ async function withRetry(task, count) {
   throw last;
 }
 
-const seed = loadSourceSeed();
+const seed = [...loadSourceSeed(), ...loadWechatSourceSeed()];
 const savedSources = readJson('sources.json', { items: [] }).items || [];
 const sourceState = new Map(savedSources.map((item) => [item.sourceKey, item]));
 const sources = seed.map((item) => ({ ...sourceRow(item), ...(sourceState.get(item.id) || {}) }));
