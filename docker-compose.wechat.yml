@@ -1,0 +1,24 @@
+services:
+  werss:
+    image: ${WERSS_IMAGE:-docker.io/franklin888/werss}:${WERSS_IMAGE_TAG:-latest}
+    container_name: ${WERSS_CONTAINER_NAME:-ai4s-werss}
+    restart: unless-stopped
+    environment:
+      DB: ${WERSS_DB:-sqlite:///data/db.db}
+      PORT: 8001
+      DEBUG: ${WERSS_DEBUG:-False}
+      AUTO_RELOAD: ${WERSS_AUTO_RELOAD:-False}
+      WERSS_USERNAME: ${WERSS_USERNAME:-admin}
+      WERSS_PASSWORD: ${WERSS_PASSWORD:-change-me}
+      BROWSER_TYPE: ${WERSS_BROWSER_TYPE:-firefox}
+    ports:
+      - "${WERSS_PUBLISH_PORT:-8001}:8001"
+    volumes:
+      - ${WERSS_DATA_DIR:-./data/werss-data}:/app/data
+      - ${WERSS_LOGS_DIR:-./data/werss-logs}:/app/logs
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8001/api/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
