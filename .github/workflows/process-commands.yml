@@ -1,0 +1,31 @@
+name: Process frontend commands
+
+on:
+  push:
+    paths:
+      - 'data/commands/pending/**'
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  process:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '22'
+      - run: node scripts/process-commands.mjs
+      - name: Commit results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/command-results.json data/commands
+          if ! git diff --cached --quiet; then
+            git commit -m "data: process source commands"
+            git push
+          fi
