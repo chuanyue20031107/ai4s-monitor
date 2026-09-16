@@ -1,0 +1,17 @@
+{
+  "id": "7ea330ae999c9e2b2bd8f4aee7dbaa09",
+  "title": "和 DeepSeek 对话",
+  "url": "https://chat.deepseek.com/",
+  "sourceKey": "s03-01",
+  "sourceName": "DeepSeek",
+  "sourceType": "通用模型厂商",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T11:46:22.609Z",
+  "content": "",
+  "contentStatus": "fetch_failed",
+  "extractionMethod": "",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-16T11:46:22.609Z",
+  "contentError": "HTTP_403",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

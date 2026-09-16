@@ -1,0 +1,18 @@
+{
+  "id": "da29516f486307325621bd448edca501",
+  "title": "Andrew White Head of Science, Co-founder",
+  "url": "https://www.futurehouse.org/team/andrew-white",
+  "sourceKey": "s02-12",
+  "sourceName": "FutureHouse",
+  "sourceType": "非营利AI科研公司",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T11:46:21.339Z",
+  "content": "Back to Team Andrew White Head of Science, Co-founder Andrew is cofounder and head of science at FutureHouse, where he has led multiple AI for science projects at FutureHouse including ChemCrow (first LLM agents in chemistry), ether0 (first reasoning model in a scientific domain), and paperqa (first superhuman literature agent). Andrew has been a professor and researcher in ML in chemistry, explainable AI, statistical mechanics, and chemical engineering, and has received numerous awards, including junior investigator awards from the NSF and NIH. Andrew is an active member of the scientific community as a peer reviewer for over 30 journals, multiple national and private grant awarding institutions. Authored by Andrew White View on Google Scholar Featured Papers A Review of Large Language Models and Autonomous Agents in Chemistry Read Augmenting Large Language Models with Chemistry Tools Read Assessment of Chemistry Knowledge in Large Language Models That Generate Code Read Read Read If our mission and ideas are exciting to you, get in touch. Partner With Us",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-16T11:46:21.339Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "2d6b547be7f897ddda1c6753145543b0fca32eac2a9ee488f221b0fb291e946d"
+}

@@ -5,12 +5,15 @@
   "sourceKey": "s02-14",
   "sourceName": "Orbital Materials",
   "sourceType": "AI材料公司",
-  "publishedAt": null,
+  "publishedAt": "2026-08-11T10:00:00.000Z",
   "crawledAt": "2026-09-16T06:05:19.582Z",
   "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "contentStatus": "insufficient_content",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "ecfa9817801cedf611872f2b73e8eeaf"
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "legacyId": "ecfa9817801cedf611872f2b73e8eeaf",
+  "lastFetchAt": "2026-09-16T11:46:21.985Z",
+  "contentTruncated": true,
+  "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成"
 }

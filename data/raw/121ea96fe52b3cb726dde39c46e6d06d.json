@@ -7,10 +7,13 @@
   "sourceType": "科技大厂",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:05:24.251Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "最高可享500次免费测试资源，调用价格低至0.04元/次，欢迎选购体验！",
+  "contentStatus": "insufficient_content",
+  "extractionMethod": "meta-description",
   "discardReason": "",
-  "legacyId": "47460a8e5ea206c4f0e0efd141e9b30b"
+  "contentHash": "83b3955d8d736e3ee7eb5bbb1f2b0e576d0cbff3e0e42039d17f354f4fb64dbf",
+  "legacyId": "47460a8e5ea206c4f0e0efd141e9b30b",
+  "lastFetchAt": "2026-09-16T11:46:30.116Z",
+  "contentTruncated": false,
+  "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成"
 }

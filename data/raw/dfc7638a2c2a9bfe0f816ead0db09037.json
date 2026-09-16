@@ -7,10 +7,13 @@
   "sourceType": "非营利研究机构",
   "publishedAt": null,
   "crawledAt": "2026-09-16T05:12:12.188Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "09.2026 Nature Chemical Biology Gilbert Lab Chemogenomic maps reveal a PRDX1-dependent iron–damage axis in the DNA damage response The DNA damage response (DDR) is a sophisticated network of cellular pathways whose perturbation leads to genome instability and is a key hallmark of oncogenesis. Here, we present data from 32 genome-scale loss-of-function CRISPR interference chemical–genetic screens with inhibitors targeting core constituents of the DDR machinery. Read",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "dfc7638a2c2a9bfe0f816ead0db09037"
+  "contentHash": "a2d255252ded658501af0a9a0ceb25afe52f8ea565bf7147df88eeaddbffc331",
+  "legacyId": "dfc7638a2c2a9bfe0f816ead0db09037",
+  "lastFetchAt": "2026-09-16T11:46:18.910Z",
+  "contentTruncated": false,
+  "contentError": ""
 }

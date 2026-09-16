@@ -1,0 +1,18 @@
+{
+  "id": "c9f0780aa22da497aaf9cb789fa5b523",
+  "title": "Find data resources",
+  "url": "https://www.ebi.ac.uk/services",
+  "sourceKey": "s01-09",
+  "sourceName": "EMBL-EBI",
+  "sourceType": "国际研究机构",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T11:46:19.632Z",
+  "content": "International Genome Sample Resource A deep catalog of shared human genetic variation in population groups worldwide that follows from the 1000 Genomes Project. EMBL-EBI Terms of use",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-16T11:46:19.632Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "79956040c16d3d2c9972c963225282912de36e22c949c428cb052d49c6cc9d4b"
+}

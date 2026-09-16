@@ -7,10 +7,13 @@
   "sourceType": "计算化学软件与药物公司",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:05:18.824Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Selecting a year value will change the news content Select Year: Loading...",
+  "contentStatus": "insufficient_content",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "f5b75a3dfd09e84becc7d4866c525bfd"
+  "contentHash": "eda0ff84a5293e05bd17c92256c54ee6d82ec3ba9105f6280be34d1241657bd6",
+  "legacyId": "f5b75a3dfd09e84becc7d4866c525bfd",
+  "lastFetchAt": "2026-09-16T11:46:20.937Z",
+  "contentTruncated": false,
+  "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成"
 }

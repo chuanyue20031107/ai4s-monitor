@@ -7,10 +7,13 @@
   "sourceType": "科技大厂",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:05:20.457Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Meet like-minded developers to share, inspire, and grow.",
+  "contentStatus": "insufficient_content",
+  "extractionMethod": "meta-description",
   "discardReason": "",
-  "legacyId": "37257bba60bc832514bab21fae9f2842"
+  "contentHash": "86f4b327605bbc4672428bae53c42ed2c1c4257afc167831835fd410cffbdf40",
+  "legacyId": "37257bba60bc832514bab21fae9f2842",
+  "lastFetchAt": "2026-09-16T11:46:31.019Z",
+  "contentTruncated": false,
+  "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成"
 }

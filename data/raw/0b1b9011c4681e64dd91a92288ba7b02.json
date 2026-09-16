@@ -1,0 +1,18 @@
+{
+  "id": "0b1b9011c4681e64dd91a92288ba7b02",
+  "title": "CellVue",
+  "url": "https://www.megarobo.com/CellVue-T2000",
+  "sourceKey": "s04-01",
+  "sourceName": "镁伽科技 MegaRobo",
+  "sourceType": "实验室自动化企业",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T11:46:30.501Z",
+  "content": "CellVue ® T2000突出的智慧实验室设计语言，诠释当下尚不自觉的未来实验设备品味。 重铸科学仪器的空间形态。",
+  "contentStatus": "insufficient_content",
+  "extractionMethod": "paragraph-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-16T11:46:30.501Z",
+  "contentTruncated": false,
+  "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成",
+  "contentHash": "4524c6b5c9d7e1a33c35b727a2ce0cc1a2933bc45a35f8a83d67b04f0477f836"
+}

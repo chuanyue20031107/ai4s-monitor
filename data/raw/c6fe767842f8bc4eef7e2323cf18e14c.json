@@ -8,9 +8,11 @@
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:05:25.347Z",
   "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
+  "contentStatus": "fetch_failed",
   "extractionMethod": "legacy-title-only",
   "discardReason": "",
-  "legacyId": "c6fe767842f8bc4eef7e2323cf18e14c"
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "legacyId": "c6fe767842f8bc4eef7e2323cf18e14c",
+  "lastFetchAt": "2026-09-16T11:46:39.235Z",
+  "contentError": "unsupported_content"
 }

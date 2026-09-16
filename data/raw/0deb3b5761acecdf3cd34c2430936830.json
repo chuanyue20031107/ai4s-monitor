@@ -7,10 +7,13 @@
   "sourceType": "AI药物/自动化实验公司",
   "publishedAt": null,
   "crawledAt": "2026-09-16T05:12:19.802Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Upcoming Events There are no upcoming events available at this time. Past Events Sep 15, 2026 at 8:30 AM EDT Morgan Stanley 24th Annual Global Healthcare Conference Click here for webcast",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "0deb3b5761acecdf3cd34c2430936830"
+  "contentHash": "f537e2cf37c6e582b18176be2e54a37fe282a6babfdd76db3efffd6e2eb0adeb",
+  "legacyId": "0deb3b5761acecdf3cd34c2430936830",
+  "lastFetchAt": "2026-09-16T11:46:19.463Z",
+  "contentTruncated": false,
+  "contentError": ""
 }

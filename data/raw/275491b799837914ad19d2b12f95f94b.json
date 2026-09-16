@@ -1,0 +1,17 @@
+{
+  "id": "275491b799837914ad19d2b12f95f94b",
+  "title": "AutoClaw",
+  "url": "https://autoclaw.zhipuai.cn/?channel=AutoClaw20",
+  "sourceKey": "s03-03",
+  "sourceName": "智谱",
+  "sourceType": "通用模型厂商",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T11:46:26.655Z",
+  "content": "",
+  "contentStatus": "fetch_failed",
+  "extractionMethod": "",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-16T11:46:26.655Z",
+  "contentError": "fetch_error",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

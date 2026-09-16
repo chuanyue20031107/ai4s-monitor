@@ -7,10 +7,13 @@
   "sourceType": "材料信息学公司",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:05:19.356Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Why Bayesian Optimization Can Fall Short for Materials Innovation In the rapidly evolving world of AI within materials and chemicals industries, Bayesian optimization (BO) has re-emerged as a powerful tool. In this blog post, we will explore why BO may not be suitable for all AI purposes in this domain. Demystification How to Choose AI Software for Product Development This flowcharts helps you decide between AI options for product development. Demystification What is “AI-Ready data”? And how much do you need to get started? AI looks for patterns in cause and effect. So it needs detailed, accurate information on the inputs, in our case, a full materials and processing history of the product, and outputs, the properties of the final product that you care about. Demystification With great power comes great responsibility As the power of AI becomes ever more visible, there are inevitably worries about its use. Demystification Does model accuracy really matter? Find out about AI model accuracy and quantified uncertainty and the impact these have on business outcomes. Demystification Why Data FAIRness is important in the corporate world Find out why FAIR data standards are important in the corporate world as well as academia. Demystification What is a Design Space? Design spaces define the search area for AI models. This blog explains what they are, and how they can be used in AI powered materials research. Demystification What is Materials Informatics? To kick off our blog, we’ll start with the fundamentals. Materials informatics is the application of data science, machine learning, and scientific domain knowledge to gain novel scientific, processing, or business insights. Let’s break down the three components of a successful materials informatics initiative. Smart Data Infrastructure A smart data infrastructure is crucial as AI [&hellip;] Demystification",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "c1c7c9a3c6e5fe4d2b09045827b335cd"
+  "contentHash": "3fe0bba669d63051a37b89fe69b10d1cde2b476c2dbdca25f0445804be658bac",
+  "legacyId": "c1c7c9a3c6e5fe4d2b09045827b335cd",
+  "lastFetchAt": "2026-09-16T11:46:21.946Z",
+  "contentTruncated": false,
+  "contentError": ""
 }

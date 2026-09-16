@@ -1,0 +1,18 @@
+{
+  "id": "ab8269208bde1258d1cb4e63efd6961c",
+  "title": "高端金属材料研发",
+  "url": "https://www.deep-material.com/gaoduanjinshucailiaoyanfa/63",
+  "sourceKey": "s04-06",
+  "sourceName": "创材深造 Deep Material",
+  "sourceType": "材料高通量实验企业",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T11:46:41.993Z",
+  "content": "通过数字化实验室、大数据平台等技术的应用，创材深造已开发多款中高强铝合金（航空航天级）、高温合金（航空航天级）和模具钢产品，研发流程实现了高精度、高效率、低成本、自动化、标准化和流程化。 快速构建合金成分、打印工艺，热处理制度与⼒学性能指标的仿真数据集，加速材料及配套工艺优化 快速构建结构件服役寿命预测数据集，为人工智能提供预测数据，提高预测准确性 快速采集合金成分、打印工艺，热处理制度与力学性能指标的实验/仿真数据集 快速分析预测合计成分、打印⼯艺，热处理制度 高通量力学性能测试平台由“数字图像相关系统”、“自动化流程系统”和“材料万能试验机装置”三个子系统组成，可以在宏观尺度和显微尺度下开展材料或结构的高通量全自动拉伸、压缩和循环加载等试验研究(最高1100°C),实现原位的非接触式全场变形测量与表征。该测试平台不仅适合金属材料,同时适用于复合材料、橡胶、线材和柔性材料等。",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-16T11:46:41.993Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "4305e48162262f2d9fc0b4ad7ea1d228285eb5c38a52220aeddd81adf004c3d3"
+}

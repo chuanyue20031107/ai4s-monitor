@@ -1,0 +1,18 @@
+{
+  "id": "078fff89c213d770b263f368cba1e53f",
+  "title": "视觉大模型 基于海量图像、视频构筑的视觉基础模型，利用少量数据微调即可实现特定任务。最新发布的视觉MOE大模型，支持多类型范图像生成。",
+  "url": "https://www.huaweicloud.com/product/pangu/cv.html",
+  "sourceKey": "s03-06",
+  "sourceName": "华为云",
+  "sourceType": "科技大厂",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T11:46:29.575Z",
+  "content": "检测到您已登录华为云国际站账号，为了您更好的体验，建议您访问国际站服务网站 https://www.huaweicloud.com/intl/zh-cn 活动对象：华为云官网已完成账号注册的用户活动对象：华为云官网已完成账号注册的用户活动对象：华为云官网已完成账号注册的用户活动对象：华为云官网已完成账号注册的用户 汇聚行业数据，使用基础模型构建行业大模型，解决场景碎片化问题，将“作坊式”AI开发转变为“工业化”生产。",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-16T11:46:29.575Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "5496fe82d4cc1a72822b29e61854b2939a7290cb737987489e15a90537e2e132"
+}

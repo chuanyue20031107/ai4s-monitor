@@ -7,10 +7,13 @@
   "sourceType": "材料信息学公司",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:05:19.356Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Preparing Your Product Development Team for AI: Three Mindset Shifts That Matter Materials and chemicals product-development teams are being asked to reach demanding property targets while managing cost, supply risk, regulatory pressure, and limited lab capacity. The teams that realize value... Notes on Successful Projects The Next Barrier for AI in Materials Development is Adoption Better models matter, but the bigger challenge is helping more scientists trust and use AI in everyday product development. What We've Learned Change Is the Only Constant: How Specialty Chemicals Producers Can Build Resilience with AI Raw material volatility. Ingredient restrictions. Geopolitical trade disruption. Customer demands that keep shifting. For specialty chemicals producers, change is not an occasional disruption. It is a permanent operating condition. What We've Learned Don’t Wait for “AI-ready” Data AI is often positioned as the final step in a digital transformation journey. In materials and chemicals, it should be the opposite. What We've Learned Models Are Useless Unless You Use Them Models, in isolation, generate no value. A model is an incredibly powerful tool—it combines expert knowledge with real-world data to extract insight, uncover hidden relationships, and communicate what truly... What We've Learned Smart Data Practices for AI-Driven Research We'll explore smart data practices at three critical levels: organizational strategy, team management, and individual research projects. Whether you're starting with minimal datasets or managing complex data infrastructure, these... What We've Learned ELN, LIMS, or Materials Informatics (AI/ML): Where Should You Start? R&D leaders embarking on a digital transformation journey face a common dilemma: should you start with Electronic Lab Notebooks (ELN), a Laboratory Information Management System (LIMS), or a Materials... What We've Learned The Future of Consumer Packaging: Driving Sustainability with Machine Learning Packaging manufacturers face unprecedented challenges across multiple dimensions. The delicate balance between performance objectives, regulatory compliance, sustainability mandates, and supply chain volatility has created a complex landscape that traditional... What We've Learned Revolutionizing Manufacturing with Scrap: A Vision for Point-of-Need Production in Austere Environments Global supply chains are facing increasing challenges, highlighting the need for new approaches to material production. One promising avenue involves developing methods to create high-performance materials from low-quality, variable... External Research Why Bayesian Optimization Can Fall Short for Materials Innovation In the rapidly evolving world of AI within materials and chemicals industries, Bayesian optimization (BO) has re-emerged as a powerful tool. In this blog post, we will explore why... Demystification",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "18ad884bb4065a234b2377b3c19ada46"
+  "contentHash": "01ca9f9e4f3c4531930869196c88eef39bf5aecabe8eca1e71b77f80c9d3ce43",
+  "legacyId": "18ad884bb4065a234b2377b3c19ada46",
+  "lastFetchAt": "2026-09-16T11:46:21.827Z",
+  "contentTruncated": false,
+  "contentError": ""
 }

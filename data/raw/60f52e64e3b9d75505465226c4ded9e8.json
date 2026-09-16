@@ -7,10 +7,13 @@
   "sourceType": "科技大厂",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:05:22.652Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "ModelScope",
+  "contentStatus": "insufficient_content",
+  "extractionMethod": "meta-description",
   "discardReason": "",
-  "legacyId": "60f52e64e3b9d75505465226c4ded9e8"
+  "contentHash": "05e5761575c480805e967584bc8b3c93544f72b8c2b3b40d8ba990402d71164f",
+  "legacyId": "60f52e64e3b9d75505465226c4ded9e8",
+  "lastFetchAt": "2026-09-16T11:46:26.935Z",
+  "contentTruncated": false,
+  "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成"
 }

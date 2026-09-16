@@ -7,10 +7,13 @@
   "sourceType": "科技大厂",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:05:24.251Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "企业在跨境协作、海外交付、国际业务运营过程中，经常需要处理合同、标书、产品说明书、研究报告、培训资料等多类型文档。相比普通文本翻译，文档翻译不仅要关注 译文质量 ，也要处理表格、文本框、图片、占位符等 复杂版式元 素，译后排版和校对往往占用大量时间。 企业在跨境协作、海外交付、国际业务运营过程中，经常需要处理合同、标书、产品说明书、研究报告、培训资料等多类型文档。相比普通文本翻译，文档翻译不仅要关注 译文质量 ，也要处理表格、文本框、图片、占位符等 复杂版式元 素，译后排版和校对往往占用大量时间。",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "0e1038226737abc8f1f3ca06225abcef"
+  "contentHash": "20e7c41911cce620570d89ca88f0d9e93c189de7594b4a8c209a24b0d566321d",
+  "legacyId": "0e1038226737abc8f1f3ca06225abcef",
+  "lastFetchAt": "2026-09-16T11:46:31.040Z",
+  "contentTruncated": false,
+  "contentError": ""
 }

@@ -7,10 +7,13 @@
   "sourceType": "自主科学实验公司",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:05:19.248Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "[This article first appeared on CBC.com May 19, 2026] Lila Sciences was founded in 2023 by Flagship Pioneering, the same incubator that launched 2015 No. 1 CNBC Disruptor 50 company Moderna. Lila aims to build what it calls “the world’s first scientific superintelligence platform,” an AI-driven system that can generate hypotheses and then design and run experiments that it learns from in real time. In addition to its superintelligence platform, Lila is building out AI Science Factories — automated robotic labs that can continuously run experiments driven by Lila’s AI models. And while that sounds more like science fiction than reality, Lila has already demonstrated early proof of concept, generating novel antibodies and developing new carbon capturing materials in its lab much quicker than would be possible using traditional research models. The result is a platform with the potential to disrupt the very process of scientific discovery, and usher in a new era of rapid innovation across a broad set of industries. Lila says its platform is designed to work with companies in life, chemistry, and materials science spaces, with potential applications for drug discovery, energy and defense systems, and semiconductor and advanced material designs.",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "f9c2237c5598d078c5be94f422497925"
+  "contentHash": "724757775feea44fbb83de8b5b70a892e7046104450eb91f20a30e30392dfcff",
+  "legacyId": "f9c2237c5598d078c5be94f422497925",
+  "lastFetchAt": "2026-09-16T11:46:20.829Z",
+  "contentTruncated": false,
+  "contentError": ""
 }

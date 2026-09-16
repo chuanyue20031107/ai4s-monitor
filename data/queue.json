@@ -1,10 +1,219 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-16T08:37:10.624Z",
-  "pendingCount": 596,
-  "readyCount": 77,
-  "awaitingContentCount": 519,
+  "updatedAt": "2026-09-16T11:46:53.416Z",
+  "pendingCount": 628,
+  "readyCount": 114,
+  "awaitingContentCount": 514,
   "items": [
+    {
+      "id": "3856767606292e936060ba664ae12573",
+      "title": "我校2026级新生心理健康普查工作顺利完成",
+      "url": "http://news.ustc.edu.cn/info/1055/96309.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T11:46:52.098Z",
+      "contentStatus": "ready",
+      "contentHash": "7a678b2c90da30a4b4ee0eea1f214d16b18396ad12726e3cf05e5d894281e1e0",
+      "rawPath": "data/raw/3856767606292e936060ba664ae12573.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "e201664c90a1884a50ccc2d6eb6c2036",
+      "title": "朱宸课题组 东方理工 · 宁波",
+      "url": "https://zhu.eitech.edu.cn/zh/",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T11:46:51.697Z",
+      "contentStatus": "ready",
+      "contentHash": "75854ce1b84cd8e21b06792284c6e3498a60d0e696c898ddfc8aed418ab28abd",
+      "rawPath": "data/raw/e201664c90a1884a50ccc2d6eb6c2036.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "ab8269208bde1258d1cb4e63efd6961c",
+      "title": "高端金属材料研发",
+      "url": "https://www.deep-material.com/gaoduanjinshucailiaoyanfa/63",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T11:46:41.993Z",
+      "contentStatus": "ready",
+      "contentHash": "4305e48162262f2d9fc0b4ad7ea1d228285eb5c38a52220aeddd81adf004c3d3",
+      "rawPath": "data/raw/ab8269208bde1258d1cb4e63efd6961c.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "02916ef0796586970cf13efa6a45490d",
+      "title": "2000RS FluoXpert",
+      "url": "https://www.mgi-tech.com/Proteomics-products-platforms/5.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T11:46:36.215Z",
+      "contentStatus": "ready",
+      "contentHash": "20ce175e3f65900720207514c2615c7309f18a9380fc951fef5561845a223d1d",
+      "rawPath": "data/raw/02916ef0796586970cf13efa6a45490d.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "d487b56a6e37e8eab2bb4f4f4ddee759",
+      "title": "全球首款！华大智造发布桌面式测序仪T1+，24小时可完成Tb级测序",
+      "url": "https://www.mgi-tech.com/191/866.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T11:46:35.596Z",
+      "contentStatus": "ready",
+      "contentHash": "8ef5f91b1231e85b7d2c5245da99ad3f60d503c2e573747233ee591a15ae5ff6",
+      "rawPath": "data/raw/d487b56a6e37e8eab2bb4f4f4ddee759.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "078fff89c213d770b263f368cba1e53f",
+      "title": "视觉大模型 基于海量图像、视频构筑的视觉基础模型，利用少量数据微调即可实现特定任务。最新发布的视觉MOE大模型，支持多类型范图像生成。",
+      "url": "https://www.huaweicloud.com/product/pangu/cv.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T11:46:29.575Z",
+      "contentStatus": "ready",
+      "contentHash": "5496fe82d4cc1a72822b29e61854b2939a7290cb737987489e15a90537e2e132",
+      "rawPath": "data/raw/078fff89c213d770b263f368cba1e53f.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "af699edd5e4bdf3c383ab6346c65eb3a",
+      "title": "智谱AI输入法",
+      "url": "https://autoglm.zhipuai.cn/autotyper/?channel=official",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T11:46:28.500Z",
+      "contentStatus": "ready",
+      "contentHash": "756fc3febd45bf1e44ee7bed59d8dac95063b3f82004c6c13107035f1657b891",
+      "rawPath": "data/raw/af699edd5e4bdf3c383ab6346c65eb3a.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "5c67d9df182fe5e20eac5fb7922aaf35",
+      "title": "Chemify Partners with Prepaire Labs January 18, 2024 Chemify",
+      "url": "https://www.chemify.io/news/prepaire-chemify-partnership",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T11:46:22.397Z",
+      "contentStatus": "ready",
+      "contentHash": "72a5391338f42b93eb2670a17b16cd8d6a50f0e191c52bf3dd84f70e32c7ea14",
+      "rawPath": "data/raw/5c67d9df182fe5e20eac5fb7922aaf35.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "894e7a287ffab36ad0902276095924cb",
+      "title": "Partner With Us",
+      "url": "https://www.chemify.io/partner",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T11:46:22.310Z",
+      "contentStatus": "ready",
+      "contentHash": "af34d82a124006f7741f0348a2794933df03f1b986175572fbb91111bd63f8aa",
+      "rawPath": "data/raw/894e7a287ffab36ad0902276095924cb.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "cb4c2f046e88fccc7205cd10310add84",
+      "title": "View All",
+      "url": "https://www.schrodinger.com/platform/products/?area=materials-science",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T11:46:21.655Z",
+      "contentStatus": "ready",
+      "contentHash": "7d12f65e17fa9160d8348e7d7c1208aec1ddb05336180710d1142e249de5ff9f",
+      "rawPath": "data/raw/cb4c2f046e88fccc7205cd10310add84.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "5bd8127f60b1f35f4aafd154b725881b",
+      "title": "View All",
+      "url": "https://www.schrodinger.com/platform/products/?area=small-molecule%2Cbiologics",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T11:46:21.632Z",
+      "contentStatus": "ready",
+      "contentHash": "ea7e1e91a871d6b9c0119d736e36c3fa5bbeb154680354c5c65f8e503134981b",
+      "rawPath": "data/raw/5bd8127f60b1f35f4aafd154b725881b.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "708f4737aac3152d6bbff8bd238271d1",
+      "title": "Jessica Wu Head of Operations",
+      "url": "https://www.futurehouse.org/team/jessica-wu",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T11:46:21.378Z",
+      "contentStatus": "ready",
+      "contentHash": "7a66c81d035b9d11c3e3954e8892f6f9ed601f0142946c12bf4563b33d471458",
+      "rawPath": "data/raw/708f4737aac3152d6bbff8bd238271d1.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "da29516f486307325621bd448edca501",
+      "title": "Andrew White Head of Science, Co-founder",
+      "url": "https://www.futurehouse.org/team/andrew-white",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T11:46:21.339Z",
+      "contentStatus": "ready",
+      "contentHash": "2d6b547be7f897ddda1c6753145543b0fca32eac2a9ee488f221b0fb291e946d",
+      "rawPath": "data/raw/da29516f486307325621bd448edca501.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "2924403a766b924738412c6b093f24c0",
+      "title": "Sam Rodriques CEO, Co-founder",
+      "url": "https://www.futurehouse.org/team/sam-rodriques",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T11:46:21.298Z",
+      "contentStatus": "ready",
+      "contentHash": "87b21d08506f049c8a6e2eef4bec98e70b5beee84dbab2310433e21c1bc582b7",
+      "rawPath": "data/raw/2924403a766b924738412c6b093f24c0.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "ba7c61487f1e4290ea8710ca58658b2c",
+      "title": "Creation Partner with LILA to generate new discoveries, launch products, create new companies. Read More",
+      "url": "https://www.lila.ai/lila-creation",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T11:46:20.778Z",
+      "contentStatus": "ready",
+      "contentHash": "65cf13f0e89e610514625725dd75bfa449c8478e25b7d2046e49110f42b74cb1",
+      "rawPath": "data/raw/ba7c61487f1e4290ea8710ca58658b2c.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "b5dcfbd15ed3845be9b89c1371a42c06",
+      "title": "Catalyst Access the world's most advanced operating system for science to enhance and accelerate what you're already working on. Read More",
+      "url": "https://www.lila.ai/lila-catalyst",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T11:46:20.734Z",
+      "contentStatus": "ready",
+      "contentHash": "7ef73d61e83bec8c01c121084f0be20dc6b04eb44a0225d4ae0742b86155d8de",
+      "rawPath": "data/raw/b5dcfbd15ed3845be9b89c1371a42c06.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "032b56dcccf6694ca1772d5cb5ffe876",
+      "title": "Explore a career",
+      "url": "https://arcinstitute.org/jobs",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T11:46:19.815Z",
+      "contentStatus": "ready",
+      "contentHash": "c43e7707cd4de396210374d0e4549490a3ec08dd4fe4fc4fb0099721b2f1f831",
+      "rawPath": "data/raw/032b56dcccf6694ca1772d5cb5ffe876.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "ad1996ef45686adf4360e199ae3fa439",
+      "title": "More About Our Model",
+      "url": "https://arcinstitute.org/model",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T11:46:19.772Z",
+      "contentStatus": "ready",
+      "contentHash": "7889e72a82cce04dc4d9f5407af94beeee7bf67f236c5e35683ecca46069287a",
+      "rawPath": "data/raw/ad1996ef45686adf4360e199ae3fa439.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "c9f0780aa22da497aaf9cb789fa5b523",
+      "title": "Find data resources",
+      "url": "https://www.ebi.ac.uk/services",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T11:46:19.632Z",
+      "contentStatus": "ready",
+      "contentHash": "79956040c16d3d2c9972c963225282912de36e22c949c428cb052d49c6cc9d4b",
+      "rawPath": "data/raw/c9f0780aa22da497aaf9cb789fa5b523.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "3c6ea907089ade08f743137e6aba7848",
       "title": "2027 events – exhibit now",
@@ -710,6 +919,193 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "71c6544ffcb029b275f9950e862ef151",
+      "title": "2026“把青春华章写在祖国大地上”大思政课网络主题宣传和互动引...",
+      "url": "http://news.ustc.edu.cn/info/1055/96129.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T06:05:33.961Z",
+      "contentStatus": "ready",
+      "contentHash": "abac07e3eb73d9da768303cf765321e6e2a446ca8aaeeb6383e1cbf4c427a584",
+      "rawPath": "data/raw/71c6544ffcb029b275f9950e862ef151.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "e07e80d4a0bfa2637a78d7cfde1bcdfb",
+      "title": "潘建伟院士为2026级新生讲授“科学与社会”开学第一课",
+      "url": "http://news.ustc.edu.cn/info/1055/96276.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T06:05:33.961Z",
+      "contentStatus": "ready",
+      "contentHash": "82cfd782a4fffbce1a62e3c8766638e5194fc9afc962f8f64bfdc63a6169a26b",
+      "rawPath": "data/raw/e07e80d4a0bfa2637a78d7cfde1bcdfb.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "91f660e261f1533be24a72dea1a7cfbc",
+      "title": "先看研究方向",
+      "url": "https://zhu.eitech.edu.cn/zh/research/",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T06:05:28.092Z",
+      "contentStatus": "ready",
+      "contentHash": "ea030808fc060b742a1ee61263a022e201ed5977ce09a7f9744f14fef6a41f02",
+      "rawPath": "data/raw/91f660e261f1533be24a72dea1a7cfbc.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "74452ce9d329d659b75da881fd9b010a",
+      "title": "Copyright © 2026 奔曜科技",
+      "url": "https://www.bioyond.com/",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T06:05:25.992Z",
+      "contentStatus": "ready",
+      "contentHash": "5644f32c732379f32deb9596ae8a7dafebe6ab46b26e289c9460641272b4578e",
+      "rawPath": "data/raw/74452ce9d329d659b75da881fd9b010a.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "924676a0818d55322d9b43c33bbad736",
+      "title": "大模型文档翻译 重磅发布 支持多格式文档 200+语言 复杂内容翻译更快 更准 查看详情",
+      "url": "https://ai.baidu.com/support/news?action=detail&id=3277",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T06:05:24.251Z",
+      "contentStatus": "ready",
+      "contentHash": "20e7c41911cce620570d89ca88f0d9e93c189de7594b4a8c209a24b0d566321d",
+      "rawPath": "data/raw/924676a0818d55322d9b43c33bbad736.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "05b0d47d10fef4b2577fcf4ee97281c6",
+      "title": "机器人科学家的领导者-汇像科技(X-imaging)",
+      "url": "https://www.x-imaging.com/",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T06:05:23.294Z",
+      "contentStatus": "ready",
+      "contentHash": "26ac88d2ed344bd371476c33558cb1729ac6a98e3567c79b422c63d083b9d06e",
+      "rawPath": "data/raw/05b0d47d10fef4b2577fcf4ee97281c6.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "9943341bbeb33209d2190bb299bf8fe4",
+      "title": "镁伽官方网站-Future Beyond Sight. - 镁伽科技",
+      "url": "https://www.megarobo.com/",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T06:05:21.487Z",
+      "contentStatus": "ready",
+      "contentHash": "9d00d762063febaa01703fcd1a2a57d73b4cc55a066fe5219123d93a17e5d497",
+      "rawPath": "data/raw/9943341bbeb33209d2190bb299bf8fe4.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "18ad884bb4065a234b2377b3c19ada46",
+      "title": "Citrine's Blog",
+      "url": "https://citrine.io/resources/blog/",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T06:05:19.356Z",
+      "contentStatus": "ready",
+      "contentHash": "01ca9f9e4f3c4531930869196c88eef39bf5aecabe8eca1e71b77f80c9d3ce43",
+      "rawPath": "data/raw/18ad884bb4065a234b2377b3c19ada46.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "8213e735607ba7abe94c56882f96722f",
+      "title": "White Papers",
+      "url": "https://citrine.io/resources/white-papers/",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T06:05:19.356Z",
+      "contentStatus": "ready",
+      "contentHash": "0f39dba3e27732dab6695f5525f9dbbeffbfb71803769cf3dcff35d7377f13be",
+      "rawPath": "data/raw/8213e735607ba7abe94c56882f96722f.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "c1c7c9a3c6e5fe4d2b09045827b335cd",
+      "title": "Demystification",
+      "url": "https://citrine.io/category/blog/demystification/",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T06:05:19.356Z",
+      "contentStatus": "ready",
+      "contentHash": "3fe0bba669d63051a37b89fe69b10d1cde2b476c2dbdca25f0445804be658bac",
+      "rawPath": "data/raw/c1c7c9a3c6e5fe4d2b09045827b335cd.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "f9c2237c5598d078c5be94f422497925",
+      "title": "May 19, 2026 News Lila Sciences Named #25 on the 2026 CNBC Disruptor 50 List Read More",
+      "url": "https://www.lila.ai/news/2026-cnbc-disruptor-50---lila-sciences",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T06:05:19.248Z",
+      "contentStatus": "ready",
+      "contentHash": "724757775feea44fbb83de8b5b70a892e7046104450eb91f20a30e30392dfcff",
+      "rawPath": "data/raw/f9c2237c5598d078c5be94f422497925.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "3972e1fd3d7728004c00971368060c57",
+      "title": "New: Building Labs that Learn",
+      "url": "https://periodic.com/news/building-labs-that-learn",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T06:05:18.909Z",
+      "contentStatus": "ready",
+      "contentHash": "10df720d3e079205824118821cf8d50e123df4d57b111548087b317e59ef4b31",
+      "rawPath": "data/raw/3972e1fd3d7728004c00971368060c57.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "0e529012368f3ad5f8de82d902e5a8a8",
+      "title": "Learn More",
+      "url": "https://www.evolutionaryscale.ai/blog/esm-cambrian",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T06:05:18.818Z",
+      "contentStatus": "ready",
+      "contentHash": "00d0eec06dbe9c60c68fcdca99f5ba3d2a43ed6c4c04000f076721acf032c931",
+      "rawPath": "data/raw/0e529012368f3ad5f8de82d902e5a8a8.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "ca252e0df20729f2930e2a7ed5927f22",
+      "title": "Learn more about ESM3",
+      "url": "https://www.evolutionaryscale.ai/blog/esm3-release",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T06:05:18.818Z",
+      "contentStatus": "ready",
+      "contentHash": "9fb7a1973a3b095f615f9053ba9f1d903eecf6d8c98811e778de38e9ec2d2c29",
+      "rawPath": "data/raw/ca252e0df20729f2930e2a7ed5927f22.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "0deb3b5761acecdf3cd34c2430936830",
+      "title": "Events",
+      "url": "https://ir.recursion.com/news-events/events",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T05:12:19.802Z",
+      "contentStatus": "ready",
+      "contentHash": "f537e2cf37c6e582b18176be2e54a37fe282a6babfdd76db3efffd6e2eb0adeb",
+      "rawPath": "data/raw/0deb3b5761acecdf3cd34c2430936830.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "90ad2d09bdd9102b81502fb6606b5993",
+      "title": "Recursion Reports Second Quarter Financial Results; Genentech Options First Neuroscience Target into Early Discovery Program",
+      "url": "https://ir.recursion.com/news-releases/news-release-details/recursion-reports-second-quarter-financial-results-genentech",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T05:12:19.802Z",
+      "contentStatus": "ready",
+      "contentHash": "8a51f6cc07e13b009f29a3cfac4bc1b6f7b2ae1f98cc050783be57deeeadfce3",
+      "rawPath": "data/raw/90ad2d09bdd9102b81502fb6606b5993.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "dfc7638a2c2a9bfe0f816ead0db09037",
+      "title": "See all research",
+      "url": "https://arcinstitute.org/research",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T05:12:12.188Z",
+      "contentStatus": "ready",
+      "contentHash": "a2d255252ded658501af0a9a0ceb25afe52f8ea565bf7147df88eeaddbffc331",
+      "rawPath": "data/raw/dfc7638a2c2a9bfe0f816ead0db09037.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "f93f00b36746f670fa74167d309f996a",
       "title": "Google Research Explore our research",
       "url": "https://research.google/",
@@ -751,6 +1147,17 @@
       "contentStatus": "ready",
       "contentHash": "3721bae1fc56e34097ee46454cd1a196dbf61f681f38d6d1bfd314f00e28332c",
       "rawPath": "data/raw/374943fc5d4021679df9225e9d26fcf6.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "d7899dcf4a2a9531193268ea67851d6d",
+      "title": "DeepSeek-V4.1-Flash 发布，文本与 Agent 性能全面提升、兼具原生多模态视觉理解能力，能力更强、速度更快、且成本更低，欢迎测试和反馈",
+      "url": "https://www.deepseek.com/news/deepseek-v4-1-flash/",
+      "publishedAt": "2026-09-10T00:00:00.000Z",
+      "crawledAt": "2026-09-16T06:05:19.446Z",
+      "contentStatus": "ready",
+      "contentHash": "af145fa353b11287216525ef0ff141b2d7434e41a5faf0e96059f19c2b5865ea",
+      "rawPath": "data/raw/d7899dcf4a2a9531193268ea67851d6d.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -985,17 +1392,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "05b0d47d10fef4b2577fcf4ee97281c6",
-      "title": "机器人科学家的领导者-汇像科技(X-imaging)",
-      "url": "https://www.x-imaging.com/",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:05:23.294Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "rawPath": "data/raw/05b0d47d10fef4b2577fcf4ee97281c6.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "06f2e35843bc2a56700dca66881183ff",
       "title": "Follow us on Custom/Other",
       "url": "https://bsky.app/profile/researchdataall.bsky.social",
@@ -1106,6 +1502,17 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "0b1b9011c4681e64dd91a92288ba7b02",
+      "title": "CellVue",
+      "url": "https://www.megarobo.com/CellVue-T2000",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T11:46:30.501Z",
+      "contentStatus": "insufficient_content",
+      "contentHash": "4524c6b5c9d7e1a33c35b727a2ce0cc1a2933bc45a35f8a83d67b04f0477f836",
+      "rawPath": "data/raw/0b1b9011c4681e64dd91a92288ba7b02.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "0b8d4b896da1a190b98d8e58451fa3c1",
       "title": "${ v.tags || '最新动态' } ${ v.newstitle }",
       "url": "https://www.shlab.org.cn/(v.newstype%20===%20113%20||%20v.newstype%20===%2013%20||%20v.newstype%20===%20110)%20?%20v.url%20:",
@@ -1172,17 +1579,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "0deb3b5761acecdf3cd34c2430936830",
-      "title": "Events",
-      "url": "https://ir.recursion.com/news-events/events",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T05:12:19.802Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "rawPath": "data/raw/0deb3b5761acecdf3cd34c2430936830.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "0e0365a639c6686ab8c54a5186645355",
       "title": "Lab of the Future Europe 2025 Day 2 Plenary Session",
       "url": "https://www.lab-of-the-future.com/2025/11/06/lab-of-the-future-europe-2025-day-2-plenary-session/",
@@ -1202,17 +1598,6 @@
       "contentStatus": "needs_fetch",
       "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "rawPath": "data/raw/0e2e73ed5faf1623082b67c9bbcd62d7.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "0e529012368f3ad5f8de82d902e5a8a8",
-      "title": "Learn More",
-      "url": "https://www.evolutionaryscale.ai/blog/esm-cambrian",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:05:18.818Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "rawPath": "data/raw/0e529012368f3ad5f8de82d902e5a8a8.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -1276,8 +1661,8 @@
       "url": "https://ai.baidu.com/support/news?action=detail&id=3281",
       "publishedAt": null,
       "crawledAt": "2026-09-16T06:05:24.251Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "contentStatus": "insufficient_content",
+      "contentHash": "83b3955d8d736e3ee7eb5bbb1f2b0e576d0cbff3e0e42039d17f354f4fb64dbf",
       "rawPath": "data/raw/121ea96fe52b3cb726dde39c46e6d06d.json",
       "lastAnalysisStatus": "pending"
     },
@@ -1392,17 +1777,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "18ad884bb4065a234b2377b3c19ada46",
-      "title": "Citrine's Blog",
-      "url": "https://citrine.io/resources/blog/",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:05:19.356Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "rawPath": "data/raw/18ad884bb4065a234b2377b3c19ada46.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "19993a24a1c34f8f1b69030fcca010e7",
       "title": "Research areas Through programs spanning genetics, biology, artificial intelligence (AI), and therapeutic development, Broad researchers are making discoveries that drive biomedical science forward.",
       "url": "https://www.broadinstitute.org/research-areas",
@@ -1452,8 +1826,8 @@
       "url": "https://tsm.miit.gov.cn/dxxzsp/xkz/xkzgl/resource/qiyesearch.jsp?num=%25E4%25BA%25ACB2-20240852&type=xuke",
       "publishedAt": null,
       "crawledAt": "2026-09-16T06:05:20.901Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "contentStatus": "insufficient_content",
+      "contentHash": "5d85e94a8dd4f436fc479efb521efe380d20130f9edcc7282b8f235154b5f9e0",
       "rawPath": "data/raw/1ac23df173e922f0145492a4cf4f2438.json",
       "lastAnalysisStatus": "pending"
     },
@@ -1711,6 +2085,17 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "275491b799837914ad19d2b12f95f94b",
+      "title": "AutoClaw",
+      "url": "https://autoclaw.zhipuai.cn/?channel=AutoClaw20",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T11:46:26.655Z",
+      "contentStatus": "fetch_failed",
+      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "rawPath": "data/raw/275491b799837914ad19d2b12f95f94b.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "282bdbdf92387e2c75e465b5397d87e5",
       "title": "了解更多学术发表",
       "url": "https://www.xtalpi.com/category/publications/",
@@ -1958,8 +2343,8 @@
       "url": "https://developer.huaweicloud.com/events",
       "publishedAt": null,
       "crawledAt": "2026-09-16T06:05:20.457Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "contentStatus": "insufficient_content",
+      "contentHash": "86f4b327605bbc4672428bae53c42ed2c1c4257afc167831835fd410cffbdf40",
       "rawPath": "data/raw/37257bba60bc832514bab21fae9f2842.json",
       "lastAnalysisStatus": "pending"
     },
@@ -1997,17 +2382,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "3972e1fd3d7728004c00971368060c57",
-      "title": "New: Building Labs that Learn",
-      "url": "https://periodic.com/news/building-labs-that-learn",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:05:18.909Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "rawPath": "data/raw/3972e1fd3d7728004c00971368060c57.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "39d24a6c82ef87adc4c9b44477822581",
       "title": "Electronic Laboratory Neighborhood",
       "url": "https://www.slas.org/publications/electronic-laboratory-neighborhood/",
@@ -2016,6 +2390,17 @@
       "contentStatus": "needs_fetch",
       "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "rawPath": "data/raw/39d24a6c82ef87adc4c9b44477822581.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "3a33866d81ca734fef6a08e930bbfeb6",
+      "title": "3D打印金属粉末材料",
+      "url": "https://www.deep-material.com/3Ddayinjinshufenmocailiao",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T11:46:41.129Z",
+      "contentStatus": "insufficient_content",
+      "contentHash": "5d915b10b21e4cb1ba531c6088a300a4fa7c865b076f602f7ef7f77407ad955a",
+      "rawPath": "data/raw/3a33866d81ca734fef6a08e930bbfeb6.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -2192,6 +2577,17 @@
       "contentStatus": "needs_fetch",
       "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "rawPath": "data/raw/423e6f6ed7479698222f97128206290d.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "4302533bce99c24df16361949599b6f6",
+      "title": "Train with us",
+      "url": "https://www.ebi.ac.uk/training",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T11:46:20.194Z",
+      "contentStatus": "insufficient_content",
+      "contentHash": "73a837534d4b5a8002e77437d6baa8347cc43f09d08bd521c13d502619927b29",
+      "rawPath": "data/raw/4302533bce99c24df16361949599b6f6.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -2431,8 +2827,8 @@
       "url": "https://ir.recursion.com/news-events/presentations",
       "publishedAt": null,
       "crawledAt": "2026-09-16T05:12:19.802Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "contentStatus": "insufficient_content",
+      "contentHash": "ccab7b0ef23924810b5029f918c5bf59f4a992df4ab2e4925f750574333ff63f",
       "rawPath": "data/raw/4ce833dec97a4853eaa45ba09d6db579.json",
       "lastAnalysisStatus": "pending"
     },
@@ -2717,7 +3113,7 @@
       "url": "https://beian.miit.gov.cn/",
       "publishedAt": null,
       "crawledAt": "2026-09-16T06:05:25.992Z",
-      "contentStatus": "needs_fetch",
+      "contentStatus": "fetch_failed",
       "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "rawPath": "data/raw/579b46a3f890fdabd8c0c40ec19d79ee.json",
       "lastAnalysisStatus": "pending"
@@ -2959,8 +3355,8 @@
       "url": "https://modelscope.cn/home",
       "publishedAt": null,
       "crawledAt": "2026-09-16T06:05:22.652Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "contentStatus": "insufficient_content",
+      "contentHash": "05e5761575c480805e967584bc8b3c93544f72b8c2b3b40d8ba990402d71164f",
       "rawPath": "data/raw/60f52e64e3b9d75505465226c4ded9e8.json",
       "lastAnalysisStatus": "pending"
     },
@@ -2995,6 +3391,17 @@
       "contentStatus": "needs_fetch",
       "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "rawPath": "data/raw/63ad860f28228929d681144fe38070e4.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "63cadb8c71397c6326cb19a1aea0c4e0",
+      "title": "AutoGLM",
+      "url": "https://autoglm.zhipuai.cn/?channel=official",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T11:46:27.055Z",
+      "contentStatus": "insufficient_content",
+      "contentHash": "6ce9f8fafcc79a2e5506c6274567b28926c713c2d2ca51d88d5e40349201cb3d",
+      "rawPath": "data/raw/63cadb8c71397c6326cb19a1aea0c4e0.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -3262,6 +3669,17 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "7070bfe96bce683baa0d241ededa17eb",
+      "title": "高通量研发设备",
+      "url": "https://www.deep-material.com/gaotongliangyanfashebei/37.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T11:46:41.562Z",
+      "contentStatus": "insufficient_content",
+      "contentHash": "60f40b09d0c6b888caf1bcc2dd87c10e82fe69fe1624d5275b4dce13fc1d8b66",
+      "rawPath": "data/raw/7070bfe96bce683baa0d241ededa17eb.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "70a7227d2beff310f27ef24a287b4189",
       "title": "Events",
       "url": "https://www.schrodinger.com/materials-science/resources/?type=event",
@@ -3328,17 +3746,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "71c6544ffcb029b275f9950e862ef151",
-      "title": "2026“把青春华章写在祖国大地上”大思政课网络主题宣传和互动引...",
-      "url": "http://news.ustc.edu.cn/info/1055/96129.htm",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:05:33.961Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "rawPath": "data/raw/71c6544ffcb029b275f9950e862ef151.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "7225db9b14b312d46d15d419318278b3",
       "title": "Conference and Events Awards 2023",
       "url": "https://www.lab-of-the-future.com/conference-and-events-awards-2023/",
@@ -3391,17 +3798,6 @@
       "contentStatus": "needs_fetch",
       "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "rawPath": "data/raw/73bf5f0a5e568aac24ba24059abcc982.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "74452ce9d329d659b75da881fd9b010a",
-      "title": "Copyright © 2026 奔曜科技",
-      "url": "https://www.bioyond.com/",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:05:25.992Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "rawPath": "data/raw/74452ce9d329d659b75da881fd9b010a.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -3606,9 +4002,9 @@
       "id": "7bc36af78bd7655e0fb191ac5c97ef4f",
       "title": "BLOG Sep 1, 2026 Code Mode vs MCP: The Case for Taking the Model Out of the Loop",
       "url": "https://www.orbitalindustries.com/news/blog/code-mode-vs-mcp-taking-the-model-out-of-the-loop",
-      "publishedAt": null,
+      "publishedAt": "2026-09-01T10:00:00.000Z",
       "crawledAt": "2026-09-16T06:05:19.582Z",
-      "contentStatus": "needs_fetch",
+      "contentStatus": "insufficient_content",
       "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "rawPath": "data/raw/7bc36af78bd7655e0fb191ac5c97ef4f.json",
       "lastAnalysisStatus": "pending"
@@ -3691,6 +4087,17 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "7ea330ae999c9e2b2bd8f4aee7dbaa09",
+      "title": "和 DeepSeek 对话",
+      "url": "https://chat.deepseek.com/",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T11:46:22.609Z",
+      "contentStatus": "fetch_failed",
+      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "rawPath": "data/raw/7ea330ae999c9e2b2bd8f4aee7dbaa09.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "7f4240a646d4987196c96fbef27d5aa9",
       "title": "PRESS Aug 5, 2026 BASF ECMS Deploys AI Materials Discovery Platform Built by Orbital Industries",
       "url": "https://www.orbitalindustries.com/news/press/basf-ecms-ai-materials-discovery-platform",
@@ -3743,17 +4150,6 @@
       "contentStatus": "needs_fetch",
       "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "rawPath": "data/raw/81fa48d90a6ff7192072fd8f183ed6dd.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "8213e735607ba7abe94c56882f96722f",
-      "title": "White Papers",
-      "url": "https://citrine.io/resources/white-papers/",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:05:19.356Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "rawPath": "data/raw/8213e735607ba7abe94c56882f96722f.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -4076,28 +4472,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "90ad2d09bdd9102b81502fb6606b5993",
-      "title": "Recursion Reports Second Quarter Financial Results; Genentech Options First Neuroscience Target into Early Discovery Program",
-      "url": "https://ir.recursion.com/news-releases/news-release-details/recursion-reports-second-quarter-financial-results-genentech",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T05:12:19.802Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "rawPath": "data/raw/90ad2d09bdd9102b81502fb6606b5993.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "91f660e261f1533be24a72dea1a7cfbc",
-      "title": "先看研究方向",
-      "url": "https://zhu.eitech.edu.cn/zh/research/",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:05:28.092Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "rawPath": "data/raw/91f660e261f1533be24a72dea1a7cfbc.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "9221f2eee492720acd2bef96f79d5725",
       "title": "ACS Publications",
       "url": "https://pubs.acs.org/",
@@ -4106,17 +4480,6 @@
       "contentStatus": "needs_fetch",
       "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "rawPath": "data/raw/9221f2eee492720acd2bef96f79d5725.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "924676a0818d55322d9b43c33bbad736",
-      "title": "大模型文档翻译 重磅发布 支持多格式文档 200+语言 复杂内容翻译更快 更准 查看详情",
-      "url": "https://ai.baidu.com/support/news?action=detail&id=3277",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:05:24.251Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "rawPath": "data/raw/924676a0818d55322d9b43c33bbad736.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -4293,17 +4656,6 @@
       "contentStatus": "needs_fetch",
       "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "rawPath": "data/raw/98d3b12b73f5dbfb158697c4c1bb0a7d.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "9943341bbeb33209d2190bb299bf8fe4",
-      "title": "镁伽官方网站-Future Beyond Sight. - 镁伽科技",
-      "url": "https://www.megarobo.com/",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:05:21.487Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "rawPath": "data/raw/9943341bbeb33209d2190bb299bf8fe4.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -4868,6 +5220,17 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "ad3499bdfc231f8c7904353af3830518",
+      "title": "2000RS应用简报合辑",
+      "url": "https://www.mgi-tech.com/application-note.html?keyword=MGISEQ-2000RS",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T11:46:36.798Z",
+      "contentStatus": "fetch_failed",
+      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "rawPath": "data/raw/ad3499bdfc231f8c7904353af3830518.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "adbee91584c1a9344e73cf09708f9137",
       "title": "Learn about educational offerings and outreach events",
       "url": "https://pdb101.rcsb.org/news/2023",
@@ -5058,9 +5421,9 @@
       "id": "b6f9eae5e5872a8d8358b74cc5aca561",
       "title": "BLOG Aug 21, 2026 The Most Valuable Building on Earth",
       "url": "https://www.orbitalindustries.com/news/blog/the-most-valuable-building-on-earth",
-      "publishedAt": null,
+      "publishedAt": "2026-08-21T10:00:00.000Z",
       "crawledAt": "2026-09-16T06:05:19.582Z",
-      "contentStatus": "needs_fetch",
+      "contentStatus": "insufficient_content",
       "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "rawPath": "data/raw/b6f9eae5e5872a8d8358b74cc5aca561.json",
       "lastAnalysisStatus": "pending"
@@ -5176,6 +5539,17 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "bc1655e629086462c54087af50c3af70",
+      "title": "macOS",
+      "url": "https://appsupport.moonshot.cn/api/app/pkg/latest/macos/download",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T11:46:25.050Z",
+      "contentStatus": "fetch_failed",
+      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "rawPath": "data/raw/bc1655e629086462c54087af50c3af70.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "bde234650b71ab12e672d147b98a92a7",
       "title": "The Chemist Who Wants To Reprogram Drug Discovery April 20, 2026 In Vivo",
       "url": "https://insights.citeline.com/in-vivo/manufacturing/the-chemist-who-wants-to-reprogram-drug-discovery-X3XWVRMRM5GFRELO4J55RTUGDQ/",
@@ -5261,17 +5635,6 @@
       "contentStatus": "needs_fetch",
       "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "rawPath": "data/raw/c18d3e95b03ff7960307133c8a726385.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "c1c7c9a3c6e5fe4d2b09045827b335cd",
-      "title": "Demystification",
-      "url": "https://citrine.io/category/blog/demystification/",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:05:19.356Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "rawPath": "data/raw/c1c7c9a3c6e5fe4d2b09045827b335cd.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -5379,7 +5742,7 @@
       "url": "https://cdn1.deepmd.net/static/img/4e81ee6dICP_EDI-20250609.pdf",
       "publishedAt": null,
       "crawledAt": "2026-09-16T06:05:25.347Z",
-      "contentStatus": "needs_fetch",
+      "contentStatus": "fetch_failed",
       "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "rawPath": "data/raw/c6fe767842f8bc4eef7e2323cf18e14c.json",
       "lastAnalysisStatus": "pending"
@@ -5470,17 +5833,6 @@
       "contentStatus": "needs_fetch",
       "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "rawPath": "data/raw/c9d7e2a065cd3497347606e2a8b51010.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "ca252e0df20729f2930e2a7ed5927f22",
-      "title": "Learn more about ESM3",
-      "url": "https://www.evolutionaryscale.ai/blog/esm3-release",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:05:18.818Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "rawPath": "data/raw/ca252e0df20729f2930e2a7ed5927f22.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -5682,6 +6034,17 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "d1984c8e8c2fca11a518aa306aa60cdd",
+      "title": "Submit data",
+      "url": "https://www.ebi.ac.uk/submission",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T11:46:19.918Z",
+      "contentStatus": "insufficient_content",
+      "contentHash": "455ca661611df50e73b6744e53e5eafcda9871c9a2258b4acd7770df35d2eb12",
+      "rawPath": "data/raw/d1984c8e8c2fca11a518aa306aa60cdd.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "d19dc5c11ad26945f6976d083ab314ab",
       "title": "关于重要工业品低价无序竞争成本核算有关事项的通知",
       "url": "https://www.ndrc.gov.cn/xwdt/tzgg/202609/t20260910_1407525.html",
@@ -5792,6 +6155,17 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "d6f8f3a0deb775a85f85a4041ff7b851",
+      "title": "Chemify Founder Establishes New \"Assembly Theory\" Unifying Physics and Biology to Explain Evolution and Complexity October 11, 2023 Nature",
+      "url": "https://www.chemify.io/news/chemify-founder-establishes-new-assembly-theory-unifying-physics-and-biology-to-explain-evolution-and-complexity",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T11:46:22.461Z",
+      "contentStatus": "fetch_failed",
+      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "rawPath": "data/raw/d6f8f3a0deb775a85f85a4041ff7b851.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "d7353e764958d9857e2d92e551beeccc",
       "title": "Publications",
       "url": "https://www.ebi.ac.uk/research/publications",
@@ -5811,17 +6185,6 @@
       "contentStatus": "needs_fetch",
       "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "rawPath": "data/raw/d742332c390d61bb3bfcb7a1c994c2af.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "d7899dcf4a2a9531193268ea67851d6d",
-      "title": "DeepSeek-V4.1-Flash 发布，文本与 Agent 性能全面提升、兼具原生多模态视觉理解能力，能力更强、速度更快、且成本更低，欢迎测试和反馈",
-      "url": "https://www.deepseek.com/news/deepseek-v4-1-flash/",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:05:19.446Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "rawPath": "data/raw/d7899dcf4a2a9531193268ea67851d6d.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -6012,17 +6375,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "dfc7638a2c2a9bfe0f816ead0db09037",
-      "title": "See all research",
-      "url": "https://arcinstitute.org/research",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T05:12:12.188Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "rawPath": "data/raw/dfc7638a2c2a9bfe0f816ead0db09037.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "dfd166d8710acd586c2f32a287acedd0",
       "title": "第四届未来实验室建设与发展创新论坛",
       "url": "https://www.analyticachina.com.cn/cn/analytica-china-2026/Supporting-program/zhuyitai",
@@ -6042,17 +6394,6 @@
       "contentStatus": "needs_fetch",
       "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "rawPath": "data/raw/e05632debc2872bd2fd462ec90415351.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "e07e80d4a0bfa2637a78d7cfde1bcdfb",
-      "title": "潘建伟院士为2026级新生讲授“科学与社会”开学第一课",
-      "url": "http://news.ustc.edu.cn/info/1055/96276.htm",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:05:33.961Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "rawPath": "data/raw/e07e80d4a0bfa2637a78d7cfde1bcdfb.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -6149,8 +6490,8 @@
       "url": "https://ai.baidu.com/support/news?action=detail&id=3283",
       "publishedAt": null,
       "crawledAt": "2026-09-16T06:05:24.251Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "contentStatus": "insufficient_content",
+      "contentHash": "b601001918ac7a5c201927355de1dd78fd52347988a13ca7345572f2faa2a0f9",
       "rawPath": "data/raw/e844f8b5de1ca20c5bc12a7949db84d3.json",
       "lastAnalysisStatus": "pending"
     },
@@ -6196,6 +6537,17 @@
       "contentStatus": "insufficient_content",
       "contentHash": "e3493942abf4a1c8237b82072cf773b2db5df32f2d79323ad00e9e667b3cbdf8",
       "rawPath": "data/raw/eac8a3ea3ba5c2ded3f78aa3b2cc85f1.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "ead9d03d25434288ece2157a4a9b88c5",
+      "title": "使用 API 开放平台",
+      "url": "https://platform.deepseek.com/",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T11:46:22.664Z",
+      "contentStatus": "fetch_failed",
+      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "rawPath": "data/raw/ead9d03d25434288ece2157a4a9b88c5.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -6257,9 +6609,9 @@
       "id": "ecfa9817801cedf611872f2b73e8eeaf",
       "title": "Featured ANNOUNCEMENTS Aug 11, 2026 Introducing CurieOS: From the Atoms Up",
       "url": "https://www.orbitalindustries.com/news/announcements/introducing-curieos",
-      "publishedAt": null,
+      "publishedAt": "2026-08-11T10:00:00.000Z",
       "crawledAt": "2026-09-16T06:05:19.582Z",
-      "contentStatus": "needs_fetch",
+      "contentStatus": "insufficient_content",
       "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "rawPath": "data/raw/ecfa9817801cedf611872f2b73e8eeaf.json",
       "lastAnalysisStatus": "pending"
@@ -6380,8 +6732,8 @@
       "url": "https://ir.schrodinger.com/press-releases/default.aspx",
       "publishedAt": null,
       "crawledAt": "2026-09-16T06:05:18.824Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "contentStatus": "insufficient_content",
+      "contentHash": "eda0ff84a5293e05bd17c92256c54ee6d82ec3ba9105f6280be34d1241657bd6",
       "rawPath": "data/raw/f5b75a3dfd09e84becc7d4866c525bfd.json",
       "lastAnalysisStatus": "pending"
     },
@@ -6474,17 +6826,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "f9c2237c5598d078c5be94f422497925",
-      "title": "May 19, 2026 News Lila Sciences Named #25 on the 2026 CNBC Disruptor 50 List Read More",
-      "url": "https://www.lila.ai/news/2026-cnbc-disruptor-50---lila-sciences",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:05:19.248Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "rawPath": "data/raw/f9c2237c5598d078c5be94f422497925.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "f9f63a91c0c301666a74ec4117c38739",
       "title": "20 2025-06 深圳合成生物学创新研究院实验管理与技术支撑部诚聘-多组学平台运维工程师、化学分析平台工程师",
       "url": "https://isynbio.siat.ac.cn/siat/isb/rczp/zszl/2025062009054788285/index.html",
@@ -6548,6 +6889,17 @@
       "contentStatus": "needs_fetch",
       "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "rawPath": "data/raw/fe2c5e0eba0cd62f3165b0fe9b0e6fa1.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "fed0ed7eb98fde5534732de58d8abc25",
+      "title": "Windows",
+      "url": "https://appsupport.moonshot.cn/api/app/pkg/latest/windows/download",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T11:46:28.209Z",
+      "contentStatus": "fetch_failed",
+      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "rawPath": "data/raw/fed0ed7eb98fde5534732de58d8abc25.json",
       "lastAnalysisStatus": "pending"
     },
     {

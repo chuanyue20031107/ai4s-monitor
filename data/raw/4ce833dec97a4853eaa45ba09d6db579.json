@@ -7,10 +7,13 @@
   "sourceType": "AI药物/自动化实验公司",
   "publishedAt": null,
   "crawledAt": "2026-09-16T05:12:19.802Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Earnings Call - 2Q 2026 August 5, 2026 Earnings Presentation - 2Q 2026 4.6 MB Earnings Call - 2Q 2026",
+  "contentStatus": "insufficient_content",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "4ce833dec97a4853eaa45ba09d6db579"
+  "contentHash": "ccab7b0ef23924810b5029f918c5bf59f4a992df4ab2e4925f750574333ff63f",
+  "legacyId": "4ce833dec97a4853eaa45ba09d6db579",
+  "lastFetchAt": "2026-09-16T11:46:19.560Z",
+  "contentTruncated": false,
+  "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成"
 }
