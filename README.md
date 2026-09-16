@@ -29,7 +29,9 @@ npm run dev
 
 数据文件属于轻量级文件式存储，不是独立数据库。仓库公开，原始资料也公开；不要提交密钥、个人敏感信息或未经授权的全文。Pages 构建只复制前端导出数据，不复制 data/raw。
 
-工作流每6小时轮转36个来源，每来源最多处理3篇，ChatGPT分析任务另行在Scheduled创建。公众号配置保留 `config/wechat_sources.csv` 及 `WERSS_BASE_URL` Secret；未配置来源不会被当作已接入。
+工作流每6小时轮转36个来源，每来源最多处理3篇。首次上线且没有 data/state.json 时执行一次有界初始化采集，其后分析回写只发布，不重复触发采集。ChatGPT分析任务另行在Scheduled创建。
+
+公众号配置保留 `config/wechat_sources.csv`。WeRSS 入口依次读取 `WERSS_BASE_URL` Secret、同名 Repository Variable，最后使用 main 已配置的公开 Railway 入口。无须把公开入口重新设为 Secret；非公开凭据仍不能写进代码。每个公众号仍需填写 feed_id 并 enabled=true；未配置来源不当作已接入。
 
 ## 部署与权限
 

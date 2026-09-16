@@ -71,11 +71,11 @@ jobs:
           node-version: '22'
       - run: npm install --no-audit --no-fund
       - name: Collect raw evidence (never generate final AI analyses or overwrite reports)
-        if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.collect)
+        if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.collect) || hashFiles('data/state.json') == ''
         env:
           BATCH_SIZE: ${{ inputs.batch_size || '36' }}
           MAX_ARTICLES_PER_SOURCE: '3'
-          WERSS_BASE_URL: ${{ secrets.WERSS_BASE_URL }}
+          WERSS_BASE_URL: ${{ secrets.WERSS_BASE_URL || vars.WERSS_BASE_URL || 'https://werss-production-d388.up.railway.app/' }}
         run: npm run crawl
       - name: Validate ChatGPT inbox and export frontend views
         run: node scripts/pipeline.mjs
@@ -117,6 +117,8 @@ jobs:
       - name: Configure Pages
         if: steps.pages.outputs.enabled == 'true'
         uses: actions/configure-pages@v5
+        with:
+          enablement: true
       - name: Upload Pages artifact
         if: steps.pages.outputs.enabled == 'true'
         uses: actions/upload-pages-artifact@v4
