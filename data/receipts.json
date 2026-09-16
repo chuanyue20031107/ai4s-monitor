@@ -1,4 +1,10 @@
 {
-  "updatedAt": "2026-09-16T07:47:45.437Z",
-  "items": []
+  "updatedAt": "2026-09-16T07:54:18.515Z",
+  "items": [
+    {
+      "file": "2026-09-16T07-50-52Z-first-verified-batch.json",
+      "status": "accepted",
+      "analyses": 3
+    }
+  ]
 }

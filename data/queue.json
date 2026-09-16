@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-16T07:47:45.437Z",
-  "pendingCount": 565,
-  "readyCount": 37,
+  "updatedAt": "2026-09-16T07:54:18.515Z",
+  "pendingCount": 562,
+  "readyCount": 34,
   "awaitingContentCount": 528,
   "items": [
     {
@@ -47,17 +47,6 @@
       "contentStatus": "ready",
       "contentHash": "2d21237582777d0d707e65c0e8af01641a1d9d0d7178011540c9daaf5ad59be5",
       "rawPath": "data/raw/b1b1db1ba3122e9f932bf2ff27bda2ef.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "31f1c996080f5d7c4540606030088c29",
-      "title": "MiniMax Music 3.0",
-      "url": "https://www.minimax.cn/blog/minimax-music-3-0-cn",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T07:47:37.193Z",
-      "contentStatus": "ready",
-      "contentHash": "288f5b546321298d2bdfea64d748a7b5c250a3f3fa1cad5ab00b45af06110e65",
-      "rawPath": "data/raw/31f1c996080f5d7c4540606030088c29.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -182,17 +171,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "681cc56ff583c18ed36d209e7fad2f7c",
-      "title": "Improving Staphylococcus aureus vaccine thermostability by 2.5 °C in a single round, 7× faster than rational design",
-      "url": "https://www.cradle.bio/blog/staphylococcus-aureus-vaccine",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T07:47:27.332Z",
-      "contentStatus": "ready",
-      "contentHash": "994baa9483a7d24afb83897adf58148a0efacbf1618250f24b1f93f1ed10acea",
-      "rawPath": "data/raw/681cc56ff583c18ed36d209e7fad2f7c.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "757309a96ad7739cf06b3e82bba43b21",
       "title": "Engineering therapeutic peptides with 50% success rate under tight multi-property constraints, 5× faster than prior efforts",
       "url": "https://www.cradle.bio/blog/therapeutic-peptides",
@@ -201,17 +179,6 @@
       "contentStatus": "ready",
       "contentHash": "4f92aab5dbfbe735bde8f0e36a0186e9ae1bef0e19d420e182bb23544b60fa2f",
       "rawPath": "data/raw/757309a96ad7739cf06b3e82bba43b21.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "6a858214c8b6fb8de2efe4e63b8a6098",
-      "title": "Using AI to produce vaccine adjuvants without cutting down rainforest",
-      "url": "https://www.cradle.bio/blog/keasling-qs21",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T07:47:27.220Z",
-      "contentStatus": "ready",
-      "contentHash": "d2ef83af59fb32bc6f821b13c77a37de9cab9e33dada6397baf387f66edf86aa",
-      "rawPath": "data/raw/6a858214c8b6fb8de2efe4e63b8a6098.json",
       "lastAnalysisStatus": "pending"
     },
     {

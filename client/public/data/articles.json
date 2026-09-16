@@ -159,8 +159,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.minimax.cn/blog/minimax-music-3-0-cn",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "本文介绍通用音乐生成模型、编曲和音频合成。所读正文未提供科学发现、科研数据处理或实验自动化应用，不因来源是模型厂商就纳入AI4S情报。",
+      "analyzedAt": "2026-09-16T07:50:52Z",
+      "batchFile": "data/inbox/2026-09-16T07-50-52Z-first-verified-batch.json"
     },
     {
       "id": "476f952a6b74d45cde5601492fb73854",
@@ -402,17 +404,32 @@
       "sourceKey": "s02-17",
       "sourceName": "Cradle",
       "sourceType": "蛋白工程软件公司",
-      "category": "",
+      "category": "AI4S 应用",
       "publishedAt": null,
       "crawledAt": "2026-09-16T07:47:27.332Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "Cradle 官网案例称，一家未具名的制药合作方使用其平台，针对金黄色葡萄球菌嵌合疫苗抗原开展单目标热稳定性优化：在没有先前序列—功能数据的情况下生成96个候选，并在一轮实验中获得熔解温度提高2.50°C的最佳候选。原文所称7倍提速来自合作方依据历史理性设计经验对所需轮数的估计，并非同批同期对照试验。热稳定性采用差示扫描荧光法测量；本次未测试免疫原性或其他功能，不能由此推断疫苗临床有效性或已实现商业化。",
+      "score": 3,
+      "importanceReason": "案例提供了候选数量、实验轮次、测量方法及热稳定性改善值，对AI蛋白工程具有参考价值；但合作方和完整数据未公开，提速基线为历史估计，证据不足以赋予最高等级。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "模型"
+      ],
       "url": "https://www.cradle.bio/blog/staphylococcus-aureus-vaccine",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-16T07:50:52Z",
+      "evidence": [
+        {
+          "url": "https://www.cradle.bio/blog/staphylococcus-aureus-vaccine",
+          "quote": "The best candidate achieved a 2.50 °C increase in melting temperature"
+        },
+        {
+          "url": "https://www.cradle.bio/blog/staphylococcus-aureus-vaccine",
+          "quote": "No immunogenicity testing or other functional assays were performed"
+        }
+      ],
+      "limitations": "分析依据企业官网保存的前5000字符摘录，正文被截断；未读取保密实验原始数据或独立复现报告。发布时间字段为空，只能确认系统于2026-09-16首次抓取，不能称为当日发布。",
+      "batchFile": "data/inbox/2026-09-16T07-50-52Z-first-verified-batch.json"
     },
     {
       "id": "757309a96ad7739cf06b3e82bba43b21",
@@ -438,17 +455,33 @@
       "sourceKey": "s02-17",
       "sourceName": "Cradle",
       "sourceType": "蛋白工程软件公司",
-      "category": "",
+      "category": "AI4S 应用",
       "publishedAt": null,
       "crawledAt": "2026-09-16T07:47:27.220Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "Cradle 官网介绍，加州大学伯克利分校 Keasling 实验室将其平台纳入QS-21生物合成相关酶的优化流程：模型生成候选序列，实验室表达并表征，实验数据回流用于模型再训练，目标包括发酵条件下的活性、产物选择性和稳定性。文章引用了2024年在酵母中构建QS-21合成路线的既有研究，并指出当时产量距离商业可行水平仍有明显差距。所读摘录没有给出本次AI优化后的产量提升数值，也没有证明已达到规模化生产或替代现有提取供应链。",
+      "score": 3,
+      "importanceReason": "明确展示了AI序列设计与湿实验反馈在复杂合成生物学路径中的结合方式，可用于跟踪AI4S实际工作流；缺少优化增益和商业验证，不能按已落地突破解读。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "模型",
+        "数据"
+      ],
       "url": "https://www.cradle.bio/blog/keasling-qs21",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-16T07:50:52Z",
+      "evidence": [
+        {
+          "url": "https://www.cradle.bio/blog/keasling-qs21",
+          "quote": "Cradle generates diverse sequence libraries predicted to improve target properties"
+        },
+        {
+          "url": "https://www.cradle.bio/blog/keasling-qs21",
+          "quote": "the experimental results feed back to retrain the models."
+        }
+      ],
+      "limitations": "仅分析企业官网保存的前5000字符摘录，后文被截断；未读取文中所引2024年论文全文，不把企业转述当成独立核验。发布时间未知，属于本日首次发现，不等于本日科研成果发布。",
+      "batchFile": "data/inbox/2026-09-16T07-50-52Z-first-verified-batch.json"
     },
     {
       "id": "515b631b45d291064bb8beba269fee58",
@@ -10657,5 +10690,5 @@
       "failureReason": ""
     }
   ],
-  "updatedAt": "2026-09-16T07:47:45.437Z"
+  "updatedAt": "2026-09-16T07:54:18.515Z"
 }
