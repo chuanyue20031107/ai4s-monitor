@@ -7,10 +7,13 @@
   "sourceType": "实验室技术展会",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:33.582Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "慕尼黑分析生化中国展（analytica China）是分析和生化技术领域的国际性博览会，由亚洲知名的展览公司及知名会展主办方慕尼黑展览（上海）有限公司主办，专门面向飞速发展的中国市场。凭借着analytica的国际品牌，analytica China吸引了来自全球主要工业国家的分析、诊断、实验室技术和生化技术领域的厂商。继2002年首次成功举办以来，analytica China已经成为规模空前的分析、实验室技术和生化技术领域的专业博览会和网络平台，每两年举办一次，是业内知名企业全面展示前沿技术、产品和解决方案的理想平台，这也是该展会能够吸引越来越多展商和观众的关键所在。同期举办的analytica China国际研讨会也是业内人士关注的焦点，其聚焦整个行业的发展，是科学技术和行业技术相互传递的理想平台。",
+  "contentStatus": "ready",
+  "extractionMethod": "meta-description",
   "discardReason": "",
-  "legacyId": "eac7edc63170991b20693717f6323641"
+  "contentHash": "58fd2f86ae4d6ff95f2ed6da94fd53981b2397388f1973e817897486e1708fd2",
+  "legacyId": "eac7edc63170991b20693717f6323641",
+  "lastFetchAt": "2026-09-16T21:25:14.536Z",
+  "contentTruncated": false,
+  "contentError": ""
 }

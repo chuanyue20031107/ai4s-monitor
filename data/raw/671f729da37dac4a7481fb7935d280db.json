@@ -7,10 +7,13 @@
   "sourceType": "专题学术会议",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:33.584Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "2026年中国药学会医院药学专业委员会医院药学人才专项资助项目于2026年4月14日开始进行项目征集，共收到43份项目申报材料。经形式审查，43份申报材料均符合申报要求。 2026年8-9月，我会组织专家对申报项目进行两轮评审，通过投票推评出拟资助项目10项（见附件），现予以公示。 对公示拟资助项目有争议或者揭发弊端者，可在公示期内（2026年9月11日至9月17日）以书面形式提出，并提供相应证明材料。以个人名义提出的，应当在书面材料上签署个人真实姓名、工作单位、联系地址和电话；以单位名义提出的，应当由单位法定代表人在书面材料上签字并加盖单位公章。",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "671f729da37dac4a7481fb7935d280db"
+  "contentHash": "284d88abe560d80eef1a8f4bc86ec00cd441686b1796f7e60045e2e4296e8356",
+  "legacyId": "671f729da37dac4a7481fb7935d280db",
+  "lastFetchAt": "2026-09-16T21:25:16.339Z",
+  "contentTruncated": false,
+  "contentError": ""
 }

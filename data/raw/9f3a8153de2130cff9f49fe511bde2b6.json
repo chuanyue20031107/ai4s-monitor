@@ -7,10 +7,13 @@
   "sourceType": "国际学术会议/展会",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:35.658Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "SLAS2027 International Conference & Exhibition --> --> January 30 - February 3, 2027 San Diego, CA, USA Register You Can't Stop the SLAS Momentum! The SLAS 2027 International Conference and Exhibition is where the year in life sciences begins&mdash;with the people, technologies and ideas already shaping what&rsquo;s next. Experience breakthrough science, hands-on innovation and high-impact connections that turn early insights into real momentum. Start your year where discovery and technology accelerate&mdash;and leave with the energy, partnerships and inspiration to move faster than the field. Happening Now... Now accepting podium and poster abstracts , including SLAS Innovation Award, SLAS Travel Award and Student Poster Award submissions. Award deadline: September 14. Learn More Applications are being accepted for Innovation Ave NEW in San Diego! Start-up companies, this is your chance to get your innovation in front of 7,000+ potential customers and investors! Apply for Innovation Ave NEW Use the form below to join our mailing list to stay on top of SLAS2027 activities, deadlines and registration alerts! SIGN UP for SLAS2027 Registration Alerts SLAS2027 Co-Chairs Joe de Rutte, PhD Co-Founder and CEO Partillion Bioscience Joe de Rutte, PhD, is the co-founder and CEO of Partillion Bioscience, where he leads the development of innovative tools that advance single-cell analysis and next-generation therapeutics. A recipient of the 2020 SLAS Innovation Award for the Nanovial platform, de Rutte helped transform the technology from an academic breakthrough into commercial tools now supporting more than 100 research programs worldwide. He is an inventor on 12 filed patents, co-author of 21 peer-reviewed publications and remains an active member of the SLAS community through award judging and conference program leadership. Julea Vlassakis, PhD Director, Microtechnologies Laboratory for Pediatric Oncology Rice University Julea Vlassakis, PhD, directs the Microtechnologies Laboratory for Pediatric Oncology at Rice University (Houston, TX, USA), where she leads the advancement of targeted and precision therapies for pediatric cancers, with a focus on Ewing sarcoma. She earned her PhD in bioengineering as a National Science Foundation Graduate Fellow and postdoc in the Herr Lab at the University of California, Berkeley where she was the second recipient of the SLAS Graduate Education Fellowship Award. Her research has garnered several honors, including the NIH Director&rsquo;s New Innovator Award, Burroughs Wellcome Fund Career Award at the Scientific Interface, and the CPRIT Scholar Award from the Cancer Prevention & Research Institute of Texas. Keynote Speakers Cigall Kadoch, PhD Professor/Investigator of Pediatric Oncology Dana-Farber Cancer Institute Wendy Young, PhD Former Senior Vice President Drug Discovery, Genentech; Scientific Advisor, Google Ventures Sponsors PREMIER",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "9f3a8153de2130cff9f49fe511bde2b6"
+  "contentHash": "6d15fbb39fb122848aef4f46e928290e5f4da70282f25c69a1cfae445f1ebb9e",
+  "legacyId": "9f3a8153de2130cff9f49fe511bde2b6",
+  "lastFetchAt": "2026-09-16T21:25:19.508Z",
+  "contentTruncated": false,
+  "contentError": ""
 }

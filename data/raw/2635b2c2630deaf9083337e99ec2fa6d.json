@@ -7,10 +7,13 @@
   "sourceType": "基因组标准组织",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:35.568Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Get involved Subscribe to the GA4GH newsletter Sign up to receive email updates about GA4GH work, meetings, and more. Looking for a previous newsletter? View previous GA4GH newsletters, Monthly Implementation Notes, GDPR Briefs, organisation event emails, updates, and more in our newsletter archive. Visit the Archive",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "2635b2c2630deaf9083337e99ec2fa6d"
+  "contentHash": "1655ae194f652c12d7a2fd3c8eeea92eca3823daac6b679ef674e846b1652569",
+  "legacyId": "2635b2c2630deaf9083337e99ec2fa6d",
+  "lastFetchAt": "2026-09-16T21:25:22.932Z",
+  "contentTruncated": true,
+  "contentError": ""
 }

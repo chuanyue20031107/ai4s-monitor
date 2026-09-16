@@ -7,10 +7,13 @@
   "sourceType": "基因组标准组织",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:35.568Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "News and events Events Learn about upcoming GA4GH events, and read meeting reports from past events. Interested in co-hosting 13th Plenary in 2025? Apply here .---> Upcoming events 27 Apr 2027 April Connect 2027 Connect See more 28 Sep 2026 14th Plenary Plenary See more Previous events Filter Filter: Category Connect Plenary Webinar Workshop All Work Streams All Products All Groups Date: Most recent 2026 2025 2024 2023 2022 2021 2020 2019 2018 2017 2016 2015 2014 14 Apr 2026 April Connect 2026 Connect See more 6 Oct 2025 13th Plenary Plenary See more 1 Apr 2025 April Connect 2025 Connect See more 16 Sep 2024 12th Plenary Plenary See more 21 Apr 2024 April Connect 2024 Connect See more 19 Sep 2023 11th Plenary Plenary See more 19 Apr 2023 April Connect 2023 Connect See more 14 Nov 2022 November Connect 2022 Connect See more 22 Sep 2022 10th Plenary Plenary See more 20 Apr 2022 April Connect 2022 Connect See more 5 Apr 2022 Newborn Sequencing Workshop Workshop See more 16 Nov 2021 National Initiatives Meeting 2021 Webinar, Workshop See more 12 Oct 2021 October Connect 2021 Connect See more 28 Sep 2021 9th Plenary Plenary See more 18 Mar 2021 March Connect 2021 Connect See more 29 Sep 2020 8th Plenary Plenary See more 19 Mar 2020 March Connect 2020 Connect See more 21 Oct 2019 7th Plenary Plenary See more 29 Apr 2019 May Connect 2019 Connect See more 3 Oct 2018 6th Plenary Plenary See more 14 Jun 2018 June Connect 2018 Connect See more 14 Feb 2018 National Initiatives Meeting 2018 Webinar See more 15 Oct 2017 5th Plenary Plenary See more 21 May 2017 GA4GH Strategic Planning Meeting See more 18 Feb 2017 GA4GH at the American Association for the Advancement of Science (AAAS) 2017 Annual Meeting Workshop See more 16 Oct 2016 4th Plenary Plenary See more 3 Apr 2016 GA4GH Global Engagement Workshop at the International Congress of Human Genetics (ICHG) 2016 Workshop See more 6 Oct 2015 GA4GH at the American Society of Human Genetics (ASHG) 2015 Annual Meeting Workshop See more 9 Jun 2015 3rd Plenary Meeting Plenary See more 15 Apr 2015 GA4GH Somatic Cancer Data Sharing Workshop Workshop See more 17 Oct 2014 2nd Plenary Meeting Plenary See more 4 Mar 2014 1st Partner Meeting Plenary See more There are no matches for your search criteria",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "4360e612fbaab7d29f24c0f6ee850707"
+  "contentHash": "d0e1e140fbe650afd5f501f29cf12d591d14904e6f47fc1c899bd77b9e99e765",
+  "legacyId": "4360e612fbaab7d29f24c0f6ee850707",
+  "lastFetchAt": "2026-09-16T21:25:22.668Z",
+  "contentTruncated": true,
+  "contentError": ""
 }

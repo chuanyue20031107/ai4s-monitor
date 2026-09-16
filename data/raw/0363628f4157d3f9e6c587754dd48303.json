@@ -7,10 +7,13 @@
   "sourceType": "实验室技术展会",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:33.582Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "analytica是分析、诊断、生物及实验室技术领域的国际盛会，每两年在德国慕尼黑召开一届。自1968年品牌创立以来，展会以发展成为全球分析、诊断、生物技术行业和科研及应用行业用户的重要交易平台。来自40个国家的1,244家展商在analytica 2016国际博览会展示了自己的新产品，其中包括多项全球发布。参展观众达到35,000人，海外展商和观众的数量均有相当幅度的增长——再次肯定了analytica作为全球实验室技术、分析和生化技术及其重要展会的地位。",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "68358989fc95c29a8e00ea304485233a"
+  "contentHash": "7f56af1765f920bea62def3fae5d863522efc948293e7490e6d8fed43b2330d6",
+  "legacyId": "68358989fc95c29a8e00ea304485233a",
+  "lastFetchAt": "2026-09-16T21:25:14.832Z",
+  "contentTruncated": false,
+  "contentError": ""
 }

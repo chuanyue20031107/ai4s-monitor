@@ -7,10 +7,13 @@
   "sourceType": "科学数据库与平台",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:57:50.752Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "UniProt is the world",
+  "contentStatus": "insufficient_content",
+  "extractionMethod": "meta-description",
   "discardReason": "",
-  "legacyId": "fe2c5e0eba0cd62f3165b0fe9b0e6fa1"
+  "contentHash": "426cbf943ec740a3ac0b508f31b1ce5842ddf2486cd503a0569b94081810c942",
+  "legacyId": "fe2c5e0eba0cd62f3165b0fe9b0e6fa1",
+  "lastFetchAt": "2026-09-16T21:24:44.380Z",
+  "contentTruncated": false,
+  "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成"
 }

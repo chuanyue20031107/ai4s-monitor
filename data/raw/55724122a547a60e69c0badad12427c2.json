@@ -7,10 +7,13 @@
   "sourceType": "国际学术会议/展会",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:35.658Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Thrive in Science: A Women's Leadership Forum 2027 --> --> January 31, 2027 San Diego, CA, USA Register Thrive in Science: A Women&rsquo;s Leadership Forum Thrive in Science returns Sunday, January 31 as a one-day, pre-conference event to empower and energize you ahead of the SLAS2027 International Conference and Exhibition in San Diego. This Women&rsquo;s Leadership Forum brings together women and allies from across the life sciences for a day of meaningful conversations, shared experiences and connections with others who are passionate about advancing their careers, supporting one another and shaping the future of science. Through inspiring conversations, engaging sessions and opportunities to build connections, you will explore topics impacting women in science, hear perspectives from leaders across the field and exchange ideas with a community of professionals committed to supporting one another. The program will feature: A keynote presentation from an inspiring leader and changemaker Breakout sessions designed to spark meaningful conversations around topics impacting women in science and the workplace A fireside chat with Q&A offering personal insights and perspectives from leaders in the life sciences Meaningful networking opportunities to build relationships with peers, leaders and professionals across the SLAS scientific community Registration Add Thrive in Science to your SLAS2027 Registration. For more details on pricing click here . Registration Interested in sponsoring? Learn more about Thrive in Science engagement opportunities ( p.31). View the Sponsorship Prospectus Committee Members Heather Colvan, Simplicis Ginger Cooper, Summit Success Group Melissa Crisp, Eli Lilly and Company Megan Ericson, AstraZeneca Marcie Glicksman, EnClear Therapies Elizabeth Rodziewicz, Retisoft Inc. Ceri Wiggins, AstraZeneca",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "55724122a547a60e69c0badad12427c2"
+  "contentHash": "16b8356f7fbb662f0c6f83b26c848436d54d52db004c3fdbc7a9f6792b524711",
+  "legacyId": "55724122a547a60e69c0badad12427c2",
+  "lastFetchAt": "2026-09-16T21:25:20.969Z",
+  "contentTruncated": false,
+  "contentError": ""
 }

@@ -7,10 +7,13 @@
   "sourceType": "国际学术会议",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:35.792Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Submit Your Abstract Today! New Orleans, LA | March 21-25 Share your research, expand your network, and connect with the community driving global innovation. Abstract Deadline: Monday, September 28 How to submit an abstract What to expect at ACS Spring 2027 Keynote Events Get inspired with transformative ideas with lasting impact for the future of chemistry Social Events & Networking Network with fellow chemists, speakers, exhibitors and sponsors Industry Events Find symposia and networking events for industry chemists. Career Events Level up your skills with workshops and courses and get free career advice Featured Sessions Late-breaking topics from prominent speakers, live workshops, panel discussions, and more. Expo Hall Events Check out the latest products at the Expo and pick up some fun freebies along the way! Student & PostDoc Events Plan for grad school and what comes next. Sessions, advice and networking tailored for students. Exhibit & Sponsor ACS Spring 2027 Connect with influential chemists and industry leaders Showcase your brand at ACS Spring 2027 and connect with over 10,000 influential chemists and industry leaders. Exhibitor & Sponsor Prospectus Explore New Orleans Discover New Orleans, a city bursting with culture and character, where jazz rhythms, historic neighborhoods, world-renowned cuisine, and riverfront charm come together in an atmosphere alive with energy and celebration. Explore New Orleans Thank you to our ACS Fall 2026 Sponsors! View All Sponsors Daily highlights Watch the best moments of ACS Fall 2026! Day 1: Experience Networking in Chicago Discover new connections across the chemistry community. Day 2: Expo Hall Opens Find new tools, insights, and opportunities at the Expo Hall. Day 3: Experience Career Education Learn, grow, and connect through engaging sessions. Day 4: That's a Wrap for ACS Fall 2026 Explore the highlights that made ACS Fall 2026 unforgettable. Close Dialog Close Dialog Close Dialog Close Dialog",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "d92e94131e24de79b3a3335ebf67fa13"
+  "contentHash": "4d3e4d3857eb8b73a1387dabef0a8e632becdfb668dfd9978ffe622b0846ed13",
+  "legacyId": "d92e94131e24de79b3a3335ebf67fa13",
+  "lastFetchAt": "2026-09-16T21:25:20.774Z",
+  "contentTruncated": false,
+  "contentError": ""
 }

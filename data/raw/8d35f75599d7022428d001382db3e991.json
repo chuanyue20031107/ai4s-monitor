@@ -7,10 +7,13 @@
   "sourceType": "国际学术会议",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:35.792Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Headline Science August 24, 2026 Chemists transform plastic into space food",
+  "contentStatus": "insufficient_content",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "8d35f75599d7022428d001382db3e991"
+  "contentHash": "b28a77f064a48783800c1e45191da2bc3aeeab629b4d47677d811761f1a3ddea",
+  "legacyId": "8d35f75599d7022428d001382db3e991",
+  "lastFetchAt": "2026-09-16T21:25:20.583Z",
+  "contentTruncated": false,
+  "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成"
 }

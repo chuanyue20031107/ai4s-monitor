@@ -7,10 +7,13 @@
   "sourceType": "产业技术会议",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:36.188Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "CII uses cookies to improve your website & conference experiences, including enhancing website navigation, personalized features & promotions, evaluating our services, and customizing content and ads based on your preferences as you browse or engage with us. By clicking \"Continue\" or continuing to use our site, you are agreeing to our and our partners use of cookies. See our Privacy Policy for more information. Cambridge Innovation Publishing, a division of Cambridge Innovation Institute, provides a portfolio of niche publications for the life sciences, clinical trials, AI, and renewable energy communities. We reach targeted audiences through trusted brands and a medium that fits within your marketing strategy. Bio-IT World is dedicated to the application of informatics, IT, and computer science in biomedical research and drug discovery. Clinical Research News reports on innovative technologies from clinical trials to medical informatics. Diagnostics World covers the emerging technologies and questions in diagnostics. Battery Power Online serves the rapidly expanding market of battery powered products and technology. Audience ranges from student to CEO and everyone in between Each marketing campaign is custom designed to meet our client&rsquo;s needs Cambridge Innovation Institute&rsquo;s master database has over 800k records Our dedicated team works with you during the entire project Post press releases for publication on our websites at no cost Submit contributed commentary articles to our Editors for publishing consideration Submit story ideas to our Editors for consideration Tom Conley Associate Director of Publication Marketing Cambridge Healthtech Institute +1 781.972.1351 tconley@healthtech.com 250 First Avenue, Suite 300 Needham, MA 02494 P: 781.972.5400 F: 781.972.5425 E: chi@healthtech.com",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "02de57f64e6ffa9683b2b85055a5ed9f"
+  "contentHash": "821441f71a51329d46501705700213c783e5d8753ea2c5135cd0d8de5a845c29",
+  "legacyId": "02de57f64e6ffa9683b2b85055a5ed9f",
+  "lastFetchAt": "2026-09-16T21:25:22.419Z",
+  "contentTruncated": false,
+  "contentError": ""
 }

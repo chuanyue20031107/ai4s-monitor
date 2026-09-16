@@ -7,10 +7,13 @@
   "sourceType": "生命科学产业联盟",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:35.755Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Collaboration That Delivers ANNUAL REPORT 2024/2025 Highlights from 2024/2025 Our diverse portfolio of projects and communities has delivered value to members and received strong industry recognition including the Bio-IT World Innovative Practices Lighthouse Award for our FAIR Maturity Matrix and an Honourable Mention for our IVP Public-Private Partnership. \"Through our continued efforts, we empower organizations to unlock the full potential of their data, ultimately contributing to faster and more effective delivery of new therapies to patients worldwide.\" Chris Waller Vice President and Chief Scientist, EPAM Systems Our Strategic Priorities Delivering impactful solutions addressing the biggest challenges in R&D. Delivering Data-Driven Value Data is the foundation for AI and digital strategies. We help the industry to manage, maintain and consume data more efficiently. Harnessing AI to Expedite R&D 83% of Life Sciences Executives say they will not achieve growth goals without AI. We help the industry to harness AI’s full potential. Sustainability-Driven R&D We help ensure that the benefits of therapies are not offset by our industry’s operations. Accelerate Late Stage R&D We aim to help increase the effectiveness of the most expensive phases of R&D to benefit patients. Together we achieve more This year we have continued to unite the industry through a diverse range of global initiatives: We expanded member value through our largest conference, global Life Science Informatics Forum, new Cheminformatics Forum, and resources including ZS research and the second Lab of the Future report. We strengthened regulator and industry engagement via an FDA Public-Private Partnership, Carbon Footprint project, and published member feedback on FDA AI guidance. We boosted industry talent development with new AI/ML, IDMP, and ontology training, and launched the life sciences’ first Young Data Scientist of the Year Award. Leading the way The Executive Team Becky Upton President Errol Sandler Secretary Steve Hollinshead Treasurer Christian Baber Chief Portfolio Officer Pistoia Alliance in numbers 200 + Members 17 /20 Top Pharma by R&D Expenditure 30 + Active Global Projects and Communities 14 New Ideas Submitted by Members 850 + Global Project Participants 2 BIO-IT World Innovation Awards 1st Young Data Scientist Award 4 Peer Reviewed Journal Publications 800 In-person Forum and Conference Attendees 2920 Training & Webinar Online Attendees 77 Media Opinion Articles 3 Industry Benchmark Surveys Download The Full Report For a deeper dive into our work, download our full report here. Read More",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "a9628ab74ebdf22bc148ab2a9779f83c"
+  "contentHash": "b19fed5a55cd3a067bd39b8ad862a5a8614df0b0088b2b0c7359d6120b193443",
+  "legacyId": "a9628ab74ebdf22bc148ab2a9779f83c",
+  "lastFetchAt": "2026-09-16T21:25:17.518Z",
+  "contentTruncated": false,
+  "contentError": ""
 }

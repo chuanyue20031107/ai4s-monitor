@@ -7,10 +7,13 @@
   "sourceType": "国际数据组织",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:34.387Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Newsletters Keeping our community informed RDA Newsletters The RDA is guided by principles of Openness and Inclusivity. We therefore value transparent communication with our members and send them regular updates to our community through the form of newsletters. As well as notifying our community on important updates regarding the work of the RDA, we send a regular ‘Month in Review’ newsletter filled with RDA activities and relevant news from our community and the wider open research network. Take a look at past newsletter issues below. For newsletters before 2023, see the archived site. Would you like to receive our monthly newsletter, directly to your inbox? Become an RDA Member free of charge to be automatically added to our mailing list for community updates. Become an RDA Member Month in Review Newsletters 2026 January 2026 February 2026 March 2026 April 2026 May 2026 June 2026 July 2026 August 2026 Month in Review Newsletters 2025 January 2025 February 2025 March 2025 April 2025 May 2025 June 2025 July 2025 August 2025 September 2025 October 2025 November 2025 December 2025 Month in Review Newsletters 2024 January 2024 February 2024 March 2024 April 2024 May 2024 June 2024 July 2024 August 2024 September 2024 October 2024 November 2024 December 2024 Month in Review Newsletters 2023 December 2023 November 2023 October 2023 September 2023 August 2023 July 2023 — For newsletters prior to July 2023, refer to the archived RDA site. — General Community Updates 2024 NWO Joins the Research Data Alliance – January 2024 RDA-US TIGRUS Programme Updates – January 2024 Join the RDA Europe Team! – January 2024 Join the RDA-US Slack Channel – January 2024 RDA Website Content Freeze and Soft Launch – March 2024 New RDA Website: What to Expect – March 2024 Update on Soft Launch of RDA Website – April 2024 9 April Website Update – April 2024 Meet RDA’s Newest Council Members – April 2024 Web Platform Update 19th April – April 2024 RDA Announces The Sarah Jones Memorial Award – June 2024 Web Platform Update – June 2024 New Faces at the RDA – July 2024 GA4GH And The RDA Agree To Strategic Relationship To Advance Responsible Data Sharing – July 2024 Feedback Request from RDA: New Groups, Outputs and Recommendations – July 2024 Web Platform Update – August 2024 Web Platform Update – October 2024 2025 Leave your Feedback: New RDA Groups and Recommendations Plenary Updates Early Bird Registration Open for Virtual Plenary 22 – February 2024 Updated Plenary 22 Programme With Plenary Pathways Now Available – March 2024 23rd Plenary Call for Sessions Open! – April 2024 Plenary Updates – July 2024 Registration Open for P23! – August 2024 Last Chance! Early Bird Registration Closing Soon – September 2024 Registration Open for 24th RDA Plenary – December 2024 Draft Programme Announced – RDA 25th Plenary – May 2025 P25: Last Chance to Register at the Early Bird Rate – July 2025 RDA 26th Plenary: Call for Sessions – September 2025 RDA 26th Plenary: Early Bird Registration Ends Soon – February 2026",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "b5ededfd5b9efe4c216b6e741c0af511"
+  "contentHash": "ff7c9b92adf346d731b266f1323b8eeafc822cfe0bd4414cf8f7ce5fbf525ffe",
+  "legacyId": "b5ededfd5b9efe4c216b6e741c0af511",
+  "lastFetchAt": "2026-09-16T21:25:16.572Z",
+  "contentTruncated": false,
+  "contentError": ""
 }
