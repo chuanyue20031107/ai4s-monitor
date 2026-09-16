@@ -6,6 +6,7 @@ import { Ai4sPluginService } from './ai4s.plugins';
 import { Ai4sAutomationTasksService } from './ai4s.automation';
 import { Ai4sHealthChecker } from './ai4s.health.checker';
 import { Ai4sHealthService } from './ai4s.health.service';
+import { Ai4sWechatRssService } from './ai4s.wechat-rss.service';
 
 @Module({
   controllers: [Ai4sController],
@@ -14,6 +15,7 @@ import { Ai4sHealthService } from './ai4s.health.service';
     Ai4sIngestService,
     Ai4sHealthChecker,
     Ai4sHealthService,
+    Ai4sWechatRssService,
     Ai4sService,
     Ai4sAutomationTasksService,
   ],
