@@ -1,7 +1,6 @@
 import React, { useMemo } from 'react';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
-import { UniversalLink } from '@lark-apaas/client-toolkit/components/UniversalLink';
 import { parseDigest } from '@shared/digest';
 
 interface DigestContentViewProps {
@@ -34,14 +33,14 @@ const DigestContentView: React.FC<DigestContentViewProps> = ({ content }) => {
                           {item.links.map((link) => (
                             <p key={link} className="break-all">
                               <span className="font-bold text-foreground">原文链接：</span>
-                              <UniversalLink
-                                to={link}
+                              <a
+                                href={link}
                                 target="_blank"
                                 rel="noreferrer"
                                 className="text-primary hover:underline"
                               >
                                 {link}
-                              </UniversalLink>
+                              </a>
                             </p>
                           ))}
                         </div>

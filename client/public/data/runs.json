@@ -1,0 +1,17 @@
+{
+  "items": [
+    {
+      "id": "83986db8-44be-43a4-89f7-1039979bfef0",
+      "taskType": "来源抓取",
+      "status": "success",
+      "processed": 12,
+      "succeeded": 7,
+      "failed": 5,
+      "detail": "完成 12/12：成功 7，失败 5",
+      "failureReason": "",
+      "startedAt": "2026-09-16T05:12:07.135Z",
+      "finishedAt": "2026-09-16T05:12:19.802Z"
+    }
+  ],
+  "updatedAt": "2026-09-16T05:12:19.802Z"
+}

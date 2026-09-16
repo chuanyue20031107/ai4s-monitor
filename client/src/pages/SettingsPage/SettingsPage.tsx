@@ -112,7 +112,7 @@ export default function SettingsPage() {
         <CardHeader>
           <CardTitle className="text-sm">手动抓取情报</CardTitle>
           <CardDescription>
-            粘贴任意文章或来源页链接，立即抓取并 AI 分析入库（单篇约 30 秒～2 分钟）；也可前往「监控来源」页对种子来源执行抓取
+            GitHub Pages 为只读站点。提交后会打开 Actions 页面，请点击 Run workflow 执行抓取；自动任务每 6 小时运行一次。
           </CardDescription>
         </CardHeader>
         <CardContent>
@@ -140,10 +140,9 @@ export default function SettingsPage() {
       {/* 服务端自动任务 */}
       <Card>
         <CardHeader>
-          <CardTitle className="text-sm">服务端自动任务</CardTitle>
+          <CardTitle className="text-sm">GitHub Actions 自动任务</CardTitle>
           <CardDescription>
-            由服务端定时触发器 <code className="rounded bg-muted px-1 text-xs">daily_ai4s_digest</code> 每 30
-            分钟轮询一次，按下方配置自动执行「抓取 → 去重 → 分类 → AI 分析 → 每日摘要 → 飞书推送」全链路，无需打开应用
+            工作流 <code className="rounded bg-muted px-1 text-xs">crawl-and-deploy.yml</code> 定时执行「抓取 → 去重 → JSON 入库 → Pages 发布」，无需打开应用。
           </CardDescription>
         </CardHeader>
         <CardContent className="space-y-4">
@@ -342,7 +341,7 @@ export default function SettingsPage() {
       <Card>
         <CardHeader>
           <CardTitle className="text-sm">来源启用 / 停用</CardTitle>
-          <CardDescription>停用后的来源不再参与每日定时抓取与推送（写入数据库，立即生效）</CardDescription>
+          <CardDescription>来源状态保存在仓库 JSON 数据库；如需长期修改，请编辑 data/settings.json 后运行工作流。</CardDescription>
         </CardHeader>
         <CardContent>
           <div className="max-h-[320px] space-y-1 overflow-y-auto pr-1">

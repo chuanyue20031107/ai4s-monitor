@@ -1,7 +1,6 @@
 /**
- * AI4S 情报雷达 — 全局状态存储（服务端数据库版）
- * 数据持久化：服务端 PostgreSQL（/api/ai4s/*），打开应用时拉取，写操作后刷新
- * 每日自动链路：服务端 daily_ai4s_digest 触发器执行（抓取 → 去重 → 分类 → AI 分析 → 摘要 → 飞书推送）
+ * AI4S 情报雷达 — GitHub JSON 数据库版。
+ * GitHub Actions 定时更新 public/data，GitHub Pages 只读加载。
  */
 import {
   createContext,
@@ -13,7 +12,6 @@ import {
   useState,
   type ReactNode,
 } from 'react';
-import { logger } from '@lark-apaas/client-toolkit';
 import { toast } from 'sonner';
 import {
   analyzeUrl as apiAnalyzeUrl,
@@ -46,6 +44,8 @@ import {
   type MoatTag,
   type WorkflowStepStatus,
 } from '@/data/ai4s';
+
+const logger = console;
 
 export interface ISourceRuntime {
   enabled: boolean;
@@ -509,6 +509,7 @@ export function Ai4sProvider({ children }: { children: ReactNode }) {
         ].join('\n');
         const full = await generateDailyDigestText(prompt, onChunk);
         const saved = await apiSaveDigest({ content: full, articleCount: todayArticles.length, digestType: 'daily' });
+        if (!saved.digest) throw new Error('摘要保存结果为空');
         setDigest({
           content: saved.digest.content,
           generatedAt: toMs(saved.digest.generatedAt),
@@ -570,6 +571,7 @@ export function Ai4sProvider({ children }: { children: ReactNode }) {
         ].join('\n');
         const full = await generateDailyDigestText(prompt, onChunk);
         const saved = await apiSaveDigest({ content: full, articleCount: weeklyArticles.length, digestType: 'weekly' });
+        if (!saved.digest) throw new Error('周报保存结果为空');
         setWeeklyDigest({
           content: saved.digest.content,
           generatedAt: toMs(saved.digest.generatedAt),

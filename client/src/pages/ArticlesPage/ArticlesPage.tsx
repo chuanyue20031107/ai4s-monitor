@@ -51,7 +51,6 @@ import {
 import { dateStrToTs, formatShortDateTime } from '@/lib/format';
 import { CATEGORIES, CONTENT_TYPES, SOURCE_GROUPS, SOURCE_SEED } from '@/data/ai4s';
 import { useAi4s } from '@/store/Ai4sStore';
-import { UniversalLink } from '@lark-apaas/client-toolkit';
 
 const PAGE_SIZE = 10;
 
@@ -391,9 +390,9 @@ export default function ArticlesPage() {
                             <Eye className="size-4" />
                           </Button>
                           <Button variant="ghost" size="icon" className="size-8" asChild>
-                            <UniversalLink to={a.url} target="_blank" rel="noreferrer" aria-label="原文链接">
+                            <a href={a.url} target="_blank" rel="noreferrer" aria-label="原文链接">
                               <ExternalLink className="size-4" />
-                            </UniversalLink>
+                            </a>
                           </Button>
                           {(a.analysisStatus === 'failed' || a.analysisStatus === 'done') && (
                             <Button

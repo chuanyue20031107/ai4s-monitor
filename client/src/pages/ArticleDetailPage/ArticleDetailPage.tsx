@@ -31,7 +31,6 @@ import {
 import { formatDateTime } from '@/lib/format';
 import { SOURCE_SEED } from '@/data/ai4s';
 import { useAi4s } from '@/store/Ai4sStore';
-import { UniversalLink } from '@lark-apaas/client-toolkit';
 
 function InfoRow({ label, children }: { label: string; children: React.ReactNode }) {
   return (
@@ -95,10 +94,10 @@ export default function ArticleDetailPage() {
             </CardHeader>
             <CardContent className="flex flex-wrap gap-2">
               <Button variant="outline" size="sm" asChild>
-                <UniversalLink to={article.url} target="_blank" rel="noreferrer">
+                <a href={article.url} target="_blank" rel="noreferrer">
                   <ExternalLink className="size-4" />
                   查看原文
-                </UniversalLink>
+                </a>
               </Button>
               <Button
                 size="sm"
@@ -207,22 +206,22 @@ export default function ArticleDetailPage() {
                 <div className="flex flex-wrap gap-1.5 pt-2">
                   {source.website && (
                     <Button variant="outline" size="sm" asChild>
-                      <UniversalLink to={source.website} target="_blank" rel="noreferrer">官网</UniversalLink>
+                      <a href={source.website} target="_blank" rel="noreferrer">官网</a>
                     </Button>
                   )}
                   {source.github && (
                     <Button variant="outline" size="sm" asChild>
-                      <UniversalLink to={source.github} target="_blank" rel="noreferrer">GitHub</UniversalLink>
+                      <a href={source.github} target="_blank" rel="noreferrer">GitHub</a>
                     </Button>
                   )}
                   {source.linkedin && (
                     <Button variant="outline" size="sm" asChild>
-                      <UniversalLink to={source.linkedin} target="_blank" rel="noreferrer">LinkedIn</UniversalLink>
+                      <a href={source.linkedin} target="_blank" rel="noreferrer">LinkedIn</a>
                     </Button>
                   )}
                   {source.feedUrl && (
                     <Button variant="outline" size="sm" asChild>
-                      <UniversalLink to={source.feedUrl} target="_blank" rel="noreferrer">RSS / 会议</UniversalLink>
+                      <a href={source.feedUrl} target="_blank" rel="noreferrer">RSS / 会议</a>
                     </Button>
                   )}
                 </div>

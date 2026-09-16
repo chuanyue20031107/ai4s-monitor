@@ -96,7 +96,8 @@ export function CategoryDistChart({ articles }: { articles: IArticle[] }) {
   const option: EChartsOption = {
     tooltip: {
       trigger: 'item',
-      formatter: (p: CallbackDataParams) => {
+      formatter: (params) => {
+        const p = (Array.isArray(params) ? params[0] : params) as CallbackDataParams;
         const row = rows.find((r) => r.name === p.name);
         const pct = total > 0 && row ? Math.round((row.count / total) * 100) : 0;
         return `${p.name}：${row?.count ?? 0} 篇（${pct}%）`;

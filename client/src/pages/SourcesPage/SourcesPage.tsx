@@ -1,7 +1,6 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { toast } from 'sonner';
 import { Download, FlaskConical, Loader2, Rss, SearchX } from 'lucide-react';
-import { logger } from '@lark-apaas/client-toolkit';
 import { Badge } from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
@@ -36,7 +35,8 @@ import type { IAi4sHealthCheckStats } from '@shared/api.interface';
 import { formatDateTime } from '@/lib/format';
 import { SOURCE_GROUPS, SOURCE_SEED, type ISource, type Priority } from '@/data/ai4s';
 import { useAi4s } from '@/store/Ai4sStore';
-import { UniversalLink } from '@lark-apaas/client-toolkit';
+
+const logger = console;
 
 function DetailRow({ label, children }: { label: string; children: React.ReactNode }) {
   return (
@@ -429,31 +429,31 @@ export default function SourcesPage() {
                 </DetailRow>
                 <DetailRow label="官方网站">
                   {detailSource.website ? (
-                    <UniversalLink className="text-primary hover:underline" to={detailSource.website} target="_blank" rel="noreferrer">
+                    <a className="text-primary hover:underline" href={detailSource.website} target="_blank" rel="noreferrer">
                       {detailSource.website}
-                    </UniversalLink>
+                    </a>
                   ) : '—'}
                 </DetailRow>
                 <DetailRow label="官方公众号">{detailSource.wechat || '—'}</DetailRow>
                 <DetailRow label="LinkedIn">
                   {detailSource.linkedin ? (
-                    <UniversalLink className="text-primary hover:underline" to={detailSource.linkedin} target="_blank" rel="noreferrer">
+                    <a className="text-primary hover:underline" href={detailSource.linkedin} target="_blank" rel="noreferrer">
                       {detailSource.linkedin}
-                    </UniversalLink>
+                    </a>
                   ) : '—'}
                 </DetailRow>
                 <DetailRow label="GitHub">
                   {detailSource.github ? (
-                    <UniversalLink className="text-primary hover:underline" to={detailSource.github} target="_blank" rel="noreferrer">
+                    <a className="text-primary hover:underline" href={detailSource.github} target="_blank" rel="noreferrer">
                       {detailSource.github}
-                    </UniversalLink>
+                    </a>
                   ) : '—'}
                 </DetailRow>
                 <DetailRow label="RSS / 会议链接">
                   {detailSource.feedUrl ? (
-                    <UniversalLink className="text-primary hover:underline" to={detailSource.feedUrl} target="_blank" rel="noreferrer">
+                    <a className="text-primary hover:underline" href={detailSource.feedUrl} target="_blank" rel="noreferrer">
                       {detailSource.feedUrl}
-                    </UniversalLink>
+                    </a>
                   ) : '—'}
                 </DetailRow>
                 <DetailRow label="备注">{detailSource.notes || '—'}</DetailRow>
@@ -468,14 +468,14 @@ export default function SourcesPage() {
                  </DetailRow>
                  <DetailRow label="发现的订阅地址">
                    {detailRuntime?.discoveredFeedUrl ? (
-                     <UniversalLink
+                     <a
                        className="text-primary hover:underline"
-                       to={detailRuntime.discoveredFeedUrl}
+                       href={detailRuntime.discoveredFeedUrl}
                        target="_blank"
                        rel="noreferrer"
                      >
                        {detailRuntime.discoveredFeedUrl}
-                     </UniversalLink>
+                     </a>
                    ) : '—'}
                  </DetailRow>
                  <DetailRow label="最近抓取时间">

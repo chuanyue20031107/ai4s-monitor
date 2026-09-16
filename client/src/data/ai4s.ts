@@ -1,4 +1,4 @@
-// EXPORTS: Category, ContentType, MoatTag, Priority, TaskType, AnalysisStatus, CrawlStatus, RunStatus, ISource, IArticle, IRunRecord, ISettings, PLUGIN_IDS, CATEGORIES, CATEGORY_PRIORITY_ORDER, CONTENT_TYPES, MOAT_TAGS, SOURCE_GROUPS, TASK_TYPES, WORKFLOW_STEPS, DEFAULT_SETTINGS, CRAWL_STATUS_LABELS, SOURCE_SEED
+// EXPORTS: Category, ContentType, MoatTag, Priority, TaskType, AnalysisStatus, CrawlStatus, RunStatus, ISource, IArticle, IRunRecord, ISettings, CATEGORIES, CATEGORY_PRIORITY_ORDER, CONTENT_TYPES, MOAT_TAGS, SOURCE_GROUPS, TASK_TYPES, WORKFLOW_STEPS, DEFAULT_SETTINGS, CRAWL_STATUS_LABELS, SOURCE_SEED
 
 /**
  * AI4S 情报雷达 — 数据模型与固定字典
@@ -8,14 +8,6 @@
  * 优先级 S/A/B → 高/中/低；论文或开源来源 → GitHub / RSS 字段；社媒来源 → LinkedIn；
  * 主体类型保留清单原文（自由文本），筛选按 10 个清单分组进行。
  */
-
-// ---------- 插件实例 ID（capabilityClient.load 用） ----------
-export const PLUGIN_IDS = {
-  crawler: 'ai4s_intelligence_crawler_1',
-  analyzer: 'ai4s_intelligence_article_structured_analysis_1',
-  pusher: 'ai4s_daily_intelligence_feishu_push_1',
-  digest: 'agent_reply_1',
-} as const;
 
 // ---------- 固定分类（六类，含优先级） ----------
 export const CATEGORIES = ['模型', '数据', 'AI4S 应用', '自动化实验室', '产业与商业', '其他'] as const;
