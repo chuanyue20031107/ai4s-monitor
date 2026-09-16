@@ -40,8 +40,9 @@ jobs:
       - name: Crawl sources into the GitHub JSON database
         env:
           BATCH_SIZE: ${{ inputs.batch_size || '36' }}
-          # Optional. When unset, WeChat RSS sources are ignored and existing crawl behavior is unchanged.
-          WERSS_BASE_URL: ${{ secrets.WERSS_BASE_URL }}
+          # Public Railway endpoint for the optional WeRSS sidecar.
+          # WeChat sources still require feed_id + enabled=true in config/wechat_sources.csv.
+          WERSS_BASE_URL: https://werss-production-d388.up.railway.app/
         run: npm run crawl
 
       - name: Commit refreshed database
