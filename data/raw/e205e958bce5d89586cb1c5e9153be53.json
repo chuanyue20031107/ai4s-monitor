@@ -1,0 +1,18 @@
+{
+  "id": "e205e958bce5d89586cb1c5e9153be53",
+  "title": "About AAAI",
+  "url": "https://aaai.org/about-aaai/",
+  "sourceKey": "s11-15",
+  "sourceName": "AAAI Conference on Artificial Intelligence",
+  "sourceType": "国际学术会议",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T08:37:02.002Z",
+  "content": "About the Association for the Advancement of Artificial Intelligence (AAAI) Member Organization The Association for the Advancement of Artificial Intelligence (AAAI) is the premier scientific society dedicated to advancing the scientific understanding of the mechanisms underlying thought and intelligent behavior and their embodiment in machines. Founded in 1979, the Association for the Advancement of Artificial Intelligence (AAAI) (formerly the American Association for Artificial Intelligence) is a nonprofit scientific society devoted to advancing the scientific understanding of the mechanisms underlying thought and intelligent behavior and their embodiment in machines. AAAI Mission Advance and integrate safe and responsible AI to benefit society. AAAI Vision Humanity thriving, empowered by AI. Core Values: Leadership : Guiding the profession forward and setting standards (alternative: Guiding the profession forward as trusted thought leaders in AI). Integrity : Being honest, ethical, and accountable in all actions and decisions. Transparency : Operating openly and sharing information clearly with stakeholders. Trust : Building and maintaining reliability and credibility through research and consistent behavior. Excellence : Striving for the highest standards in all activities and services. Inclusive : Welcoming and valuing diverse perspectives and participants. Multidisciplinary : Embracing and integrating multiple disciplines and areas of expertise. AAAI’s goals are: Promoting research in, and responsible use of, artificial intelligence (AI) Increasing public understanding of artificial intelligence Improving the teaching and training of AI practitioners Guiding research planners and funders concerning the importance and potential of current AI developments and future directions. AAAI’s activities include: Organizing and sponsoring conferences, symposia, and workshops Publishing a quarterly magazine for all members Publishing a series of proceedings, including the annual proceedings for the AAAI Conference on Artificial Intelligence Advocating for members throughout the world through educational programs and governmental outreach Awarding grants and scholarships",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-16T08:37:02.002Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "dc144c8aeaf0ca582df81c6890fddd801774c23b827bc8b08322c8add0b17820"
+}

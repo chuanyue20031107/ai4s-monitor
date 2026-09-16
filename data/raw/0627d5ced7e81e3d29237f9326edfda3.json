@@ -1,0 +1,18 @@
+{
+  "id": "0627d5ced7e81e3d29237f9326edfda3",
+  "title": "History",
+  "url": "https://recomb.org/history/",
+  "sourceKey": "s11-16",
+  "sourceName": "RECOMB",
+  "sourceType": "国际学术会议",
+  "publishedAt": null,
+  "crawledAt": "2026-09-16T08:37:02.627Z",
+  "content": "The RECOMB conference series was founded in 1997 to provide a scientific forum for theoretical advances in computational biology and their applications in molecular biology and medicine. The conference solicits research contributions from all areas of computational molecular biology. Typical but not exclusive topics of interest include: The origins of the conference came from the mathematical and computational side of the field, and there remains a focus on computational advances. In addition, the effective use of computational techniques in biological discovery is also an important aspect of the conference. You can watch some previous talks of the conference at our YouTube channel . &copy; RECOMB Steering Committee. Based on Project Zeppelin .",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-16T08:37:02.627Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "a8a32437756f63a16741b75d32df616867752b19dfb8fee316f35adb07f30e96"
+}

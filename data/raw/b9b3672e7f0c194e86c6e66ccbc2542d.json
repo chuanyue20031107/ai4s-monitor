@@ -5,12 +5,15 @@
   "sourceKey": "s01-08",
   "sourceName": "National Institute of Standards and Technology",
   "sourceType": "国家计量标准机构",
-  "publishedAt": null,
+  "publishedAt": "2019-05-09T14:22:00.000Z",
   "crawledAt": "2026-09-16T05:12:09.634Z",
   "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "contentStatus": "insufficient_content",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "b9b3672e7f0c194e86c6e66ccbc2542d"
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "legacyId": "b9b3672e7f0c194e86c6e66ccbc2542d",
+  "lastFetchAt": "2026-09-16T08:37:07.760Z",
+  "contentTruncated": false,
+  "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成"
 }

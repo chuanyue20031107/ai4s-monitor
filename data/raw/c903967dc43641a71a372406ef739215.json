@@ -5,12 +5,15 @@
   "sourceKey": "s01-08",
   "sourceName": "National Institute of Standards and Technology",
   "sourceType": "国家计量标准机构",
-  "publishedAt": null,
+  "publishedAt": "2019-05-09T14:23:00.000Z",
   "crawledAt": "2026-09-16T05:12:09.633Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Material Recovery Facilities (MRFs) are essential to municipal recycling infrastructure, but face difficulties in sorting due to the growing complexity of...",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "c903967dc43641a71a372406ef739215"
+  "contentHash": "a630aae000c1c6e86a32748342110b6b05f2a9b01fa7e9cd8cf30ae67f843194",
+  "legacyId": "c903967dc43641a71a372406ef739215",
+  "lastFetchAt": "2026-09-16T08:37:07.683Z",
+  "contentTruncated": false,
+  "contentError": ""
 }

@@ -5,12 +5,15 @@
   "sourceKey": "s01-08",
   "sourceName": "National Institute of Standards and Technology",
   "sourceType": "国家计量标准机构",
-  "publishedAt": null,
+  "publishedAt": "2019-05-09T14:20:00.000Z",
   "crawledAt": "2026-09-16T05:12:09.634Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "NIST experts are working to bring our measurements out of the lab and to the places where our users need them — saving time and money.",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "fbaa6afee3dc2f464cb95c1eae1f0f2e"
+  "contentHash": "66cee9dbcdbb218deb36576b1d5cd3df48565fc57bb49a0c46a437ab138fc9f3",
+  "legacyId": "fbaa6afee3dc2f464cb95c1eae1f0f2e",
+  "lastFetchAt": "2026-09-16T08:37:07.864Z",
+  "contentTruncated": false,
+  "contentError": ""
 }

@@ -5,12 +5,15 @@
   "sourceKey": "s01-06",
   "sourceName": "Broad Institute",
   "sourceType": "非营利研究机构",
-  "publishedAt": null,
+  "publishedAt": "2015-12-07T20:21:27.000Z",
   "crawledAt": "2026-09-16T05:12:08.435Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Carlos Slim Center for Health Research The Carlos Slim Center for Health Research was established to bring the benefits of genomics-driven medicine to Latin America, gleaning new insights into diseases with relevance to the region.",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "10c288f7441df7267d3a401562dcea36"
+  "contentHash": "98ce30b962b0a274bc609b450590495654e369c8c86499ddda8ec7b8db9c5fc1",
+  "legacyId": "10c288f7441df7267d3a401562dcea36",
+  "lastFetchAt": "2026-09-16T08:37:08.428Z",
+  "contentTruncated": true,
+  "contentError": ""
 }

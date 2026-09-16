@@ -7,10 +7,13 @@
   "sourceType": "非营利研究机构",
   "publishedAt": null,
   "crawledAt": "2026-09-16T05:12:08.435Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Demographic and clinical characteristics of participants in the Neuropsychiatric Genetics of African Populations-Psychosis (NeuroGAP-Psychosis) study: A descriptive analysis. Stroud RE, Hook K, Alemayehu M, et al. Demographic and clinical characteristics of participants in the Neuropsychiatric Genetics of African Populations-Psychosis (NeuroGAP-Psychosis) study: A descriptive analysis. PloS one . 2026;21(8):e0356360. doi:10.1371/journal.pone.0356360 DOI PubMed Central PubMed Google Scholar PMCID PMC13513997 Read more",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "abb61e5304ce540025943f05e0013301"
+  "contentHash": "dac7df62ca5317b9aba186368f41d162c9b0d6476672eab44e5189e91044992d",
+  "legacyId": "abb61e5304ce540025943f05e0013301",
+  "lastFetchAt": "2026-09-16T08:37:08.255Z",
+  "contentTruncated": false,
+  "contentError": ""
 }

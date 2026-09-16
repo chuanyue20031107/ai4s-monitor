@@ -7,10 +7,13 @@
   "sourceType": "专题学术会议",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:33.584Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "《中国药学会2026年度公开招聘编外聘用人员公告》已于2026年9月1日发布。结合报名情况，经研究延长报名时间，现补充公告如下。 报名时间延长至2026年9月23日24:00。原公告中其他信息不变，已报考人员无需重新报名。 原公告链接： https://www.cpa.org.cn/?do=info&cid=78996",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "afc90c07628851a856b5132aa73c2a50"
+  "contentHash": "94956a53ae181018cfb7ec239bdb126d5709a39e6c1f9e89bf5d9566d79d1279",
+  "legacyId": "afc90c07628851a856b5132aa73c2a50",
+  "lastFetchAt": "2026-09-16T08:37:00.450Z",
+  "contentTruncated": false,
+  "contentError": ""
 }
