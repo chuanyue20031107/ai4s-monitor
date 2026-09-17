@@ -1144,17 +1144,28 @@
       "sourceKey": "s02-11",
       "sourceName": "Emerald Cloud Lab",
       "sourceType": "云实验室公司",
-      "category": "",
+      "category": "自动化实验室",
       "publishedAt": null,
       "crawledAt": "2026-09-17T02:32:46.384Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "Emerald Cloud Lab的参数解析文档说明，ExperimentCountLiquidParticlesOptions可根据样品输入生成液体颗粒遮光实验的ResolvedOptions，显示输入或选项的潜在问题，并可返回选项列表。这类执行前参数解析有助于程序化实验的检查与可追溯性，但当前文档未展示实际运行数据，也未涉及AI决策。",
+      "score": 1,
+      "importanceReason": "确认了云实验室参数预检接口，属于局部功能文档而非性能进展。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "实验自动化"
+      ],
       "url": "https://www.emeraldcloudlab.com/helpfiles/ExperimentCountLiquidParticlesOptions.html",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-17T08:40:09.816Z",
+      "evidence": [
+        {
+          "url": "https://www.emeraldcloudlab.com/helpfiles/ExperimentCountLiquidParticlesOptions.html",
+          "quote": "generates the ResolvedOptions for conducting a light obscuration experiment on Samples"
+        }
+      ],
+      "limitations": "正文很短，没有参数示例输出、错误检测覆盖率或真实实验验证。",
+      "batchFile": "data/inbox/2026-09-17T08-40-09-816Z-full-002-f08930b8.json"
     },
     {
       "id": "354abe19ea58c60a4b3dff649b2c2df3",
@@ -1162,17 +1173,28 @@
       "sourceKey": "s02-11",
       "sourceName": "Emerald Cloud Lab",
       "sourceType": "云实验室公司",
-      "category": "",
+      "category": "自动化实验室",
       "publishedAt": null,
       "crawledAt": "2026-09-17T02:32:44.914Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "Emerald Cloud Lab文档将液体颗粒计数封装为可生成Protocol对象的实验接口，使用HIAC 9703 Plus进行遮光测量，并描述预冲洗、样品准备、测量及清洗步骤。接口暴露传感器、注射器、粒径范围与重复次数等参数，显示仪器操作可被结构化编排。其AI4S价值是可调用实验基础设施，文档本身没有证明自动闭环优化或测量准确率提升。",
+      "score": 2,
+      "importanceReason": "提供仪器、步骤和参数类型，足以评估实验接口粒度，但没有新科研结果。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "实验自动化"
+      ],
       "url": "https://www.emeraldcloudlab.com/helpfiles/ExperimentCountLiquidParticles.html",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-17T08:40:09.816Z",
+      "evidence": [
+        {
+          "url": "https://www.emeraldcloudlab.com/helpfiles/ExperimentCountLiquidParticles.html",
+          "quote": "generates a Protocol object to run a high accuracy light obscuration (HIAC) experiment to count liquid particles of different sizes."
+        }
+      ],
+      "limitations": "仅有截断的接口文档，未经实际调用；粒径表述存在不同范围，需完整方法说明后才能确定适用范围。",
+      "batchFile": "data/inbox/2026-09-17T08-40-09-816Z-full-002-f08930b8.json"
     },
     {
       "id": "94e3ae5179fc525e6359a417d8a0c9d4",
@@ -1234,17 +1256,26 @@
       "sourceKey": "s02-08",
       "sourceName": "Xaira Therapeutics",
       "sourceType": "AI药物公司",
-      "category": "",
+      "category": "AI4S 应用",
       "publishedAt": null,
       "crawledAt": "2026-09-17T02:32:41.554Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
+      "summary": "Xaira的播客介绍将虚拟细胞、因果生物数据与高通量生物学列为药物发现AI的关键要素，由公司AI及发现负责人讲述相关思路。对AI4S而言，该线索强调实验扰动数据与预测模型之间的关系；但保存正文没有模型架构、数据规模或评测结果，不能据标题推断X-Cell已实现因果预测。",
+      "score": 1,
+      "importanceReason": "可确认企业讨论的技术方向，但只有播客简介，缺少可检验的能力声明。",
+      "contentType": "company_claim",
       "moatTags": [],
       "url": "https://www.xaira.com/news/causal-models-need-causal-data---xairas-x-cell-model-for-drug-discovery",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-17T08:40:09.816Z",
+      "evidence": [
+        {
+          "url": "https://www.xaira.com/news/causal-models-need-causal-data---xairas-x-cell-model-for-drug-discovery",
+          "quote": "why causal biological datasets matter, and how advances in high-throughput biology are enabling a new generation of predictive AI models."
+        }
+      ],
+      "limitations": "未读取播客音频或逐字稿；不能形成关于模型性能或实验规模的结论。",
+      "batchFile": "data/inbox/2026-09-17T08-40-09-816Z-full-002-f08930b8.json"
     },
     {
       "id": "2327a9bea8237e9e9826c392fb4a7c87",
@@ -1270,17 +1301,34 @@
       "sourceKey": "s02-03",
       "sourceName": "Insilico Medicine",
       "sourceType": "生成式AI药物公司",
-      "category": "",
+      "category": "AI4S 应用",
       "publishedAt": null,
       "crawledAt": "2026-09-17T02:32:25.507Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "英矽智能英文公告称，研究者将六种蛋白质组衰老时钟用于Rentosertib IIa期试验的42名受试者、2841种蛋白纵向数据，观察到治疗组预测年龄下降的共同趋势。文中将AI靶点发现、Chemistry42分子设计和临床探索性生物标志物分析串联，给出数据登记号OMIX008341。分析上，多时钟一致性是后续验证线索，但多个模型分析同一批患者并非六次独立临床重复；预测年龄下降也不等于寿命延长或已证实抗衰疗效。",
+      "score": 3,
+      "importanceReason": "具有明确临床数据规模、公开数据登记与跨模型分析设计，但终点为探索性生物标志物。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "药物设计",
+        "模型",
+        "数据"
+      ],
       "url": "https://insilico.com/news/rnt0709261-rentosertib-proteomic-aging-clocks",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-17T08:40:09.816Z",
+      "evidence": [
+        {
+          "url": "https://insilico.com/news/rnt0709261-rentosertib-proteomic-aging-clocks",
+          "quote": "researchers evaluated serum proteome profiles from 42 trial participants across 2,841 proteins."
+        },
+        {
+          "url": "https://insilico.com/news/rnt0709261-rentosertib-proteomic-aging-clocks",
+          "quote": "six independently developed proteomic aging clocks"
+        }
+      ],
+      "limitations": "依据企业对研究的转述，未核验论文统计方法、完整试验数据及多重比较；不能支持治疗建议或长期获益推断。",
+      "batchFile": "data/inbox/2026-09-17T08-40-09-816Z-full-002-f08930b8.json"
     },
     {
       "id": "761ec4676914cff27677d96fede20431",
@@ -1288,17 +1336,34 @@
       "sourceKey": "s02-03",
       "sourceName": "Insilico Medicine",
       "sourceType": "生成式AI药物公司",
-      "category": "",
+      "category": "AI4S 应用",
       "publishedAt": null,
       "crawledAt": "2026-09-17T02:32:24.726Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "英矽智能中文稿进一步介绍Rentosertib试验数据的多衰老时钟分析，并称公开了OMIX008341数据与Python工作流。稿件报告治疗组的预测生物学年龄下降，同时引述研究者承认尚不能彻底区分肺部病情改善与衰老减缓。该限制是解读核心：蛋白质组代理指标变化可提示机制研究方向，不能证明人体实际年轻化。中文稿与英文稿讲述同一研究，不应视为两份独立验证证据。",
+      "score": 3,
+      "importanceReason": "给出数据与代码开放线索，且包含关键因果解释限制，有助于审慎跟踪AI设计药物的后续验证。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "药物设计",
+        "数据",
+        "模型"
+      ],
       "url": "https://insilico.com/news_sc/rnt0809261-rentosertib-proteomic-aging-clocks",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-17T08:40:09.816Z",
+      "evidence": [
+        {
+          "url": "https://insilico.com/news_sc/rnt0809261-rentosertib-proteomic-aging-clocks",
+          "quote": "该试验目前尚无法将肺部病情改善与衰老减缓彻底区分开来"
+        },
+        {
+          "url": "https://insilico.com/news_sc/rnt0809261-rentosertib-proteomic-aging-clocks",
+          "quote": "研究底层工作流代码也在公开代码平台GitHub上以开源 Python 库形式发布。"
+        }
+      ],
+      "limitations": "仍为企业发布稿，未独立复核42人队列和统计结果；不采用稿件关于延寿及经济价值的远期外推。",
+      "batchFile": "data/inbox/2026-09-17T08-40-09-816Z-full-002-f08930b8.json"
     },
     {
       "id": "e1483ad8d936313dac38a1d7925beaaa",
@@ -1306,17 +1371,30 @@
       "sourceKey": "s02-01",
       "sourceName": "Isomorphic Labs",
       "sourceType": "AI药物公司",
-      "category": "",
+      "category": "产业与商业",
       "publishedAt": null,
       "crawledAt": "2026-09-17T02:32:21.995Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
+      "summary": "Isomorphic Labs公告称完成21亿美元B轮融资，由Thrive Capital领投，现有及新增投资方共同参与。公司表示资金将支持IsoDDE药物设计引擎及多治疗领域、不同药物类型的项目。该信息反映AI药物发现投入规模，未披露此次融资对应的新增实验结果、研发里程碑或完整交易条件，因此资本规模不能替代平台有效性验证。",
+      "score": 3,
+      "importanceReason": "融资金额和投资方明确，对AI药物研发资源配置有较大信息价值，但不证明技术成功。",
+      "contentType": "company_claim",
       "moatTags": [],
       "url": "https://www.isomorphiclabs.com/articles/isomorphic-labs-announces-series-b-investment-round",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-17T08:40:09.816Z",
+      "evidence": [
+        {
+          "url": "https://www.isomorphiclabs.com/articles/isomorphic-labs-announces-series-b-investment-round",
+          "quote": "it has raised $2.1 Billion in Series B funding."
+        },
+        {
+          "url": "https://www.isomorphiclabs.com/articles/isomorphic-labs-announces-series-b-investment-round",
+          "quote": "advancing drug design programs across multiple therapeutic areas and drug modalities."
+        }
+      ],
+      "limitations": "仅依据简短企业公告，未核验交割、估值、资金用途明细或管线进展。",
+      "batchFile": "data/inbox/2026-09-17T08-40-09-816Z-full-002-f08930b8.json"
     },
     {
       "id": "faf0a08a9a34ec52f5c025e487ab2311",
@@ -1324,17 +1402,32 @@
       "sourceKey": "s02-01",
       "sourceName": "Isomorphic Labs",
       "sourceType": "AI药物公司",
-      "category": "",
+      "category": "产业与商业",
       "publishedAt": null,
       "crawledAt": "2026-09-17T02:32:21.744Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "Isomorphic Labs介绍洛桑团队的跨学科组织方式：数据工程、机器学习、计算生物学和软件团队协作，参与礼来与诺华合作项目，并开展毒性及代谢特征建模。文章强调模型讨论中嵌入化学专家以及实验工具开发后的迭代测试。其AI4S价值是呈现模型研发与领域知识协同的组织实践，正文没有证明办公室扩张带来量化研发效率或药物性能收益。",
+      "score": 1,
+      "importanceReason": "提供团队职能与协作方式线索，但主要为办公室和人才宣传，技术新信息有限。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "人才"
+      ],
       "url": "https://www.isomorphiclabs.com/articles/inside-isomorphic-labs-lausanne-office",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-17T08:40:09.816Z",
+      "evidence": [
+        {
+          "url": "https://www.isomorphiclabs.com/articles/inside-isomorphic-labs-lausanne-office",
+          "quote": "data engineers, machine learning researchers, computational biologists, software engineers"
+        },
+        {
+          "url": "https://www.isomorphiclabs.com/articles/inside-isomorphic-labs-lausanne-office",
+          "quote": "focusing on modeling toxicity and metabolic characteristics."
+        }
+      ],
+      "limitations": "员工访谈属于公司自述，未披露模型、实验设计、项目数据或团队规模变化。",
+      "batchFile": "data/inbox/2026-09-17T08-40-09-816Z-full-002-f08930b8.json"
     },
     {
       "id": "dcde5dff0b17cdfe67082fd26596bcd8",
@@ -1342,17 +1435,33 @@
       "sourceKey": "s02-01",
       "sourceName": "Isomorphic Labs",
       "sourceType": "AI药物公司",
-      "category": "",
+      "category": "模型",
       "publishedAt": null,
       "crawledAt": "2026-09-17T02:32:21.489Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "Isomorphic Labs介绍AlphaFold 3以三角注意力与扩散过程预测包含蛋白、核酸、小分子及离子的复合物结构，并讨论其结构导向药物设计用途。文中以TIM-3为例，输入蛋白序列和配体SMILES，称模型找到了既有实验报道中的结合口袋，且相应晶体结构未进入训练集。这支持把模型用于提出结合模式假设；但结构吻合不是亲和力、选择性或临床有效性证明，也不等于发现了新药。",
+      "score": 3,
+      "importanceReason": "提供跨分子结构预测机制与具体未见结构案例，对药物设计流程有直接方法价值。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "模型",
+        "药物设计"
+      ],
       "url": "https://www.isomorphiclabs.com/articles/rational-drug-design-with-alphafold-3",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-17T08:40:09.816Z",
+      "evidence": [
+        {
+          "url": "https://www.isomorphiclabs.com/articles/rational-drug-design-with-alphafold-3",
+          "quote": "these structures were not in the training set of AlphaFold 3."
+        },
+        {
+          "url": "https://www.isomorphiclabs.com/articles/rational-drug-design-with-alphafold-3",
+          "quote": "without giving AlphaFold 3 any additional information about the pose, structure, or pocket."
+        }
+      ],
+      "limitations": "仅分析企业保存的截断正文，未核验Nature论文、训练数据排除细节及定量结构误差；该内容不能按抓取日视为新发布。",
+      "batchFile": "data/inbox/2026-09-17T08-40-09-816Z-full-002-f08930b8.json"
     },
     {
       "id": "f9534287d53cfc28025474665584b2c8",
@@ -1513,8 +1622,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://openai.com/index/model-misalignment-reporting-framework",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "官方feed摘要介绍通用模型失配行为的跟踪与披露框架，没有面向科学研究的实验、领域模型或数据内容，与AI4S范围没有直接联系。",
+      "analyzedAt": "2026-09-17T08:40:09.816Z",
+      "batchFile": "data/inbox/2026-09-17T08-40-09-816Z-full-002-f08930b8.json"
     },
     {
       "id": "4410122683c569258d5a0a362f1b6f8f",
@@ -1531,8 +1642,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "摘要讨论团队AI使用量、支出与商业采纳效果的分析功能，属于通用办公管理，不是AI4S科研技术进展。",
+      "analyzedAt": "2026-09-17T08:40:09.816Z",
+      "batchFile": "data/inbox/2026-09-17T08-40-09-816Z-full-002-f08930b8.json"
     },
     {
       "id": "6ac27c68838b29eeea8939f0e49b9f8d",
@@ -1549,8 +1662,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://openai.com/index/reimagining-advertising-with-ai",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "摘要介绍Sponsored Agents、营销工具及电商集成，是广告商业应用，无科学发现、科研数据或实验工作流内容。",
+      "analyzedAt": "2026-09-17T08:40:09.816Z",
+      "batchFile": "data/inbox/2026-09-17T08-40-09-816Z-full-002-f08930b8.json"
     },
     {
       "id": "b0366f9850a9d166d4a5ba39bed68a62",
@@ -1567,8 +1682,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "官方摘要为面向老年人的日常AI技能培训活动，未涉及科学研究或实验自动化，不因使用ChatGPT就作为AI4S成果。",
+      "analyzedAt": "2026-09-17T08:40:09.816Z",
+      "batchFile": "data/inbox/2026-09-17T08-40-09-816Z-full-002-f08930b8.json"
     },
     {
       "id": "1a7704a62ecc3f65b10f9dd0c4cbf99c",
@@ -1657,8 +1774,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.ccgp.gov.cn/cggg/zygg/gkzb/202609/t20260917_27342122.htm",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "正文为倒置荧光显微镜采购的投标资格、获取文件和开标安排，没有AI分析、实验自动化或科研技术结果，属于采购会务信息。",
+      "analyzedAt": "2026-09-17T08:40:09.816Z",
+      "batchFile": "data/inbox/2026-09-17T08-40-09-816Z-full-002-f08930b8.json"
     },
     {
       "id": "e7236231fa5048f5325549fcbbd519d6",
@@ -1675,8 +1794,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.ccgp.gov.cn/cggg/zygg/zbgg/202609/t20260917_27342135.htm",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "记录指向空管中心餐饮外包中标公告，保存正文仅有项目编号、供应商地址与网站页脚，既不是科研技术正文，也无AI4S关联，不以采购来源身份保留为科研进展。",
+      "analyzedAt": "2026-09-17T08:40:09.816Z",
+      "batchFile": "data/inbox/2026-09-17T08-40-09-816Z-full-002-f08930b8.json"
     },
     {
       "id": "fbc2635fe2305555efeea59743142d7c",
@@ -1693,8 +1814,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.rd-alliance.org/group-directory",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "这是RDA工作组筛选目录，包含多个被截断的组织简介和状态。虽出现科研AI与FAIR议题，仍不是具体工作组成果正文，不能把列表片段拼成已经完成的数据标准或系统。",
+      "analyzedAt": "2026-09-17T08:40:09.816Z",
+      "batchFile": "data/inbox/2026-09-17T08-40-09-816Z-full-002-f08930b8.json"
     },
     {
       "id": "c223669409f5a59b069d27b61f9a5bf6",
@@ -1711,8 +1834,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.ccgp.gov.cn/cggg/zygg/gkzb/202609/t20260916_27341538.htm",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "正文是全息动态渗流表征设备采购要求，说明无损3D扫描与环境条件，但没有AI建模、实验闭环或实际科研结果；一般设备采购不构成AI4S进展。",
+      "analyzedAt": "2026-09-17T08:40:09.816Z",
+      "batchFile": "data/inbox/2026-09-17T08-40-09-816Z-full-002-f08930b8.json"
     },
     {
       "id": "7f232b9d6e5ccef55d8202c845c9ea91",
@@ -1729,8 +1854,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.ccgp.gov.cn/cggg/zygg/gkzb/202609/t20260916_27341539.htm",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "该公告列膜带厚度、均匀性和投标条件，为成型工艺设备采购，并未说明AI驱动材料设计或自动实验优化，缺少本任务所需的AI4S联系。",
+      "analyzedAt": "2026-09-17T08:40:09.816Z",
+      "batchFile": "data/inbox/2026-09-17T08-40-09-816Z-full-002-f08930b8.json"
     },
     {
       "id": "0ba6e4cf4f7b40fc3cb05e2038e71372",
@@ -1747,8 +1874,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.ccgp.gov.cn/cggg/zygg/gkzb/202609/t20260916_27341540.htm",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "公告详细列出SOEC/SOFC测试台、并行通道与高温测试要求，但只是采购规格，未提供AI决策、科学机器学习或自主实验闭环；不能将拟采购设备参数当成已实现的AI4S结果。",
+      "analyzedAt": "2026-09-17T08:40:09.816Z",
+      "batchFile": "data/inbox/2026-09-17T08-40-09-816Z-full-002-f08930b8.json"
     },
     {
       "id": "cbf3c34a163148c475fa1d46a3a55ec1",
@@ -1765,8 +1894,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.cas.cn/zz/jg/ys/xwdw/",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "原文为中国科学院组织职责、历史及教育机构的通用介绍，页面虽名为新闻出版单位，实际没有具体科研新闻或AI4S证据，属于机构导航信息。",
+      "analyzedAt": "2026-09-17T08:40:09.816Z",
+      "batchFile": "data/inbox/2026-09-17T08-40-09-816Z-full-002-f08930b8.json"
     },
     {
       "id": "cf7a0f17454f41b1ddae29e72a2130f3",
@@ -1819,8 +1950,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://service.most.gov.cn/wdtz/20220526/4922.html",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "正文讲解专家库登录、信息修改、单位审核和账号管理，是公共服务平台操作指南，与科学模型、实验或科研数据资源无关。",
+      "analyzedAt": "2026-09-17T08:40:09.816Z",
+      "batchFile": "data/inbox/2026-09-17T08-40-09-816Z-full-002-f08930b8.json"
     },
     {
       "id": "5422e08140b54ff53b94207e5e6fcff6",
@@ -1855,8 +1988,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.sslab.org.cn/news/researchdetail?id=2608071651034860217FF4278",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "完整正文报道Ti-V-Zr-Nb-Al合金的热力耦合相变、拉伸及显微表征，未使用AI或实验自动化方法。此前批次还将材料发现误作分类并使用不匹配的箭头摘录；重新审阅后该条属于常规材料实验研究，不应强行计为AI4S done。",
+      "analyzedAt": "2026-09-17T08:40:09.816Z",
+      "batchFile": "data/inbox/2026-09-17T08-40-09-816Z-full-002-f08930b8.json"
     },
     {
       "id": "3b306cf69b9b931d55729eff146c4763",
@@ -1873,8 +2008,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.sslab.org.cn/news/researchdetail?id=2608261215454055208ABA60E",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "正文为传质模型指导的铜纳米线复合电极设计和电化学实验，虽有数值模拟但未涉及机器学习、AI材料发现或自主实验闭环；传统计算模拟不能自动等同于AI4S。",
+      "analyzedAt": "2026-09-17T08:40:09.816Z",
+      "batchFile": "data/inbox/2026-09-17T08-40-09-816Z-full-002-f08930b8.json"
     },
     {
       "id": "fc211d921c42ad7ec0a49fe2321efc44",
@@ -1891,8 +2028,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.szbl.ac.cn/info/2011/10340.htm",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "实际raw正文是深圳医学科学院与清华大学联合博士招生流程，与采集标题中的2023年获奖新闻不匹配；正文属于招生行政信息，没有可用于AI4S分析的研究结果。",
+      "analyzedAt": "2026-09-17T08:40:09.816Z",
+      "batchFile": "data/inbox/2026-09-17T08-40-09-816Z-full-002-f08930b8.json"
     },
     {
       "id": "1b68e6c923fade6f6a64c1f39a6819ed",
@@ -1900,17 +2039,32 @@
       "sourceKey": "s05-15",
       "sourceName": "昌平实验室",
       "sourceType": "自主实验室与平台",
-      "category": "",
+      "category": "AI4S 应用",
       "publishedAt": null,
       "crawledAt": "2026-09-16T17:07:09.481Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "昌平实验室报道任建勋以AI脑影像计算构建个体脑网络并寻找神经调控靶点，结合机器人辅助刺激开展帕金森病研究，同时开发DeepPrep影像计算平台。机构稿件给出定位、处理效率与症状改善的相对提升数字，但未交代样本分组、对照方案或统计区间。其AI4S价值在于从影像模型到脑网络假设及干预靶点的连接；获奖和多院使用不等于临床疗效已被独立证明。",
+      "score": 3,
+      "importanceReason": "明确AI影像计算、个体网络及神经调控的研究链条，具有应用信息，但关键效果依赖机构转述。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "模型"
+      ],
       "url": "https://www.cpl.ac.cn/news/4028c1f1a0a6b16d01a0a991287f0014.html",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-17T08:40:09.816Z",
+      "evidence": [
+        {
+          "url": "https://www.cpl.ac.cn/news/4028c1f1a0a6b16d01a0a991287f0014.html",
+          "quote": "他利用 AI 分析患者脑影像，为每个人绘制个体化脑网络并寻找刺激靶点"
+        },
+        {
+          "url": "https://www.cpl.ac.cn/news/4028c1f1a0a6b16d01a0a991287f0014.html",
+          "quote": "构建精准计算平台DeepPrep"
+        }
+      ],
+      "limitations": "未读取原始论文或临床方案，无法区分不同性能指标所对应的研究人群与实验条件，不据此形成治疗建议。",
+      "batchFile": "data/inbox/2026-09-17T08-40-09-816Z-full-002-f08930b8.json"
     },
     {
       "id": "5e9d3b238f586dc0db0abdd924ca6f07",
@@ -1927,8 +2081,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.shlab.org.cn/info",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "正文为上海AI实验室人才加入和联合培养博士的通用招聘简介，未描述具体科学模型或成果；提及AI for Science不足以构成技术进展。",
+      "analyzedAt": "2026-09-17T08:40:09.816Z",
+      "batchFile": "data/inbox/2026-09-17T08-40-09-816Z-full-002-f08930b8.json"
     },
     {
       "id": "e9cbbe3521e35a8615c289891c6e97bc",
@@ -1945,8 +2101,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.szbl.ac.cn/info/2010/10483.htm",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "实际正文是西湖大学与深圳医学科学院博士招生通知，与原采集标题的获奖消息不匹配，内容为申请资格和考核流程，不属于AI4S科研情报。",
+      "analyzedAt": "2026-09-17T08:40:09.816Z",
+      "batchFile": "data/inbox/2026-09-17T08-40-09-816Z-full-002-f08930b8.json"
     },
     {
       "id": "3856767606292e936060ba664ae12573",
@@ -1963,8 +2121,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "http://news.ustc.edu.cn/info/1055/96309.htm",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "全文为高校新生心理健康普查与入学教育安排，虽被机器人化学家来源收录，实际没有化学、AI研究或实验平台信息，属于校园事务。",
+      "analyzedAt": "2026-09-17T08:40:09.816Z",
+      "batchFile": "data/inbox/2026-09-17T08-40-09-816Z-full-002-f08930b8.json"
     },
     {
       "id": "e201664c90a1884a50ccc2d6eb6c2036",
@@ -1981,8 +2141,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://zhu.eitech.edu.cn/zh/",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "课题组首页摘录介绍光电有机合成、过渡金属催化及能量输入调控，未给出AI或自动化实验内容；不能根据来源名称补造AI关联。",
+      "analyzedAt": "2026-09-17T08:40:09.816Z",
+      "batchFile": "data/inbox/2026-09-17T08-40-09-816Z-full-002-f08930b8.json"
     },
     {
       "id": "ab8269208bde1258d1cb4e63efd6961c",
@@ -1990,17 +2152,34 @@
       "sourceKey": "s04-06",
       "sourceName": "创材深造 Deep Material",
       "sourceType": "材料高通量实验企业",
-      "category": "",
+      "category": "自动化实验室",
       "publishedAt": null,
       "crawledAt": "2026-09-16T11:46:41.993Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "创材深造介绍面向合金与工艺优化的数据和测试基础设施，包括汇集成分、打印、热处理与力学性能的实验/仿真数据，以及服务寿命预测数据集。企业称其高通量力学平台由数字图像相关、自动化流程和万能试验机组成，可开展最高1100℃条件下的自动拉伸、压缩和循环加载。其价值在于把材料制备变量与可用于AI的性能数据连接；正文没有公布数据规模、预测误差或单位时间测试量。",
+      "score": 2,
+      "importanceReason": "明确平台组成、测试类型及AI数据用途，具有基础设施线索，但缺少可独立验证的效能数据。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "实验自动化",
+        "数据",
+        "材料发现"
+      ],
       "url": "https://www.deep-material.com/gaoduanjinshucailiaoyanfa/63",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-17T08:40:09.816Z",
+      "evidence": [
+        {
+          "url": "https://www.deep-material.com/gaoduanjinshucailiaoyanfa/63",
+          "quote": "高通量力学性能测试平台由“数字图像相关系统”、“自动化流程系统”和“材料万能试验机装置”三个子系统组成"
+        },
+        {
+          "url": "https://www.deep-material.com/gaoduanjinshucailiaoyanfa/63",
+          "quote": "快速构建结构件服役寿命预测数据集，为人工智能提供预测数据"
+        }
+      ],
+      "limitations": "为企业服务说明，未获得设备实测、数据集下载或模型评测，不能确认其声称的效率和成本改善。",
+      "batchFile": "data/inbox/2026-09-17T08-40-09-816Z-full-002-f08930b8.json"
     },
     {
       "id": "7070bfe96bce683baa0d241ededa17eb",
@@ -13826,5 +14005,5 @@
       "failureReason": ""
     }
   ],
-  "updatedAt": "2026-09-17T08:38:35.423Z"
+  "updatedAt": "2026-09-17T08:44:57.661Z"
 }
