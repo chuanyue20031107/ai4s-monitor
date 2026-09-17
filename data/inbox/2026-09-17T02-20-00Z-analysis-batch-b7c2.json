@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "generator": "chatgpt-task",
+  "createdAt": "2026-09-17T02:20:00Z",
+  "analyses": [
+    {
+      "articleId": "64ac2200d17f6d1b78a874d8ea7d22aa",
+      "contentHash": "8397b009e514f8269a97395ac0cc539db11dfccc41f8ca0b1d8f93840c78cc94",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-17T02:20:00Z",
+      "category": "材料发现",
+      "summary": "松山湖材料实验室报道，张富祥团队围绕轻质难熔多组元合金高温力学行为开展研究，在Ti-V-Zr-Nb-Al合金中发现热-力耦合诱导的BCC到HCP相结构转变机制。报道指出，团队通过室温和450℃拉伸实验、TEM、XRD及原位高温EBSD等方法分析相变过程，并认为形成的HCP结构有助于维持高温应变硬化能力。该成果发表于《Materials Research Letters》。当前信息主要来自实验室科研新闻，具体论文数据和独立验证仍需结合论文全文确认。",
+      "score": 3,
+      "importanceReason": "该条目提供明确材料体系、实验条件和结构演化机制，对高温结构材料设计具有具体科研信息价值；但当前来源为实验室新闻稿，不能替代论文全文验证。",
+      "contentType": "media_report",
+      "moatTags": ["材料发现"],
+      "evidence": [{"url":"https://www.sslab.org.cn/news/researchdetail?id=2608071651034860217FF4278","quote":"在Ti-V-Zr-Nb-Al合金中发现了反常的高温应变硬化现象，并揭示了热-力耦合诱导的BCC→HCP相结构转变机制"}],
+      "limitations": "未直接读取论文全文；当前依据为实验室发布的科研进展页面，部分性能数据需以论文原文核验。",
+      "failureReason": ""
+    },
+    {
+      "articleId": "3b306cf69b9b931d55729eff146c4763",
+      "contentHash": "a86ffc3bd8d9a966e24775ceab3ae0db3fff801485123176c86b065a030d153d",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-17T02:20:00Z",
+      "category": "材料发现",
+      "summary": "松山湖材料实验室与合作团队报道了一种用于安培级CO2电还原制多碳产物的复合气体扩散电极。研究团队利用传质模拟指导Cu纳米线、Nafion和PTFE组成的复合电极设计，目标是缓解高电流密度条件下CO2传输受限和电极淹没问题。报道给出了法拉第效率、分电流密度和稳定运行时间等实验指标，并称相关成果发表于《ACS Energy Letters》。该信息来源为实验室科研新闻，关键性能指标仍需结合论文全文进一步核验。",
+      "score": 4,
+      "importanceReason": "该条目包含具体催化体系、模拟指导设计、性能指标和稳定性测试信息，涉及CO2电还原工业化关键瓶颈，具有较高科研情报价值；但证据主要来自机构发布。",
+      "contentType": "media_report",
+      "moatTags": ["材料发现", "数据"],
+      "evidence": [{"url":"https://www.sslab.org.cn/news/researchdetail?id=2608261215454055208ABA60E","quote":"通过加速CO2传质实现安培级电流密度下CO2向多碳产物的高效电合成"}],
+      "limitations": "未读取ACS Energy Letters论文全文；当前分析基于实验室科研进展页面，不能独立验证所有性能对比。",
+      "failureReason": ""
+    },
+    {
+      "articleId": "1b68e6c923fade6f6a64c1f39a6819ed",
+      "contentHash": "d16c1b5f53e2d45a8cabe41f7284b628a5cff5ca5a1e1bed8cbc8fd26d254e9e",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-17T02:20:00Z",
+      "category": "AI4S 应用",
+      "summary": "昌平实验室报道，研究员任建勋因精准帕金森脑刺激治疗入选《麻省理工科技评论》2026年度亚太区TR35。报道介绍其利用AI分析患者脑影像，构建个体化脑网络并寻找神经调控靶点，同时开发神经调控辅助平台。页面称相关方法用于精准脑功能影像和神经调控研究，并给出若干性能提升描述。由于信息主要来自实验室新闻报道，具体算法、临床研究设计和效果数据需结合原始论文或临床资料进一步核验。",
+      "score": 3,
+      "importanceReason": "该条目体现AI影像分析与精准神经调控结合的AI4S应用方向，具有交叉科研价值；但当前证据为机构新闻稿，不足以独立确认全部效果指标。",
+      "contentType": "media_report",
+      "moatTags": ["模型", "数据"],
+      "evidence": [{"url":"https://www.cpl.ac.cn/news/4028c1f1a0a6b16d01a0a991287f0014.html","quote":"他利用 AI 分析患者脑影像，为每个人绘制个体化脑网络并寻找刺激靶点"}],
+      "limitations": "未读取相关Nature论文或临床研究原文；报道中的应用规模和性能描述需进一步核验。",
+      "failureReason": ""
+    }
+  ]
+}

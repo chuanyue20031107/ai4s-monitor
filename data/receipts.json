@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T02:34:09.686Z",
+  "updatedAt": "2026-09-17T02:39:20.906Z",
   "items": [
     {
       "file": "2026-09-16T07-50-52Z-first-verified-batch.json",
@@ -10,6 +10,11 @@
       "file": "2026-09-17T00-25-23Z-daily-8a4c.json",
       "status": "accepted",
       "analyses": 0
+    },
+    {
+      "file": "2026-09-17T02-20-00Z-analysis-batch-b7c2.json",
+      "status": "rejected",
+      "reason": "invalid_category_or_type"
     }
   ]
 }
