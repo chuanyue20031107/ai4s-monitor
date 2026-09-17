@@ -1,0 +1,95 @@
+name: AI analysis worker
+run-name: "AI analysis queue · ${{ inputs.batch_size || 'pending commands' }}"
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'data/ai-commands/**'
+  workflow_dispatch:
+    inputs:
+      batch_size:
+        description: Process existing commands or create a new backlog command
+        type: choice
+        options: [existing, '100', '500', all]
+        default: existing
+      instruction:
+        description: Analysis instructions for ChatGPT (never executed as code)
+        type: string
+        default: '分析待处理的 AI4S 情报，依据原文给出分类、评分、中文摘要与限制。'
+      query:
+        description: Optional literal keyword in title, source or content
+        type: string
+        default: ''
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ai4s-analysis-queue
+  cancel-in-progress: false
+
+jobs:
+  queue:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+      actions: write
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '22'
+      - name: Queue and publication regression tests (no network or model API)
+        run: node --test tests/ai-commands.test.mjs tests/pipeline.test.mjs
+      - name: Admit commands, split batches and reconcile accepted analyses
+        id: worker
+        continue-on-error: true
+        env:
+          AI_BATCH_SIZE: ${{ inputs.batch_size || 'existing' }}
+          AI_INSTRUCTION: ${{ inputs.instruction }}
+          AI_QUERY: ${{ inputs.query }}
+        run: node scripts/ai-analysis-worker.mjs
+      - name: Preserve queue output for recovery
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: ai-analysis-queue-${{ github.run_id }}
+          path: |
+            data/ai-commands/
+            client/public/data/ai-commands.json
+          retention-days: 7
+      - name: Persist results without overwriting concurrent RSS changes
+        id: persist
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/ai-commands data/queue.json data/receipts.json client/public/data
+          if ! git diff --cached --quiet; then git commit -m 'data: update AI analysis queue [skip ci]'; fi
+          for attempt in 1 2 3; do
+            if git pull --rebase origin main && git push origin HEAD:main; then
+              echo 'saved=true' >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            if test -d .git/rebase-merge -o -d .git/rebase-apply; then
+              echo 'Concurrent data conflict. Queue artifact retained; re-run after the other writer finishes.' >&2
+              exit 1
+            fi
+            sleep 3
+          done
+          exit 1
+      - name: Publish through the existing workflow without collecting RSS
+        if: steps.persist.outputs.saved == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run crawl-and-deploy.yml --ref main -f collect=false
+      - name: Surface rejected commands or worker failures
+        if: steps.worker.outcome == 'failure'
+        run: exit 1

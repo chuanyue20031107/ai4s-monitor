@@ -7,6 +7,7 @@ import { createHash } from 'node:crypto';
 import { lookup } from 'node:dns/promises';
 import { isIP } from 'node:net';
 import { fileURLToPath } from 'node:url';
+import { reconcileCommands } from './ai-commands-core.mjs';
 
 export const CATEGORIES = ['模型', '数据', 'AI4S 应用', '自动化实验室', '产业与商业', '其他'];
 export const CONTENT_TYPES = ['company_claim', 'paper_result', 'media_report'];
@@ -251,10 +252,18 @@ export function publish(root) {
       digests.push({ ...d, id: `daily-${d.date}`, articleCount: included.length, digestType: 'daily', generator: 'chatgpt-task', batchFile: file });
     } catch (error) { receipts.find((r) => r.file === file).digestError = error.message; }
   }
+  const commandState = reconcileCommands(root, raws, analyses);
   const items = raws.map((r) => {
     const a = analyses.get(r.id);
     return { id: r.id, title: r.title, sourceKey: r.sourceKey, sourceName: r.sourceName, sourceType: r.sourceType, category: '', publishedAt: r.publishedAt, crawledAt: r.crawledAt, summary: '', score: 0, importanceReason: '', contentType: '', moatTags: [], url: r.url, analysisStatus: r.discardReason ? 'discarded' : 'pending', failureReason: r.discardReason || '', ...(a ? Object.fromEntries(['category', 'summary', 'score', 'importanceReason', 'contentType', 'moatTags', 'analysisStatus', 'failureReason', 'analyzedAt', 'evidence', 'limitations', 'batchFile'].filter((k) => a[k] !== undefined).map((k) => [k, a[k]])) : {}) };
   }).sort((a, b) => Date.parse(b.crawledAt) - Date.parse(a.crawledAt));
+  for (const item of items) {
+    const raw = byId.get(item.id);
+    if (commandState.reserved.has(`${item.id}:${raw.contentHash}`) && !['done', 'discarded'].includes(item.analysisStatus)) {
+      item.analysisStatus = 'analyzing';
+      item.failureReason = '';
+    }
+  }
   const pending = raws.filter((r) => !r.discardReason && !['done', 'discarded'].includes(analyses.get(r.id)?.analysisStatus));
   const ready = pending.filter((r) => r.contentStatus === 'ready').sort((a, b) => Date.parse(b.publishedAt || b.crawledAt) - Date.parse(a.publishedAt || a.crawledAt));
   const awaitingContent = pending.filter((r) => r.contentStatus !== 'ready');

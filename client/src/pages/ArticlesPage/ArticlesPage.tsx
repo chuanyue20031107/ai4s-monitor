@@ -1,30 +1,16 @@
-import { useEffect, useMemo, useState, type FormEvent } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 import { useNavigate, useSearchParams } from 'react-router-dom';
 import { format } from 'date-fns';
-import { toast } from 'sonner';
 import {
   ArrowDown,
   ArrowUp,
   ExternalLink,
   Eye,
-  Layers,
-  Loader2,
-  Plus,
   RotateCcw,
-  RotateCw,
   SearchX,
 } from 'lucide-react';
-import { Badge } from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
-import {
-  Dialog,
-  DialogContent,
-  DialogDescription,
-  DialogFooter,
-  DialogHeader,
-  DialogTitle,
-} from '@/components/ui/dialog';
 import { Input } from '@/components/ui/input';
 import {
   Select,
@@ -55,14 +41,15 @@ import { useAi4s } from '@/store/Ai4sStore';
 const PAGE_SIZE = 10;
 
 const ANALYSIS_STATUS_OPTIONS = [
-  { value: 'pending', label: '待分析' },
+  { value: 'awaiting', label: '待AI分析（待处理 / 分析中）' },
+  { value: 'pending', label: '待处理' },
   { value: 'analyzing', label: '分析中' },
-  { value: 'done', label: '已完成' },
+  { value: 'done', label: 'AI已分析' },
   { value: 'failed', label: '失败' },
 ];
 
 export default function ArticlesPage() {
-  const { articles, busy, analyzeUrl, reanalyzeArticle, refreshAfterWrite } = useAi4s();
+  const { articles, refreshAll, loaded, loadError } = useAi4s();
   const navigate = useNavigate();
   const [searchParams, setSearchParams] = useSearchParams();
 
@@ -141,7 +128,8 @@ export default function ArticlesPage() {
       if (region !== 'all' && regionBySource[a.sourceId] !== region) return false;
       if (minScore !== 'all' && a.score < Number(minScore)) return false;
       if (contentType !== 'all' && a.contentType !== contentType) return false;
-      if (analysisStatus !== 'all' && a.analysisStatus !== analysisStatus) return false;
+      if (analysisStatus === 'awaiting' && !['pending', 'analyzing'].includes(a.analysisStatus)) return false;
+      if (analysisStatus !== 'all' && analysisStatus !== 'awaiting' && a.analysisStatus !== analysisStatus) return false;
       return true;
     });
     return [...list].sort((x, y) => {
@@ -172,45 +160,29 @@ export default function ArticlesPage() {
     setAnalysisStatus('all');
   };
 
-  // 单篇分析
-  const [singleOpen, setSingleOpen] = useState(false);
-  const [urlInput, setUrlInput] = useState('');
-  const submittingSingle = busy['analyze:url'];
-
-  const handleSingleSubmit = async (e: FormEvent) => {
-    e.preventDefault();
-    if (!urlInput.trim()) return;
-    const ok = await analyzeUrl(urlInput);
-    if (ok) setSingleOpen(false);
-    setUrlInput('');
-  };
-
-  // 批量分析：对当前筛选结果中未完成分析的文章逐篇执行
-  const [batchOpen, setBatchOpen] = useState(false);
-  const [batchProgress, setBatchProgress] = useState<{ current: number; total: number; title: string } | null>(null);
-
-  const handleBatchClick = async () => {
-    if (batchProgress) return;
-    const targets = filtered.filter((a) => a.analysisStatus !== 'done');
-    if (targets.length === 0) {
-      toast.info('当前列表中的文章均已完成分析，无需批量分析');
-      return;
-    }
-    setBatchOpen(true);
-    let ok = 0;
-    for (let i = 0; i < targets.length; i += 1) {
-      setBatchProgress({ current: i + 1, total: targets.length, title: targets[i].title });
-      const success = await reanalyzeArticle(targets[i].id, true);
-      if (success) ok += 1;
-    }
-    setBatchProgress(null);
-    await refreshAfterWrite();
-    setBatchOpen(false);
-    toast.success(`批量分析完成：成功 ${ok}/${targets.length} 篇`);
-  };
-
   return (
     <div className="space-y-4">
+      <div className="flex flex-wrap items-center justify-between gap-3">
+        <div>
+          <h1 className="text-xl font-bold">情报文章</h1>
+          <p className="mt-1 text-xs text-muted-foreground">待AI分析包含 pending / analyzing；分析中表示已分派至 ChatGPT 任务批次。</p>
+        </div>
+        <div className="flex gap-2">
+          <Button size="sm" variant="outline" onClick={() => void refreshAll()}>刷新文章</Button>
+          <Button size="sm" onClick={() => navigate('/ai-control')}>AI 清仓 / 分析任务</Button>
+        </div>
+      </div>
+      <div className="flex flex-wrap gap-2" role="group" aria-label="分析状态分组">
+        {[
+          { value: 'all', label: '全部', count: articles.length },
+          { value: 'done', label: 'AI已分析', count: articles.filter((a) => a.analysisStatus === 'done').length },
+          { value: 'awaiting', label: '待AI分析', count: articles.filter((a) => ['pending', 'analyzing'].includes(a.analysisStatus)).length },
+          { value: 'failed', label: '分析失败', count: articles.filter((a) => a.analysisStatus === 'failed').length },
+        ].map((tab) => <Button key={tab.value} size="sm" variant={analysisStatus === tab.value ? 'default' : 'outline'}
+          aria-pressed={analysisStatus === tab.value} onClick={() => setAnalysisStatus(tab.value)}>{tab.label}（{tab.count}）</Button>)}
+      </div>
+      {!loaded && <p className="text-sm text-muted-foreground">正在读取文章…</p>}
+      {loadError && <p className="text-sm text-destructive" role="alert">{loadError}</p>}
       {/* 筛选区 */}
       <Card>
         <CardHeader className="pb-3">
@@ -326,14 +298,6 @@ export default function ArticlesPage() {
             >
               {sortDir === 'desc' ? <ArrowDown className="size-4" /> : <ArrowUp className="size-4" />}
             </Button>
-            <Button variant="outline" size="sm" onClick={() => setSingleOpen(true)}>
-              <Plus className="size-4" />
-              新增分析
-            </Button>
-            <Button size="sm" onClick={handleBatchClick} disabled={!!batchProgress}>
-              <Layers className="size-4" />
-              批量分析
-            </Button>
           </div>
         </CardHeader>
         <CardContent className="p-0">
@@ -361,7 +325,7 @@ export default function ArticlesPage() {
                         <SearchX className="size-8" />
                         <span className="text-sm">
                           {articles.length === 0
-                            ? '暂无情报文章：请到「监控来源」执行抓取，或点击右上角「新增分析」提交文章链接'
+                            ? '暂无情报文章：请到「监控来源」执行抓取'
                             : '没有符合筛选条件的情报'}
                         </span>
                       </div>
@@ -394,18 +358,6 @@ export default function ArticlesPage() {
                               <ExternalLink className="size-4" />
                             </a>
                           </Button>
-                          {(a.analysisStatus === 'failed' || a.analysisStatus === 'done') && (
-                            <Button
-                              variant="ghost"
-                              size="icon"
-                              className="size-8"
-                              aria-label="重新分析"
-                              disabled={busy[`article:${a.id}`]}
-                              onClick={() => reanalyzeArticle(a.id)}
-                            >
-                              {busy[`article:${a.id}`] ? <Loader2 className="size-4 animate-spin" /> : <RotateCw className="size-4" />}
-                            </Button>
-                          )}
                         </div>
                       </TableCell>
                     </TableRow>
@@ -430,69 +382,6 @@ export default function ArticlesPage() {
         </CardContent>
       </Card>
 
-      {/* 单篇分析弹窗 */}
-      <Dialog open={singleOpen} onOpenChange={setSingleOpen}>
-        <DialogContent>
-          <DialogHeader>
-            <DialogTitle>单篇文章分析</DialogTitle>
-            <DialogDescription>
-              提交文章原文链接，系统将自动抓取、去重并完成分类、评分、中文摘要等结构化分析。
-            </DialogDescription>
-          </DialogHeader>
-          <form onSubmit={handleSingleSubmit} className="space-y-4">
-            <Input
-              type="url"
-              placeholder="https://example.com/article"
-              value={urlInput}
-              onChange={(e) => setUrlInput(e.target.value)}
-              disabled={submittingSingle}
-            />
-            <DialogFooter>
-              <Button type="submit" disabled={submittingSingle}>
-                {submittingSingle && <Loader2 className="size-4 animate-spin" />}
-                {submittingSingle ? '分析中…' : '开始分析'}
-              </Button>
-            </DialogFooter>
-          </form>
-        </DialogContent>
-      </Dialog>
-
-      {/* 批量分析进度弹窗 */}
-      <Dialog
-        open={batchOpen}
-        onOpenChange={(open) => {
-          if (batchProgress) return;
-          setBatchOpen(open);
-        }}
-      >
-        <DialogContent className="max-w-lg">
-          <DialogHeader>
-            <DialogTitle>批量文章分析</DialogTitle>
-            <DialogDescription>
-              正在对当前列表中未完成分析的文章逐篇执行 AI 分析，单篇约需 30 秒～2 分钟，请保持弹窗开启。
-            </DialogDescription>
-          </DialogHeader>
-          <div className="space-y-1 rounded-md border bg-muted/50 px-3 py-2 text-sm text-muted-foreground">
-            <div className="flex items-center gap-2">
-              <Loader2 className="size-4 shrink-0 animate-spin" />
-              {batchProgress
-                ? `正在分析第 ${batchProgress.current}/${batchProgress.total} 篇…`
-                : '正在准备分析…'}
-            </div>
-            {batchProgress && (
-              <p className="truncate pl-6 text-xs">{batchProgress.title}</p>
-            )}
-          </div>
-        </DialogContent>
-      </Dialog>
-
-      {/* 手动分析进行中提示 */}
-      {submittingSingle && (
-        <Badge variant="secondary" className="fixed bottom-4 right-4 gap-1 shadow-md">
-          <Loader2 className="size-3 animate-spin" />
-          正在抓取并分析…
-        </Badge>
-      )}
     </div>
   );
 }

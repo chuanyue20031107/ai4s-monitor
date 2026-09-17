@@ -4,6 +4,7 @@ import { Separator } from '@/components/ui/separator';
 import { SidebarTrigger } from '@/components/ui/sidebar';
 
 const PAGE_TITLES: { prefix: string; title: string }[] = [
+  { prefix: '/ai-control', title: 'AI 分析任务' },
   { prefix: '/articles', title: '情报文章列表' },
   { prefix: '/sources', title: '监控来源管理' },
   { prefix: '/runs', title: '运行记录' },
