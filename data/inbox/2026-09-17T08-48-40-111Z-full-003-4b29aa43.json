@@ -1,0 +1,326 @@
+{
+  "schemaVersion": 1,
+  "generator": "chatgpt-task",
+  "createdAt": "2026-09-17T08:48:40.111Z",
+  "analyses": [
+    {
+      "articleId": "d487b56a6e37e8eab2bb4f4f4ddee759",
+      "contentHash": "8ef5f91b1231e85b7d2c5245da99ad3f60d503c2e573747233ee591a15ae5ff6",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-17T08:48:40.111Z",
+      "failureReason": "",
+      "category": "自动化实验室",
+      "summary": "华大智造发布稿介绍T1+桌面测序仪，将DNB制备、测序与分析集成，支持两张载片独立运行，单次通量标为25Gb至1.2Tb。厂商称PE150可在24小时完成，并可配合DNBelab-D4减少建库操作。其AI4S关联是提高组学数据生产的自动化程度；文中同时提到另一机型E25 Flash的AI碱基算法，不能把该能力直接移植为T1+的验证结果。",
+      "score": 3,
+      "importanceReason": "给出集成流程、通量和运行时间等具体规格，为组学实验基础设施评估提供信息。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "实验自动化",
+        "数据"
+      ],
+      "limitations": "数据来自厂商公告，未核验独立测序评测、样本类型、质量分数校准及实际端到端耗时，发布日期年份未在正文明确。",
+      "evidence": [
+        {
+          "url": "https://www.mgi-tech.com/191/866.html",
+          "quote": "单次通量覆盖25Gb-1.2Tb"
+        },
+        {
+          "url": "https://www.mgi-tech.com/191/866.html",
+          "quote": "T1+首次将DNB制备功能集成到设备内部"
+        }
+      ]
+    },
+    {
+      "articleId": "078fff89c213d770b263f368cba1e53f",
+      "contentHash": "5496fe82d4cc1a72822b29e61854b2939a7290cb737987489e15a90537e2e132",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-17T08:48:40.111Z",
+      "failureReason": "raw主要是国际站跳转提示、重复活动对象文本和通用行业大模型宣传，没有科学领域任务、模型方法或实验结果，不能凭视觉模型标题补造AI4S分析。"
+    },
+    {
+      "articleId": "af699edd5e4bdf3c383ab6346c65eb3a",
+      "contentHash": "756fc3febd45bf1e44ee7bed59d8dac95063b3f82004c6c13107035f1657b891",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-17T08:48:40.111Z",
+      "failureReason": "正文介绍通用语音输入、文稿润色及办公应用场景，没有科研问题、科学数据分析或自动化实验内容，属于消费和办公软件营销。"
+    },
+    {
+      "articleId": "5c67d9df182fe5e20eac5fb7922aaf35",
+      "contentHash": "72a5391338f42b93eb2670a17b16cd8d6a50f0e191c52bf3dd84f70e32c7ea14",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-17T08:48:40.111Z",
+      "failureReason": "",
+      "category": "产业与商业",
+      "summary": "Chemify在2024年1月的合作公告中称，将可编程化学合成平台与Prepaire的药物发现平台连接，扩展Toxifree项目，目标包括新型疼痛调节候选物及成瘾相关治疗研究。文中描述以化学编程语言驱动分子设计、发现与合成，并约定款项、里程碑和未来产品分成。该条体现数字化合成平台商业合作，但没有新候选物的药理或成瘾性数据，项目目标不能作为已证实疗效。",
+      "score": 2,
+      "importanceReason": "合作职责与可编程合成路径较明确，但属历史项目启动信息，缺少后续验证。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "实验自动化",
+        "药物设计",
+        "商业合作"
+      ],
+      "limitations": "正文为2024年公告且已截断；未核验合同兑现及临床进展，不采纳发布稿对既有成瘾治疗可用性的笼统表述。",
+      "evidence": [
+        {
+          "url": "https://www.chemify.io/news/prepaire-chemify-partnership",
+          "quote": "Chemify will design and discover novel compounds to identify Opioid-derived hits and develop them further into candidates."
+        },
+        {
+          "url": "https://www.chemify.io/news/prepaire-chemify-partnership",
+          "quote": "automated and integrated design, discovery, and synthesis of complex molecules on demand using a chemical programming language"
+        }
+      ]
+    },
+    {
+      "articleId": "894e7a287ffab36ad0902276095924cb",
+      "contentHash": "af34d82a124006f7741f0348a2794933df03f1b986175572fbb91111bd63f8aa",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-17T08:48:40.111Z",
+      "failureReason": "该页只有合作招募口号、AI设计加机器人自动化的一句话宣称和联系邮箱，没有具体技术、实验或合作事件，属于营销联系入口。"
+    },
+    {
+      "articleId": "cb4c2f046e88fccc7205cd10310add84",
+      "contentHash": "7d12f65e17fa9160d8348e7d7c1208aec1ddb05336180710d1142e249de5ff9f",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-17T08:48:40.111Z",
+      "failureReason": "这是按材料科学筛选的软件产品目录，正文为筛选菜单及产品简介卡片，未提供单项产品的方法或实验依据；不能把产品菜单当成材料发现结果。"
+    },
+    {
+      "articleId": "5bd8127f60b1f35f4aafd154b725881b",
+      "contentHash": "ea7e1e91a871d6b9c0119d736e36c3fa5bbeb154680354c5c65f8e503134981b",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-17T08:48:40.111Z",
+      "failureReason": "该URL是小分子与生物药软件目录，包含大量产品名和宣传句，缺少具体研究或版本更新正文，不据此生成未经证实的药物设计结果。"
+    },
+    {
+      "articleId": "708f4737aac3152d6bbff8bd238271d1",
+      "contentHash": "7a66c81d035b9d11c3e3954e8892f6f9ed601f0142946c12bf4563b33d471458",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-17T08:48:40.111Z",
+      "failureReason": "正文为FutureHouse运营负责人个人履历和研究者支持愿景，没有新任命事件或可分析的科学项目成果，属于团队介绍页。"
+    },
+    {
+      "articleId": "da29516f486307325621bd448edca501",
+      "contentHash": "2d6b547be7f897ddda1c6753145543b0fca32eac2a9ee488f221b0fb291e946d",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-17T08:48:40.111Z",
+      "failureReason": "正文为FutureHouse联合创始人履历，列举ChemCrow、ether0与paperqa名称及宣传性优先权描述，没有相关项目方法或评测正文，不能由个人简介推导技术结论。"
+    },
+    {
+      "articleId": "2924403a766b924738412c6b093f24c0",
+      "contentHash": "87b21d08506f049c8a6e2eef4bec98e70b5beee84dbab2310433e21c1bc582b7",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-17T08:48:40.111Z",
+      "failureReason": "这是FutureHouse创始人团队简介与论文标题目录，没有BioPlanner、LAB-Bench或PaperQA的研究正文和评测结果，不能以荣誉或论文名代替证据。"
+    },
+    {
+      "articleId": "ba7c61487f1e4290ea8710ca58658b2c",
+      "contentHash": "65cf13f0e89e610514625725dd75bfa449c8478e25b7d2046e49110f42b74cb1",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-17T08:48:40.111Z",
+      "failureReason": "",
+      "category": "产业与商业",
+      "summary": "Lila的Creation服务页说明，合作方提出问题后，由Iris平台与AI Science Factories生成假设、设计执行实验并迭代候选，交付结构、方案和数据包，亦面向早期公司创建。该模式将发现服务与资产交付连接，体现自主实验平台的商业化路径。页面的900倍验证增长和100%性能标语没有任务定义、分母及对照，不能据此确认效率或成功率。",
+      "score": 1,
+      "importanceReason": "可辨识交付模式，但量化宣传缺少实验设计支持，当前主要是合作方案线索。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "实验自动化"
+      ],
+      "limitations": "无具体合作案例、知识产权条款或实测数据；页面使用的品牌化技术称呼不构成能力验证。",
+      "evidence": [
+        {
+          "url": "https://www.lila.ai/lila-creation",
+          "quote": "The output is not just insights, but validated assets—structures, protocols, and data packages"
+        }
+      ]
+    },
+    {
+      "articleId": "b5dcfbd15ed3845be9b89c1371a42c06",
+      "contentHash": "7ef73d61e83bec8c01c121084f0be20dc6b04eb44a0225d4ae0742b86155d8de",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-17T08:48:40.111Z",
+      "failureReason": "",
+      "category": "产业与商业",
+      "summary": "Lila Catalyst面向已有研发项目提供Iris平台、AI Science Factories及专家资源，企业将实验室即服务描述为按需扩展实验能力的方式。与直接交付新资产的Creation不同，这一方案侧重客户访问平台和提升既有工作流。其潜在价值是降低自建复杂实验设施的协调成本，但正文未量化周转时间、费用、可用实验类型或服务约束。",
+      "score": 1,
+      "importanceReason": "说明按需实验平台的商业接入方式，尚无可复核的效能和经济性结果。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "实验自动化"
+      ],
+      "limitations": "只依据服务营销页；900倍和100%等标语缺少测量语境，未作为本分析结论。",
+      "evidence": [
+        {
+          "url": "https://www.lila.ai/lila-catalyst",
+          "quote": "teams convert fixed lab capacity and capex into an on‑demand resource"
+        }
+      ]
+    },
+    {
+      "articleId": "032b56dcccf6694ca1772d5cb5ffe876",
+      "contentHash": "c43e7707cd4de396210374d0e4549490a3ec08dd4fe4fc4fb0099721b2f1f831",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-17T08:48:40.111Z",
+      "failureReason": "该页为Arc招聘岗位清单及招聘防骗提示，虽涉及虚拟细胞和机器学习岗位，但没有新科研成果或明确技术实现，属于人才招聘导航。"
+    },
+    {
+      "articleId": "ad1996ef45686adf4360e199ae3fa439",
+      "contentHash": "7889e72a82cce04dc4d9f5407af94beeee7bf67f236c5e35683ecca46069287a",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-17T08:48:40.111Z",
+      "failureReason": "",
+      "category": "产业与商业",
+      "summary": "Arc介绍其组织模式：核心研究者获得可续期八年支持，技术中心集中建设细胞模型、基因组工程、多组学与计算能力，转化项目支持成果移交和孵化。文中明确软件、数据和机器学习工程师与实验人员协作。对AI4S而言，这是一种长期维持跨学科工具和数据基础设施的组织设计；正文表达的是制度安排及愿景，没有评估其相对传统资助模式的科研产出增益。",
+      "score": 1,
+      "importanceReason": "可识别计算与实验合作的基础设施安排，但没有新增系统、数据或对照评估。",
+      "contentType": "company_claim",
+      "moatTags": [],
+      "limitations": "为长期机构介绍页，许多表述为未来计划，不能按抓取日计作新建平台或已实现成果。",
+      "evidence": [
+        {
+          "url": "https://arcinstitute.org/model",
+          "quote": "Arc software, data, and machine learning engineers partner with experimentalists to dissect biological complexity."
+        }
+      ]
+    },
+    {
+      "articleId": "c9f0780aa22da497aaf9cb789fa5b523",
+      "contentHash": "79956040c16d3d2c9972c963225282912de36e22c949c428cb052d49c6cc9d4b",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-17T08:48:40.111Z",
+      "failureReason": "该URL是EMBL-EBI服务目录，raw仅保留International Genome Sample Resource的一句卡片说明与使用条款，没有资源更新或数据集正文，不能将卡片当作完整研究证据。"
+    },
+    {
+      "articleId": "7d2872733a614740ea67cf0d6caa1be4",
+      "contentHash": "8ad52c468c36a20b124eafea6c66c151ed1d78f945fd64c94ad0d0931e7a181d",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-17T08:48:40.111Z",
+      "failureReason": "官方feed内容为劳动者AI使用方式的经济研究概述，没有科学计算、实验自动化或领域研究模型，超出本次AI4S情报范围。"
+    },
+    {
+      "articleId": "3c6ea907089ade08f743137e6aba7848",
+      "contentHash": "a9dfc3d2f45fa9a5410a57847bfba0853e1a5c8c493e15296f85ce91e42507f9",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-17T08:48:40.111Z",
+      "failureReason": "页面为ELRIG 2027活动展商与赞助报名，内容是销售套餐和意向表单，没有科学议程或技术结果，属于会务营销。"
+    },
+    {
+      "articleId": "db3183376f2db1fcb87dd1476bc405aa",
+      "contentHash": "a74142ae94a42261f41ac9c1e9b57f861c2b0c373683ea50b9098c302a2e1753",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-17T08:48:40.111Z",
+      "failureReason": "raw为NVIDIA官网的地区提示与大量硬件、游戏、云和开发工具菜单，未包含具体科研文章；不能将官网导航和营销短句当作实验依据。"
+    },
+    {
+      "articleId": "38498a4351f82288155a6c0b9dfbfd1b",
+      "contentHash": "d1534f933d7fb4c143699aca49bfa3f5644302dec395f2997391ccf67d234e7f",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-17T08:48:40.111Z",
+      "failureReason": "",
+      "category": "自动化实验室",
+      "summary": "ELRIG Drug Discovery 2026议程设置实验设计、lab-in-the-loop与AI结合的专题，讨论自动化、实验设计和模型预测性如何融入实验室工作流，并列细胞微环境、微流控和实时读出等方向。该记录的价值是指出科研社区计划讨论的数据质量与模型验证接口，尚不是会议成果或某项方法已提高临床转化成功率的证据。",
+      "score": 1,
+      "importanceReason": "议程明确覆盖AI与实验闭环，但没有研究结果，适合作为后续会议材料跟踪入口。",
+      "contentType": "company_claim",
+      "moatTags": [],
+      "limitations": "基于会前议程且正文截断；未读取报告材料，日期与活动安排只反映采集时公告。",
+      "evidence": [
+        {
+          "url": "https://elrig.org/portfolio/drug-discovery-2026/",
+          "quote": "Lab-in-the-loop approaches increasingly combine automation, design of experiments and AI to strengthen assay performance"
+        }
+      ]
+    },
+    {
+      "articleId": "0df5af10164ac74d40fa24a3d612fdef",
+      "contentHash": "33019d7464f87284b51026112f7f1a6347d18fd6d5318d15d8077f58de95b0a3",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-17T08:48:40.111Z",
+      "failureReason": "该页为ELRIG新闻与媒体伙伴文章标题归档，虽列出AI抗生素等主题，但没有对应研究正文，不能由标题集合生成实验结论。"
+    },
+    {
+      "articleId": "9c97a1d0284915715318268326767630",
+      "contentHash": "a5e4912022fbf86d4334a6938adb8409ad35b7bb60a78fe20bef5cf88ae713af",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-17T08:48:40.111Z",
+      "failureReason": "正文介绍JASMS访问、会员权益、出版合作和一般征稿范围，属于期刊服务说明，没有AI4S研究或数据发布。"
+    },
+    {
+      "articleId": "2d93e0382916678b17ed349488902325",
+      "contentHash": "a5e4912022fbf86d4334a6938adb8409ad35b7bb60a78fe20bef5cf88ae713af",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-17T08:48:40.111Z",
+      "failureReason": "该期刊入口的正文与About JASMS页面相同，内容为订阅访问与出版服务，并非独立科学进展；不将重复说明当作科研证据。"
+    },
+    {
+      "articleId": "81a7881b908d1a50afe211e2a130fc34",
+      "contentHash": "c5aed355c525039c8bec8af2bafd8758749799d70021e5e7f31ffc9291f986e9",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-17T08:48:40.111Z",
+      "failureReason": "ASMS出版物页说明会员如何访问JASMS及Elsevier、Wiley期刊档案，属于出版导航，不含AI方法或实验研究内容。"
+    },
+    {
+      "articleId": "9fada2e6ad81092a9e456d16dcde46d9",
+      "contentHash": "1c95279f6d3e831c4a99d39761ea01ed475e5394563cc559e97b0e598da8d10f",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-17T08:48:40.111Z",
+      "failureReason": "Pittcon页面列分析化学和光谱奖项的提名材料、资格及待遇，属于奖项申报指南，没有具体AI4S成果。"
+    },
+    {
+      "articleId": "a8c8c0582d4f7a570f683cd491382a32",
+      "contentHash": "0e1d0487661b567f35321ba580300c753699deb3adb7ae8ae2f81f38eab9cea8",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-17T08:48:40.111Z",
+      "failureReason": "SynBioBeta页面只有会讯订阅入口、活动时间地点与重复嘉宾名单，没有研究内容，不能凭嘉宾身份生成技术分析。"
+    },
+    {
+      "articleId": "673e4fe1b2d87cfcbfe5ae26987c328d",
+      "contentHash": "f924eb26a87d78c97eaff070b5618d214cfb4774425b1a853d0a0db954db5ada",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-17T08:48:40.111Z",
+      "failureReason": "",
+      "category": "其他",
+      "summary": "Pittcon 2027征集会议报告、海报、圆桌和短课，短课重点方向包括统计与数据处理、人工智能以及仪器分析。对AI4S而言，可关注AI与分析化学结合的投稿和交流机会；但当前正文主要定义参与形式，并未公开获选报告、算法或实验数据，不构成新的科学发现。",
+      "score": 1,
+      "importanceReason": "明确AI和数据处理进入分析科学会议征集范围，但只有会前组织信息。",
+      "contentType": "company_claim",
+      "moatTags": [],
+      "limitations": "根据采集时的征集页面，不核验当前截止日期；没有具体方法结果可评价。",
+      "evidence": [
+        {
+          "url": "https://pittcon.org/conference/call-for-submissions/",
+          "quote": "Instrumentation, Statistics and Data Processing, Artificial Intelligence, Chemical and Elemental Analysis"
+        }
+      ]
+    },
+    {
+      "articleId": "0a2a9a61bb5825c1ccc362902325d733",
+      "contentHash": "9d8b3a11140bc79ba759a5da596e14ce588a33ad59eaf3e52d0e54b88fbb1968",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-17T08:48:40.111Z",
+      "failureReason": "这是合成生物行业新闻目录，正文为重复标题、日期和分类，包括多家融资与合作条目，没有各条正文，不能把目录转成已核实情报。"
+    },
+    {
+      "articleId": "436cea4e18ddd2bd538b7833cb1c3efb",
+      "contentHash": "8c25c01c9e791f2c7c3090234bd97cf985c3dfb0d3294aa31377b31be5e4c830",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-17T08:48:40.111Z",
+      "failureReason": "",
+      "category": "其他",
+      "summary": "Pittcon 2027介绍匹兹堡分析科学产业与研究环境，并将AI与数据分析列为会议专题之一，与材料、能源、仪器及生物分析方向并列。该页反映主办方希望加强AI与化学研究交流的安排，主要价值是活动主题线索；城市产业宣传和参会收益描述没有实证评估，不能用于推断AI材料发现能力或会议成果。",
+      "score": 1,
+      "importanceReason": "能确认会议将设置AI与数据分析专题，技术细节及成果尚未提供。",
+      "contentType": "company_claim",
+      "moatTags": [],
+      "limitations": "为活动与城市宣传页，所列日期仅代表抓取时信息，不能视为已发生的科研进展。",
+      "evidence": [
+        {
+          "url": "https://pittcon.org/pittcon-2027/",
+          "quote": "Pittcon 2027 Tracks AI & Data Analytics Bioanalytical & Life Sciences"
+        }
+      ]
+    }
+  ]
+}
