@@ -11,7 +11,7 @@
   "contentStatus": "insufficient_content",
   "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "lastFetchAt": "2026-09-16T07:47:41.281Z",
+  "lastFetchAt": "2026-09-17T05:00:23.622Z",
   "contentTruncated": false,
   "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成",
   "contentHash": "8dcc5d94279791dd13158c7778b8ea9a7f16377e3f4819df251bb3f19ca3bbee"

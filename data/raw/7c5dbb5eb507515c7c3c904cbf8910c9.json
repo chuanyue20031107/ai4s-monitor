@@ -1,0 +1,18 @@
+{
+  "id": "7c5dbb5eb507515c7c3c904cbf8910c9",
+  "title": "CytoSyn: a Foundation Diffusion Model for Histopathology - Tech Report Thomas Duboudin et al. Pub: arXiv Mar 18, 2026",
+  "url": "https://www.owkin.com/publications/cytosyn-a-foundation-diffusion-model-for-histopathology-tech-report",
+  "sourceKey": "s02-21",
+  "sourceName": "Owkin",
+  "sourceType": "AI生物医药公司",
+  "publishedAt": null,
+  "crawledAt": "2026-09-17T05:00:09.249Z",
+  "content": "March 18, 2026 arXiv CytoSyn: a Foundation Diffusion Model for Histopathology - Tech Report AI ML Research Abstract Computational pathology has made significant progress in recent years, fueling advances in both fundamental disease understanding and clinically ready tools. This evolution is driven by the availability of large amounts of digitized slides and specialized deep learning methods and models. Multiple self-supervised foundation feature extractors have been developed, enabling downstream predictive applications from cell segmentation to tumor sub-typing and survival analysis. In contrast, generative foundation models designed specifically for histopathology remain scarce. Such models could address tasks that are beyond the capabilities of feature extractors, such as virtual staining. In this paper, we introduce CytoSyn, a state-of-the-art foundation latent diffusion model that enables the guided generation of highly realistic and diverse histopathology H&E-stained images, as shown in an extensive benchmark. We explored methodological improvements, training set scaling, sampling strategies and slide-level overfitting, culminating in the improved CytoSyn-v2, and compared our work to PixCell, a state-of-the-art model, in an in-depth manner. This comparison highlighted the strong sensitivity of both diffusion models and performance metrics to preprocessing-specific details such as JPEG compression. Our model has been trained on a dataset obtained from more than 10,000 TCGA diagnostic whole-slide images of 32 different cancer types. Despite being trained only on oncology slides, it maintains state-of-the-art performance generating inflammatory bowel disease images. To support the research community, we publicly release CytoSyn's weights, its training and validation datasets, and a sample of synthetic images in this repository: https://huggingface.co/Owkin-Bioptimus/CytoSyn. View publication Share to: or simply highlight any text and click to post it! Authors Thomas Duboudin Xavier Fontaine Etienne Andrier Lionel Guillou Alexandre Filiot Thalyssa Baiocco-rodrigues Antoine Olivier Alberto Romagnoni John Klein Jean-Baptiste Schiratti More like this AI Biology Cancer ML Research Multiple instance learning with spatial transcriptomics for interpretable patient-level predictions: application in glioblastoma Simon Grouard et al. BioRxiv ML Deterministic and generalized framework for unsupervised learning with restricted boltzmann machines Eric Tramel et al. Physical Review X",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-17T05:00:09.249Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "6040ccdd77e4fff0ccfa59a40f43c8e4576ea16d9844ad2d92b0b6c69223d9f2"
+}

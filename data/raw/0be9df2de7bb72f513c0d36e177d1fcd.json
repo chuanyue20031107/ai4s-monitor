@@ -1,0 +1,18 @@
+{
+  "id": "0be9df2de7bb72f513c0d36e177d1fcd",
+  "title": "Hamburg",
+  "url": "https://www.embl.org/sites/hamburg/",
+  "sourceKey": "s01-25",
+  "sourceName": "European Molecular Biology Laboratory",
+  "sourceType": "国际研究机构",
+  "publishedAt": null,
+  "crawledAt": "2026-09-17T05:00:07.671Z",
+  "content": "Administration",
+  "contentStatus": "insufficient_content",
+  "extractionMethod": "article-or-main-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-17T05:00:07.671Z",
+  "contentTruncated": false,
+  "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成",
+  "contentHash": "4b42c6690ebeb867e96784025c16e1b109cf5b688cadce26dd9355a22cc3ad7d"
+}

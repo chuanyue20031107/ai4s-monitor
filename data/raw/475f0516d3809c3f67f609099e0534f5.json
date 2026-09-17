@@ -1,0 +1,18 @@
+{
+  "id": "475f0516d3809c3f67f609099e0534f5",
+  "title": "查看全部 >",
+  "url": "https://www.minimax.cn/blog",
+  "sourceKey": "s03-10",
+  "sourceName": "MiniMax",
+  "sourceType": "通用模型厂商",
+  "publishedAt": null,
+  "crawledAt": "2026-09-17T05:00:19.619Z",
+  "content": "今天，我们正式推出新一代音乐生成模型 MiniMax Music 3.0。只需提供一个创意想法和可选的歌词，模型即可在一次生成中完成作曲、编曲、演唱与制作，创作出一首完整的歌曲。",
+  "contentStatus": "insufficient_content",
+  "extractionMethod": "article-or-main-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-17T05:00:19.619Z",
+  "contentTruncated": false,
+  "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成",
+  "contentHash": "ca7cb104311d2b51b271ad04035f46d3d9bf656f86b53f65e58809a1e5f58f03"
+}

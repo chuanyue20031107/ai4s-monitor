@@ -7,10 +7,13 @@
   "sourceType": "科技大厂研究机构",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:36.536Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "How IBM is searching for quantum advantage in differential equations Q & A Robert Davis 03 Aug 2026 Mathematical Sciences Quantum",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "3a8e070496b5ab3297f57a4b8eb74ffb"
+  "contentHash": "b690211af33c880dfc2ef77c1646e2f6f88afad0f34b1c519e0a5eeb06151e21",
+  "legacyId": "3a8e070496b5ab3297f57a4b8eb74ffb",
+  "lastFetchAt": "2026-09-17T05:00:03.575Z",
+  "contentTruncated": true,
+  "contentError": ""
 }

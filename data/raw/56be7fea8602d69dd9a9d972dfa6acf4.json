@@ -1,0 +1,18 @@
+{
+  "id": "56be7fea8602d69dd9a9d972dfa6acf4",
+  "title": "Multi-modal benchmarking of the Ultima UG100 and Illumina NovaSeq sequencing platforms using clinically relevant FFPE tissues Quentin Bayard et al. Pub: BioRxiv Mar 13, 2026",
+  "url": "https://www.owkin.com/publications/multi-modal-benchmarking-of-the-ultima-ug100-and-illumina-novaseq-sequencing-platforms-using-clinically-relevant-ffpe-tissues",
+  "sourceKey": "s02-21",
+  "sourceName": "Owkin",
+  "sourceType": "AI生物医药公司",
+  "publishedAt": null,
+  "crawledAt": "2026-09-17T05:00:09.289Z",
+  "content": "March 13, 2026 BioRxiv Multi-modal benchmarking of the Ultima UG100 and Illumina NovaSeq sequencing platforms using clinically relevant FFPE tissues Biology Research Abstract Emerging high-throughput sequencing technologies promise lower costs and higher scalability, yet their performance on archival clinical samples remains poorly characterized. Here, we benchmarked Ultima Genomics UG100 against Illumina Novaseq platforms across single-nuclei RNA-seq (snRNA-seq), whole-transcriptome (WTS), whole-exome (WES), and whole-genome sequencing (WGS) using FFPE tissues from oncologic and immune-mediated diseases. Across matched samples, we systematically assessed data quality, coverage profiles, error spectra, variant concordance and transcriptomic reproducibility. UG100 produced highly comparable results to Illumina, capturing key oncogenic and immune-related transcripts, accurately resolving cellular composition in snRNA-seq, and maintaining sensitivity for lowly expressed genes, despite characteristic insertion-biased indels and modest differences in multi-mapping reads. Discrepancies were subtle, largely limited to pseudogene and non-coding transcripts, and did not affect pathway-level conclusions. Ultima UG100 platform prioritized high precision and reduced low-frequency artifacts, offering a cleaner but more conservative variant-calling profile compared to the more sensitive, yet noisier, Illumina/DRAGEN workflow. This multimodal, clinically oriented assessment provides the first comprehensive evaluation of UG100, demonstrating its translational utility in population-scale genomics, and highlighting the potential for emerging sequencing technologies to lower the cost of biomedical research and clinical diagnostics. View publication Share to: or simply highlight any text and click to post it! Authors Quentin Bayard Zelda Mariet Anna Schaar Ekaterina Rozhavskaya Maria Mahfoud Alex Cornish Elo Madissoon Fayssal Sadi-cherif Rory Sinnott Maggie Chak Almoatazbellah Youssef Ramona Erber Arndt Hartmann Dr. Markus Eckstein Silvia Lopez Lastra Almudena Espin Perez More like this ML Research Pacpaint: a histology-based deep learning model uncovers the extensive intratumor molecular heterogeneity of pancreatic adenocarcinoma Charlie Saillard et al. Nature Communications ML Biology Cancer Multiomic analysis of malignant pleural mesothelioma identifies molecular axes and specialized tumor profiles driving intertumor heterogeneity Lise Mangiante et al. Nature Genetics",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-17T05:00:09.289Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "ef2bf18aef6abc253dbfa95079454a51b84385b5984948de0ebfcf6b2152042a"
+}
