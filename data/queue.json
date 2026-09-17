@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-17T09:58:09.003Z",
-  "pendingCount": 636,
-  "readyCount": 396,
+  "updatedAt": "2026-09-17T10:03:31.128Z",
+  "pendingCount": 612,
+  "readyCount": 372,
   "awaitingContentCount": 240,
   "items": [
     {
@@ -50,105 +50,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "a77df6aa6b7801ce2d1c21757a81dace",
-      "title": "Insights",
-      "url": "https://www.synbiobeta.com/insights",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T08:37:04.077Z",
-      "contentStatus": "ready",
-      "contentHash": "cbbe508522a1e82115d0a7a3e69e0e1bd3b60760708a17cd8171fdb0bf562226",
-      "rawPath": "data/raw/a77df6aa6b7801ce2d1c21757a81dace.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "c63317ed56dee28e1956cdaf503068e2",
-      "title": "Next Conference: RECOMB 2027 in Toronto",
-      "url": "https://recomb.org/recomb2027",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T08:37:02.716Z",
-      "contentStatus": "ready",
-      "contentHash": "652ad6bd724877f9b626f54f65552e126fa19ac873949bc7178b976a88f2145f",
-      "rawPath": "data/raw/c63317ed56dee28e1956cdaf503068e2.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "0627d5ced7e81e3d29237f9326edfda3",
-      "title": "History",
-      "url": "https://recomb.org/history/",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T08:37:02.627Z",
-      "contentStatus": "ready",
-      "contentHash": "a8a32437756f63a16741b75d32df616867752b19dfb8fee316f35adb07f30e96",
-      "rawPath": "data/raw/0627d5ced7e81e3d29237f9326edfda3.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "df4d46ad6ae66d2635f9cf82a40c3784",
-      "title": "Outstanding Paper Award",
-      "url": "https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T08:37:02.290Z",
-      "contentStatus": "ready",
-      "contentHash": "63515aca30c21307f01625731163c6687567d343926a9830be04d30722436225",
-      "rawPath": "data/raw/df4d46ad6ae66d2635f9cf82a40c3784.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "58571fdeea889bd896f7a11102bc981c",
-      "title": "Classic Paper Award",
-      "url": "https://aaai.org/about-aaai/aaai-awards/aaai-classic-paper-award/",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T08:37:02.083Z",
-      "contentStatus": "ready",
-      "contentHash": "3acbbd7814955f4c851b3fa531d2717dff3fecab02651c6ee39e5899416fc480",
-      "rawPath": "data/raw/58571fdeea889bd896f7a11102bc981c.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "e205e958bce5d89586cb1c5e9153be53",
-      "title": "About AAAI",
-      "url": "https://aaai.org/about-aaai/",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T08:37:02.002Z",
-      "contentStatus": "ready",
-      "contentHash": "dc144c8aeaf0ca582df81c6890fddd801774c23b827bc8b08322c8add0b17820",
-      "rawPath": "data/raw/e205e958bce5d89586cb1c5e9153be53.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "6fa6feee64881c496812ba88143cf342",
-      "title": "AEIC快讯",
-      "url": "https://www.keoaeic.org/news.html",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T08:37:01.715Z",
-      "contentStatus": "ready",
-      "contentHash": "dddde4042f17535eb6d782f58fee10946d2448d63df7e901bfc3ef0aea89c2fc",
-      "rawPath": "data/raw/6fa6feee64881c496812ba88143cf342.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "893f3208d5cbcbfdba4d2fccd58a9485",
-      "title": "关于召开2026年中国药学会药物流行病学学术年会的通...",
-      "url": "https://www.cpa.org.cn/?do=info&cid=79034",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T08:37:01.164Z",
-      "contentStatus": "ready",
-      "contentHash": "b656fac96f8bd6eca236af96f22623bc1fc674f8bd87eed5139a9ce90e197750",
-      "rawPath": "data/raw/893f3208d5cbcbfdba4d2fccd58a9485.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "dcf7128353fe8b6953e1fe4ab917a655",
-      "title": "关于组织开展2026年第十五届全国药品安全网络知识竞...",
-      "url": "https://www.cpa.org.cn/?do=info&cid=79035",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T08:37:00.912Z",
-      "contentStatus": "ready",
-      "contentHash": "28519123e0b343874eb36396c4089604d2344f6049634f2604ac7badce3bc62f",
-      "rawPath": "data/raw/dcf7128353fe8b6953e1fe4ab917a655.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "0e860e4cf6107e6fa4565648166cd4d8",
       "title": "��ҵ�Ƽ�",
       "url": "https://www.caclp.com/news/enterprise.html",
@@ -182,83 +83,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "fbf4ad2f47cffa8c9409e9154fee8e95",
-      "title": "2026-08-18 亿纬锂能与省油灯深化轻量化便携储能领域合作",
-      "url": "https://www.evebattery.com/news-1105",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T08:36:51.205Z",
-      "contentStatus": "ready",
-      "contentHash": "c9b18906a05ee057abc7aab3dbf85121a0980fab4c076cca4cc8b97b0316a395",
-      "rawPath": "data/raw/fbf4ad2f47cffa8c9409e9154fee8e95.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "4dc74a149eaf0db1534d8bbea5b07d73",
-      "title": "2026-08-18 亿纬锂能荣膺世界品牌基金会国际品牌奖 彰显本地化发展成果",
-      "url": "https://www.evebattery.com/news-1106",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T08:36:50.734Z",
-      "contentStatus": "ready",
-      "contentHash": "5d55bf393e5562684c76f538c64b9f26efdcae4b782f29ed49687234b9579ade",
-      "rawPath": "data/raw/4dc74a149eaf0db1534d8bbea5b07d73.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "b42c0ba07b0667b444dd8cac63af1aa9",
-      "title": "亿纬锂能×云仓配：共建绿色智慧物流新生态",
-      "url": "https://www.evebattery.com/news-1107",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T08:36:50.273Z",
-      "contentStatus": "ready",
-      "contentHash": "e91307e0c3b15d1944c558455117e7825c672310f9738404e72f96a0431ac5dc",
-      "rawPath": "data/raw/b42c0ba07b0667b444dd8cac63af1aa9.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "bcfb8e77e598f8b03e66caf5947e8a6d",
-      "title": "国轩高科单笔最大储能订单6GWh落子沙特 再拓中东新版图 2026-09-11 2026-09-11",
-      "url": "https://www.gotion.com.cn/newsInfo/979",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T08:36:48.905Z",
-      "contentStatus": "ready",
-      "contentHash": "501d679eb7004fa782ecb3bf1b723576757663c0a15f5a3cbb354875fdd94e26",
-      "rawPath": "data/raw/bcfb8e77e598f8b03e66caf5947e8a6d.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "4e7192df90cf2486ea682f1b304c1367",
-      "title": "科学岛上的“锂”想周末： 国轩高科亮相2026全国科普月合肥市主场活动 2026-09-14 2026-09-14",
-      "url": "https://www.gotion.com.cn/newsInfo/980",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T08:36:48.671Z",
-      "contentStatus": "ready",
-      "contentHash": "4f71ca31271cf4de8edf846398464f14bf2ac0564c9154797e22f4be825dc0e1",
-      "rawPath": "data/raw/4e7192df90cf2486ea682f1b304c1367.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "f8980c5168669830e010134abd7b0390",
-      "title": "国轩高科LFP电池助力奇瑞QQ3EV连续五个月销量破万 2026-09-14 2026-09-14",
-      "url": "https://www.gotion.com.cn/newsInfo/981",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T08:36:48.435Z",
-      "contentStatus": "ready",
-      "contentHash": "1e800efbc17c3bbd3492890bb1470f98ab34f4bb875e90252865387ec3837670",
-      "rawPath": "data/raw/f8980c5168669830e010134abd7b0390.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "96f10773e5bf48e53dfa300f5a86b6ba",
-      "title": "气相色谱质谱联用仪 全新一代的产品在保留前代高稳定性的基础上，全面升级了数据采集和处理软件，优化了核心部件结构，改进了仪器控制时序，进一步降低使用成本、提高工作效率，可满足环境监测、食品安全、化工领域、药品领域等检测需求，是实验室对挥发性及半挥发性物质进行定性定量分析的利器。",
-      "url": "https://www.tofms.net/goods/144.html",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T07:47:41.533Z",
-      "contentStatus": "ready",
-      "contentHash": "2f88994b06f6938246e1e539bb1de6e626ef52362030e143157c1d4dd85b1abc",
-      "rawPath": "data/raw/96f10773e5bf48e53dfa300f5a86b6ba.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "a37c300d251ad81998e9c3df4e987664",
       "title": "智慧环境 以全域感知 支撑精准治理",
       "url": "https://www.fpi-inc.com/zt_environment.html",
@@ -281,17 +105,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "b1b1db1ba3122e9f932bf2ff27bda2ef",
-      "title": "实验室分离纯化仪器 Bio-Lab 实验室层析系统 发现",
-      "url": "https://www.hanbon.com.cn/products/laboratory-chromatographic-instrument/",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T07:47:38.934Z",
-      "contentStatus": "ready",
-      "contentHash": "2d21237582777d0d707e65c0e8af01641a1d9d0d7178011540c9daaf5ad59be5",
-      "rawPath": "data/raw/b1b1db1ba3122e9f932bf2ff27bda2ef.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "476f952a6b74d45cde5601492fb73854",
       "title": "智慧实验室 以高效检测 支撑科学判断",
       "url": "https://www.fpi-inc.com/zt_laboratory.html",
@@ -300,83 +113,6 @@
       "contentStatus": "ready",
       "contentHash": "e87d95741de5266ea67f5fe7e559b8c2957ada80049675459393984826a54d6f",
       "rawPath": "data/raw/476f952a6b74d45cde5601492fb73854.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "ce4ac1c477b0fc5bde6d0f384b43a195",
-      "title": "MiniMax Speech 2.8",
-      "url": "https://www.minimax.cn/news/minimax-speech-28",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T07:47:36.767Z",
-      "contentStatus": "ready",
-      "contentHash": "2ecfb47de75dee45450e946118e659a9d97a45cffbad554dbd30510cdce1a8f4",
-      "rawPath": "data/raw/ce4ac1c477b0fc5bde6d0f384b43a195.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "bf3f86e380518ac941e24acfb76af044",
-      "title": "MiniMax H3",
-      "url": "https://www.minimax.cn/blog/minimax-h3",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T07:47:36.202Z",
-      "contentStatus": "ready",
-      "contentHash": "172b84911cf00a913778072ab8f135271213f5ed07b8a8f3b7e102cb0d42ad2c",
-      "rawPath": "data/raw/bf3f86e380518ac941e24acfb76af044.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "7f5c363da585ca1211dc81eabf258207",
-      "title": "睿科集团亮相2026自主实验室大会，共探AI for Lab新未来",
-      "url": "https://www.raykol.com/shows/27/524.html",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T07:47:36.137Z",
-      "contentStatus": "ready",
-      "contentHash": "45b9c48ef5a7f05741b4a81ba73afe413e473f692e0765c5f65835f31923c473",
-      "rawPath": "data/raw/7f5c363da585ca1211dc81eabf258207.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "08ee657391a4e38f958a4cbb0c34899d",
-      "title": "White Paper",
-      "url": "https://entalpic.ai/entalpic-white-paper/",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T07:47:29.525Z",
-      "contentStatus": "ready",
-      "contentHash": "b5da3ad970fc97ff60921fff5525120604c149c0a03538fd69cf0b13cdfab77f",
-      "rawPath": "data/raw/08ee657391a4e38f958a4cbb0c34899d.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "6508439d8c23208986a265a3b0f105d5",
-      "title": "Publications",
-      "url": "https://entalpic.ai/publications/",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T07:47:29.023Z",
-      "contentStatus": "ready",
-      "contentHash": "90ed34bea61e25c3627ca7069d27bc9bea1b086c103d016650f7b639cd38e866",
-      "rawPath": "data/raw/6508439d8c23208986a265a3b0f105d5.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "e1321e739a33bab986a4a98f4c0bfcaf",
-      "title": "Eleven ERC Starting Grants for Helmholtz",
-      "url": "https://www.helmholtz.de/en/newsroom/2026/eleven-erc-starting-grants-for-helmholtz/",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T07:47:28.476Z",
-      "contentStatus": "ready",
-      "contentHash": "f883773a73c25ab3336c23d7c2055ba99c7b22fe145a92a1d34d089f6755219b",
-      "rawPath": "data/raw/e1321e739a33bab986a4a98f4c0bfcaf.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "ef6520bebc94757dc34cf8095716062c",
-      "title": "CONFIDENT-HFpEF: A Machine Learning-Based Risk Stratification for Mortality and Hospitalization Using Multimodal Real-World Data Marat Fudim et al. Pub: ESC Heart Failure Apr 7, 2026",
-      "url": "https://www.owkin.com/publications/confident-hfpef-a-machine-learning-based-risk-stratification-for-mortality-and-hospitalization-using-multimodal-real-world-data",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T07:47:28.315Z",
-      "contentStatus": "ready",
-      "contentHash": "c0d264185c75859064839e30e9dc800386cef4d0bbee5dbcaa93281eb3511b0b",
-      "rawPath": "data/raw/ef6520bebc94757dc34cf8095716062c.json",
       "lastAnalysisStatus": "pending"
     },
     {
