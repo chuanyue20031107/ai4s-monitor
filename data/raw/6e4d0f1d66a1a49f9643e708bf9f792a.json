@@ -1,0 +1,18 @@
+{
+  "id": "6e4d0f1d66a1a49f9643e708bf9f792a",
+  "title": "了 解 更 多 开 源 项 目",
+  "url": "https://www.shlab.org.cn/open?tab=model",
+  "sourceKey": "s05-16",
+  "sourceName": "上海人工智能实验室科学智能方向",
+  "sourceType": "自主实验室与平台",
+  "publishedAt": null,
+  "crawledAt": "2026-09-17T21:31:48.549Z",
+  "content": "诚邀全球有志于从事人工智能、大模型、具身智能、安全可信AI、Al for Science、基础平台、创新链、管理支撑等领域的青年人才加入，共创AGI美好未来。 自2022年起，上海AI实验室与北京大学、清华大学、复旦大学、上海交通大学、同济大学、中国科学技术大学、浙江大学等十余所顶尖高校共同开展联合培养博士生专项工作。 Probing Cognitive Abilities of MLLM via Perception, Understanding, and Reasoning SFE 系统性评测 MLLM 多学科高阶科学认知能力 An Undergraduate-Level Physics Reasoning Benchmark for Multimodal Models 评估多模态大型语言模型针对本科物理问题的推理能力 Copyright © 2026 Shanghai Artificial Intelligence Laboratory",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-17T21:31:48.549Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "72e6a430ebcdd1cba4ca6011e63c3802e5b22705b3d7043f5e3ee4f20533ce43"
+}

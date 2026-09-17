@@ -2381,10 +2381,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "ok",
-      "lastCrawlAt": "2026-09-16T11:46:42.425Z",
-      "lastSuccessAt": "2026-09-16T11:46:52.531Z",
-      "lastDiagnostic": "检查可解析 5 条候选；本次未抓取正文、未进行 AI 分析。",
-      "lastCheckAt": "2026-09-17T01:23:22.702Z",
+      "lastCrawlAt": "2026-09-17T21:29:03.134Z",
+      "lastSuccessAt": "2026-09-17T21:29:11.544Z",
+      "lastDiagnostic": "发现 6 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-17T21:29:03.134Z",
       "lastError": ""
     },
     {
@@ -2412,10 +2412,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "ok",
-      "lastCrawlAt": "2026-09-16T11:46:42.695Z",
-      "lastSuccessAt": "2026-09-16T11:46:53.330Z",
-      "lastDiagnostic": "检查可解析 1 条候选；本次未抓取正文、未进行 AI 分析。",
-      "lastCheckAt": "2026-09-17T01:23:22.981Z",
+      "lastCrawlAt": "2026-09-17T21:29:03.139Z",
+      "lastSuccessAt": "2026-09-17T21:29:09.667Z",
+      "lastDiagnostic": "发现 1 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-17T21:29:03.139Z",
       "lastError": ""
     },
     {
@@ -2435,7 +2435,7 @@
       "priority": "高",
       "notes": "依托单位：中国科学院沈阳自动化研究所机器人与智能系统全国重点实验室；已公开展示运行中的自驱动实验系统",
       "failureType": "https_error",
-      "repairSuggestion": "check_robots",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "sourceKey": "s05-04",
       "groupName": "自主实验室与平台",
@@ -2443,11 +2443,11 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-17T01:27:13.441Z",
+      "lastCrawlAt": "2026-09-17T21:29:03.139Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "诊断：https_error；建议：check_robots；尚未重新抓取正文。",
-      "lastCheckAt": "2026-09-17T02:28:18.791Z",
-      "lastError": "network_error"
+      "lastDiagnostic": "采集失败：https_error；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-17T21:29:03.139Z",
+      "lastError": "https_error"
     },
     {
       "id": "s05-05",
@@ -2474,10 +2474,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "ok",
-      "lastCrawlAt": "2026-09-16T11:46:44.030Z",
-      "lastSuccessAt": null,
-      "lastDiagnostic": "检查可解析 12 条候选；本次未抓取正文、未进行 AI 分析。",
-      "lastCheckAt": "2026-09-17T01:23:24.543Z",
+      "lastCrawlAt": "2026-09-17T21:29:03.139Z",
+      "lastSuccessAt": "2026-09-17T21:29:12.919Z",
+      "lastDiagnostic": "发现 12 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-17T21:29:03.139Z",
       "lastError": ""
     },
     {
@@ -2505,10 +2505,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "ok",
-      "lastCrawlAt": "2026-09-16T17:06:57.873Z",
-      "lastSuccessAt": "2026-09-16T17:07:05.876Z",
-      "lastDiagnostic": "检查可解析 1 条候选；本次未抓取正文、未进行 AI 分析。",
-      "lastCheckAt": "2026-09-17T01:23:25.279Z",
+      "lastCrawlAt": "2026-09-17T21:29:09.667Z",
+      "lastSuccessAt": "2026-09-17T21:29:12.618Z",
+      "lastDiagnostic": "发现 1 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-17T21:29:09.667Z",
       "lastError": ""
     },
     {
@@ -2536,10 +2536,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "no_content",
-      "lastCrawlAt": "2026-09-16T17:06:57.877Z",
-      "lastSuccessAt": "2026-09-16T17:07:04.221Z",
-      "lastDiagnostic": "入口可访问但未发现可解析条目；可能需要 RSS/专用解析器，不代表网站没有更新。",
-      "lastCheckAt": "2026-09-17T01:23:26.798Z",
+      "lastCrawlAt": "2026-09-17T21:29:11.544Z",
+      "lastSuccessAt": "2026-09-17T21:29:14.393Z",
+      "lastDiagnostic": "发现 0 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-17T21:29:11.544Z",
       "lastError": ""
     },
     {
@@ -2567,10 +2567,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "ok",
-      "lastCrawlAt": "2026-09-16T17:06:57.878Z",
-      "lastSuccessAt": "2026-09-16T17:07:04.192Z",
-      "lastDiagnostic": "检查可解析 12 条候选；本次未抓取正文、未进行 AI 分析。",
-      "lastCheckAt": "2026-09-17T01:23:27.890Z",
+      "lastCrawlAt": "2026-09-17T21:29:12.618Z",
+      "lastSuccessAt": "2026-09-17T21:29:17.164Z",
+      "lastDiagnostic": "发现 12 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-17T21:29:12.618Z",
       "lastError": ""
     },
     {
@@ -2590,7 +2590,7 @@
       "priority": "高",
       "notes": "依托单位：天津工业生物技术研究所等；产业转化与自动化生物制造",
       "failureType": "dns_error",
-      "repairSuggestion": "check_dns",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "sourceKey": "s05-09",
       "groupName": "自主实验室与平台",
@@ -2598,11 +2598,11 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-17T01:27:13.603Z",
+      "lastCrawlAt": "2026-09-17T21:29:12.919Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "诊断：dns_error；建议：check_dns；尚未重新抓取正文。",
-      "lastCheckAt": "2026-09-17T02:28:19.011Z",
-      "lastError": "network_error"
+      "lastDiagnostic": "采集失败：dns_error；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-17T21:29:12.919Z",
+      "lastError": "dns_error"
     },
     {
       "id": "s05-10",
@@ -2629,10 +2629,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "ok",
-      "lastCrawlAt": "2026-09-16T17:06:59.275Z",
-      "lastSuccessAt": "2026-09-16T17:07:05.184Z",
-      "lastDiagnostic": "检查可解析 12 条候选；本次未抓取正文、未进行 AI 分析。",
-      "lastCheckAt": "2026-09-17T01:23:29.006Z",
+      "lastCrawlAt": "2026-09-17T21:29:14.393Z",
+      "lastSuccessAt": "2026-09-17T21:29:19.790Z",
+      "lastDiagnostic": "发现 12 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-17T21:29:14.393Z",
       "lastError": ""
     },
     {
@@ -2652,7 +2652,7 @@
       "priority": "高",
       "notes": "依托单位：北京市/北京大学等共建生态；关注科学数据和基础模型",
       "failureType": "dns_error",
-      "repairSuggestion": "check_dns",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "sourceKey": "s05-11",
       "groupName": "自主实验室与平台",
@@ -2660,11 +2660,11 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-17T01:27:34.033Z",
+      "lastCrawlAt": "2026-09-17T21:29:17.164Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "诊断：dns_error；建议：check_dns；尚未重新抓取正文。",
-      "lastCheckAt": "2026-09-17T02:28:19.028Z",
-      "lastError": "network_error"
+      "lastDiagnostic": "采集失败：dns_error；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-17T21:29:17.164Z",
+      "lastError": "dns_error"
     },
     {
       "id": "s05-12",
@@ -2691,10 +2691,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "ok",
-      "lastCrawlAt": "2026-09-16T17:07:04.221Z",
-      "lastSuccessAt": "2026-09-16T17:07:06.297Z",
-      "lastDiagnostic": "检查可解析 2 条候选；本次未抓取正文、未进行 AI 分析。",
-      "lastCheckAt": "2026-09-17T01:23:29.799Z",
+      "lastCrawlAt": "2026-09-17T21:29:19.791Z",
+      "lastSuccessAt": "2026-09-17T21:29:20.746Z",
+      "lastDiagnostic": "发现 2 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-17T21:29:19.791Z",
       "lastError": ""
     },
     {
@@ -2714,7 +2714,7 @@
       "priority": "高",
       "notes": "依托单位：江苏省实验室；适合考察仪器与材料工程化",
       "failureType": "network_error",
-      "repairSuggestion": "check_robots",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "sourceKey": "s05-13",
       "groupName": "自主实验室与平台",
@@ -2722,10 +2722,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-17T01:27:35.399Z",
+      "lastCrawlAt": "2026-09-17T21:29:20.746Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "诊断：network_error；建议：check_robots；尚未重新抓取正文。",
-      "lastCheckAt": "2026-09-17T02:28:19.128Z",
+      "lastDiagnostic": "采集失败：network_error；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-17T21:29:20.746Z",
       "lastError": "network_error"
     },
     {
@@ -2753,10 +2753,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "ok",
-      "lastCrawlAt": "2026-09-16T17:07:05.184Z",
-      "lastSuccessAt": "2026-09-16T17:07:10.747Z",
-      "lastDiagnostic": "检查可解析 12 条候选；本次未抓取正文、未进行 AI 分析。",
-      "lastCheckAt": "2026-09-17T01:23:30.443Z",
+      "lastCrawlAt": "2026-09-17T21:31:39.314Z",
+      "lastSuccessAt": "2026-09-17T21:31:45.237Z",
+      "lastDiagnostic": "发现 12 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-17T21:31:39.314Z",
       "lastError": ""
     },
     {
@@ -2784,10 +2784,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "ok",
-      "lastCrawlAt": "2026-09-16T17:07:05.876Z",
-      "lastSuccessAt": "2026-09-16T17:07:10.592Z",
-      "lastDiagnostic": "检查可解析 7 条候选；本次未抓取正文、未进行 AI 分析。",
-      "lastCheckAt": "2026-09-17T01:23:31.681Z",
+      "lastCrawlAt": "2026-09-17T21:31:43.472Z",
+      "lastSuccessAt": "2026-09-17T21:31:47.596Z",
+      "lastDiagnostic": "发现 7 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-17T21:31:43.472Z",
       "lastError": ""
     },
     {
@@ -2815,10 +2815,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "ok",
-      "lastCrawlAt": "2026-09-16T17:07:06.003Z",
-      "lastSuccessAt": "2026-09-16T17:07:10.098Z",
-      "lastDiagnostic": "检查可解析 12 条候选；本次未抓取正文、未进行 AI 分析。",
-      "lastCheckAt": "2026-09-17T01:23:31.795Z",
+      "lastCrawlAt": "2026-09-17T21:31:45.237Z",
+      "lastSuccessAt": "2026-09-17T21:31:50.166Z",
+      "lastDiagnostic": "发现 12 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-17T21:31:45.237Z",
       "lastError": ""
     },
     {
@@ -2846,10 +2846,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "ok",
-      "lastCrawlAt": "2026-09-16T17:07:06.297Z",
-      "lastSuccessAt": "2026-09-16T17:07:10.971Z",
-      "lastDiagnostic": "检查可解析 11 条候选；本次未抓取正文、未进行 AI 分析。",
-      "lastCheckAt": "2026-09-17T01:23:32.986Z",
+      "lastCrawlAt": "2026-09-17T21:31:47.596Z",
+      "lastSuccessAt": "2026-09-17T21:31:51.880Z",
+      "lastDiagnostic": "发现 11 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-17T21:31:47.596Z",
       "lastError": ""
     },
     {
@@ -2869,7 +2869,7 @@
       "priority": "高",
       "notes": "依托单位：北京科技大学等；材料四元关系与数据闭环",
       "failureType": "dns_error",
-      "repairSuggestion": "check_dns",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "sourceKey": "s05-18",
       "groupName": "自主实验室与平台",
@@ -2877,11 +2877,11 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-17T01:27:36.122Z",
+      "lastCrawlAt": "2026-09-17T21:31:47.798Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "诊断：dns_error；建议：check_dns；尚未重新抓取正文。",
-      "lastCheckAt": "2026-09-17T02:28:19.523Z",
-      "lastError": "network_error"
+      "lastDiagnostic": "采集失败：dns_error；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-17T21:31:47.798Z",
+      "lastError": "dns_error"
     },
     {
       "id": "s05-19",
@@ -2908,10 +2908,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "ok",
-      "lastCrawlAt": "2026-09-16T17:07:10.592Z",
-      "lastSuccessAt": "2026-09-16T17:07:16.584Z",
-      "lastDiagnostic": "检查可解析 12 条候选；本次未抓取正文、未进行 AI 分析。",
-      "lastCheckAt": "2026-09-17T01:23:33.685Z",
+      "lastCrawlAt": "2026-09-17T21:31:50.166Z",
+      "lastSuccessAt": "2026-09-17T21:31:55.301Z",
+      "lastDiagnostic": "发现 12 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-17T21:31:50.166Z",
       "lastError": ""
     },
     {
@@ -2931,7 +2931,7 @@
       "priority": "高",
       "notes": "依托单位：中国科学院上海药物研究所；药物数据与高通量筛选",
       "failureType": "https_error",
-      "repairSuggestion": "check_robots",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "sourceKey": "s05-20",
       "groupName": "自主实验室与平台",
@@ -2939,11 +2939,11 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-17T01:27:37.051Z",
+      "lastCrawlAt": "2026-09-17T21:31:51.880Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "诊断：https_error；建议：check_robots；尚未重新抓取正文。",
-      "lastCheckAt": "2026-09-17T02:28:19.657Z",
-      "lastError": "network_error"
+      "lastDiagnostic": "采集失败：https_error；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-17T21:31:51.880Z",
+      "lastError": "https_error"
     },
     {
       "id": "s05-21",
@@ -3148,7 +3148,7 @@
       "priority": "高",
       "notes": "所属行业：创新药；数据需求：化合物、实验、临床和文献数据；合作/采购方向：数据治理、模型平台、实验闭环；国内创新药头部",
       "failureType": "dns_error",
-      "repairSuggestion": "check_dns",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "sourceKey": "s06-01",
       "groupName": "下游客户与应用方",
@@ -3156,11 +3156,11 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-17T01:27:37.251Z",
+      "lastCrawlAt": "2026-09-17T21:31:53.952Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "诊断：dns_error；建议：check_dns；尚未重新抓取正文。",
-      "lastCheckAt": "2026-09-17T02:28:20.591Z",
-      "lastError": "network_error"
+      "lastDiagnostic": "采集失败：dns_error；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-17T21:31:53.952Z",
+      "lastError": "dns_error"
     },
     {
       "id": "s06-02",
@@ -3179,19 +3179,19 @@
       "priority": "高",
       "notes": "所属行业：创新药/生物药；数据需求：多组学、实验和临床数据；合作/采购方向：科研数据平台、知识图谱、AI药研；全球化研发体系",
       "failureType": "timeout",
-      "repairSuggestion": "check_robots",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "sourceKey": "s06-02",
       "groupName": "下游客户与应用方",
       "enabled": true,
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-17T01:27:37.918Z",
+      "crawlStatus": "timeout",
+      "lastCrawlAt": "2026-09-17T21:31:55.301Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "诊断：timeout；建议：check_robots；尚未重新抓取正文。",
-      "lastCheckAt": "2026-09-17T02:28:20.728Z",
-      "lastError": "network_error"
+      "lastDiagnostic": "采集失败：timeout；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-17T21:31:55.301Z",
+      "lastError": "timeout"
     },
     {
       "id": "s06-03",
@@ -3218,10 +3218,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "ok",
-      "lastCrawlAt": "2026-09-16T17:07:12.864Z",
-      "lastSuccessAt": "2026-09-16T17:07:17.996Z",
-      "lastDiagnostic": "检查可解析 6 条候选；本次未抓取正文、未进行 AI 分析。",
-      "lastCheckAt": "2026-09-17T01:23:40.619Z",
+      "lastCrawlAt": "2026-09-17T21:34:21.432Z",
+      "lastSuccessAt": "2026-09-17T21:34:24.281Z",
+      "lastDiagnostic": "发现 6 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-17T21:34:21.432Z",
       "lastError": ""
     },
     {
@@ -3249,10 +3249,10 @@
       "crawlStrategy": "sitemap",
       "discoveredFeedUrl": "https://www.hec.cn/sitemap.xml",
       "crawlStatus": "ok",
-      "lastCrawlAt": "2026-09-17T02:33:58.593Z",
-      "lastSuccessAt": "2026-09-17T02:34:00.378Z",
+      "lastCrawlAt": "2026-09-17T21:34:24.281Z",
+      "lastSuccessAt": "2026-09-17T21:34:27.251Z",
       "lastDiagnostic": "发现 100 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-17T02:33:58.593Z",
+      "lastCheckAt": "2026-09-17T21:34:24.281Z",
       "lastError": ""
     },
     {
@@ -3280,10 +3280,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "ok",
-      "lastCrawlAt": "2026-09-16T17:07:16.504Z",
-      "lastSuccessAt": "2026-09-16T17:07:20.078Z",
-      "lastDiagnostic": "检查可解析 3 条候选；本次未抓取正文、未进行 AI 分析。",
-      "lastCheckAt": "2026-09-17T01:23:43.146Z",
+      "lastCrawlAt": "2026-09-17T21:34:25.254Z",
+      "lastSuccessAt": "2026-09-17T21:34:29.229Z",
+      "lastDiagnostic": "发现 3 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-17T21:34:25.254Z",
       "lastError": ""
     },
     {
@@ -3311,10 +3311,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "no_content",
-      "lastCrawlAt": "2026-09-16T17:07:16.584Z",
-      "lastSuccessAt": "2026-09-16T17:07:18.715Z",
-      "lastDiagnostic": "入口可访问但未发现可解析条目；可能需要 RSS/专用解析器，不代表网站没有更新。",
-      "lastCheckAt": "2026-09-17T01:23:43.710Z",
+      "lastCrawlAt": "2026-09-17T21:34:26.072Z",
+      "lastSuccessAt": "2026-09-17T21:34:27.938Z",
+      "lastDiagnostic": "发现 0 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-17T21:34:26.072Z",
       "lastError": ""
     },
     {
@@ -3342,10 +3342,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "no_content",
-      "lastCrawlAt": "2026-09-16T17:07:17.996Z",
-      "lastSuccessAt": "2026-09-16T17:07:21.004Z",
-      "lastDiagnostic": "入口可访问但未发现可解析条目；可能需要 RSS/专用解析器，不代表网站没有更新。",
-      "lastCheckAt": "2026-09-17T01:23:43.909Z",
+      "lastCrawlAt": "2026-09-17T21:34:27.251Z",
+      "lastSuccessAt": "2026-09-17T21:34:30.837Z",
+      "lastDiagnostic": "发现 0 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-17T21:34:27.251Z",
       "lastError": ""
     },
     {
@@ -3365,19 +3365,19 @@
       "priority": "高",
       "notes": "所属行业：能源化工；数据需求：催化、反应、工艺和装置数据；合作/采购方向：AI催化、实验数据治理和知识平台；高价值工业科研数据",
       "failureType": "timeout",
-      "repairSuggestion": "check_robots",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "sourceKey": "s06-08",
       "groupName": "下游客户与应用方",
       "enabled": true,
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-17T01:27:41.367Z",
+      "crawlStatus": "timeout",
+      "lastCrawlAt": "2026-09-17T21:34:27.938Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "诊断：timeout；建议：check_robots；尚未重新抓取正文。",
-      "lastCheckAt": "2026-09-17T02:28:27.013Z",
-      "lastError": "network_error"
+      "lastDiagnostic": "采集失败：timeout；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-17T21:34:27.938Z",
+      "lastError": "timeout"
     },
     {
       "id": "s06-09",
@@ -3528,10 +3528,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "no_content",
-      "lastCrawlAt": "2026-09-16T17:07:19.566Z",
-      "lastSuccessAt": "2026-09-16T17:07:24.451Z",
-      "lastDiagnostic": "入口可访问但未发现可解析条目；可能需要 RSS/专用解析器，不代表网站没有更新。",
-      "lastCheckAt": "2026-09-17T01:23:51.637Z",
+      "lastCrawlAt": "2026-09-17T21:34:29.229Z",
+      "lastSuccessAt": "2026-09-17T21:34:36.029Z",
+      "lastDiagnostic": "发现 0 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-17T21:34:29.229Z",
       "lastError": ""
     },
     {
@@ -3559,10 +3559,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "no_content",
-      "lastCrawlAt": "2026-09-16T17:07:20.078Z",
-      "lastSuccessAt": "2026-09-16T17:07:21.890Z",
-      "lastDiagnostic": "入口可访问但未发现可解析条目；可能需要 RSS/专用解析器，不代表网站没有更新。",
-      "lastCheckAt": "2026-09-17T01:23:52.421Z",
+      "lastCrawlAt": "2026-09-17T21:34:30.837Z",
+      "lastSuccessAt": "2026-09-17T21:34:32.539Z",
+      "lastDiagnostic": "发现 0 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-17T21:34:30.837Z",
       "lastError": ""
     },
     {
@@ -3590,10 +3590,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "no_content",
-      "lastCrawlAt": "2026-09-16T17:07:21.004Z",
-      "lastSuccessAt": "2026-09-16T17:07:23.806Z",
-      "lastDiagnostic": "入口可访问但未发现可解析条目；可能需要 RSS/专用解析器，不代表网站没有更新。",
-      "lastCheckAt": "2026-09-17T01:23:53.807Z",
+      "lastCrawlAt": "2026-09-17T21:34:32.539Z",
+      "lastSuccessAt": "2026-09-17T21:34:35.172Z",
+      "lastDiagnostic": "发现 0 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-17T21:34:32.539Z",
       "lastError": ""
     },
     {
@@ -3612,8 +3612,8 @@
       "feedUrl": "",
       "priority": "高",
       "notes": "建设单位：中国科学院计算机网络信息中心等；开放程度：开放为主，依数据集许可；接口/下载：网页检索、DOI、下载/API以平台为准；国内科学数据出版核心平台",
-      "failureType": "network_error",
-      "repairSuggestion": "check_robots",
+      "failureType": "https_error",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "sourceKey": "s07-04",
       "groupName": "科学数据库与平台",
@@ -3621,11 +3621,11 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-17T01:27:33.886Z",
+      "lastCrawlAt": "2026-09-17T21:34:35.172Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "诊断：network_error；建议：check_robots；尚未重新抓取正文。",
-      "lastCheckAt": "2026-09-17T02:28:28.743Z",
-      "lastError": "network_error"
+      "lastDiagnostic": "采集失败：https_error；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-17T21:34:35.172Z",
+      "lastError": "https_error"
     },
     {
       "id": "s07-05",
@@ -3644,7 +3644,7 @@
       "priority": "高",
       "notes": "建设单位：中国科学院北京基因组研究所（国家生物信息中心）；开放程度：分库开放；接口/下载：网页、批量下载及分库API；生命科学国家级数据节点",
       "failureType": "network_error",
-      "repairSuggestion": "manual_config",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "sourceKey": "s07-05",
       "groupName": "科学数据库与平台",
@@ -3652,10 +3652,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-17T01:27:48.819Z",
+      "lastCrawlAt": "2026-09-17T21:34:36.029Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "诊断：network_error；建议：manual_config；尚未重新抓取正文。",
-      "lastCheckAt": "2026-09-17T02:28:28.925Z",
+      "lastDiagnostic": "采集失败：network_error；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-17T21:34:36.029Z",
       "lastError": "network_error"
     },
     {
@@ -3683,10 +3683,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "ok",
-      "lastCrawlAt": "2026-09-16T17:07:23.654Z",
-      "lastSuccessAt": "2026-09-16T17:07:29.014Z",
-      "lastDiagnostic": "检查可解析 6 条候选；本次未抓取正文、未进行 AI 分析。",
-      "lastCheckAt": "2026-09-17T01:23:56.208Z",
+      "lastCrawlAt": "2026-09-17T21:34:57.267Z",
+      "lastSuccessAt": "2026-09-17T21:35:03.815Z",
+      "lastDiagnostic": "发现 6 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-17T21:34:57.267Z",
       "lastError": ""
     },
     {
@@ -3714,10 +3714,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "no_content",
-      "lastCrawlAt": "2026-09-16T17:07:23.806Z",
-      "lastSuccessAt": "2026-09-16T17:07:26.074Z",
-      "lastDiagnostic": "入口可访问但未发现可解析条目；可能需要 RSS/专用解析器，不代表网站没有更新。",
-      "lastCheckAt": "2026-09-17T01:23:56.661Z",
+      "lastCrawlAt": "2026-09-17T21:35:03.815Z",
+      "lastSuccessAt": "2026-09-17T21:35:06.619Z",
+      "lastDiagnostic": "发现 0 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-17T21:35:03.815Z",
       "lastError": ""
     },
     {
@@ -3737,7 +3737,7 @@
       "priority": "高",
       "notes": "建设单位：国家卫生健康相关单位；开放程度：申请/授权为主；接口/下载：目录、申请和专题服务；医学数据合规与申请机制",
       "failureType": "http_403",
-      "repairSuggestion": "check_robots",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "sourceKey": "s07-08",
       "groupName": "科学数据库与平台",
@@ -3745,11 +3745,11 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-17T01:27:49.687Z",
+      "lastCrawlAt": "2026-09-17T21:35:06.619Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "诊断：http_403；建议：check_robots；尚未重新抓取正文。",
-      "lastCheckAt": "2026-09-17T02:28:30.764Z",
-      "lastError": "network_error"
+      "lastDiagnostic": "采集失败：http_403；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-17T21:35:06.619Z",
+      "lastError": "http_403"
     },
     {
       "id": "s07-09",
@@ -3768,19 +3768,19 @@
       "priority": "高",
       "notes": "建设单位：材料领域国家科学数据体系；开放程度：开放与申请并存；接口/下载：检索、下载和专题服务；国内材料数据关键节点",
       "failureType": "timeout",
-      "repairSuggestion": "check_robots",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "sourceKey": "s07-09",
       "groupName": "科学数据库与平台",
       "enabled": true,
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-17T01:27:51.719Z",
+      "crawlStatus": "timeout",
+      "lastCrawlAt": "2026-09-17T21:35:07.748Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "诊断：timeout；建议：check_robots；尚未重新抓取正文。",
-      "lastCheckAt": "2026-09-17T02:28:31.018Z",
-      "lastError": "network_error"
+      "lastDiagnostic": "采集失败：timeout；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-17T21:35:07.748Z",
+      "lastError": "timeout"
     },
     {
       "id": "s07-10",
@@ -5705,5 +5705,5 @@
       "lastError": ""
     }
   ],
-  "updatedAt": "2026-09-17T17:10:43.590Z"
+  "updatedAt": "2026-09-17T21:38:09.708Z"
 }

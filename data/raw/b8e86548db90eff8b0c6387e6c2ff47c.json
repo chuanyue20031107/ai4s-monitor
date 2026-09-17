@@ -8,13 +8,13 @@
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:57:37.446Z",
   "content": "深视新闻 | 探访深圳光明科学城合成生物研究重大科技基础设施——打造现代化“生物铸造工厂”。",
-  "contentHash": "0c6346e23635fb7d4272a4a5b1e1b0c723505e690387682d5d77bcda3e13a503",
   "contentStatus": "insufficient_content",
   "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
+  "contentHash": "0c6346e23635fb7d4272a4a5b1e1b0c723505e690387682d5d77bcda3e13a503",
   "legacyId": "b8e86548db90eff8b0c6387e6c2ff47c",
   "contentTruncated": false,
-  "lastFetchAt": "2026-09-17T08:45:24.787Z",
+  "lastFetchAt": "2026-09-17T21:29:18.877Z",
   "fetchedUrl": "https://isynbio.siat.ac.cn/siat/isb/mtgz/2025090916115534492/index.html",
   "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成"
 }

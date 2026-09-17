@@ -1,0 +1,18 @@
+{
+  "id": "8baf8d576e8ee7923bb3b8d101ff443c",
+  "title": "我所揭示SAPO-34分子筛Brønsted酸精细落位及运动行为",
+  "url": "https://www.dicp.ac.cn/xwdt/kyjz/202609/t20260916_8283751.html",
+  "sourceKey": "s05-19",
+  "sourceName": "中科院大连化物所高通量实验与催化平台",
+  "sourceType": "自主实验室与平台",
+  "publishedAt": null,
+  "crawledAt": "2026-09-17T21:31:54.474Z",
+  "content": "发布时间：2026-09-17 | 供稿部门：DNL12 | 【 放大 】 【 缩小 】 | 【 打印 】 【 关闭 】 近日，我所低碳催化与工程研究部（ DNL12 ）徐舒涛研究员、魏迎旭研究员和刘中民院士团队在甲醇制烯烃（ MTO ）工业 SAPO-34 催化剂酸性表征研究中取得新进展。团队定量解析了 Brønsted 酸质子在所有晶体学不等价氧位点的落位，并基于此揭示了温度驱动下的及客体分子诱导下的质子运动行为。 MTO 技术的应用，使我国烯烃生产不再依赖于传统石油原料，可直接从煤炭原料转化得到，对保障我国能源战略安全具有重要意义。 SAPO-34 分子筛作为该工业过程的核心催化剂，目前对其活性中心 Brønsted 酸位点（ BAS ）的精确落位、数量分布和动态行为仍缺乏量化认识，原子尺度表征具有挑战性。 该团队近年在磷酸硅铝（ SAPO ，骨架原子： Al 、 Si 、 P 、 O 和 H ）分子筛精细结构与构效关系研究方面取得系列进展：通过 Al 物种精细结构解析，揭示了 SAPO 分子筛中普遍存在的水吸附构效关系，包括 BAS 吸附、 Al 配位、骨架可逆和不可逆水解、毛细凝聚等（ P. Natl. Acad. Sci. U. S. A. ， 2025 ）；利用空间分辨化学蚀刻结合多种表征技术，系统解析了 SAPO-34 分子筛中的多重耦合异质性及其对催化行为的调控机制（ J. Am. Chem. Soc. ， 2026 ）等。 在本工作中，团队基于前期发现的 SAPO 分子筛 29 Si NMR 对样品状态（例如是否带模板剂、 H 型样品是否吸水和暴露氧气等）十分敏感的特性，合成了 29 Si 同位素富集的 SAPO-34 样品，提升了 29 Si NMR 谱图的信噪比，明晰了其中的变化规律。团队围绕 29 Si-SAPO-34 样品，利用 17 O MQ （氧交换）、 29 Si{ 27 Al} S-RESPDOR （ Si 周围 Al 环境）、 29 Si{ 1 H} REDOR （ H-Si 测距）、 29 Si{ 1 H} J- HMQC （ HO-Si 化学成键信息）和激光加热高温 29 Si/ 1 H （质子动力学）等多种二维 MAS NMR 技术，结合中子衍射和理论计算，纠正了长期误用的 SAPO-34 的 29 Si NMR 归属，证实脱水后 -95.5 ppm 信号为 Si(4Al) 的桥式羟基结构（即孤立 BAS ），而非传统归属的 Si(3Al) 物种；识别并定量了所有 4 种晶体学 BAS 位点，明确了两个四元环交汇处为优势分布位点；揭示了质子随温度变化的三阶段动力学，定量了质子交换速率，确定了质子交换的起始临界温度约为 200℃ ；阐明了碱性分子与水分子诱导质子电离的差异化机制，明确了水簇尺寸的调控作用等。 相关研究成果以“ NMR-Solved Proton Fine Locations Reveal the Dynamic Flexibility of Brønsted Acid Sites in the SAPO-34 Molecular Sieve” 为题，发表在《美国化学会志》（ Journal of the American Chemical Society ）上。该工作的第一作者是我所 DNL12 博士后楼才溢特别研究助理。该成果得到国家自然科学基金、国际联合实验室、辽宁滨海实验室等项目资助。（文 / 图 楼才溢）",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-17T21:31:54.474Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "0f1fd11fabc6e57ecf334f45b8b6955bcc76687df72c553c01cf2af4664b155c"
+}

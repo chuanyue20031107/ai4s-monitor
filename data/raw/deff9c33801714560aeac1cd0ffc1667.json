@@ -7,10 +7,13 @@
   "sourceType": "自主实验室与平台",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:57:41.220Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "发布时间：2026-09-14 | 供稿部门：521组 | 【 放大 】 【 缩小 】 | 【 打印 】 【 关闭 】 近日，我所能源催化转化全国重点实验室纳米与界面催化研究中心表面科学与界面催化研究组（ 521 组）傅强研究员和慕仁涛研究员团队，联合武汉大学顾向奎教授，在氧化物表面分子吸附研究中取得新进展，揭示了氧化锰（ MnO x ）表面羟基与氧空位对一氧化碳（ CO ）吸附的协同增强机制。 金属氧化物表面羟基和氧空位是影响其催化性能的重要因素。该团队在前期研究中探讨了金属氧化物在多相催化反应中的界面作用机制（ J. Am. Chem. Soc. ， 2024 ； J. Am. Chem. Soc. ， 2025 ； Nat. Commun . ， 2025 ），通过构筑氧化物表界面羟基和氧空位活性位点提升了催化反应性能（ Angew. Chem. Int. Ed. ， 2025 ； Angew. Chem. Int. Ed. ， 2025 ），并借助高压扫描隧道显微镜原位表征了反应气氛下催化剂表面结构的动态演变（ Nat. Commun. ， 2023 ； J. Am. Chem. Soc. ， 2026 ）。 在本工作中，研究人员通过在铂（ Pt(111) ）衬底表面构建单层 MnO x ，并借助高分辨电子能量损失谱、高压扫描隧道显微镜和理论计算，定量研究了 MnO x 表面羟基和氧空位对 CO 分子吸附的调控作用。结果表明，单层 MnO x 表面上同时存在羟基与氧空位能够增强 CO 吸附，而 CO 在相同条件下无法吸附于仅含羟基或氧空位的 MnO x 表面；进一步通过调控羟基与氧空位的含量，可对 MnO x 表面的 CO 吸附量进行有效调控。理论计算表明，邻近羟基可增强氧空位处的电子密度，为 CO 与表面成键提供更多电子，进而增强 CO 吸附。该工作揭示了表面羟基与氧空位在增强 CO 吸附中的协同作用，有助于理解金属氧化物表面 CO 吸附与活化机制。 相关研究成果以“ Synergy Between Hydroxyl and Oxygen Vacancy Enhances CO Adsorption on Oxide Surface” 为题，发表在《德国应用化学》（ Angewandte Chemie International Edition ）上。该成果的第一作者为我所 521 组已毕业博士张燃焜。该研究得到国家重点研发计划、国家自然科学基金、能源催化转化全国重点实验室等项目的资助。（文 / 图 张燃焜）",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "deff9c33801714560aeac1cd0ffc1667"
+  "contentHash": "e145242cc1fced99f6635f0a9c7d92633f0a87747dcff1b3794f6f9d3751940c",
+  "legacyId": "deff9c33801714560aeac1cd0ffc1667",
+  "lastFetchAt": "2026-09-17T21:31:55.079Z",
+  "contentTruncated": false,
+  "contentError": ""
 }
