@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "id": "source-command:3b47e0e9-3ea7-4006-8d71-55bbc3819663",
+      "taskType": "失败来源重试",
+      "status": "failed",
+      "processed": 65,
+      "succeeded": 1,
+      "failed": 64,
+      "inserted": 3,
+      "enriched": 0,
+      "startedAt": "2026-09-17T01:27:10.197Z",
+      "finishedAt": "2026-09-17T01:28:30.001Z",
+      "detail": "抓取 65 个来源：成功 1，失败 64；新增 3，补正文 0；未进行 AI 分析。",
+      "failureReason": "部分来源失败；成功结果保留，可在来源详情查看诊断后重试。"
+    },
+    {
       "id": "source-command:fa0c5ca0-a786-4592-aab8-7f4d590fd184",
       "taskType": "来源健康检查",
       "status": "failed",
@@ -171,5 +185,5 @@
       "finishedAt": "2026-09-16T05:12:19.802Z"
     }
   ],
-  "updatedAt": "2026-09-17T01:24:56.738Z"
+  "updatedAt": "2026-09-17T01:28:30.330Z"
 }

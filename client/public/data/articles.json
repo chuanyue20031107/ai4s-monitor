@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "id": "0d9c638cb5039d0be90ec59cf78086ae",
+      "title": "重庆大学校医院医疗设备采购废标公告",
+      "sourceKey": "s08-07",
+      "sourceName": "中国政府采购网",
+      "sourceType": "政府采购平台",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-09-17T01:28:02.293Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.ccgp.gov.cn/cggg/zygg/qtgg/202609/t20260917_27342120.htm",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "e3ec8edcf5f552bdbbff58e95d7ad6ac",
+      "title": "长安大学倒置荧光显微镜采购项目公开招标公告",
+      "sourceKey": "s08-07",
+      "sourceName": "中国政府采购网",
+      "sourceType": "政府采购平台",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-09-17T01:28:01.735Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.ccgp.gov.cn/cggg/zygg/gkzb/202609/t20260917_27342122.htm",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "e7236231fa5048f5325549fcbbd519d6",
+      "title": "中国民用航空华北地区空中交通管理局民航华北空中交通管理局大兴空管中心2026年-2027年餐饮外...",
+      "sourceKey": "s08-07",
+      "sourceName": "中国政府采购网",
+      "sourceType": "政府采购平台",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-09-17T01:28:01.102Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.ccgp.gov.cn/cggg/zygg/zbgg/202609/t20260917_27342135.htm",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "fbc2635fe2305555efeea59743142d7c",
       "title": "Search All Groups",
       "sourceKey": "s11-01",
@@ -12148,5 +12202,5 @@
       "failureReason": ""
     }
   ],
-  "updatedAt": "2026-09-17T01:24:56.738Z"
+  "updatedAt": "2026-09-17T01:28:30.330Z"
 }

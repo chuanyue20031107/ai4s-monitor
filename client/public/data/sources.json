@@ -50,10 +50,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T08:37:06.340Z",
+      "lastCrawlAt": "2026-09-17T01:27:10.531Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
-      "lastCheckAt": "2026-09-17T01:22:50.028Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:27:10.531Z",
       "lastError": "network_error"
     },
     {
@@ -106,10 +106,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T08:37:06.868Z",
+      "lastCrawlAt": "2026-09-17T01:27:10.734Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "HTTP_403：认证、访问限制或限流；请使用授权入口或稍后重试。",
-      "lastCheckAt": "2026-09-17T01:22:50.355Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:27:10.734Z",
       "lastError": "network_error"
     },
     {
@@ -134,10 +134,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T08:37:07.048Z",
+      "lastCrawlAt": "2026-09-17T01:27:10.793Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "HTTP_403：认证、访问限制或限流；请使用授权入口或稍后重试。",
-      "lastCheckAt": "2026-09-17T01:22:50.460Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:27:10.793Z",
       "lastError": "network_error"
     },
     {
@@ -190,10 +190,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T08:37:07.407Z",
+      "lastCrawlAt": "2026-09-17T01:27:11.059Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
-      "lastCheckAt": "2026-09-17T01:22:50.685Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:27:11.059Z",
       "lastError": "network_error"
     },
     {
@@ -386,10 +386,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T07:47:21.718Z",
+      "lastCrawlAt": "2026-09-17T01:27:10.218Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "HTTP_403：认证、访问限制或限流；请使用授权入口或稍后重试。",
-      "lastCheckAt": "2026-09-17T01:22:51.667Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:27:10.218Z",
       "lastError": "network_error"
     },
     {
@@ -414,10 +414,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T07:47:21.720Z",
+      "lastCrawlAt": "2026-09-17T01:27:10.218Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
-      "lastCheckAt": "2026-09-17T01:22:51.707Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:27:10.218Z",
       "lastError": "network_error"
     },
     {
@@ -442,10 +442,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T07:47:21.721Z",
+      "lastCrawlAt": "2026-09-17T01:27:10.218Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
-      "lastCheckAt": "2026-09-17T01:22:51.827Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:27:10.218Z",
       "lastError": "network_error"
     },
     {
@@ -526,10 +526,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T07:47:21.840Z",
+      "lastCrawlAt": "2026-09-17T01:27:10.218Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
-      "lastCheckAt": "2026-09-17T01:22:52.458Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:27:10.218Z",
       "lastError": "network_error"
     },
     {
@@ -722,10 +722,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T11:46:18.277Z",
+      "lastCrawlAt": "2026-09-17T01:27:11.093Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
-      "lastCheckAt": "2026-09-17T01:22:54.648Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:27:11.093Z",
       "lastError": "network_error"
     },
     {
@@ -778,10 +778,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T11:46:18.706Z",
+      "lastCrawlAt": "2026-09-17T01:27:11.099Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
-      "lastCheckAt": "2026-09-17T01:22:55.381Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:27:11.099Z",
       "lastError": "network_error"
     },
     {
@@ -834,10 +834,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T11:46:19.832Z",
+      "lastCrawlAt": "2026-09-17T01:27:11.342Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
-      "lastCheckAt": "2026-09-17T01:22:55.895Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:27:11.342Z",
       "lastError": "network_error"
     },
     {
@@ -890,10 +890,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T11:46:20.229Z",
+      "lastCrawlAt": "2026-09-17T01:27:11.362Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
-      "lastCheckAt": "2026-09-17T01:22:56.278Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:27:11.362Z",
       "lastError": "network_error"
     },
     {
@@ -918,10 +918,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T11:46:20.460Z",
+      "lastCrawlAt": "2026-09-17T01:27:12.646Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
-      "lastCheckAt": "2026-09-17T01:22:56.510Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:27:12.646Z",
       "lastError": "network_error"
     },
     {
@@ -1002,10 +1002,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T11:46:20.706Z",
+      "lastCrawlAt": "2026-09-17T01:27:12.811Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
-      "lastCheckAt": "2026-09-17T01:22:56.791Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:27:12.811Z",
       "lastError": "network_error"
     },
     {
@@ -1058,10 +1058,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T11:46:21.093Z",
+      "lastCrawlAt": "2026-09-17T01:27:12.827Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
-      "lastCheckAt": "2026-09-17T01:22:56.959Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:27:12.827Z",
       "lastError": "network_error"
     },
     {
@@ -1198,10 +1198,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T07:47:27.450Z",
+      "lastCrawlAt": "2026-09-17T01:27:14.459Z",
       "lastSuccessAt": "2026-09-16T07:47:28.250Z",
-      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
-      "lastCheckAt": "2026-09-17T01:22:57.732Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:27:14.459Z",
       "lastError": "network_error"
     },
     {
@@ -1226,10 +1226,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T07:47:27.488Z",
+      "lastCrawlAt": "2026-09-17T01:27:12.366Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
-      "lastCheckAt": "2026-09-17T01:22:57.792Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:27:12.366Z",
       "lastError": "network_error"
     },
     {
@@ -1254,10 +1254,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T07:47:27.914Z",
+      "lastCrawlAt": "2026-09-17T01:27:12.366Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
-      "lastCheckAt": "2026-09-17T01:22:57.986Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:27:12.366Z",
       "lastError": "network_error"
     },
     {
@@ -1394,10 +1394,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T07:47:28.868Z",
+      "lastCrawlAt": "2026-09-17T01:27:12.366Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
-      "lastCheckAt": "2026-09-17T01:22:59.295Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:27:12.366Z",
       "lastError": "network_error"
     },
     {
@@ -1506,10 +1506,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "timeout",
-      "lastCrawlAt": "2026-09-16T11:46:22.867Z",
+      "lastCrawlAt": "2026-09-17T01:27:13.185Z",
       "lastSuccessAt": "2026-09-16T11:46:35.652Z",
-      "lastDiagnostic": "连接超时；可稍后重试或检查来源可用性。",
-      "lastCheckAt": "2026-09-17T01:23:00.751Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:27:13.185Z",
       "lastError": "timeout"
     },
     {
@@ -1898,10 +1898,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T11:46:35.578Z",
+      "lastCrawlAt": "2026-09-17T01:27:13.399Z",
       "lastSuccessAt": "2026-09-16T06:05:27.663Z",
-      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
-      "lastCheckAt": "2026-09-17T01:23:16.023Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:27:13.399Z",
       "lastError": "network_error"
     },
     {
@@ -2094,10 +2094,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T07:47:37.849Z",
+      "lastCrawlAt": "2026-09-17T01:27:12.366Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
-      "lastCheckAt": "2026-09-17T01:23:22.071Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:27:12.366Z",
       "lastError": "network_error"
     },
     {
@@ -2206,10 +2206,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T11:46:42.726Z",
+      "lastCrawlAt": "2026-09-17T01:27:13.441Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
-      "lastCheckAt": "2026-09-17T01:23:24.309Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:27:13.441Z",
       "lastError": "network_error"
     },
     {
@@ -2346,10 +2346,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T17:06:57.878Z",
+      "lastCrawlAt": "2026-09-17T01:27:13.603Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
-      "lastCheckAt": "2026-09-17T01:23:28.790Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:27:13.603Z",
       "lastError": "network_error"
     },
     {
@@ -2402,10 +2402,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T17:07:04.192Z",
+      "lastCrawlAt": "2026-09-17T01:27:34.033Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
-      "lastCheckAt": "2026-09-17T01:23:29.582Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:27:34.033Z",
       "lastError": "network_error"
     },
     {
@@ -2458,10 +2458,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T17:07:04.546Z",
+      "lastCrawlAt": "2026-09-17T01:27:35.399Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
-      "lastCheckAt": "2026-09-17T01:23:30.378Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:27:35.399Z",
       "lastError": "network_error"
     },
     {
@@ -2598,10 +2598,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T17:07:10.098Z",
+      "lastCrawlAt": "2026-09-17T01:27:36.122Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
-      "lastCheckAt": "2026-09-17T01:23:33.266Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:27:36.122Z",
       "lastError": "network_error"
     },
     {
@@ -2654,10 +2654,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T17:07:10.747Z",
+      "lastCrawlAt": "2026-09-17T01:27:37.051Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
-      "lastCheckAt": "2026-09-17T01:23:33.869Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:27:37.051Z",
       "lastError": "network_error"
     },
     {
@@ -2682,10 +2682,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T07:47:37.872Z",
+      "lastCrawlAt": "2026-09-17T01:27:33.886Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
-      "lastCheckAt": "2026-09-17T01:23:35.207Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:27:33.886Z",
       "lastError": "network_error"
     },
     {
@@ -2738,10 +2738,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T07:47:39.714Z",
+      "lastCrawlAt": "2026-09-17T01:27:33.886Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
-      "lastCheckAt": "2026-09-17T01:23:35.469Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:27:33.886Z",
       "lastError": "network_error"
     },
     {
@@ -2850,10 +2850,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T17:07:10.849Z",
+      "lastCrawlAt": "2026-09-17T01:27:37.251Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
-      "lastCheckAt": "2026-09-17T01:23:40.061Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:27:37.251Z",
       "lastError": "network_error"
     },
     {
@@ -2878,10 +2878,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T17:07:10.971Z",
+      "lastCrawlAt": "2026-09-17T01:27:37.918Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
-      "lastCheckAt": "2026-09-17T01:23:40.376Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:27:37.918Z",
       "lastError": "network_error"
     },
     {
@@ -2934,10 +2934,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T17:07:14.182Z",
+      "lastCrawlAt": "2026-09-17T01:27:39.156Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
-      "lastCheckAt": "2026-09-17T01:23:41.498Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:27:39.156Z",
       "lastError": "network_error"
     },
     {
@@ -3046,10 +3046,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T17:07:18.715Z",
+      "lastCrawlAt": "2026-09-17T01:27:41.367Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
-      "lastCheckAt": "2026-09-17T01:23:44.979Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:27:41.367Z",
       "lastError": "network_error"
     },
     {
@@ -3074,10 +3074,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T08:36:45.703Z",
+      "lastCrawlAt": "2026-09-17T01:27:33.886Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
-      "lastCheckAt": "2026-09-17T01:23:45.971Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:27:33.886Z",
       "lastError": "network_error"
     },
     {
@@ -3270,10 +3270,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T17:07:21.890Z",
+      "lastCrawlAt": "2026-09-17T01:27:33.886Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
-      "lastCheckAt": "2026-09-17T01:23:54.079Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:27:33.886Z",
       "lastError": "network_error"
     },
     {
@@ -3298,10 +3298,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T17:07:22.933Z",
+      "lastCrawlAt": "2026-09-17T01:27:48.819Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
-      "lastCheckAt": "2026-09-17T01:23:55.270Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:27:48.819Z",
       "lastError": "network_error"
     },
     {
@@ -3382,10 +3382,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T17:07:24.451Z",
+      "lastCrawlAt": "2026-09-17T01:27:49.687Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "HTTP_403：认证、访问限制或限流；请使用授权入口或稍后重试。",
-      "lastCheckAt": "2026-09-17T01:23:58.160Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:27:49.687Z",
       "lastError": "network_error"
     },
     {
@@ -3410,10 +3410,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T17:07:26.074Z",
+      "lastCrawlAt": "2026-09-17T01:27:51.719Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
-      "lastCheckAt": "2026-09-17T01:23:59.031Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:27:51.719Z",
       "lastError": "network_error"
     },
     {
@@ -3438,10 +3438,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T17:07:26.282Z",
+      "lastCrawlAt": "2026-09-17T01:27:52.295Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "HTTP_403：认证、访问限制或限流；请使用授权入口或稍后重试。",
-      "lastCheckAt": "2026-09-17T01:23:59.372Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:27:52.295Z",
       "lastError": "network_error"
     },
     {
@@ -3634,10 +3634,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T21:24:42.794Z",
+      "lastCrawlAt": "2026-09-17T01:27:52.421Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
-      "lastCheckAt": "2026-09-17T01:24:01.609Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:27:52.421Z",
       "lastError": "network_error"
     },
     {
@@ -3662,10 +3662,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T21:24:42.794Z",
+      "lastCrawlAt": "2026-09-17T01:27:52.517Z",
       "lastSuccessAt": "2026-09-16T06:57:51.541Z",
-      "lastDiagnostic": "HTTP_403：认证、访问限制或限流；请使用授权入口或稍后重试。",
-      "lastCheckAt": "2026-09-17T01:24:03.711Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:27:52.517Z",
       "lastError": "network_error"
     },
     {
@@ -3718,10 +3718,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T21:24:44.493Z",
+      "lastCrawlAt": "2026-09-17T01:27:53.194Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
-      "lastCheckAt": "2026-09-17T01:24:06.576Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:27:53.194Z",
       "lastError": "network_error"
     },
     {
@@ -3773,12 +3773,12 @@
       "enabled": true,
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T21:24:48.438Z",
-      "lastSuccessAt": "2026-09-16T21:24:57.357Z",
-      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
-      "lastCheckAt": "2026-09-17T01:24:10.699Z",
-      "lastError": "network_error"
+      "crawlStatus": "ok",
+      "lastCrawlAt": "2026-09-17T01:27:54.765Z",
+      "lastSuccessAt": "2026-09-17T01:28:02.845Z",
+      "lastDiagnostic": "发现 12 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-17T01:27:54.765Z",
+      "lastError": ""
     },
     {
       "id": "s08-08",
@@ -3802,10 +3802,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T21:24:48.868Z",
+      "lastCrawlAt": "2026-09-17T01:27:48.819Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
-      "lastCheckAt": "2026-09-17T01:24:11.771Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:27:48.819Z",
       "lastError": "network_error"
     },
     {
@@ -3829,12 +3829,12 @@
       "enabled": true,
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
-      "crawlStatus": "invalid_url",
-      "lastCrawlAt": "2026-09-16T21:24:52.061Z",
+      "crawlStatus": "network_error",
+      "lastCrawlAt": "2026-09-17T01:27:48.819Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "地址无效或指向非公网地址；请检查已登记的公开链接。",
-      "lastCheckAt": "2026-09-17T01:24:13.752Z",
-      "lastError": "invalid_url"
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:27:48.819Z",
+      "lastError": "network_error"
     },
     {
       "id": "s08-10",
@@ -3914,10 +3914,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T08:36:51.673Z",
+      "lastCrawlAt": "2026-09-17T01:27:48.819Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
-      "lastCheckAt": "2026-09-17T01:24:22.624Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:27:48.819Z",
       "lastError": "network_error"
     },
     {
@@ -3942,10 +3942,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T21:24:52.061Z",
+      "lastCrawlAt": "2026-09-17T01:27:48.819Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "HTTP_403：认证、访问限制或限流；请使用授权入口或稍后重试。",
-      "lastCheckAt": "2026-09-17T01:24:23.015Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:27:48.819Z",
       "lastError": "network_error"
     },
     {
@@ -3998,10 +3998,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T21:24:55.393Z",
+      "lastCrawlAt": "2026-09-17T01:28:15.813Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "HTTP_403：认证、访问限制或限流；请使用授权入口或稍后重试。",
-      "lastCheckAt": "2026-09-17T01:24:25.333Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:28:15.813Z",
       "lastError": "network_error"
     },
     {
@@ -4026,10 +4026,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T21:24:55.591Z",
+      "lastCrawlAt": "2026-09-17T01:28:15.825Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
-      "lastCheckAt": "2026-09-17T01:24:26.715Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:28:15.825Z",
       "lastError": "network_error"
     },
     {
@@ -4082,10 +4082,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T21:24:58.021Z",
+      "lastCrawlAt": "2026-09-17T01:28:17.851Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
-      "lastCheckAt": "2026-09-17T01:24:27.286Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:28:17.851Z",
       "lastError": "network_error"
     },
     {
@@ -4110,10 +4110,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T21:25:01.109Z",
+      "lastCrawlAt": "2026-09-17T01:28:18.019Z",
       "lastSuccessAt": "2026-09-16T07:35:31.203Z",
-      "lastDiagnostic": "HTTP_403：认证、访问限制或限流；请使用授权入口或稍后重试。",
-      "lastCheckAt": "2026-09-17T01:24:28.419Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:28:18.019Z",
       "lastError": "network_error"
     },
     {
@@ -4138,10 +4138,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T21:25:02.735Z",
+      "lastCrawlAt": "2026-09-17T01:28:20.056Z",
       "lastSuccessAt": "2026-09-16T21:25:04.698Z",
-      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
-      "lastCheckAt": "2026-09-17T01:24:29.369Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:28:20.056Z",
       "lastError": "network_error"
     },
     {
@@ -4222,10 +4222,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T21:25:07.719Z",
+      "lastCrawlAt": "2026-09-17T01:28:20.806Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
-      "lastCheckAt": "2026-09-17T01:24:32.564Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:28:20.806Z",
       "lastError": "network_error"
     },
     {
@@ -4250,10 +4250,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T21:25:07.723Z",
+      "lastCrawlAt": "2026-09-17T01:28:20.820Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
-      "lastCheckAt": "2026-09-17T01:24:32.991Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:28:20.820Z",
       "lastError": "network_error"
     },
     {
@@ -4474,10 +4474,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T08:36:58.107Z",
+      "lastCrawlAt": "2026-09-17T01:28:14.361Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
-      "lastCheckAt": "2026-09-17T01:24:40.815Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:28:14.361Z",
       "lastError": "network_error"
     },
     {
@@ -4558,10 +4558,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T21:25:13.922Z",
+      "lastCrawlAt": "2026-09-17T01:28:21.065Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
-      "lastCheckAt": "2026-09-17T01:24:43.833Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:28:21.065Z",
       "lastError": "network_error"
     },
     {
@@ -4586,10 +4586,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T21:25:14.881Z",
+      "lastCrawlAt": "2026-09-17T01:28:14.361Z",
       "lastSuccessAt": "2026-09-16T07:35:34.193Z",
-      "lastDiagnostic": "HTTP_403：认证、访问限制或限流；请使用授权入口或稍后重试。",
-      "lastCheckAt": "2026-09-17T01:24:44.166Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:28:14.361Z",
       "lastError": "network_error"
     },
     {
@@ -4698,10 +4698,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T21:25:17.745Z",
+      "lastCrawlAt": "2026-09-17T01:28:14.361Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
-      "lastCheckAt": "2026-09-17T01:24:47.143Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:28:14.361Z",
       "lastError": "network_error"
     },
     {
@@ -4726,10 +4726,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T21:25:18.297Z",
+      "lastCrawlAt": "2026-09-17T01:28:14.361Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
-      "lastCheckAt": "2026-09-17T01:24:47.200Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:28:14.361Z",
       "lastError": "network_error"
     },
     {
@@ -4754,10 +4754,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T21:25:18.870Z",
+      "lastCrawlAt": "2026-09-17T01:28:28.463Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
-      "lastCheckAt": "2026-09-17T01:24:47.387Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:28:28.463Z",
       "lastError": "network_error"
     },
     {
@@ -4782,10 +4782,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T21:25:19.316Z",
+      "lastCrawlAt": "2026-09-17T01:28:28.463Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
-      "lastCheckAt": "2026-09-17T01:24:47.449Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:28:28.463Z",
       "lastError": "network_error"
     },
     {
@@ -4838,10 +4838,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T21:25:20.280Z",
+      "lastCrawlAt": "2026-09-17T01:28:29.178Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "HTTP_403：认证、访问限制或限流；请使用授权入口或稍后重试。",
-      "lastCheckAt": "2026-09-17T01:24:47.827Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:28:29.178Z",
       "lastError": "network_error"
     },
     {
@@ -4978,10 +4978,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T08:37:02.470Z",
+      "lastCrawlAt": "2026-09-17T01:28:28.462Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "HTTP_403：认证、访问限制或限流；请使用授权入口或稍后重试。",
-      "lastCheckAt": "2026-09-17T01:24:48.800Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:28:28.462Z",
       "lastError": "network_error"
     },
     {
@@ -5034,10 +5034,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-16T08:37:02.845Z",
+      "lastCrawlAt": "2026-09-17T01:28:28.463Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
-      "lastCheckAt": "2026-09-17T01:24:48.864Z",
+      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
+      "lastCheckAt": "2026-09-17T01:28:28.463Z",
       "lastError": "network_error"
     },
     {
@@ -5153,5 +5153,5 @@
       "lastError": ""
     }
   ],
-  "updatedAt": "2026-09-17T01:24:56.680Z"
+  "updatedAt": "2026-09-17T01:28:30.001Z"
 }

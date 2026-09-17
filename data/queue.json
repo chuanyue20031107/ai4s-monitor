@@ -1,10 +1,43 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-17T01:24:56.738Z",
-  "pendingCount": 643,
-  "readyCount": 179,
+  "updatedAt": "2026-09-17T01:28:30.330Z",
+  "pendingCount": 646,
+  "readyCount": 182,
   "awaitingContentCount": 464,
   "items": [
+    {
+      "id": "0d9c638cb5039d0be90ec59cf78086ae",
+      "title": "重庆大学校医院医疗设备采购废标公告",
+      "url": "https://www.ccgp.gov.cn/cggg/zygg/qtgg/202609/t20260917_27342120.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-09-17T01:28:02.293Z",
+      "contentStatus": "ready",
+      "contentHash": "a20d72082cbc1f21438579e63597e38b35b66997e8f0d62b22968be7006b8ea2",
+      "rawPath": "data/raw/0d9c638cb5039d0be90ec59cf78086ae.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "e3ec8edcf5f552bdbbff58e95d7ad6ac",
+      "title": "长安大学倒置荧光显微镜采购项目公开招标公告",
+      "url": "https://www.ccgp.gov.cn/cggg/zygg/gkzb/202609/t20260917_27342122.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-09-17T01:28:01.735Z",
+      "contentStatus": "ready",
+      "contentHash": "d6f8ba6710187576715c52c7aa2b09f6aff68d9b670cf4b027eb245a200113d8",
+      "rawPath": "data/raw/e3ec8edcf5f552bdbbff58e95d7ad6ac.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "e7236231fa5048f5325549fcbbd519d6",
+      "title": "中国民用航空华北地区空中交通管理局民航华北空中交通管理局大兴空管中心2026年-2027年餐饮外...",
+      "url": "https://www.ccgp.gov.cn/cggg/zygg/zbgg/202609/t20260917_27342135.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-09-17T01:28:01.102Z",
+      "contentStatus": "ready",
+      "contentHash": "141b32d5d27613dc1f8002c14d7bc1dc7bdd7bb20f5a16207257cf5afd69d176",
+      "rawPath": "data/raw/e7236231fa5048f5325549fcbbd519d6.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "fbc2635fe2305555efeea59743142d7c",
       "title": "Search All Groups",
