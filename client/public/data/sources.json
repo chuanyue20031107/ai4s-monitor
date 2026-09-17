@@ -25,7 +25,7 @@
       "lastCrawlAt": "2026-09-16T08:37:05.662Z",
       "lastSuccessAt": "2026-09-16T08:37:06.868Z",
       "lastDiagnostic": "入口可访问但未发现可解析条目；可能需要 RSS/专用解析器，不代表网站没有更新。",
-      "lastCheckAt": "2026-09-16T17:03:17.465Z",
+      "lastCheckAt": "2026-09-17T01:22:50.026Z",
       "lastError": ""
     },
     {
@@ -52,8 +52,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T08:37:06.340Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T08:37:06.340Z",
+      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
+      "lastCheckAt": "2026-09-17T01:22:50.028Z",
       "lastError": "network_error"
     },
     {
@@ -80,8 +80,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T08:37:06.811Z",
       "lastSuccessAt": "2026-09-16T08:37:07.982Z",
-      "lastDiagnostic": "发现 8 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T08:37:06.811Z",
+      "lastDiagnostic": "检查可解析 8 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:22:50.030Z",
       "lastError": ""
     },
     {
@@ -108,8 +108,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T08:37:06.868Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T08:37:06.868Z",
+      "lastDiagnostic": "HTTP_403：认证、访问限制或限流；请使用授权入口或稍后重试。",
+      "lastCheckAt": "2026-09-17T01:22:50.355Z",
       "lastError": "network_error"
     },
     {
@@ -136,8 +136,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T08:37:07.048Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T08:37:07.048Z",
+      "lastDiagnostic": "HTTP_403：认证、访问限制或限流；请使用授权入口或稍后重试。",
+      "lastCheckAt": "2026-09-17T01:22:50.460Z",
       "lastError": "network_error"
     },
     {
@@ -164,8 +164,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T08:37:07.304Z",
       "lastSuccessAt": "2026-09-16T08:37:08.708Z",
-      "lastDiagnostic": "发现 12 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T08:37:07.304Z",
+      "lastDiagnostic": "检查可解析 12 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:22:50.475Z",
       "lastError": ""
     },
     {
@@ -192,8 +192,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T08:37:07.407Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T08:37:07.407Z",
+      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
+      "lastCheckAt": "2026-09-17T01:22:50.685Z",
       "lastError": "network_error"
     },
     {
@@ -220,8 +220,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T08:37:07.433Z",
       "lastSuccessAt": "2026-09-16T08:37:07.908Z",
-      "lastDiagnostic": "发现 12 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T08:37:07.433Z",
+      "lastDiagnostic": "检查可解析 12 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:22:50.701Z",
       "lastError": ""
     },
     {
@@ -248,8 +248,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T11:46:18.272Z",
       "lastSuccessAt": "2026-09-16T11:46:20.460Z",
-      "lastDiagnostic": "发现 12 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T11:46:18.272Z",
+      "lastDiagnostic": "检查可解析 12 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:22:50.865Z",
       "lastError": ""
     },
     {
@@ -276,8 +276,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T11:46:18.276Z",
       "lastSuccessAt": "2026-09-16T11:46:20.229Z",
-      "lastDiagnostic": "发现 4 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T11:46:18.276Z",
+      "lastDiagnostic": "检查可解析 4 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:22:50.964Z",
       "lastError": ""
     },
     {
@@ -304,8 +304,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T07:35:36.188Z",
       "lastSuccessAt": "2026-09-16T07:35:36.536Z",
-      "lastDiagnostic": "解析 9 条候选内容，新增 9 条",
-      "lastCheckAt": "2026-09-16T07:35:36.188Z",
+      "lastDiagnostic": "检查可解析 8 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:22:50.996Z",
       "lastError": ""
     },
     {
@@ -332,8 +332,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T07:35:36.218Z",
       "lastSuccessAt": "2026-09-16T07:35:36.375Z",
-      "lastDiagnostic": "解析 13 条候选内容，新增 13 条",
-      "lastCheckAt": "2026-09-16T07:35:36.218Z",
+      "lastDiagnostic": "检查可解析 12 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:22:51.291Z",
       "lastError": ""
     },
     {
@@ -357,11 +357,11 @@
       "enabled": true,
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
-      "crawlStatus": "ok",
+      "crawlStatus": "no_content",
       "lastCrawlAt": "2026-09-16T07:35:36.375Z",
       "lastSuccessAt": "2026-09-16T07:35:38.656Z",
-      "lastDiagnostic": "解析 1 条候选内容，新增 1 条",
-      "lastCheckAt": "2026-09-16T07:35:36.375Z",
+      "lastDiagnostic": "入口可访问但未发现可解析条目；可能需要 RSS/专用解析器，不代表网站没有更新。",
+      "lastCheckAt": "2026-09-17T01:22:51.471Z",
       "lastError": ""
     },
     {
@@ -388,8 +388,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T07:47:21.718Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T07:47:21.718Z",
+      "lastDiagnostic": "HTTP_403：认证、访问限制或限流；请使用授权入口或稍后重试。",
+      "lastCheckAt": "2026-09-17T01:22:51.667Z",
       "lastError": "network_error"
     },
     {
@@ -416,8 +416,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T07:47:21.720Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T07:47:21.720Z",
+      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
+      "lastCheckAt": "2026-09-17T01:22:51.707Z",
       "lastError": "network_error"
     },
     {
@@ -444,8 +444,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T07:47:21.721Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T07:47:21.721Z",
+      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
+      "lastCheckAt": "2026-09-17T01:22:51.827Z",
       "lastError": "network_error"
     },
     {
@@ -472,8 +472,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T07:47:21.721Z",
       "lastSuccessAt": "2026-09-16T07:47:24.691Z",
-      "lastDiagnostic": "发现 3 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T07:47:21.721Z",
+      "lastDiagnostic": "检查可解析 3 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:22:52.226Z",
       "lastError": ""
     },
     {
@@ -500,8 +500,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T07:47:21.814Z",
       "lastSuccessAt": "2026-09-16T07:47:25.280Z",
-      "lastDiagnostic": "发现 12 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T07:47:21.814Z",
+      "lastDiagnostic": "检查可解析 12 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:22:52.279Z",
       "lastError": ""
     },
     {
@@ -528,8 +528,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T07:47:21.840Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T07:47:21.840Z",
+      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
+      "lastCheckAt": "2026-09-17T01:22:52.458Z",
       "lastError": "network_error"
     },
     {
@@ -556,8 +556,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T07:47:22.059Z",
       "lastSuccessAt": "2026-09-16T07:47:24.133Z",
-      "lastDiagnostic": "发现 6 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T07:47:22.059Z",
+      "lastDiagnostic": "检查可解析 6 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:22:52.559Z",
       "lastError": ""
     },
     {
@@ -584,8 +584,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T07:47:22.166Z",
       "lastSuccessAt": "2026-09-16T07:47:22.963Z",
-      "lastDiagnostic": "发现 2 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T07:47:22.166Z",
+      "lastDiagnostic": "检查可解析 2 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:22:52.717Z",
       "lastError": ""
     },
     {
@@ -612,8 +612,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T07:47:22.963Z",
       "lastSuccessAt": "2026-09-16T07:47:27.488Z",
-      "lastDiagnostic": "发现 9 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T07:47:22.963Z",
+      "lastDiagnostic": "检查可解析 9 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:22:53.059Z",
       "lastError": ""
     },
     {
@@ -640,8 +640,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T07:47:24.133Z",
       "lastSuccessAt": "2026-09-16T07:47:26.708Z",
-      "lastDiagnostic": "发现 12 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T07:47:24.133Z",
+      "lastDiagnostic": "检查可解析 12 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:22:53.117Z",
       "lastError": ""
     },
     {
@@ -668,8 +668,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T07:47:24.691Z",
       "lastSuccessAt": "2026-09-16T07:47:28.868Z",
-      "lastDiagnostic": "发现 12 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T07:47:24.691Z",
+      "lastDiagnostic": "检查可解析 12 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:22:53.879Z",
       "lastError": ""
     },
     {
@@ -696,8 +696,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T07:47:25.280Z",
       "lastSuccessAt": "2026-09-16T07:47:27.913Z",
-      "lastDiagnostic": "发现 6 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T07:47:25.280Z",
+      "lastDiagnostic": "检查可解析 6 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:22:54.177Z",
       "lastError": ""
     },
     {
@@ -724,8 +724,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T11:46:18.277Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T11:46:18.277Z",
+      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
+      "lastCheckAt": "2026-09-17T01:22:54.648Z",
       "lastError": "network_error"
     },
     {
@@ -752,8 +752,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T11:46:18.277Z",
       "lastSuccessAt": "2026-09-16T11:46:19.832Z",
-      "lastDiagnostic": "发现 12 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T11:46:18.277Z",
+      "lastDiagnostic": "检查可解析 12 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:22:54.828Z",
       "lastError": ""
     },
     {
@@ -780,8 +780,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T11:46:18.706Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T11:46:18.706Z",
+      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
+      "lastCheckAt": "2026-09-17T01:22:55.381Z",
       "lastError": "network_error"
     },
     {
@@ -808,8 +808,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T11:46:19.595Z",
       "lastSuccessAt": "2026-09-16T11:46:22.739Z",
-      "lastDiagnostic": "发现 12 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T11:46:19.595Z",
+      "lastDiagnostic": "检查可解析 12 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:22:55.398Z",
       "lastError": ""
     },
     {
@@ -836,8 +836,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T11:46:19.832Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T11:46:19.832Z",
+      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
+      "lastCheckAt": "2026-09-17T01:22:55.895Z",
       "lastError": "network_error"
     },
     {
@@ -864,8 +864,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T11:46:20.202Z",
       "lastSuccessAt": "2026-09-16T11:46:20.656Z",
-      "lastDiagnostic": "发现 2 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T11:46:20.202Z",
+      "lastDiagnostic": "检查可解析 2 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:22:56.275Z",
       "lastError": ""
     },
     {
@@ -892,8 +892,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T11:46:20.229Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T11:46:20.229Z",
+      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
+      "lastCheckAt": "2026-09-17T01:22:56.278Z",
       "lastError": "network_error"
     },
     {
@@ -920,8 +920,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T11:46:20.460Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T11:46:20.460Z",
+      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
+      "lastCheckAt": "2026-09-17T01:22:56.510Z",
       "lastError": "network_error"
     },
     {
@@ -948,8 +948,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T11:46:20.518Z",
       "lastSuccessAt": "2026-09-16T11:46:20.926Z",
-      "lastDiagnostic": "发现 11 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T11:46:20.518Z",
+      "lastDiagnostic": "检查可解析 11 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:22:56.572Z",
       "lastError": ""
     },
     {
@@ -976,8 +976,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T11:46:20.656Z",
       "lastSuccessAt": "2026-09-16T11:46:21.093Z",
-      "lastDiagnostic": "发现 1 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T11:46:20.656Z",
+      "lastDiagnostic": "检查可解析 1 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:22:56.723Z",
       "lastError": ""
     },
     {
@@ -1004,8 +1004,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T11:46:20.706Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T11:46:20.706Z",
+      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
+      "lastCheckAt": "2026-09-17T01:22:56.791Z",
       "lastError": "network_error"
     },
     {
@@ -1032,8 +1032,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T11:46:20.926Z",
       "lastSuccessAt": "2026-09-16T11:46:21.413Z",
-      "lastDiagnostic": "发现 3 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T11:46:20.926Z",
+      "lastDiagnostic": "检查可解析 3 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:22:56.794Z",
       "lastError": ""
     },
     {
@@ -1060,8 +1060,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T11:46:21.093Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T11:46:21.093Z",
+      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
+      "lastCheckAt": "2026-09-17T01:22:56.959Z",
       "lastError": "network_error"
     },
     {
@@ -1088,8 +1088,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T11:46:21.157Z",
       "lastSuccessAt": "2026-09-16T11:46:24.593Z",
-      "lastDiagnostic": "发现 10 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T11:46:21.157Z",
+      "lastDiagnostic": "检查可解析 10 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:22:57.048Z",
       "lastError": ""
     },
     {
@@ -1116,8 +1116,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T11:46:21.413Z",
       "lastSuccessAt": "2026-09-16T11:46:22.069Z",
-      "lastDiagnostic": "发现 12 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T11:46:21.413Z",
+      "lastDiagnostic": "检查可解析 12 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:22:57.090Z",
       "lastError": ""
     },
     {
@@ -1144,8 +1144,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T11:46:22.069Z",
       "lastSuccessAt": "2026-09-16T11:46:22.867Z",
-      "lastDiagnostic": "发现 4 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T11:46:22.069Z",
+      "lastDiagnostic": "检查可解析 4 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:22:57.430Z",
       "lastError": ""
     },
     {
@@ -1172,8 +1172,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T07:47:26.708Z",
       "lastSuccessAt": "2026-09-16T07:47:27.450Z",
-      "lastDiagnostic": "发现 12 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T07:47:26.708Z",
+      "lastDiagnostic": "检查可解析 12 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:22:57.509Z",
       "lastError": ""
     },
     {
@@ -1197,12 +1197,12 @@
       "enabled": true,
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
-      "crawlStatus": "no_content",
+      "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T07:47:27.450Z",
       "lastSuccessAt": "2026-09-16T07:47:28.250Z",
-      "lastDiagnostic": "发现 0 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T07:47:27.450Z",
-      "lastError": ""
+      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
+      "lastCheckAt": "2026-09-17T01:22:57.732Z",
+      "lastError": "network_error"
     },
     {
       "id": "s02-19",
@@ -1228,8 +1228,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T07:47:27.488Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T07:47:27.488Z",
+      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
+      "lastCheckAt": "2026-09-17T01:22:57.792Z",
       "lastError": "network_error"
     },
     {
@@ -1256,8 +1256,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T07:47:27.914Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T07:47:27.914Z",
+      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
+      "lastCheckAt": "2026-09-17T01:22:57.986Z",
       "lastError": "network_error"
     },
     {
@@ -1284,8 +1284,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T07:47:28.046Z",
       "lastSuccessAt": "2026-09-16T07:47:28.333Z",
-      "lastDiagnostic": "发现 12 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T07:47:28.046Z",
+      "lastDiagnostic": "检查可解析 12 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:22:58.279Z",
       "lastError": ""
     },
     {
@@ -1312,8 +1312,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T07:47:28.146Z",
       "lastSuccessAt": "2026-09-16T07:47:31.957Z",
-      "lastDiagnostic": "发现 1 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T07:47:28.146Z",
+      "lastDiagnostic": "检查可解析 1 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:22:58.556Z",
       "lastError": ""
     },
     {
@@ -1340,8 +1340,8 @@
       "crawlStatus": "no_content",
       "lastCrawlAt": "2026-09-16T07:47:28.250Z",
       "lastSuccessAt": "2026-09-16T07:47:29.881Z",
-      "lastDiagnostic": "发现 0 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T07:47:28.250Z",
+      "lastDiagnostic": "入口可访问但未发现可解析条目；可能需要 RSS/专用解析器，不代表网站没有更新。",
+      "lastCheckAt": "2026-09-17T01:22:59.040Z",
       "lastError": ""
     },
     {
@@ -1368,8 +1368,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T07:47:28.333Z",
       "lastSuccessAt": "2026-09-16T07:47:29.930Z",
-      "lastDiagnostic": "发现 2 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T07:47:28.333Z",
+      "lastDiagnostic": "检查可解析 2 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:22:59.145Z",
       "lastError": ""
     },
     {
@@ -1396,8 +1396,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T07:47:28.868Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T07:47:28.868Z",
+      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
+      "lastCheckAt": "2026-09-17T01:22:59.295Z",
       "lastError": "network_error"
     },
     {
@@ -1424,8 +1424,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T11:46:22.371Z",
       "lastSuccessAt": "2026-09-16T11:46:22.742Z",
-      "lastDiagnostic": "发现 8 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T11:46:22.371Z",
+      "lastDiagnostic": "检查可解析 8 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:22:59.559Z",
       "lastError": ""
     },
     {
@@ -1452,8 +1452,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T11:46:22.739Z",
       "lastSuccessAt": "2026-09-16T11:46:31.480Z",
-      "lastDiagnostic": "发现 2 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T11:46:22.739Z",
+      "lastDiagnostic": "检查可解析 2 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:22:59.642Z",
       "lastError": ""
     },
     {
@@ -1480,8 +1480,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T11:46:22.742Z",
       "lastSuccessAt": "2026-09-16T11:46:28.763Z",
-      "lastDiagnostic": "发现 3 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T11:46:22.742Z",
+      "lastDiagnostic": "检查可解析 3 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:23:00.478Z",
       "lastError": ""
     },
     {
@@ -1505,12 +1505,12 @@
       "enabled": true,
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
-      "crawlStatus": "ok",
+      "crawlStatus": "timeout",
       "lastCrawlAt": "2026-09-16T11:46:22.867Z",
       "lastSuccessAt": "2026-09-16T11:46:35.652Z",
-      "lastDiagnostic": "发现 10 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T11:46:22.867Z",
-      "lastError": ""
+      "lastDiagnostic": "连接超时；可稍后重试或检查来源可用性。",
+      "lastCheckAt": "2026-09-17T01:23:00.751Z",
+      "lastError": "timeout"
     },
     {
       "id": "s03-05",
@@ -1536,8 +1536,8 @@
       "crawlStatus": "no_content",
       "lastCrawlAt": "2026-09-16T11:46:24.593Z",
       "lastSuccessAt": "2026-09-16T11:46:28.037Z",
-      "lastDiagnostic": "发现 0 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T11:46:24.593Z",
+      "lastDiagnostic": "入口可访问但未发现可解析条目；可能需要 RSS/专用解析器，不代表网站没有更新。",
+      "lastCheckAt": "2026-09-17T01:23:01.934Z",
       "lastError": ""
     },
     {
@@ -1564,8 +1564,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T11:46:28.037Z",
       "lastSuccessAt": "2026-09-16T11:46:35.578Z",
-      "lastDiagnostic": "发现 1 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T11:46:28.037Z",
+      "lastDiagnostic": "检查可解析 1 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:23:04.171Z",
       "lastError": ""
     },
     {
@@ -1592,8 +1592,8 @@
       "crawlStatus": "no_content",
       "lastCrawlAt": "2026-09-16T07:47:29.078Z",
       "lastSuccessAt": "2026-09-16T07:47:30.810Z",
-      "lastDiagnostic": "发现 0 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T07:47:29.078Z",
+      "lastDiagnostic": "入口可访问但未发现可解析条目；可能需要 RSS/专用解析器，不代表网站没有更新。",
+      "lastCheckAt": "2026-09-17T01:23:04.219Z",
       "lastError": ""
     },
     {
@@ -1620,8 +1620,8 @@
       "crawlStatus": "no_content",
       "lastCrawlAt": "2026-09-16T07:47:29.881Z",
       "lastSuccessAt": "2026-09-16T07:47:32.310Z",
-      "lastDiagnostic": "发现 0 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T07:47:29.881Z",
+      "lastDiagnostic": "入口可访问但未发现可解析条目；可能需要 RSS/专用解析器，不代表网站没有更新。",
+      "lastCheckAt": "2026-09-17T01:23:04.330Z",
       "lastError": ""
     },
     {
@@ -1648,8 +1648,8 @@
       "crawlStatus": "no_content",
       "lastCrawlAt": "2026-09-16T07:47:29.930Z",
       "lastSuccessAt": "2026-09-16T07:47:33.577Z",
-      "lastDiagnostic": "发现 0 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T07:47:29.930Z",
+      "lastDiagnostic": "入口可访问但未发现可解析条目；可能需要 RSS/专用解析器，不代表网站没有更新。",
+      "lastCheckAt": "2026-09-17T01:23:05.945Z",
       "lastError": ""
     },
     {
@@ -1676,8 +1676,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T07:47:30.810Z",
       "lastSuccessAt": "2026-09-16T07:47:37.849Z",
-      "lastDiagnostic": "发现 6 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T07:47:30.810Z",
+      "lastDiagnostic": "检查可解析 6 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:23:06.405Z",
       "lastError": ""
     },
     {
@@ -1701,12 +1701,12 @@
       "enabled": true,
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
+      "crawlStatus": "no_content",
       "lastCrawlAt": "2026-09-16T07:47:31.957Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T07:47:31.957Z",
-      "lastError": "network_error"
+      "lastDiagnostic": "入口可访问但未发现可解析条目；可能需要 RSS/专用解析器，不代表网站没有更新。",
+      "lastCheckAt": "2026-09-17T01:23:08.458Z",
+      "lastError": ""
     },
     {
       "id": "s03-12",
@@ -1732,8 +1732,8 @@
       "crawlStatus": "no_content",
       "lastCrawlAt": "2026-09-16T07:47:32.310Z",
       "lastSuccessAt": "2026-09-16T07:47:36.158Z",
-      "lastDiagnostic": "发现 0 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T07:47:32.310Z",
+      "lastDiagnostic": "入口可访问但未发现可解析条目；可能需要 RSS/专用解析器，不代表网站没有更新。",
+      "lastCheckAt": "2026-09-17T01:23:09.682Z",
       "lastError": ""
     },
     {
@@ -1760,8 +1760,8 @@
       "crawlStatus": "no_content",
       "lastCrawlAt": "2026-09-16T08:37:04.594Z",
       "lastSuccessAt": "2026-09-16T08:37:06.340Z",
-      "lastDiagnostic": "发现 0 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T08:37:04.594Z",
+      "lastDiagnostic": "入口可访问但未发现可解析条目；可能需要 RSS/专用解析器，不代表网站没有更新。",
+      "lastCheckAt": "2026-09-17T01:23:09.832Z",
       "lastError": ""
     },
     {
@@ -1788,8 +1788,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T11:46:28.763Z",
       "lastSuccessAt": "2026-09-16T11:46:31.043Z",
-      "lastDiagnostic": "发现 1 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T11:46:28.763Z",
+      "lastDiagnostic": "检查可解析 1 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:23:11.410Z",
       "lastError": ""
     },
     {
@@ -1816,8 +1816,8 @@
       "crawlStatus": "no_content",
       "lastCrawlAt": "2026-09-16T11:46:31.043Z",
       "lastSuccessAt": "2026-09-16T11:46:42.695Z",
-      "lastDiagnostic": "发现 0 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T11:46:31.043Z",
+      "lastDiagnostic": "入口可访问但未发现可解析条目；可能需要 RSS/专用解析器，不代表网站没有更新。",
+      "lastCheckAt": "2026-09-17T01:23:11.587Z",
       "lastError": ""
     },
     {
@@ -1844,8 +1844,8 @@
       "crawlStatus": "no_content",
       "lastCrawlAt": "2026-09-16T11:46:31.480Z",
       "lastSuccessAt": "2026-09-16T11:46:34.065Z",
-      "lastDiagnostic": "发现 0 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T11:46:31.480Z",
+      "lastDiagnostic": "入口可访问但未发现可解析条目；可能需要 RSS/专用解析器，不代表网站没有更新。",
+      "lastCheckAt": "2026-09-17T01:23:12.879Z",
       "lastError": ""
     },
     {
@@ -1872,8 +1872,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T11:46:34.065Z",
       "lastSuccessAt": "2026-09-16T11:46:36.798Z",
-      "lastDiagnostic": "发现 12 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T11:46:34.065Z",
+      "lastDiagnostic": "检查可解析 12 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:23:14.728Z",
       "lastError": ""
     },
     {
@@ -1900,8 +1900,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T11:46:35.578Z",
       "lastSuccessAt": "2026-09-16T06:05:27.663Z",
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T11:46:35.578Z",
+      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
+      "lastCheckAt": "2026-09-17T01:23:16.023Z",
       "lastError": "network_error"
     },
     {
@@ -1928,8 +1928,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T11:46:35.652Z",
       "lastSuccessAt": "2026-09-16T11:46:42.425Z",
-      "lastDiagnostic": "发现 12 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T11:46:35.652Z",
+      "lastDiagnostic": "检查可解析 12 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:23:16.239Z",
       "lastError": ""
     },
     {
@@ -1956,8 +1956,8 @@
       "crawlStatus": "no_content",
       "lastCrawlAt": "2026-09-16T11:46:36.798Z",
       "lastSuccessAt": "2026-09-16T11:46:42.403Z",
-      "lastDiagnostic": "发现 0 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T11:46:36.798Z",
+      "lastDiagnostic": "入口可访问但未发现可解析条目；可能需要 RSS/专用解析器，不代表网站没有更新。",
+      "lastCheckAt": "2026-09-17T01:23:16.376Z",
       "lastError": ""
     },
     {
@@ -1984,8 +1984,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T07:47:32.740Z",
       "lastSuccessAt": "2026-09-16T07:47:36.496Z",
-      "lastDiagnostic": "发现 1 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T07:47:32.740Z",
+      "lastDiagnostic": "检查可解析 1 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:23:18.328Z",
       "lastError": ""
     },
     {
@@ -2012,8 +2012,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T07:47:33.577Z",
       "lastSuccessAt": "2026-09-16T07:47:40.427Z",
-      "lastDiagnostic": "发现 12 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T07:47:33.577Z",
+      "lastDiagnostic": "检查可解析 12 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:23:18.891Z",
       "lastError": ""
     },
     {
@@ -2040,8 +2040,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T07:47:36.158Z",
       "lastSuccessAt": "2026-09-16T07:47:42.051Z",
-      "lastDiagnostic": "发现 12 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T07:47:36.158Z",
+      "lastDiagnostic": "检查可解析 12 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:23:20.352Z",
       "lastError": ""
     },
     {
@@ -2068,8 +2068,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T07:47:36.496Z",
       "lastSuccessAt": "2026-09-16T07:47:39.714Z",
-      "lastDiagnostic": "发现 7 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T07:47:36.496Z",
+      "lastDiagnostic": "检查可解析 7 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:23:20.403Z",
       "lastError": ""
     },
     {
@@ -2096,8 +2096,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T07:47:37.849Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T07:47:37.849Z",
+      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
+      "lastCheckAt": "2026-09-17T01:23:22.071Z",
       "lastError": "network_error"
     },
     {
@@ -2124,8 +2124,8 @@
       "crawlStatus": "no_content",
       "lastCrawlAt": "2026-09-16T11:46:42.403Z",
       "lastSuccessAt": "2026-09-16T11:46:42.726Z",
-      "lastDiagnostic": "发现 0 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T11:46:42.403Z",
+      "lastDiagnostic": "入口可访问但未发现可解析条目；可能需要 RSS/专用解析器，不代表网站没有更新。",
+      "lastCheckAt": "2026-09-17T01:23:22.287Z",
       "lastError": ""
     },
     {
@@ -2152,8 +2152,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T11:46:42.425Z",
       "lastSuccessAt": "2026-09-16T11:46:52.531Z",
-      "lastDiagnostic": "发现 5 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T11:46:42.425Z",
+      "lastDiagnostic": "检查可解析 5 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:23:22.702Z",
       "lastError": ""
     },
     {
@@ -2180,8 +2180,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T11:46:42.695Z",
       "lastSuccessAt": "2026-09-16T11:46:53.330Z",
-      "lastDiagnostic": "发现 1 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T11:46:42.695Z",
+      "lastDiagnostic": "检查可解析 1 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:23:22.981Z",
       "lastError": ""
     },
     {
@@ -2208,8 +2208,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T11:46:42.726Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T11:46:42.726Z",
+      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
+      "lastCheckAt": "2026-09-17T01:23:24.309Z",
       "lastError": "network_error"
     },
     {
@@ -2233,12 +2233,12 @@
       "enabled": true,
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
+      "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T11:46:44.030Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T11:46:44.030Z",
-      "lastError": "network_error"
+      "lastDiagnostic": "检查可解析 12 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:23:24.543Z",
+      "lastError": ""
     },
     {
       "id": "s05-06",
@@ -2264,8 +2264,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T17:06:57.873Z",
       "lastSuccessAt": "2026-09-16T17:07:05.876Z",
-      "lastDiagnostic": "发现 1 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T17:06:57.873Z",
+      "lastDiagnostic": "检查可解析 1 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:23:25.279Z",
       "lastError": ""
     },
     {
@@ -2292,8 +2292,8 @@
       "crawlStatus": "no_content",
       "lastCrawlAt": "2026-09-16T17:06:57.877Z",
       "lastSuccessAt": "2026-09-16T17:07:04.221Z",
-      "lastDiagnostic": "发现 0 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T17:06:57.877Z",
+      "lastDiagnostic": "入口可访问但未发现可解析条目；可能需要 RSS/专用解析器，不代表网站没有更新。",
+      "lastCheckAt": "2026-09-17T01:23:26.798Z",
       "lastError": ""
     },
     {
@@ -2320,8 +2320,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T17:06:57.878Z",
       "lastSuccessAt": "2026-09-16T17:07:04.192Z",
-      "lastDiagnostic": "发现 12 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T17:06:57.878Z",
+      "lastDiagnostic": "检查可解析 12 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:23:27.890Z",
       "lastError": ""
     },
     {
@@ -2348,8 +2348,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T17:06:57.878Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T17:06:57.878Z",
+      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
+      "lastCheckAt": "2026-09-17T01:23:28.790Z",
       "lastError": "network_error"
     },
     {
@@ -2376,8 +2376,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T17:06:59.275Z",
       "lastSuccessAt": "2026-09-16T17:07:05.184Z",
-      "lastDiagnostic": "发现 12 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T17:06:59.275Z",
+      "lastDiagnostic": "检查可解析 12 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:23:29.006Z",
       "lastError": ""
     },
     {
@@ -2404,8 +2404,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T17:07:04.192Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T17:07:04.192Z",
+      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
+      "lastCheckAt": "2026-09-17T01:23:29.582Z",
       "lastError": "network_error"
     },
     {
@@ -2432,8 +2432,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T17:07:04.221Z",
       "lastSuccessAt": "2026-09-16T17:07:06.297Z",
-      "lastDiagnostic": "发现 2 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T17:07:04.221Z",
+      "lastDiagnostic": "检查可解析 2 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:23:29.799Z",
       "lastError": ""
     },
     {
@@ -2460,8 +2460,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T17:07:04.546Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T17:07:04.546Z",
+      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
+      "lastCheckAt": "2026-09-17T01:23:30.378Z",
       "lastError": "network_error"
     },
     {
@@ -2488,8 +2488,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T17:07:05.184Z",
       "lastSuccessAt": "2026-09-16T17:07:10.747Z",
-      "lastDiagnostic": "发现 12 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T17:07:05.184Z",
+      "lastDiagnostic": "检查可解析 12 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:23:30.443Z",
       "lastError": ""
     },
     {
@@ -2516,8 +2516,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T17:07:05.876Z",
       "lastSuccessAt": "2026-09-16T17:07:10.592Z",
-      "lastDiagnostic": "发现 7 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T17:07:05.876Z",
+      "lastDiagnostic": "检查可解析 7 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:23:31.681Z",
       "lastError": ""
     },
     {
@@ -2544,8 +2544,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T17:07:06.003Z",
       "lastSuccessAt": "2026-09-16T17:07:10.098Z",
-      "lastDiagnostic": "发现 12 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T17:07:06.003Z",
+      "lastDiagnostic": "检查可解析 12 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:23:31.795Z",
       "lastError": ""
     },
     {
@@ -2572,8 +2572,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T17:07:06.297Z",
       "lastSuccessAt": "2026-09-16T17:07:10.971Z",
-      "lastDiagnostic": "发现 11 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T17:07:06.297Z",
+      "lastDiagnostic": "检查可解析 11 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:23:32.986Z",
       "lastError": ""
     },
     {
@@ -2600,8 +2600,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T17:07:10.098Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T17:07:10.098Z",
+      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
+      "lastCheckAt": "2026-09-17T01:23:33.266Z",
       "lastError": "network_error"
     },
     {
@@ -2628,8 +2628,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T17:07:10.592Z",
       "lastSuccessAt": "2026-09-16T17:07:16.584Z",
-      "lastDiagnostic": "发现 12 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T17:07:10.592Z",
+      "lastDiagnostic": "检查可解析 12 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:23:33.685Z",
       "lastError": ""
     },
     {
@@ -2656,8 +2656,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T17:07:10.747Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T17:07:10.747Z",
+      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
+      "lastCheckAt": "2026-09-17T01:23:33.869Z",
       "lastError": "network_error"
     },
     {
@@ -2684,8 +2684,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T07:47:37.872Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T07:47:37.872Z",
+      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
+      "lastCheckAt": "2026-09-17T01:23:35.207Z",
       "lastError": "network_error"
     },
     {
@@ -2712,8 +2712,8 @@
       "crawlStatus": "no_content",
       "lastCrawlAt": "2026-09-16T07:47:37.880Z",
       "lastSuccessAt": "2026-09-16T07:47:41.839Z",
-      "lastDiagnostic": "发现 0 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T07:47:37.880Z",
+      "lastDiagnostic": "入口可访问但未发现可解析条目；可能需要 RSS/专用解析器，不代表网站没有更新。",
+      "lastCheckAt": "2026-09-17T01:23:35.364Z",
       "lastError": ""
     },
     {
@@ -2740,8 +2740,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T07:47:39.714Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T07:47:39.714Z",
+      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
+      "lastCheckAt": "2026-09-17T01:23:35.469Z",
       "lastError": "network_error"
     },
     {
@@ -2768,8 +2768,8 @@
       "crawlStatus": "no_content",
       "lastCrawlAt": "2026-09-16T07:47:40.427Z",
       "lastSuccessAt": "2026-09-16T07:47:45.355Z",
-      "lastDiagnostic": "发现 0 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T07:47:40.427Z",
+      "lastDiagnostic": "入口可访问但未发现可解析条目；可能需要 RSS/专用解析器，不代表网站没有更新。",
+      "lastCheckAt": "2026-09-17T01:23:37.140Z",
       "lastError": ""
     },
     {
@@ -2796,8 +2796,8 @@
       "crawlStatus": "no_content",
       "lastCrawlAt": "2026-09-16T08:36:45.696Z",
       "lastSuccessAt": "2026-09-16T08:36:48.620Z",
-      "lastDiagnostic": "发现 0 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T08:36:45.696Z",
+      "lastDiagnostic": "入口可访问但未发现可解析条目；可能需要 RSS/专用解析器，不代表网站没有更新。",
+      "lastCheckAt": "2026-09-17T01:23:37.315Z",
       "lastError": ""
     },
     {
@@ -2824,8 +2824,8 @@
       "crawlStatus": "no_content",
       "lastCrawlAt": "2026-09-16T08:36:45.703Z",
       "lastSuccessAt": "2026-09-16T08:36:48.221Z",
-      "lastDiagnostic": "发现 0 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T08:36:45.703Z",
+      "lastDiagnostic": "入口可访问但未发现可解析条目；可能需要 RSS/专用解析器，不代表网站没有更新。",
+      "lastCheckAt": "2026-09-17T01:23:39.778Z",
       "lastError": ""
     },
     {
@@ -2852,8 +2852,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T17:07:10.849Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T17:07:10.849Z",
+      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
+      "lastCheckAt": "2026-09-17T01:23:40.061Z",
       "lastError": "network_error"
     },
     {
@@ -2880,8 +2880,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T17:07:10.971Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T17:07:10.971Z",
+      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
+      "lastCheckAt": "2026-09-17T01:23:40.376Z",
       "lastError": "network_error"
     },
     {
@@ -2908,8 +2908,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T17:07:12.864Z",
       "lastSuccessAt": "2026-09-16T17:07:17.996Z",
-      "lastDiagnostic": "发现 6 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T17:07:12.864Z",
+      "lastDiagnostic": "检查可解析 6 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:23:40.619Z",
       "lastError": ""
     },
     {
@@ -2936,8 +2936,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T17:07:14.182Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T17:07:14.182Z",
+      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
+      "lastCheckAt": "2026-09-17T01:23:41.498Z",
       "lastError": "network_error"
     },
     {
@@ -2964,8 +2964,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T17:07:16.504Z",
       "lastSuccessAt": "2026-09-16T17:07:20.078Z",
-      "lastDiagnostic": "发现 3 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T17:07:16.504Z",
+      "lastDiagnostic": "检查可解析 3 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:23:43.146Z",
       "lastError": ""
     },
     {
@@ -2992,8 +2992,8 @@
       "crawlStatus": "no_content",
       "lastCrawlAt": "2026-09-16T17:07:16.584Z",
       "lastSuccessAt": "2026-09-16T17:07:18.715Z",
-      "lastDiagnostic": "发现 0 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T17:07:16.584Z",
+      "lastDiagnostic": "入口可访问但未发现可解析条目；可能需要 RSS/专用解析器，不代表网站没有更新。",
+      "lastCheckAt": "2026-09-17T01:23:43.710Z",
       "lastError": ""
     },
     {
@@ -3020,8 +3020,8 @@
       "crawlStatus": "no_content",
       "lastCrawlAt": "2026-09-16T17:07:17.996Z",
       "lastSuccessAt": "2026-09-16T17:07:21.004Z",
-      "lastDiagnostic": "发现 0 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T17:07:17.996Z",
+      "lastDiagnostic": "入口可访问但未发现可解析条目；可能需要 RSS/专用解析器，不代表网站没有更新。",
+      "lastCheckAt": "2026-09-17T01:23:43.909Z",
       "lastError": ""
     },
     {
@@ -3048,8 +3048,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T17:07:18.715Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T17:07:18.715Z",
+      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
+      "lastCheckAt": "2026-09-17T01:23:44.979Z",
       "lastError": "network_error"
     },
     {
@@ -3076,8 +3076,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T08:36:45.703Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T08:36:45.703Z",
+      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
+      "lastCheckAt": "2026-09-17T01:23:45.971Z",
       "lastError": "network_error"
     },
     {
@@ -3104,8 +3104,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T08:36:45.703Z",
       "lastSuccessAt": "2026-09-16T08:36:49.145Z",
-      "lastDiagnostic": "发现 8 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T08:36:45.703Z",
+      "lastDiagnostic": "检查可解析 8 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:23:47.679Z",
       "lastError": ""
     },
     {
@@ -3132,8 +3132,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T08:36:48.221Z",
       "lastSuccessAt": "2026-09-16T08:36:51.673Z",
-      "lastDiagnostic": "发现 3 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T08:36:48.221Z",
+      "lastDiagnostic": "检查可解析 3 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:23:49.601Z",
       "lastError": ""
     },
     {
@@ -3160,8 +3160,8 @@
       "crawlStatus": "no_content",
       "lastCrawlAt": "2026-09-16T08:36:48.620Z",
       "lastSuccessAt": "2026-09-16T08:36:51.520Z",
-      "lastDiagnostic": "发现 0 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T08:36:48.620Z",
+      "lastDiagnostic": "入口可访问但未发现可解析条目；可能需要 RSS/专用解析器，不代表网站没有更新。",
+      "lastCheckAt": "2026-09-17T01:23:51.170Z",
       "lastError": ""
     },
     {
@@ -3188,8 +3188,8 @@
       "crawlStatus": "no_content",
       "lastCrawlAt": "2026-09-16T17:07:19.566Z",
       "lastSuccessAt": "2026-09-16T17:07:24.451Z",
-      "lastDiagnostic": "发现 0 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T17:07:19.566Z",
+      "lastDiagnostic": "入口可访问但未发现可解析条目；可能需要 RSS/专用解析器，不代表网站没有更新。",
+      "lastCheckAt": "2026-09-17T01:23:51.637Z",
       "lastError": ""
     },
     {
@@ -3216,8 +3216,8 @@
       "crawlStatus": "no_content",
       "lastCrawlAt": "2026-09-16T17:07:20.078Z",
       "lastSuccessAt": "2026-09-16T17:07:21.890Z",
-      "lastDiagnostic": "发现 0 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T17:07:20.078Z",
+      "lastDiagnostic": "入口可访问但未发现可解析条目；可能需要 RSS/专用解析器，不代表网站没有更新。",
+      "lastCheckAt": "2026-09-17T01:23:52.421Z",
       "lastError": ""
     },
     {
@@ -3244,8 +3244,8 @@
       "crawlStatus": "no_content",
       "lastCrawlAt": "2026-09-16T17:07:21.004Z",
       "lastSuccessAt": "2026-09-16T17:07:23.806Z",
-      "lastDiagnostic": "发现 0 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T17:07:21.004Z",
+      "lastDiagnostic": "入口可访问但未发现可解析条目；可能需要 RSS/专用解析器，不代表网站没有更新。",
+      "lastCheckAt": "2026-09-17T01:23:53.807Z",
       "lastError": ""
     },
     {
@@ -3272,8 +3272,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T17:07:21.890Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T17:07:21.890Z",
+      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
+      "lastCheckAt": "2026-09-17T01:23:54.079Z",
       "lastError": "network_error"
     },
     {
@@ -3300,8 +3300,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T17:07:22.933Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T17:07:22.933Z",
+      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
+      "lastCheckAt": "2026-09-17T01:23:55.270Z",
       "lastError": "network_error"
     },
     {
@@ -3328,8 +3328,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T17:07:23.654Z",
       "lastSuccessAt": "2026-09-16T17:07:29.014Z",
-      "lastDiagnostic": "发现 6 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T17:07:23.654Z",
+      "lastDiagnostic": "检查可解析 6 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:23:56.208Z",
       "lastError": ""
     },
     {
@@ -3356,8 +3356,8 @@
       "crawlStatus": "no_content",
       "lastCrawlAt": "2026-09-16T17:07:23.806Z",
       "lastSuccessAt": "2026-09-16T17:07:26.074Z",
-      "lastDiagnostic": "发现 0 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T17:07:23.806Z",
+      "lastDiagnostic": "入口可访问但未发现可解析条目；可能需要 RSS/专用解析器，不代表网站没有更新。",
+      "lastCheckAt": "2026-09-17T01:23:56.661Z",
       "lastError": ""
     },
     {
@@ -3384,8 +3384,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T17:07:24.451Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T17:07:24.451Z",
+      "lastDiagnostic": "HTTP_403：认证、访问限制或限流；请使用授权入口或稍后重试。",
+      "lastCheckAt": "2026-09-17T01:23:58.160Z",
       "lastError": "network_error"
     },
     {
@@ -3412,8 +3412,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T17:07:26.074Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T17:07:26.074Z",
+      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
+      "lastCheckAt": "2026-09-17T01:23:59.031Z",
       "lastError": "network_error"
     },
     {
@@ -3440,8 +3440,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T17:07:26.282Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T17:07:26.282Z",
+      "lastDiagnostic": "HTTP_403：认证、访问限制或限流；请使用授权入口或稍后重试。",
+      "lastCheckAt": "2026-09-17T01:23:59.372Z",
       "lastError": "network_error"
     },
     {
@@ -3468,8 +3468,8 @@
       "crawlStatus": "no_content",
       "lastCrawlAt": "2026-09-16T17:07:26.326Z",
       "lastSuccessAt": "2026-09-16T17:07:26.933Z",
-      "lastDiagnostic": "发现 0 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T17:07:26.326Z",
+      "lastDiagnostic": "入口可访问但未发现可解析条目；可能需要 RSS/专用解析器，不代表网站没有更新。",
+      "lastCheckAt": "2026-09-17T01:23:59.685Z",
       "lastError": ""
     },
     {
@@ -3496,8 +3496,8 @@
       "crawlStatus": "no_content",
       "lastCrawlAt": "2026-09-16T17:07:26.708Z",
       "lastSuccessAt": "2026-09-16T17:07:28.646Z",
-      "lastDiagnostic": "发现 0 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T17:07:26.708Z",
+      "lastDiagnostic": "入口可访问但未发现可解析条目；可能需要 RSS/专用解析器，不代表网站没有更新。",
+      "lastCheckAt": "2026-09-17T01:23:59.948Z",
       "lastError": ""
     },
     {
@@ -3524,8 +3524,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T17:07:26.933Z",
       "lastSuccessAt": "2026-09-16T17:07:28.296Z",
-      "lastDiagnostic": "发现 12 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T17:07:26.933Z",
+      "lastDiagnostic": "检查可解析 12 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:24:00.335Z",
       "lastError": ""
     },
     {
@@ -3552,8 +3552,8 @@
       "crawlStatus": "no_content",
       "lastCrawlAt": "2026-09-16T21:24:42.791Z",
       "lastSuccessAt": "2026-09-16T21:24:44.493Z",
-      "lastDiagnostic": "发现 0 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T21:24:42.791Z",
+      "lastDiagnostic": "入口可访问但未发现可解析条目；可能需要 RSS/专用解析器，不代表网站没有更新。",
+      "lastCheckAt": "2026-09-17T01:24:00.615Z",
       "lastError": ""
     },
     {
@@ -3580,8 +3580,8 @@
       "crawlStatus": "no_content",
       "lastCrawlAt": "2026-09-16T08:36:49.145Z",
       "lastSuccessAt": "2026-09-16T08:36:49.396Z",
-      "lastDiagnostic": "发现 0 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T08:36:49.145Z",
+      "lastDiagnostic": "入口可访问但未发现可解析条目；可能需要 RSS/专用解析器，不代表网站没有更新。",
+      "lastCheckAt": "2026-09-17T01:24:01.338Z",
       "lastError": ""
     },
     {
@@ -3608,8 +3608,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T21:24:42.794Z",
       "lastSuccessAt": "2026-09-16T21:24:48.868Z",
-      "lastDiagnostic": "发现 3 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T21:24:42.794Z",
+      "lastDiagnostic": "检查可解析 3 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:24:01.583Z",
       "lastError": ""
     },
     {
@@ -3636,8 +3636,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T21:24:42.794Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T21:24:42.794Z",
+      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
+      "lastCheckAt": "2026-09-17T01:24:01.609Z",
       "lastError": "network_error"
     },
     {
@@ -3664,8 +3664,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T21:24:42.794Z",
       "lastSuccessAt": "2026-09-16T06:57:51.541Z",
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T21:24:42.794Z",
+      "lastDiagnostic": "HTTP_403：认证、访问限制或限流；请使用授权入口或稍后重试。",
+      "lastCheckAt": "2026-09-17T01:24:03.711Z",
       "lastError": "network_error"
     },
     {
@@ -3692,8 +3692,8 @@
       "crawlStatus": "no_content",
       "lastCrawlAt": "2026-09-16T21:24:44.284Z",
       "lastSuccessAt": "2026-09-16T21:24:48.438Z",
-      "lastDiagnostic": "发现 0 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T21:24:44.284Z",
+      "lastDiagnostic": "入口可访问但未发现可解析条目；可能需要 RSS/专用解析器，不代表网站没有更新。",
+      "lastCheckAt": "2026-09-17T01:24:04.545Z",
       "lastError": ""
     },
     {
@@ -3720,8 +3720,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T21:24:44.493Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T21:24:44.493Z",
+      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
+      "lastCheckAt": "2026-09-17T01:24:06.576Z",
       "lastError": "network_error"
     },
     {
@@ -3748,8 +3748,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T21:24:48.041Z",
       "lastSuccessAt": "2026-09-16T21:24:53.688Z",
-      "lastDiagnostic": "发现 12 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T21:24:48.041Z",
+      "lastDiagnostic": "检查可解析 12 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:24:09.640Z",
       "lastError": ""
     },
     {
@@ -3773,12 +3773,12 @@
       "enabled": true,
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
-      "crawlStatus": "ok",
+      "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T21:24:48.438Z",
       "lastSuccessAt": "2026-09-16T21:24:57.357Z",
-      "lastDiagnostic": "发现 12 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T21:24:48.438Z",
-      "lastError": ""
+      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
+      "lastCheckAt": "2026-09-17T01:24:10.699Z",
+      "lastError": "network_error"
     },
     {
       "id": "s08-08",
@@ -3804,8 +3804,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T21:24:48.868Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T21:24:48.868Z",
+      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
+      "lastCheckAt": "2026-09-17T01:24:11.771Z",
       "lastError": "network_error"
     },
     {
@@ -3829,12 +3829,12 @@
       "enabled": true,
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
+      "crawlStatus": "invalid_url",
       "lastCrawlAt": "2026-09-16T21:24:52.061Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T21:24:52.061Z",
-      "lastError": "network_error"
+      "lastDiagnostic": "地址无效或指向非公网地址；请检查已登记的公开链接。",
+      "lastCheckAt": "2026-09-17T01:24:13.752Z",
+      "lastError": "invalid_url"
     },
     {
       "id": "s08-10",
@@ -3860,8 +3860,8 @@
       "crawlStatus": "no_content",
       "lastCrawlAt": "2026-09-16T08:36:49.396Z",
       "lastSuccessAt": "2026-09-16T08:36:53.563Z",
-      "lastDiagnostic": "发现 0 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T08:36:49.396Z",
+      "lastDiagnostic": "入口可访问但未发现可解析条目；可能需要 RSS/专用解析器，不代表网站没有更新。",
+      "lastCheckAt": "2026-09-17T01:24:13.753Z",
       "lastError": ""
     },
     {
@@ -3888,8 +3888,8 @@
       "crawlStatus": "no_content",
       "lastCrawlAt": "2026-09-16T08:36:51.520Z",
       "lastSuccessAt": "2026-09-16T08:36:57.349Z",
-      "lastDiagnostic": "发现 0 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T08:36:51.520Z",
+      "lastDiagnostic": "入口可访问但未发现可解析条目；可能需要 RSS/专用解析器，不代表网站没有更新。",
+      "lastCheckAt": "2026-09-17T01:24:13.789Z",
       "lastError": ""
     },
     {
@@ -3916,8 +3916,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T08:36:51.673Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T08:36:51.673Z",
+      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
+      "lastCheckAt": "2026-09-17T01:24:22.624Z",
       "lastError": "network_error"
     },
     {
@@ -3944,8 +3944,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T21:24:52.061Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T21:24:52.061Z",
+      "lastDiagnostic": "HTTP_403：认证、访问限制或限流；请使用授权入口或稍后重试。",
+      "lastCheckAt": "2026-09-17T01:24:23.015Z",
       "lastError": "network_error"
     },
     {
@@ -3972,8 +3972,8 @@
       "crawlStatus": "no_content",
       "lastCrawlAt": "2026-09-16T21:24:53.688Z",
       "lastSuccessAt": "2026-09-16T21:24:58.021Z",
-      "lastDiagnostic": "发现 0 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T21:24:53.688Z",
+      "lastDiagnostic": "入口可访问但未发现可解析条目；可能需要 RSS/专用解析器，不代表网站没有更新。",
+      "lastCheckAt": "2026-09-17T01:24:23.117Z",
       "lastError": ""
     },
     {
@@ -4000,8 +4000,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T21:24:55.393Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T21:24:55.393Z",
+      "lastDiagnostic": "HTTP_403：认证、访问限制或限流；请使用授权入口或稍后重试。",
+      "lastCheckAt": "2026-09-17T01:24:25.333Z",
       "lastError": "network_error"
     },
     {
@@ -4028,8 +4028,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T21:24:55.591Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T21:24:55.591Z",
+      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
+      "lastCheckAt": "2026-09-17T01:24:26.715Z",
       "lastError": "network_error"
     },
     {
@@ -4056,8 +4056,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T21:24:57.357Z",
       "lastSuccessAt": "2026-09-16T21:25:01.109Z",
-      "lastDiagnostic": "发现 12 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T21:24:57.357Z",
+      "lastDiagnostic": "检查可解析 12 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:24:26.760Z",
       "lastError": ""
     },
     {
@@ -4084,8 +4084,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T21:24:58.021Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T21:24:58.021Z",
+      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
+      "lastCheckAt": "2026-09-17T01:24:27.286Z",
       "lastError": "network_error"
     },
     {
@@ -4112,8 +4112,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T21:25:01.109Z",
       "lastSuccessAt": "2026-09-16T07:35:31.203Z",
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T21:25:01.109Z",
+      "lastDiagnostic": "HTTP_403：认证、访问限制或限流；请使用授权入口或稍后重试。",
+      "lastCheckAt": "2026-09-17T01:24:28.419Z",
       "lastError": "network_error"
     },
     {
@@ -4137,12 +4137,12 @@
       "enabled": true,
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
-      "crawlStatus": "no_content",
+      "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T21:25:02.735Z",
       "lastSuccessAt": "2026-09-16T21:25:04.698Z",
-      "lastDiagnostic": "发现 0 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T21:25:02.735Z",
-      "lastError": ""
+      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
+      "lastCheckAt": "2026-09-17T01:24:29.369Z",
+      "lastError": "network_error"
     },
     {
       "id": "s10-09",
@@ -4168,8 +4168,8 @@
       "crawlStatus": "no_content",
       "lastCrawlAt": "2026-09-16T21:25:04.698Z",
       "lastSuccessAt": "2026-09-16T21:25:07.723Z",
-      "lastDiagnostic": "发现 0 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T21:25:04.698Z",
+      "lastDiagnostic": "入口可访问但未发现可解析条目；可能需要 RSS/专用解析器，不代表网站没有更新。",
+      "lastCheckAt": "2026-09-17T01:24:30.051Z",
       "lastError": ""
     },
     {
@@ -4196,8 +4196,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T21:25:07.221Z",
       "lastSuccessAt": "2026-09-16T21:25:15.118Z",
-      "lastDiagnostic": "发现 12 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T21:25:07.221Z",
+      "lastDiagnostic": "检查可解析 12 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:24:30.625Z",
       "lastError": ""
     },
     {
@@ -4224,8 +4224,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T21:25:07.719Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T21:25:07.719Z",
+      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
+      "lastCheckAt": "2026-09-17T01:24:32.564Z",
       "lastError": "network_error"
     },
     {
@@ -4252,8 +4252,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T21:25:07.723Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T21:25:07.723Z",
+      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
+      "lastCheckAt": "2026-09-17T01:24:32.991Z",
       "lastError": "network_error"
     },
     {
@@ -4280,8 +4280,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T21:25:08.615Z",
       "lastSuccessAt": "2026-09-16T21:25:16.750Z",
-      "lastDiagnostic": "发现 12 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T21:25:08.615Z",
+      "lastDiagnostic": "检查可解析 12 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:24:33.463Z",
       "lastError": ""
     },
     {
@@ -4308,8 +4308,8 @@
       "crawlStatus": "no_content",
       "lastCrawlAt": "2026-09-16T08:36:53.563Z",
       "lastSuccessAt": "2026-09-16T08:36:57.065Z",
-      "lastDiagnostic": "发现 0 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T08:36:53.563Z",
+      "lastDiagnostic": "入口可访问但未发现可解析条目；可能需要 RSS/专用解析器，不代表网站没有更新。",
+      "lastCheckAt": "2026-09-17T01:24:36.357Z",
       "lastError": ""
     },
     {
@@ -4336,8 +4336,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T08:36:53.824Z",
       "lastSuccessAt": "2026-09-16T08:36:56.149Z",
-      "lastDiagnostic": "发现 12 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T08:36:53.824Z",
+      "lastDiagnostic": "检查可解析 12 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:24:37.767Z",
       "lastError": ""
     },
     {
@@ -4364,8 +4364,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T08:36:56.149Z",
       "lastSuccessAt": "2026-09-16T08:37:03.193Z",
-      "lastDiagnostic": "发现 8 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T08:36:56.149Z",
+      "lastDiagnostic": "检查可解析 8 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:24:39.084Z",
       "lastError": ""
     },
     {
@@ -4392,8 +4392,8 @@
       "crawlStatus": "no_content",
       "lastCrawlAt": "2026-09-16T08:36:57.065Z",
       "lastSuccessAt": "2026-09-16T08:36:58.107Z",
-      "lastDiagnostic": "发现 0 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T08:36:57.065Z",
+      "lastDiagnostic": "入口可访问但未发现可解析条目；可能需要 RSS/专用解析器，不代表网站没有更新。",
+      "lastCheckAt": "2026-09-17T01:24:39.902Z",
       "lastError": ""
     },
     {
@@ -4420,8 +4420,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T08:36:57.145Z",
       "lastSuccessAt": "2026-09-16T08:37:01.410Z",
-      "lastDiagnostic": "发现 12 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T08:36:57.145Z",
+      "lastDiagnostic": "检查可解析 12 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:24:40.137Z",
       "lastError": ""
     },
     {
@@ -4448,8 +4448,8 @@
       "crawlStatus": "no_content",
       "lastCrawlAt": "2026-09-16T08:36:57.350Z",
       "lastSuccessAt": "2026-09-16T08:36:59.910Z",
-      "lastDiagnostic": "发现 0 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T08:36:57.350Z",
+      "lastDiagnostic": "入口可访问但未发现可解析条目；可能需要 RSS/专用解析器，不代表网站没有更新。",
+      "lastCheckAt": "2026-09-17T01:24:40.382Z",
       "lastError": ""
     },
     {
@@ -4476,8 +4476,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T08:36:58.107Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T08:36:58.107Z",
+      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
+      "lastCheckAt": "2026-09-17T01:24:40.815Z",
       "lastError": "network_error"
     },
     {
@@ -4504,8 +4504,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T08:36:59.910Z",
       "lastSuccessAt": "2026-09-16T08:37:01.968Z",
-      "lastDiagnostic": "发现 1 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T08:36:59.910Z",
+      "lastDiagnostic": "检查可解析 1 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:24:42.028Z",
       "lastError": ""
     },
     {
@@ -4532,8 +4532,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T21:25:08.717Z",
       "lastSuccessAt": "2026-09-16T21:25:19.351Z",
-      "lastDiagnostic": "发现 5 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T21:25:08.717Z",
+      "lastDiagnostic": "检查可解析 5 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:24:42.733Z",
       "lastError": ""
     },
     {
@@ -4560,8 +4560,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T21:25:13.922Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T21:25:13.922Z",
+      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
+      "lastCheckAt": "2026-09-17T01:24:43.833Z",
       "lastError": "network_error"
     },
     {
@@ -4588,8 +4588,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T21:25:14.881Z",
       "lastSuccessAt": "2026-09-16T07:35:34.193Z",
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T21:25:14.881Z",
+      "lastDiagnostic": "HTTP_403：认证、访问限制或限流；请使用授权入口或稍后重试。",
+      "lastCheckAt": "2026-09-17T01:24:44.166Z",
       "lastError": "network_error"
     },
     {
@@ -4616,8 +4616,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T21:25:15.118Z",
       "lastSuccessAt": "2026-09-16T21:25:23.057Z",
-      "lastDiagnostic": "发现 12 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T21:25:15.118Z",
+      "lastDiagnostic": "检查可解析 12 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:24:44.884Z",
       "lastError": ""
     },
     {
@@ -4644,8 +4644,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T21:25:15.599Z",
       "lastSuccessAt": "2026-09-16T21:25:17.745Z",
-      "lastDiagnostic": "发现 2 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T21:25:15.599Z",
+      "lastDiagnostic": "检查可解析 2 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:24:44.895Z",
       "lastError": ""
     },
     {
@@ -4672,8 +4672,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T21:25:16.750Z",
       "lastSuccessAt": "2026-09-16T21:25:22.052Z",
-      "lastDiagnostic": "发现 12 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T21:25:16.750Z",
+      "lastDiagnostic": "检查可解析 12 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:24:45.397Z",
       "lastError": ""
     },
     {
@@ -4700,8 +4700,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T21:25:17.745Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T21:25:17.745Z",
+      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
+      "lastCheckAt": "2026-09-17T01:24:47.143Z",
       "lastError": "network_error"
     },
     {
@@ -4728,8 +4728,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T21:25:18.297Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T21:25:18.297Z",
+      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
+      "lastCheckAt": "2026-09-17T01:24:47.200Z",
       "lastError": "network_error"
     },
     {
@@ -4756,8 +4756,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T21:25:18.870Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T21:25:18.870Z",
+      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
+      "lastCheckAt": "2026-09-17T01:24:47.387Z",
       "lastError": "network_error"
     },
     {
@@ -4784,8 +4784,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T21:25:19.316Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T21:25:19.316Z",
+      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
+      "lastCheckAt": "2026-09-17T01:24:47.449Z",
       "lastError": "network_error"
     },
     {
@@ -4812,8 +4812,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T21:25:19.351Z",
       "lastSuccessAt": "2026-09-16T21:25:20.807Z",
-      "lastDiagnostic": "发现 12 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T21:25:19.351Z",
+      "lastDiagnostic": "检查可解析 12 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:24:47.792Z",
       "lastError": ""
     },
     {
@@ -4840,8 +4840,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T21:25:20.280Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T21:25:20.280Z",
+      "lastDiagnostic": "HTTP_403：认证、访问限制或限流；请使用授权入口或稍后重试。",
+      "lastCheckAt": "2026-09-17T01:24:47.827Z",
       "lastError": "network_error"
     },
     {
@@ -4868,8 +4868,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T21:25:20.616Z",
       "lastSuccessAt": "2026-09-16T21:25:23.241Z",
-      "lastDiagnostic": "发现 2 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T21:25:20.616Z",
+      "lastDiagnostic": "检查可解析 2 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:24:47.898Z",
       "lastError": ""
     },
     {
@@ -4896,8 +4896,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T07:35:36.185Z",
       "lastSuccessAt": "2026-09-16T07:35:36.892Z",
-      "lastDiagnostic": "解析 16 条候选内容，新增 16 条",
-      "lastCheckAt": "2026-09-16T07:35:36.185Z",
+      "lastDiagnostic": "检查可解析 12 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:24:47.926Z",
       "lastError": ""
     },
     {
@@ -4924,8 +4924,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T08:37:01.410Z",
       "lastSuccessAt": "2026-09-16T08:37:02.470Z",
-      "lastDiagnostic": "发现 12 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T08:37:01.410Z",
+      "lastDiagnostic": "检查可解析 12 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:24:48.076Z",
       "lastError": ""
     },
     {
@@ -4952,8 +4952,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T08:37:01.968Z",
       "lastSuccessAt": "2026-09-16T08:37:02.845Z",
-      "lastDiagnostic": "发现 2 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T08:37:01.968Z",
+      "lastDiagnostic": "检查可解析 2 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:24:48.156Z",
       "lastError": ""
     },
     {
@@ -4980,8 +4980,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T08:37:02.470Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T08:37:02.470Z",
+      "lastDiagnostic": "HTTP_403：认证、访问限制或限流；请使用授权入口或稍后重试。",
+      "lastCheckAt": "2026-09-17T01:24:48.800Z",
       "lastError": "network_error"
     },
     {
@@ -5008,8 +5008,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T08:37:02.768Z",
       "lastSuccessAt": "2026-09-16T08:37:04.470Z",
-      "lastDiagnostic": "发现 5 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T08:37:02.768Z",
+      "lastDiagnostic": "检查可解析 5 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:24:48.840Z",
       "lastError": ""
     },
     {
@@ -5036,8 +5036,8 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-16T08:37:02.845Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-16T08:37:02.845Z",
+      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
+      "lastCheckAt": "2026-09-17T01:24:48.864Z",
       "lastError": "network_error"
     },
     {
@@ -5064,8 +5064,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T08:37:03.193Z",
       "lastSuccessAt": "2026-09-16T08:37:04.594Z",
-      "lastDiagnostic": "发现 3 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T08:37:03.193Z",
+      "lastDiagnostic": "检查可解析 3 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:24:49.500Z",
       "lastError": ""
     },
     {
@@ -5092,8 +5092,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T08:37:03.607Z",
       "lastSuccessAt": "2026-09-16T08:37:05.662Z",
-      "lastDiagnostic": "发现 12 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T08:37:03.607Z",
+      "lastDiagnostic": "检查可解析 12 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:24:49.967Z",
       "lastError": ""
     },
     {
@@ -5120,8 +5120,8 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T08:37:04.427Z",
       "lastSuccessAt": "2026-09-16T08:37:10.525Z",
-      "lastDiagnostic": "发现 12 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T08:37:04.427Z",
+      "lastDiagnostic": "检查可解析 12 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:24:50.701Z",
       "lastError": ""
     },
     {
@@ -5148,10 +5148,10 @@
       "crawlStatus": "ok",
       "lastCrawlAt": "2026-09-16T08:37:04.470Z",
       "lastSuccessAt": "2026-09-16T08:37:07.304Z",
-      "lastDiagnostic": "发现 1 条候选；本次处理上限 3；正文与分析状态分别记录",
-      "lastCheckAt": "2026-09-16T08:37:04.470Z",
+      "lastDiagnostic": "检查可解析 1 条候选；本次未抓取正文、未进行 AI 分析。",
+      "lastCheckAt": "2026-09-17T01:24:50.708Z",
       "lastError": ""
     }
   ],
-  "updatedAt": "2026-09-16T21:25:23.241Z"
+  "updatedAt": "2026-09-17T01:24:56.680Z"
 }
