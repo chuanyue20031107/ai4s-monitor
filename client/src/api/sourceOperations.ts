@@ -1,7 +1,7 @@
-import type { IAi4sSourcesResponse, IAi4sHealthCheckStatsResponse } from '@shared/api.interface';
+import type { IAi4sSourcesResponse, IAi4sHealthCheckStatsResponse, ISourceDiagnostic } from '@shared/api.interface';
 export const REPOSITORY = 'chuanyue20031107/ai4s-monitor';
 export const SOURCE_ACTIONS_URL = `https://github.com/${REPOSITORY}/actions/workflows/source-operations.yml`;
-export type SourceAction = 'health_check' | 'crawl' | 'crawl_all' | 'retry_failed' | 'set_enabled';
+export type SourceAction = 'health_check' | 'crawl' | 'crawl_all' | 'retry_failed' | 'set_enabled' | 'diagnose_failed' | 'repair_available';
 export interface SourceCommand { version: 1; requestId: string; action: SourceAction; sourceId?: string; enabled?: boolean }
 export interface SourceReceipt extends SourceCommand { issueNumber: number; issueUrl: string; runUrl: string; status: 'success' | 'partial' | 'failed'; detail: string; finishedAt: string }
 export interface SourceDraft { command: SourceCommand; label: string; url: string; createdAt: string }
@@ -23,6 +23,7 @@ export function saveDrafts(value: SourceDraft[]) { try { localStorage.setItem(KE
 async function snapshot<T>(name: string, empty?: T): Promise<T> {
   // Read public versioned JSON only, never send authorization or write from the browser.
   const urls = [`https://raw.githubusercontent.com/${REPOSITORY}/main/client/public/data/${name}.json?t=${Date.now()}`, `${import.meta.env.BASE_URL}data/${name}.json?t=${Date.now()}`];
+  if (import.meta.env.DEV) urls.reverse(); // Local development should inspect its own versioned data.
   for (const url of urls) {
     try {
       const response = await fetch(url, { cache: 'no-store', signal: AbortSignal.timeout(15000) });
@@ -34,10 +35,11 @@ async function snapshot<T>(name: string, empty?: T): Promise<T> {
   throw new Error('无法读取来源数据，请稍后刷新。');
 }
 export async function loadSourceSnapshot() {
-  const [sources, health, receipts] = await Promise.all([
+  const [sources, health, receipts, diagnostics] = await Promise.all([
     snapshot<IAi4sSourcesResponse & {updatedAt?: string}>('sources'),
     snapshot<IAi4sHealthCheckStatsResponse>('health'),
     snapshot<{items: SourceReceipt[]}>('source-commands', {items:[]}),
+    snapshot<{items: ISourceDiagnostic[]; updatedAt?: string}>('source-diagnostics', {items:[]}),
   ]);
-  return {sources, health, receipts};
+  return {sources, health, receipts, diagnostics};
 }

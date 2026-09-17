@@ -129,37 +129,62 @@ export function robotsAllowed(text, target) {
   }
   return best.allow;
 }
-export function makeFetcher({ timeoutSeconds = 15, maxRequests = 180 } = {}) {
+export async function lookupPublic(host, { lookupHost = lookup, timeoutMs = 15000 } = {}) {
+  let timer;
+  try {
+    const ips = await Promise.race([lookupHost(host, { all: true }), new Promise((_, reject) => {
+      timer = setTimeout(() => reject(Object.assign(new Error('DNS timeout'), { name: 'TimeoutError' })), timeoutMs);
+    })]);
+    if (!ips.length || ips.some(a => !publicAddress(a.address))) throw new Error('private_address_blocked');
+    return ips;
+  } finally { clearTimeout(timer); }
+}
+export function makeFetcher({ timeoutSeconds = 15, maxRequests = 180, fetchImpl = fetch, lookupHost = lookup } = {}) {
   let requests = 0; const robotCache = new Map(), dnsCache = new Map();
+  const timeoutMs = Math.min(30, Math.max(3, timeoutSeconds)) * 1000;
   async function request(start, robots = false) {
     let url = start;
     for (let redirects = 0; redirects < 4; redirects++) {
       if (++requests > maxRequests) throw new Error('request_budget_exhausted');
       if (!canonicalUrl(url)) throw new Error('invalid_url');
       const host = new URL(url).hostname.replace(/[\[\]]/g, '');
-      if (!dnsCache.has(host)) dnsCache.set(host, lookup(host, { all: true }));
+      if (!dnsCache.has(host)) dnsCache.set(host, lookupPublic(host, { lookupHost, timeoutMs }).catch(error => { dnsCache.delete(host); throw error; }));
       const ips = await dnsCache.get(host);
       if (!ips.length || ips.some((a) => !publicAddress(a.address))) throw new Error('private_address_blocked');
       // Check the new origin after every cross-origin redirect, before sending the document request.
       if (!robots) await checkRobots(url);
-      const response = await fetch(url, { redirect: 'manual', signal: AbortSignal.timeout(Math.min(30, Math.max(3, timeoutSeconds)) * 1000), headers: { 'user-agent': UA, accept: 'text/html,application/rss+xml,application/atom+xml,application/xml,text/plain' } });
+      const response = await fetchImpl(url, { redirect: 'manual', signal: AbortSignal.timeout(timeoutMs), headers: { 'user-agent': UA, accept: 'text/html,application/rss+xml,application/atom+xml,application/xml,text/plain' } });
       if ([301, 302, 303, 307, 308].includes(response.status)) { await response.body?.cancel(); url = canonicalUrl(response.headers.get('location'), url); if (!url) throw new Error('invalid_redirect'); continue; }
-      if (robots && [404, 410].includes(response.status)) { await response.body?.cancel(); return { html: '', finalUrl: url }; }
-      if (!response.ok) { await response.body?.cancel(); throw new Error(`HTTP_${response.status}`); }
+      if (robots && [404, 410].includes(response.status)) { await response.body?.cancel(); return { html: '', finalUrl: url, status: response.status }; }
+      if (!response.ok) {
+        await response.body?.cancel();
+        throw Object.assign(new Error(`HTTP_${response.status}`), { httpStatus: response.status, phase: robots ? 'robots' : 'page', httpsReached: url.startsWith('https:'), cloudflare: response.headers.get('cf-mitigated') === 'challenge' });
+      }
       if (!/(text|html|xml|rss|atom)/i.test(response.headers.get('content-type') || '')) { await response.body?.cancel(); throw new Error('unsupported_content'); }
       if (Number(response.headers.get('content-length')) > 1500000) { await response.body?.cancel(); throw new Error('response_too_large'); }
       const chunks = []; let size = 0;
       for await (const chunk of response.body) { size += chunk.length; if (size > 1500000) throw new Error('response_too_large'); chunks.push(chunk); }
-      return { html: Buffer.concat(chunks).toString('utf8'), finalUrl: url };
+      const html = Buffer.concat(chunks).toString('utf8');
+      if (!robots && (/cf-chl-|challenge-platform/i.test(html) && /just a moment|verify you are human/i.test(html))) {
+        throw Object.assign(new Error('cloudflare_challenge'), { httpStatus: response.status, phase: 'page', httpsReached: url.startsWith('https:'), cloudflare: true });
+      }
+      return { html, finalUrl: url, status: response.status };
     }
     throw new Error('redirect_limit');
   }
   async function checkRobots(url) {
     const origin = new URL(url).origin;
-    if (!robotCache.has(origin)) robotCache.set(origin, request(`${origin}/robots.txt`, true).then((p) => p.html));
-    if (!robotsAllowed(await robotCache.get(origin), url)) throw new Error('robots_blocked');
+    const page = await getRobots(url);
+    if (!robotsAllowed(page.html, url)) throw new Error('robots_blocked');
   }
-  return (url) => request(url);
+  async function getRobots(url) {
+    const origin = new URL(url).origin;
+    if (!robotCache.has(origin)) robotCache.set(origin, request(`${origin}/robots.txt`, true).catch(error => { robotCache.delete(origin); throw error; }));
+    return robotCache.get(origin);
+  }
+  const get = (url) => request(url);
+  get.robots = getRobots;
+  return get;
 }
 export function migrate(root) {
   const statePath = path.join(root, 'data/state.json');

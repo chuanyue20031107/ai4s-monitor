@@ -1,8 +1,10 @@
 /** Explicit, bounded source operations. Dependencies are injected for offline tests. */
 import fs from 'node:fs';
 import path from 'node:path';
+import { maintainSources, DIAGNOSE_STATUSES } from './source-health-diagnose.mjs';
+import { sourceEntries, sourceEntry } from './source-content.mjs';
 
-export const ACTIONS = ['health_check', 'crawl', 'crawl_all', 'retry_failed', 'set_enabled'];
+export const ACTIONS = ['health_check', 'crawl', 'crawl_all', 'retry_failed', 'set_enabled', 'diagnose_failed', 'repair_available'];
 export const FAILURE = new Set(['invalid_url', 'robots_blocked', 'timeout', 'network_error', 'parse_failed', 'needs_config', 'failed']);
 export function validateCommand(value, sources) {
   if (!value || typeof value !== 'object' || Array.isArray(value)) throw new Error('请求必须是 JSON 对象');
@@ -10,7 +12,7 @@ export function validateCommand(value, sources) {
   if (value.version !== 1 || typeof value.requestId !== 'string' || !/^[a-zA-Z0-9-]{8,80}$/.test(value.requestId || '') || !ACTIONS.includes(value.action)) throw new Error('请求版本、编号或操作无效');
   const single = ['crawl', 'set_enabled'].includes(value.action);
   if ((single && !value.sourceId) || (value.sourceId !== undefined && (!/^[\w-]{1,100}$/.test(value.sourceId) || !sources.some(s => s.sourceKey === value.sourceId)))) throw new Error('来源编号不存在');
-  if (['crawl_all', 'retry_failed'].includes(value.action) && value.sourceId !== undefined) throw new Error('批量操作不能指定单个来源');
+  if (['crawl_all', 'retry_failed', 'diagnose_failed', 'repair_available'].includes(value.action) && value.sourceId !== undefined) throw new Error('批量操作不能指定单个来源');
   if (value.action === 'set_enabled' ? typeof value.enabled !== 'boolean' : value.enabled !== undefined) throw new Error('启用状态必须为明确的布尔值，且只用于启停操作');
   return { ...value };
 }
@@ -24,6 +26,7 @@ export const canOperate = permission => ['admin', 'maintain', 'write'].includes(
 export function selectTargets(command, sources) {
   const selected = command.sourceId ? sources.filter(s => s.sourceKey === command.sourceId) : sources;
   if (command.action === 'health_check' || command.action === 'set_enabled') return selected;
+  if (command.action === 'diagnose_failed') return selected.filter(s => DIAGNOSE_STATUSES.has(s.crawlStatus));
   const active = selected.filter(s => s.enabled !== false && s.crawlStrategy !== 'disabled');
   if (command.action === 'crawl' && !active.length) throw new Error('该来源已停用，请先启用');
   return command.action === 'retry_failed' ? active.filter(s => FAILURE.has(s.crawlStatus)) : active;
@@ -47,7 +50,7 @@ export function healthSummary(sources, run) {
     failed: [...counts.values()].reduce((a,b) => a+b, 0), failureByType: [...counts].map(([type,count]) => ({type,count})), lastCheckAt: run.finishedAt } };
 }
 /** Preserve exact scheduled cursor/settings bytes and the complete source list, even on error. */
-export async function executeOperation(command, { root, readJson, writeJson, collect, makeFetcher, extractEntries, resolveSeed }) {
+export async function executeOperation(command, { root, readJson, writeJson, collect, makeFetcher, extractEntries, resolveSeed, maintain = maintainSources }) {
   const pub = name => path.join(root, 'client/public/data', `${name}.json`);
   const original = readJson(pub('sources'), { items: [] });
   command = validateCommand(command, original.items);
@@ -55,7 +58,15 @@ export async function executeOperation(command, { root, readJson, writeJson, col
   const startedAt = new Date().toISOString();
   let run = { id: `source-command:${command.requestId}`, taskType: '手动来源操作', status: 'success', processed: 0, succeeded: 0, failed: 0, inserted: 0, enriched: 0, startedAt, finishedAt: null, detail: '', failureReason: '' };
   const changed = new Map();
-  if (command.action === 'set_enabled') {
+  if (['diagnose_failed', 'repair_available'].includes(command.action)) {
+    const repair = command.action === 'repair_available';
+    const report = await maintain({ root, diagnose: !repair, repair });
+    for (const s of readJson(pub('sources'), { items: [] }).items) changed.set(s.sourceKey, s);
+    run.taskType = repair ? '来源自动修复' : '失败来源诊断';
+    run.processed = repair ? report.repaired.length : report.checked; run.succeeded = run.processed;
+    run.detail = repair ? `已修复 ${report.repaired.length} 个来源入口；尚未重抓，可点击“重试失败来源”。过期或验证失败的入口需重新诊断。`
+      : `已诊断 ${report.checked} 个失败来源；可自动修复 ${report.items.filter(d => d.autoRepairAvailable).length} 个；未抓取正文。`;
+  } else if (command.action === 'set_enabled') {
     changed.set(targets[0].sourceKey, { ...targets[0], enabled: command.enabled });
     run.processed = 1; run.succeeded = 1;
     run.detail = `已${command.enabled ? '启用' : '停用'}来源 ${targets[0].name}；定时任务按原计划读取此状态。`;
@@ -66,11 +77,11 @@ export async function executeOperation(command, { root, readJson, writeJson, col
       while (next < targets.length) {
         const source = targets[next++], s = { ...source, lastCheckAt: new Date().toISOString() };
         try {
-          const seed = resolveSeed(s), url = seed._wechat ? seed._fetchUrl : seed.feedUrl || seed.website || seed.github;
+          const seed = resolveSeed(s), url = sourceEntry(seed);
           if (!url) throw new Error('needs_config');
           // Separate, bounded budget per source; still uses the existing robots/DNS/redirect checks.
-          const page = await makeFetcher({ timeoutSeconds: 15, maxRequests: 12 })(url);
-          const count = extractEntries(page.html, page.finalUrl).length;
+          const get = makeFetcher({ timeoutSeconds: 15, maxRequests: 12 }), page = await get(url);
+          const count = (await sourceEntries(page, get)).length;
           s.crawlStatus = count ? 'ok' : 'no_content'; s.lastError = '';
           s.lastDiagnostic = count ? `检查可解析 ${count} 条候选；本次未抓取正文、未进行 AI 分析。` : '入口可访问但未发现可解析条目；可能需要 RSS/专用解析器，不代表网站没有更新。';
           run.succeeded++;

@@ -35,8 +35,8 @@ export function HealthCheckPanel({ stats, running, onStart }: HealthCheckPanelPr
               来源健康检查
             </CardTitle>
             <p className="text-xs text-muted-foreground">
-              检查 {SOURCE_SEED.length} 条来源的地址有效性、RSS / Sitemap 自动发现与 robots
-              限制，并为每个来源标记可用的抓取通道
+              检查 {stats?.total || SOURCE_SEED.length} 条来源当前入口的可访问性、可解析条目与 robots 限制；
+              失败入口的 RSS / Sitemap 发现请使用下方“自动诊断”
             </p>
           </div>
           <Button onClick={onStart} disabled={running}>

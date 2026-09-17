@@ -6,10 +6,15 @@ on:
     branches: [main]
     paths:
       - 'scripts/source-operations*.mjs'
+      - 'scripts/source-*.mjs'
+      - 'scripts/crawl.mjs'
+      - 'scripts/pipeline.mjs'
+      - 'tests/source-repair.test.mjs'
       - 'tests/source-operations.test.mjs'
       - 'client/src/api/sourceOperations.ts'
       - 'client/src/pages/SourcesPage/**'
       - '.github/workflows/source-operations*.yml'
+      - '.github/workflows/source-repair.yml'
 permissions:
   contents: read
 jobs:
@@ -22,6 +27,6 @@ jobs:
         with:
           node-version: '22'
       - run: npm install --no-audit --no-fund
-      - run: node --test tests/pipeline.test.mjs tests/source-operations.test.mjs
+      - run: node --test tests/*.test.mjs
       - run: npm run typecheck
       - run: npm run build

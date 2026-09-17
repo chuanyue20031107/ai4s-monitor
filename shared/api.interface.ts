@@ -56,6 +56,27 @@ export interface IAi4sSource {
   /** 最近一次健康检查时间 */
   lastCheckAt: string | null;
   lastError: string;
+  /** 可选以兼容历史快照；下次维护/采集补齐默认值。 */
+  failureType?: string;
+  repairSuggestion?: string;
+  autoRepairAvailable?: boolean;
+}
+
+export interface ISourceDiagnostic {
+  sourceKey: string;
+  name: string;
+  oldStatus: Ai4sCrawlStatus;
+  entryUrl: string;
+  checkedAt: string;
+  diagnosis: string;
+  failureType: string;
+  suggestion: string;
+  autoRepairAvailable: boolean;
+  rss: string | null;
+  sitemap: string | null;
+  repairStatus: 'not_applied' | 'applied' | 'validation_failed';
+  repairedAt?: string;
+  checks: { dns: string; https: string; robots: string; httpStatus: number | null; robotsHttpStatus: number | null; rss: string; sitemap: string };
 }
 
 // ---------- 情报文章 ----------
