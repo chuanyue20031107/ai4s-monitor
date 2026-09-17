@@ -1,10 +1,197 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-17T10:03:31.128Z",
-  "pendingCount": 612,
-  "readyCount": 372,
-  "awaitingContentCount": 240,
+  "updatedAt": "2026-09-17T11:53:50.163Z",
+  "pendingCount": 637,
+  "readyCount": 396,
+  "awaitingContentCount": 241,
   "items": [
+    {
+      "id": "2951527db1490d93a3a378b5b440eb0c",
+      "title": "See All Tech Blogs",
+      "url": "https://blogs.nvidia.com/",
+      "publishedAt": null,
+      "crawledAt": "2026-09-17T11:52:12.401Z",
+      "contentStatus": "ready",
+      "contentHash": "7b46928d70ec0a70bcbac5fb4b01738104f6b337c8ac1b10a2b6471c36a5336a",
+      "rawPath": "data/raw/2951527db1490d93a3a378b5b440eb0c.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "cac758740f5536acc45efcdc6e7d3549",
+      "title": "2027 events!",
+      "url": "https://elrig.org/portfolio/2027-events/",
+      "publishedAt": null,
+      "crawledAt": "2026-09-17T11:52:08.707Z",
+      "contentStatus": "ready",
+      "contentHash": "af177ca4e81012ffd9bf30396680f021e0ffe88129ddde01eb3b3d6d4dcf86d2",
+      "rawPath": "data/raw/cac758740f5536acc45efcdc6e7d3549.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "313453726b948ec53ebee618049240e5",
+      "title": "SLAS – ELRIG Joint meet-up 2026",
+      "url": "https://elrig.org/portfolio/slas-elrig-joint-meet-up-2026/",
+      "publishedAt": null,
+      "crawledAt": "2026-09-17T11:52:08.572Z",
+      "contentStatus": "ready",
+      "contentHash": "7c61d25bcf09d78811c5afe48cadd5b5c7072c08bd1cff4b6fe786e43ee652f3",
+      "rawPath": "data/raw/313453726b948ec53ebee618049240e5.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "089227037e020b4fc4600ea4e588b13a",
+      "title": "Protein Sciences in Drug Discovery 2026",
+      "url": "https://elrig.org/portfolio/protein-sciences-in-drug-discovery-2026/",
+      "publishedAt": null,
+      "crawledAt": "2026-09-17T11:52:08.411Z",
+      "contentStatus": "ready",
+      "contentHash": "4b24776005feb7477bb88b71a000ff30b62e56c1f291fdcf331e0418073a5ba1",
+      "rawPath": "data/raw/089227037e020b4fc4600ea4e588b13a.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "a4fcc5f87d78984972171a4c0c507f3e",
+      "title": "Faces of Mass Spectrometry",
+      "url": "https://www.asms.org/publications/journal-of-the-american-society-for-mass-spectrometry-group/faces-of-mass-spectrometry",
+      "publishedAt": null,
+      "crawledAt": "2026-09-17T11:52:04.607Z",
+      "contentStatus": "ready",
+      "contentHash": "daf5015780212a486e8e1598f67abc60a1a8b530d96405926fdd2a152984b617",
+      "rawPath": "data/raw/a4fcc5f87d78984972171a4c0c507f3e.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "fd1523ceaf133118c9572e464eca1ad3",
+      "title": "Editor-in-Chief",
+      "url": "https://www.asms.org/publications/journal-of-the-american-society-for-mass-spectrometry-group/editor-in-chief",
+      "publishedAt": null,
+      "crawledAt": "2026-09-17T11:52:04.383Z",
+      "contentStatus": "ready",
+      "contentHash": "c2fd7c3095bf1f12df77f99f352256a6391b53dea1ee23a15f0ff5cb5e03df51",
+      "rawPath": "data/raw/fd1523ceaf133118c9572e464eca1ad3.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "e92efdba0de76c15275119c765a39618",
+      "title": "JASMS Online",
+      "url": "https://www.asms.org/publications/journal-of-the-american-society-for-mass-spectrometry-group/jasms-online",
+      "publishedAt": null,
+      "crawledAt": "2026-09-17T11:52:04.228Z",
+      "contentStatus": "ready",
+      "contentHash": "9625e5d9cb59f2dedd8456631f3bc2f0962f8accb839880a2bcbd72f990f41a6",
+      "rawPath": "data/raw/e92efdba0de76c15275119c765a39618.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "55cba5de8c5fb815af20d5c273434e6f",
+      "title": "Ethics & Plurality",
+      "url": "https://aaai.org/about-aaai/ethics-and-plurality/",
+      "publishedAt": null,
+      "crawledAt": "2026-09-17T11:51:55.455Z",
+      "contentStatus": "ready",
+      "contentHash": "6babd7cfae1e83dab5493dccfc52b3388680251c6611bdf879ddd1ad5d40bccd",
+      "rawPath": "data/raw/55cba5de8c5fb815af20d5c273434e6f.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "47c6c7073f6097bc8a2de385a372557a",
+      "title": "Presidential Panel on Long-Term AI Futures",
+      "url": "https://aaai.org/about-aaai/aaai-presidential-panel-on-long-term-ai-futures-2008-2009/",
+      "publishedAt": null,
+      "crawledAt": "2026-09-17T11:51:55.355Z",
+      "contentStatus": "ready",
+      "contentHash": "86fadc5020bee9f2f4ed15e7a773dac373bc5b2bd41d6c27fa5d11cadbe145c7",
+      "rawPath": "data/raw/47c6c7073f6097bc8a2de385a372557a.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "e55b6a8e80206b16616db2c7e4bdc630",
+      "title": "AAAI 2025 Presidential Panel on the Future of AI Research",
+      "url": "https://aaai.org/about-aaai/presidential-panel-on-the-future-of-ai-research/",
+      "publishedAt": null,
+      "crawledAt": "2026-09-17T11:51:55.257Z",
+      "contentStatus": "ready",
+      "contentHash": "ca87ea87e0d754b0f6253fa1960be2b4e268724d3dcbbe46165c51528b499b4f",
+      "rawPath": "data/raw/e55b6a8e80206b16616db2c7e4bdc630.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "bd0bdb46d1ee7393e71a9970c5732756",
+      "title": "图文实录 | 第二十八届中国科协年会新闻通气会",
+      "url": "https://www.cpa.org.cn/?do=info&cid=78942",
+      "publishedAt": null,
+      "crawledAt": "2026-09-17T11:51:45.423Z",
+      "contentStatus": "ready",
+      "contentHash": "ff6b4f37a6e7b911106434438e735476097f99d63716f4f91a8d1209a037b3e0",
+      "rawPath": "data/raw/bd0bdb46d1ee7393e71a9970c5732756.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "8cbc812d0a6fc76c2c31dc71d21fd504",
+      "title": "CACLP 2026 չ����¼",
+      "url": "https://www.caclp.com/visitors/2026.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-17T11:51:34.238Z",
+      "contentStatus": "ready",
+      "contentHash": "479a75d3a833a99e69e93f0a46082d58e53846a4a942fccbc2051aba3233ec6f",
+      "rawPath": "data/raw/8cbc812d0a6fc76c2c31dc71d21fd504.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "c1ef7f5d8e12dab016de9a492122b807",
+      "title": "��ҵ����",
+      "url": "https://www.caclp.com/news/experts.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-17T11:51:33.729Z",
+      "contentStatus": "ready",
+      "contentHash": "c4c2470c4fa02d1aeef6599d2f997949c4f26e57373f06135302571b2dfd54a4",
+      "rawPath": "data/raw/c1ef7f5d8e12dab016de9a492122b807.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "6d7fbe3eb3d0095cd6f8bfae14dc5132",
+      "title": "���߷���",
+      "url": "https://www.caclp.com/news/policy.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-17T11:51:32.972Z",
+      "contentStatus": "ready",
+      "contentHash": "fe51758e78fe599346567fa0033777569a12c252554db01c7f841f090e1bc5fa",
+      "rawPath": "data/raw/6d7fbe3eb3d0095cd6f8bfae14dc5132.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "ce7d8bd21b6d389209bd639bbf486edf",
+      "title": "锂电企业本届最高奖项！国轩高科荣获第二十六届中国专利银奖 2026-09-01 2026-09-01",
+      "url": "https://www.gotion.com.cn/newsInfo/976",
+      "publishedAt": null,
+      "crawledAt": "2026-09-17T11:50:52.318Z",
+      "contentStatus": "ready",
+      "contentHash": "acfa4c210a3bbede305ee65eb8cdbdc203cf1fd60eb464d3c3a5a832ee09614d",
+      "rawPath": "data/raw/ce7d8bd21b6d389209bd639bbf486edf.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "3dd6016a4afa57cb85be04506b5c9f78",
+      "title": "国轩高科GotionGuard荣膺全国动力电池安全预警算法大赛双料大奖 2026-09-02 2026-09-02",
+      "url": "https://www.gotion.com.cn/newsInfo/975",
+      "publishedAt": null,
+      "crawledAt": "2026-09-17T11:50:52.052Z",
+      "contentStatus": "ready",
+      "contentHash": "303920cf64eca5b9eac91d6e9d8797c26225988a1e461789351d74cb89fe3d5e",
+      "rawPath": "data/raw/3dd6016a4afa57cb85be04506b5c9f78.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "5cd5f7dbb331fb916f504bc619999606",
+      "title": "国轩高科第五代LFP电池赋能奇瑞风云T7上市热销 2026-09-08 2026-09-08",
+      "url": "https://www.gotion.com.cn/newsInfo/977",
+      "publishedAt": null,
+      "crawledAt": "2026-09-17T11:50:51.782Z",
+      "contentStatus": "ready",
+      "contentHash": "81471675e8fd6cbdf1a9e690805a4690edff7105059635ef8f057f77cafb9196",
+      "rawPath": "data/raw/5cd5f7dbb331fb916f504bc619999606.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "0d9c638cb5039d0be90ec59cf78086ae",
       "title": "重庆大学校医院医疗设备采购废标公告",
@@ -1169,6 +1356,17 @@
       "contentStatus": "ready",
       "contentHash": "898ae51b60d4d1fab7d5bc35cadabbac7ea697bea4cb81e4b86b2abecc10c2ff",
       "rawPath": "data/raw/b5f6e9209be1c628ce6681a1f200fe68.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "de59cb469cc0013eadd6aa1320c6db38",
+      "title": "2026年全国药品安全宣传周活动在京启动",
+      "url": "https://www.cpa.org.cn/?do=info&cid=79027",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T07:35:33.584Z",
+      "contentStatus": "ready",
+      "contentHash": "f31412ed08831cee52784d981dd32ae93e0a51c051fed5adf15446346e3773b4",
+      "rawPath": "data/raw/de59cb469cc0013eadd6aa1320c6db38.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -3647,6 +3845,17 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "0027655752f485505679840a6f0d22fe",
+      "title": "Introducing CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement",
+      "url": "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/",
+      "publishedAt": "2026-08-11T16:00:00.000Z",
+      "crawledAt": "2026-09-17T11:52:10.170Z",
+      "contentStatus": "ready",
+      "contentHash": "4db7d3076945791fb9807f8d729b7654f94e7c5a890d63a51f4d078fabc24735",
+      "rawPath": "data/raw/0027655752f485505679840a6f0d22fe.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "1f69ff89154c735500c25860eeea12df",
       "title": "10 8 月 装备+工艺双轮驱动，汉邦科技打通小核酸从实验室到商业化生产全链条 引言 Introduction 近年来，小核酸药物被公认为继小分子化药、抗体药物之后，引领全球制药行业的“第三 [&hellip;] 阅读更多",
       "url": "https://www.hanbon.com.cn/%e8%a3%85%e5%a4%87%e5%b7%a5%e8%89%ba%e5%8f%8c%e8%bd%ae%e9%a9%b1%e5%8a%a8%ef%bc%8c%e6%b1%89%e9%82%a6%e7%a7%91%e6%8a%80%e6%89%93%e9%80%9a%e5%b0%8f%e6%a0%b8%e9%85%b8%e4%bb%8e%e5%ae%9e%e9%aa%8c%e5%ae%a4/",
@@ -3680,6 +3889,17 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "b7821e4e183d8870d042655a77f606a7",
+      "title": "Orchard: An open framework for scalable agentic AI",
+      "url": "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/",
+      "publishedAt": "2026-08-03T16:00:00.000Z",
+      "crawledAt": "2026-09-17T11:52:10.170Z",
+      "contentStatus": "ready",
+      "contentHash": "89f14c1d161cc91c303af8833e843b93def5aea061cd6e36f88bb5644634c926",
+      "rawPath": "data/raw/b7821e4e183d8870d042655a77f606a7.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "febaf6ce103333992e9a51b251159b99",
       "title": "Neutron Sciences",
       "url": "https://www.ornl.gov/neutrons",
@@ -3702,6 +3922,17 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "1d97ce9901e405acee5e79d324e8430b",
+      "title": "Echoverse: Deep, evolving environments for computer-use agents",
+      "url": "https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/",
+      "publishedAt": "2026-07-30T17:00:00.000Z",
+      "crawledAt": "2026-09-17T11:52:10.170Z",
+      "contentStatus": "ready",
+      "contentHash": "8b4ee3851cd7a69aa9d7dc7046fda43de4055d1183c7ec174ea130f94f1be816",
+      "rawPath": "data/raw/1d97ce9901e405acee5e79d324e8430b.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "6c1e28e6ae144645a2d6893e6cdf3097",
       "title": "首轮嘉宾阵容公布丨CPHI深圳2026制药高质量发展大会暨第五届天然产物合成和药物先进制造方法国际研讨会",
       "url": "https://www.cphi-china.cn/industrynews/mseindustrynews/97080/",
@@ -3710,6 +3941,39 @@
       "contentStatus": "ready",
       "contentHash": "efc49d2dc374a8021dd07d7aab3add28df9a6cdb869688dc3dd55357a7b328f9",
       "rawPath": "data/raw/6c1e28e6ae144645a2d6893e6cdf3097.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "c6c5d7c47e8a20f9c677e2a7c0f34928",
+      "title": "【材料篇】CPHI深圳展医美论坛——再生材料与功效护肤分论坛",
+      "url": "https://www.cphi-china.cn/industrynews/mseindustrynews/97056/",
+      "publishedAt": "2026-07-29T01:08:38.000Z",
+      "crawledAt": "2026-09-17T11:51:35.657Z",
+      "contentStatus": "ready",
+      "contentHash": "26cf906b00f3333f2a389672ef9b29846369a0be2812f9559380338ec968177b",
+      "rawPath": "data/raw/c6c5d7c47e8a20f9c677e2a7c0f34928.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "cf25b4f4be8cb56a128be53179f0a77f",
+      "title": "必看！大牌阵容及会议活动剧透，龙头企业齐聚CPHI深圳展！",
+      "url": "https://www.cphi-china.cn/industrynews/mseindustrynews/96822/",
+      "publishedAt": "2026-07-28T09:35:03.000Z",
+      "crawledAt": "2026-09-17T11:51:38.700Z",
+      "contentStatus": "ready",
+      "contentHash": "7e04de97276bfaf5413bea9641d54f0b4b1964643524dcf811193748613d4307",
+      "rawPath": "data/raw/cf25b4f4be8cb56a128be53179f0a77f.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "aa60fdf3ba5fc777f252288dd3c76880",
+      "title": "展区回顾丨CPHI China 2026天然产物展区圆满收官，9月深圳精彩继续",
+      "url": "https://www.cphi-china.cn/industrynews/mseindustrynews/96771/",
+      "publishedAt": "2026-07-25T08:30:00.000Z",
+      "crawledAt": "2026-09-17T11:51:38.743Z",
+      "contentStatus": "ready",
+      "contentHash": "772eb356b35235ca221b1feba04d37ac57ae464b4eefcacb67931450474dc840",
+      "rawPath": "data/raw/aa60fdf3ba5fc777f252288dd3c76880.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -4227,6 +4491,17 @@
       "contentStatus": "fetch_failed",
       "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "rawPath": "data/raw/149c97b0087bf90aae3c789a897ec49c.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "1642f2d413caaa12551e2564df553643",
+      "title": "Bilder Fotos & Logos der Messe und Konferenz analytica",
+      "url": "https://analytica.de/de/muenchen/presse/messebilder-logos/",
+      "publishedAt": null,
+      "crawledAt": "2026-09-17T11:51:58.764Z",
+      "contentStatus": "insufficient_content",
+      "contentHash": "4cc05e098c473ffffee5fd2a6553d17c49687a252818642a67e9db70226cbd65",
+      "rawPath": "data/raw/1642f2d413caaa12551e2564df553643.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -5352,6 +5627,17 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "925fecc0c0b7b5fc4daae2ada7186067",
+      "title": "{{getFormattedDate}} {{{title}}} {{{description}}} {{readMore}}",
+      "url": "https://www.nvidia.com/en-us/research/%7B%7Blink%7D%7D",
+      "publishedAt": null,
+      "crawledAt": "2026-09-17T11:52:12.654Z",
+      "contentStatus": "fetch_failed",
+      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "rawPath": "data/raw/925fecc0c0b7b5fc4daae2ada7186067.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "943cb8b11097e0cf27506b831d50054c",
       "title": "March 24, 2025 News This \"scientific superintelligence\" platform just raised $200m in seed funding Read More",
       "url": "https://www.lila.ai/news/this-scientific-superintelligence-platform-just-raised-200m-in-seed-funding",
@@ -6207,17 +6493,6 @@
       "contentStatus": "needs_fetch",
       "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "rawPath": "data/raw/de3cde471895dbf9ac68845063d68f57.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "de59cb469cc0013eadd6aa1320c6db38",
-      "title": "2026年全国药品安全宣传周活动在京启动",
-      "url": "https://www.cpa.org.cn/?do=info&cid=79027",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T07:35:33.584Z",
-      "contentStatus": "needs_fetch",
-      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "rawPath": "data/raw/de59cb469cc0013eadd6aa1320c6db38.json",
       "lastAnalysisStatus": "pending"
     },
     {
