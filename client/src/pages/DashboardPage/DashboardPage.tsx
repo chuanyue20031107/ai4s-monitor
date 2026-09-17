@@ -90,7 +90,7 @@ export default function DashboardPage() {
 
       {/* 重要情报看板 */}
       <ImportantBoard
-        articles={articles}
+        articles={articles.filter((a) => a.analysisStatus === 'done')}
         enabledSources={stats.enabledSources}
         totalSources={stats.totalSources}
         loaded={loaded}

@@ -1,0 +1,26 @@
+name: AI analysis queue CI
+on:
+  pull_request:
+    paths:
+      - 'scripts/ai-*'
+      - 'scripts/pipeline.mjs'
+      - 'tests/ai-commands.test.mjs'
+      - '.github/workflows/ai-analysis-*.yml'
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/ai-*'
+      - 'scripts/pipeline.mjs'
+      - 'tests/ai-commands.test.mjs'
+      - '.github/workflows/ai-analysis-*.yml'
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '22'
+      - run: node --test tests/ai-commands.test.mjs tests/pipeline.test.mjs

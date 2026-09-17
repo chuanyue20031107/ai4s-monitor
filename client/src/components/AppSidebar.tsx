@@ -1,6 +1,7 @@
 import { NavLink, useLocation } from 'react-router-dom';
 import {
   Activity,
+  Bot,
   FileText,
   LayoutDashboard,
   Radar,
@@ -21,6 +22,7 @@ import {
 const NAV_ITEMS = [
   { path: '/', label: '仪表盘', icon: LayoutDashboard },
   { path: '/articles', label: '情报文章', icon: FileText },
+  { path: '/ai-control', label: 'AI 分析任务', icon: Bot },
   { path: '/sources', label: '监控来源', icon: Rss },
   { path: '/runs', label: '运行记录', icon: Activity },
   { path: '/settings', label: '设置', icon: Settings },

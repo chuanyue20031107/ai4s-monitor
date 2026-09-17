@@ -26,6 +26,12 @@ function dataUrl(name: string): string {
 }
 
 async function loadJson<T>(name: string): Promise<T> {
+  if (!import.meta.env.DEV && name === 'articles') {
+    try {
+      const response = await fetch(`https://raw.githubusercontent.com/chuanyue20031107/ai4s-monitor/main/client/public/data/articles.json?t=${Date.now()}`, { cache: 'no-store', signal: AbortSignal.timeout(10000) });
+      if (response.ok) return await response.json() as T;
+    } catch { /* Use the last deployed snapshot when GitHub is unavailable. */ }
+  }
   const response = await fetch(dataUrl(name), { cache: 'no-store' });
   if (!response.ok) throw new Error(`GitHub 数据文件加载失败：${name} (${response.status})`);
   return response.json() as Promise<T>;
