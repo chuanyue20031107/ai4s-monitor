@@ -7,10 +7,13 @@
   "sourceType": "科技大厂研究机构",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:38.656Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "The latest from Meta AI research, including the new Meta Model API. Muse Image, Muse Spark, Muse Glimmer, SAM 3, and open-source AI models.",
+  "contentStatus": "ready",
+  "extractionMethod": "meta-description",
   "discardReason": "",
-  "legacyId": "a9d72a37dea2e2a913eb90fe361bd0d9"
+  "contentHash": "b1fd800090ed827e367d6f2db0851eb8d583750aeff844ac2568bf43a13c66da",
+  "legacyId": "a9d72a37dea2e2a913eb90fe361bd0d9",
+  "lastFetchAt": "2026-09-17T05:00:03.000Z",
+  "contentTruncated": false,
+  "contentError": ""
 }

@@ -1,0 +1,18 @@
+{
+  "id": "0e711903cf5f96f07730875eff35d096",
+  "title": "Director Masashi Sugiyama Delivers Lecture at Public Event on AI, Semiconductors, and Quantum Technologies",
+  "url": "https://aip.riken.jp/news/202608scjpubliclecture/",
+  "sourceKey": "s01-22",
+  "sourceName": "RIKEN Center for Advanced Intelligence Project",
+  "sourceType": "国家研究机构",
+  "publishedAt": null,
+  "crawledAt": "2026-09-17T05:00:09.263Z",
+  "content": "Director Masashi Sugiyama delivered a lecture at the public event “Talking About AI, Semiconductors, and Quantum Technologies,” organized by the Science Council of Japan. The public lecture was held during the 37th International Conference on the Physics of Semiconductors 2026 (ICPS2026). Following the opening remarks by Professor Emeritus Yasuhiko Arakawa of the University of Tokyo, Chair of the ICPS2026 Organizing Committee, three lectures were presented on the themes of AI, semiconductors, and quantum technologies. In his lecture, entitled “The Development of AI,” Director Sugiyama introduced the foundations and principles of machine learning, recent advances and challenges in AI research, and future prospects for AI in collaboration with physics and quantum technologies. He highlighted the mechanisms underlying generalization performance from the perspective of statistical learning theory, approaches to overcoming challenges in deep learning and weakly supervised learning, and the potential of next generation intelligence emerging from the integration of AI with physics and quantum technologies. During the panel discussion that followed, participants engaged in lively discussions on the current use of GPUs in AI research and development, as well as the cultivation of AI talent in Japan. Nihonbashi 1-chome Mitsui Building, 15th floor, e-mail: aip-koho [at]riken.jp *Please replace \"[at]\" with \"@\".",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-17T05:00:09.263Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "23930108a7f6d88f2880d90d9659d5abaf4f16fe3b008771417b98b72853818b"
+}

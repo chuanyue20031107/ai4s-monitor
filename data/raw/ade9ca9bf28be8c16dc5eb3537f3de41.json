@@ -1,0 +1,18 @@
+{
+  "id": "ade9ca9bf28be8c16dc5eb3537f3de41",
+  "title": "Can AI Scientist Agents Learn from Lab-in-the-Loop Feedback? Evidence from Iterative Perturbation Discovery Gilles Wainrib et al. Pub: arXiv Mar 27, 2026",
+  "url": "https://www.owkin.com/publications/can-ai-scientist-agents-learn-from-lab-in-the-loop-feedback-evidence-from-iterative-perturbation-discovery",
+  "sourceKey": "s02-21",
+  "sourceName": "Owkin",
+  "sourceType": "AI生物医药公司",
+  "publishedAt": null,
+  "crawledAt": "2026-09-17T05:00:09.209Z",
+  "content": "March 27, 2026 arXiv Can AI Scientist Agents Learn from Lab-in-the-Loop Feedback? Evidence from Iterative Perturbation Discovery AI ML Research Abstract Recent work has questioned whether large language models (LLMs) can perform genuine in-context learning (ICL) for scientific experimental design, with prior studies suggesting that LLM-based agents exhibit no sensitivity to experimental feedback. We shed new light on this question by carrying out 800 independently replicated experiments on iterative perturbation discovery in Cell Painting high-content screening. We compare an LLM agent that iteratively updates its hypotheses using experimental feedback to a zero-shot baseline that relies solely on pretraining knowledge retrieval. Access to feedback yields a +53.4% increase in discoveries per feature on average (p = 0.003). To test whether this improvement arises from genuine feedback-driven learning rather than prompt-induced recall of pretraining knowledge, we introduce a random feedback control in which hit/miss labels are permuted. Under this control, the performance gain disappears, indicating that the observed improvement depends on the structure of the feedback signal (+13.0 hits, p = 0.003). We further examine how model capability affects feedback utilization. Upgrading from Claude Sonnet 4.5 to 4.6 reduces gene hallucination rates from ∼33%–45% to ∼3–9%, converting a non-significant ICL effect (+0.8, p = 0.32) into a large and highly significant improvement (+11.0, p=0.003) for the best ICL strategy. These results suggest that effective in-context learning from experimental feedback emerges only once models reach a sufficient capability threshold. View publication Share to: or simply highlight any text and click to post it! Authors Gilles Wainrib Barbara Bodinier Haithem Dakhli Josep Montserrat Sanchez Almudena Espin Perez Sabrina Carpentier Roberta Codato John Klein More like this AI Biology ML Research Predicting gene essentiality and drug response from perturbation screens in preclinical cancer models with LEAP: Layered Ensemble of Autoencoders and Predictors Barbara Bodinier et al. arXiv Cancer ML Adjuvant endocrine therapy uptake, toxicity, quality of life, and prediction of early discontinuation Felix Balazard et al. Journal of the National Cancer Institute",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-17T05:00:09.209Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "8b69b7e968a27f20eb929e615be59906c65a9e341fd52edb41559aaf26c2626e"
+}

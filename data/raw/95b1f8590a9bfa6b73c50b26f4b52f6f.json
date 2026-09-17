@@ -7,10 +7,13 @@
   "sourceType": "产业技术会议",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:36.892Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "From AI Insights to Experimental Action In this Digital Dialogue, we examined how AI was driving actionable insights in BioPharma R&D. We discovered how an integrated digital ecosystem and AI-driven orchestration were helping to accelerate drug discovery and development, streamline experimentation, and enable the next generation of autonomous BioPharma laboratories. Speakers Shruti Gopal Vij, Director, Innovation and AI Strategy at RDU... Read more &rarr;",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "95b1f8590a9bfa6b73c50b26f4b52f6f"
+  "contentHash": "a25112ad9cb0aa6c0d14655b23adfbcd17f7aa9fe1f7666b3501c663c15a4d59",
+  "legacyId": "95b1f8590a9bfa6b73c50b26f4b52f6f",
+  "lastFetchAt": "2026-09-17T05:00:06.143Z",
+  "contentTruncated": false,
+  "contentError": ""
 }
