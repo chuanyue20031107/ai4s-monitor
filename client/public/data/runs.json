@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "digest:2026-09-16",
+      "taskType": "每日摘要生成",
+      "status": "success",
+      "processed": 2,
+      "succeeded": 2,
+      "failed": 0,
+      "detail": "ChatGPT 日报 2026-09-16；未处理 643",
+      "failureReason": "",
+      "startedAt": "2026-09-17T00:25:23Z",
+      "finishedAt": "2026-09-17T00:25:23Z"
+    },
+    {
       "id": "bccc8bd2-e618-4e44-8779-ab35787696cf",
       "taskType": "来源抓取",
       "status": "failed",
@@ -145,5 +157,5 @@
       "finishedAt": "2026-09-16T05:12:19.802Z"
     }
   ],
-  "updatedAt": "2026-09-16T21:25:23.314Z"
+  "updatedAt": "2026-09-17T00:28:47.809Z"
 }
