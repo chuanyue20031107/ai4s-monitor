@@ -7,10 +7,14 @@
   "sourceType": "科技大厂",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:36.375Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "982 results 982 results Refine Submit Open Filter Filters Close filters Filters Clear filters Year 2026 2025 2024 2023 2022 2021 2020 2019 2018 2017 2016 2015 2014 2013 2012 2011 2010 2009 2008 2007 2006 2005 2004 2003 Language & Country English - United States Spanish - Spain Apply Your search shows 0 results UT College of Emerging and Collaborative Studies Partners with ETS and AWS to Help Students Design Careers for a Future Still Taking Shape Read more September 15, 2026 Rutgers and RWJBarnabas Health to Launch Innovation Hub, Powered by Amazon Web Services Read more September 15, 2026 Cognition and AWS Sign Multi-Year Strategic Collaboration Agreement Read more September 15, 2026 AWS and Salesforce Put CRM Data, AI Agents, and Model Choice Into the Tools Teams Use Every Day Read more September 15, 2026 Ninth Wave's AI-Powered Compass with Amazon Bedrock Cuts API Integration Time Up to 95% Read more September 14, 2026 Amazon Invests $163,000 in Frederick County Through 17 Community Grants Read more September 11, 2026 Columbia University Irving Medical Center (CUIMC) and Amazon Web Services (AWS) are collaborating to help develop new ways to detect and diagnose diseases Read more September 10, 2026 Global Healthtech Proximie, in Collaboration with AWS, Deloitte and the NHS, Launches Largest NHS AI Theatre Evaluation to Unlock Hidden Operating Theatre Capacity Read more September 09, 2026 ADP Partners with AWS to Accelerate AI-Powered Innovation in Human Capital Management Read more September 08, 2026 Hoxton Wealth Collaborates with AWS to Bring Agentic AI to Wealth Management Read more September 03, 2026 AWS and NVIDIA to Deliver 2 Million Additional GPUs and Next-Generation Infrastructure for Agentic and Physical AI Read more August 26, 2026 AWS, NBA Africa, and Learn Fresh Bring Math Education to Students in South Africa Read more August 25, 2026 Load more",
+  "contentHash": "8e908f65461bc107858b572e21705e815198fce2c307436542f608200d3d3c5b",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "cdf356a45609b34c71babf8816f77f95"
+  "legacyId": "cdf356a45609b34c71babf8816f77f95",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:48:17.297Z",
+  "fetchedUrl": "https://press.aboutamazon.com/aws",
+  "contentError": ""
 }

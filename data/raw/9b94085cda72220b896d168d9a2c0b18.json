@@ -7,10 +7,14 @@
   "sourceType": "自主实验室与平台",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:57:41.220Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "发布时间：2026-09-11 | 供稿部门：1121组 | 【 放大 】 【 缩小 】 | 【 打印 】 【 关闭 】 近日，我所化学动力学研究室光电材料动力学研究组（ 1121 组）吴凯丰研究员团队在量子点超快光物理研究中取得新进展，揭示了胶体硒化锌（ ZnSe ）量子点的超快俄歇复合机制，并基于此实现了光电发射和水合电子生成。 ZnSe 基胶体量子点具有无镉、无铅及导带能级高等特点，其光生电子还原力强，在光化学和光电子学领域受到关注。传统量子点光电发射往往受限于库伦型俄歇过程较慢、热电子冷却过快等因素，自由电子难以逃逸出材料体系。团队前期研究表明，二价锰离子（ Mn 2+ ）掺杂的 ZnSe 量子点可通过自旋交换俄歇机制高效发射自由电子（ J. Am. Chem. Soc. ， 2025 ），但在未掺杂的普通 ZnSe 量子点中，能否利用其本征库伦型多激子俄歇复合实现光电发射和水合电子生成，仍有待研究。 本研究发现，在未掺杂的普通 ZnSe 量子点中也可实现光电发射并驱动生成水合电子，其来源是 ZnSe 量子点中极快的多激子俄歇复合。研究团队合成了一系列不同尺寸的 ZnSe 量子点，并结合飞秒瞬态吸收光谱，系统研究了尺寸依赖的俄歇复合动力学过程。结果显示， ZnSe 量子点的双激子寿命（𝜏 XX ）比同尺寸硒化镉（ CdSe ）量子点短近 10 倍。在己烷相中，𝜏 XX 遵循体积标度律，即𝜏 XX 近似正比于量子点体积，但在水相小尺寸区间该规律失效，表明介电限域效应对俄歇过程具有影响。 瞬态吸收谱进一步揭示了量子点光电发射的尺寸依赖阈值特征：小尺寸量子点由于俄歇复合更快，仅需较少激子即可发生光电发射；大尺寸量子点则需要更高阶的多激子才能实现光电发射。光电发射源于 ZnSe 量子点中的超快多激子俄歇复合，该过程可在飞秒尺度内与热电子冷却竞争，将电子能量提升至真空能级以上并实现电子发射。研究发现，将量子点交换到水相中，光电发射产生的自由电子就会被水分子溶剂化，形成水合电子（ e ⁻ aq ），其量子产率超过 3% 。 该工作将超快多激子俄歇复合这一传统认知的有害过程用于无掺杂 ZnSe 量子点的光电发射和水合电子生成，摆脱了对 Mn 2+ 掺杂的依赖，也为发展低毒、高效的水合电子源提供了新平台。该类材料有望应用于超快电子源及基于水合电子的光化学转化等相关领域。 相关成果以 “ Exploiting Ultrafast Auger Recombination in Colloidal ZnSe Quantum Dots for Photoemission and Hydrated Electron Generation” 为题，于近日发表于《德国应用化学》（ Angewandte Chemie International Edition ）。上述工作得到国家自然科学基金、基础研究中央高校专项资金、中国科学院、新基石科学基金会等项目的资助。（文 / 图 姚盟）",
+  "contentHash": "48c33d2f9877ce7c3464425ff61958bd525184cd671a7edcc691e86061dadd19",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "9b94085cda72220b896d168d9a2c0b18"
+  "legacyId": "9b94085cda72220b896d168d9a2c0b18",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:42:02.368Z",
+  "fetchedUrl": "https://www.dicp.ac.cn/xwdt/kyjz/202609/t20260911_8280690.html",
+  "contentError": ""
 }

@@ -7,10 +7,14 @@
   "sourceType": "自主实验室与平台",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:57:37.446Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "8月29日，深圳市七届人大常委会第四十次会议表决通过《深圳经济特区促进合成生物产业创新发展若干规定》，为深圳抢抓全球生物技术与产业发展机遇，抢占合成生物产业发展主动权提供法治保障。",
+  "contentHash": "41ac09034d1c125738d723727ed6ee8bd6758bbdc0647cb224d5ca4d8a3f28fc",
+  "contentStatus": "insufficient_content",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "1ba14a6baac75bcc7ef10ad0aea462c0"
+  "legacyId": "1ba14a6baac75bcc7ef10ad0aea462c0",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:27:02.037Z",
+  "fetchedUrl": "https://isynbio.siat.ac.cn/siat/isb/mtgz/2025090916162164421/index.html",
+  "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成"
 }

@@ -7,10 +7,14 @@
   "sourceType": "科学数据库与平台",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:57:50.143Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "The PDB Beta Archive will replace the current archive July 21, 2027. The PDB Beta Archive organization supports the transition to extended PDB IDs. Users are strongly encouraged to start using this new directory structure and extended PDB IDs now. &ldquo;Shortlinks&rdquo; are URLs that can be used for downloading data from the beta archive today without the need to know or code specific file paths, e.g., https://files-beta.wwpdb.org/download/pdb_00001abc.cif.gz When the PDB Beta Archive becomes the main PDB Archive, shortlink users will only need to update the domain name for these shortlinks: https://files.wwpdb.org/download/pdb_00001abc.cif.gz wwPDB recommends that users with automated workflows adopt shortlinks today. RCSB PDB Core Operations are funded by the U.S. National Science Foundation (DBI-2321666), the US Department of Energy (DE-SC0019749), and the National Cancer Institute , National Institute of Allergy and Infectious Diseases , and National Institute of General Medical Sciences of the National Institutes of Health under grant R01GM157729. RCSB PDB uses resources of the National Energy Research Scientific Computing Center ( NERSC ), a Department of Energy User Facility.",
+  "contentHash": "23378d5875c461fd3d4c5dfee965e71822451043039edda389e92550256359a8",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "4b147af2163a3310fdaab09d3c582d02"
+  "legacyId": "4b147af2163a3310fdaab09d3c582d02",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:32:04.284Z",
+  "fetchedUrl": "https://www.rcsb.org/news/feature/6a4fc5f40fba48755e86064b",
+  "contentError": ""
 }

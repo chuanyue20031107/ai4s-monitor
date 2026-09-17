@@ -7,10 +7,14 @@
   "sourceType": "自主实验室与平台",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:57:40.684Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "OpenCompass Website HOT OpenCompass Toolkit TRY IT OUT What is OpenCompass ? OpenCompass is a platform focused on understanding of the AGI, include Large Language Model and Multi-modality Model. We aim to: develop high-quality libraries to reduce the difficulties in evaluation provide convincing leaderboards for improving the understanding of the large models create powerful toolchains targeting a variety of abilities and tasks build solid benchmarks to support the large model research research on inference of Large Model(analysis, reasoning, prompt engineering.) Toolkit OpenCompass OpenCompass is an LLM evaluation platform, supporting a wide range of models (LLaMA, LLaMa2, ChatGLM2, ChatGPT, Claude, etc) over 80+ datasets. https://github.com/open-compass/opencompass VLMEvalKit VLMEvalKit is a toolkit for evaluating large vision-language models (LVLMs), currently supporting ~20 LVLMs and five multi-modal benchmarks. https://github.com/open-compass/vlmevalkit Models CompassVerifier CompassVerifier is an accurate and robust lightweight verifier model for evaluation and outcome reward. https://github.com/open-compass/CompassVerifier CompassJudger CompassJudger-2: Towards Generalist Judge Model via Verifiable Rewards https://github.com/open-compass/CompassJudger Benchmarks and Methods Project Topic Paper DevBench Automated Software Development DevBench: Towards LLMs based Automated Software Development CriticBench Critic Reasoning CriticBench: Evaluating Large Language Models as Critic ANAH Hallucination Annotation ANAH: Analytical Annotation of Hallucinations in Large Language Models MathBench Mathematical Reasoning MathBench: Evaluating the Theory and Application Proficiency of LLMs with a Hierarchical Mathematics Benchmark T-Eval Tool Utilization T-Eval: Evaluating the Tool Utilization Capability Step by Step MMBench Multi Modality MMBench: Is Your Multi-modal Model an All-around Player? BotChat Subjective Evaluation BotChat: Evaluating LLMs’ Capabilities of Having Multi-Turn Dialogues LawBench Domain Evaluation LawBench: Benchmarking Legal Knowledge of Large Language Models",
+  "contentHash": "bcf974e00f5530ec7af10bbd85afc4e6a15ce4f47fd4682e82854fb315a249ec",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "6231023bebc9110313655bc8c97a872f"
+  "legacyId": "6231023bebc9110313655bc8c97a872f",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:35:31.078Z",
+  "fetchedUrl": "https://github.com/open-compass/",
+  "contentError": ""
 }

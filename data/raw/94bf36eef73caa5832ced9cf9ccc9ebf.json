@@ -7,10 +7,14 @@
   "sourceType": "基因组标准组织",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:35.568Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "News and events Public Attitudes for Genomics and Policy Blog Genomic research, which is pivotal to advancements in medical diagnosis and treatment, relies heavily on the donation of genomic and other medical data by numerous individuals and sharing of that data between research groups. There is an extensive body of published academic research examining public attitudes towards storage and sharing of genomic data. These blog posts summarise the outcomes of this research and explain the policy implications. While some of the blog posts focus on policy implications from a large multinational study, the Your DNA Your Say initiative, other blog posts focus more attention on public attitudes within specific populations. Explore all briefs below. Co-editors: Dianne Nicol and Gemma Brown Filter Filter: All Work Streams Regulatory & Ethics Work Stream (REWS) All Products Policy on Clinically Actionable Genomic Research Results Public Attitudes for Genomic Policy &mdash; Blog Posts All Groups All Categories Blog Posts Date: Most recent 2025 2024 2023 2022 All GIF Projects Blog Posts 9 Dec 2025 Older research participants are motivated to receive genetic results for the benefit of younger relatives See more Blog Posts 20 Nov 2025 Individual attitudes toward medical and genetic data sharing in Latin America and development of two new indexes See more Blog Posts 30 Oct 2025 The role of the ‘commercialisation effect’ in shaping Australians’ attitudes towards a hypothetical national genomic repository See more Blog Posts 22 Jul 2025 Public Attitudes for Genomic Policy Brief: The perceived risks of sharing genomic data with researchers See more Blog Posts 16 Jan 2025 Public Attitudes for Genomic Policy Brief: Public perceptions of international genetic information sharing for biomedical research in China See more Blog Posts 2 Jul 2024 Public attitudes for genomic policy brief: genomic data sharing in Singapore See more Blog Posts 13 Oct 2023 Public Attitudes for Genomic Policy Brief: genetic exceptionalism See more Blog Posts 12 Sep 2023 Public Attitudes for Genomic Policy Brief: familiarity See more Blog Posts 23 May 2023 Public Attitudes for Genomic Policy Brief: return of research results See more Blog Posts 10 Jan 2023 Public Attitudes for Genomic Policy Brief: what does the United Kingdom public think about the storage and use of its genetic data? See more Blog Posts 31 Aug 2022 Public Attitudes for Genomic Policy Brief: trust and trustworthiness See more There are no matches for your search criteria Interested in authoring a piece? Submit an idea for future blog posts Email Us",
+  "contentHash": "a53b0c023fa2fb2d4032576c6284b08a81d6fbb41440db72825504bc31e04ede",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "94bf36eef73caa5832ced9cf9ccc9ebf"
+  "legacyId": "94bf36eef73caa5832ced9cf9ccc9ebf",
+  "contentTruncated": true,
+  "lastFetchAt": "2026-09-17T08:41:36.495Z",
+  "fetchedUrl": "https://www.ga4gh.org/news-eventsxxx/public-attitudes-for-genomics-and-policy-blog/",
+  "contentError": ""
 }

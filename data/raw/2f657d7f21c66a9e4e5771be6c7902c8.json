@@ -7,10 +7,14 @@
   "sourceType": "科学数据库与平台",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:57:50.143Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Many structural biologists deposit multiple related entries: mutants, ligand-bound forms, re-refinements, or follow-up EM maps from the same project. Re-entering authors, citations, funding, macromolecules information and experimental details for each new deposition is repetitive and error-prone. The wwPDB OneDep deposition system has long offered a &ldquo;Based on a previous wwPDB deposition&rdquo; option on the File upload page. This feature has been substantially refactored and improved to make metadata reuse faster, more selective, and more reliable across X-ray, NMR, and EM depositions. In order to use this feature, depositors need to provide the previous deposition ID (with its password, or by using ORCID authentication), choose which metadata categories to copy, and upload new files as usual. Selected mmCIF metadata is merged into the new entry before annotation. The upload Summary page then shows what was imported, skipped, or blocked. The previous entry must be deposited at the same wwPDB site as the current entry. The feature is available on the File upload page at deposit.wwpdb.org . Further guidance is in the wwPDB deposition FAQ and wwPDB tutorial page . RCSB PDB Core Operations are funded by the U.S. National Science Foundation (DBI-2321666), the US Department of Energy (DE-SC0019749), and the National Cancer Institute , National Institute of Allergy and Infectious Diseases , and National Institute of General Medical Sciences of the National Institutes of Health under grant R01GM157729. RCSB PDB uses resources of the National Energy Research Scientific Computing Center ( NERSC ), a Department of Energy User Facility.",
+  "contentHash": "82852357b39071d1f94259ec31ec66da2bd04bd7586180a7462b06f628bfa795",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "2f657d7f21c66a9e4e5771be6c7902c8"
+  "legacyId": "2f657d7f21c66a9e4e5771be6c7902c8",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:29:28.312Z",
+  "fetchedUrl": "https://www.rcsb.org/news/feature/6a626da53bf5580b84a87d27",
+  "contentError": ""
 }

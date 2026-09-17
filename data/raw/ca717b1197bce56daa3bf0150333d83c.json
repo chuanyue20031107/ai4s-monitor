@@ -7,10 +7,14 @@
   "sourceType": "材料高通量实验企业",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:05:24.864Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "作为清华大学材料学院 的 博士生，王轩泽以 “创业者+博士生”的双重身份，分别 从学术和产业发展的角度， 围绕 AI如何重构材料研发范式、AI与材料交叉融合的前沿 趋势，创材深造的“AI+高通量”材料研发路径 ， 以及新形势下材料人才的成长路径等关键议题，与现场师生及产业界人士展开深度交流。 王轩泽在报告中首先介绍到，当前我们国家正处在新一轮的产业升级，战略性新兴产业蓬勃发展，新材料需求快速增长，然而长期以来我国高端新材料仍依赖进口，国产化需求迫切，亟需实现关键材料自主可控。",
+  "contentHash": "ffade9eb993c5754b2cc67f9efbde985d1f4afc448540ca7817f9335f2d6bde5",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "ca717b1197bce56daa3bf0150333d83c"
+  "legacyId": "ca717b1197bce56daa3bf0150333d83c",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:48:10.018Z",
+  "fetchedUrl": "https://www.deep-material.com/qiyexinwen/81",
+  "contentError": ""
 }

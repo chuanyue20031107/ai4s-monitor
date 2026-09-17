@@ -7,10 +7,14 @@
   "sourceType": "基因组标准组织",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:35.568Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "New GA4GH Policy Brief discusses the EDPB Guidelines 1/2026 about what “scientific research purposes” are in the context of personal data processing See more Mute Rewind Play Fast Forward Pause Stop Language English Français Deutsch Español Português ภาษาไทย 한국어 繁體中文 日本語 Unlocking the power of genomic data to benefit human health GA4GH builds the foundation for broad and responsible use of genomic data. The not-for-profit Global Alliance for Genomics and Health (GA4GH) sets standards and frames policies to expand genomic data use within a human rights framework . Learn about GA4GH Read our Framework Changing lives with our open-source products 3 June 2022 How a bot beamed from California to Japan may stop unnecessary mastectomies for breast cancer patients See more 2 December 2019 Genomics England implements GA4GH API to provide secure access to genomic data for the NHS See more 13 October 2017 Data sharing brings hope to rare disease patients around the globe See more Explore GA4GH products Our impact 3,000,000+ genomes stewarded by our global partners with a commitment to responsible and effective access organisations collaborate to set international guidelines for genomic data use products innovate links between genomics and healthcare solutions accelerate progress in human health with GA4GH products To learn more about GA4GH’s impact, explore the 2025 Annual Report. GA4GH Annual Report Working with organisations worldwide Align your organisation with the world’s genomic standards and policy frameworks. Meet our community Join us How we work Here's our community... Strategic Partners Driver Projects Organisational Members Assigned Experts Individual Contributors ...and here's what we do. Define needs Study Groups Find challenges and opportunities in cancer, rare disease, large-scale genomics, and more Create standards and policy frameworks Work Streams Implement products to solve problems GA4GH Implementation Forum National Initiatives Forum Communities of Interest Discover what we do Get involved More than 500 leading organisations in healthcare, patient advocacy, research, ethics, government, life science, and information technology participate in our community. Help shape global genomic standards by joining us! Explore open calls Use our products Join us News, events, and more Discover the latest events, stories, news, and insights at the forefront of genomic data sharing. 27 Apr 2027 April Connect 2027 See more 28 Sep 2026 14th Plenary See more Policy Briefs 1 Sep 2026 EDPB Guidelines 1/2026: What are “scientific research purposes” in the context of personal data processing? See more See all news Sign up for NEWSLETTERS Receive timely updates, meeting information, and news tailored to your interests and needs. Subscribe to a newsletter",
+  "contentHash": "42fdc6b422a9d1f62ef944e0cfea03e52c9b97c164368ac36371f95820a1327a",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "66141941f7ed26368e0a352c4aecb9b2"
+  "legacyId": "66141941f7ed26368e0a352c4aecb9b2",
+  "contentTruncated": true,
+  "lastFetchAt": "2026-09-17T08:35:33.712Z",
+  "fetchedUrl": "https://www.ga4gh.org/?page_id=99",
+  "contentError": ""
 }

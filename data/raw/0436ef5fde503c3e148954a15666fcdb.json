@@ -7,10 +7,14 @@
   "sourceType": "自主实验室与平台",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:57:41.220Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "发布时间：2026-09-09 | 供稿部门：DNL1901组群 | 【 放大 】 【 缩小 】 | 【 打印 】 【 关闭 】 近日，我所氢能与先进材料研究部氢化物能源化学研究中心（ DNL1901 组群）陈萍研究员、曹湖军研究员团队在固态储氢领域取得新进展。团队构建了光和光热驱动的氨基锂—氢化锂（ LiNH 2 -2LiH ）储放氢过程，实现了温和条件下大于 10 wt.% 的高容量可逆储氢。 高容量、低能耗的固态可逆储氢技术可为氢能规模化应用提供重要支撑。陈萍团队建立的氨基化物—氢化物复合材料体系（ Nature ， 2002 ； Adv. Mater. ， 2004 ； Adv. Energy Mater. ， 2017 ），是储氢材料家族中的重要一员。其中， LiNH 2 -2LiH 复合材料可逆储氢大于 10 wt.% 。但受热力学平衡限制，该体系完全脱氢需要温度达到 400℃ 左右。 基于前期对光致活化 Li-H 键（ Nat. Chem. ， 2024 ； J. Phys. Chem. Lett. ， 2024 ）及 N-H 键（ Adv. Sci. ， 2025 ； J. Am. Chem. Soc. ， 2026 ）的研究工作，本工作进一步将光活化策略拓展至 LiNH 2 -2LiH 。研究发现， UV 光可活化 LiNH 2 -2LiH 体系中的 N-H 和 Li-H 键；在 2.9 W·cm -2 全光谱光照下，该材料呈现较强的光和光热耦合效应，放氢量可达 10.16 wt.% 。经 6 次吸放氢循环后，该体系容量基本保持。此外，团队还实现了 LiNH 2 -2LiH 体系在自然太阳光照下的快速放氢，验证了太阳能直接驱动固态材料放氢的能力。 相关研究以“ Solar‐Driven Reversible Hydrogen Storage Over LiNH 2 -2LiH” 为题，于近日发表在《德国应用化学》（ Angewandte Chemie International Edition ）上，该工作的第一作者是我所 DNL1901 组群联合培养博士研究生程咨博和关业勤副研究员。上述工作得到国家重点研发计划、国家自然科学基金、中国科学院 A 类先导专项“高能效低压固态储释氢”、辽宁省科技重大专项等项目的支持。（文 / 图 程咨博）",
+  "contentHash": "e6c90bf64b06b05a441c4a8f786e3987064ea00bd6f192eb4e6aeca26a18cd68",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "0436ef5fde503c3e148954a15666fcdb"
+  "legacyId": "0436ef5fde503c3e148954a15666fcdb",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:23:45.824Z",
+  "fetchedUrl": "https://www.dicp.ac.cn/xwdt/kyjz/202609/t20260908_8279580.html",
+  "contentError": ""
 }

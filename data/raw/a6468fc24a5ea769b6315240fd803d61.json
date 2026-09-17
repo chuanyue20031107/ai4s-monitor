@@ -7,10 +7,14 @@
   "sourceType": "通用模型厂商",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:05:27.102Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Agent时代，模型能力由模型智能以及其处理的context容量两个维度定义。一个能够原生处理图片、视频、文本等多模态context，同时擅长复杂编程、长程规划、动作执行的Coding基座模型，将是所有AI原生应用的基石。 今天，我们发布 GLM-5V-Turbo ，面向视觉编程打造的多模态Coding基座模型。 GLM-5V-Turbo从预训练阶段深度融合视觉与文本能力，让编程不再局限于纯文本输入。模型能看懂设计稿、截图、网页界面，并据此生成完整可运行的代码，真正做到看得懂画面、写得出代码。 核心要点如下： 原生多模态Coding基座：原生理解图片、视频、设计稿、文档版面等多模态输入，并支持画框、截图、读网页等多模态工具调用，上下文窗口扩展至200k，将Agent的感知-行动链路从纯文本延伸到视觉交互。 兼顾视觉与编程能力：在多模态Coding、Tool Use、GUI Agent等核心基准上取得领先表现。通过多任务协同RL等技术手段，确保纯文本场景下的编程、推理、工具调用等能力不退化。 深度适配Claude Code与龙虾场景：与Claude Code、OpenClaw/AutoClaw等Agent深度协同，支持“看懂环境→规划动作→执行任务”的完整闭环，并提供全套官方Skills，开箱即用。 多模态Coding基座 在多模态Coding、Agentic任务以及纯文本Coding维度的评测基准上，GLM-5V-Turbo均以更小尺寸取得了领先表现。 GLM-5V-Turbo在设计稿还原、视觉代码生成、多模态检索与问答、视觉探查等基准上均取得领先表现；在衡量真实GUI环境操控能力的AndroidWorld、WebVoyager等基准上同样表现突出。在纯文本Coding能力方面，GLM-5V-Turbo在CC-Bench-V2的Backend、Frontend和Repo Exploration三项核心基准测试中均保持稳定表现，表明 视觉能力引入后，纯文本编程与推理能力保持了同等水准 。 在AutoClaw等龙虾Agent中接入GLM-5V-Turbo后， 龙虾具备了真正的视觉能力，能看懂屏幕上的信息 。模型在衡量龙虾Agent任务执行质量的PinchBench、ClawEval和ZClawBench上取得优异成绩，验证了其在复杂任务执行场景中的综合能力。 内测阶段，字节跳动、美团、快手等互联网大厂 合作伙伴对GLM-5V-Turbo给予了高度评价 ： “GLM-5V-Turbo实现了从设计稿到代码的完整还原，作为一款视觉理解模型，能够很好地满足开发者的前端开发场景。”——TRAE模型测评团队 “原生多模态能力的引入并未削弱其编程逻辑，其编程能力仍属于国内第一梯队。增强了AI at Work领域下D2C、图片处理等方向的工作体验。”——美团某团队 “它为Agent安上了「眼睛」，同时在编程领域展现出优于同类多模态模型的能力，在视觉编程场景中更具竞争力。”——快手万擎模型测评团队 GLM-5V-Turbo能够取得性能领先在于其 模型架构、训练方法、数据构造、工具链四个层面的系统性升级 ： 原生多模态融合：GLM-5V-Turbo从预训练阶段开始进行文本与视觉能力深度融合，并在后训练阶段实现多模态协同优化。我们研发了新一代CogViT视觉编码器，在通用物体识别、细粒度理解、几何与空间感知上均达最优，也设计了兼容多模态输入且推理友好的MTP结构，在多模态场景下实现了较高的推理效率。 30+ 任务协同强化学习：在强化学习阶段同时优化30+任务类型，覆盖STEM、grounding、video、GUI Agent等子领域，模型在感知、推理、Agentic执行和人类体感上均获稳健提升，协同强化学习有效缓解了单领域训练的不稳定性。 Agentic数据与任务构造：针对Agent数据稀缺和验证困难的行业挑战，我们构建从元素感知到序列级动作预测的多层级体系，基于合成环境大规模生成可控、可验证的训练数据，并从预训练阶段即注入Agentic元能力（如将GUI Agent PRM数据加入预训练以降低幻觉），同时探索非对称优化，用多模态评估任务撬动更强的Agent能力。 多模态工具链扩展：在文本工具基础上，GLM-5V-Turbo新增支持多模态搜索、画框、截图、读网页等多模态tools，将编程与任务执行的感知-行动链路从纯文本扩展到视觉交互。与Claude Code、AutoClaw等龙虾的协同效果进一步增强，支持“看懂环境→规划动作→执行任务”的完整闭环。 典型场景展示 1.图像即代码 GLM-5V-Turbo尤其擅长核心视觉编程场景。 前端复刻 ：发送草图、设计稿、参考网站的截图或录屏，模型就能直接理解布局、配色、组件层级与交互逻辑，生成完整可运行的前端工程，准确还原版式、配色、动效等视觉细节。 GUI自主探索复刻 ：结合Claude Code等框架，GLM-5V-Turbo能凭借自身强大的GUI Agent能力自主探索目标网站，浏览页面结构、梳理各页面之间的跳转关系、采集视觉素材与交互细节，最后基于记录的探索结果直接生成代码复现整个站点，实现从“看图复刻”到“GUI探索复刻”的能力跃升。 交互式编辑 ：支持按需求增删页面模块、修改文案与样式、调整布局结构，并可补充按钮反馈、弹窗切换、表单联动等交互功能，实现可视化迭代编辑。 2.为龙虾安上眼睛 龙虾的任务边界被大幅拓宽 ，例如可以浏览网页和文档，生成图文并茂的报告、PPT，还可以查询并解读K线图等复杂图表。 AutoClaw已上线“股票分析师”Skill，利用GLM-5V-Turbo的原生视觉能力，龙虾能直接看懂K线走势、估值区间图和券商研报图表，实现四路数据源60秒并行采集，输出 图文交错 的研报。立即在AutoClaw中 切换至GLM-5V-Turbo ，试试提问“帮我分析今天XXX的股价，生成专业分析报告”。 除视觉编程与龙虾任务外，GLM-5V-Turbo在多模态搜索、深度研究、GUI Agent、感知Grounding等更广泛的Agentic场景中也实现了显著的性能提升。为此，我们提供了一组 官方Skills ，涵盖图像Captioning、视觉Grounding、基于文档的写作、简历筛选、提示词生成等原生能力，以及基于GLM-OCR和GLM-Image构建的文字识别、表格识别、手写体识别、公式识别和文生图能力，帮助用户在更多场景中释放模型的多模态潜力。上述Skills已上线ClawHub，一键安装即可体验全部能力。 ClawHub链接 ： https://clawhub.ai/zai-org/glm-master-skill GitHub链接： https://github.com/zai-org/GLM-skills 立即体验 欢迎广大用户通过以下方式接入GLM-5V-Turbo： 1.产品体验 AutoClaw（澳龙）：https://autoglm.zhipuai.cn/autoclaw/ Z.ai：https://chat.z.ai 2.官方API接入 BigModel 开放平台 ：https://docs.bigmodel.cn/cn/guide/models/vlm/glm-5v-turbo Z.ai：https://docs.z.ai/guides/vlm/glm-5v-turbo Coding Plan：现面向Coding Plan用户开放申请；后续GLM Coding Plan也会纳入GLM-5V-Turbo，敬请期待。申请问卷：https://zhipu-ai.feishu.cn/share/base/form/shrcndgpmRlJoD5rMmIavUrPwzg",
+  "contentHash": "8618d4b92b38a2cd4a079b005f79ed5418e99fe632958ba27ffb296528357c61",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "a6468fc24a5ea769b6315240fd803d61"
+  "legacyId": "a6468fc24a5ea769b6315240fd803d61",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:44:43.644Z",
+  "fetchedUrl": "https://www.zhipuai.cn/zh/research/156",
+  "contentError": ""
 }

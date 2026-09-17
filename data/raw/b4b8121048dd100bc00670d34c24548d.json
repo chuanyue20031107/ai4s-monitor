@@ -8,12 +8,12 @@
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:34.387Z",
   "content": "News A new format for 28th Plenary: Call for Sessions Open September 15, 2026",
-  "contentStatus": "insufficient_content",
+  "contentStatus": "fetch_failed",
   "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
   "contentHash": "5c48259ba1dbe9602793c78f753dce7a807311b4a71a62cbce91746dcec0a3f5",
   "legacyId": "b4b8121048dd100bc00670d34c24548d",
-  "lastFetchAt": "2026-09-16T21:25:15.671Z",
+  "lastFetchAt": "2026-09-17T08:45:09.933Z",
   "contentTruncated": false,
-  "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成"
+  "contentError": "HTTP_403"
 }

@@ -7,10 +7,14 @@
   "sourceType": "材料信息学公司",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:05:19.356Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Data Scientists – a hot commodity in tech Steve Edkins, Citrine’s Data Science Manager, speaks about working at Citrine. Life at Citrine Why I Now Care About What Goes Into Everyday Products – Brooke Anderson Account Executive Brooke Anderson writes an opinion piece about sustainability. Life at Citrine Life At Citrine – Erin Antono Hear from Erin Antono as she describes what she likes about working at Citrine. Life at Citrine Life At Citrine – Tia Vieira Hear from Tia Vieria as she describes what she likes about working at Citrine. Life at Citrine Productive Summers At Citrine Our summer interns had productive summers. Read why they joined Citrine and what they did. Life at Citrine The importance of purposeful work The best missions don’t just provide lip service to pipe dreams, they add purpose to the work employees are pushing toward on a daily basis. Life at Citrine Product and Engineering Dynamics at Citrine Team dynamics can be complicated and fluid, but they are incredibly important if we are to meet our company goals. Life at Citrine Navigating Uncertainty and Parenting in 2020 Supporting families and professional growth during a challenging year. Life at Citrine",
+  "contentHash": "2a28abb470a5cedea91c7dc99bee6ebd3990a66e6adcec57c3a58aab9c931504",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "24fdfde056bc56d57e6ee3fc50f144c9"
+  "legacyId": "24fdfde056bc56d57e6ee3fc50f144c9",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:27:17.234Z",
+  "fetchedUrl": "https://citrine.io/category/blog/life-at-citrine/",
+  "contentError": ""
 }

@@ -7,10 +7,14 @@
   "sourceType": "基因组标准组织",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:35.568Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "News and events Podcasts Listen to OmicsXchange, a podcast produced by GA4GH featuring discussions on genomic and health-related data sharing. Filter Filter: All Work Streams Data Use & Researcher Identity (DURI) Work Stream Discovery Work Stream Federated Analysis Work Stream (formerly Cloud Work Stream) Genomic Knowledge Standards (GKS) Work Stream Regulatory & Ethics Work Stream (REWS) All Products Beacon Data Connect Data Use Ontology (DUO) Diversity in Datasets Framework for responsible sharing of genomic and health-related data Passports Variation Representation Specification (VRS) All Groups Date: Most recent 2024 2022 2020 2019 28 Feb 2024 OmicsXchange Season 2, Episode 1: Together for CHANGE: sequencing the African American genome with Lyndon Mitnaul and James Hildreth Sr. See more 22 Jul 2022 OmicsXchange episode 18: precision health and genomics — an interview with Eric Green See more 10 Jun 2022 OmicsXchange episode 17: exploring the Variation Representation Specification with Larry Babb and Alex Wagner See more 27 May 2022 OmicsXchange episode 16: Atlas Variant Effects Alliance and interpreting human genetic variation — an interview with Clare Turnbull and Lea Starita See more 4 May 2022 OmicsXchange episode 15: the first gapless human genome sequence — an interview with Karen Miga See more 25 Mar 2022 OmicsXchange episode 14: genomic surveillance and outbreak response in Africa with Alan Christoffels See more 11 Jan 2022 OmicsXchange episode 13: a conversation with the Data Connect technical team See more 10 Dec 2020 OmicsXchange episode 12: the need for further inclusion of diversity in studies — an interview with Nicola Mulder See more 23 Oct 2020 OmicsXchange episode 11: empowering science through interoperability — an interview with Max Barkley See more 21 Sep 2020 OmicsXchange episode 10: letter from the 8th Plenary Committee Chair — an interview with Meg Doerr See more 27 Jul 2020 OmicsXchange episode 8: HDR UK's COVID-19 response — an interview with Caroline Cake See more 29 Jun 2020 OmicsXchange episode 7: ELIXIR's COVID-19 response — an interview with Kathi Lauer See more 1 Jun 2020 OmicsXchange episode 6: regulatory/ethics perspective on COVID-19 data sharing — an interview with Johan Ordish See more 12 May 2020 OmicsXchange episode 5: COVID-19 Beacon — an interview with Marc Fiume See more 24 Apr 2020 OmicsXchange episode 4: re-envisioning the data access process — an interview with Melanie Courtot and Craig Voisin See more 28 Feb 2020 OmicsXchange episode 3: How Data Sharing Advances Rare Disease Research: An Interview with Heidi Rehm See more 28 Jan 2020 OmicsXchange episode 2: seventh aniversary of GA4GH — an interview with Peter Goodhand and Ewan Birney See more 10 Dec 2019 OmicsXchange episode 1: science as a human right — an interview with Bartha Maria Knoppers See more There are no matches for your search criteria",
+  "contentHash": "93721343b8a2b0cbe510bee52d10f96af3d4655b9937e0215f63947617c9b75e",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "74c10c4e707087bdf7ac93b2ad55843f"
+  "legacyId": "74c10c4e707087bdf7ac93b2ad55843f",
+  "contentTruncated": true,
+  "lastFetchAt": "2026-09-17T08:35:51.150Z",
+  "fetchedUrl": "https://www.ga4gh.org/news-eventsxxx/podcasts/",
+  "contentError": ""
 }

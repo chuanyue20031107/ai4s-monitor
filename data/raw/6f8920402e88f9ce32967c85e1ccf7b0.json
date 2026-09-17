@@ -7,10 +7,14 @@
   "sourceType": "国际研究机构",
   "publishedAt": null,
   "crawledAt": "2026-09-16T05:12:13.867Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Featured news Building a clear picture of UK health research funding MRC and Europe PMC develop interactive dashboard to track health research funding in the UK. 16 September 2026",
+  "contentHash": "efcce94c68f9cf8e6f4809e5d719787c733e7929c1cf271ad2d5bf05b9841049",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "6f8920402e88f9ce32967c85e1ccf7b0"
+  "legacyId": "6f8920402e88f9ce32967c85e1ccf7b0",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:35:46.049Z",
+  "fetchedUrl": "https://www.ebi.ac.uk/about/news/",
+  "contentError": ""
 }

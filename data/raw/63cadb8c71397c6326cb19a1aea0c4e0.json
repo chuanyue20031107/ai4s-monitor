@@ -11,8 +11,9 @@
   "contentStatus": "insufficient_content",
   "extractionMethod": "meta-description",
   "discardReason": "",
-  "lastFetchAt": "2026-09-16T11:46:27.055Z",
+  "lastFetchAt": "2026-09-17T08:35:31.668Z",
   "contentTruncated": false,
   "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成",
-  "contentHash": "6ce9f8fafcc79a2e5506c6274567b28926c713c2d2ca51d88d5e40349201cb3d"
+  "contentHash": "6ce9f8fafcc79a2e5506c6274567b28926c713c2d2ca51d88d5e40349201cb3d",
+  "fetchedUrl": "https://autoglm.zhipuai.cn/?channel=official"
 }

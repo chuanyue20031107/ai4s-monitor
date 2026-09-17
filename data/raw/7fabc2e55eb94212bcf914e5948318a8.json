@@ -7,10 +7,14 @@
   "sourceType": "实验室技术展会",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:33.582Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "2026年，适逢“十五五”规划开局之年， 《医药工业数智化转型实施方案（2025-2030年）》 全面推进，人工智能、数字孪生与实验室信息管理系统的深度融合，正推动药品实验室从“数字化”向“数智化”深刻变革。2025版《中国药典》进入全面落地执行的关键窗口期，对药品实验室的检测能力与质控体系提出了前所未有的挑战。在标准升级与技术创新双重驱动下，中国的药品实验室正站在范式革命的历史关口。慕尼黑分析生化中国展作为全球分析领域最具影响力的盛会，携手制药行业头部平台 蒲公英Ouryao ，依托双方在展览展示与行业深耕的独特优势，汇聚标准制定部门、监管机构、科研院校、行业协会、头部药企等资深专家，以 “创新领航、智启新程” 为主题，共同探讨在政策驱动与技术革新的双重背景下，如何应对产业变革、标准升级、技术更迭，引领行业迈向高质量发展新征程。",
+  "contentHash": "ffb1e02a2d2da1fe9b8567223be272ff0e8d1be98ab0f27c58631484ca9ac783",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "7fabc2e55eb94212bcf914e5948318a8"
+  "legacyId": "7fabc2e55eb94212bcf914e5948318a8",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:38:24.159Z",
+  "fetchedUrl": "https://www.analyticachina.com.cn/cn/analytica-china-2026/Supporting-program/ouryao",
+  "contentError": ""
 }

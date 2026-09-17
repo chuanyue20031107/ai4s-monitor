@@ -5,12 +5,16 @@
   "sourceKey": "s01-08",
   "sourceName": "National Institute of Standards and Technology",
   "sourceType": "国家计量标准机构",
-  "publishedAt": null,
+  "publishedAt": "2019-02-23T20:36:00.000Z",
   "crawledAt": "2026-09-16T05:12:09.634Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "An official website of the United States government Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock ( Lock A locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites. Radiation Physics Building: History of Research Learn about how NIST has contributed to preserving history The National Institute of Standards and Technology (NIST) was founded in 1901 and is now part of the U.S. Department of Commerce. NIST is one of the nation's oldest physical science laboratories. Congress established the agency to remove a major challenge to U.S. industrial competitiveness at the time—a second-rate measurement infrastructure that lagged behind the capabilities of the United Kingdom, Germany, and other economic rivals. From the smart electric power grid and electronic health records to atomic clocks, advanced nanomaterials, and computer chips, innumerable products and services rely in some way on technology, measurement, and standards provided by the National Institute of Standards and Technology. Today, NIST measurements support the smallest of technologies to the largest and most complex of human-made creations—from nanoscale devices so tiny that tens of thousands can fit on the end of a single human hair up to earthquake-resistant skyscrapers and global communication networks. In the gangster era of Prohibition and the Great Depression, a physicist at the National Bureau of Standards, now NIST, brought modern ideas to the then-emerging field of forensic science. Learn more about Wilmer Souder and watch NIST's Emmy Award-winning film about the search to uncover his work at NBS.",
+  "contentHash": "df9c8bc8d59f11429e483532c8cbcfcf7d92057e43064247779bc9e6c5979179",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "48af4181ac1ee7d02789f4c797d1476a"
+  "legacyId": "48af4181ac1ee7d02789f4c797d1476a",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:32:00.907Z",
+  "fetchedUrl": "https://www.nist.gov/history",
+  "contentError": ""
 }

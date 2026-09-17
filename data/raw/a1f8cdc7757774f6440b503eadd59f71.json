@@ -5,12 +5,16 @@
   "sourceKey": "s02-16",
   "sourceName": "Chemify",
   "sourceType": "自动化化学公司",
-  "publishedAt": null,
+  "publishedAt": "2026-04-10T10:00:18.000Z",
   "crawledAt": "2026-09-16T06:05:19.334Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Share: Posted in News | Tagged AI , Chemify , Drug discovery A platform helping drug discovery companies take a novel concept to makeable compound has been validated in three academic papers. Chemify says it s Chemputation platform, which integrates AI- and ML-driven molecular discovery and automated robotic synthesis, has been validated as a new paradigm for how small molecule-drugs and materials are discovered, designed and manufactured. The three publications in PNAS , Nature Communications Chemistry and Nature Communications Biology describe how the Chemputation AI platform can understand and execute instructions to make new molecules from scientific literature, produce them iteratively and how this could be applied to cancer research. The papers also demonstrate the potential of Chemputation to digitise chemistry and become the foundation for the autonomous discovery, manufacturing and generation of high-value molecules at scale. “Chemputation has been established as a new paradigm, critical for the future of chemical discovery and manufacture, and I’m proud that Chemify is building on these discoveries delivering real molecules using Chemputation AI to our partners,” said Lee Cronin, CEO and Founder of Chemify. “Chemputation shifts chemistry from an artisanal practice to an executable, verifiable and shareable technology and opens the door to a future where drugs, materials and entirely new and makeable molecules can be designed, compiled and manufactured as easily as software.”",
+  "contentHash": "c27745063016f1b846db75e6564b37c4a731e603287ebc951997f9797c889a91",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "a1f8cdc7757774f6440b503eadd59f71"
+  "legacyId": "a1f8cdc7757774f6440b503eadd59f71",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:42:40.450Z",
+  "fetchedUrl": "https://www.ddw-online.com/chemifys-drug-discovery-platform-validated-by-papers-41240-202604/",
+  "contentError": ""
 }

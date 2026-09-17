@@ -7,10 +7,14 @@
   "sourceType": "通用模型厂商",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:05:19.446Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "主办单位: 中华人民共和国工业和信息化部 地址: 中国北京西长安街13号 邮编: 100804",
+  "contentHash": "5d85e94a8dd4f436fc479efb521efe380d20130f9edcc7282b8f235154b5f9e0",
+  "contentStatus": "insufficient_content",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "011a54d0edd9780abc59dd9fa1c513b1"
+  "legacyId": "011a54d0edd9780abc59dd9fa1c513b1",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:35:36.211Z",
+  "fetchedUrl": "https://tsm.miit.gov.cn/dxxzsp/xkz/xkzgl/resource/qiyesearch.jsp?num=%E6%B5%99B2-20250178&type=xuke",
+  "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成"
 }

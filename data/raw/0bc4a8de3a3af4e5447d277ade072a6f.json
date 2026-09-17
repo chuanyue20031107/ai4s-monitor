@@ -7,10 +7,14 @@
   "sourceType": "自主实验室与平台",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:57:41.220Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "发布时间：2026-09-08 | 供稿部门：DNL1205组 | 【 放大 】 【 缩小 】 | 【 打印 】 【 关闭 】 近日，我所低碳催化与工程研究部（ DNL12 ）邢嘉成副研究员、徐云鹏研究员、刘中民院士团队在分子筛限域催化与分子扩散机制研究方面取得新进展。团队发现，大分子能否进入传统分子筛微孔并接近内部活性位，不仅取决于分子尺寸与孔径的匹配关系，还受到溶剂分子在孔道内竞争吸附与空间占据的调控。 分子筛具有规则的纳米孔道，分子尺寸与孔径之间的匹配关系是理解其吸附、扩散和择形催化性能的重要基础。传统观点认为，当反应分子尺寸接近甚至超过分子筛孔口时，其进入微孔并接近内部活性位将受到严重限制。因此，针对大分子催化反应，已有研究主要集中于构筑介孔、缩短扩散路径或开发更大孔径的分子筛材料。 在本工作中，团队以传统微孔钛硅分子筛 TS-1 催化环己烯环氧化为模型体系。研究发现，在甲醇溶剂中，环己烯转化率低于 6.9% ；而在不额外加入反应溶剂的条件下，转化率最高可提高至 88.8% ，环氧化物选择性保持在 89% 以上，且这一提升并未改变 TS-1 本征 MFI 微孔结构。结合竞争吸附、同步辐射 X 射线吸收谱、 iDPC-STEM 、 PFG-NMR 、智能重量分析及分子动力学模拟，团队证实环己烯并非被 MFI 十元环孔口完全排斥。当孔道处于空置或弱占据状态时，部分环己烯能够进入微孔；而尺寸更小的甲醇会优先占据孔口、孔道及 Ti 活性中心附近的有限空间，降低了环己烯进入微孔和接近活性位的概率。 基于上述结果，团队提出“溶剂门控”（ solvent-gated accessibility ）概念，即溶剂不仅是液相反应介质，还可以通过竞争吸附和孔体积占据，调控反应分子对微孔内部活性位的实际可达性。相关规律在不同形貌 TS-1 、环辛烯、环十二烯，以及 Ti-MOR 、 Ti-MWW 和 Ti-MCM-41 等多种反应底物和钛硅多孔催化剂中均得到验证。该工作将传统的“静态孔径控制”认识拓展至孔径、框架动态性、分子构象、吸附热力学及多组分竞争占据共同作用的催化扩散影响机制，为通过调控溶剂和限域微环境提高微孔活性位利用率提供了新思路。 相关研究成果以“ Solvent-free Catalysis Unlocks Bulky-molecule Oxidation within Titanosilicate Micropores” 为题，发表在《美国化学会志》（ Journal of the American Chemical Society ）上。该工作的第一作者为我所 DNL1205 组博士研究生吴浔。该工作得到国家自然科学基金、辽宁省兴辽英才计划等项目的资助。（文 / 图 吴浔、邢嘉成）",
+  "contentHash": "549f44d12eb521c0e9263984e953b9de953258c38f8170dee362e5da0ffc2185",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "0bc4a8de3a3af4e5447d277ade072a6f"
+  "legacyId": "0bc4a8de3a3af4e5447d277ade072a6f",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:24:09.308Z",
+  "fetchedUrl": "https://www.dicp.ac.cn/xwdt/kyjz/202609/t20260907_8279040.html",
+  "contentError": ""
 }

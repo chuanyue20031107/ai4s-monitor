@@ -11,8 +11,9 @@
   "contentStatus": "insufficient_content",
   "extractionMethod": "meta-description",
   "discardReason": "",
-  "lastFetchAt": "2026-09-17T02:32:42.166Z",
+  "lastFetchAt": "2026-09-17T08:32:30.560Z",
   "contentTruncated": false,
   "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "fetchedUrl": "https://www.xaira.com/news/xaira-therapeutics-announces-the-appointment-of-dr-ian-mccaffery-as-svp-translational-science-and-early-clinical-development-and-the-promotions-of-dr-ci-chu-to-chief-discovery-officer-and-dr-bo-wang-to-chief-ai-scientist"
 }

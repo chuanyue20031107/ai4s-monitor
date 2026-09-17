@@ -7,10 +7,14 @@
   "sourceType": "国际学术会议/展会",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:35.658Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Brinton Seashore-Ludlow, PhD , senior researcher at Karolinska Institutet, Sweden (Stockholm, Sweden), focuses on high-content screening in near-patient models and serves as head of the Assay Development and Screening team at the Chemical Biology Consortium Sweden, a national infrastructure for chemical biology services. She has been actively engaged in SLAS through leadership roles including chair and vice-chair of the European Scientific Planning Committee, scientific session chair at the SLAS Europe Conference & Exhibition in 2019 and General Chair of SLAS Europe 2022. Seashore-Ludlow has also served as a representative on the Knowledge and Content Dissemination Committee and as a program member for Building Biology in 3D 2021, and is currently contributing to the European planning team for SLAS Europe 2026.",
+  "contentHash": "e8107684fe0eb92aeaeb423d175355a19457e904e516d7540d3423ad3f59ce56",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "39d24a6c82ef87adc4c9b44477822581"
+  "legacyId": "39d24a6c82ef87adc4c9b44477822581",
+  "contentTruncated": true,
+  "lastFetchAt": "2026-09-17T08:29:40.612Z",
+  "fetchedUrl": "https://www.slas.org/publications/electronic-laboratory-neighborhood/",
+  "contentError": ""
 }

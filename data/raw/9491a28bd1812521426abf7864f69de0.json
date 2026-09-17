@@ -7,10 +7,14 @@
   "sourceType": "材料信息学公司",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:05:19.356Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Home / Resources / Research / Education and Training Education and Training Citrine shares materials informatics knowledge and expertise Tutorials Hands-on Deep Learning for Materials Science: Convolutional Networks and Variational Autoencoders This tutorial introduces deep learning techniques such as convolutional neural networks and variational auto encoders from a materials standpoint. Using a solubility dataset, you will learn how to pre-process data and train a convolutional neural network to predict the solubility of polymers. You will also explore variational autoencoders in the context of the solubility dataset. Instructors: Dr Vinay Hegde (Citrine), Prof Alejandro Strachan (Purdue) Watch Nanohub Citrine Informatics sits on the external advisory board of the Network for Computational Nanotechnology, which run nanoHUB, the premier cyber-community for computational nanotechnology research, education, and collaboration. NanoHUB serves over 1.6 million visitors (annually) including researchers, educators, students, and professionals. Citrine has also supported nanoHUB by publishing “Citrine’s Tools for Materials Informatics” on the hub. These are Jupyter notebooks for sequential learning in the context of materials design. Citrine's Resources on nanoHUB Texas A&M Summer School As part of a summer school on multi-scale computational materials science at Texas A&M, Citrine delivers a 1-day workshop on materials informatics. Students learn how to prepare AI-ready data using the Python API and build machine learning models to predict properties. Find out more about the summer school NextGen Fellowship Through an innovative NextGen Fellowship program and workshops at selected universities, Citrine helped enable the next generation of STEM students to acquire the materials informatics skills of the future. Founded in 2017 by Citrine Informatics, Citrine’s NextGen Fellowship was a ten-week summer research opportunity for undergraduate science, mathematics, and engineering students interested in learning cutting-edge data science and data management skills. It was run in conjunction with 6 participating universities and has supported 50+ fellows over 3 years. The University of Wisconsin-Madison and Carnegie Mellon University are continuing to offer fellowships. Participating Institutions",
+  "contentHash": "8d7c85037a5773d4247b1590d7a610c91fe5764a6c3bb6038577d13c1446f826",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "9491a28bd1812521426abf7864f69de0"
+  "legacyId": "9491a28bd1812521426abf7864f69de0",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:41:32.691Z",
+  "fetchedUrl": "https://citrine.io/resources/research/education-and-training/",
+  "contentError": ""
 }

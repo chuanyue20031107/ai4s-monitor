@@ -7,10 +7,14 @@
   "sourceType": "科技大厂研究机构",
   "publishedAt": null,
   "crawledAt": "2026-09-16T05:12:08.213Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "What is Applied Research? To us, it’s a focused type of research that aims to make new ideas tangible and useful to NVIDIA. It’s different from pure or academic research because: There is more emphasis on engineering in order to do research at scale It is more collaborative because we work on larger problems It is less connected to publication cycles, which gives us freedom to work on important problems over long time horizons We’re less concerned with academic novelty. Some of our best and most impactful work could never be published due to lack of academic novelty Some of our work is academically novel, and we do publish it We focus our research on NVIDIA’s needs We collaborate with groups around NVIDIA to invent impactful technologies. We learn from product groups because without applied research, good ideas often don’t work outside the lab. We don’t do tech transfer, but rather collaborate. Our work presently focuses on four main application areas, as well as systems research: Graphics and Vision. AI is transforming computer graphics, giving us new ways of creating, editing, and rendering virtual environments. Today’s GPUs are fast enough to run neural networks on high-resolution inputs, giving us new possibilities to make real-time graphics more beautiful and more interactive. We invented DLSS Super Resolution, Frame Generation and Ray Reconstruction as well as the latest DLSS 4.0 . We worked with the company to productize and ship these technologies. These days generative foundation models are changing everything. Speech & Audio. We’re especially interested in generative models for speech and audio synthesis and have contributed a number of important technologies, starting with WaveGlow. Natural Language Processing. We’ve been doing LLMs since before they were cool. The Megatron-LM project has pointed the way forward for the industry for maximally efficient LLM training for many years. These days we help build NVIDIA’s foundation models. Chip Design. As Moore’s law slows, the process of designing and verifying chips becomes more expensive and also more important. We think AI has a role to play in improving the productivity of the chip design process and the quality of the resulting designs. Systems for Deep Learning. Training and deploying large models requires significant computational capacity. Making the training process faster allows us to train on larger datasets, thereby increasing accuracy. Making deployment procedures more efficient allows us to deploy larger, more accurate models.",
+  "contentHash": "8915459f68f4f2199cf200d925de578724a8f576671ff3f25ea8dbe6828b0c88",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "26e4b8083fe735cedb234eccbd07c3d5"
+  "legacyId": "26e4b8083fe735cedb234eccbd07c3d5",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:27:20.141Z",
+  "fetchedUrl": "https://research.nvidia.com/labs/adlr/",
+  "contentError": ""
 }

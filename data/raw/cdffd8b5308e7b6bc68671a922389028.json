@@ -7,10 +7,14 @@
   "sourceType": "产业技术会议",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:36.188Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "CII uses cookies to improve your website & conference experiences, including enhancing website navigation, personalized features & promotions, evaluating our services, and customizing content and ads based on your preferences as you browse or engage with us. By clicking \"Continue\" or continuing to use our site, you are agreeing to our and our partners use of cookies. See our Privacy Policy for more information. 11 Tracks | 3 Symposia | May 19 - May 21, 2026 Integrated Analytics, Bioinformatics & Knowledge Intelligence Intelligent Lab Systems, Robotics & Translational Infrastructure 250 First Avenue, Suite 300 Needham, MA 02494 P: 781.972.5400 F: 781.972.5425 E: [email protected]",
+  "contentHash": "35bd333a3bbdce89b490f8d859fe500899fff006621bf160ea41b7d549e190bf",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "cdffd8b5308e7b6bc68671a922389028"
+  "legacyId": "cdffd8b5308e7b6bc68671a922389028",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:48:19.322Z",
+  "fetchedUrl": "https://www.bio-itworldexpo.com/conference-tracks",
+  "contentError": ""
 }

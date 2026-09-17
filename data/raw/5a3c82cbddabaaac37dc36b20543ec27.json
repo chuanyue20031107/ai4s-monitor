@@ -7,10 +7,14 @@
   "sourceType": "材料信息学公司",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:05:19.356Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Home / Resources / Newsletters Newsletters Insight to your inbox Industry newsletter Subscribe to our Industry Newsletter Monthly insights into how AI is affecting the bottom line at Materials and Chemical companies. We’ll demystify some of the jargon of our industry and share some of Citrine’s successes and insights.",
+  "contentHash": "aaa09c952236caf1f77530e4739b9795a6e6602778cd0de54e957f4dc49c164f",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "5a3c82cbddabaaac37dc36b20543ec27"
+  "legacyId": "5a3c82cbddabaaac37dc36b20543ec27",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:35:15.337Z",
+  "fetchedUrl": "https://citrine.io/resources/newsletters/",
+  "contentError": ""
 }

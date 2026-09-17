@@ -7,10 +7,14 @@
   "sourceType": "专题学术会议",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:33.584Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "近日收到《全民科学素质纲要实施工作办公室关于开展2026全国优质科普作品征集活动的通知》（纲要办发〔2026〕2号），中国药学会作为推荐单位，动员征集和推荐药学领域的优质科普作品。 现请中国药学会各专委会、会员单位等，按照全民科学素质纲要实施工作办公室通知要求（见附件），结合工作实际，于6月25日前向中国药学会报名征集。 作品须为2024年以来创作的药学科普原创作品。无抄袭、仿冒等侵权行为，不得侵犯第三方的知识产权或其他合法权利。凡提交作品引发的版权、肖像权等法律纠纷，一切法律责任均由申报单位承担。 申报时间为2026年6月15日至7月5日，逾期不再受理。各申报主体通过申报系统（ https://kpzp.kepuchina.cn/ ）在线填报信息、上传全部申报材料，“推荐渠道”选择“中国药学会”。不接收纸质、邮件等线下报送材料。 附件： 《全民科学素质纲要实施工作办公室关于开展2026全国优质科普作品征集活动的通知》.doc",
+  "contentHash": "12ccd0ef357a7efa22875bf49646f661552b7c35cfe104b96390235a0cc41488",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "1f6ade1dd7c210cba2578f530c7bb05b"
+  "legacyId": "1f6ade1dd7c210cba2578f530c7bb05b",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:27:06.573Z",
+  "fetchedUrl": "https://www.cpa.org.cn/?do=info&cid=78847",
+  "contentError": ""
 }

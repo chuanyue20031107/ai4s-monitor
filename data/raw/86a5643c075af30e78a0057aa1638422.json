@@ -7,10 +7,14 @@
   "sourceType": "AI药物/自动化实验公司",
   "publishedAt": null,
   "crawledAt": "2026-09-16T05:12:19.802Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Recursion Reports Grant of Inducement Awards as Permitted by the Nasdaq Listing Rules July 31, 2026 at 4:30 PM EDT PDF Version Salt Lake City, UT , July 31, 2026 (GLOBE NEWSWIRE) -- Recursion (Nasdaq: RXRX), a leading clinical stage TechBio company decoding biology to radically improve lives, announced that on July 27, 2026 , the Compensation Committee of Recursion's Board of Directors approved the grant of inducement restricted stock unit (RSU) awards covering 3,234,866 shares of its class A common stock in the aggregate to 24 new employees under Recursion's 2024 Inducement Equity Incentive Plan (the “2024 Plan”). Each award was granted as an inducement material to the employee's commencement of employment with Recursion, or a subsidiary of Recursion, pursuant to Nasdaq Listing Rule 5635(c)(4). Each inducement RSU award will vest as to 1/4th of the shares subject to the award on the first quarterly vesting date on or following the one-year anniversary of the vesting commencement date, and as to 1/16th of the shares on each quarterly vesting date thereafter until the inducement RSU award is fully vested, subject to the inducement RSU award recipient’s continued employment through the company vesting dates. Each inducement RSU award is subject to the terms and conditions of the 2024 Plan and the grant agreements covering the awards. About Recursion Recursion (Nasdaq: RXRX) is a clinical stage TechBio company decoding biology to radically improve lives. Recursion is advancing a portfolio of differentiated investigational medicines across its wholly owned and partnered pipeline in oncology, rare disease, neuroscience, immunology, and other therapeutic areas with significant unmet need. Enabling its mission is the Recursion OS, an AI-native, end-to-end drug discovery and development platform integrating biology, chemistry, and clinical development into a unified intelligence system. Powered by proprietary multimodal data, purpose-built AI models, and bilingual teams fluent in both science and AI, the Recursion OS is designed to translate complex science into medicines that matter — faster, better, and at scale — for patients who are waiting. Recursion’s platform infrastructure is anchored in Salt Lake City, Utah and Milton Park, Oxfordshire, where its automated biology and chemistry laboratories generate proprietary data at industrial scale. Recursion also maintains offices in New York, Montréal and London, three global hubs for talent and leadership at the intersection of AI and scientific innovation. Learn more at www.recursion.com , or connect on X and LinkedIn . Media Contact media@recursion.com Investor Contact investor@recursion.com Ryan Kelly Recursion Pharmaceuticals media@recursion.com",
+  "contentHash": "20dffa0422cc4e18727f736553f94758c3355c8a6b47b12963a6a404e8e56fd6",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "86a5643c075af30e78a0057aa1638422"
+  "legacyId": "86a5643c075af30e78a0057aa1638422",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:38:37.187Z",
+  "fetchedUrl": "https://ir.recursion.com/news-releases/news-release-details/recursion-reports-grant-inducement-awards-permitted-nasdaq-1",
+  "contentError": ""
 }

@@ -7,10 +7,14 @@
   "sourceType": "科技大厂研究机构",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:36.536Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Demonstrating a theoretical separation between quantum computers and large language models Research Srinivasan Arunachalam, Arkopal Dutt, Hari Krovi, Rik Sengupta, and Ryan Mandelbaum 15 Sep 2026 AI Computer Science Quantum",
+  "contentHash": "6aaae00a30993895c7e09ae9fc03e95f5a544db8236e19ab186c5921bca2820a",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "942c79e9cfbe6d7c8479b5c43fc64669"
+  "legacyId": "942c79e9cfbe6d7c8479b5c43fc64669",
+  "contentTruncated": true,
+  "lastFetchAt": "2026-09-17T08:41:36.340Z",
+  "fetchedUrl": "https://research.ibm.com/blog/nasa-ibm-lunar-foundation-model",
+  "contentError": ""
 }

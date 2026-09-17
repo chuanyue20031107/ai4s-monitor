@@ -7,10 +7,14 @@
   "sourceType": "国际学术会议/展会",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:35.658Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "SLAS Technology --> --> SLAS Technology : Translating Life Sciences Innovation SLAS Technology reveals how scientists adapt technological advancements for life sciences exploration and experimentation in biomedical research and development. The journal emphasizes scientific and technical advances that enable and improve: Life sciences research and development Drug delivery Diagnostics Biomedical and molecular imaging Personalized and precision medicine SLAS Technology&rsquo;s Editorial Scope includes: the latest news in high-throughput and other laboratory automation technologies; micro/nanotechnologies, analytical, separation and quantitative techniques; synthetic chemistry and biology; informatics (data analysis, statistics, bio genomic and chemoinformatics) Publishes: annually in February, April, June, August, October and December SUBMIT MANUSCRIPT SLAS TECHNOLOGY READ SLAS TECHNOLOGY Advertising in Peer-Reviewed, Open Access Scientific Journals The SLAS journals &ndash; SLAS Technology and SLAS Discovery &ndash; are now published Gold Open Access by Elsevier. Online advertising information is available from Kevin Partridge via email or call +44 (0)1865 843717. Sponsorship opportunities Latest Articles SLAS Technology Magnetically Localized and Wash-Free Fluorescent Immuno-Assay: From a Research Platform (MLFIA) to a Multiplexed POC System (MagIA) January 2024 By M. Fratzl, P. Bigotte, R. Gorbenkov, G. Goubet, P. Halton, P. Kauffmann, D. Kirk, V. Masse, X. Payet-Burin, O. Ramel, S. Delshad Read More SLAS Technology Piston-Driven Automated Liquid Handlers March 2024 ByJoachim Schuster, Vinay Kamuju, Jin Zhou, Roman Mathaes Read More SLAS Technology ANDeS: An Automated Nanoliter Droplet Selection and Collection Device November 2023 By Joaqu&iacute;n E. Urrutia G&oacute;mez, Razan El Khaled El Faraj, Moritz Braun, Pavel A. Levkin, Anna A. Popova Read More Most Read Articles SLAS Technology Magnetically Localized and Wash-Free Fluorescent Immuno-Assay: From a Research Platform (MLFIA) to a Multiplexed POC System (MagIA) January 2024 By M. Fratzl, P. Bigotte, R. Gorbenkov, G. Goubet, P. Halton, P. Kauffmann, D. Kirk, V. Masse, X. Payet-Burin, O. Ramel, S. Delshad Read More SLAS Technology Engineering Transcriptional Regulation for Cell-Based Therapies February 2024 By Matthias Recktenwald, Evan Hutt, Leah Davis, James MacAulay, Nochole M. Daringer, Peter A. Galie, Mary M. Staehle, Sebasti&aacute;n L. Vega Read More SLAS Technology Employing Synthetic Biology to Expand Antibiotic Discovery February 2024 By Greta D. Cook and Nikolas M. Stasulli Read More Become a Member to Read ---> Tell Your Librarian ---> Receive E-mail Alerts Listen to Podcasts Meet the Editorial Board Read SLAS Technology",
+  "contentHash": "656a6bff0b510544a6d6ce06479c3ddbb34ce6f8d4f5333708e2a2995858922d",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "2413a5e9e950a5fc5f63eaac1058c049"
+  "legacyId": "2413a5e9e950a5fc5f63eaac1058c049",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:27:14.832Z",
+  "fetchedUrl": "https://www.slas.org/publications/slas-technology/",
+  "contentError": ""
 }

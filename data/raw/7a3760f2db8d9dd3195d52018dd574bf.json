@@ -8,11 +8,11 @@
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:47:26.243Z",
   "content": "",
-  "contentStatus": "insufficient_content",
+  "contentStatus": "fetch_failed",
   "extractionMethod": "meta-description",
   "discardReason": "",
-  "lastFetchAt": "2026-09-17T05:00:06.651Z",
+  "lastFetchAt": "2026-09-17T08:36:10.765Z",
   "contentTruncated": false,
-  "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成",
+  "contentError": "HTTP_404",
   "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 }

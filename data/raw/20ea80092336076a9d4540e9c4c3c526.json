@@ -7,10 +7,14 @@
   "sourceType": "科技大厂研究机构",
   "publishedAt": null,
   "crawledAt": "2026-09-16T05:12:08.213Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Welcome to the homepage of the NVIDIA Research Autonomous Systems and Physical AI Research (ASPIRE) Group, led by Dr. Marco Pavone . Our mission is to develop the algorithmic foundations for intelligent autonomous systems that perceive, reason, plan, and act in the physical world. Our research spans foundation models, embodied reasoning, navigation and long-horizon planning, agentic development workflows, simulation and reinforcement learning, and safety evaluation and assurance. We study these capabilities with a particular focus on autonomous vehicles, while expanding to a growing range of embodiments, including trucks, off-road vehicles, drones, quadrupeds, humanoids, and more. If this sounds interesting to you, come work with us! We are currently accepting applications for the following positions: The ASPIRE Group develops general methods for autonomy across Physical AI. We study these capabilities with a particular focus on autonomous vehicles, while increasingly extending to a broad range of embodiments, including trucks, off-road vehicles, drones, quadrupeds, humanoids, and beyond. Foundation Models for Embodied Autonomy: We develop multimodal and omnimodal models that connect language, perception, world understanding, and action. Our work includes vision-language-action models, world-action models, embodied and counterfactual reasoning, navigation and long-horizon planning across embodiments, transferable action representations, and efficient models for deployment. Agentic Physical AI Development: We build agentic workflows that accelerate the full autonomy-development loop: hypothesis generation, data curation and labeling, model training and post-training, closed-loop evaluation, deployment, and continuous improvement. A key goal is to make these workflows reusable across domains and embodiments while retaining the expertise and tools each system requires. Simulation and Reinforcement Learning: We investigate realistic, controllable simulation and scalable closed-loop learning. This includes neural reconstruction and sensor simulation, behavior and environment modeling, real-to-sim-to-real workflows, high-throughput reinforcement learning, and evaluation in diverse, safety-critical scenarios. Safety Evaluation and Assurance: Through our Physical AI safety research, we develop design-time, run-time, and validation-time guardrails for learning-enabled autonomous systems. Our research spans safety reasoning and risk assessment, uncertainty quantification and calibration, online monitoring, interpretable and rule-aware models, stress testing, and simulation-accelerated validation. Our research is strengthened by collaborations across NVIDIA and with the broader Physical AI community. Privacy Policy — Your Privacy Choices — Terms of Service — Accessibility — Corporate Policies — Contact Published with Wowchemy — the free, open source website builder that empowers creators.",
+  "contentHash": "f697b899ac4f06521ee2de1a68d8374a98259ab9402ff938e8fd972070e0bfb2",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "20ea80092336076a9d4540e9c4c3c526"
+  "legacyId": "20ea80092336076a9d4540e9c4c3c526",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:27:07.601Z",
+  "fetchedUrl": "https://research.nvidia.com/labs/avg/",
+  "contentError": ""
 }

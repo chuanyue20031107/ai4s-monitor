@@ -7,10 +7,14 @@
   "sourceType": "自动化化学公司",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:05:19.334Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "CII uses cookies to improve your website & conference experiences, including enhancing website navigation, personalized features & promotions, evaluating our services, and customizing content and ads based on your preferences as you browse or engage with us. By clicking \"Continue\" or continuing to use our site, you are agreeing to our and our partners use of cookies. See our Privacy Policy for more information. Drug Discovery Chemistry is now accepting speaker proposals for the premier event dedicated to medicinal, biophysical, and computational chemists working across pharma, biotech, and academia. Focused on the discovery and optimization challenges of small-molecule and macrocyclic drug candidates, the 27th Annual conference explores the critical \"middle space\" of drug discovery&mdash;from hit identification and lead optimization to emerging modalities, AI-enabled design, and translational strategies. Join a community of discovery scientists and share the innovations shaping the next generation of medicines. Matthew D. Disney, PhD Institute Professor & Chair, UF Scripps Institute for Biomedical Innovation & Technology \"Really the top conference for drug discovery in my view. The most interesting tracks and talks in the field.\" \"Drug Discovery Chemistry is a must attend event. It consistently has great speakers and attendees!\" \"The coverage of fascinating topics and the combination of industry and academic participants make this my favorite conference of the year!\" Christian H., &Eacute;cole Polytechnique F&eacute;d&eacute;rale de Lausanne One Park Blvd. San Diego, CA 92101 Phone: 619-564-3333 Conference Room Rate: $339 per night (single/double occupancy) We encourage attendees to book early, as rooms at the conference rate are available on a first-come, first-served basis through the reservation deadline. Twenty-First Annual Fragment-Based Drug Discovery Meeting Phil Baran on the Quest to Make Chemistry Boring Again Beyond the Rule of 5: Vastly Expanding Targetable Drugs Targeted Protein Degradation: Why Just Inhibit What Can Be Destroyed? 250 First Avenue, Suite 300 Needham, MA 02494 P: 781.972.5400 F: 781.972.5425 E: chi@healthtech.com",
+  "contentHash": "328522fbda5ca6b33abe59450adbfeed6de85e271914d6861ed55f43ee2d2475",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "f7cf05cedc76bf8f1898450915892972"
+  "legacyId": "f7cf05cedc76bf8f1898450915892972",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:27:05.694Z",
+  "fetchedUrl": "https://www.drugdiscoverychemistry.com/?matchtype=&adgroupid=&keyword=&creative=&adposition=&campaignid=23283505599&network=x&placement=&targetid=&gad_source=1&gad_campaignid=23292829132&gbraid=0AAAAAD-WZCQHB4uz39sgCMubvU08zLJF8",
+  "contentError": ""
 }

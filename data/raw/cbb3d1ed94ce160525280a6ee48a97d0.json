@@ -13,7 +13,8 @@
   "discardReason": "",
   "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "legacyId": "cbb3d1ed94ce160525280a6ee48a97d0",
-  "lastFetchAt": "2026-09-16T17:07:21.692Z",
+  "lastFetchAt": "2026-09-17T08:48:11.504Z",
   "contentTruncated": false,
-  "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成"
+  "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成",
+  "fetchedUrl": "https://discovery-home.intern-ai.org.cn/home"
 }

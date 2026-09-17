@@ -7,10 +7,14 @@
   "sourceType": "自动化化学公司",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:05:19.334Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Time & Location Thursday, 24 September 2026. 1pm Advanced Research Center, 11 Chapel Lane, Glasgow. G11 6EW About The Event About us Chemify is a Glasgow chem-tech pioneer turning chemistry into code — fusing AI, robotics, and chemical science to make molecule-making programmable. Beyond the lab, our teams span engineering, software, design, and operations, building the future of manufacturing. Come explore where your skills could take you. How we will be involved with National Manufacturing Day: Join us for interactive talks and live Q&A sessions with our science, engineering, and business teams, followed by exclusive tours of our lab at the Advanced Research Center — a firsthand look at how we turn code into real molecules. Thursday, 24 September at 1pm. Registration Details Contact [email protected] to find out more. NMD Area Scotland",
+  "contentHash": "afe86ed24041a82527444f79214e427114c3857c38fcf861c7398ca3ad8e8947",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "a974f43b428debbe75ee42a595d412ab"
+  "legacyId": "a974f43b428debbe75ee42a595d412ab",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:44:52.556Z",
+  "fetchedUrl": "https://www.makeuk.org/national-manufacturing-day/hosts/chemify",
+  "contentError": ""
 }

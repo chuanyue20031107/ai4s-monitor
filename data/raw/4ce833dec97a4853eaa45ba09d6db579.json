@@ -13,7 +13,8 @@
   "discardReason": "",
   "contentHash": "ccab7b0ef23924810b5029f918c5bf59f4a992df4ab2e4925f750574333ff63f",
   "legacyId": "4ce833dec97a4853eaa45ba09d6db579",
-  "lastFetchAt": "2026-09-16T11:46:19.560Z",
+  "lastFetchAt": "2026-09-17T08:32:18.212Z",
   "contentTruncated": false,
-  "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成"
+  "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成",
+  "fetchedUrl": "https://ir.recursion.com/news-events/presentations"
 }

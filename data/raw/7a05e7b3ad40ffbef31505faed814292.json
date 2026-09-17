@@ -11,8 +11,9 @@
   "contentStatus": "insufficient_content",
   "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "lastFetchAt": "2026-09-17T05:00:07.574Z",
+  "lastFetchAt": "2026-09-17T08:36:00.205Z",
   "contentTruncated": false,
   "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成",
-  "contentHash": "18a06433664a2a8242681138172b46ce96c1716c791f04e161a8284f97e0f769"
+  "contentHash": "18a06433664a2a8242681138172b46ce96c1716c791f04e161a8284f97e0f769",
+  "fetchedUrl": "https://www.embl.org/sites/grenoble/"
 }

@@ -7,10 +7,14 @@
   "sourceType": "自主实验室与平台",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:57:37.446Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "为深入推进贵州省生物制造实验室建设，充分发挥省外研发中心高水平科研资源和人才优势，加快组织实施实验室2026年度重点科研任务，根据贵州省生物制造实验室2026年项目规划安排，现发布第三批应用类“揭榜挂帅”项目榜单（详见附件1和附件2），并就有关事项通知如下。 本次“揭榜挂帅”项目面向贵州省生物制造实验室各省外研发中心公开发布。请各省外研发中心结合自身研究基础、人才团队、平台条件和成果转化能力，围绕项目榜单方向积极组织申报。 各省外研发中心应按照项目榜单要求，组织优势团队开展项目申报，认真编制申请材料，明确研究目标、技术路线、任务分工、实施进度、经费预算和预期成果等内容，确保申报材料真实、完整、规范。 申请办理时间为2026年8月4日至2026年8月21日。期间，各省外研发中心需在各自院系官网或单位相关平台上公布项目申报通知，做好项目组织申报工作。 请各省外研发中心于2026年8月21日17:00前，将项目申请材料（附件3、附件4）电子版及各研发中心官网或工作群通知（截图）发送至邮箱：mtbiotech123@163.com。逾期提交的，原则上不予受理。",
+  "contentHash": "a065ceee6fdf8d16496be11f9b41432e3b5d30cc74288fde09b61a69e859670f",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "aa6b558377fba71931f64eda871ee374"
+  "legacyId": "aa6b558377fba71931f64eda871ee374",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:44:52.113Z",
+  "fetchedUrl": "https://isynbio.siat.ac.cn/siat/isb/xwhd/zhxw/2026080510073821727/index.html",
+  "contentError": ""
 }

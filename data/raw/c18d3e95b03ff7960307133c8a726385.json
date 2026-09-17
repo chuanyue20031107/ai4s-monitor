@@ -5,12 +5,16 @@
   "sourceKey": "s01-08",
   "sourceName": "National Institute of Standards and Technology",
   "sourceType": "国家计量标准机构",
-  "publishedAt": null,
+  "publishedAt": "2026-08-26T12:00:00.000Z",
   "crawledAt": "2026-09-16T05:12:09.634Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Henry Nonnemaker is an undergraduate at Case Western Reserve University, where he studies applied math, with a secondary major in English literature. Although he’s fond of the abstract, he likes math best when he can apply it to the real world. In his spare time, he’s a Magic: The Gathering player and amateur jazz saxophonist.",
+  "contentHash": "fdaf937d0549ab3c31f1c1093f6a37fe1e87ac08c7b858b223375287411d9d06",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "c18d3e95b03ff7960307133c8a726385"
+  "legacyId": "c18d3e95b03ff7960307133c8a726385",
+  "contentTruncated": true,
+  "lastFetchAt": "2026-09-17T08:47:50.702Z",
+  "fetchedUrl": "https://www.nist.gov/blogs/taking-measure/lasers-and-math-can-help-doctors-deliver-just-right-amount-medicine",
+  "contentError": ""
 }

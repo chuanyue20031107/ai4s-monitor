@@ -7,10 +7,14 @@
   "sourceType": "材料高通量实验企业",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:05:24.864Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "7月 2日，创材深造董事长兼总经理王轩泽一行到访天府金江实验室开展合作交流。四川资源集团副总经理、四川钒钛党委书记谢洋波，集团科技创新部部长、天府金江实验室常务副主任胡传胜以及双方核心负责人共同参与交流。 天府金江实验室由攀枝花市人民政府与四川省自然资源投资集团共同组建，是天府实验室体系的新建布局，聚焦钒钛新材料，重点围绕高端钒钛原材料绿色智造、先进钒钛功能材料、先进钒钛合金材料、数字化钒钛新材料四大领域，开展原创性、前沿性和颠覆性技术 攻关。 会上，双方围绕“AI+新材料”智能制备技术赋能红格南矿全产业链开发、钒钛资源综合开发利用及高端市场渠道拓展等领域进行深入交流，并就深化产学研用融合、推动钒钛新材料产业向高端化迈进达成共识。",
+  "contentHash": "660cb123221aa07e3e19827bc4001364b6b8e88fe8e06c85f6c7fd3fdf49573f",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "99691edace27796060fd063b5a9a8076"
+  "legacyId": "99691edace27796060fd063b5a9a8076",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:41:44.756Z",
+  "fetchedUrl": "https://www.deep-material.com/qiyexinwen/83",
+  "contentError": ""
 }

@@ -7,10 +7,14 @@
   "sourceType": "专题学术会议",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:33.584Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "由中国药学会药物化学专业委员会主办的2025年中国药学会中欧药物化学研讨会于2025年11月29日在新疆维吾尔自治区乌鲁木齐市隆重召开。 本次研讨会以“新靶点和新技术驱动的原创新药研发”为主题，吸引了来自中国及欧洲的顶尖专家学者，包括葡萄牙里斯本大学Rui Moreira教授等国际知名学者。会议聚焦药物化学前沿技术、创新药物研发趋势及国际合作机遇，深入探讨了人工智能辅助药物设计、新型靶点发现、精准药物递送系统等热点议题，充分展示了中国在药物化学领域的最新科研成就和创新能力。 此次会议不仅促进了中欧药物研发领域的深度交流与技术共享，还进一步深化了国际科研合作网络，为推动全球原创新药研发和中国药学高质量发展提供了强劲动力。未来，中国药学会将继续发挥桥梁作用，加强国际学术交流，助力中国药物化学研究走向世界前沿。",
+  "contentHash": "9ec6365c258a99d61edb56539020c5957549927869dfb74b043ec702d3117435",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "9498e9e7686825ee8dd57859c6f63c44"
+  "legacyId": "9498e9e7686825ee8dd57859c6f63c44",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:41:33.901Z",
+  "fetchedUrl": "https://www.cpa.org.cn/?do=info&cid=76950",
+  "contentError": ""
 }

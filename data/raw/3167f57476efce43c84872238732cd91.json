@@ -11,8 +11,9 @@
   "contentStatus": "insufficient_content",
   "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "lastFetchAt": "2026-09-17T05:00:22.557Z",
+  "lastFetchAt": "2026-09-17T08:29:30.006Z",
   "contentTruncated": false,
   "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成",
-  "contentHash": "a187ba7d6a2e6adfa594e873fb44460233703c21ace64a93840df8d9fcc14d95"
+  "contentHash": "a187ba7d6a2e6adfa594e873fb44460233703c21ace64a93840df8d9fcc14d95",
+  "fetchedUrl": "https://www.fpi-inc.com/news_cont_48104.html"
 }

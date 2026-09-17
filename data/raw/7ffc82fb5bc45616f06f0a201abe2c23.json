@@ -5,12 +5,16 @@
   "sourceKey": "s02-16",
   "sourceName": "Chemify",
   "sourceType": "自动化化学公司",
-  "publishedAt": null,
+  "publishedAt": "2026-02-12T15:39:40.000Z",
   "crawledAt": "2026-09-16T06:05:19.334Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Tecan There’s uncertainty and concern about whether AI will replace humans in workplaces. But Marco Ravot-Licheri, Head of Digital – Life Sciences Business at Tecan, told us that AI could increase laboratory … more ➔",
+  "contentHash": "413adefac833368ee221ad4b7e3719b8362fc05375e83e562125aedbafaed26c",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "7ffc82fb5bc45616f06f0a201abe2c23"
+  "legacyId": "7ffc82fb5bc45616f06f0a201abe2c23",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:38:26.324Z",
+  "fetchedUrl": "https://european-biotechnology.com/latest-news/zeon-invests-in-chemify-to-cut-compound-synthesis-time-using-ai-and-robotics/",
+  "contentError": ""
 }

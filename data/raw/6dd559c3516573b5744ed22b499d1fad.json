@@ -7,10 +7,14 @@
   "sourceType": "科学数据库与平台",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:57:50.143Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "RCSB PDB Core Operations are funded by the U.S. National Science Foundation (DBI-2321666), the US Department of Energy (DE-SC0019749), and the National Cancer Institute , National Institute of Allergy and Infectious Diseases , and National Institute of General Medical Sciences of the National Institutes of Health under grant R01GM157729. RCSB PDB uses resources of the National Energy Research Scientific Computing Center ( NERSC ), a Department of Energy User Facility.",
+  "contentHash": "6fdb77cc311ffd2f3b57550a4ed8327a711662f02c062a1ffc02db73055cc1e6",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "6dd559c3516573b5744ed22b499d1fad"
+  "legacyId": "6dd559c3516573b5744ed22b499d1fad",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:35:44.734Z",
+  "fetchedUrl": "https://www.rcsb.org/search?query={&quot;type&quot;:&quot;terminal&quot;,&quot;service&quot;:&quot;text&quot;,&quot;parameters&quot;:{&quot;attribute&quot;:&quot;rcsb_accession_info.initial_release_date&quot;,&quot;operator&quot;:&quot;range&quot;,&quot;value&quot;:{&quot;from&quot;:%20&quot;now-1w&quot;,%20&quot;include_lower&quot;:%20false,%20&quot;to&quot;:%20&quot;now&quot;,%20&quot;include_upper&quot;:%20true}}}",
+  "contentError": ""
 }

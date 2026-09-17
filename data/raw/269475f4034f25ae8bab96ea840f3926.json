@@ -9,8 +9,12 @@
   "crawledAt": "2026-09-16T06:57:38.624Z",
   "content": "",
   "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "contentStatus": "insufficient_content",
+  "extractionMethod": "meta-description",
   "discardReason": "",
-  "legacyId": "269475f4034f25ae8bab96ea840f3926"
+  "legacyId": "269475f4034f25ae8bab96ea840f3926",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:27:21.222Z",
+  "fetchedUrl": "https://www.sslab.org.cn/news/newslist",
+  "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成"
 }

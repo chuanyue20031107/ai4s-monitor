@@ -7,10 +7,14 @@
   "sourceType": "科学数据库与平台",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:57:50.143Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Depositors can now submit structures directly to the wwPDB OneDep system from within the structure determination software packages via a newly developed Deposition API , combined with the OneDep Library . This new capability represents the first milestone of a wwPDB collaborative project involving the RCSB PDB, PDBe, and EMDB, and developers of the Phenix, CCP4, CCP-EM, and Global Phasing software suites. It strives to streamline the deposition workflow by allowing users to initiate depositions without leaving their structure determination software environment. The functionality is currently available in Phenix and CCP-EM Doppio , with support in the CCP4 and Global Phasing software packages coming soon. Documentation describing how to use these tools for direct deposition is available . The broader objective of this collaborative project is to develop a comprehensive set of interoperable tools that simplify and automate the deposition processes while improving data quality and consistency. The next phase of the project will focus on enabling structure determination software packages to provide additional metadata, including macromolecule and small-molecule annotations, to complete deposition requirements. This innovation will allow software suites to generate complete, deposition compliant, and metadata-rich mmCIF files that can be deposited directly to and processed by OneDep, significantly reducing manual data entry through the OneDep user interface for X-ray crystallographic and 3DEM atomic coordinate models and underlying experimental data and metadata. In the longer term, these capabilities will support the direct deposition of multiple related structures generated during structural biology investigations, together with enriched structure- and/or project-specific information. This integrated workflow is also expected to improve efficiency, reduce deposition time, and provide a more seamless experience for depositors. We encourage depositors to explore the new direct deposition functionality and provide feedback to deposit-help@mail.wwpdb.org or the relevant support contacts of the different structure determination packages. Community feedback will help guide future enhancements and ensure these tools meet the evolving needs of the structural biology community. RCSB PDB Core Operations are funded by the U.S. National Science Foundation (DBI-2321666), the US Department of Energy (DE-SC0019749), and the National Cancer Institute , National Institute of Allergy and Infectious Diseases , and National Institute of General Medical Sciences of the National Institutes of Health under grant R01GM157729. RCSB PDB uses resources of the National Energy Research Scientific Computing Center ( NERSC ), a Department of Energy User Facility.",
+  "contentHash": "63c0707c930c845253b28bf34e53555e53801c09d97a0eefc35617e375107c10",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "9d9a883082c428235dd06a21e7f45639"
+  "legacyId": "9d9a883082c428235dd06a21e7f45639",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:42:17.866Z",
+  "fetchedUrl": "https://www.rcsb.org/news/feature/6a73653c3bf5580b84a87d2e",
+  "contentError": ""
 }

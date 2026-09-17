@@ -7,10 +7,14 @@
   "sourceType": "科学数据库与平台",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:57:50.143Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "The wwPDB Foundation made awards for outstanding student presentation at the 2026 Congress and General Assembly of the International Union of Crystallography ( IUCr ; August 11-18; Calgary, Canada). Many thanks to the IUCr organizers and poster prize judges for making this award possible. Using Cryo-ET to Rethink Bacterial Grappling Hook Assembly Ryu Williston (1), Yu Ting (Cindy) Lin (2), James Iarocci (1), Haoxuan Yang (1), Ylan Nguyen (3), Lori Burrows (3), Lisa Craig (2), Shuaiqi Guo (1) 1)Department of Anatomy and Cell Biology, and Centre of Research in Structural Biology, McGill University, Montreal, QC 2)Department of Molecular Biology and Biochemistry, Simon Fraser University, Burnaby, BC 3)Department of Biochemistry and Biomedical Sciences, and Michael G. DeGroote Institute for Infectious Disease Research, McMaster University, Hamilton, ON Resistance Fighters: Developing a Novel HMG-CoA Reductase Inhibitor to Combat Gram-Positive Bacteria Phillip S. Rushton (1), C. Nicklaus Steussy (1), Tim Schmidt (1), Matt Hostetler (2), Daneli Lopéz-Pérez (2), Mohamed N. Seleem (3), Mark Lipton (2), Cynthia V. Stauffacher (1) 1) Department of Biological Sciences, Purdue University, West Lafayette, IN 47907, USA 2) Department of Chemistry, Purdue University, West Lafayette, IN 47907, USA 3) Department of Biomedical Sciences and Pathology, Virginia Tech, Blacksburg, VA 24061, USA The wwPDB Foundation proudly presented several events at IUCr, including the wwPDB exhibition, workshop, and award activities at IUCr2026, supported by Google. The wwPDB Foundation was established in 2010 to raise funds in support of the outreach activities of the wwPDB. The Foundation raised funds to help support PDB50 events, workshops, and educational publications. The Foundation is chartered as a 501(c)(3) entity exclusively for scientific, literary, charitable, and educational purposes. The wwPDB Foundation is grateful for our industrial sponsors: DECTRIS , Discngine , and MiTeGen . Individual sponsorships are also available. Consider supporting the next 50 years of PDB's spirit of openness, cooperation, and education with a donation to the wwPDB Foundation . RCSB PDB Core Operations are funded by the U.S. National Science Foundation (DBI-2321666), the US Department of Energy (DE-SC0019749), and the National Cancer Institute , National Institute of Allergy and Infectious Diseases , and National Institute of General Medical Sciences of the National Institutes of Health under grant R01GM157729. RCSB PDB uses resources of the National Energy Research Scientific Computing Center ( NERSC ), a Department of Energy User Facility.",
+  "contentHash": "09efa6461a0e57d8b035c44d2712d824b9cd725541f35d1e489475e41645eac3",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "04fe8e41359a28194f7021b51cc883c5"
+  "legacyId": "04fe8e41359a28194f7021b51cc883c5",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:23:50.783Z",
+  "fetchedUrl": "https://www.rcsb.org/news/feature/6a9974be3bf5580b84a87d3c",
+  "contentError": ""
 }

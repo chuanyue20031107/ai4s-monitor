@@ -7,10 +7,14 @@
   "sourceType": "科技大厂",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:36.375Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Free Free for everyone $0 /user/month Allows you to: Quick on your desktop—proactive AI across email, messaging, and local files Chat about any topic or task—your AI assistant for everyday work Research anything in depth—analysis and reports Turn conversations into deliverables—create docs, sheets, decks, and apps Automate the repetitive stuff—Flows that handle your daily busywork Turn ideas into real apps—production-ready web apps Connect the tools you already use—Slack, Email, QuickBooks, and more Try Quick for free",
+  "contentHash": "9677a80b0cf384742f09d73faaea8324d813abbd0d43773a22fafcdb785a4e09",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "3596b51aa386a5eb1dfd2b67f97a5d2e"
+  "legacyId": "3596b51aa386a5eb1dfd2b67f97a5d2e",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:29:35.280Z",
+  "fetchedUrl": "https://aws.amazon.com/quick/?nc2=h_prod_fs_q",
+  "contentError": ""
 }

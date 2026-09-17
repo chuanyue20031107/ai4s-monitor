@@ -7,10 +7,14 @@
   "sourceType": "产业技术会议",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:36.892Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "The Lab of the Future Congress are thrilled to have won at the Conference and Events Awards 2023. “Congratulations to the organisers for their clear content-led approach which delivered a strong event, which included many innovative new ways and developments since their last edition.” Thank you to all our past and existing delegates for your continued support and feedback. Without you, none of this would have been possible.",
+  "contentHash": "df70ac08996c8dc924be2e2f85b27c5220191f28850dddc85af02a4d91307e54",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "7225db9b14b312d46d15d419318278b3"
+  "legacyId": "7225db9b14b312d46d15d419318278b3",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:35:47.785Z",
+  "fetchedUrl": "https://www.lab-of-the-future.com/conference-and-events-awards-2023/",
+  "contentError": ""
 }

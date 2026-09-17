@@ -7,10 +7,14 @@
   "sourceType": "科学数据库与平台",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:57:50.143Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "A new publication describes the PDB Beta Archive which incorporates the new updates, with the goal of supporting PDB users as they transition to the extended PDB ID and PDBx/mmCIF format. On July 21, 2027, the PDB Beta Archive will replace the current PDB Archive when 12-character PDB IDs are issued exclusively. Users are strongly encouraged to adapt to these changes in PDB data layout and content as soon as possible. This PDB Beta Archive contains PDB entries in PDBx/mmCIF and PDBML formats, with extended PDB IDs in the datablock name. It is organized on an entry-level basis (e.g. all associated experimental and validation files for a particular entry are contained within the same directory) with extended PDB IDs used in the file and directory naming. The wwPDB weekly update process was modified to create the PDB Beta Archive alongside the current PDB Archive. Both PDB Beta and the current main archives are updated in parallel each week and made available every Wednesday at 00:00 UTC. Protein Data Bank (PDB) Archive: a new architecture (beta) for scalable, PDBx/mmCIF-based data distribution Zukang Feng, Balakumaran Balasubramaniyan, Gert-Jan Bekker, Jose M. Duarte, Vladimir Guranovic, Jeremy Henry, Sreenath S. Nair, Ezra Peisach, Dennis W. Piehl, Aditya Pingale, James Smith, Brinda Vallat, Reiko Yamashita, Arthur Zalevsky, Kyle Morris,Jeff Hoch, Genji Kurisu, Sameer Velankar, Stephen K. Burley, and Jasmine Y. Young (2026) Acta Cryst D82: 982-989 doi: 10.1107/S2059798326006194 RCSB PDB Core Operations are funded by the U.S. National Science Foundation (DBI-2321666), the US Department of Energy (DE-SC0019749), and the National Cancer Institute , National Institute of Allergy and Infectious Diseases , and National Institute of General Medical Sciences of the National Institutes of Health under grant R01GM157729. RCSB PDB uses resources of the National Energy Research Scientific Computing Center ( NERSC ), a Department of Energy User Facility.",
+  "contentHash": "48cf9c64d79deafd4ac680bc1fe105d9092c3ffcd5b8c081f28577544023e716",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "b449dd6aa5e81181e3f87951c34eaeb2"
+  "legacyId": "b449dd6aa5e81181e3f87951c34eaeb2",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:45:09.074Z",
+  "fetchedUrl": "https://www.rcsb.org/news/feature/6a7367b43bf5580b84a87d2f",
+  "contentError": ""
 }

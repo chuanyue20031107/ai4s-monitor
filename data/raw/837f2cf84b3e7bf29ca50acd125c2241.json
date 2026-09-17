@@ -7,10 +7,14 @@
   "sourceType": "自主实验室与平台",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:57:37.446Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "实验室主要研究 方向是利用合成生物学方法与进化工程，构建高附加值化学品，精细化工品以及大宗化学品的细胞工厂，同时利用反向工程理解细胞代谢调控的基本规律。 Our goal is to develop biotechnological solutions to address global challenges in sustainable manufacturing, renewable energy, and food security. 拟招聘具有分子生物学、微生物学、细胞生物学、代谢工程、合成生物学等相关研究背景研究助理1名。 有意申请者 请将个人简历（要求为PDF）以发送至 tao.yu@siat.ac.cn，简历及邮件标题注明“应聘岗位-学校名称-专业-姓名”。 于涛，博士生导师，研究员，国家级青年人才，国家重点研发计划青年项目首席科学家。他于山东大学获得生物技术学士学位，于中国科学院上海生物化学与细胞生物学研究所硕博连读获得生物化学与分子生物学博士学位，在瑞典Chalmers理工大学从事博士后研究。课题组致力于利用合成生物学方法解决可持续制造，绿色能源存储与粮食安全等全球性的问题与挑战。近五年来研究成果以第一作者或者通讯作者发表在Cell, Nature Catalysis, Nature Metabolism, Nature Sustainability, Nature Communications等国际知名期刊，其中CO 2 直接合成葡萄糖与脂肪酸的成果获得两院院士评选的2022年度“中国十大科技进展”、“Falling Walls国际创新科学突破大奖”。",
+  "contentHash": "76431cc7888dd09310031ca84e97f37d2ae36f92c3290c4e1a972e65c855de2f",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "837f2cf84b3e7bf29ca50acd125c2241"
+  "legacyId": "837f2cf84b3e7bf29ca50acd125c2241",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:38:29.131Z",
+  "fetchedUrl": "https://isynbio.siat.ac.cn/siat/isb/rczp/zszl/2025062314512452309/index.html",
+  "contentError": ""
 }

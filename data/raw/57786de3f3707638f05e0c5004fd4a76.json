@@ -7,10 +7,14 @@
   "sourceType": "国际学术会议/展会",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:35.658Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "President's Message Melissa Crisp, PhD, became President of the SLAS Board of Directors on January 1, 2026. She is Senior Director of Screening and Automation, Biotechnology Discovery Research at Eli Lilly in San Diego, CA, USA, and she&rsquo;ll be sharing her conversations with a variety of SLAS members throughout the year. From the President: Spring 2026 President's Messages from Prior Years 2025 2024 2023 2021 2020 2019",
+  "contentHash": "5ee9dabc14b7fef29a0018d543f25392c77b017ec604482e7606163299dd44f6",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "57786de3f3707638f05e0c5004fd4a76"
+  "legacyId": "57786de3f3707638f05e0c5004fd4a76",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:35:15.107Z",
+  "fetchedUrl": "https://www.slas.org/news-highlights/presidents-message/",
+  "contentError": ""
 }

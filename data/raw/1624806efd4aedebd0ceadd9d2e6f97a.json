@@ -7,10 +7,14 @@
   "sourceType": "自主实验室与平台",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:57:41.220Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "发布时间：2026-09-15 | 供稿部门：党委办公室 | 【 放大 】 【 缩小 】 | 【 打印 】 【 关闭 】 9 月 15 日上午，所党委举办第二十八期科学家精神报告会暨攻坚精神大讲堂，特邀原国防科工委发展研究中心党委书记袁和平作专题报告。党委书记王峰主持会议，报告会在我所星海园区设主会场，在中国科学院物理研究所、中国科学院工程热物理研究所、我所能源学院园区设视频分会场， 500 余名职工、研究生通过线上或线下参会。 袁和平既是重大国防工程一线参与者，也是“两弹一星”精神的解读者与传播者。他结合自身理论积淀与重大工程经历，回顾了“两弹一星”事业艰苦卓绝的研制历程，系统梳理了“ 863 计划”实施四十年的发展脉络，讲述了我国科技突破背后感人至深的奋斗故事，阐释载人航天精神、探月精神、新时代北斗精神的孕育脉络与时代内涵，展现了改革开放以来我国国防科技与武器装备建设取得的成果。 报告会回望峥嵘岁月，感悟精神伟力，带领全体参会人员重温“两弹一星”奋斗历程，既是一次精神洗礼，更是一场明晰使命、锚定方向的思想动员。报告会将激励广大科研工作者传承老一辈科学家爱国奉献、攻坚克难的精神，把精神感召转化为抢占科技制高点的实际行动。（文 / 图 曹舒畅）",
+  "contentHash": "a954137b5158ca6c20aac4ef90dd6cf97cbec1019737fb0e4aad5758b25b7542",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "1624806efd4aedebd0ceadd9d2e6f97a"
+  "legacyId": "1624806efd4aedebd0ceadd9d2e6f97a",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:26:54.353Z",
+  "fetchedUrl": "https://www.dicp.ac.cn/xwdt/zhxws/202609/t20260915_8283363.html",
+  "contentError": ""
 }

@@ -13,7 +13,8 @@
   "discardReason": "",
   "contentHash": "05e5761575c480805e967584bc8b3c93544f72b8c2b3b40d8ba990402d71164f",
   "legacyId": "60f52e64e3b9d75505465226c4ded9e8",
-  "lastFetchAt": "2026-09-16T11:46:26.935Z",
+  "lastFetchAt": "2026-09-17T08:35:26.116Z",
   "contentTruncated": false,
-  "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成"
+  "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成",
+  "fetchedUrl": "https://modelscope.cn/home"
 }

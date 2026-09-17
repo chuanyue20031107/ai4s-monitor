@@ -7,10 +7,14 @@
   "sourceType": "实验室技术展会",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:33.582Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "亚洲重要的分析、生化技术、诊断和实验室技术博览会——第十三届慕尼黑分析生化中国展（analytica China 2026）即将于 2026年11月16-18日在上海新国际博览中心N1-N5 & E6-E7馆 盛大举行。 「生命科学、生物技术与诊断」 主题展是慕尼黑分析生化中国展(analytica China) 非常重要的展区之一，涵盖与生命科学相关的 分析技术、实验室技术、生物信息学，以及生物技术服务 等内容，顺应业界对生物技术服务需求的快速增长，面向 生命科学研究、医疗保健、临床医生和药物研发企业 打造一站式服务交流平台。 本届「生命科学、生物技术与诊断展区」位于 N3、N4、N5馆 。作为本届展会最炙手可热的核心展区，各展商将展示生命科学及临床诊断领域的新产品、新技术、新应用和新解决方案。黄金展位数量有限，欲订从速！ 2025年全国两会期间，政策组合拳为生命科学、医药创新及大健康注入强势动能，代表委员就生物医疗产业发展积极建言献策： 提出“加速新药审批、推动全产业链协作、完善支付体系”，建议优化政策机制与资源整合，以提升临床转化效率及患者可及性。 通过国际合作可以提升技术水平和全球影响力，有助于提升我国细胞健康产业的国际竞争力，还能促进全球细胞治疗技术的共同发展。 倡导“建设医疗数据库、统一数据标准、健全共享机制”，强化数据基础建设与跨领域协同，降低研发成本、缩短新药上市周期。",
+  "contentHash": "ef9d5ae08f526167e4ea223538407eef8b2fee09415e3a3782c6c1bb867e069b",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "a5bb4b83fc7494012938725d823b57fc"
+  "legacyId": "a5bb4b83fc7494012938725d823b57fc",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:42:46.875Z",
+  "fetchedUrl": "https://www.analyticachina.com.cn/cn/Discover-analytica-China/Press-Release/Exhibition-News/detail/Life-Science",
+  "contentError": ""
 }

@@ -7,10 +7,14 @@
   "sourceType": "自主实验室与平台",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:57:39.149Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "构建了世界范围内规模最大、参考数据集最新、覆盖度最广的开源蛋白质多序列比对数据集，该数据集采用学术界的“金标准”搜索方法，对约0.5亿条蛋白序列进行了充分的MSA搜索与比对，对解决蛋白质研究中所面临的高变异序列和孤儿序列等问题具有巨大的潜在价值。 推出了基于AlphaFold 2算法的蛋白质结构预测推理工具，并实现了训练的全流程打通，效率同比提升2-3倍。与AlphaFold 2相比，在混合精度下单步迭代时间由20秒缩短到12秒，性能提升超过60%。 通过算法、规模和软硬件支持上持续改进，在全球持续蛋白质结构预测竞赛CAMEO中连续多周占据榜首，填补了国产人工智能基础软硬件在蛋白质结构预测领域成绩的空白",
+  "contentHash": "7235265b0efcd5690af485cf91f95c761bf8767fc68034971465e29aa9226987",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "9d3c96b85fe8f57637789ef2ab571946"
+  "legacyId": "9d3c96b85fe8f57637789ef2ab571946",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:42:16.709Z",
+  "fetchedUrl": "https://www.cpl.ac.cn/scientific_research/research_highlights/4028c1f1853d7feb01853ddd22c50030.html",
+  "contentError": ""
 }

@@ -7,10 +7,14 @@
   "sourceType": "科技大厂研究机构",
   "publishedAt": null,
   "crawledAt": "2026-09-16T05:12:08.213Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Our publications provide insight into some of our leading-edge research.",
+  "contentHash": "bd482f80b612869ce7c6e5a0097b55fafc9f607e6c9b947bee252d6f65114301",
+  "contentStatus": "insufficient_content",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "50dba47e7c9fc898c13cf627b40074bf"
+  "legacyId": "50dba47e7c9fc898c13cf627b40074bf",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:32:34.929Z",
+  "fetchedUrl": "https://research.nvidia.com/publications",
+  "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成"
 }

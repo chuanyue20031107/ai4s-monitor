@@ -7,10 +7,14 @@
   "sourceType": "实验室技术展会",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:33.582Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "亚洲重要的分析、生化技术、诊断和实验室技术博览会——第十三届慕尼黑分析生化中国展（analytica China 2026）即将于 2026年11月16-18日在上海新国际博览中心N1-N5 & E6-E7馆 盛大举行。 「实验室安全展区」将以 “人与实验室的和谐与发展” 为核心理念，在N1馆亮相。展区深度融合政策导向、行业痛点与技术创新，围绕 “安全、效率、可持续” 三大关键词，构建覆盖实验室规划建设到日常运营的全生命周期安全生态体系，通过展示前沿设备、智能系统与科学管理方案，助力科研机构、食品、环境监测、制药、医疗卫生、化工及政府部门等领域实现EHS管理管理体系升级，推动实验室安全生态建设。 2025年6月，第24个全国“安全生产月”以“人人讲安全、个个会应急——查找身边安全隐患”为主题，强调隐患排查、风险评估与应急能力建设。在此背景下，本届「实验室安全展区」精准展示 实验室设备、实验室建设及防护、实验室安全培训和实验室新技术与数字化安全 四大方向，进一步强化“安全是实验室发展基石”的理念。 作为本届展区的核心亮点，“数字技术赋能实验室安全”将成为推动安全生态升级的关键驱动力。展区将集中呈现 智能传感器、物联网、AI风险预警、大数据分析等 前沿技术在实验室安全管理中的深度应用，覆盖 环境监测、危化品管控、人员管理及应急响应等 全链条场景，为实验室安全提供“安全、效率、可持续的”一站式解决方案。",
+  "contentHash": "592a977752c2d4ae0e4b03ee1165b641b8f1e78c3ae7721efbd2608c3374852d",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "4ad4f8810ef165efac04db7a3ff230e7"
+  "legacyId": "4ad4f8810ef165efac04db7a3ff230e7",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:32:02.770Z",
+  "fetchedUrl": "https://www.analyticachina.com.cn/cn/Discover-analytica-China/Press-Release/Exhibition-News/detail/Lab-safety",
+  "contentError": ""
 }

@@ -7,10 +7,14 @@
   "sourceType": "产业技术会议",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:36.188Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "CII uses cookies to improve your website & conference experiences, including enhancing website navigation, personalized features & promotions, evaluating our services, and customizing content and ads based on your preferences as you browse or engage with us. By clicking \"Continue\" or continuing to use our site, you are agreeing to our and our partners use of cookies. See our Privacy Policy for more information. William (Bill) Mayo Founder Wellfleet Advisors Morgan Cheatham, MD Partner, Head of Healthcare & Life Sciences Breyer Capital Rana Lonnen Life Sciences and Healthcare Investor Sandeep Burugupalli Head, Data Science & Biopharmaceuticals R&D, AstraZeneca Bill Fitzgerald Vice President of Growth and Ecosystem, SandboxAQ Michael Langer Co-Founder and Managing Partner, T.Rx Capital Kristina Kitko Head of AI Investment, Eli Lilly and Company Jo Viney CEO, President, Founder, Seismic Therapeutic Anna Marie Wagner Independent Board, Member & Advisor Julia Boguslavsky Executive Director, Conferences [email protected] Craig Simak Executive Director, Conferences (+1) 516-835-9109 [email protected] 250 First Avenue, Suite 300 Needham, MA 02494 P: 781.972.5400 F: 781.972.5425 E: [email protected]",
+  "contentHash": "6f908b2559692c1f6132e2e5a09a75c5dfff3bc1a83f5676acf7846279252ce4",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "3d33ecd25a35d2113dd2b4c948852adf"
+  "legacyId": "3d33ecd25a35d2113dd2b4c948852adf",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:29:44.527Z",
+  "fetchedUrl": "https://www.bio-itworldexpo.com/investor",
+  "contentError": ""
 }

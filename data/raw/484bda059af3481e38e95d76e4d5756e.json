@@ -7,10 +7,14 @@
   "sourceType": "科学数据库与平台",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:57:50.143Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Want to use the PDB to learn more about metalloproteins? Recent wwPDB updates serve the community with improved accuracy along with brand-new annotations specific to metalloproteins, including coordination geometry annotations. Join Drs. Alison Biester and Chenghua Shao for Metalloproteins in the PDB: Understanding the remediated data on Thursday, September 17, 2026 1-2pm Eastern | 10-11am Pacific. Please register for this free event. An institutional email address for registration is preferred. You will receive confirmation and a Zoom link by email before the event. RCSB PDB Core Operations are funded by the U.S. National Science Foundation (DBI-2321666), the US Department of Energy (DE-SC0019749), and the National Cancer Institute , National Institute of Allergy and Infectious Diseases , and National Institute of General Medical Sciences of the National Institutes of Health under grant R01GM157729. RCSB PDB uses resources of the National Energy Research Scientific Computing Center ( NERSC ), a Department of Energy User Facility.",
+  "contentHash": "bfcdb08d0ad3ae033b369c125d2e70677c2bf95f16f0a1cd8303e8479f6ba71b",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "484bda059af3481e38e95d76e4d5756e"
+  "legacyId": "484bda059af3481e38e95d76e4d5756e",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:31:59.384Z",
+  "fetchedUrl": "https://www.rcsb.org/news/feature/6a95686c3bf5580b84a87d32",
+  "contentError": ""
 }

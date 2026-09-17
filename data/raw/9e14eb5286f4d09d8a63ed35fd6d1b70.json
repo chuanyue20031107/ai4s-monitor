@@ -7,10 +7,14 @@
   "sourceType": "科技大厂研究机构",
   "publishedAt": null,
   "crawledAt": "2026-09-16T05:12:08.213Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Computer Vision",
+  "contentHash": "69dbf44b3d90e7faf94f5813c530bc1d12f22e773ce4e901c33a159c8682edfb",
+  "contentStatus": "insufficient_content",
+  "extractionMethod": "meta-description",
   "discardReason": "",
-  "legacyId": "9e14eb5286f4d09d8a63ed35fd6d1b70"
+  "legacyId": "9e14eb5286f4d09d8a63ed35fd6d1b70",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:42:21.741Z",
+  "fetchedUrl": "https://research.nvidia.com/research-area/computer-vision",
+  "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成"
 }

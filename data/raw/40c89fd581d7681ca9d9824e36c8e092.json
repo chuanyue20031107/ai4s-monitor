@@ -13,7 +13,8 @@
   "discardReason": "",
   "contentHash": "bd4f62aeabb04c11009725eae4c6431a45243816f919775190a3b706172a1dfb",
   "legacyId": "40c89fd581d7681ca9d9824e36c8e092",
-  "lastFetchAt": "2026-09-16T17:07:28.250Z",
+  "lastFetchAt": "2026-09-17T08:29:46.450Z",
   "contentTruncated": false,
-  "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成"
+  "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成",
+  "fetchedUrl": "https://www.nbsdc.cn/general/news/newsNoticeView?id=6177ac1599f1de6719243a1f"
 }

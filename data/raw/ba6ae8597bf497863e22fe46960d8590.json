@@ -7,10 +7,14 @@
   "sourceType": "材料信息学公司",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:05:19.356Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Preparing Your Product Development Team for AI: Three Mindset Shifts That Matter Materials and chemicals product-development teams are being asked to reach demanding property targets while managing cost, supply risk, regulatory pressure, and limited lab capacity. The teams that realize value sooner tend to make three mindset shifts. Notes on Successful Projects Advancements in Predicting the Fatigue Lifetime of Structural Adhesive Joints In the realm of structural engineering, the behavior of structural adhesives stands as a pivotal yet complex enigma. Notes on Successful Projects Autonomous electrocatalyst discovery for sustainable nitrogen reduction Sequential learning and autonomous atomistic simulations help discover new catalysts with co-optimized properties. External Research , Notes on Successful Projects Closed-loop fully-automated frameworks for accelerating materials discovery How much can a combination of sequential learning and closed-loop automation accelerate materials discovery? External Research , Notes on Successful Projects Quantifying the Performance of Machine Learning Models in Materials Discovery Our findings illustrate the importance of designing a modeling and discovery workflow which is highly tailored toward the specific problem of interest. In ML and SL for materials discovery, one size does not fit all, traditional error metrics may not be a good predictor of success, and the specifics of the design challenge have important implications for the optimal configuration of materials discovery strategies. External Research , Notes on Successful Projects Materials informatics accelerates customer tailored composite material design Materials Informatics helps a custom thermoplastic producer rapidly identify custom masterbatch + polymer blends for its customized solutions with far fewer experiments than traditional approaches to product development. Notes on Successful Projects Quantifying Uncertainties in the Materials Digital Twin Citrine has quantified uncertainty in DFT property calculations as part of a project funded by the US Department of Energy and with collaborators from Olin College and MolSSI. External Research , Notes on Successful Projects Machine Learning and Physics-Based Modeling Hand-in-Hand Synthesizing and testing new material samples can take months and cost tens of thousands of dollars. Physics-based modeling techniques, such as Density Functional Theory (DFT) are cheaper and quicker. However, these require a large amount of computational power and can still take days. Running a machine learning model takes seconds to minutes and can predict [&hellip;] Notes on Successful Projects",
+  "contentHash": "56ce4afdc1a5a0d2246de57f75556ebded4df0b087a5ec855ba26c4a41329315",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "ba6ae8597bf497863e22fe46960d8590"
+  "legacyId": "ba6ae8597bf497863e22fe46960d8590",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:47:40.907Z",
+  "fetchedUrl": "https://citrine.io/category/blog/notes-on-successful-projects/",
+  "contentError": ""
 }

@@ -9,8 +9,12 @@
   "crawledAt": "2026-09-16T07:35:35.792Z",
   "content": "",
   "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "contentStatus": "insufficient_content",
+  "extractionMethod": "meta-description",
   "discardReason": "",
-  "legacyId": "4a9e1df649fa08de97ac0cd4aaa0f0e5"
+  "legacyId": "4a9e1df649fa08de97ac0cd4aaa0f0e5",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:32:02.388Z",
+  "fetchedUrl": "https://www.acs.org/events/regional.html",
+  "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成"
 }

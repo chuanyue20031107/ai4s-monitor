@@ -7,10 +7,14 @@
   "sourceType": "材料信息学公司",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:05:19.356Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "A Game-Changer In Materials And Chemicals Development And Deployment Citrine Catalyst, an innovative digital assistant that leverages large language models designed to support and propel your product development journey into the future. Business updates EU Expansion September 4, 2020 – Citrine Informatics is expanding its operations to the European Union. By doing so, Citrine aims to collaborate more effectively with its existing and future European customers as they utilize Citrine’s award-winning AI and smart data management platform. “Citrine has partnered with industry leaders in Europe like Michelin, LANXESS, and AGC Glass [&hellip;] Business updates",
+  "contentHash": "a44fa69fa7d02899e4bcc21c26c051727c17fb0836a6d91b5d0403839497758b",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "3cda292421d4b1a2b1b35aa1aac761e3"
+  "legacyId": "3cda292421d4b1a2b1b35aa1aac761e3",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:29:43.428Z",
+  "fetchedUrl": "https://citrine.io/category/blog/business-updates-blog/",
+  "contentError": ""
 }

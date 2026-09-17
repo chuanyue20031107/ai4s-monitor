@@ -7,10 +7,14 @@
   "sourceType": "科技大厂",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:36.375Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "AWS Blogs Home Blogs Editions AWS Blogs AWS and DuckLabs: Building the future of analytics together On August 26, Amazon signed a definitive agreement to acquire DuckLabs, the Amsterdam-based company behind the open source analytical database DuckDB. To learn more, read the blog by Mai-Lan Tomsen Bukovec, VP of Technology at AWS. Read the post New in Amazon Bedrock AgentCore: Build agents with broader knowledge and continuous learning Amazon S3 annotations: attach rich, queryable context directly to your objects Introducing AWS Continuum: Security at machine speed AWS Transform - continuous modernization Newest posts Filter Loading Loading Loading Loading Loading Loading Loading Loading Loading Loading Loading Loading Loading",
+  "contentHash": "d8a82c168ac15dd311dd092e0c1cbcddb994ec498e1ba4591b21ca06978ad386",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "8cce74884fe09113bb88de993430dc3f"
+  "legacyId": "8cce74884fe09113bb88de993430dc3f",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:38:46.176Z",
+  "fetchedUrl": "https://aws.amazon.com/blogs/?nc1=f_cc",
+  "contentError": ""
 }

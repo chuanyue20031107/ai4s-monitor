@@ -7,10 +7,14 @@
   "sourceType": "AI药物/自动化实验公司",
   "publishedAt": null,
   "crawledAt": "2026-09-16T05:12:19.802Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Year None 2026 2025 2024 2023 2022 2021 2020 2018 2017 Aug 05, 2026 Recursion Reports Second Quarter Financial Results; Genentech Options First Neuroscience Target into Early Discovery Program Genentech advanced the collaboration's first neuroscience target into a joint early discovery program, providing early evidence that Recursion's platform can generate novel, biologically validated targets for drug discovery REC-4881 (MEK1/2 inhibitor): Additional Phase 2 data in Familial",
+  "contentHash": "b8d46d071f3c42e1bf1e48a87e41ef39b49f935ee09aa7778ba2db606fa2819b",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "56fce3940ef77b1fff19341dd85fc537"
+  "legacyId": "56fce3940ef77b1fff19341dd85fc537",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:35:11.958Z",
+  "fetchedUrl": "https://ir.recursion.com/news-events/press-releases",
+  "contentError": ""
 }

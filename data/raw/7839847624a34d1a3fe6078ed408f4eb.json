@@ -7,10 +7,14 @@
   "sourceType": "中央部委",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:57:51.887Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "1．您需在国家科技管理信息系统公共服务平台登录后，才能够进行颠覆性技术研发方向建议征集填报。 2．若您已有平台账号，您可以根据您的账号类型，点击下方“个人用户登录/注册”或“公共服务平台已有用户登录”，登录确认后填报建议征集。 3．若您暂无平台账号，您可以点击“个人用户登录/注册”，在建议征集登录页注册个人账号；或联系单位管理员为您创建公共服务平台账号。 注： 若暂无中华人民共和国居民身份证，您可将颠覆性建议征集电子版发送至 xmzj@istic.ac.cn",
+  "contentHash": "f77d0db66a62e540e762b5bc361db8a93bde27e3e39141153fb3cc115bf4673f",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "7839847624a34d1a3fe6078ed408f4eb"
+  "legacyId": "7839847624a34d1a3fe6078ed408f4eb",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:35:58.237Z",
+  "fetchedUrl": "https://service.most.gov.cn/",
+  "contentError": ""
 }

@@ -11,8 +11,9 @@
   "contentStatus": "insufficient_content",
   "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "lastFetchAt": "2026-09-17T02:32:41.874Z",
+  "lastFetchAt": "2026-09-17T08:38:32.510Z",
   "contentTruncated": false,
   "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成",
-  "contentHash": "99a3c414c5b108811eb5e20d09aedb2ee0b8f3211138ba252e2dd04d926b1c6d"
+  "contentHash": "99a3c414c5b108811eb5e20d09aedb2ee0b8f3211138ba252e2dd04d926b1c6d",
+  "fetchedUrl": "https://www.xaira.com/news-content"
 }

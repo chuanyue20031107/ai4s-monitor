@@ -7,10 +7,14 @@
   "sourceType": "国际学术会议/展会",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:35.658Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Point-to-Point (P2P) e-newsletter Point-to-Point (P2P) is SLAS&rsquo;s weekly \"smart\" e-newsletter bringing you trusted content tailored to your interests, making it easier to discover the information most relevant to you. Each issue features news and event highlights from SLAS, news from around the industry, job listings from SLAS Career Connections and sponsored content. Read the Latest Issue SLAS also provides banner advertising opportunities for vendors to reach the broad SLAS community. Email Linda Cohen or call +1-301-200-4616 Ext. 816 for more information.",
+  "contentHash": "093afc1c385f2e54b41dfa839e0bcd6878a3a4df24a1971a4cb753e0c3408e17",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "b9d0487f46622dc342d1c06f94e8c5e5"
+  "legacyId": "b9d0487f46622dc342d1c06f94e8c5e5",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:47:40.762Z",
+  "fetchedUrl": "https://www.slas.org/publications/point-to-point-p2p-e-newsletter/",
+  "contentError": ""
 }

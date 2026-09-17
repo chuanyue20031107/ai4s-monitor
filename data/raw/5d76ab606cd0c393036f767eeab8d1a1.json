@@ -7,10 +7,14 @@
   "sourceType": "国际研究机构",
   "publishedAt": null,
   "crawledAt": "2026-09-16T05:12:13.867Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Use value 11 hours/week per user saved, leading to over £11.8bn/year in productivity gains",
+  "contentHash": "19ca50005a0a591be858959af5ced9ca4aeec640165532cf576e4a65db85242b",
+  "contentStatus": "insufficient_content",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "5d76ab606cd0c393036f767eeab8d1a1"
+  "legacyId": "5d76ab606cd0c393036f767eeab8d1a1",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:35:19.428Z",
+  "fetchedUrl": "https://www.ebi.ac.uk/about/our-impact/2026-impact-report/",
+  "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成"
 }

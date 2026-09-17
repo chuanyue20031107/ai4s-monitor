@@ -7,10 +7,14 @@
   "sourceType": "实验室技术展会",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:33.582Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "仪器信息网将于慕尼黑分析生化中国展，举办“AI・出海・后市场——解码科学仪器行业新动能专题论坛”活动。本次活动特邀行业协会、科研机构等用户单位代表，以及科学仪器生产制造商与经销商等业界精英，聚焦政策进展、行业趋势等内容展开交流，深度剖析市场热点与产业新机遇，共同展望并挖掘科学仪器行业市场增长蓝海。",
+  "contentHash": "d550ebfbce350b7f6a3fc04653ca5fe9a5e2b2163c840ba149ec5729960df620",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "2eaefa49240bccb1f2b355d4a6cc4939"
+  "legacyId": "2eaefa49240bccb1f2b355d4a6cc4939",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:29:25.528Z",
+  "fetchedUrl": "https://www.analyticachina.com.cn/cn/analytica-china-2026/Supporting-program/yiqixinxi",
+  "contentError": ""
 }

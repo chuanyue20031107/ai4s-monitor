@@ -13,7 +13,8 @@
   "discardReason": "",
   "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "legacyId": "222c4e5ce670b522f762fd59da9ef1b4",
-  "lastFetchAt": "2026-09-16T17:07:25.880Z",
+  "lastFetchAt": "2026-09-17T08:27:09.174Z",
   "contentTruncated": false,
-  "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成"
+  "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成",
+  "fetchedUrl": "https://www.casdc.cn/dataV/"
 }

@@ -11,8 +11,9 @@
   "contentStatus": "insufficient_content",
   "extractionMethod": "meta-description",
   "discardReason": "",
-  "lastFetchAt": "2026-09-16T11:46:41.562Z",
+  "lastFetchAt": "2026-09-17T08:35:44.899Z",
   "contentTruncated": false,
   "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成",
-  "contentHash": "60f40b09d0c6b888caf1bcc2dd87c10e82fe69fe1624d5275b4dce13fc1d8b66"
+  "contentHash": "60f40b09d0c6b888caf1bcc2dd87c10e82fe69fe1624d5275b4dce13fc1d8b66",
+  "fetchedUrl": "https://www.deep-material.com/gaotongliangyanfashebei/37.html"
 }

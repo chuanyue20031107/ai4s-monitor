@@ -7,10 +7,14 @@
   "sourceType": "全国学术大会",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:30.573Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "近日，我会收到社会公众反馈，反映 “人工智能 + 工作组” 在其 “人工智能 +”APP 中非法使用我会 ICP 备案编号的相关情况。对此，我会郑重声明如下： 一、中国人工智能学会与“人工智能+工作组”不存在任何隶属、合作或其他关联关系，亦未参与其任何项目、投资、宣传或组织活动。 二、经核查，“人工智能 + 工作组” 在其 “人工智能 +”APP 中非法标注和使用我会的 ICP 备案编号（京 ICP 备 06029423 号‑1）。上述未经授权擅自使用我会 ICP 备案编号的行为，严重误导社会公众，已严重侵犯我会合法权益。我会已就相关侵权内容向有关平台提出删除及处理要求，并将保留进一步追究法律责任的权利。 三、针对社会公众反馈的投资、资金往来及项目纠纷等事项，我会未参与任何相关活动，亦不掌握相关情况，建议当事人通过司法机关或相关监管部门依法维护自身权益。 四、请社会公众提高警惕，谨防冒用我会名义、违法使用我会信息（包括但不限于 ICP 备案编号、网址）进行宣传、融资、诈骗或其他活动。如发现相关线索，欢迎向我会反馈并及时向司法机关报案。 Copyright © 2026 中国人工智能学会 互联网ICP备案： 京ICP备06029423号-1 京公网安备11010802045678号 为了得到我们网站最好的体验效果,我们建议您升级到最新版本的Internet Explorer或选择另一个web浏览器.一个列表最流行的web浏览器在下面可以找到.",
+  "contentHash": "6a9369458df3dcf999b3328c97e686be5ddf17736dcff069f38da20ed879b797",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "a581d2a5f28cf420084c780e85caf628"
+  "legacyId": "a581d2a5f28cf420084c780e85caf628",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:42:46.028Z",
+  "fetchedUrl": "https://www.caai.cn/site/content/8558.html",
+  "contentError": ""
 }

@@ -7,10 +7,14 @@
   "sourceType": "自主实验室与平台",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:57:40.684Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "诚邀全球有志于从事人工智能、大模型、具身智能、安全可信AI、Al for Science、基础平台、创新链、管理支撑等领域的青年人才加入，共创AGI美好未来。 自2022年起，上海AI实验室与北京大学、清华大学、复旦大学、上海交通大学、同济大学、中国科学技术大学、浙江大学等十余所顶尖高校共同开展联合培养博士生专项工作。 9月11日-14日，2026浦江创新论坛（第十九届）将在上海举办。本届论坛由中华人民共和国科学技术部和上海市人民政府共同主办，其中 人工智能赋能科学研究专题论坛 将于9月13日下午开幕，聚焦“ 跨越奇点：加速科学发现 ”这一前沿主题。 专题论坛由中华人民共和国科学技术部四司、上海人工智能实验室（上海AI实验室）联合承办，将汇聚全球顶尖科学家与青年科技力量，深度研讨AI驱动科研全流程智能化、自动化与闭环演进等核心议题，同时结合多元科学领域的创新实践，共同展望AGI时代科学发现的新范式与新边界。 请扫描上图中的二维码或点击文末“阅读原文”，提交参会信息。组织方将对专业观众资质进行预审核， 审核结果以短信/邮件通知，请参考短信/邮件指引，在48小时内完成大会注册 ，逾期将视为放弃参会资格。 2025浦江创新论坛期间，上海AI实验室主任、首席科学家周伯文提出“ AGI for Science前沿六问 ”。时至今日，这“六问”依然直击科学智能领域的未知与困境，为行业高质量发展提供思考坐标系。 今年，上海AI实验室将继续围绕上述“六问”，分享一系列新思考与新进展，以根本性问题牵引攻坚方向、以有组织科研驱动范式革新。 Copyright © 2026 Shanghai Artificial Intelligence Laboratory",
+  "contentHash": "e3cf6280ec1251f06d5560e95fc743f5959a759ca9112fd61aaa52cb4863f6cf",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "047fad8381b7ca794ad58d2c6c1ea66f"
+  "legacyId": "047fad8381b7ca794ad58d2c6c1ea66f",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:23:47.942Z",
+  "fetchedUrl": "https://www.shlab.org.cn/news/5444289",
+  "contentError": ""
 }

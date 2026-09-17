@@ -11,8 +11,9 @@
   "contentStatus": "insufficient_content",
   "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "lastFetchAt": "2026-09-17T05:00:19.619Z",
+  "lastFetchAt": "2026-09-17T08:31:58.667Z",
   "contentTruncated": false,
   "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成",
-  "contentHash": "ca7cb104311d2b51b271ad04035f46d3d9bf656f86b53f65e58809a1e5f58f03"
+  "contentHash": "ca7cb104311d2b51b271ad04035f46d3d9bf656f86b53f65e58809a1e5f58f03",
+  "fetchedUrl": "https://www.minimax.cn/blog"
 }

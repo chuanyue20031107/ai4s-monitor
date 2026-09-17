@@ -7,10 +7,14 @@
   "sourceType": "材料高通量实验企业",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:05:24.864Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "7月30日， CFS2026 第十五届财经峰会揭晓年度奖项，创材深造（Deep Material）凭借颠覆性技术创新与产业化成果，斩获“2026人工智能先锋奖”，成为AI for Science领域唯一获此殊荣的企业。 作为国内首家专注高端金属材料的通用人工智能企业，创材深造以“AI+高通量”颠覆性范式，将传统5-10年的材料研发周期压缩至数月，大幅降低成本与试错风险。公司自建国内智能化程度最高的高通量自驱实验室，发布了全球首个能自主执行物理实验的AI系统“One-Person Lab”，打通“算法预测—自动实验—数据回流—模型迭代”全闭环，研发效率提升十倍以上，是目前唯一实现该闭环规模化量产的AI4M企业。 截止目前，创材深造已完成超高强钛合金、铝合金、高温合金、模具钢等13款高端合金商业化落地，多款性能达世界先进水平，覆盖航空航天、机器人、新能源、半导体和消费电子等新兴产业赛道。公司先后获合线性资本、源码资本、蓝驰创投、合世家、晨晖资本等近亿元融资。此次获奖不仅是对其技术突破与产业化能力的高度认可，更彰显了中国企业在AI for Science浪潮中引领全球材料研发范式变革的决心和勇气。",
+  "contentHash": "b66a9a1ece700726550df366212643493bb89fa339a4755dd96efe5d470e1c88",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "1377828fa43a4108fbcc89dcbdbe20fb"
+  "legacyId": "1377828fa43a4108fbcc89dcbdbe20fb",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:26:50.881Z",
+  "fetchedUrl": "https://www.deep-material.com/qiyexinwen/89",
+  "contentError": ""
 }

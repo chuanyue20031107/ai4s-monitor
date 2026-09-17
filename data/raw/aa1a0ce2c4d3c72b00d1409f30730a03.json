@@ -5,12 +5,16 @@
   "sourceKey": "s01-06",
   "sourceName": "Broad Institute",
   "sourceType": "非营利研究机构",
-  "publishedAt": null,
+  "publishedAt": "2025-08-27T15:43:13.000Z",
   "crawledAt": "2026-09-16T05:12:08.435Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Broad’s Impact The Broad Institute’s mission is to understand the roots of disease and close the gap between new biological insights and impact for patients. Here’s how our research — much of it federally funded — is improving human health and accelerating biomedical discoveries. Innovating new treatments ► Gene editing ► New cancer treatment ► Fueling drug development Treating and curing disease with CRISPR-based gene-editing CRISPR - Cas9 In 2013, Broad scientist Feng Zhang (pictured left) and his lab showed how CRISPR-Cas9, the foundational gene-editing technology, can make targeted cuts in DNA in human cells. This technology is the basis for Casgevy, a treatment for sickle cell disease and the first ever FDA-approved CRISPR gene editing medicine (approved in 2023). Base editing Developed in 2016 by Broad researcher David Liu (pictured right) and his team, this CRISPR-based technology makes targeted, single-letter (or single-base) changes in DNA. In 2025, Broad scientists contributed to a tour de force effort that designed, produced, and tested a custom base-editing treatment to treat baby KJ Muldoon’s rare genetic disease in record time, resulting in a vastly improved prognosis for him. Learn more in this Q&A article and video featuring Liu. Prime editing A more versatile form of gene editing, prime editing, which was also invented by David Liu’s team, makes a greater variety of edits such as inserting, deleting, or replacing larger sections of DNA. Developed in 2019 , prime editing has already been successfully tested in a clinical trial for a rare genetic immune deficiency. Base and prime editing can correct the majority of known disease-causing genetic mutations, and are being tested in at least 25 clinical trials to treat or cure leukemias, rare genetic diseases, and high cholesterol. Several of those trials have shown that patients have benefited from the gene-editing treatments. Watch this video of David Liu describing the impact of gene editing on human health. In 2026, Liu and collaborators from The Jackson Laboratory and Boston Children’s Hospital launched the Center for Therapeutic Genetics to accelerate the development and delivery of gene-editing treatments for patients with rare disease.",
+  "contentHash": "ec0f5b678e56217d8a2f972b34a6cde1dd63f21d2e09b53ddae0e3f049976380",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "aa1a0ce2c4d3c72b00d1409f30730a03"
+  "legacyId": "aa1a0ce2c4d3c72b00d1409f30730a03",
+  "contentTruncated": true,
+  "lastFetchAt": "2026-09-17T08:44:52.797Z",
+  "fetchedUrl": "https://www.broadinstitute.org/broads-impact",
+  "contentError": ""
 }

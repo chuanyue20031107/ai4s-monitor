@@ -7,11 +7,13 @@
   "sourceType": "通用模型厂商",
   "publishedAt": null,
   "crawledAt": "2026-09-16T11:46:22.609Z",
-  "content": "",
-  "contentStatus": "fetch_failed",
-  "extractionMethod": "",
+  "content": "Chat with DeepSeek AI – your intelligent assistant for coding, content creation, file reading, and more. Upload documents, engage in long-context conversations, and get expert help in AI, natural language processing, and beyond. | 深度求索（DeepSeek）助力编程代码开发、创意写作、文件处理等任务，支持文件上传及长文本对话，随时为您提供高效的AI支持。",
+  "contentStatus": "ready",
+  "extractionMethod": "meta-description",
   "discardReason": "",
-  "lastFetchAt": "2026-09-16T11:46:22.609Z",
-  "contentError": "HTTP_403",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  "lastFetchAt": "2026-09-17T08:38:23.306Z",
+  "contentError": "",
+  "contentHash": "98b188e9f47d4bdd30c69f531f26fe66286a002e4034118dc185f779cb40647c",
+  "contentTruncated": false,
+  "fetchedUrl": "https://chat.deepseek.com/"
 }

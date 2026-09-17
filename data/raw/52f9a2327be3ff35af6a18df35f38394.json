@@ -7,10 +7,14 @@
   "sourceType": "国际研究机构",
   "publishedAt": null,
   "crawledAt": "2026-09-16T05:12:13.867Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "We train scientists at all levels to get the most out of publicly available biological data.",
+  "contentHash": "73a837534d4b5a8002e77437d6baa8347cc43f09d08bd521c13d502619927b29",
+  "contentStatus": "insufficient_content",
+  "extractionMethod": "meta-description",
   "discardReason": "",
-  "legacyId": "52f9a2327be3ff35af6a18df35f38394"
+  "legacyId": "52f9a2327be3ff35af6a18df35f38394",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:32:42.291Z",
+  "fetchedUrl": "https://www.ebi.ac.uk/training/live-events",
+  "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成"
 }

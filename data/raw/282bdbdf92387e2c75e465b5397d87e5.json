@@ -7,10 +7,14 @@
   "sourceType": "AI药物与自动化实验企业",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:05:27.663Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "晶泰科技学术发表页面汇集晶泰科技最新科研论文、行业研究成果及学术合作动态，涵盖药物发现、药物固体形态研发等领域，助力读者深度了解晶泰科技创新实力与技术突破。",
+  "contentHash": "d5d570e7a60408895df4350a4bda717c023823e36c2c1e6776e215ed1ddb0bbf",
+  "contentStatus": "insufficient_content",
+  "extractionMethod": "meta-description",
   "discardReason": "",
-  "legacyId": "282bdbdf92387e2c75e465b5397d87e5"
+  "legacyId": "282bdbdf92387e2c75e465b5397d87e5",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:29:23.306Z",
+  "fetchedUrl": "https://www.xtalpi.com/category/publications/",
+  "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成"
 }

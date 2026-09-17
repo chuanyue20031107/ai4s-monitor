@@ -7,10 +7,14 @@
   "sourceType": "自动化化学公司",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:05:19.334Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Explore annual industry ranking data and market analysis. Keep up with strategy, innovation and evolving trends across life science industries. A human chemist at a fume hood runs two or three reactions at a time. It is a slow and sequential process, contingent on whoever is at the bench. In contrast, Chemify’s ChemiFarm runs eight to 16 reactions in the same footprint, at gram scale, with automated execution and analysis. The gains are not about miniaturization, but about intensity at meaningful scale. Reaction breadth. Most robotic platforms handle five to 11 reaction types. Chemify claims to handle over 3,000, including pyrophoric and air-sensitive chemistry, which he said most platforms cannot safely run at all. Synthesis depth. Competing systems typically cap out at three to five steps, while Chemify targets routes beyond a dozen. This is the range required for complex drug-like molecules. Reproducibility. Reactions are encoded as programs. Once validated, they run identically every time. “If you make a mistake, you change the code and run it again,” said CEO Lee Cronin. The chemist’s role. Credentialed chemists work upstream, defining new reaction types and expanding the platform’s repertoire. Operators run the robots. A human chemist at a fume hood runs two or three reactions at a time. It is a slow and sequential process, contingent on whoever is at the bench. In contrast, Chemify’s ChemiFarm runs eight to 16 reactions in the same footprint, at gram scale, with automated execution and analysis. The gains are not about miniaturization, but about intensity at meaningful scale. Reaction breadth. Most robotic platforms handle five to 11 reaction types. Chemify claims to handle over 3,000, including pyrophoric and air-sensitive chemistry, which he said most platforms cannot safely run at all. Synthesis depth. Competing systems typically cap out at three to five steps, while Chemify targets routes beyond a dozen. This is the range required for complex drug-like molecules. Reproducibility. Reactions are encoded as programs. Once validated, they run identically every time. “If you make a mistake, you change the code and run it again,” said CEO Lee Cronin. The chemist’s role. Credentialed chemists work upstream, defining new reaction types and expanding the platform’s repertoire. Operators run the robots.",
+  "contentHash": "b7f8ebc2bd93fc480776d7bb1aa443a3d765e69ec83605d7d885d3e84f691095",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "bde234650b71ab12e672d147b98a92a7"
+  "legacyId": "bde234650b71ab12e672d147b98a92a7",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:47:46.012Z",
+  "fetchedUrl": "https://insights.citeline.com/in-vivo/manufacturing/the-chemist-who-wants-to-reprogram-drug-discovery-X3XWVRMRM5GFRELO4J55RTUGDQ/",
+  "contentError": ""
 }

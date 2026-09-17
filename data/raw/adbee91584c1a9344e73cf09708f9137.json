@@ -7,10 +7,14 @@
   "sourceType": "科学数据库与平台",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:57:50.143Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Molecular explorations through biology and medicine Collage of calendar images In 2024, PDB-101 will highlight the structural stories of Peak Performance: the structural biology of athletics and well-being . Athletes require bodies that are the best that is possible, all the way from molecules to muscles. By understanding the structure and function of our molecules, athletes can ensure that they are performing at their peak. This knowledge also informs the ways that we all can live our best lives, at all stages of our lives. Many of these stories are available in the Peak Performance-themed calendar for 2024. Visit PDB-101 for more. Past news and events have been reported at the RCSB PDB website and past Newsletters . Researchers around the globe make 3D structures freely available from the Protein Data Bank (PDB) archive. PDB-101 training materials help graduate students, postdoctoral scholars, and researchers use PDB data and RCSB PDB tools. Outreach content demonstrate how PDB data impact fundamental biology, biomedicine, bioengineering/biotechnology, and energy sciences in 3D by a multidisciplinary user community. Education Materials provide lessons and activities for teaching and learning. RCSB PDB Core Operations are funded by the U.S. National Science Foundation (DBI-2321666), the US Department of Energy (DE-SC0019749), and the National Cancer Institute , National Institute of Allergy and Infectious Diseases , and National Institute of General Medical Sciences of the National Institutes of Health under grant R01GM157729.",
+  "contentHash": "ec55ae74e2ec5c80ca08ac0c2bf0775b3dde83b262b02ed127bde13aaeff37d8",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "adbee91584c1a9344e73cf09708f9137"
+  "legacyId": "adbee91584c1a9344e73cf09708f9137",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:45:01.976Z",
+  "fetchedUrl": "https://pdb101.rcsb.org/news/2023",
+  "contentError": ""
 }

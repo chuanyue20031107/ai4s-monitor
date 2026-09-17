@@ -7,10 +7,14 @@
   "sourceType": "专题学术会议",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:33.584Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "近日人民网发布了《2026健康中国创新实践案例征集启事》，中国药学会作为推荐单位，动员征集和推荐药学领域的创新实践案例。 现请中国药学会各专业委员会、所属企业、会员单位，按照征集启事要求（附件1），结合工作实际，于8月31日前发送相关征集材料，通过中国药学会推荐报送。 即日起至8月31日为征集阶段，9月10日完成作品审核和评审后，将通知选用作品单位，于9月15日前完成报送工作。 请邮件发送必备材料《2026健康中国创新实践案例信息表》（附件2）、《承诺书》（附件3），和可选材料（案例视频、其他支撑材料，要求见附件4）至kpb@cpa.org.cn。所有申报材料保存在一个文件夹，压缩后作为邮件附件发送，邮件主题及压缩包命名方式为“2026健康中国+申报单位”。提交截止时间为2026年8月31日16:00。",
+  "contentHash": "c66a437554b7960b7aada1a87a29d73dd8fd8af14fdc224abea642c8a8c41b99",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "a167325e19698521ff080b68daffb59e"
+  "legacyId": "a167325e19698521ff080b68daffb59e",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:42:35.341Z",
+  "fetchedUrl": "https://www.cpa.org.cn/?do=info&cid=78901",
+  "contentError": ""
 }

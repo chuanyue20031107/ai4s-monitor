@@ -5,12 +5,16 @@
   "sourceKey": "s01-06",
   "sourceName": "Broad Institute",
   "sourceType": "非营利研究机构",
-  "publishedAt": null,
+  "publishedAt": "2026-09-01T14:30:46.000Z",
   "crawledAt": "2026-09-16T05:12:08.435Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "New method allows scientists to follow gene activity over time in the same cells In the new method, cells package and export their RNA, enabling researchers to sequence and analyze the RNA without killing the cells. By Leah Eisenstadt September 1, 2026 Credit: Agnieszka Grosso, Broad Communications The Blainey lab at the Broad invented a “cellular self-reporting” approach to make living cells share their own transcriptomes in virus-like particles, shown in purple.",
+  "contentHash": "3efe56cba55c7481dabae1a3359e715966675b4f30cdb2f132445ac4a32dcad1",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "8aa3f6cd313a48d01f8d5929ff395749"
+  "legacyId": "8aa3f6cd313a48d01f8d5929ff395749",
+  "contentTruncated": true,
+  "lastFetchAt": "2026-09-17T08:38:39.910Z",
+  "fetchedUrl": "https://www.broadinstitute.org/news/new-method-allows-scientists-follow-gene-activity-over-time-same-cells",
+  "contentError": ""
 }

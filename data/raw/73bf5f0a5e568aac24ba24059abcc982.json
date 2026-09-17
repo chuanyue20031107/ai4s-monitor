@@ -7,10 +7,14 @@
   "sourceType": "科技大厂研究机构",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:36.536Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Ponder This Challenge - July 2026 - Return of the Superheroes Puzzle Gadi Aleksandrowicz 01 Jul 2026 Ponder This",
+  "contentHash": "2e780e1c3a5891d8f7feb19b58e0dbc58281e0bcb0c0b5bf02d6d486d7d0ff62",
+  "contentStatus": "insufficient_content",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "73bf5f0a5e568aac24ba24059abcc982"
+  "legacyId": "73bf5f0a5e568aac24ba24059abcc982",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:35:53.760Z",
+  "fetchedUrl": "https://research.ibm.com/blog/ponder-this-september-2026",
+  "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成"
 }

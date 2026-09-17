@@ -7,10 +7,14 @@
   "sourceType": "计算化学软件与药物公司",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:05:18.824Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Research IT & Cloud Computing Request a demo Power your research teams with a collaborative, scalable molecular design & discovery platform As predictive technologies and computational data continue to escalate in both volume and qualitative contribution, Research IT teams are increasingly tasked with managing complex cross-functional data systems, discovery workflows, and large-scale compute infrastructure. Schrödinger offers centralized digital molecular design solutions with cloud-native capabilities to provide real-time access to virtual and experimental data and predictive modeling. Flexible data management and cloud computing solutions Centralize access to your real and virtual data Deploy a flexible, cloud-native molecular design and collaboration platform for your entire discovery team Easily integrate with any corporate data source and maintain data security with project and group-level access controls Snap in your web-based or in-house developed technologies via a model-agnostic API > LiveDesign Easily and cost-efficiently scale your compute resources on the cloud Deploy Maestro to the cloud, utilizing our auto-scaling, vendor-agnostic cloud solution Reduce the HPC management overhead of your team by providing your users heterogeneous CPU/GPU clusters with minimal support required > Virtual Cluster Manage your team’s modeling jobs with a flexible, built-in job server infrastructure Efficiently manages all of the job data and integrates with industry standard queuing systems Benefit from simple UI integration with Maestro and LiveDesign Work with our team of solutions architects to customize your deployment Leverage our enterprise-grade deployment and compute infrastructure knowledge to supplement your internal IT capabilities Snap-in your own corporate databases and workflows to create a true enterprise platform Looking for information on Schrödinger supported platforms and licensing? Learn more Featured Webinar Life science Webinar Bringing drugs to clinics faster with NVIDIA computing Watch webinar Software and services to meet your organizational needs Software Platform Deploy digital drug discovery workflows using a comprehensive and user-friendly platform for molecular modeling, design, and collaboration. Learn more Research Services Leverage Schrödinger’s computational expertise and technology at scale to advance your projects through key stages in the drug discovery process. View services Support & Training Access expert support, educational materials, and training resources designed for both novice and experienced users. Explore Resources",
+  "contentHash": "0a9ddd6fcc7c21c76b4617dbe2cefc1c8ee3ed3041373584c97d3bb60f5ed888",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "978c94b5adec9b157260d27217cdfca1"
+  "legacyId": "978c94b5adec9b157260d27217cdfca1",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:41:40.424Z",
+  "fetchedUrl": "https://www.schrodinger.com/life-science/use-cases/research-it/",
+  "contentError": ""
 }

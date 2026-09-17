@@ -7,10 +7,14 @@
   "sourceType": "产业技术会议",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:36.188Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "CII uses cookies to improve your website & conference experiences, including enhancing website navigation, personalized features & promotions, evaluating our services, and customizing content and ads based on your preferences as you browse or engage with us. By clicking \"Continue\" or continuing to use our site, you are agreeing to our and our partners use of cookies. See our Privacy Policy for more information. Cambridge Healthtech Institute invites accredited media working for scientific news journal/magazine/newspaper to register for a complimentary press pass. Due to high demand, press passes are limited in number and will be issued only to representatives from news outlets, major analyst firms and leading industry blogs. To qualify for a complimentary press pass, the applicant must cover the life sciences industry on a regular basis and present bylined articles or reports published within the past six months upon registration, as well as provide a schedule to when conference coverage will be published. Video and or audio recording of any kind is prohibited onsite at all CHI events. Select the conference you would like to attend: Please email a copy of your completed article, along with the anticipated publish date to Rich Handy at rhandy@healthtech.com 250 First Avenue, Suite 300 Needham, MA 02494 P: 781.972.5400 F: 781.972.5425 E: chi@healthtech.com",
+  "contentHash": "dfc662e7e6a2c78d1fc59cf995844cb1173f2e22ef80e7bf11dafd6443d32a07",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "77cad21ed3e3ae8b2679a90c273684f5"
+  "legacyId": "77cad21ed3e3ae8b2679a90c273684f5",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:35:58.416Z",
+  "fetchedUrl": "https://www.healthtech.com/press",
+  "contentError": ""
 }

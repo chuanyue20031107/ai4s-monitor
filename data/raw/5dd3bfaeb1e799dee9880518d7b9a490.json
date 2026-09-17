@@ -7,10 +7,14 @@
   "sourceType": "自主实验室与平台",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:57:39.149Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "1) 便携式气溶胶采集器：空气流量达到400L/min，颗粒收集切割点为0.58微米，病毒富集效率高。 2) 一体化高灵敏新冠病毒核酸检测仪：采用微流控平台结合新型核酸提取与扩增技术，使新冠病毒的检测灵敏度达到20拷贝/毫升，比常规qPCR方法灵敏10倍。全流程分析时间小于40分钟，实现自动化和全封闭式的新冠检测。",
+  "contentHash": "bca756e6646a6a38b047bb77e0e08318add23e416fba1e8bb4881bc657eb9d8d",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "5dd3bfaeb1e799dee9880518d7b9a490"
+  "legacyId": "5dd3bfaeb1e799dee9880518d7b9a490",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:35:28.012Z",
+  "fetchedUrl": "https://www.cpl.ac.cn/scientific_research/research_highlights/4028c1f1853d7feb01853ddcad78002c.html",
+  "contentError": ""
 }

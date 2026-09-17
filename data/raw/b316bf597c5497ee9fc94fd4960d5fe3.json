@@ -9,8 +9,10 @@
   "crawledAt": "2026-09-16T07:35:36.188Z",
   "content": "",
   "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
+  "contentStatus": "fetch_failed",
   "extractionMethod": "legacy-title-only",
   "discardReason": "",
-  "legacyId": "88ad220df4abb24ff9499c4b1c3c51f0"
+  "legacyId": "88ad220df4abb24ff9499c4b1c3c51f0",
+  "lastFetchAt": "2026-09-17T08:47:38.106Z",
+  "contentError": "fetch failed"
 }

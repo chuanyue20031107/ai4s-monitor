@@ -7,10 +7,14 @@
   "sourceType": "材料信息学公司",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:05:19.356Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Home / Resources / Research / Patents Patents Predictive Design-Space Metrics for Materials Development Patent granted no. 10,675,300 Guide strategic R&D portfolio decisions through systematic predictive evaluation of whether a design space contains improved materials. Described in detail in this paper in NJP Computational Materials. Read the paper Two-stage sampling for accelerated deformulation generation Patent granted no. 17,578,759 A smart way to figure out the formulation used in a competitor’s product. Read the paper Product Design Integration Patent granted no. 11,004,037 B1 Co-optimize product performance with the underlying materials properties through capability maps. Capability maps like this convey the achievability of various target property combinations. Using Machine Learning to Explore Formulations Recipes with New Ingredients Patent granted no. 10,984,145 B1 A methodology to rank candidate formulations recipes based on their likelihood of achieving target specifications. These recipes can include previously untested ingredients.",
+  "contentHash": "b13088168bdf45d981a1cf5d384ddc643280f8e71620e20db20fd3ddca1aa00c",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "affee0ffe9a28d518216e57b06f559a7"
+  "legacyId": "affee0ffe9a28d518216e57b06f559a7",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:45:05.079Z",
+  "fetchedUrl": "https://citrine.io/resources/research/patents/",
+  "contentError": ""
 }

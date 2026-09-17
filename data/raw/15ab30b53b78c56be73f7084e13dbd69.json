@@ -7,10 +7,14 @@
   "sourceType": "实验室技术展会",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:33.582Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "慕尼黑分析生化中国展再次携手中国化学会，重磅呈现全英文研讨会——2026年上海国际分析化学研讨会。本次会议以 “Frontiers in Analytical Chemistry” 为主题，围绕 微全分析、食品分析、分析化学中的成像、3D打印与人工智能、质谱分析、 环境分析、生命分析、样品制备、分析化学新技术与新方法 等多个分析化学专题，开展专业、深度的学术探讨，搭建国际学术交流桥梁。 Session III: Imaging or 3D-Printing in Analytical Chemistry or AI in Analytical Chemistry 分析化学中的成像、3D打印与人工智能 Session Ⅸ: New developments in analytical chemistry 分析化学新技术与新方法",
+  "contentHash": "9b045a359e71b652cf7dc30691737af1d4bf71f05068bbb777267e5ec54fab16",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "15ab30b53b78c56be73f7084e13dbd69"
+  "legacyId": "15ab30b53b78c56be73f7084e13dbd69",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:26:53.019Z",
+  "fetchedUrl": "https://www.analyticachina.com.cn/cn/analytica-china-2026/Supporting-program/CCS2026",
+  "contentError": ""
 }

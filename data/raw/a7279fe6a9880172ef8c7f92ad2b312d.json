@@ -9,8 +9,12 @@
   "crawledAt": "2026-09-16T06:05:19.248Z",
   "content": "",
   "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "contentStatus": "insufficient_content",
+  "extractionMethod": "meta-description",
   "discardReason": "",
-  "legacyId": "a7279fe6a9880172ef8c7f92ad2b312d"
+  "legacyId": "a7279fe6a9880172ef8c7f92ad2b312d",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:44:45.559Z",
+  "fetchedUrl": "https://www.lila.ai/news/lila-wants-to-create-scientific-superintelligence",
+  "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成"
 }

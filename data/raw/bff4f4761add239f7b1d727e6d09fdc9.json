@@ -7,10 +7,14 @@
   "sourceType": "国家科研机构",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:27.532Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "中国科技期刊国际传播和知识服务平台是一个以科技类学术期刊为主要传播经营对象的国际化数字出版传播和知识服务平台。平台借助中国科技出版传媒股份有限公司出版的丰富、优质、专业的学术期刊内容，经过整合、重组，打造生成各种形态的数字化产品，集聚中国科学院乃至国内外的高水平学术期刊资源，实现全方位生产运营、传播和知识服务。",
+  "contentHash": "53c3b3c3dc30fc1485536ffaac0f1b2f417a9b0288bbc26f6baeef35bcbdbdd9",
+  "contentStatus": "ready",
+  "extractionMethod": "meta-description",
   "discardReason": "",
-  "legacyId": "bff4f4761add239f7b1d727e6d09fdc9"
+  "legacyId": "bff4f4761add239f7b1d727e6d09fdc9",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:47:49.245Z",
+  "fetchedUrl": "https://www.sciengine.com/publications/lists?matrix=39DF671BA6A0467795AC820CBE42F48A",
+  "contentError": ""
 }

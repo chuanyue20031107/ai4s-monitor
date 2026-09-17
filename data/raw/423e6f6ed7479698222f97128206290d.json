@@ -7,10 +7,14 @@
   "sourceType": "自主实验室与平台",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:57:38.624Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "1） Nature系列期刊： www.nature.com 2） SpringerLink： www.link.springer.com 3） SpringerMaterials： materials.springer.com 4） ScienceDirect： www.sciencedirect.com 5） Cell: www.sciencedirect.com/journal/cell Cell Stem Cell: www.sciencedirect.com/journal/cell-stem-cell Cancer Cell: www.sciencedirect.com/journal/cancer-cell 6） Web of Science： www.webofscience.com 7） APS： www.aps.org 上述文献数据库资源需在松山湖材料实验室网络 IP 范围内进行使用，数据库使用指南详情参见：OA-知识社区-文档中心-综合部文档-文献数据库相关文档。 数据库资源为教学科研服务，请各位老师合理使用。 撰稿：综合事务管理部",
+  "contentHash": "703c54d05c85d6c016c599031203a873f1641decbb984ecd1d055d777f4b5685",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "423e6f6ed7479698222f97128206290d"
+  "legacyId": "423e6f6ed7479698222f97128206290d",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:29:50.234Z",
+  "fetchedUrl": "https://www.sslab.org.cn/news/noticedetail?id=24090214345433249EF92AB89",
+  "contentError": ""
 }

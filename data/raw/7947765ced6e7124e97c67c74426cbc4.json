@@ -7,10 +7,14 @@
   "sourceType": "科技大厂",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:36.375Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "AWS Architecture Center Technology Categories Video Series AWS Well-Architected Libraries More Resources AWS Whitepapers & guides Expand your knowledge of the cloud with AWS technical content authored by AWS and the AWS community, including technical whitepapers, decision guides, technical guides, reference material, and reference architecture diagrams. For an outline of the AWS Cloud and an introduction to the services available, see the Overview of Amazon Web Services. Overview of Amazon Web Services Explore our content Filter Displaying 1-8 (9) Displaying 1-8 (9) Whitepaper 2026-08-28 AWS Best Practices for DDoS Resiliency Best practices, reference architectures, and operational guidance for defending applications and infrastructure against DDoS attacks. Learn more whitepaper 2026-07-21 GxP Systems on AWS Guidance for running GxP-regulated life sciences workloads on AWS, covering compliance, security, and qualification best practices. Learn more Decision Guide 2026-06-22 Choosing a purchasing option for Amazon EC2 Learn how to select and combine Amazon EC2 purchasing options to optimize costs, performance, and capacity for your workloads. Learn more Whitepaper 2026-06-11 Nitro Isolation Engine The Nitro Isolation Engine is a formally verified enhancement to the Nitro Hypervisor providing mathematical rigor to Nitro's system isolation. Learn more whitepaper 2026-06-10 Agentic AI Lens - AWS Well-Architected The AWS Well-Architected Agentic AI Lens provides architectural guidance for designing, deploying, and operating agentic AI systems on AWS. Learn more Whitepapers 2026-05-29 How Customer Success and a Focus on Value Realization Set Winning Consulting Partners Apart New AWS market study reveals partners investing in Customer Success earn $3.50 in gross profit for every $1 invested over five years. Learn more Whitepapers 2026-04-26 AWS User Guide to Governance, Risk & Compliance for Responsible AI Adoption within Financial Services Industries Provides information regarding governance, risk and compliance (GRC) considerations for the adoption of responsible Artificial Intelligence (AI) for AWS Financial Services Industry (FSI) customers. Learn more Whitepaper 2026-03-06 Navigating GDPR Compliance on AWS Learn how to meet GDPR compliance on AWS using data protection tools, access controls, and international transfer safeguards. Learn more Show 1 more whitepaper Hybrid Networking Lens – AWS Well-Architected Learn how to design, deploy, and architect hybrid networking for workloads in the AWS Cloud. Learn more Did you find what you were looking for today? Let us know so we can improve the quality of the content on our pages Yes No",
+  "contentHash": "13ab494f58d6022f25e43b80f7ea5e1565a71428a21a5e460687fa9cf340d2be",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "7947765ced6e7124e97c67c74426cbc4"
+  "legacyId": "7947765ced6e7124e97c67c74426cbc4",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:35:58.887Z",
+  "fetchedUrl": "https://aws.amazon.com/whitepapers/?nc2=h_rsc_lrn_wp",
+  "contentError": ""
 }

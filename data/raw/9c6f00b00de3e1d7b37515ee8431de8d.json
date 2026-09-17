@@ -7,10 +7,14 @@
   "sourceType": "产业技术会议",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:36.892Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "AI in Microbiology – Predictive Modelling, Intelligent Automation and Data Harmonisation Bridget Moy, Lab of the Future Correspondent, Open Pharma Research AI in Microbiology: Predictive Modelling, Intelligent Automation and Data Harmonisation Executive summary Microbiology is now crucial to many pharmaceutical, clinical and industrial practices. However, key challenges such as inherent biological complexity, unharmonised data and experimental/ regulatory burdens are delaying industry progress. Emerging AI-enabled technologies such... Read more &rarr;",
+  "contentHash": "dd88c9a463f1c536a66eae188137991a442325072af085fe52e0a59f3d78552f",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "9c6f00b00de3e1d7b37515ee8431de8d"
+  "legacyId": "9c6f00b00de3e1d7b37515ee8431de8d",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:42:13.660Z",
+  "fetchedUrl": "https://www.lab-of-the-future.com/article-types/insights/",
+  "contentError": ""
 }

@@ -7,10 +7,14 @@
   "sourceType": "国际学术会议/展会",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:35.658Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "SLAS Europe 2027 Conference and Exhibition --> --> 25-27 May 2027 Hamburg, Germany Be the first to know the latest SLAS Europe 2027 details. Sign Up for the SLAS Europe 2027 Email List",
+  "contentHash": "20624370d48d8ab19aa7dda79a8458092829eefe90f745fd3c9b1e56ea0ac40a",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "abbdab46fae2d9f6ceef25a49c6522f8"
+  "legacyId": "abbdab46fae2d9f6ceef25a49c6522f8",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:45:01.553Z",
+  "fetchedUrl": "https://www.slas.org/events-calendar/slas-europe-2027-conference-and-exhibition/",
+  "contentError": ""
 }

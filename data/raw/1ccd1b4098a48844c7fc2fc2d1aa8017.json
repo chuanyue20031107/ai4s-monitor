@@ -7,10 +7,14 @@
   "sourceType": "全国学术大会",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:30.573Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "CAAI Artificial Intelligence Research (CAAI AIR) is an open access, peer-reviewed scholarly journal which aims to publish the state-of-the-art achievements in the field of artificial intelligence and its applications, including knowledge intelligence, perceptual intelligence, machine learning, behavioral intelligence, brain and cognition, AI chips and applications, etc. Dr. Qionghai Dai is currently a professor with the Department of Automation, an adjunct professor with the School of Life Sciences, Tsinghua University, the Chairmen of Chinese Association for Artificial Intelligence (CAAI), and an Academician of Chinese Academy of Engineering. His research interests include computational photography and microscopy, computer vision and graphics, and intelligent signal processing. Dr. Fuchun Sun is currently a professor with the Department of Computer Science and Technology, Tsinghua University, the Deputy Chairman of Chinese Association for Artificial Intelligence (CAAI), and an IEEE Fellow. His research interests include intelligent control, networked control system and management, neural networks, fuzzy systems, nonlinear systems, and robotics. Enrique Herrera-Viedma, University of Granada, Spain Cheng-Lin Liu, Chinese Academy of Sciences, China C. L. Philip Chen, South China University of Technology, China Derong Liu, University of Illinois at Chicago, USA Mustafa Servet Kiran, Konya Technical University, Turkey Yew-Soon Ong, Nanyang Technological University, Singapore Arun Kumar Sangaiah, Vellore Institute of Technology, India Kenji Suzuki, Tokyo Institute of Technology, Japan Z. Jane Wang, University of British Columbia, Canada We are expecting addition professionals on board to cover more topics on artificial intelligence. Should you like to serve on the Editorial Board of CAAI AIR, please send your CV to the editorial office (journal-ai@tup.tsinghua.edu.cn). Your expertise and contribution will be very much appreciated. Andrew Chi-Chih Yao, Tsinghua University, China Copyright © 2026 中国人工智能学会 互联网ICP备案： 京ICP备06029423号-1 京公网安备11010802045678号 为了得到我们网站最好的体验效果,我们建议您升级到最新版本的Internet Explorer或选择另一个web浏览器.一个列表最流行的web浏览器在下面可以找到.",
+  "contentHash": "e865b43d2220c6fae798b66593785a4444070382c3b610622fc446f3280bf5e5",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "1ccd1b4098a48844c7fc2fc2d1aa8017"
+  "legacyId": "1ccd1b4098a48844c7fc2fc2d1aa8017",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:27:03.686Z",
+  "fetchedUrl": "https://www.caai.cn/site/term/206.html",
+  "contentError": ""
 }

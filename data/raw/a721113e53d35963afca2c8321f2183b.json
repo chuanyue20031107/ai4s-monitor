@@ -5,12 +5,16 @@
   "sourceKey": "s01-08",
   "sourceName": "National Institute of Standards and Technology",
   "sourceType": "国家计量标准机构",
-  "publishedAt": null,
+  "publishedAt": "2016-06-30T17:50:00.000Z",
   "crawledAt": "2026-09-16T05:12:09.634Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "An official website of the United States government Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock ( Lock A locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites. NIST is at the forefront of basic research with neutrons, and the NIST Center for Neutron Research is a national resource for industry, universities and government agencies.",
+  "contentHash": "826984312983935cb0452856f62620fd877620935645f76ca4f6c49ee81b71d3",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "a721113e53d35963afca2c8321f2183b"
+  "legacyId": "a721113e53d35963afca2c8321f2183b",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:44:45.681Z",
+  "fetchedUrl": "https://www.nist.gov/neutron-research",
+  "contentError": ""
 }

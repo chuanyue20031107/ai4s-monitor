@@ -11,8 +11,9 @@
   "contentStatus": "insufficient_content",
   "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "lastFetchAt": "2026-09-16T11:46:30.501Z",
+  "lastFetchAt": "2026-09-17T08:24:08.301Z",
   "contentTruncated": false,
   "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成",
-  "contentHash": "4524c6b5c9d7e1a33c35b727a2ce0cc1a2933bc45a35f8a83d67b04f0477f836"
+  "contentHash": "4524c6b5c9d7e1a33c35b727a2ce0cc1a2933bc45a35f8a83d67b04f0477f836",
+  "fetchedUrl": "https://www.megarobo.com/CellVue-T2000"
 }

@@ -5,12 +5,16 @@
   "sourceKey": "s01-06",
   "sourceName": "Broad Institute",
   "sourceType": "非营利研究机构",
-  "publishedAt": null,
+  "publishedAt": "2016-06-21T20:10:06.000Z",
   "crawledAt": "2026-09-16T05:12:08.435Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Press Room The Broad Institute Office of Communications works with journalists to provide accurate information about our scientific leadership and research. We are available to arrange interviews, assist in developing story ideas, and coordinate filming. DNA Mosaic made out of people's faces",
+  "contentHash": "67f5053c167e33dbe5b87aee49bcd46a64d2da2bf0f854b942d084af0affe7f5",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "9cf8feee91178cf45da13ee0150d4d91"
+  "legacyId": "9cf8feee91178cf45da13ee0150d4d91",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:42:16.043Z",
+  "fetchedUrl": "https://www.broadinstitute.org/pressroom",
+  "contentError": ""
 }

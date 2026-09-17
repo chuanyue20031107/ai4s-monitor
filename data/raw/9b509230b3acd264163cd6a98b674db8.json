@@ -7,10 +7,14 @@
   "sourceType": "科学数据库与平台",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:57:50.143Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "The constantly-growing PDB is a reflection of the research that is happening in laboratories across the world. This can make it both exciting and challenging to use the database in research and education. PDB-101's Guide to Understanding PDB Data was created to help users navigate through the contents of the archive without having a detailed background in structural biology. Topics cover biological assemblies, molecular graphics programs, R-value and R-free, and more. A new chapter on Metalloproteins has been added to highlight the recent wwPDB remediation effort that ensures the metals included in PDB structures are represented in an accurate, consistent manner with sufficient annotation. Metals are crucial participants in many areas of biology and across all types of organisms. They play roles in myriad biological functions including membrane potential maintenance, nucleic acid stabilization, protein stabilization, signaling, electron transport, oxygen transport, and catalysis that organic molecules alone could not perform. Along with their natural functions, metals are also powerful tools for drug development. RCSB PDB Core Operations are funded by the U.S. National Science Foundation (DBI-2321666), the US Department of Energy (DE-SC0019749), and the National Cancer Institute , National Institute of Allergy and Infectious Diseases , and National Institute of General Medical Sciences of the National Institutes of Health under grant R01GM157729. RCSB PDB uses resources of the National Energy Research Scientific Computing Center ( NERSC ), a Department of Energy User Facility.",
+  "contentHash": "bf128b24a5e06a9f98d3bfafbc71cfb941cfd26c577468deabd52902eb39365c",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "9b509230b3acd264163cd6a98b674db8"
+  "legacyId": "9b509230b3acd264163cd6a98b674db8",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:42:00.845Z",
+  "fetchedUrl": "https://www.rcsb.org/news/feature/6a987f643bf5580b84a87d3b",
+  "contentError": ""
 }

@@ -9,8 +9,12 @@
   "crawledAt": "2026-09-16T07:35:35.792Z",
   "content": "",
   "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "contentStatus": "insufficient_content",
+  "extractionMethod": "meta-description",
   "discardReason": "",
-  "legacyId": "c75b4fa1ec2c3f3f7e5c525024194968"
+  "legacyId": "c75b4fa1ec2c3f3f7e5c525024194968",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:48:02.136Z",
+  "fetchedUrl": "https://www.acs.org/events/greenchemistryconferences.html",
+  "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成"
 }

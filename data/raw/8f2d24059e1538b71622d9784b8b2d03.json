@@ -7,10 +7,14 @@
   "sourceType": "科学数据库与平台",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:57:50.143Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Metalloproteins represent ~30% of the PDB archive. Ensuring FAIR data practices for metalloproteins is highly impactful. wwPDB has worked closely with metalloprotein community to collect feedback and requirements and community software developers to adopt their tools ( FindGeo from MetalPDB and MetalCoord from CCP4) to enhance metalloprotein annotation. As announced in 2025 , the PDBx/mmCIF dictionary extensions, example files were provided at GitHub for testing and adoption by key stakeholders during the development stage, including the metalloprotein community, refinement software developers, cheminformaticians, and 3D visualization software. All existing polyatomic metal containing PDB entries and CCDs have been updated to make metalloprotein structures findable and reusable with more complete chemical description and metal coordination annotation. About ~900 metal-containing polyatomic CCDs and ~15,500 affected PDB entries are updated and publicly available at both PDB current and Beta archives. In the impacted PDB entries, metal-protein interaction is provided. Metal coordination geometry are calculated based on the coordinate model (by FindGeo and MetalCoord) and assessed by comparing to the regular/allowed metal coordination geometry annotated in the CCD. For any further information please contact us at info@wwpdb.org . RCSB PDB Core Operations are funded by the U.S. National Science Foundation (DBI-2321666), the US Department of Energy (DE-SC0019749), and the National Cancer Institute , National Institute of Allergy and Infectious Diseases , and National Institute of General Medical Sciences of the National Institutes of Health under grant R01GM157729. RCSB PDB uses resources of the National Energy Research Scientific Computing Center ( NERSC ), a Department of Energy User Facility.",
+  "contentHash": "773747990f0e493adf9b7a1154d7bde2150ee54e04d8710f18e2005d91b98aee",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "8f2d24059e1538b71622d9784b8b2d03"
+  "legacyId": "8f2d24059e1538b71622d9784b8b2d03",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:38:50.106Z",
+  "fetchedUrl": "https://www.rcsb.org/news/feature/6a847d2b3bf5580b84a87d31",
+  "contentError": ""
 }

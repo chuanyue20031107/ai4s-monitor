@@ -7,10 +7,14 @@
   "sourceType": "实验室技术展会",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:33.582Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "第十三届中国国际分析、生化技术、诊断和实验室技术博览会暨analytica China国际研讨会 11月 18 日至 20日，analytica China 2024 在上海新国际博览中心举行。展会现场气氛热烈、讨论活跃、过道人头攒动。 凭借着analytica品牌优势，自2002年成功举办以来，analytica China 已经成为中国乃至亚洲重要的分析、实验室技术和生化技术领域的专业博览会和网络平台。 2024年analytica China 云集了超1,200家参展商和40,106 名专业观众，其中2,908位观众来自海外，刷新历史记录。八大展区近85,000平方米总展示面积上呈现了多款仪器设备新品、创新技术及前沿解决方案。 慕尼黑分析生化中国展将于2026年11月16-18日在上海新国际博览中心启幕，欢迎您莅临现场。我们将为您提供专业建议，帮助您全面了解展会参与的各个方面。请联系我们，获取有关您作为参展商的机会的更多信息。",
+  "contentHash": "abccd240da9fee2b959e7e25f6f69110b73caf4e1144166ebcc7cc4ecae4a2df",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "005bc69d490644cdd4301b520e25bb05"
+  "legacyId": "005bc69d490644cdd4301b520e25bb05",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:23:44.361Z",
+  "fetchedUrl": "https://www.analyticachina.com.cn/cn/analytica-china-2026",
+  "contentError": ""
 }

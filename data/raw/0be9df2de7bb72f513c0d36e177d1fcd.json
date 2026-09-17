@@ -11,8 +11,9 @@
   "contentStatus": "insufficient_content",
   "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "lastFetchAt": "2026-09-17T05:00:07.671Z",
+  "lastFetchAt": "2026-09-17T08:24:11.442Z",
   "contentTruncated": false,
   "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成",
-  "contentHash": "4b42c6690ebeb867e96784025c16e1b109cf5b688cadce26dd9355a22cc3ad7d"
+  "contentHash": "4b42c6690ebeb867e96784025c16e1b109cf5b688cadce26dd9355a22cc3ad7d",
+  "fetchedUrl": "https://www.embl.org/sites/hamburg/"
 }

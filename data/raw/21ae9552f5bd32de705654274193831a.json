@@ -7,10 +7,14 @@
   "sourceType": "国际研究机构",
   "publishedAt": null,
   "crawledAt": "2026-09-16T05:12:13.867Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "1 October 2026 A guide to UniProt for students and biological scientists UniProt provides the scientific community with a comprehensive, high-quality and freely accessible resource of protein sequence and functional information. This webinar will guide you through ways in ... 1 October 2026 2026 webinar UniProt provides the scientific community with a comprehensive, high-quality and freely accessible resource of protein sequence and functional information. This webinar will guide you through ways in ... Virtual Webinar | Virtual",
+  "contentHash": "a4a796d2ee3a49bf7cf99b86f39da895d9f3a526f9d665ca69a0f77c58cc77fc",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "21ae9552f5bd32de705654274193831a"
+  "legacyId": "21ae9552f5bd32de705654274193831a",
+  "contentTruncated": true,
+  "lastFetchAt": "2026-09-17T08:27:10.139Z",
+  "fetchedUrl": "https://www.ebi.ac.uk/about/events/",
+  "contentError": ""
 }

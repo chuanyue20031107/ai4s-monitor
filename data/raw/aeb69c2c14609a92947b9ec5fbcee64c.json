@@ -7,10 +7,14 @@
   "sourceType": "自主实验室与平台",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:57:40.684Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "诚邀全球有志于从事人工智能、大模型、具身智能、安全可信AI、Al for Science、基础平台、创新链、管理支撑等领域的青年人才加入，共创AGI美好未来。 自2022年起，上海AI实验室与北京大学、清华大学、复旦大学、上海交通大学、同济大学、中国科学技术大学、浙江大学等十余所顶尖高校共同开展联合培养博士生专项工作。 Copyright © 2026 Shanghai Artificial Intelligence Laboratory",
+  "contentHash": "fe773a71adbfd31b4697d196ef9bb7d07029f5f15ceca7d3b72a7c211e018ec7",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "aeb69c2c14609a92947b9ec5fbcee64c"
+  "legacyId": "aeb69c2c14609a92947b9ec5fbcee64c",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:45:02.795Z",
+  "fetchedUrl": "https://www.shlab.org.cn/event",
+  "contentError": ""
 }

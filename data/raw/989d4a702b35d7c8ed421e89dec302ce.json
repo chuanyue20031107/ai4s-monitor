@@ -7,10 +7,14 @@
   "sourceType": "自主实验室与平台",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:57:39.149Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "1) 首创了高通量深度突变扫描技术，建立了高通量抗体筛选与表征平台，从不同免疫背景人群中分离并表征了三千多个中和抗体对不同新冠病毒突变株的中和活性以及在受体结合域（RBD）上的结合位点。在2021年11月，奥密克戎受到关注后的14天内，证实了奥密克戎变异株使大部分中和抗体药物失效，且疫苗的中和抗体滴度显著下降[1]。 1) 病毒的持续突变演化使得多种较高增长优势的变异株陆续涌现，研究发现，尽管进化过程各不相同，处于奥密克戎的不同支系，但其RBD上的突变都集中于R346、K356、K444、V445、G446、N450、L452、N460、F486、F490、R493和S494等位点，呈现出“趋同演化”的趋势 [2]。 2) 通过研究不同免疫背景人群体内中和抗体表位分布的变化，证实了免疫印迹导致新毒株激活的有效中和抗体表位多样性降低，使突变逃逸中和抗体的压力集中，并最终促进了趋同演化的进程 [2]。 1) 基于抗体的大规模中和测定和逃逸图谱表征的数据，建立了病毒突变演化方向的预测平台， 证实了BA.4和BA.5可以逃逸BA.1感染或疫苗产生的抗体，BA.2.75和BA.5支系变异株可以不同程度逃逸BA.5突破感染者的体液免疫，前瞻性预测了BA.4/5和BA.2.75的世界大流行，受到国际同行的高度评价[3-5]。 2) 在RBD的“趋同演化”现象初露苗头之际，基于数千个中和抗体逃逸位点的分析，确定了BA.5康复者免疫背景下重要的突变压力位点，分析了BA.5后病毒RBD的突变趋势并在随后真实世界的流行中得到证实[2]。 1) 从接种新冠灭活疫苗的SARS康复者体内，筛选出一对中和抗体SA55和SA58，能够不冲突地结合在RBD上的保守表位。特别是SA55，能够强效中和所有主要突变株和未来短期内可能流行的突变株，同时具有治疗和预防作用，是目前唯一已知能够高效中和所有新突变株的，处于临床阶段的药物抗体。该抗体具有广谱中和能力强、将很难被未来变异株逃逸、半衰期长等特征，既可通过鼻喷给药快速建立短期保护，又可通过肌肉或静脉注射用于中长期预防或感染后治疗，将特别适用于不适合接种疫苗的老年人、免疫缺陷人群等群体的防护。该抗体目前已转让给科兴中维进行药物开发。 [1] 2021年12月23日，以“Omicron escapes the majority of existing SARS-CoV-2 neutralizing antibodies”为题发表于Nature [2] 2022年12月19日，以“Imprinted SARS-CoV-2 humoral immunity induces convergent Omicron RBD evolution”为题发表于Nature [3] 2022年6月17日，以“BA.2.12.1, BA.4 and BA.5 escape antibodies elicited by Omicron infection”为题发表于Nature [4] 2022年10月4日，以“Characterization of the enhanced infectivity and antibody evasion of Omicron BA.2.75”为题发表于Cell Host & Microbe [5] 2022年9月27日，以“Further humoral immunity evasion of emerging SARS-CoV-2 BA.4 and BA.5 subvariants”为题发表于The Lancet Infectious Diseases [6] 2022年12月1日，以“Rational identification of potent and broad sarbecovirus-neutralizing antibody cocktails from SARS convalescents”为题发表于Cell Reports",
+  "contentHash": "d817d90d647812423707002ebc211ecbad6b1f2ba09d8ed40eaee464e364a4ce",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "989d4a702b35d7c8ed421e89dec302ce"
+  "legacyId": "989d4a702b35d7c8ed421e89dec302ce",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:41:42.042Z",
+  "fetchedUrl": "https://www.cpl.ac.cn/scientific_research/research_highlights/4028c1f1853d7feb01853ddc2b200028.html",
+  "contentError": ""
 }

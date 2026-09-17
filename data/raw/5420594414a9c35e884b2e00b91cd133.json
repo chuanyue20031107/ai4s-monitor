@@ -7,10 +7,14 @@
   "sourceType": "国际学术会议/展会",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:35.658Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "NEWS & HIGHLIGHTS News Center President's Message COVID-19 Resources SLAS Marketplace",
+  "contentHash": "685b6170f31950a4db1b934a2be0673343fa9408f778c962c2800207b6fc0cb5",
+  "contentStatus": "insufficient_content",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "5420594414a9c35e884b2e00b91cd133"
+  "legacyId": "5420594414a9c35e884b2e00b91cd133",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:32:45.185Z",
+  "fetchedUrl": "https://www.slas.org/news-highlights/",
+  "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成"
 }

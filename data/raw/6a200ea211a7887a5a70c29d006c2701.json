@@ -5,12 +5,16 @@
   "sourceKey": "s01-08",
   "sourceName": "National Institute of Standards and Technology",
   "sourceType": "国家计量标准机构",
-  "publishedAt": null,
+  "publishedAt": "2015-04-28T19:20:00.000Z",
   "crawledAt": "2026-09-16T05:12:09.634Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "An official website of the United States government Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock ( Lock A locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites. A national user facility that advances economic and technical excellence in the U.S. by providing world-class neutron measurement capabilities to meet the needs of researchers from industry, academia, and government.",
+  "contentHash": "2fa7525bc6636b3c1ccceb14ee985ad303709a98afe2fe95a097117dc760960b",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "6a200ea211a7887a5a70c29d006c2701"
+  "legacyId": "6a200ea211a7887a5a70c29d006c2701",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:35:41.527Z",
+  "fetchedUrl": "https://www.nist.gov/ncnr",
+  "contentError": ""
 }

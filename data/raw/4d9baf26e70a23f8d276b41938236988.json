@@ -7,10 +7,14 @@
   "sourceType": "产业技术会议",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:36.892Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Lab of the Future USA 2026 Closing Keynote",
+  "contentHash": "c480c067f2f67e764fbb01eda2563f3a96a512bcfbb2b91de0a4adb2eeb55032",
+  "contentStatus": "insufficient_content",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "4d9baf26e70a23f8d276b41938236988"
+  "legacyId": "4d9baf26e70a23f8d276b41938236988",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:32:24.128Z",
+  "fetchedUrl": "https://www.lab-of-the-future.com/article-types/lab-of-the-future-congress-sessions-on-demand/",
+  "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成"
 }

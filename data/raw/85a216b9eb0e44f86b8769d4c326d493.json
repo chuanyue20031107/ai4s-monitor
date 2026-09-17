@@ -7,10 +7,14 @@
   "sourceType": "自主实验室与平台",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:57:37.192Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "【主题】：Primate Embryo, Reproduction, Stem Cell, and Model Research Copyright © 2026 深圳湾实验室 版权所有www.szbl.ac.cn All Rights Reserved. 粤ICP备19032884号 粤公网安备44031102000926号",
+  "contentHash": "3eb4edad820a6b2f187e1c7ba04b405fdc3091e03ac50a8ea774d2c33e758873",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "85a216b9eb0e44f86b8769d4c326d493"
+  "legacyId": "85a216b9eb0e44f86b8769d4c326d493",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:38:32.293Z",
+  "fetchedUrl": "https://www.szbl.ac.cn/info/1017/10564.htm",
+  "contentError": ""
 }

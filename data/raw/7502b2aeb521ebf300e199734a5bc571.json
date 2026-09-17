@@ -7,10 +7,14 @@
   "sourceType": "基因组标准组织",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:35.568Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Previous Next Our products Family History Toolkit Provides tools and best practices for documenting family health history information Your family health history includes the health conditions experienced by your family members over the course of their lifetimes. This information helps genetic counselors and other clinicians identify a patient’s disease risk — and sometimes prevent disease from developing at all. But gathering family health history is time-consuming. Electronic tools can help patients put together their family health history before visiting the clinic, saving time. Compiled by the GA4GH Clinical & Phenotypic Data Capture Work Stream, the Family History Toolkit offers an inventory of tools that capture family health history and a statement of best practices that covers approaches and challenges to using this information in clinical care systems. Jump to... Publications Documents Contributors Meetings Benefits Provides an inventory of consumer products used to capture family health history Outlines key considerations when designing family history collection and analysis tools Target users Researchers, clinicians, research participants & patient communities, and public USE THIS TOOLKIT STAY INFORMED THEME Genomic/phenotypic/clinical data representation CATEGORY Policy guidance TYPE Policy tool Lifecycle Status Current Community Engagement Dormant Work Streams Clinical & Phenotypic Data Capture (Clin/Pheno) Work Stream Regulatory & Ethics Work Stream (REWS) Product Lead Grant Wood Staff Contact Jessica Seegobin Publications Review and comparison of electronic patient-facing family health history tools (2018) Community resources Dive deeper into this product! The goal of family history collection within medical practice is to improve patient care. Family history plays a central role in assessing patterns of disease inheritance and estimating a patient’s risk of developing specific conditions. The Family History Tools aids practitioners in finding and structuring more usable family health history data. This resource includes an inventory of electronic products that patients use today to capture their family health history, including products that integrate with electronic health records (EHRs). A document about best practices outlines current approaches to data collection and their challenges. This document also provides key considerations for designing family history collection and analysis tools. Documents Date Title 14 Sep 2023 Code of Ethics and Community Conduct (CECC) 28 Apr 2023 Family history tools inventory (v2.0) 7 Feb 2016 Enabling family history use in clinical practice: a review of current practice and policy considerations 7 Feb 2016 Family history tools inventory (v1.0) Contributors Don't see your name? Get in touch: Contact Us Ed Conley The Farr Institute Megan Doerr Sage Bionetworks, Seattle Jeff Greenberg Kaiser Permanente, Brentwood John Mattison Kaiser Permanente, Brentwood Ingrid Winship The Royal Melbourne Hospital, Melbourne Grant Wood MyGenomeTrust Meetings loading... Powered by Pretty Google Calendar",
+  "contentHash": "faebfd2bd98a28a57cb8cb4b8078d7447b11695bc5300d042aab49e46e010f70",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "7502b2aeb521ebf300e199734a5bc571"
+  "legacyId": "7502b2aeb521ebf300e199734a5bc571",
+  "contentTruncated": true,
+  "lastFetchAt": "2026-09-17T08:35:51.505Z",
+  "fetchedUrl": "https://www.ga4gh.org/product/family-history-toolkit/",
+  "contentError": ""
 }

@@ -11,8 +11,9 @@
   "contentStatus": "insufficient_content",
   "extractionMethod": "meta-description",
   "discardReason": "",
-  "lastFetchAt": "2026-09-16T11:46:20.194Z",
+  "lastFetchAt": "2026-09-17T08:29:52.864Z",
   "contentTruncated": false,
   "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成",
-  "contentHash": "73a837534d4b5a8002e77437d6baa8347cc43f09d08bd521c13d502619927b29"
+  "contentHash": "73a837534d4b5a8002e77437d6baa8347cc43f09d08bd521c13d502619927b29",
+  "fetchedUrl": "https://www.ebi.ac.uk/training/"
 }

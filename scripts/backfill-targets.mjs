@@ -2,7 +2,8 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { extractContent, makeFetcher, readJson, sha256, writeJson } from './pipeline.mjs';
+import { makeFetcher, readJson, sha256, writeJson } from './pipeline.mjs';
+import { extractTargetContent } from './target-content.mjs';
 import { fetchWithRetry } from './source-retry.mjs';
 
 export async function backfillTargets({ root = process.cwd(), manifest, checkpointPath, fetchPage,
@@ -31,7 +32,7 @@ export async function backfillTargets({ root = process.cwd(), manifest, checkpoi
       const page = await fetchWithRetry(get, old.url, { wait, deadline, onRetry: event => {
         state.items[id].retries.push(event); writeJson(checkpointPath, state);
       } });
-      const extracted = extractContent(page.html);
+      const extracted = extractTargetContent(page.html, page.finalUrl);
       const contentStatus = extracted.content.length >= 120 ? 'ready' : 'insufficient_content';
       // Avoid overwriting a concurrent update even within a local checkout.
       if (readJson(file).contentHash !== old.contentHash) throw new Error('concurrent_raw_change');

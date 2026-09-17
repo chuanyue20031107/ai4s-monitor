@@ -7,10 +7,14 @@
   "sourceType": "科技大厂研究机构",
   "publishedAt": null,
   "crawledAt": "2026-09-16T05:12:08.213Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "NVIDIA Research is bringing groundbreaking research to life through projects, papers, and event participation across 26 disciplines. Explore our labs.",
+  "contentHash": "ba9c45bc1c4f82d85e3c68f4e491a91bae4c9d392738b0842d0b516e00a3c426",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "7e7d18cb4673a50d8a751f11cd6f2086"
+  "legacyId": "7e7d18cb4673a50d8a751f11cd6f2086",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:38:23.269Z",
+  "fetchedUrl": "https://research.nvidia.com/research-labs",
+  "contentError": ""
 }

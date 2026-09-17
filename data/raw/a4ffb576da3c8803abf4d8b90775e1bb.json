@@ -7,10 +7,14 @@
   "sourceType": "国际研究机构",
   "publishedAt": null,
   "crawledAt": "2026-09-16T05:12:13.867Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Julio Saez-Rodriguez Head of Research",
+  "contentHash": "1fa82c9ab9ae415b233f94f32a70598886280649af0264d393fb928d12b9dc7c",
+  "contentStatus": "insufficient_content",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "a4ffb576da3c8803abf4d8b90775e1bb"
+  "legacyId": "a4ffb576da3c8803abf4d8b90775e1bb",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:42:45.325Z",
+  "fetchedUrl": "https://www.ebi.ac.uk/research/groups/",
+  "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成"
 }

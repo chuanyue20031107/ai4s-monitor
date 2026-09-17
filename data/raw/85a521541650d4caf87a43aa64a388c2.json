@@ -7,10 +7,14 @@
   "sourceType": "专题学术会议",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:33.584Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "2026年9月3-5日，“2026年中国药学大会”在山东省济南市举办。国家药品监督管理局党组成员、副局长王维东，山东省人民政府副省长王桂英，中国药学会理事长孙咸泽等出席大会开幕式并致辞。大会以“推动科技与产业创新深度融合 助力健康中国建设”为主题，紧扣“十五五”规划开局部署，聚焦医药科技自立自强与新质生产力培育，助力健康中国与医药强国建设，全国医药领域专家学者、科研人员、行业代表及在校学生参会交流。 大会特别邀请陈志南、于金明、吴玉章、庾石山、阿吉艾克拜尔・艾萨、申有青院士等围绕肿瘤诊疗理论革新、高分子药物递送技术、疫苗监管体系国际化、人工智能药学应用等前沿热点展开深度分享，重构医药研发与监管新生态。大会同步召开了21个专业分会场，以及中国药学会战略发展专家委员会等会议，发布了《药械组合制剂学科发展报告》，颁发了第二十一届中国药学会科学技术奖。 此次大会搭建了产学研用深度融合的高水平交流平台，精准解读医药行业最新政策，有效推动人工智能与药学领域深度融合，为我国医药产业创新升级与高质量发展注入强劲动力。",
+  "contentHash": "d3b5ce7f65378599a8bfe204a027205ad1ca3c9e8e87bf0e9142bfc5c4852aa9",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "85a521541650d4caf87a43aa64a388c2"
+  "legacyId": "85a521541650d4caf87a43aa64a388c2",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:38:33.437Z",
+  "fetchedUrl": "https://www.cpa.org.cn/?do=info&cid=79025",
+  "contentError": ""
 }

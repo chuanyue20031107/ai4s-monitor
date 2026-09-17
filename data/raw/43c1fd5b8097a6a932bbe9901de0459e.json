@@ -5,12 +5,16 @@
   "sourceKey": "s01-06",
   "sourceName": "Broad Institute",
   "sourceType": "非营利研究机构",
-  "publishedAt": null,
+  "publishedAt": "2026-07-21T12:00:33.000Z",
   "crawledAt": "2026-09-16T05:12:08.435Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Broad Institute, Boston Children’s Hospital, and The Jackson Laboratory launch the Center for Therapeutic Genetics, a non-profit effort to develop genetic medicines for rare and ultra-rare diseases The new collaboration aims to develop precision medicines, including base and prime editing, to treat patients with rare diseases, using infrastructure and repeatable practices the center will share with others. By Corie Lok July 21, 2026",
+  "contentHash": "3dced6744dd71fd6d73b36e14b601f645388c611fd69261eb0ab5bcbcd694142",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "43c1fd5b8097a6a932bbe9901de0459e"
+  "legacyId": "43c1fd5b8097a6a932bbe9901de0459e",
+  "contentTruncated": true,
+  "lastFetchAt": "2026-09-17T08:31:56.968Z",
+  "fetchedUrl": "https://www.broadinstitute.org/news/broad-institute-boston-childrens-hospital-and-jackson-laboratory-launch-center-therapeutic",
+  "contentError": ""
 }

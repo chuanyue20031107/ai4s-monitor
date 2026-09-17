@@ -7,10 +7,14 @@
   "sourceType": "AI药物/自动化实验公司",
   "publishedAt": null,
   "crawledAt": "2026-09-16T05:12:19.802Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Recursion to Participate in Upcoming Investor Conferences June 2, 2026 at 8:00 AM EDT PDF Version Salt Lake City, UT , June 02, 2026 (GLOBE NEWSWIRE) -- Recursion (Nasdaq: RXRX), a leading clinical-stage TechBio company decoding biology to radically improve lives, today announced its participation in an upcoming investor conference: Goldman Sachs 47th Annual Global Healthcare Conference — Tuesday, June 9, 2026 Webcasts may be found in the events section of the Recursion Investor Relations website at ir.recursion.com . About Recursion Recursion (NASDAQ: RXRX) is a clinical-stage TechBio company decoding biology to radically improve lives. Recursion is advancing a portfolio of differentiated investigational medicines across its wholly owned and partnered pipeline in oncology, rare disease, neuroscience, immunology, and other therapeutic areas with significant unmet need. Enabling its mission is the Recursion OS, an AI-native, end-to-end drug discovery and development platform integrating biology, chemistry, and clinical development into a unified intelligence system. Powered by proprietary multimodal data, purpose-built AI models, and bilingual teams fluent in both science and AI, the Recursion OS is designed to translate complex science into medicines that matter — faster, better, and at scale — for patients who are waiting. Recursion’s platform infrastructure is anchored in Salt Lake City, Utah and Milton Park , Oxfordshire , where its automated biology and chemistry laboratories generate proprietary data at industrial scale. Recursion also maintains offices in New York , Montréal , and London , three global hubs for talent and leadership at the intersection of AI and scientific innovation. Learn more at www.recursion.com , or connect on X and LinkedIn . Media Contact media@recursion.com Investor Contact investor@recursion.com Ryan Kelly Recursion Pharmaceuticals media@recursion.com Recursion Pharmaceuticals",
+  "contentHash": "8a4fc83b95bef38c63a9370ea407bd2fe5470c462626040ca29d704d60323b95",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "a895084daaad9b425cee67b5a5fe13be"
+  "legacyId": "a895084daaad9b425cee67b5a5fe13be",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:44:51.360Z",
+  "fetchedUrl": "https://ir.recursion.com/news-releases/news-release-details/recursion-participate-upcoming-investor-conferences-19",
+  "contentError": ""
 }

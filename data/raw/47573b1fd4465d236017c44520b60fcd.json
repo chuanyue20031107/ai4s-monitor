@@ -7,10 +7,14 @@
   "sourceType": "实验室技术展会",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:33.582Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "为聚焦高校及科研实验室新建与改建的发展关键需求，分享国内外前沿技术实践与创新经验，破解建设过程中的痛点与难点，推动实验室建设质量与运维效率双提升，实验室建安中心与慕尼黑上海分析生化展合作，兹定于 2026 年 11 月 16 日在展会现场举办 “ 高校科研实验室建设与安全管理创新高峰论坛 ”。 1.高等学校实验室管理部门、基建部门等负责人、管理骨干；二级单位实验室工作的分管领导、管理人员； 3.科研院所及检验检测机构（食品、药品、石油化工、农林牧渔、海洋、医疗器械、生态环境、新材料等行业）分管实验室建设与安全工作领导、实验室主任、安环部（质保部）负责人、实验室安全员和实验人员等； 主持嘉宾：吴祝武 中国矿业大学 实验室与设备管理处，处长 中国高等教育学会实验室管理工作分会技术安全部，副部长 实验室建安圈向日葵俱乐部成立大会 Inaugural Meeting of Sunflower Club of Laboratory Construction and Safety 吴祝武，中国矿业大学实验室与设备管理处，处长 中国高等教育学会实验室管理工作分会技术安全部，副部长 冯建跃，浙江大学实验室与设备管理处，原处长、教授 中国仪器仪表行业协会实验室建设与安全分会，理事长",
+  "contentHash": "097db9b6ad28bb220efeed361a9b49c122d7578c78d5f9ebe19b4e06e42eef0f",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "47573b1fd4465d236017c44520b60fcd"
+  "legacyId": "47573b1fd4465d236017c44520b60fcd",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:31:56.814Z",
+  "fetchedUrl": "https://www.analyticachina.com.cn/cn/analytica-china-2026/Supporting-program/gaoxiaoshiyanshi",
+  "contentError": ""
 }

@@ -7,10 +7,14 @@
   "sourceType": "国际学术会议/展会",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:35.658Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "PUBLICATIONS SLAS Discovery SLAS Technology Electronic Laboratory Neighborhood Point-to-Point (P2P) e-newsletter",
+  "contentHash": "1a34e747c24ee7da83cf1c9cc3bbfe22a7a3160481bd794c6eb90f25df96f580",
+  "contentStatus": "insufficient_content",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "9a945edbe6b210b1b1d379bc0603f225"
+  "legacyId": "9a945edbe6b210b1b1d379bc0603f225",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:41:58.641Z",
+  "fetchedUrl": "https://www.slas.org/publications/",
+  "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成"
 }

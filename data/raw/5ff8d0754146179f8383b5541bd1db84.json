@@ -7,10 +7,14 @@
   "sourceType": "科技大厂研究机构",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:36.536Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Cleveland Clinic, RIKEN, IBM named Gordon Bell finalists News Robert Davis 09 Sep 2026 Quantum Community Quantum Network Quantum Research",
+  "contentHash": "2399871f109e88a4848b07e35d0e6b3e0229184c75c84daf8a6076883e15ad92",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "5ff8d0754146179f8383b5541bd1db84"
+  "legacyId": "5ff8d0754146179f8383b5541bd1db84",
+  "contentTruncated": false,
+  "lastFetchAt": "2026-09-17T08:35:22.500Z",
+  "fetchedUrl": "https://research.ibm.com/topics/quantum-information-science",
+  "contentError": ""
 }

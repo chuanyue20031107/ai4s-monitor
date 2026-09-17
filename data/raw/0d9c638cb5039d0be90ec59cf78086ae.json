@@ -7,12 +7,13 @@
   "sourceType": "政府采购平台",
   "publishedAt": null,
   "crawledAt": "2026-09-17T01:28:02.293Z",
-  "content": "当前位置： 首页 &raquo; 政采公告 &raquo; 中央公告 &raquo; 其他公告 主办单位：中华人民共和国财政部国库司 网站标识码： bm14000002 | 京 ICP 备 19054529 号 -1 | 京公网安备 11010602060068 号 &copy; 1999- 中华人民共和国财政部 版权所有 | 联系我们 | 意见反馈",
+  "content": "一、项目基本情况 采购项目编号：CQU-CZ-ZC-HW-2026-021 采购项目名称：重庆大学校医院医疗设备采购 二、项目废标/流标的原因 经评审，资格性审查合格的单位不足 3家 ，故 本次招标失败，宣布 废标 。 三、其他补充事宜 无 四、凡对本次公告内容提出询问，请按以下方式联系。 1.采购人信息 名 称：重庆大学 地址：重庆市沙坪坝区沙正街174号 联系方式：陈老师023-65102678 2.采购代理机构信息 名 称：重庆赛迪工程咨询有限公司 地 址：重庆市渝中区双钢路1号 联系方式：文静023-63545924、谢玙婧023-63548173 3.项目联系方式 项目联系人：陈老师 电 话： 023-65113083",
   "contentStatus": "ready",
-  "extractionMethod": "paragraph-excerpt",
+  "extractionMethod": "source-body-vF_detail_content",
   "discardReason": "",
-  "lastFetchAt": "2026-09-17T01:28:02.293Z",
+  "lastFetchAt": "2026-09-17T08:47:09.885Z",
   "contentTruncated": false,
   "contentError": "",
-  "contentHash": "a20d72082cbc1f21438579e63597e38b35b66997e8f0d62b22968be7006b8ea2"
+  "contentHash": "bc7d6598ecdbfdd048a4f20204cd3e4453e737674c02f313f48522af0e62ca05",
+  "fetchedUrl": "https://www.ccgp.gov.cn/cggg/zygg/qtgg/202609/t20260917_27342120.htm"
 }

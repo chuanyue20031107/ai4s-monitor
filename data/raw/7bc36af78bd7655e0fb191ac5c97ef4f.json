@@ -13,7 +13,8 @@
   "discardReason": "",
   "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "legacyId": "7bc36af78bd7655e0fb191ac5c97ef4f",
-  "lastFetchAt": "2026-09-16T11:46:22.840Z",
+  "lastFetchAt": "2026-09-17T08:36:10.260Z",
   "contentTruncated": true,
-  "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成"
+  "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成",
+  "fetchedUrl": "https://www.orbitalindustries.com/news/blog/code-mode-vs-mcp-taking-the-model-out-of-the-loop"
 }
