@@ -1,0 +1,302 @@
+{
+  "schemaVersion": 1,
+  "generator": "chatgpt-task",
+  "createdAt": "2026-09-17T09:58:21.699Z",
+  "analyses": [
+    {
+      "articleId": "a77df6aa6b7801ce2d1c21757a81dace",
+      "contentHash": "cbbe508522a1e82115d0a7a3e69e0e1bd3b60760708a17cd8171fdb0bf562226",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-17T09:58:21.699Z",
+      "failureReason": "SynBioBeta栏目索引混合多篇文章标题和短导语，不是单篇研究正文，不能将目录当作实验或产品证据。"
+    },
+    {
+      "articleId": "c63317ed56dee28e1956cdaf503068e2",
+      "contentHash": "652ad6bd724877f9b626f54f65552e126fa19ac873949bc7178b976a88f2145f",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-17T09:58:21.699Z",
+      "failureReason": "RECOMB 2027通用会议预告仅介绍计算分子生物学学科与举办安排，没有具体AI研究、数据或实验自动化进展。"
+    },
+    {
+      "articleId": "0627d5ced7e81e3d29237f9326edfda3",
+      "contentHash": "a8a32437756f63a16741b75d32df616867752b19dfb8fee316f35adb07f30e96",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-17T09:58:21.699Z",
+      "failureReason": "RECOMB历史介绍与学科范围说明，没有本次可分析的AI4S研究进展。"
+    },
+    {
+      "articleId": "df4d46ad6ae66d2635f9cf82a40c3784",
+      "contentHash": "63515aca30c21307f01625731163c6687567d343926a9830be04d30722436225",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-17T09:58:21.699Z",
+      "failureReason": "",
+      "category": "其他",
+      "summary": "AAAI官方获奖名单呈现了AI与科学研究交叉方向的学术认可：2026年社会影响赛道列出植物性状推断框架PlantTraitNet，2025年最佳海报名单列出分子设计框架BindGPT。这里能够确认的是获奖名单及论文题目，不能据此确认模型精度、分子活性或泛化性能。分析判断：该页面适合作为后续追踪植物表型与分子生成原始论文的入口，技术证据仍需来自对应论文。",
+      "score": 1,
+      "importanceReason": "提供可追踪的AI4S论文与奖项线索，但没有方法细节或定量实验结果。",
+      "contentType": "company_claim",
+      "moatTags": [],
+      "limitations": "官方奖项页面摘录被截断；奖项并不等于对具体科学结论的独立复现，本文不评估论文性能。",
+      "evidence": [
+        {
+          "url": "https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/",
+          "quote": "AAAI-26 Best Paper Award – AI for Social Impact Track"
+        },
+        {
+          "url": "https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/",
+          "quote": "PlantTraitNet: An Uncertainty-Aware Multimodal Framework for Global-Scale Plant Trait Inference from Citizen Science Data"
+        },
+        {
+          "url": "https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/",
+          "quote": "BindGPT: A Scalable Framework for 3D Molecular Design via Language Modeling and Reinforcement Learning"
+        }
+      ]
+    },
+    {
+      "articleId": "58571fdeea889bd896f7a11102bc981c",
+      "contentHash": "3acbbd7814955f4c851b3fa531d2717dff3fecab02651c6ee39e5899416fc480",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-17T09:58:21.699Z",
+      "failureReason": "AAAI经典论文奖提名规则与历年通用AI获奖目录，未提供具体AI4S应用研究证据。"
+    },
+    {
+      "articleId": "e205e958bce5d89586cb1c5e9153be53",
+      "contentHash": "dc144c8aeaf0ca582df81c6890fddd801774c23b827bc8b08322c8add0b17820",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-17T09:58:21.699Z",
+      "failureReason": "AAAI组织使命、价值观和活动介绍，不是AI4S研究、产品或产业进展。"
+    },
+    {
+      "articleId": "6fa6feee64881c496812ba88143cf342",
+      "contentHash": "dddde4042f17535eb6d782f58fee10946d2448d63df7e901bfc3ef0aea89c2fc",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-17T09:58:21.699Z",
+      "failureReason": "AEIC会议快讯目录仅罗列会议标题，没有具体科学发现或AI方法的正文。"
+    },
+    {
+      "articleId": "893f3208d5cbcbfdba4d2fccd58a9485",
+      "contentHash": "b656fac96f8bd6eca236af96f22623bc1fc674f8bd87eed5139a9ce90e197750",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-17T09:58:21.699Z",
+      "failureReason": "",
+      "category": "其他",
+      "summary": "中国药学会通知拟于2026年11月6日至8日在上海召开药物流行病学学术年会，主题是深度循证与AI赋能。通知提出交流大数据和人工智能在该领域的进展，并讨论AI支持中医药研究的路径。分析判断：这反映专业学会将AI纳入药物研究方法交流议程，但目前仍是会议计划，不能推导为某种AI方法已提高临床用药效果或完成验证。",
+      "score": 1,
+      "importanceReason": "明确AI与药物流行病学研究的交流方向，尚未提供研究成果或评估数据。",
+      "contentType": "company_claim",
+      "moatTags": [],
+      "limitations": "依据会前通知；具体报告、数据集和方法评估尚未列出，会议日期也不代表已发生的研究成果。",
+      "evidence": [
+        {
+          "url": "https://www.cpa.org.cn/?do=info&cid=79034",
+          "quote": "本次会议以“‘深度循证+AI赋能’推动药物流行病学创新发展”为主题"
+        },
+        {
+          "url": "https://www.cpa.org.cn/?do=info&cid=79034",
+          "quote": "交流大数据、人工智能技术在本领域的前沿进展"
+        }
+      ]
+    },
+    {
+      "articleId": "dcf7128353fe8b6953e1fe4ab917a655",
+      "contentHash": "28519123e0b343874eb36396c4089604d2344f6049634f2604ac7badce3bc62f",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-17T09:58:21.699Z",
+      "failureReason": "面向公众的药品安全知识竞赛通知，无AI科研方法、实验或产业进展。"
+    },
+    {
+      "articleId": "fbf4ad2f47cffa8c9409e9154fee8e95",
+      "contentHash": "c9b18906a05ee057abc7aab3dbf85121a0980fab4c076cca4cc8b97b0316a395",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-17T09:58:21.699Z",
+      "failureReason": "圆柱电芯与便携储能产品配套合作，正文未涉及AI辅助材料研发或实验自动化；智慧能源措辞不能替代相关性证据。"
+    },
+    {
+      "articleId": "4dc74a149eaf0db1534d8bbea5b07d73",
+      "contentHash": "5d55bf393e5562684c76f538c64b9f26efdcae4b782f29ed49687234b9579ade",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-17T09:58:21.699Z",
+      "failureReason": "品牌奖项与马来西亚本地化经营宣传，无AI4S技术或研究证据。"
+    },
+    {
+      "articleId": "b42c0ba07b0667b444dd8cac63af1aa9",
+      "contentHash": "e91307e0c3b15d1944c558455117e7825c672310f9738404e72f96a0431ac5dc",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-17T09:58:21.699Z",
+      "failureReason": "新能源车辆和仓储物流合作，AI BATTERY作为品牌出现，未解释AI如何支持科学研发，智驾应用也不属于本文的AI4S成果。"
+    },
+    {
+      "articleId": "bcfb8e77e598f8b03e66caf5947e8a6d",
+      "contentHash": "501d679eb7004fa782ecb3bf1b723576757663c0a15f5a3cbb354875fdd94e26",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-17T09:58:21.699Z",
+      "failureReason": "沙特储能订单和温控、智能电池管理产品说明，没有AI科研或材料发现方法证据。"
+    },
+    {
+      "articleId": "4e7192df90cf2486ea682f1b304c1367",
+      "contentHash": "4f71ca31271cf4de8edf846398464f14bf2ac0564c9154797e22f4be825dc0e1",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-17T09:58:21.699Z",
+      "failureReason": "锂电公众科普展览和互动活动报道，无AI4S研究进展。"
+    },
+    {
+      "articleId": "f8980c5168669830e010134abd7b0390",
+      "contentHash": "1e800efbc17c3bbd3492890bb1470f98ab34f4bb875e90252865387ec3837670",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-17T09:58:21.699Z",
+      "failureReason": "电池配套汽车销量及常规工程测试宣传，未涉及AI研究或自主实验。"
+    },
+    {
+      "articleId": "96f10773e5bf48e53dfa300f5a86b6ba",
+      "contentHash": "2f88994b06f6938246e1e539bb1de6e626ef52362030e143157c1d4dd85b1abc",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-17T09:58:21.699Z",
+      "failureReason": "气质联用仪真空、四极杆和离子源结构介绍，未提供AI分析或实验自动化工作流证据。"
+    },
+    {
+      "articleId": "b1b1db1ba3122e9f932bf2ff27bda2ef",
+      "contentHash": "2d21237582777d0d707e65c0e8af01641a1d9d0d7178011540c9daaf5ad59be5",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-17T09:58:21.699Z",
+      "failureReason": "",
+      "category": "自动化实验室",
+      "summary": "汉邦科技产品页介绍了覆盖实验室分离纯化与合成的设备组合。企业称Bio-Lab以模块化设计支持微克到克级生物分子纯化，Bio-TFF可自动控制跨膜压并执行浓缩、洗滤、收集和数据记录；另列出不同规模的寡核苷酸合成设备。分析判断：这些可编程单元可构成实验室流程自动化的基础，价值在于减少重复操作并保留过程记录，但页面没有证明其与AI规划器集成或形成自主闭环。",
+      "score": 2,
+      "importanceReason": "公开了具体自动控制步骤与适用实验规模，有助于评估实验自动化基础设施。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "实验自动化"
+      ],
+      "limitations": "企业产品描述，缺少独立对照、通量、回收率及软件接口资料；自动执行不等于AI自主决策。",
+      "evidence": [
+        {
+          "url": "https://www.hanbon.com.cn/products/laboratory-chromatographic-instrument/",
+          "quote": "自动控制TMP，实现自动浓缩、等体积洗滤、自动收集、自动数据记录等功能。"
+        },
+        {
+          "url": "https://www.hanbon.com.cn/products/laboratory-chromatographic-instrument/",
+          "quote": "可用于微克到克级水平的蛋白、多肽和核酸等生物分子的快速纯化。"
+        }
+      ]
+    },
+    {
+      "articleId": "ce4ac1c477b0fc5bde6d0f384b43a195",
+      "contentHash": "2ecfb47de75dee45450e946118e659a9d97a45cffbad554dbd30510cdce1a8f4",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-17T09:58:21.699Z",
+      "failureReason": "语音合成、克隆和跨语言表现产品发布，应用与证据均未涉及科学研究或实验室。"
+    },
+    {
+      "articleId": "bf3f86e380518ac941e24acfb76af044",
+      "contentHash": "172b84911cf00a913778072ab8f135271213f5ed07b8a8f3b7e102cb0d42ad2c",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-17T09:58:21.699Z",
+      "failureReason": "通用音视频生成模型面向广告、电商、游戏等创作场景，正文未提供用于科学发现的证据。"
+    },
+    {
+      "articleId": "7f5c363da585ca1211dc81eabf258207",
+      "contentHash": "45b9c48ef5a7f05741b4a81ba73afe413e473f692e0765c5f65835f31923c473",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-17T09:58:21.699Z",
+      "failureReason": "",
+      "category": "自动化实验室",
+      "summary": "睿科集团报道其参加2026自主实验室大会，并参与AI与科学仪器的圆桌讨论。企业称讨论涉及自主实验室需求、国产仪器融合落地瓶颈以及规模化推广；报道也提及中关村仪创智能实验室创新发展联盟揭牌。分析判断：这是一条仪器厂商参与自主实验室生态的活动线索，说明行业正在讨论接口、建设和推广问题，但不能把参会或联盟成立解读为某套AI实验系统已交付或验证。",
+      "score": 1,
+      "importanceReason": "体现科学仪器与AI实验室的产业交流，尚无可评估的技术实现或实验结果。",
+      "contentType": "company_claim",
+      "moatTags": [],
+      "limitations": "依据企业参会报道，缺少系统架构、标准文件和落地实验数据。",
+      "evidence": [
+        {
+          "url": "https://www.raykol.com/shows/27/524.html",
+          "quote": "睿科集团副总经理董亮先生应邀出席“AI+科学仪器”论坛圆桌对话"
+        },
+        {
+          "url": "https://www.raykol.com/shows/27/524.html",
+          "quote": "AI+国产科学仪器融合落地的挑战与瓶颈"
+        }
+      ]
+    },
+    {
+      "articleId": "08ee657391a4e38f958a4cbb0c34899d",
+      "contentHash": "b5da3ad970fc97ff60921fff5525120604c149c0a03538fd69cf0b13cdfab77f",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-17T09:58:21.699Z",
+      "failureReason": "",
+      "category": "产业与商业",
+      "summary": "Entalpic的白皮书公开介绍页称，公司正在构建全栈AI材料发现平台，把预测模型、生成设计、模拟和实验连接为持续循环。分析判断：这一定位指向材料研发闭环，但当前可读内容只是平台愿景，白皮书需要填写表单才能获取。公开页面没有披露具体材料、模型评估或实验结果，因此只能将其作为企业研发方向的信息，不能据此认定已实现发现效率提升。",
+      "score": 1,
+      "importanceReason": "公开说明材料发现平台的组成和目标，但证据限于短篇企业自述。",
+      "contentType": "company_claim",
+      "moatTags": [],
+      "limitations": "未获取表单后的白皮书；不从营销定位推导实验效果、平台成熟度或商业落地。",
+      "evidence": [
+        {
+          "url": "https://entalpic.ai/entalpic-white-paper/",
+          "quote": "We are building a full-stack AI platform that combines predictive models, generative design, simulations, and experiments into a continuous loop"
+        }
+      ]
+    },
+    {
+      "articleId": "6508439d8c23208986a265a3b0f105d5",
+      "contentHash": "90ed34bea61e25c3627ca7069d27bc9bea1b086c103d016650f7b639cd38e866",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-17T09:58:21.699Z",
+      "failureReason": "",
+      "category": "数据",
+      "summary": "Entalpic论文介绍页展示了材料AI研究组合：LeMat-Bulk聚合并去重量子化学材料数据库，LeMat-Traj统一原子轨迹数据，LeMat-Synth从文献抽取合成流程，LeMat-GenBench面向晶体生成模型评估。页面还强调吸附能不足以单独识别优质催化剂，需考虑动力学与稳定性。分析判断：这些线索共同指向材料AI的数据整理、基准评估和物理可用性问题；当前只是机构对论文的简介，不能把其性能或“首个”措辞当成已独立验证的结论。",
+      "score": 2,
+      "importanceReason": "给出了可定位的材料数据与评估项目及其具体用途，适合进一步追踪原始论文。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "数据",
+        "材料发现"
+      ],
+      "limitations": "机构论文目录摘录被截断，未核对各论文全文、许可证、数据规模与基准协议。",
+      "evidence": [
+        {
+          "url": "https://entalpic.ai/publications/",
+          "quote": "LeMat-Bulk is a massive, cleaned database that merges multiple quantum chemistry sources"
+        },
+        {
+          "url": "https://entalpic.ai/publications/",
+          "quote": "AI discovery must also consider reaction kinetics and stability to truly identify viable catalysts."
+        }
+      ]
+    },
+    {
+      "articleId": "e1321e739a33bab986a4a98f4c0bfcaf",
+      "contentHash": "f883773a73c25ab3336c23d7c2055ba99c7b22fe145a92a1d34d089f6755219b",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-17T09:58:21.699Z",
+      "failureReason": "ERC资助名单只列研究者和项目名称，缺少AI方法与成果的具体说明，不能从项目题目推导AI4S结论。"
+    },
+    {
+      "articleId": "ef6520bebc94757dc34cf8095716062c",
+      "contentHash": "c0d264185c75859064839e30e9dc800386cef4d0bbee5dbcaa93281eb3511b0b",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-17T09:58:21.699Z",
+      "failureReason": "",
+      "category": "AI4S 应用",
+      "summary": "CONFIDENT-HFpEF论文摘要报告一项覆盖欧美三个中心、1208名射血分数保留型心衰患者的观察性研究，使用病历、化验、超声心动图及心电图构建机器学习预后模型。作者报告全因死亡模型在外部验证队列的C-index为0.72，95%置信区间0.65–0.78，并称优于PREDICT-HFpEF评分。分析判断：外部验证增强了风险分层的证据，可能支持试验招募研究，但观察性预测性能不能证明模型改善治疗或降低死亡率。",
+      "score": 3,
+      "importanceReason": "具有明确样本量、多中心设计、外部验证及不确定性区间，超出概念性AI应用宣传。",
+      "contentType": "paper_result",
+      "moatTags": [
+        "数据",
+        "模型"
+      ],
+      "limitations": "依据公司转载论文摘要；未见各队列样本构成、校准、缺失值处理和亚组表现，未证明前瞻性临床效用。",
+      "evidence": [
+        {
+          "url": "https://www.owkin.com/publications/confident-hfpef-a-machine-learning-based-risk-stratification-for-mortality-and-hospitalization-using-multimodal-real-world-data",
+          "quote": "A total of 1208 patients were included in the study."
+        },
+        {
+          "url": "https://www.owkin.com/publications/confident-hfpef-a-machine-learning-based-risk-stratification-for-mortality-and-hospitalization-using-multimodal-real-world-data",
+          "quote": "a good discrimination of 0.72 [95% CI 0.65-0.78] in the validation cohort"
+        }
+      ]
+    }
+  ]
+}
