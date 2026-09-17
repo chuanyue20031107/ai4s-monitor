@@ -1,0 +1,485 @@
+{
+  "schemaVersion": 1,
+  "generator": "chatgpt-task",
+  "createdAt": "2026-09-17T08:31:21.835Z",
+  "analyses": [
+    {
+      "articleId": "92034ac6a822747d73ef475503fb550c",
+      "contentHash": "20f9db1b3e2654df8bce8c051202f0945a8e3c6b06bb9584bcd81288acfa69ca",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-17T08:31:21.835Z",
+      "failureReason": "正文为液相色谱—四极杆飞行时间质谱仪的通用部件与工作原理介绍，未涉及AI建模、科研数据资源或实验自动化进展，不能把仪器产品简介当成AI4S成果。"
+    },
+    {
+      "articleId": "74f5f45ba60c09b9fe228d2c6f8fedb0",
+      "contentHash": "a88d3382a35f22994399c8bb8269f6c7c2aa4ed77c54c9547a36934a489493f0",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-17T08:31:21.835Z",
+      "failureReason": "正文确实报告三重四极杆质谱在高纯稀土杂质检测中的应用，并区分实测浓度与检出限；但未说明AI方法、自动化实验闭环或可复用科研数据发布，与本次AI4S情报范围缺少直接联系。"
+    },
+    {
+      "articleId": "7a5b708792aea4565d660a4df0852f37",
+      "contentHash": "8492840abb1599741c14396ecebefb960c8498a64539c730921d5701af8effd9",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-17T08:31:21.835Z",
+      "failureReason": "",
+      "category": "自动化实验室",
+      "summary": "聚光科技的生命科学方案页将LC-MS/MS、ICP-MS与样品前处理自动化产品并列，面向诊断实验室的元素、氨基酸及维生素分析。其AI4S关联在于实验样本处理基础设施，页面没有展示AI模型参与或自动化闭环。厂商称方案可提高诊断可靠性和工作效率，但当前正文只有功能性介绍，没有样本量、吞吐量或误差对照，因此只能作为产品能力线索。",
+      "score": 1,
+      "importanceReason": "可确认厂商提供样品前处理自动化产品，但缺少具体系统配置与定量验证，新信息有限。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "实验自动化"
+      ],
+      "limitations": "页面为短篇营销介绍，无独立验证或AI算法证据，不能据此确认诊断性能改善。",
+      "evidence": [
+        {
+          "url": "https://www.fpi-inc.com/case_cont_c_782_7829.html",
+          "quote": "领先的 LC - MSMS、 ICP-MS 仪完整产品系列以及 样品前处理自动化产品"
+        }
+      ]
+    },
+    {
+      "articleId": "af0dbeb499b045fba515c723d39d4421",
+      "contentHash": "de52ec264d7534775a67b1814c09ae412ddd1b401f136c854a3422299df9c3f6",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-17T08:31:21.835Z",
+      "failureReason": "",
+      "category": "模型",
+      "summary": "MiniMax发布M3并介绍稀疏注意力MSA、百万token上下文和原生多模态能力。与科研工作流直接相关的案例包括自主复现大模型微调论文、优化Hopper FP8 GEMM，以及在限定时间内完成小模型后训练。企业称论文复现任务运行约12小时，产生18次提交和23张实验图；算子优化经147次评测提交将峰值利用率由7.6%提高至71.3%。这些是厂商在特定任务下的结果自述，可作为长程科研智能体能力的跟踪线索，尚不能外推为跨学科自主发现能力。",
+      "score": 3,
+      "importanceReason": "提供注意力设计与长程实验任务的具体过程和指标，但对照条件及独立复现尚不充分。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "模型"
+      ],
+      "limitations": "仅使用已保存且截断的厂商正文；未核验代码、运行日志及评测配置，不比较未经独立验证的模型排名。",
+      "evidence": [
+        {
+          "url": "https://www.minimax.cn/blog/minimax-m3",
+          "quote": "最终 M3 自主运行了接近 12 小时，全程自主产出 18 次 commit 与 23 张实验图表"
+        },
+        {
+          "url": "https://www.minimax.cn/blog/minimax-m3",
+          "quote": "将 Hopper FP8 硬件峰值利用率从首版 7.6% 推进至 71.3%"
+        }
+      ]
+    },
+    {
+      "articleId": "3c1dac10b6db71d7e01aa1ba06a87ed0",
+      "contentHash": "5afba4eac11f3480b55e1e6748bd2a60c9421b59ca3d7e3f3a8dc1f85c938159",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-17T08:31:21.835Z",
+      "failureReason": "",
+      "category": "模型",
+      "summary": "MiniMax介绍面向数学证明的M3训练与MaxProof方案：分别增强证明生成、错误定位和证明修复，再通过测试时迭代搜索组合能力。训练采用生成式验证器给出连续奖励，以异常过滤、输出规范化和多验证器悲观聚合抑制奖励投机，并过滤组内奖励差异过小的样本。企业称框架在IMO 2025及USAMO 2026达到超过金牌线的表现。分析上，值得关注的是奖励可靠性与长期自改进的工程取舍；正文没有给出可独立复查的完整逐题评分，不能把竞赛结果等同于开放数学问题已被解决。",
+      "score": 3,
+      "importanceReason": "给出了数学证明系统的训练机制和防奖励投机设计，具备方法信息，但核心效果仍为企业自述。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "模型"
+      ],
+      "limitations": "raw正文截断于数据准备部分，未覆盖完整MaxProof测试设置、计算预算及证明审查材料。",
+      "evidence": [
+        {
+          "url": "https://www.minimax.cn/blog/minimax-maxproof-math-proof-evolution",
+          "quote": "对于来自多个 verifier 的评分，取下界而非上界，以保守原则生成最终奖励"
+        },
+        {
+          "url": "https://www.minimax.cn/blog/minimax-maxproof-math-proof-evolution",
+          "quote": "在 group 内 reward 方差过低时，直接过滤这组样本，不参与更新。"
+        }
+      ]
+    },
+    {
+      "articleId": "d880b342a39782e9da862af199acecfc",
+      "contentHash": "d0e548492e23cb11034dcf98d18b612bf19a31bb0510b75b7e13754f8e409cea",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-17T08:31:21.835Z",
+      "failureReason": "",
+      "category": "AI4S 应用",
+      "summary": "RIKEN AIP公告称，统计遗传团队负责人Gen Tamiya在2026年8月6日的读卖新闻网络报道中介绍了大语言模型用于基因组分析的研究方向。当前保存正文只说明语言AI正在被用于复杂生物数据分析，没有给出模型结构、数据集或准确率。该记录可用于追踪机构在基因组语言模型方向的公开活动，无法支持具体研究效果或技术领先性判断。",
+      "score": 1,
+      "importanceReason": "机构确认了基因组分析与大语言模型的研究联系，但公告信息量少，没有实验结论。",
+      "contentType": "company_claim",
+      "moatTags": [],
+      "limitations": "只读取机构媒体报道提示页，未读取报纸全文；无方法、数据或独立评测依据。",
+      "evidence": [
+        {
+          "url": "https://aip.riken.jp/news/202608yomiurishimbunonline/",
+          "quote": "The article highlights research related to the application of large language models (LLMs) to genome analysis."
+        }
+      ]
+    },
+    {
+      "articleId": "56be7fea8602d69dd9a9d972dfa6acf4",
+      "contentHash": "ef2bf18aef6abc253dbfa95079454a51b84385b5984948de0ebfcf6b2152042a",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-17T08:31:21.835Z",
+      "failureReason": "",
+      "category": "数据",
+      "summary": "Owkin收录的预印本摘要比较Ultima UG100与Illumina NovaSeq在FFPE临床组织上的单核RNA、全转录组、外显子组及全基因组测序表现。研究报告配对样本的数据质量、覆盖、错误谱和变异一致性整体可比，同时指出UG100存在插入偏向的indel特征及多重比对差异；其变异检测更偏向高精度和保守检出，而Illumina/DRAGEN更敏感但噪声较多。对AI4S而言，这些差异影响下游组学数据及标签可比性，不能仅凭总体一致就把两平台数据无条件混用。",
+      "score": 3,
+      "importanceReason": "跨多种测序模态明确给出数据误差与灵敏度取舍，对组学建模数据质量有实际参考价值。",
+      "contentType": "paper_result",
+      "moatTags": [
+        "数据"
+      ],
+      "limitations": "依据机构收录的bioRxiv摘要，未读取全文或样本级数据；样本量、置信区间和成本比较未在摘录中列明。",
+      "evidence": [
+        {
+          "url": "https://www.owkin.com/publications/multi-modal-benchmarking-of-the-ultima-ug100-and-illumina-novaseq-sequencing-platforms-using-clinically-relevant-ffpe-tissues",
+          "quote": "we benchmarked Ultima Genomics UG100 against Illumina Novaseq platforms"
+        },
+        {
+          "url": "https://www.owkin.com/publications/multi-modal-benchmarking-of-the-ultima-ug100-and-illumina-novaseq-sequencing-platforms-using-clinically-relevant-ffpe-tissues",
+          "quote": "despite characteristic insertion-biased indels and modest differences in multi-mapping reads."
+        }
+      ]
+    },
+    {
+      "articleId": "0e711903cf5f96f07730875eff35d096",
+      "contentHash": "23930108a7f6d88f2880d90d9659d5abaf4f16fe3b008771417b98b72853818b",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-17T08:31:21.835Z",
+      "failureReason": "正文报道杉山将志在AI、半导体与量子技术公众活动中的演讲及圆桌，内容为学习理论、发展前景和人才讨论，没有新科研方法、实验结果或具体AI4S项目进展。"
+    },
+    {
+      "articleId": "7c5dbb5eb507515c7c3c904cbf8910c9",
+      "contentHash": "6040ccdd77e4fff0ccfa59a40f43c8e4576ea16d9844ad2d92b0b6c69223d9f2",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-17T08:31:21.835Z",
+      "failureReason": "",
+      "category": "模型",
+      "summary": "CytoSyn技术报告提出面向组织病理H&E图像生成的潜空间扩散基础模型。摘要称训练集来自超过一万张TCGA诊断全切片、覆盖32类癌症，并通过训练规模、采样和切片级过拟合研究形成CytoSyn-v2；与PixCell的比较显示，扩散模型及评价指标对JPEG压缩等预处理细节敏感。团队还报告在炎症性肠病图像上的迁移表现，并公布权重与训练验证数据。其价值在于补充病理图像生成工具和可复现资源；合成图像逼真度不能直接证明临床诊断有效性。",
+      "score": 3,
+      "importanceReason": "明确训练数据范围、开放资源及评测敏感性，为病理生成模型复现提供可操作线索。",
+      "contentType": "paper_result",
+      "moatTags": [
+        "模型",
+        "数据"
+      ],
+      "limitations": "依据arXiv报告的官网摘要，未核查模型权重、数据许可、外部验证集或患者级泄漏控制。",
+      "evidence": [
+        {
+          "url": "https://www.owkin.com/publications/cytosyn-a-foundation-diffusion-model-for-histopathology-tech-report",
+          "quote": "more than 10,000 TCGA diagnostic whole-slide images of 32 different cancer types."
+        },
+        {
+          "url": "https://www.owkin.com/publications/cytosyn-a-foundation-diffusion-model-for-histopathology-tech-report",
+          "quote": "the strong sensitivity of both diffusion models and performance metrics to preprocessing-specific details such as JPEG compression."
+        }
+      ]
+    },
+    {
+      "articleId": "ade9ca9bf28be8c16dc5eb3537f3de41",
+      "contentHash": "8b69b7e968a27f20eb929e615be59906c65a9e341fd52edb41559aaf26c2626e",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-17T08:31:21.835Z",
+      "failureReason": "",
+      "category": "自动化实验室",
+      "summary": "Owkin收录的预印本研究LLM科学智能体能否利用实验反馈进行迭代扰动发现。摘要报告在Cell Painting筛选任务上开展800次独立重复实验，反馈策略相对零样本检索基线平均每特征发现数提高53.4%（p=0.003）；打乱命中标签后增益消失，支持反馈结构而非单纯提示回忆发挥作用。作者还称更强模型降低了基因幻觉率并改善反馈利用。分析上，这为实验反馈闭环提供了有对照的证据，但“重复实验”是否对应新执行的湿实验及其外推范围，仍需全文确认。",
+      "score": 4,
+      "importanceReason": "同时报告重复实验、随机反馈对照、效应量与显著性，对区分真实反馈学习和知识检索具有较强方法价值。",
+      "contentType": "paper_result",
+      "moatTags": [
+        "模型",
+        "数据"
+      ],
+      "limitations": "仅有预印本摘要，未确认筛选数据划分、统计独立性、实验预算与湿实验部署方式；不能据此声称已建成自主实验室。",
+      "evidence": [
+        {
+          "url": "https://www.owkin.com/publications/can-ai-scientist-agents-learn-from-lab-in-the-loop-feedback-evidence-from-iterative-perturbation-discovery",
+          "quote": "Access to feedback yields a +53.4% increase in discoveries per feature on average (p = 0.003)."
+        },
+        {
+          "url": "https://www.owkin.com/publications/can-ai-scientist-agents-learn-from-lab-in-the-loop-feedback-evidence-from-iterative-perturbation-discovery",
+          "quote": "we introduce a random feedback control in which hit/miss labels are permuted."
+        }
+      ]
+    },
+    {
+      "articleId": "fde4ce72ce2195be8bcff0c27bc14361",
+      "contentHash": "487b0d689e0177c9da69a21030f12a5bf6484dd2850b6f2d11a50bb7328b8738",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-17T08:31:21.835Z",
+      "failureReason": "访谈讨论德国土壤、河流和地下水干旱、海绵城市与水资源管理，所读正文未涉及AI方法、科研数据产品或实验自动化，属于一般环境议题。"
+    },
+    {
+      "articleId": "f595609dd2bbf19a298618d252e27a29",
+      "contentHash": "d30d6f5ea74721b2649e635d4b01a5389453023149fc2dc12c94f0cabb54f871",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-17T08:31:21.835Z",
+      "failureReason": "",
+      "category": "AI4S 应用",
+      "summary": "Cradle发布Guided Rounds，将蛋白工程一轮迭代中的数据准备、模型训练、序列生成、评价及送样选择整合为引导式流程。用户根据蛋白类型、是否已有实验数据和设计目标设定任务，平台提供可调整的默认配置，并记录数据集、模型与候选之间的决策关系。其价值主要是提高团队流程一致性和可追溯性，方便交接与复现；厂商关于更快上手和更可预测结果的说法没有在正文中配套量化对照。",
+      "score": 2,
+      "importanceReason": "新增工作流编排和候选来源追溯功能与蛋白工程实践直接相关，但不是新分子性能的实验验证。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "模型",
+        "数据"
+      ],
+      "limitations": "依据产品发布说明；没有用户研究、实验吞吐量或分子质量提升数据，也未验证软件实际行为。",
+      "evidence": [
+        {
+          "url": "https://www.cradle.bio/blog/guided-rounds",
+          "quote": "You can see which trained model produced which candidates, rather than reconstructing it from memory."
+        }
+      ]
+    },
+    {
+      "articleId": "3c3a221f97df3ddddcdf0d0f5c96fb4d",
+      "contentHash": "d78a74d05d6067b3087d121a04d14993f14c608339153f64e8788e88576cf544",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-17T08:31:21.835Z",
+      "failureReason": "",
+      "category": "自动化实验室",
+      "summary": "Cradle提出五级生物药研发机器学习成熟度框架，从人类主导的理性蛋白工程，经候选属性预测和新序列生成，逐步走向接收湿实验反馈的主动学习，再到跨项目决策与资源分配。文章明确将全自动设计、触发实验和持续学习作为最高阶段愿景。该框架可帮助拆分AI4S实施所需的数据回流、实验接口和治理能力，但它是企业提出的评估观点，不能当成行业统一标准，也不能据此认为企业已实现最高阶段。",
+      "score": 2,
+      "importanceReason": "系统区分预测、生成、实验闭环和自主决策，适合作为组织能力梳理工具，但没有新增实验结果。",
+      "contentType": "company_claim",
+      "moatTags": [],
+      "limitations": "属于厂商概念框架；正文截断，未提供成熟度量表的外部验证或各阶段实际覆盖率。",
+      "evidence": [
+        {
+          "url": "https://www.cradle.bio/blog/maturity",
+          "quote": "We propose a 5-level maturity ladder"
+        },
+        {
+          "url": "https://www.cradle.bio/blog/maturity",
+          "quote": "Scientists still decide what experiments to run, which programs to continue, and what additional assays to develop."
+        }
+      ]
+    },
+    {
+      "articleId": "2dced4e3b3b755cfda00ab4cf364fea6",
+      "contentHash": "8130d031d364326386ab0249ad6d599a08ee217b2d7822c5d7bfb24db8be525a",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-17T08:31:21.835Z",
+      "failureReason": "",
+      "category": "AI4S 应用",
+      "summary": "Cradle披露与一家未具名大型药企合作的IgG优化案例：此前筛选与内部优化未找到兼顾效力及可开发性的候选，随后将失败项目数据用于CRADLE-1训练，开展三轮、每轮96个候选的实验优化。企业称最终10个候选同时满足效力窗口和可开发性要求，且移除了两个既有序列风险。指标涉及聚集、多反应性、细胞结合、免疫原性及表达。案例体现历史负结果用于多目标约束优化的价值，但推进至下一研发阶段并不等于临床成功。",
+      "score": 3,
+      "importanceReason": "报告了迭代轮次、候选规模、实验指标和筛选结果，对抗体多目标优化有具体参考价值。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "模型",
+        "数据",
+        "药物设计"
+      ],
+      "limitations": "合作方、抗体序列及原始实验数据未公开；免疫原性检测方式含预测或离体试验的不确定表述，无同期随机对照。",
+      "evidence": [
+        {
+          "url": "https://www.cradle.bio/blog/igg-campaign",
+          "quote": "Scientists performed three rounds of Cradle optimization with 96 candidates each"
+        },
+        {
+          "url": "https://www.cradle.bio/blog/igg-campaign",
+          "quote": "Cradle delivered 10 candidates that met both potency and developability criteria."
+        }
+      ]
+    },
+    {
+      "articleId": "81a87e0b835e5d714821bd642975d180",
+      "contentHash": "4a76d9d5796274c1cdfe7fb1c0652d34f51db1284ce2ce5b58b4c0143574e391",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-17T08:31:21.835Z",
+      "failureReason": "该文为德国和欧洲自主开放前沿模型的战略观点，讨论技术主权、风险与开放训练管线，未公布具体AI4S系统或实验结果；不对政策立场套用科学技术重要性评分。"
+    },
+    {
+      "articleId": "d754917712805bcedf440e156244b2f6",
+      "contentHash": "4039b4e7f420e7d4e4135a3b54d1015759751cf8134a442a789aaead11090802",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-17T08:31:21.835Z",
+      "failureReason": "正文为集成光子芯片3D打印、互连和晶圆测试的产业访谈，AI仅作为数据中心需求背景，未涉及AI用于科学发现、实验闭环或科研数据分析的具体进展。"
+    },
+    {
+      "articleId": "8ebad57994eba3c4e841620eb5055cad",
+      "contentHash": "4cdbc4d3db93bc6177b585c5b12cd968c35f73651b350e8137f8dd5ded233a79",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-17T08:31:21.835Z",
+      "failureReason": "报道比较食管癌治疗后正常组织的突变克隆与耐药选择，属于基因组医学研究；所读正文未提供AI方法、数据资源发布或实验自动化，不能仅因出现DNA测序就认定为AI4S成果。"
+    },
+    {
+      "articleId": "a3c03c84a80335ce53a793dea4b991ea",
+      "contentHash": "ebfee7bd83d1c9d9f7b5eca615c25abe21594e407681eb507eefc695973d0786",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-17T08:31:21.835Z",
+      "failureReason": "正文分析南非约59000例肺炎球菌侵袭性疾病与污染、血清型及天气的关联，未说明AI模型或开放科研数据产品；属于流行病学研究新闻，缺少直接AI4S关联。"
+    },
+    {
+      "articleId": "41969aa4e7e63063e8a8a0e74f0381a4",
+      "contentHash": "f5e45e926969297ee8f7feb9bfcc286e16d0ec33e23cd34555a30f72885dfe7b",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-17T08:31:21.835Z",
+      "failureReason": "raw正文仅含实验室历史年代导航、媒体标识和返回历史页链接，没有1990年代科研正文或AI4S证据，不能作为研究结果分析。"
+    },
+    {
+      "articleId": "d3afb7df385dd07092c121c6fa5bb412",
+      "contentHash": "8d3fd48d1a04794349142fd1bed0170fa884bd4781a9317133b877c7ec35c0d9",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-17T08:31:21.835Z",
+      "failureReason": "raw正文只有实验室历史年代菜单、媒体标识与返回链接，没有1980年代文章内容；属于导航性质记录，不构成AI4S情报。"
+    },
+    {
+      "articleId": "48dd01c5d09344317d3ab1e84f4957dd",
+      "contentHash": "8ded00420a11c4a572b4a86dd34946427dce92e3bb819b7e3d27b0f8cc160583",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-17T08:31:21.835Z",
+      "failureReason": "原始记录只有1970年代历史栏目导航和媒体标识，没有研究正文，不能以实验室名义或年代标题生成科研分析。"
+    },
+    {
+      "articleId": "c3ac01b910f6c1a512af3320ae5c8ec8",
+      "contentHash": "884daad2fc06d6ae3da06e9be9cfe51d5c1125d603c630dc84fbfcfdb509e55d",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-17T08:31:21.835Z",
+      "failureReason": "页面面向独立软件供应商介绍云基础设施、SaaS推广与销售伙伴计划，没有科学研究、实验或领域数据的具体案例，属于通用商业营销。"
+    },
+    {
+      "articleId": "b667d111a2ac82ca69f381630a59ca71",
+      "contentHash": "b330d719558599a54a4629491611f8ed7422d7b6ede9f421708caa48d3d98990",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-17T08:31:21.835Z",
+      "failureReason": "该页汇总AWS客户故事与跳转按钮，主要涉及体育、汽车、软件和商业数据；拜耳只有一句未展开的宣传，缺少可分析的科研方案正文。"
+    },
+    {
+      "articleId": "aabb781f862b483022f4fd7840baf855",
+      "contentHash": "5723303e0c24b98b2346b2877c886a96dd0618c29875d54c9fa5460972b4fa74",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-17T08:31:21.835Z",
+      "failureReason": "德文正文为analytica展会记者证申请、媒体资格、停车与新闻中心服务说明，属于会务行政信息，与AI4S研究进展无关。"
+    },
+    {
+      "articleId": "0533d513a8e8e360bd3a055c9689535f",
+      "contentHash": "8f189bc8ac042fbf345f111ae0e6b17ba8269660f4dccefd09ca04f8545ba34a",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-17T08:31:21.835Z",
+      "failureReason": "",
+      "category": "数据",
+      "summary": "Allotrope新闻汇编列举科学数据互操作方面的多项进展：岛津LabSolutions支持ASM与ADF输出，材料语义框架PMDco 3.0引用既有科学本体，实验室工作流知识图谱研究尝试描述自动化显示成功但科学有效性失效的隐性故障。其共同价值在于将仪器结果及实验语境转为可关联、可机器处理的数据。页面对格式转换通过率等数字仅作二次转述，未给评测样本，不能据此判断所有仪器转换均可靠。",
+      "score": 2,
+      "importanceReason": "提供多个可追溯的实验数据标准化动向，但属于新闻汇总，证据深度不足以确认各方案实际效果。",
+      "contentType": "media_report",
+      "moatTags": [
+        "数据"
+      ],
+      "limitations": "仅分析汇编保存的摘录，未逐一核验原论文与产品文档；页面还含2016及2926等可疑日期，不能按单日新闻使用。",
+      "evidence": [
+        {
+          "url": "https://allotropefoundation.org/allotrope-in-the-news/",
+          "quote": "including the Allotrope Simple Model (ASM) and the Allotrope Data Format (ADF)."
+        },
+        {
+          "url": "https://allotropefoundation.org/allotrope-in-the-news/",
+          "quote": "MASKED_BY, models silent failures where automation reports success while scientific validity is compromised."
+        }
+      ]
+    },
+    {
+      "articleId": "4a9c3746235e97409fca580e5d1fda6e",
+      "contentHash": "fe5bd41c961a08c7247f22482243e87016e041dc218e2155b485c2f891a8a901",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-17T08:31:21.835Z",
+      "failureReason": "",
+      "category": "数据",
+      "summary": "Allotrope秋季工作坊征稿将分析结果的上下文作为核心议题，强调关联样品、方法、规格及实验条件，并介绍ASM作为科学结果与语境的标准化表示层。其AI4S意义在于让实验数据可复用、可互操作并支持机器处理，而非单独存储测量值。该文只说明征稿主题及希望讨论的方法储存、转移和自动审核场景，尚未提供新的标准版本、转换工具或性能验证。",
+      "score": 1,
+      "importanceReason": "议题直接涉及科研数据可机器处理性，但当前是征稿公告，实证新信息有限。",
+      "contentType": "company_claim",
+      "moatTags": [],
+      "limitations": "为主办方会前征稿信息，不代表讨论方案已实施；日期与参会信息仅反映采集时公告。",
+      "evidence": [
+        {
+          "url": "https://allotropefoundation.org/call-for-abstracts-2026-fall-allotrope-connect-workshop/",
+          "quote": "primary focus on connecting results with samples, methods, and specifications."
+        }
+      ]
+    },
+    {
+      "articleId": "6f7bdbf259ddf80222fd0f8c9d25a491",
+      "contentHash": "9639cb0ec9754648284be62d794c421aebfe88aea9aa869c8ec0ab2054742cd0",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-17T08:31:21.835Z",
+      "failureReason": "",
+      "category": "数据",
+      "summary": "Allotrope公布由USP承办的2026秋季工作坊议程，围绕ASM连接分析结果、样品和方法展开。已列议题包括机器可读USP方法、开源仪器数据转换库、ASM规模化生成，以及实验室与制造流程标准衔接。对AI4S数据基础设施而言，这些议题标示从文件转换转向保留实验上下文的需求；但议程是计划，不是已经发布的成果，不能据此确认转换库可用性或自动审核质量。",
+      "score": 1,
+      "importanceReason": "明确了仪器转换、方法数字化和标准衔接的技术议题，可跟踪后续材料，当前缺少结果数据。",
+      "contentType": "company_claim",
+      "moatTags": [],
+      "limitations": "仅依据截断的会前议程；未读取演讲材料或代码，不能将预定活动视为已发生进展。",
+      "evidence": [
+        {
+          "url": "https://allotropefoundation.org/2026-fall-allotrope-connect-workshop/",
+          "quote": "Open-Source Instrument Data Converter Repository"
+        },
+        {
+          "url": "https://allotropefoundation.org/2026-fall-allotrope-connect-workshop/",
+          "quote": "Automating ASM Generation at Scale"
+        }
+      ]
+    },
+    {
+      "articleId": "884c48fcfc4be8bd359226a0004bc596",
+      "contentHash": "efc9a6e78da1e7a4865a19d4031b0506c01a6e381dd8e290b18fd852130fd50d",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-17T08:31:21.835Z",
+      "failureReason": "",
+      "category": "AI4S 应用",
+      "summary": "Latent Labs在6月公告中预告Latent-Y研究者访问层，拟让获批研究者通过浏览器开展蛋白设计。企业描述智能体串联文献与数据库检索、靶点分析、表位识别、Latent-X2生成及计算验证，并允许研究者逐阶段审查。文中引用既有结果称67%的测试靶点获得实验确认抗体结合物、亲和力达到个位数纳摩尔。该条主要是访问计划与流程说明，比例缺少分母，不能视为普遍命中率或药物有效性证据。",
+      "score": 2,
+      "importanceReason": "提供结构化设计工作流与研究者开放计划，但该公告尚未说明完整实验设置和用户实际使用结果。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "模型",
+        "药物设计"
+      ],
+      "limitations": "为企业预告，所引实验未独立复核；不由6月公告推断7月活动或访问计划已经完成。",
+      "evidence": [
+        {
+          "url": "https://www.latentlabs.com/press-release/latent-labs-to-launch-latent-y-research-tier-with-a-live-event-in-london/",
+          "quote": "literature and database research, target analysis, epitope identification, molecular generation with Latent-X2, computational validation"
+        },
+        {
+          "url": "https://www.latentlabs.com/press-release/latent-labs-to-launch-latent-y-research-tier-with-a-live-event-in-london/",
+          "quote": "Latent-Y can run end-to-end autonomously, or pause at each stage for researcher review"
+        }
+      ]
+    },
+    {
+      "articleId": "e08acb45ebc45e3f94e5e257e904152a",
+      "contentHash": "56fbfa852dbbecc495df876a9c781631802db41f483891fd9f628ecef0541827",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-17T08:31:21.835Z",
+      "failureReason": "",
+      "category": "AI4S 应用",
+      "summary": "Latent Labs在7月发布稿中宣布Latent-Y向获批研究者开放，提供每日设计额度及额外付费额度。企业报告九个靶点上约67%的靶点级成功率，并介绍早期合作：UC Davis五个送验纳米抗体中四个抑制离子通道电流，最佳IC50为30 nM；另有设计结合物用于体外杀伤肿瘤细胞的CAR-T。该文较早期预告补充了实验规模与功能测量，但不同项目使用平台得到的结果不能全部归因于同一智能体，更不能由体外结果推断临床疗效。",
+      "score": 3,
+      "importanceReason": "提供靶点分母、送验数量及功能指标，比单纯发布公告更具实证信息，但仍属公司披露。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "模型",
+        "药物设计"
+      ],
+      "limitations": "无原始数据或独立复现；56倍加速的工时基线未充分说明，研究访问条款可能变化。",
+      "evidence": [
+        {
+          "url": "https://www.latentlabs.com/press-release/latent-labs-launches-latent-y-to-researchers-worldwide/",
+          "quote": "a 67% target-level success rate across nine targets"
+        },
+        {
+          "url": "https://www.latentlabs.com/press-release/latent-labs-launches-latent-y-to-researchers-worldwide/",
+          "quote": "Of five taken into the lab, four blocked the channel's electrical current"
+        }
+      ]
+    },
+    {
+      "articleId": "53e04b191b65f5e2bbcf78ebe88f5e29",
+      "contentHash": "873b384a11fc02e7c75bd552cb9f364f21cdf23cb61996a10d32e611b4f1ec6b",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-17T08:31:21.835Z",
+      "failureReason": "该URL为Latent Labs新闻归档列表，正文是发布日期、标题和Read More入口；不能把多个新闻标题拼接成独立科研分析，相关实质发布页已另列目标。"
+    }
+  ]
+}
