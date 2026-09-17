@@ -8,13 +8,13 @@
   "publishedAt": null,
   "crawledAt": "2026-09-16T05:12:08.435Z",
   "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "contentStatus": "insufficient_content",
   "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "legacyId": "6607c43a1bc151b8821fba11443dfbdb",
   "contentTruncated": true,
-  "lastFetchAt": "2026-09-17T08:35:34.884Z",
+  "lastFetchAt": "2026-09-17T17:06:43.791Z",
   "fetchedUrl": "https://www.broadinstitute.org/news",
   "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成"
 }

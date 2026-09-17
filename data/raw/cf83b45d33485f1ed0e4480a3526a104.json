@@ -7,10 +7,13 @@
   "sourceType": "材料信息学公司",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:05:19.356Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Revolutionizing Manufacturing with Scrap: A Vision for Point-of-Need Production in Austere Environments Global supply chains are facing increasing challenges, highlighting the need for new approaches to material production. One promising avenue involves developing methods to create high-performance materials from low-quality, variable scrap feedstocks. External Research Autonomous electrocatalyst discovery for sustainable nitrogen reduction Sequential learning and autonomous atomistic simulations help discover new catalysts with co-optimized properties. External Research , Notes on Successful Projects Closed-loop fully-automated frameworks for accelerating materials discovery How much can a combination of sequential learning and closed-loop automation accelerate materials discovery? External Research , Notes on Successful Projects Quantifying the Performance of Machine Learning Models in Materials Discovery Our findings illustrate the importance of designing a modeling and discovery workflow which is highly tailored toward the specific problem of interest. In ML and SL for materials discovery, one size does not fit all, traditional error metrics may not be a good predictor of success, and the specifics of the design challenge have important implications for the optimal configuration of materials discovery strategies. External Research , Notes on Successful Projects A new open database of corrosion-resistant alloys Using machine learning to create a new open database of corrosion-resistant alloys. External Research Addressing challenges in high-temperature alloy design High-temperature alloy design is challenging, but crucial to aeronautical applications. Citrine is working on a project to improve the representation of alloys data and develop techniques to to accurately predict properties outside of the range of input data. External Research Aggregating data to accelerate alloy design Extracting, cleaning and analyzing and visualizing MPEA data. External Research Accelerating electrochemical material discovery for sustainable chemical manufacturing New electrochemical reactions are needed to reduce the carbon footprint of chemical production. Use AI to find new catalysts. External Research Does machine learning work in materials? Summary of peer reviewed, papers showing experimentally verified predictions of material properties. External Research Quantifying Uncertainties in the Materials Digital Twin Citrine has quantified uncertainty in DFT property calculations as part of a project funded by the US Department of Energy and with collaborators from Olin College and MolSSI. External Research , Notes on Successful Projects",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "cf83b45d33485f1ed0e4480a3526a104"
+  "contentHash": "8bd92d4453b3d34837bfff161307ff293b0eaaa72b5f5bb161a0cb77d6ee1ac6",
+  "legacyId": "cf83b45d33485f1ed0e4480a3526a104",
+  "lastFetchAt": "2026-09-17T17:06:49.907Z",
+  "contentTruncated": false,
+  "contentError": ""
 }

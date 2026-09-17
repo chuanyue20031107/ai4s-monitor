@@ -7,10 +7,13 @@
   "sourceType": "AI药物/自动化实验公司",
   "publishedAt": null,
   "crawledAt": "2026-09-16T05:12:19.802Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Recursion Reports Grant of Inducement Awards as Permitted by the Nasdaq Listing Rules May 29, 2026 at 4:30 PM EDT PDF Version Salt Lake City, UT , May 29, 2026 (GLOBE NEWSWIRE) -- Recursion (NASDAQ: RXRX), a leading clinical stage TechBio company decoding biology to radically improve lives, announced that on May 26, 2026 , the Compensation Committee of Recursion's Board of Directors approved the grant of inducement restricted stock unit (RSU) awards covering 2,991,840 shares of its class A common stock in the aggregate to 33 new employees under Recursion's 2024 Inducement Equity Incentive Plan (the “2024 Plan”). Each award was granted as an inducement material to the employee's commencement of employment with Recursion, or a subsidiary of Recursion, pursuant to Nasdaq Listing Rule 5635(c)(4). Each inducement RSU award will vest as to 1/4th of the shares subject to the award on the first quarterly vesting date on or following the one-year anniversary of the vesting commencement date, and as to 1/16th of the shares on each quarterly vesting date thereafter until the inducement RSU award is fully vested, subject to the inducement RSU award recipient’s continued employment through the company vesting dates. Each inducement RSU award is subject to the terms and conditions of the 2024 Plan and the grant agreements covering the awards. About Recursion Recursion (NASDAQ: RXRX) is a clinical stage TechBio company leading the space by decoding biology to radically improve lives. Enabling its mission is the Recursion OS, a platform built across diverse technologies that continuously generate one of the world’s largest proprietary biological and chemical datasets. Recursion leverages sophisticated machine-learning algorithms to distill from its dataset a collection of trillions of searchable relationships across biology and chemistry unconstrained by human bias. By commanding massive experimental scale — up to millions of wet lab experiments weekly — and massive computational scale — owning and operating one of the most powerful supercomputers in the world, Recursion is uniting technology, biology and chemistry to advance the future of medicine. Recursion is headquartered in Salt Lake City, where it is a founding member of BioHive, the Utah life sciences industry collective. Recursion also has offices in Montréal, New York, London, and the Oxford area. Learn more at www.recursion.com , or connect on X and LinkedIn . Media Contact Media@Recursion.com Investor Contact Investor@Recursion.com Ryan Kelly Recursion Pharmaceuticals ryan.kelly@recursion.com",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "d0903cd266c3f6f5b569de5017097098"
+  "contentHash": "7b4163c8f648fdbbe45a7ef07a7b34a1cf23ad1a7d7cca8fa05d2b678f5be109",
+  "legacyId": "d0903cd266c3f6f5b569de5017097098",
+  "lastFetchAt": "2026-09-17T17:06:45.149Z",
+  "contentTruncated": false,
+  "contentError": ""
 }

@@ -1,0 +1,18 @@
+{
+  "id": "0a3db91dfe46892efdc1e9d72e6846e2",
+  "title": "News 09.16.2026",
+  "url": "https://www.broadinstitute.org/news/software-rapidly-tracks-viral-variants-high-accuracy",
+  "sourceKey": "s01-06",
+  "sourceName": "Broad Institute",
+  "sourceType": "非营利研究机构",
+  "publishedAt": "2026-09-16T15:03:46.000Z",
+  "crawledAt": "2026-09-17T17:06:43.997Z",
+  "content": "Software rapidly tracks viral variants with high accuracy A new web-based program called Delphy assembles viral family trees at unprecedented speed to aid outbreak responses. By Jessica Colarossi September 16, 2026 Credit: Susanna Hamilton",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-17T17:06:43.997Z",
+  "contentTruncated": true,
+  "contentError": "",
+  "contentHash": "c4b8caebc82f90cc5fc57e100053b9195fe276489b09bf3f6e209b963fe95f7d"
+}

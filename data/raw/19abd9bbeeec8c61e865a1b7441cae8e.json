@@ -1,0 +1,18 @@
+{
+  "id": "19abd9bbeeec8c61e865a1b7441cae8e",
+  "title": "Isomorphic Labs Enters into a Research Collaboration with Johnson & Johnson - Isomorphic Labs",
+  "url": "https://www.isomorphiclabs.com/articles/isomorphic-labs-enters-into-a-research-collaboration-with-johnson-johnson",
+  "sourceKey": "s02-01",
+  "sourceName": "Isomorphic Labs",
+  "sourceType": "AI药物公司",
+  "publishedAt": null,
+  "crawledAt": "2026-09-17T17:06:44.475Z",
+  "content": "Isomorphic Labs announces a cross-modality, multi-target research collaboration with Johnson & Johnson. This partnership brings together Iso’s AI-first approach to drug discovery with Johnson & Johnson’s expertise in drug discovery and development. Isomorphic Labs’ foundational drug design engine is capable of generating drug candidates against challenging targets across a range of modalities such as small molecules, antibodies, peptides and molecular glues. This collaboration will leverage this multi-modality discovery capability, including large molecule and biologics design.",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-17T17:06:44.475Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "987bae1950ca444f97dd221023cd68b3762b491de1b49d6d5e51779ab07cee18"
+}

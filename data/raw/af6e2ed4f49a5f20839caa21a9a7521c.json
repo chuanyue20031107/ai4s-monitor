@@ -8,13 +8,13 @@
   "publishedAt": "2026-09-09T12:00:00.000Z",
   "crawledAt": "2026-09-16T05:12:09.634Z",
   "content": "A former NIST researcher invented a device to measure temperature at a crucial moment in the espresso-making process.",
-  "contentHash": "019d97f1360f3a6aa8828b216d01240d93bf9100b93709b57a3f05178e74d97a",
   "contentStatus": "insufficient_content",
   "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
+  "contentHash": "019d97f1360f3a6aa8828b216d01240d93bf9100b93709b57a3f05178e74d97a",
   "legacyId": "af6e2ed4f49a5f20839caa21a9a7521c",
   "contentTruncated": false,
-  "lastFetchAt": "2026-09-17T08:45:03.064Z",
+  "lastFetchAt": "2026-09-17T17:06:43.696Z",
   "fetchedUrl": "https://www.nist.gov/blogs/taking-measure/nist-inventions-are-powering-our-world",
   "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成"
 }

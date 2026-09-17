@@ -1,0 +1,18 @@
+{
+  "id": "1e95bc535cd1228d08106691fecfb136",
+  "title": "PressureQ Documentation",
+  "url": "https://www.emeraldcloudlab.com/helpfiles/PressureQ.html",
+  "sourceKey": "s02-11",
+  "sourceName": "Emerald Cloud Lab",
+  "sourceType": "云实验室公司",
+  "publishedAt": null,
+  "crawledAt": "2026-09-17T17:06:49.333Z",
+  "content": "tests if the given item is in Units of Pressure. Returns true if the quantity is in Units of pressure: Will reject things that are not in the correct Units:",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-17T17:06:49.333Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "938fa98124395cf74d692e75dea28f82b1e0a7a9e18fa957ca11741cf87726fd"
+}

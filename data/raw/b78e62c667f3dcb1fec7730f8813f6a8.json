@@ -1,0 +1,18 @@
+{
+  "id": "b78e62c667f3dcb1fec7730f8813f6a8",
+  "title": "See NIST News",
+  "url": "https://www.nist.gov/news-events/news",
+  "sourceKey": "s01-08",
+  "sourceName": "National Institute of Standards and Technology",
+  "sourceType": "国家计量标准机构",
+  "publishedAt": "2019-05-09T14:22:00.000Z",
+  "crawledAt": "2026-09-17T17:06:43.778Z",
+  "content": "The awards will help small and medium-sized manufacturers increase the adoption of advanced manufacturing technology.",
+  "contentStatus": "insufficient_content",
+  "extractionMethod": "article-or-main-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-17T17:06:43.778Z",
+  "contentTruncated": false,
+  "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成",
+  "contentHash": "1cb8c2646f6f224317de857c2c56c480176a74488bc4bd2f28b8bc617643bf7e"
+}

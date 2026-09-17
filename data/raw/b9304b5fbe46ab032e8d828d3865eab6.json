@@ -1,0 +1,18 @@
+{
+  "id": "b9304b5fbe46ab032e8d828d3865eab6",
+  "title": "无界进化 Karl Workbench 开放内测",
+  "url": "https://www.xtalpi.com/%e6%97%a0%e7%95%8c%e8%bf%9b%e5%8c%96-karl-workbench-%e5%bc%80%e6%94%be%e5%86%85%e6%b5%8b/",
+  "sourceKey": "s04-05",
+  "sourceName": "晶泰科技 XtalPi",
+  "sourceType": "AI药物与自动化实验企业",
+  "publishedAt": "2026-09-17T09:47:11.000Z",
+  "crawledAt": "2026-09-17T17:09:37.783Z",
+  "content": "近日，晶泰科技孵化企业无界进化（INFevo）宣布开放 Ka rl Wo rkbench 内测。 Karl Workbench 是无界进化面向生物学研究推出的科研工作台，聚焦复杂生物数据分析与科学假说验证，旨在将问题、假说、数据、分析过程与证据持续连接，从而让研究过程持续从历史中积累和改进。 在由耶鲁大学、哈佛大学等机构研究团队联合发布的科研 Agent 基准 SciAgentArena 复测中，Karl Workbench 在单细胞组学与空间组学两个核心科研场景的综合得分均位列所有参评 AI 系统第一，在本次评测范围内达到 SOTA（行业最优）水平。 什么是递归科学发现 在 Karl Workbench 此次优异表现背后，最值得关注的设计是其采用的“递归科学发现”（Recursive Scientific Discovery，RSD）框架。 不同于 AI 领域用 RSI（Recursive Self-Improvement，递归自我改进）优化系统自身参数与能力，RSD 优化的是科学发现过程：利用上一轮研究形成的结论、经验与被证伪的路径，改进下一轮假说的提出、验证与筛选。 目前 AI 参与科研时，往往以单次任务或单个环节的方式被调用，分析结束后，其中形成的判断、失败经验与研究路径很难持续进入后续任务。 RSD 希望让研究过程不再随着一次任务结束而“清零”，过去积累的经验也可以持续成为后续研究的输入。 在 Karl Workbench 上，研究过程中的任务上下文、分析轨迹、方法尝试和研究产物都会被持续保存；已有假说也可以在新的数据和证据出现后重新进入任务，被再次验证、挑战和更新。 此次复测中，Karl Workbench 与 Hermes 使用了相同的 DeepSeek V4 Pro 基础模型，但 Karl Workbench 在单细胞组学与空间组学两项评测中的综合表现更优。 这也从侧面印证了 RSD 递归科研机制的价值：即使底层模型相同，系统仍可通过持续积累研究过程与历史经验，在复杂科研任务中获得更好的表现。 拓展AI的科学边界 过去几年，AI + 机器人正在不断提升分子设计、实验验证和研发迭代的效率。而在药物研发之外，还有大量更基础的生物学问题需要被理解：疾病为什么发生，哪些机制真正关键，哪些靶点值得被干预，哪些科学假说值得投入更多实验去验证。 这些问题，也往往是生命科学中最复杂、最需要长期积累的问题。 无界进化所做的，正是尝试让 AI 更早进入这一过程：从分析生物学数据，到组织和验证科学假说，再到让研究经验持续进入下一轮发现。 这也是晶泰科技持续孵化前沿科学智能企业所希望探索的方向：让 AI + 机器人不断深入真实科学研究，去攻克那些长期复杂、仍然缺少答案的问题。 Karl Workbench 现已开启内测，科研团队点击 链接 即可申请体验。 The post 无界进化 Karl Workbench 开放内测 appeared first on 晶泰科技 XtalPi .",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-17T17:09:37.783Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "dbfeb859855352bdfe00b247fd73d3ccc70da14f5e85131e811d148c3c90d758"
+}

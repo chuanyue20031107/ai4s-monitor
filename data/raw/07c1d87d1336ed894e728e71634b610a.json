@@ -8,13 +8,13 @@
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:05:23.181Z",
   "content": "MGIEasy Large-scale PCR-FREE 全基因组低深度文库制备套装（板式） 华大智造刘健：十年，从&ldquo;有&rdquo;到&ldquo;优&rdquo;再到&ldquo;全&rdquo;！我们仍在拓展能力边界",
-  "contentHash": "73cff736f084450468135654b1812bc5b2ff99ee53133b3431868650c3f4b5de",
   "contentStatus": "insufficient_content",
   "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
+  "contentHash": "73cff736f084450468135654b1812bc5b2ff99ee53133b3431868650c3f4b5de",
   "legacyId": "07c1d87d1336ed894e728e71634b610a",
   "contentTruncated": false,
-  "lastFetchAt": "2026-09-17T08:23:53.860Z",
+  "lastFetchAt": "2026-09-17T17:09:35.067Z",
   "fetchedUrl": "https://www.mgi-tech.com/Publications.html",
   "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成"
 }
