@@ -1,0 +1,18 @@
+{
+  "id": "daef836a69729d6342f60cd688ede409",
+  "title": "Aktuelle Pressemitteilungen analytica",
+  "url": "https://analytica.de/de/muenchen/presse/pressemitteilungen/",
+  "sourceKey": "s11-19",
+  "sourceName": "analytica Munich",
+  "sourceType": "国际实验室技术展会",
+  "publishedAt": null,
+  "crawledAt": "2026-09-17T02:34:08.465Z",
+  "content": "Pressetermine Pressetermine",
+  "contentStatus": "insufficient_content",
+  "extractionMethod": "article-or-main-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-17T02:34:08.465Z",
+  "contentTruncated": false,
+  "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成",
+  "contentHash": "6c38ca1eabda83ab2604a890db1baf8f7663ba2268c2b14c5fbcf8ce3b151134"
+}

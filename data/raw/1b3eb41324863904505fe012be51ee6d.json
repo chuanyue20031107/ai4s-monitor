@@ -1,0 +1,18 @@
+{
+  "id": "1b3eb41324863904505fe012be51ee6d",
+  "title": "ExperimentCountLiquidParticlesOptions Documentation",
+  "url": "https://www.emeraldcloudlab.com/helpfiles/ExperimentCountLiquidParticlesOptions.html",
+  "sourceKey": "s02-11",
+  "sourceName": "Emerald Cloud Lab",
+  "sourceType": "云实验室公司",
+  "publishedAt": null,
+  "crawledAt": "2026-09-17T02:32:46.384Z",
+  "content": "ExperimentCountLiquidParticlesOptions [ Samples ] ⟹ ResolvedOptions generates the ResolvedOptions for conducting a light obscuration experiment on Samples . Any potential issues with provided inputs/options will be displayed: Display the option values which will be used in the experiment: If OutputFormat -> List, return a list of options:",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-17T02:32:46.384Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "144d327f835f86069539709487a012f8179b9638a9d54bd3fc32197985dd5e5d"
+}

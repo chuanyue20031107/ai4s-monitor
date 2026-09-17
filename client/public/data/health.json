@@ -4,10 +4,19 @@
     "status": "failed",
     "running": false,
     "total": 184,
-    "ok": 82,
+    "ok": 93,
     "noContent": 38,
-    "failed": 64,
-    "failureByType": [],
+    "failed": 53,
+    "failureByType": [
+      {
+        "type": "network_error",
+        "count": 52
+      },
+      {
+        "type": "timeout",
+        "count": 1
+      }
+    ],
     "lastCheckAt": "2026-09-17T05:00:24.901Z"
   }
 }

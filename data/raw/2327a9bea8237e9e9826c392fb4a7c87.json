@@ -1,0 +1,18 @@
+{
+  "id": "2327a9bea8237e9e9826c392fb4a7c87",
+  "title": "Blog | Insilico Medicine",
+  "url": "https://insilico.com/blog",
+  "sourceKey": "s02-03",
+  "sourceName": "Insilico Medicine",
+  "sourceType": "生成式AI药物公司",
+  "publishedAt": null,
+  "crawledAt": "2026-09-17T02:32:26.340Z",
+  "content": "",
+  "contentStatus": "insufficient_content",
+  "extractionMethod": "meta-description",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-17T02:32:26.340Z",
+  "contentTruncated": false,
+  "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

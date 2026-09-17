@@ -5,7 +5,10 @@ import vm from 'node:vm';
 import { createRequire } from 'node:module';
 import { randomUUID } from 'node:crypto';
 import { fileURLToPath } from 'node:url';
-import { articleId, canonicalUrl, extractContent, extractEntries, makeFetcher, migrate, noiseReason, rawRecords, readJson, sha256, writeJson, publish } from './pipeline.mjs';
+import { articleId, canonicalUrl, clean, extractContent, makeFetcher, migrate, noiseReason, rawRecords, readJson, sha256, writeJson, publish } from './pipeline.mjs';
+import { sourceEntries, sourceEntry } from './source-content.mjs';
+import { fetchWithRetry } from './source-retry.mjs';
+import { failureType, repairDefaults } from './source-health-diagnose.mjs';
 
 const now = () => new Date().toISOString();
 const clamp = (n, min, max, fallback) => Number.isFinite(Number(n)) ? Math.max(min, Math.min(max, Math.floor(Number(n)))) : fallback;
@@ -43,13 +46,15 @@ function seedSources(root) {
   }
   return seeds;
 }
-export async function collect({ root = process.cwd(), seeds = null, fetchPage = null, batchSize = process.env.BATCH_SIZE || 36, maxPerSource = process.env.MAX_ARTICLES_PER_SOURCE || 3 } = {}) {
+export async function collect({ root = process.cwd(), seeds = null, fetchPage = null, wait, maxDurationMs = 20 * 60_000, batchSize = process.env.BATCH_SIZE || 36, maxPerSource = process.env.MAX_ARTICLES_PER_SOURCE || 3 } = {}) {
+  const deadline = Date.now() + maxDurationMs;
   migrate(root);
   const pub = path.join(root, 'client/public/data');
   const settings = { dailyCrawlEnabled: true, concurrency: 3, timeoutSeconds: 15, retryCount: 1, ...readJson(path.join(pub, 'settings.json'), { settings: {} }).settings };
   if (settings.dailyCrawlEnabled === false && process.env.GITHUB_EVENT_NAME === 'schedule') return { skipped: 'dailyCrawlEnabled=false' };
   const saved = new Map((readJson(path.join(pub, 'sources.json'), { items: [] }).items || []).map((s) => [s.sourceKey, s]));
   const sources = (seeds || seedSources(root)).map((seed) => ({ ...seed, ...saved.get(seed.id), id: seed.id, sourceKey: seed.id, name: seed.name, groupName: seed.group, feedUrl: seed.feedUrl || '', website: seed.website || '', github: seed.github || '', _fetchUrl: seed._fetchUrl, _wechat: seed._wechat, enabled: saved.get(seed.id)?.enabled ?? seed.enabled ?? true, crawlStrategy: seed._wechat ? 'rss' : saved.get(seed.id)?.crawlStrategy || 'auto', crawlStatus: saved.get(seed.id)?.crawlStatus || 'idle' }));
+  sources.forEach(s => Object.assign(s, repairDefaults(s)));
   const enabled = sources.filter((s) => s.enabled && s.crawlStrategy !== 'disabled').sort((a, b) => ({ 高: 0, 中: 1, 低: 2 }[a.priority] || 0) - ({ 高: 0, 中: 1, 低: 2 }[b.priority] || 0));
   const meta = readJson(path.join(pub, 'meta.json'), { cursor: 0 });
   const targets = enabled.length ? Array.from({ length: clamp(batchSize, 1, enabled.length, 36) }, (_, i) => enabled[((meta.cursor || 0) + i) % enabled.length]) : [];
@@ -58,13 +63,7 @@ export async function collect({ root = process.cwd(), seeds = null, fetchPage = 
   const existing = new Map(rawRecords(root).map((r) => [r.url, r]));
   const claimed = new Set();
   let next = 0;
-  async function get(url) {
-    let error;
-    for (let i = 0; i <= clamp(settings.retryCount, 0, 2, 1); i++) {
-      try { return await fetcher(url); } catch (e) { error = e; if (/robots|budget|private|invalid|unsupported|HTTP_40[134]/.test(e.message)) break; }
-    }
-    throw error;
-  }
+  const get = url => fetchWithRetry(fetcher, url, { wait, deadline });
   async function hydrate(entry, s, old = null) {
     if (claimed.has(entry.url)) return; claimed.add(entry.url);
     const contentFromFeed = entry.feedContent?.length >= 120;
@@ -74,12 +73,24 @@ export async function collect({ root = process.cwd(), seeds = null, fetchPage = 
     try {
       let extracted;
       if (contentFromFeed) extracted = { content: entry.feedContent.slice(0, 5000), publishedAt: record.publishedAt, extractionMethod: 'feed-excerpt', contentTruncated: entry.feedContent.length >= 5000 };
-      else extracted = extractContent((await get(entry.url)).html);
+      else {
+        const page = await get(entry.url);
+        extracted = extractContent(page.html);
+        if (entry.fromSitemap) {
+          record.title = clean(page.html.match(/<title\b[^>]*>([\s\S]*?)<\/title>/i)?.[1]
+            || page.html.match(/<h1\b[^>]*>([\s\S]*?)<\/h1>/i)?.[1] || '');
+          if (record.title.length < 5 || record.title.length > 220 || noiseReason(record.title, entry.url)) return;
+        }
+      }
       record.content = extracted.content; record.extractionMethod = extracted.extractionMethod; record.contentTruncated = Boolean(extracted.contentTruncated);
       record.publishedAt ||= extracted.publishedAt;
       record.contentStatus = record.content.length >= 120 ? 'ready' : 'insufficient_content';
       record.contentError = record.contentStatus === 'ready' ? '' : '正文不足 120 字符，禁止仅凭标题宣布分析完成';
-    } catch (error) { record.contentStatus = 'fetch_failed'; record.contentError = /^HTTP_\d+$|^(robots_blocked|request_budget_exhausted|private_address_blocked|unsupported_content|response_too_large)$/.test(error.message) ? error.message : 'fetch_error'; }
+    } catch (error) {
+      // A sitemap URL without an observed title/body is not an article record.
+      if (entry.fromSitemap && !record.title) return;
+      record.contentStatus = 'fetch_failed'; record.contentError = /^HTTP_\d+$|^(robots_blocked|request_budget_exhausted|private_address_blocked|unsupported_content|response_too_large)$/.test(error.message) ? error.message : 'fetch_error';
+    }
     record.contentHash = sha256(record.content || '');
     writeJson(path.join(root, `data/raw/${record.id}.json`), record); existing.set(record.url, record);
     if (old) run.enriched++; else run.inserted++;
@@ -88,9 +99,9 @@ export async function collect({ root = process.cwd(), seeds = null, fetchPage = 
     while (next < targets.length) {
       const s = targets[next++]; s.lastCrawlAt = now(); s.lastCheckAt = s.lastCrawlAt;
       try {
-        const url = s._wechat ? s._fetchUrl : s.feedUrl || s.website || s.github;
+        const url = sourceEntry(s);
         if (!url) throw new Error('needs_config');
-        const page = await get(url), entries = extractEntries(page.html, page.finalUrl);
+        const page = await get(url), entries = await sourceEntries(page, get);
         const count = clamp(maxPerSource, 1, 8, 3); let used = 0;
         for (const entry of entries) {
           const old = existing.get(entry.url); if (old?.contentStatus === 'ready' || old?.discardReason) continue;
@@ -103,10 +114,13 @@ export async function collect({ root = process.cwd(), seeds = null, fetchPage = 
           if (old.sourceKey === s.sourceKey && old.contentStatus !== 'ready' && !old.discardReason && !claimed.has(old.url)) { used++; await hydrate(old, s, old); }
         }
         s.crawlStatus = entries.length ? 'ok' : 'no_content'; s.lastSuccessAt = now(); s.lastError = ''; s.lastDiagnostic = `发现 ${entries.length} 条候选；本次处理上限 ${count}；正文与分析状态分别记录`;
+        s.failureType = ''; s.repairSuggestion = ''; s.autoRepairAvailable = false;
         run.succeeded++;
       } catch (error) {
-        s.crawlStatus = error.message === 'needs_config' ? 'needs_config' : error.message === 'robots_blocked' ? 'robots_blocked' : error.name === 'TimeoutError' ? 'timeout' : 'network_error';
-        s.lastError = s.crawlStatus; s.lastDiagnostic = s._wechat && !s._fetchUrl ? '需配置 WERSS_BASE_URL 和 feed_id' : '采集失败；未绕过访问限制，下一轮重试'; run.failed++;
+        s.failureType = error.message === 'needs_config' ? 'needs_config' : failureType(error);
+        s.crawlStatus = error.message === 'needs_config' ? 'needs_config' : error.message === 'robots_blocked' ? 'robots_blocked' : s.failureType === 'timeout' ? 'timeout' : 'network_error';
+        s.lastError = s.failureType; s.autoRepairAvailable = false; s.repairSuggestion = 'diagnose_again';
+        s.lastDiagnostic = s._wechat && !s._fetchUrl ? '需配置 WERSS_BASE_URL 和 feed_id' : `采集失败：${s.failureType}；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。`; run.failed++;
       }
       run.processed++;
     }

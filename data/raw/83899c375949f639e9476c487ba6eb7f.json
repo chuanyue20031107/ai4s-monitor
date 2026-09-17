@@ -1,0 +1,18 @@
+{
+  "id": "83899c375949f639e9476c487ba6eb7f",
+  "title": "| SandboxAQ",
+  "url": "https://www.sandboxaq.com/press/northrop-grumman-lumberjacks-un-jammable-quantum-powered-magnetic-navigation",
+  "sourceKey": "s02-25",
+  "sourceName": "SandboxAQ",
+  "sourceType": "AI/量子技术公司",
+  "publishedAt": null,
+  "crawledAt": "2026-09-17T02:32:55.491Z",
+  "content": "",
+  "contentStatus": "insufficient_content",
+  "extractionMethod": "meta-description",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-17T02:32:55.491Z",
+  "contentTruncated": false,
+  "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

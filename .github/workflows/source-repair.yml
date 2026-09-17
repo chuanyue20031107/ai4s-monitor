@@ -1,0 +1,68 @@
+name: Source repair
+on:
+  schedule:
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: Diagnose only, or diagnose then repair validated entries
+        type: choice
+        options: [diagnose, repair]
+        default: diagnose
+      recrawl_repaired:
+        description: Recrawl up to 12 newly repaired sources after repair
+        type: boolean
+        default: false
+permissions:
+  contents: read
+# Serialize with manual source operations; never cancel the six-hour pipeline.
+concurrency:
+  group: ai4s-source-operations
+  cancel-in-progress: false
+jobs:
+  repair:
+    runs-on: ubuntu-latest
+    timeout-minutes: 50
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '22'
+      - run: npm install --no-audit --no-fund
+      - name: Verify diagnosis, retry and source operations
+        run: node --test tests/*.test.mjs
+      - name: Diagnose before repair; only recrawl verified repairs
+        env:
+          REPAIR_MODE: ${{ github.event_name == 'schedule' && 'repair' || inputs.mode }}
+          RECRAWL_REPAIRED: ${{ github.event_name == 'schedule' || inputs.recrawl_repaired }}
+        run: node scripts/source-repair.mjs
+      - name: Persist results without overwriting concurrent collection
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data client/public/data
+          if ! git diff --cached --quiet; then git commit -m 'data: diagnose and repair sources [skip ci]'; fi
+          for attempt in 1 2 3; do
+            if git pull --rebase origin main && git push origin HEAD:main; then exit 0; fi
+            if test -d .git/rebase-merge -o -d .git/rebase-apply; then
+              echo 'Concurrent data conflict; refusing to overwrite. Rerun after resolving.' >&2
+              exit 1
+            fi
+            sleep 3
+          done
+          exit 1
+      - name: Retain diagnostic report even if persistence fails
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: source-diagnostics
+          path: client/public/data/source-diagnostics.json
+          if-no-files-found: ignore
+          retention-days: 14

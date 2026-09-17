@@ -1,0 +1,18 @@
+{
+  "id": "f3899afd4d6a0a2de4790fb5c615ac53",
+  "title": "Our framework for reporting model misalignment",
+  "url": "https://openai.com/index/model-misalignment-reporting-framework",
+  "sourceKey": "s01-14",
+  "sourceName": "OpenAI",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": "2026-09-16T17:00:00.000Z",
+  "crawledAt": "2026-09-17T02:32:17.468Z",
+  "content": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-17T02:32:17.468Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "22bd57692b02f313139613df5f9cdde452bbfd9ab61ef9c081d39ad1e8ed86ac"
+}

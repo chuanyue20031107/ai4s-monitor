@@ -11,8 +11,9 @@ import { Switch } from '@/components/ui/switch';
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table';
 import { CrawlStatusBadge } from '@/components/ai4s-badges';
 import { HealthCheckPanel } from './HealthCheckPanel';
+import { SourceRepairPanel } from './SourceRepairPanel';
 import { formatDateTime } from '@/lib/format';
-import type { IAi4sSource, IAi4sHealthCheckStats } from '@shared/api.interface';
+import type { IAi4sSource, IAi4sHealthCheckStats, ISourceDiagnostic } from '@shared/api.interface';
 import { loadSourceSnapshot, newSourceDraft, readDrafts, saveDrafts, SOURCE_ACTIONS_URL, type SourceAction, type SourceDraft, type SourceReceipt } from '@/api/sourceOperations';
 
 const failures = new Set(['invalid_url','robots_blocked','timeout','network_error','parse_failed','needs_config','failed']);
@@ -25,6 +26,7 @@ export default function SourcesPage() {
   const [sources,setSources] = useState<IAi4sSource[]>([]);
   const [health,setHealth] = useState<IAi4sHealthCheckStats|null>(null);
   const [receipts,setReceipts] = useState<SourceReceipt[]>([]);
+  const [diagnostics,setDiagnostics] = useState<ISourceDiagnostic[]>([]);
   const [drafts,setDrafts] = useState<SourceDraft[]>(readDrafts);
   const [draft,setDraft] = useState<SourceDraft|null>(null);
   const [detailId,setDetailId] = useState<string|null>(null);
@@ -38,7 +40,7 @@ export default function SourcesPage() {
   const [search,setSearch] = useState('');
   const refresh = useCallback(async () => {
     setLoading(true);
-    try { const data = await loadSourceSnapshot(); setSources(data.sources.items); setHealth(data.health.stats); setReceipts(data.receipts.items); setUpdatedAt(data.sources.updatedAt || ''); setError(''); }
+    try { const data = await loadSourceSnapshot(); setSources(data.sources.items); setHealth(data.health.stats); setReceipts(data.receipts.items); setDiagnostics(data.diagnostics.items); setUpdatedAt(data.sources.updatedAt || ''); setError(''); }
     catch (e) { setError(e instanceof Error ? e.message : '读取失败'); }
     finally { setLoading(false); }
   },[]);
@@ -76,6 +78,7 @@ export default function SourcesPage() {
       {error&&<p role="alert" className="text-destructive">{error}</p>}
     </CardContent></Card>
     <HealthCheckPanel stats={health} running={false} onStart={()=>prepare('health_check','全部来源健康检查')}/>
+    <SourceRepairPanel sources={sources} diagnostics={diagnostics} loading={loading} onDiagnose={()=>prepare('diagnose_failed','自动诊断失败来源（不抓正文）')} onRepair={()=>prepare('repair_available','自动修复可用来源（验证后切换 RSS / Sitemap）')}/>
     <Card><CardHeader className="pb-3"><CardTitle className="text-sm">来源筛选</CardTitle></CardHeader><CardContent className="grid grid-cols-2 gap-3 md:grid-cols-5">
       {([{label:'清单分组',value:group,set:setGroup,items:[...new Set(sources.map(s=>s.groupName))]}, {label:'国家 / 地区',value:region,set:setRegion,items:[...new Set(sources.map(s=>s.region))]}, {label:'优先级',value:priority,set:setPriority,items:['高','中','低']}] as const).map(f=><div key={f.label} className="space-y-1"><label className="text-xs text-muted-foreground">{f.label}</label><Select value={f.value} onValueChange={f.set}><SelectTrigger className="w-full"><SelectValue/></SelectTrigger><SelectContent><SelectItem value="all">全部</SelectItem>{f.items.filter(Boolean).map(i=><SelectItem key={i} value={i}>{i}</SelectItem>)}</SelectContent></Select></div>)}
       <div className="space-y-1"><label className="text-xs text-muted-foreground">状态</label><Select value={status} onValueChange={setStatus}><SelectTrigger className="w-full"><SelectValue/></SelectTrigger><SelectContent><SelectItem value="all">全部状态</SelectItem><SelectItem value="failed">仅失败</SelectItem><SelectItem value="ok">成功</SelectItem><SelectItem value="no_content">无可解析内容</SelectItem><SelectItem value="disabled">已停用</SelectItem><SelectItem value="idle">未检查</SelectItem></SelectContent></Select></div>
