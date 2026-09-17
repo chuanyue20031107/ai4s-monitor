@@ -1,0 +1,18 @@
+{
+  "id": "25e26b4a3a205096b0790da9a983f3cd",
+  "title": "Alle Pressetermine im Überblick finden",
+  "url": "https://analytica.de/de/muenchen/presse/termine/",
+  "sourceKey": "s11-19",
+  "sourceName": "analytica Munich",
+  "sourceType": "国际实验室技术展会",
+  "publishedAt": null,
+  "crawledAt": "2026-09-17T02:34:09.375Z",
+  "content": "Programm Programm",
+  "contentStatus": "insufficient_content",
+  "extractionMethod": "article-or-main-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-17T02:34:09.375Z",
+  "contentTruncated": false,
+  "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成",
+  "contentHash": "0a68331c91cf820530cb0a51c6b0afd6ac198e7b6a9834e069ef3e2541b23d80"
+}

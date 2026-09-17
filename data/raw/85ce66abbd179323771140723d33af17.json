@@ -1,0 +1,18 @@
+{
+  "id": "85ce66abbd179323771140723d33af17",
+  "title": "Xaira Therapeutics",
+  "url": "https://www.xaira.com/news/causal-models-need-causal-data---xairas-x-cell-model-for-drug-discovery",
+  "sourceKey": "s02-08",
+  "sourceName": "Xaira Therapeutics",
+  "sourceType": "AI药物公司",
+  "publishedAt": null,
+  "crawledAt": "2026-09-17T02:32:41.554Z",
+  "content": "Curious about Xaira's approach to building better AI for drug discovery? On the latest episode of the Latent Space podcast, Chief AI Scientist Bo Wang and Chief Discovery Officer Ci Chu discuss their approach to virtual cells, why causal biological datasets matter, and how advances in high-throughput biology are enabling a new generation of predictive AI models.",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-17T02:32:41.554Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "dc4f8a23f47252d9c2ae3a05b1979f89296e85138f8a723b8a183c5463bad072"
+}

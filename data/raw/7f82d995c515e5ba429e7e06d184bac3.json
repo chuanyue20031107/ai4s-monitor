@@ -1,0 +1,18 @@
+{
+  "id": "7f82d995c515e5ba429e7e06d184bac3",
+  "title": "How Fyxer built an AI executive assistant people trust",
+  "url": "https://openai.com/index/fyxer",
+  "sourceKey": "s01-14",
+  "sourceName": "OpenAI",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": "2026-09-14T12:00:00.000Z",
+  "crawledAt": "2026-09-17T02:32:17.472Z",
+  "content": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-17T02:32:17.472Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "871d82bfdb087d7f4fb90fbc2211fba2eaa482e1d78218d33dcd5a2ad005230e"
+}

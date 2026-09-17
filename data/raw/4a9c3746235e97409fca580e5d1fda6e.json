@@ -1,0 +1,18 @@
+{
+  "id": "4a9c3746235e97409fca580e5d1fda6e",
+  "title": "Call for Abstracts – 2026 Fall Allotrope Connect Workshop – Allotrope Foundation",
+  "url": "https://allotropefoundation.org/call-for-abstracts-2026-fall-allotrope-connect-workshop/",
+  "sourceKey": "s11-02",
+  "sourceName": "Allotrope Foundation",
+  "sourceType": "行业标准组织",
+  "publishedAt": null,
+  "crawledAt": "2026-09-17T02:34:03.671Z",
+  "content": "Call for Abstracts – 2026 Fall Allotrope® Connect Workshop Scientific Results Need Context: The Value of ASM We invite industry experts, researchers, data architects, and technology partners to share their insights, progress, and vision, including case studies, technical deep dives, and practical experiences , at the upcoming 2026 Fall Allotrope Connect Workshop. Scientific results too often exist in isolation. Their value depends on the context surrounding them, including the methods used to generate them, the samples and materials involved, the experimental conditions, processes, specifications, and decisions that give those results meaning. As laboratories generate increasing volumes of scientific data, capturing and connecting this context is becoming essential for making data reusable, interoperable, machine-actionable, and AI-ready . Increasingly, regulatory authorities are also promoting structured product quality submissions, electronic data exchange, and manufacturing process control and interoperability which is creating an additional digital driver for the biopharma industry. The Allotrope Simple Model (ASM) provides a standardized approach for representing scientific results together with the context needed to understand, connect, and reuse them. ASM can function as the needed interoperability layer between laboratory execution and the external regulatory landscape. For example, ASM facilitates the connection of method execution to regulatory expectations and standards (schema to schema), supporting method storage, transfer, automated review, lifecycle management, and AI-enabled analytics. This workshop will focus on solutions that create greater context (see chart below) for results, with primary focus on connecting results with samples, methods, and specifications. Workshop Details Dates: October 7–8, 2026 Location: Rockville, MD, USA Hosted by: US Pharmacopeia (USP) Attendance: In-Person and Virtually ( In-person attendance is highly recommended to fully interact with industry colleagues throughout the workshop ) Registration and Information: Link Submission Guidelines Please submit your short abstract to [email protected] as soon as possible to help us finalize the agenda , including: Presentation title Short abstract Speaker name, title, organization, and email Duration: Standard presentations are typically 25 minutes plus 5 minutes for Q&A. We look forward to receiving your abstract and seeing you at Allotrope Connect. Allotrope Connect Workshop Event Team [email protected]",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-17T02:34:03.671Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "fe5bd41c961a08c7247f22482243e87016e041dc218e2155b485c2f891a8a901"
+}

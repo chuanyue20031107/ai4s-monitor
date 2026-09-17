@@ -1,6 +1,9 @@
 {
   "items": [
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s01-01",
       "name": "Google DeepMind",
       "group": "海外大厂与研究机构",
@@ -29,6 +32,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s01-02",
       "name": "Microsoft Research AI for Science",
       "group": "海外大厂与研究机构",
@@ -47,16 +53,19 @@
       "sourceKey": "s01-02",
       "groupName": "海外大厂与研究机构",
       "enabled": true,
-      "crawlStrategy": "auto",
-      "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-17T01:27:10.531Z",
-      "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:27:10.531Z",
-      "lastError": "network_error"
+      "crawlStrategy": "rss",
+      "discoveredFeedUrl": "https://www.microsoft.com/en-us/research/feed/",
+      "crawlStatus": "ok",
+      "lastCrawlAt": "2026-09-17T02:29:51.529Z",
+      "lastSuccessAt": "2026-09-17T02:29:54.395Z",
+      "lastDiagnostic": "发现 10 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-17T02:29:51.529Z",
+      "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s01-03",
       "name": "NVIDIA Research",
       "group": "海外大厂与研究机构",
@@ -85,6 +94,9 @@
       "lastError": ""
     },
     {
+      "failureType": "cloudflare_blocked",
+      "repairSuggestion": "check_robots",
+      "autoRepairAvailable": false,
       "id": "s01-04",
       "name": "Argonne National Laboratory",
       "group": "海外大厂与研究机构",
@@ -108,11 +120,14 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-17T01:27:10.734Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:27:10.734Z",
+      "lastDiagnostic": "诊断：cloudflare_blocked；建议：check_robots；尚未重新抓取正文。",
+      "lastCheckAt": "2026-09-17T02:27:23.786Z",
       "lastError": "network_error"
     },
     {
+      "failureType": "cloudflare_blocked",
+      "repairSuggestion": "check_robots",
+      "autoRepairAvailable": false,
       "id": "s01-05",
       "name": "Lawrence Berkeley National Laboratory",
       "group": "海外大厂与研究机构",
@@ -136,11 +151,14 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-17T01:27:10.793Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:27:10.793Z",
+      "lastDiagnostic": "诊断：cloudflare_blocked；建议：check_robots；尚未重新抓取正文。",
+      "lastCheckAt": "2026-09-17T02:27:23.787Z",
       "lastError": "network_error"
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s01-06",
       "name": "Broad Institute",
       "group": "海外大厂与研究机构",
@@ -169,6 +187,9 @@
       "lastError": ""
     },
     {
+      "failureType": "dns_error",
+      "repairSuggestion": "check_dns",
+      "autoRepairAvailable": false,
       "id": "s01-07",
       "name": "National Renewable Energy Laboratory",
       "group": "海外大厂与研究机构",
@@ -192,11 +213,14 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-17T01:27:11.059Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:27:11.059Z",
+      "lastDiagnostic": "诊断：dns_error；建议：check_dns；尚未重新抓取正文。",
+      "lastCheckAt": "2026-09-17T02:27:24.591Z",
       "lastError": "network_error"
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s01-08",
       "name": "National Institute of Standards and Technology",
       "group": "海外大厂与研究机构",
@@ -225,6 +249,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s01-09",
       "name": "EMBL-EBI",
       "group": "海外大厂与研究机构",
@@ -253,6 +280,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s01-10",
       "name": "Arc Institute",
       "group": "海外大厂与研究机构",
@@ -281,6 +311,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s01-11",
       "name": "IBM Research",
       "group": "海外大厂与研究机构",
@@ -309,6 +342,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s01-12",
       "name": "Amazon Web Services",
       "group": "海外大厂与研究机构",
@@ -337,6 +373,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s01-13",
       "name": "Meta FAIR",
       "group": "海外大厂与研究机构",
@@ -365,6 +404,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s01-14",
       "name": "OpenAI",
       "group": "海外大厂与研究机构",
@@ -383,16 +425,19 @@
       "sourceKey": "s01-14",
       "groupName": "海外大厂与研究机构",
       "enabled": true,
-      "crawlStrategy": "auto",
-      "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-17T01:27:10.218Z",
-      "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:27:10.218Z",
-      "lastError": "network_error"
+      "crawlStrategy": "rss",
+      "discoveredFeedUrl": "https://openai.com/news/rss.xml",
+      "crawlStatus": "ok",
+      "lastCrawlAt": "2026-09-17T02:32:16.181Z",
+      "lastSuccessAt": "2026-09-17T02:32:17.473Z",
+      "lastDiagnostic": "发现 12 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-17T02:32:16.181Z",
+      "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s01-15",
       "name": "Oak Ridge National Laboratory",
       "group": "海外大厂与研究机构",
@@ -411,16 +456,19 @@
       "sourceKey": "s01-15",
       "groupName": "海外大厂与研究机构",
       "enabled": true,
-      "crawlStrategy": "auto",
-      "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-17T01:27:10.218Z",
-      "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:27:10.218Z",
-      "lastError": "network_error"
+      "crawlStrategy": "rss",
+      "discoveredFeedUrl": "https://www.ornl.gov/rss.xml",
+      "crawlStatus": "ok",
+      "lastCrawlAt": "2026-09-17T02:32:17.709Z",
+      "lastSuccessAt": "2026-09-17T02:32:18.705Z",
+      "lastDiagnostic": "发现 9 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-17T02:32:17.709Z",
+      "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s01-16",
       "name": "MIT Jameel Clinic",
       "group": "海外大厂与研究机构",
@@ -439,16 +487,19 @@
       "sourceKey": "s01-16",
       "groupName": "海外大厂与研究机构",
       "enabled": true,
-      "crawlStrategy": "auto",
-      "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-17T01:27:10.218Z",
-      "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:27:10.218Z",
-      "lastError": "network_error"
+      "crawlStrategy": "rss",
+      "discoveredFeedUrl": "https://jclinic.mit.edu/feed/",
+      "crawlStatus": "ok",
+      "lastCrawlAt": "2026-09-17T02:32:18.919Z",
+      "lastSuccessAt": "2026-09-17T02:32:20.353Z",
+      "lastDiagnostic": "发现 10 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-17T02:32:18.919Z",
+      "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s01-17",
       "name": "Allen Institute for AI",
       "group": "海外大厂与研究机构",
@@ -477,6 +528,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s01-18",
       "name": "Lawrence Livermore National Laboratory",
       "group": "海外大厂与研究机构",
@@ -505,6 +559,9 @@
       "lastError": ""
     },
     {
+      "failureType": "http_404",
+      "repairSuggestion": "manual_config",
+      "autoRepairAvailable": false,
       "id": "s01-19",
       "name": "Los Alamos National Laboratory",
       "group": "海外大厂与研究机构",
@@ -528,11 +585,14 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-17T01:27:10.218Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:27:10.218Z",
+      "lastDiagnostic": "诊断：http_404；建议：manual_config；尚未重新抓取正文。",
+      "lastCheckAt": "2026-09-17T02:27:34.355Z",
       "lastError": "network_error"
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s01-20",
       "name": "Wellcome Sanger Institute",
       "group": "海外大厂与研究机构",
@@ -561,6 +621,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s01-21",
       "name": "Chan Zuckerberg Biohub Network",
       "group": "海外大厂与研究机构",
@@ -589,6 +652,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s01-22",
       "name": "RIKEN Center for Advanced Intelligence Project",
       "group": "海外大厂与研究机构",
@@ -617,6 +683,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s01-23",
       "name": "AIST",
       "group": "海外大厂与研究机构",
@@ -645,6 +714,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s01-24",
       "name": "Helmholtz Association",
       "group": "海外大厂与研究机构",
@@ -673,6 +745,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s01-25",
       "name": "European Molecular Biology Laboratory",
       "group": "海外大厂与研究机构",
@@ -701,6 +776,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s02-01",
       "name": "Isomorphic Labs",
       "group": "海外AI4S创业公司",
@@ -719,16 +797,19 @@
       "sourceKey": "s02-01",
       "groupName": "海外AI4S创业公司",
       "enabled": true,
-      "crawlStrategy": "auto",
-      "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-17T01:27:11.093Z",
-      "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:27:11.093Z",
-      "lastError": "network_error"
+      "crawlStrategy": "sitemap",
+      "discoveredFeedUrl": "https://www.isomorphiclabs.com/sitemap.xml",
+      "crawlStatus": "ok",
+      "lastCrawlAt": "2026-09-17T02:32:20.560Z",
+      "lastSuccessAt": "2026-09-17T02:32:22.246Z",
+      "lastDiagnostic": "发现 37 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-17T02:32:20.560Z",
+      "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s02-02",
       "name": "Recursion",
       "group": "海外AI4S创业公司",
@@ -757,6 +838,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s02-03",
       "name": "Insilico Medicine",
       "group": "海外AI4S创业公司",
@@ -775,16 +859,19 @@
       "sourceKey": "s02-03",
       "groupName": "海外AI4S创业公司",
       "enabled": true,
-      "crawlStrategy": "auto",
-      "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-17T01:27:11.099Z",
-      "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:27:11.099Z",
-      "lastError": "network_error"
+      "crawlStrategy": "sitemap",
+      "discoveredFeedUrl": "https://insilico.com/sitemap.xml",
+      "crawlStatus": "ok",
+      "lastCrawlAt": "2026-09-17T02:32:22.476Z",
+      "lastSuccessAt": "2026-09-17T02:32:27.170Z",
+      "lastDiagnostic": "发现 57 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-17T02:32:22.476Z",
+      "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s02-04",
       "name": "Schrödinger",
       "group": "海外AI4S创业公司",
@@ -813,6 +900,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s02-05",
       "name": "Generate Biomedicines",
       "group": "海外AI4S创业公司",
@@ -831,16 +921,19 @@
       "sourceKey": "s02-05",
       "groupName": "海外AI4S创业公司",
       "enabled": true,
-      "crawlStrategy": "auto",
-      "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-17T01:27:11.342Z",
-      "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:27:11.342Z",
-      "lastError": "network_error"
+      "crawlStrategy": "sitemap",
+      "discoveredFeedUrl": "https://generatebiomedicines.com/sitemap_index.xml",
+      "crawlStatus": "ok",
+      "lastCrawlAt": "2026-09-17T02:32:27.371Z",
+      "lastSuccessAt": "2026-09-17T02:32:34.380Z",
+      "lastDiagnostic": "发现 75 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-17T02:32:27.371Z",
+      "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s02-06",
       "name": "EvolutionaryScale",
       "group": "海外AI4S创业公司",
@@ -869,6 +962,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s02-07",
       "name": "Profluent",
       "group": "海外AI4S创业公司",
@@ -887,16 +983,19 @@
       "sourceKey": "s02-07",
       "groupName": "海外AI4S创业公司",
       "enabled": true,
-      "crawlStrategy": "auto",
-      "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-17T01:27:11.362Z",
-      "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:27:11.362Z",
-      "lastError": "network_error"
+      "crawlStrategy": "sitemap",
+      "discoveredFeedUrl": "https://www.profluent.bio/sitemap.xml",
+      "crawlStatus": "ok",
+      "lastCrawlAt": "2026-09-17T02:32:34.592Z",
+      "lastSuccessAt": "2026-09-17T02:32:40.357Z",
+      "lastDiagnostic": "发现 4 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-17T02:32:34.592Z",
+      "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s02-08",
       "name": "Xaira Therapeutics",
       "group": "海外AI4S创业公司",
@@ -915,16 +1014,19 @@
       "sourceKey": "s02-08",
       "groupName": "海外AI4S创业公司",
       "enabled": true,
-      "crawlStrategy": "auto",
-      "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-17T01:27:12.646Z",
-      "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:27:12.646Z",
-      "lastError": "network_error"
+      "crawlStrategy": "sitemap",
+      "discoveredFeedUrl": "https://www.xaira.com/sitemap.xml",
+      "crawlStatus": "ok",
+      "lastCrawlAt": "2026-09-17T02:32:40.557Z",
+      "lastSuccessAt": "2026-09-17T02:32:42.408Z",
+      "lastDiagnostic": "发现 39 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-17T02:32:40.557Z",
+      "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s02-09",
       "name": "Lila Sciences",
       "group": "海外AI4S创业公司",
@@ -953,6 +1055,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s02-10",
       "name": "Periodic Labs",
       "group": "海外AI4S创业公司",
@@ -981,6 +1086,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s02-11",
       "name": "Emerald Cloud Lab",
       "group": "海外AI4S创业公司",
@@ -999,16 +1107,19 @@
       "sourceKey": "s02-11",
       "groupName": "海外AI4S创业公司",
       "enabled": true,
-      "crawlStrategy": "auto",
-      "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-17T01:27:12.811Z",
-      "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:27:12.811Z",
-      "lastError": "network_error"
+      "crawlStrategy": "sitemap",
+      "discoveredFeedUrl": "https://www.emeraldcloudlab.com/sitemap-index.xml",
+      "crawlStatus": "ok",
+      "lastCrawlAt": "2026-09-17T02:32:42.597Z",
+      "lastSuccessAt": "2026-09-17T02:32:47.181Z",
+      "lastDiagnostic": "发现 4 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-17T02:32:42.597Z",
+      "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s02-12",
       "name": "FutureHouse",
       "group": "海外AI4S创业公司",
@@ -1037,6 +1148,9 @@
       "lastError": ""
     },
     {
+      "failureType": "http_404",
+      "repairSuggestion": "manual_config",
+      "autoRepairAvailable": false,
       "id": "s02-13",
       "name": "CuspAI",
       "group": "海外AI4S创业公司",
@@ -1060,11 +1174,14 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-17T01:27:12.827Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:27:12.827Z",
+      "lastDiagnostic": "诊断：http_404；建议：manual_config；尚未重新抓取正文。",
+      "lastCheckAt": "2026-09-17T02:27:59.912Z",
       "lastError": "network_error"
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s02-14",
       "name": "Orbital Materials",
       "group": "海外AI4S创业公司",
@@ -1093,6 +1210,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s02-15",
       "name": "Citrine Informatics",
       "group": "海外AI4S创业公司",
@@ -1121,6 +1241,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s02-16",
       "name": "Chemify",
       "group": "海外AI4S创业公司",
@@ -1149,6 +1272,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s02-17",
       "name": "Cradle",
       "group": "海外AI4S创业公司",
@@ -1177,6 +1303,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s02-18",
       "name": "Basecamp Research",
       "group": "海外AI4S创业公司",
@@ -1195,16 +1324,19 @@
       "sourceKey": "s02-18",
       "groupName": "海外AI4S创业公司",
       "enabled": true,
-      "crawlStrategy": "auto",
-      "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-17T01:27:14.459Z",
-      "lastSuccessAt": "2026-09-16T07:47:28.250Z",
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:27:14.459Z",
-      "lastError": "network_error"
+      "crawlStrategy": "rss",
+      "discoveredFeedUrl": "https://basecamp-research.com/feed/",
+      "crawlStatus": "ok",
+      "lastCrawlAt": "2026-09-17T02:32:47.390Z",
+      "lastSuccessAt": "2026-09-17T02:32:49.293Z",
+      "lastDiagnostic": "发现 10 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-17T02:32:47.390Z",
+      "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s02-19",
       "name": "Latent Labs",
       "group": "海外AI4S创业公司",
@@ -1223,16 +1355,19 @@
       "sourceKey": "s02-19",
       "groupName": "海外AI4S创业公司",
       "enabled": true,
-      "crawlStrategy": "auto",
-      "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-17T01:27:12.366Z",
-      "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:27:12.366Z",
-      "lastError": "network_error"
+      "crawlStrategy": "sitemap",
+      "discoveredFeedUrl": "https://www.latentlabs.com/sitemap_index.xml",
+      "crawlStatus": "ok",
+      "lastCrawlAt": "2026-09-17T02:32:49.494Z",
+      "lastSuccessAt": "2026-09-17T02:32:53.593Z",
+      "lastDiagnostic": "发现 29 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-17T02:32:49.494Z",
+      "lastError": ""
     },
     {
+      "failureType": "http_404",
+      "repairSuggestion": "manual_config",
+      "autoRepairAvailable": false,
       "id": "s02-20",
       "name": "Iambic Therapeutics",
       "group": "海外AI4S创业公司",
@@ -1256,11 +1391,14 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-17T01:27:12.366Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:27:12.366Z",
+      "lastDiagnostic": "诊断：http_404；建议：manual_config；尚未重新抓取正文。",
+      "lastCheckAt": "2026-09-17T02:28:07.238Z",
       "lastError": "network_error"
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s02-21",
       "name": "Owkin",
       "group": "海外AI4S创业公司",
@@ -1289,6 +1427,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s02-22",
       "name": "Aqemia",
       "group": "海外AI4S创业公司",
@@ -1317,6 +1458,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s02-23",
       "name": "Atomwise",
       "group": "海外AI4S创业公司",
@@ -1345,6 +1489,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s02-24",
       "name": "Entalpic",
       "group": "海外AI4S创业公司",
@@ -1373,6 +1520,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s02-25",
       "name": "SandboxAQ",
       "group": "海外AI4S创业公司",
@@ -1391,16 +1541,19 @@
       "sourceKey": "s02-25",
       "groupName": "海外AI4S创业公司",
       "enabled": true,
-      "crawlStrategy": "auto",
-      "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-17T01:27:12.366Z",
-      "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:27:12.366Z",
-      "lastError": "network_error"
+      "crawlStrategy": "sitemap",
+      "discoveredFeedUrl": "https://www.sandboxaq.com/sitemap.xml",
+      "crawlStatus": "ok",
+      "lastCrawlAt": "2026-09-17T02:32:53.809Z",
+      "lastSuccessAt": "2026-09-17T02:32:56.378Z",
+      "lastDiagnostic": "发现 100 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-17T02:32:53.809Z",
+      "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s03-01",
       "name": "DeepSeek",
       "group": "国内模型与科研软件",
@@ -1429,6 +1582,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s03-02",
       "name": "月之暗面 Moonshot AI",
       "group": "国内模型与科研软件",
@@ -1457,6 +1613,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s03-03",
       "name": "智谱",
       "group": "国内模型与科研软件",
@@ -1485,6 +1644,9 @@
       "lastError": ""
     },
     {
+      "failureType": "network_error",
+      "repairSuggestion": "check_robots",
+      "autoRepairAvailable": false,
       "id": "s03-04",
       "name": "百度",
       "group": "国内模型与科研软件",
@@ -1508,11 +1670,14 @@
       "crawlStatus": "timeout",
       "lastCrawlAt": "2026-09-17T01:27:13.185Z",
       "lastSuccessAt": "2026-09-16T11:46:35.652Z",
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:27:13.185Z",
+      "lastDiagnostic": "诊断：network_error；建议：check_robots；尚未重新抓取正文。",
+      "lastCheckAt": "2026-09-17T02:28:18.584Z",
       "lastError": "timeout"
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s03-05",
       "name": "阿里云",
       "group": "国内模型与科研软件",
@@ -1541,6 +1706,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s03-06",
       "name": "华为云",
       "group": "国内模型与科研软件",
@@ -1569,6 +1737,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s03-07",
       "name": "腾讯",
       "group": "国内模型与科研软件",
@@ -1597,6 +1768,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s03-08",
       "name": "字节跳动/火山引擎",
       "group": "国内模型与科研软件",
@@ -1625,6 +1799,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s03-09",
       "name": "科大讯飞",
       "group": "国内模型与科研软件",
@@ -1653,6 +1830,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s03-10",
       "name": "MiniMax",
       "group": "国内模型与科研软件",
@@ -1681,6 +1861,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s03-11",
       "name": "阶跃星辰",
       "group": "国内模型与科研软件",
@@ -1709,6 +1892,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s03-12",
       "name": "百川智能",
       "group": "国内模型与科研软件",
@@ -1737,6 +1923,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s03-13",
       "name": "零一万物",
       "group": "国内模型与科研软件",
@@ -1765,6 +1954,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s04-01",
       "name": "镁伽科技 MegaRobo",
       "group": "实验自动化与仪器",
@@ -1793,6 +1985,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s04-02",
       "name": "奔曜科技 Bioyond",
       "group": "实验自动化与仪器",
@@ -1821,6 +2016,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s04-03",
       "name": "汇像科技 XImaging",
       "group": "实验自动化与仪器",
@@ -1849,6 +2047,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s04-04",
       "name": "华大智造 MGI",
       "group": "实验自动化与仪器",
@@ -1877,6 +2078,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s04-05",
       "name": "晶泰科技 XtalPi",
       "group": "实验自动化与仪器",
@@ -1895,16 +2099,19 @@
       "sourceKey": "s04-05",
       "groupName": "实验自动化与仪器",
       "enabled": true,
-      "crawlStrategy": "auto",
-      "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-17T01:27:13.399Z",
-      "lastSuccessAt": "2026-09-16T06:05:27.663Z",
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:27:13.399Z",
-      "lastError": "network_error"
+      "crawlStrategy": "rss",
+      "discoveredFeedUrl": "https://www.xtalpi.com/feed/",
+      "crawlStatus": "ok",
+      "lastCrawlAt": "2026-09-17T02:33:56.953Z",
+      "lastSuccessAt": "2026-09-17T02:33:58.338Z",
+      "lastDiagnostic": "发现 10 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-17T02:33:56.953Z",
+      "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s04-06",
       "name": "创材深造 Deep Material",
       "group": "实验自动化与仪器",
@@ -1933,6 +2140,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s04-07",
       "name": "深势科技实验自动化",
       "group": "实验自动化与仪器",
@@ -1961,6 +2171,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s04-08",
       "name": "睿科集团 RayKol",
       "group": "实验自动化与仪器",
@@ -1989,6 +2202,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s04-09",
       "name": "聚光科技 FPI",
       "group": "实验自动化与仪器",
@@ -2017,6 +2233,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s04-10",
       "name": "禾信仪器 Hexin",
       "group": "实验自动化与仪器",
@@ -2045,6 +2264,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s04-11",
       "name": "汉邦科技 Hanbon",
       "group": "实验自动化与仪器",
@@ -2073,6 +2295,9 @@
       "lastError": ""
     },
     {
+      "failureType": "dns_error",
+      "repairSuggestion": "check_dns",
+      "autoRepairAvailable": false,
       "id": "s04-12",
       "name": "赛桥生物",
       "group": "实验自动化与仪器",
@@ -2096,11 +2321,14 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-17T01:27:12.366Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:27:12.366Z",
+      "lastDiagnostic": "诊断：dns_error；建议：check_dns；尚未重新抓取正文。",
+      "lastCheckAt": "2026-09-17T02:28:18.773Z",
       "lastError": "network_error"
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s05-01",
       "name": "宜宾市新能源新材料数智创新中心（深势科技宜宾）",
       "group": "自主实验室与平台",
@@ -2129,6 +2357,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s05-02",
       "name": "中国科大机器人化学家实验室",
       "group": "自主实验室与平台",
@@ -2157,6 +2388,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s05-03",
       "name": "朱宸课题组AI自动化化学实验室",
       "group": "自主实验室与平台",
@@ -2185,6 +2419,9 @@
       "lastError": ""
     },
     {
+      "failureType": "https_error",
+      "repairSuggestion": "check_robots",
+      "autoRepairAvailable": false,
       "id": "s05-04",
       "name": "自驱动科学实验系统",
       "group": "自主实验室与平台",
@@ -2208,11 +2445,14 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-17T01:27:13.441Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:27:13.441Z",
+      "lastDiagnostic": "诊断：https_error；建议：check_robots；尚未重新抓取正文。",
+      "lastCheckAt": "2026-09-17T02:28:18.791Z",
       "lastError": "network_error"
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s05-05",
       "name": "AI原生自主生物分子实验室",
       "group": "自主实验室与平台",
@@ -2241,6 +2481,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s05-06",
       "name": "自动化合成生物学系统（Biofoundry）",
       "group": "自主实验室与平台",
@@ -2269,6 +2512,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s05-07",
       "name": "智能化自动化合成生物平台",
       "group": "自主实验室与平台",
@@ -2297,6 +2543,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s05-08",
       "name": "国家合成生物技术创新中心/生物铸造平台",
       "group": "自主实验室与平台",
@@ -2325,6 +2574,9 @@
       "lastError": ""
     },
     {
+      "failureType": "dns_error",
+      "repairSuggestion": "check_dns",
+      "autoRepairAvailable": false,
       "id": "s05-09",
       "name": "合成生物学海河实验室",
       "group": "自主实验室与平台",
@@ -2348,11 +2600,14 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-17T01:27:13.603Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:27:13.603Z",
+      "lastDiagnostic": "诊断：dns_error；建议：check_dns；尚未重新抓取正文。",
+      "lastCheckAt": "2026-09-17T02:28:19.011Z",
       "lastError": "network_error"
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s05-10",
       "name": "深圳合成生物研究重大科技基础设施",
       "group": "自主实验室与平台",
@@ -2381,6 +2636,9 @@
       "lastError": ""
     },
     {
+      "failureType": "dns_error",
+      "repairSuggestion": "check_dns",
+      "autoRepairAvailable": false,
       "id": "s05-11",
       "name": "北京科学智能研究院",
       "group": "自主实验室与平台",
@@ -2404,11 +2662,14 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-17T01:27:34.033Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:27:34.033Z",
+      "lastDiagnostic": "诊断：dns_error；建议：check_dns；尚未重新抓取正文。",
+      "lastCheckAt": "2026-09-17T02:28:19.028Z",
       "lastError": "network_error"
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s05-12",
       "name": "苏州国家实验室",
       "group": "自主实验室与平台",
@@ -2437,6 +2698,9 @@
       "lastError": ""
     },
     {
+      "failureType": "network_error",
+      "repairSuggestion": "check_robots",
+      "autoRepairAvailable": false,
       "id": "s05-13",
       "name": "姑苏实验室",
       "group": "自主实验室与平台",
@@ -2460,11 +2724,14 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-17T01:27:35.399Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:27:35.399Z",
+      "lastDiagnostic": "诊断：network_error；建议：check_robots；尚未重新抓取正文。",
+      "lastCheckAt": "2026-09-17T02:28:19.128Z",
       "lastError": "network_error"
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s05-14",
       "name": "深圳湾实验室",
       "group": "自主实验室与平台",
@@ -2493,6 +2760,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s05-15",
       "name": "昌平实验室",
       "group": "自主实验室与平台",
@@ -2521,6 +2791,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s05-16",
       "name": "上海人工智能实验室科学智能方向",
       "group": "自主实验室与平台",
@@ -2549,6 +2822,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s05-17",
       "name": "松山湖材料实验室",
       "group": "自主实验室与平台",
@@ -2577,6 +2853,9 @@
       "lastError": ""
     },
     {
+      "failureType": "dns_error",
+      "repairSuggestion": "check_dns",
+      "autoRepairAvailable": false,
       "id": "s05-18",
       "name": "北京材料基因工程高精尖创新中心",
       "group": "自主实验室与平台",
@@ -2600,11 +2879,14 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-17T01:27:36.122Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:27:36.122Z",
+      "lastDiagnostic": "诊断：dns_error；建议：check_dns；尚未重新抓取正文。",
+      "lastCheckAt": "2026-09-17T02:28:19.523Z",
       "lastError": "network_error"
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s05-19",
       "name": "中科院大连化物所高通量实验与催化平台",
       "group": "自主实验室与平台",
@@ -2633,6 +2915,9 @@
       "lastError": ""
     },
     {
+      "failureType": "https_error",
+      "repairSuggestion": "check_robots",
+      "autoRepairAvailable": false,
       "id": "s05-20",
       "name": "上海药物所国家新药筛选中心",
       "group": "自主实验室与平台",
@@ -2656,11 +2941,14 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-17T01:27:37.051Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:27:37.051Z",
+      "lastDiagnostic": "诊断：https_error；建议：check_robots；尚未重新抓取正文。",
+      "lastCheckAt": "2026-09-17T02:28:19.657Z",
       "lastError": "network_error"
     },
     {
+      "failureType": "dns_error",
+      "repairSuggestion": "check_dns",
+      "autoRepairAvailable": false,
       "id": "s05-21",
       "name": "广州实验室",
       "group": "自主实验室与平台",
@@ -2684,11 +2972,14 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-17T01:27:33.886Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:27:33.886Z",
+      "lastDiagnostic": "诊断：dns_error；建议：check_dns；尚未重新抓取正文。",
+      "lastCheckAt": "2026-09-17T02:28:19.848Z",
       "lastError": "network_error"
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s05-22",
       "name": "之江实验室智能计算研究平台",
       "group": "自主实验室与平台",
@@ -2717,6 +3008,9 @@
       "lastError": ""
     },
     {
+      "failureType": "http_500",
+      "repairSuggestion": "check_robots",
+      "autoRepairAvailable": false,
       "id": "s05-23",
       "name": "西湖大学蛋白质组学与大数据平台",
       "group": "自主实验室与平台",
@@ -2740,11 +3034,14 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-17T01:27:33.886Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:27:33.886Z",
+      "lastDiagnostic": "诊断：http_500；建议：check_robots；尚未重新抓取正文。",
+      "lastCheckAt": "2026-09-17T02:28:20.331Z",
       "lastError": "network_error"
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s05-24",
       "name": "国家基因库生命大数据与测序平台",
       "group": "自主实验室与平台",
@@ -2773,6 +3070,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s05-25",
       "name": "智科特自驱动科学实验室",
       "group": "自主实验室与平台",
@@ -2801,6 +3101,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s05-26",
       "name": "东阳光×深势科技联合实验室",
       "group": "自主实验室与平台",
@@ -2829,6 +3132,9 @@
       "lastError": ""
     },
     {
+      "failureType": "dns_error",
+      "repairSuggestion": "check_dns",
+      "autoRepairAvailable": false,
       "id": "s06-01",
       "name": "恒瑞医药",
       "group": "下游客户与应用方",
@@ -2852,11 +3158,14 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-17T01:27:37.251Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:27:37.251Z",
+      "lastDiagnostic": "诊断：dns_error；建议：check_dns；尚未重新抓取正文。",
+      "lastCheckAt": "2026-09-17T02:28:20.591Z",
       "lastError": "network_error"
     },
     {
+      "failureType": "timeout",
+      "repairSuggestion": "check_robots",
+      "autoRepairAvailable": false,
       "id": "s06-02",
       "name": "百济神州",
       "group": "下游客户与应用方",
@@ -2880,11 +3189,14 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-17T01:27:37.918Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:27:37.918Z",
+      "lastDiagnostic": "诊断：timeout；建议：check_robots；尚未重新抓取正文。",
+      "lastCheckAt": "2026-09-17T02:28:20.728Z",
       "lastError": "network_error"
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s06-03",
       "name": "药明康德",
       "group": "下游客户与应用方",
@@ -2913,6 +3225,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s06-04",
       "name": "东阳光",
       "group": "下游客户与应用方",
@@ -2931,16 +3246,19 @@
       "sourceKey": "s06-04",
       "groupName": "下游客户与应用方",
       "enabled": true,
-      "crawlStrategy": "auto",
-      "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-17T01:27:39.156Z",
-      "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:27:39.156Z",
-      "lastError": "network_error"
+      "crawlStrategy": "sitemap",
+      "discoveredFeedUrl": "https://www.hec.cn/sitemap.xml",
+      "crawlStatus": "ok",
+      "lastCrawlAt": "2026-09-17T02:33:58.593Z",
+      "lastSuccessAt": "2026-09-17T02:34:00.378Z",
+      "lastDiagnostic": "发现 100 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-17T02:33:58.593Z",
+      "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s06-05",
       "name": "宁德时代",
       "group": "下游客户与应用方",
@@ -2969,6 +3287,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s06-06",
       "name": "比亚迪",
       "group": "下游客户与应用方",
@@ -2997,6 +3318,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s06-07",
       "name": "万华化学",
       "group": "下游客户与应用方",
@@ -3025,6 +3349,9 @@
       "lastError": ""
     },
     {
+      "failureType": "timeout",
+      "repairSuggestion": "check_robots",
+      "autoRepairAvailable": false,
       "id": "s06-08",
       "name": "中国石化石科院",
       "group": "下游客户与应用方",
@@ -3048,11 +3375,14 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-17T01:27:41.367Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:27:41.367Z",
+      "lastDiagnostic": "诊断：timeout；建议：check_robots；尚未重新抓取正文。",
+      "lastCheckAt": "2026-09-17T02:28:27.013Z",
       "lastError": "network_error"
     },
     {
+      "failureType": "timeout",
+      "repairSuggestion": "check_robots",
+      "autoRepairAvailable": false,
       "id": "s06-09",
       "name": "石药集团",
       "group": "下游客户与应用方",
@@ -3076,11 +3406,14 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-17T01:27:33.886Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:27:33.886Z",
+      "lastDiagnostic": "诊断：timeout；建议：check_robots；尚未重新抓取正文。",
+      "lastCheckAt": "2026-09-17T02:28:28.183Z",
       "lastError": "network_error"
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s06-10",
       "name": "国轩高科",
       "group": "下游客户与应用方",
@@ -3109,6 +3442,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s06-11",
       "name": "亿纬锂能",
       "group": "下游客户与应用方",
@@ -3137,6 +3473,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s06-12",
       "name": "中国宝武中央研究院",
       "group": "下游客户与应用方",
@@ -3165,6 +3504,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s07-01",
       "name": "浦江实验室",
       "group": "科学数据库与平台",
@@ -3193,6 +3535,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s07-02",
       "name": "书生科学发现平台 Intern-Discovery",
       "group": "科学数据库与平台",
@@ -3221,6 +3566,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s07-03",
       "name": "磐石（ScienceOne）科研智能平台",
       "group": "科学数据库与平台",
@@ -3249,6 +3597,9 @@
       "lastError": ""
     },
     {
+      "failureType": "network_error",
+      "repairSuggestion": "check_robots",
+      "autoRepairAvailable": false,
       "id": "s07-04",
       "name": "Science Data Bank（ScienceDB）",
       "group": "科学数据库与平台",
@@ -3272,11 +3623,14 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-17T01:27:33.886Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:27:33.886Z",
+      "lastDiagnostic": "诊断：network_error；建议：check_robots；尚未重新抓取正文。",
+      "lastCheckAt": "2026-09-17T02:28:28.743Z",
       "lastError": "network_error"
     },
     {
+      "failureType": "network_error",
+      "repairSuggestion": "manual_config",
+      "autoRepairAvailable": false,
       "id": "s07-05",
       "name": "国家基因组科学数据中心 NGDC",
       "group": "科学数据库与平台",
@@ -3300,11 +3654,14 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-17T01:27:48.819Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:27:48.819Z",
+      "lastDiagnostic": "诊断：network_error；建议：manual_config；尚未重新抓取正文。",
+      "lastCheckAt": "2026-09-17T02:28:28.925Z",
       "lastError": "network_error"
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s07-06",
       "name": "国家基础学科公共科学数据中心",
       "group": "科学数据库与平台",
@@ -3333,6 +3690,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s07-07",
       "name": "中国科学院科学数据中心体系",
       "group": "科学数据库与平台",
@@ -3361,6 +3721,9 @@
       "lastError": ""
     },
     {
+      "failureType": "http_403",
+      "repairSuggestion": "check_robots",
+      "autoRepairAvailable": false,
       "id": "s07-08",
       "name": "国家人口健康科学数据中心",
       "group": "科学数据库与平台",
@@ -3384,11 +3747,14 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-17T01:27:49.687Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:27:49.687Z",
+      "lastDiagnostic": "诊断：http_403；建议：check_robots；尚未重新抓取正文。",
+      "lastCheckAt": "2026-09-17T02:28:30.764Z",
       "lastError": "network_error"
     },
     {
+      "failureType": "timeout",
+      "repairSuggestion": "check_robots",
+      "autoRepairAvailable": false,
       "id": "s07-09",
       "name": "国家材料科学数据中心",
       "group": "科学数据库与平台",
@@ -3412,11 +3778,14 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-17T01:27:51.719Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:27:51.719Z",
+      "lastDiagnostic": "诊断：timeout；建议：check_robots；尚未重新抓取正文。",
+      "lastCheckAt": "2026-09-17T02:28:31.018Z",
       "lastError": "network_error"
     },
     {
+      "failureType": "cloudflare_blocked",
+      "repairSuggestion": "check_robots",
+      "autoRepairAvailable": false,
       "id": "s07-10",
       "name": "Materials Project",
       "group": "科学数据库与平台",
@@ -3440,11 +3809,14 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-17T01:27:52.295Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:27:52.295Z",
+      "lastDiagnostic": "诊断：cloudflare_blocked；建议：check_robots；尚未重新抓取正文。",
+      "lastCheckAt": "2026-09-17T02:28:35.028Z",
       "lastError": "network_error"
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s07-11",
       "name": "PubChem",
       "group": "科学数据库与平台",
@@ -3473,6 +3845,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s07-12",
       "name": "ChEMBL",
       "group": "科学数据库与平台",
@@ -3501,6 +3876,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s07-13",
       "name": "RCSB Protein Data Bank",
       "group": "科学数据库与平台",
@@ -3529,6 +3907,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s07-14",
       "name": "UniProt",
       "group": "科学数据库与平台",
@@ -3557,6 +3938,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s07-15",
       "name": "ClinicalTrials.gov",
       "group": "科学数据库与平台",
@@ -3585,6 +3969,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s08-01",
       "name": "科学技术部",
       "group": "政策项目与采购",
@@ -3613,6 +4000,9 @@
       "lastError": ""
     },
     {
+      "failureType": "network_error",
+      "repairSuggestion": "check_robots",
+      "autoRepairAvailable": false,
       "id": "s08-02",
       "name": "国家自然科学基金委员会",
       "group": "政策项目与采购",
@@ -3636,11 +4026,14 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-17T01:27:52.421Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:27:52.421Z",
+      "lastDiagnostic": "诊断：network_error；建议：check_robots；尚未重新抓取正文。",
+      "lastCheckAt": "2026-09-17T02:28:36.195Z",
       "lastError": "network_error"
     },
     {
+      "failureType": "http_403",
+      "repairSuggestion": "check_robots",
+      "autoRepairAvailable": false,
       "id": "s08-03",
       "name": "国家发展和改革委员会",
       "group": "政策项目与采购",
@@ -3664,11 +4057,14 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-17T01:27:52.517Z",
       "lastSuccessAt": "2026-09-16T06:57:51.541Z",
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:27:52.517Z",
+      "lastDiagnostic": "诊断：http_403；建议：check_robots；尚未重新抓取正文。",
+      "lastCheckAt": "2026-09-17T02:28:36.461Z",
       "lastError": "network_error"
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s08-04",
       "name": "工业和信息化部",
       "group": "政策项目与采购",
@@ -3697,6 +4093,9 @@
       "lastError": ""
     },
     {
+      "failureType": "http_404",
+      "repairSuggestion": "manual_config",
+      "autoRepairAvailable": false,
       "id": "s08-05",
       "name": "国家数据局",
       "group": "政策项目与采购",
@@ -3720,11 +4119,14 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-17T01:27:53.194Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:27:53.194Z",
+      "lastDiagnostic": "诊断：http_404；建议：manual_config；尚未重新抓取正文。",
+      "lastCheckAt": "2026-09-17T02:28:36.647Z",
       "lastError": "network_error"
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s08-06",
       "name": "中国科学院",
       "group": "政策项目与采购",
@@ -3753,6 +4155,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s08-07",
       "name": "中国政府采购网",
       "group": "政策项目与采购",
@@ -3781,6 +4186,9 @@
       "lastError": ""
     },
     {
+      "failureType": "http_404",
+      "repairSuggestion": "manual_config",
+      "autoRepairAvailable": false,
       "id": "s08-08",
       "name": "全国公共资源交易平台",
       "group": "政策项目与采购",
@@ -3804,11 +4212,14 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-17T01:27:48.819Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:27:48.819Z",
+      "lastDiagnostic": "诊断：http_404；建议：manual_config；尚未重新抓取正文。",
+      "lastCheckAt": "2026-09-17T02:28:36.701Z",
       "lastError": "network_error"
     },
     {
+      "failureType": "invalid_url",
+      "repairSuggestion": "manual_config",
+      "autoRepairAvailable": false,
       "id": "s08-09",
       "name": "省市科技主管部门",
       "group": "政策项目与采购",
@@ -3832,11 +4243,14 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-17T01:27:48.819Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:27:48.819Z",
+      "lastDiagnostic": "诊断：invalid_url；建议：manual_config；尚未重新抓取正文。",
+      "lastCheckAt": "2026-09-17T02:28:39.028Z",
       "lastError": "network_error"
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s08-10",
       "name": "教育部",
       "group": "政策项目与采购",
@@ -3865,6 +4279,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s08-11",
       "name": "国家药品监督管理局药审中心 CDE",
       "group": "政策项目与采购",
@@ -3893,6 +4310,9 @@
       "lastError": ""
     },
     {
+      "failureType": "http_412",
+      "repairSuggestion": "manual_config",
+      "autoRepairAvailable": false,
       "id": "s08-12",
       "name": "国家药品监督管理局",
       "group": "政策项目与采购",
@@ -3916,11 +4336,14 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-17T01:27:48.819Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:27:48.819Z",
+      "lastDiagnostic": "诊断：http_412；建议：manual_config；尚未重新抓取正文。",
+      "lastCheckAt": "2026-09-17T02:28:39.028Z",
       "lastError": "network_error"
     },
     {
+      "failureType": "http_403",
+      "repairSuggestion": "manual_config",
+      "autoRepairAvailable": false,
       "id": "s10-01",
       "name": "科学智能大会（AI for Science Conference）",
       "group": "国内学会与学术活动",
@@ -3944,11 +4367,14 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-17T01:27:48.819Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:27:48.819Z",
+      "lastDiagnostic": "诊断：http_403；建议：manual_config；尚未重新抓取正文。",
+      "lastCheckAt": "2026-09-17T02:28:39.758Z",
       "lastError": "network_error"
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s10-02",
       "name": "世界人工智能大会 WAIC",
       "group": "国内学会与学术活动",
@@ -3977,6 +4403,9 @@
       "lastError": ""
     },
     {
+      "failureType": "http_403",
+      "repairSuggestion": "manual_config",
+      "autoRepairAvailable": false,
       "id": "s10-03",
       "name": "中国化学会学术年会",
       "group": "国内学会与学术活动",
@@ -4000,11 +4429,14 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-17T01:28:15.813Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:28:15.813Z",
+      "lastDiagnostic": "诊断：http_403；建议：manual_config；尚未重新抓取正文。",
+      "lastCheckAt": "2026-09-17T02:28:41.329Z",
       "lastError": "network_error"
     },
     {
+      "failureType": "https_error",
+      "repairSuggestion": "check_robots",
+      "autoRepairAvailable": false,
       "id": "s10-04",
       "name": "中国材料大会",
       "group": "国内学会与学术活动",
@@ -4028,11 +4460,14 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-17T01:28:15.825Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:28:15.825Z",
+      "lastDiagnostic": "诊断：https_error；建议：check_robots；尚未重新抓取正文。",
+      "lastCheckAt": "2026-09-17T02:28:41.591Z",
       "lastError": "network_error"
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s10-05",
       "name": "中国人工智能大会 CCAI",
       "group": "国内学会与学术活动",
@@ -4061,6 +4496,9 @@
       "lastError": ""
     },
     {
+      "failureType": "no_public_entry",
+      "repairSuggestion": "manual_config",
+      "autoRepairAvailable": false,
       "id": "s10-06",
       "name": "中国自动化大会 CAC",
       "group": "国内学会与学术活动",
@@ -4084,11 +4522,14 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-17T01:28:17.851Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:28:17.851Z",
+      "lastDiagnostic": "诊断：no_public_entry；建议：manual_config；尚未重新抓取正文。",
+      "lastCheckAt": "2026-09-17T02:28:41.722Z",
       "lastError": "network_error"
     },
     {
+      "failureType": "http_403",
+      "repairSuggestion": "check_robots",
+      "autoRepairAvailable": false,
       "id": "s10-07",
       "name": "中国化工学会能源、材料与化工学术会议",
       "group": "国内学会与学术活动",
@@ -4112,11 +4553,14 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-17T01:28:18.019Z",
       "lastSuccessAt": "2026-09-16T07:35:31.203Z",
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:28:18.019Z",
+      "lastDiagnostic": "诊断：http_403；建议：check_robots；尚未重新抓取正文。",
+      "lastCheckAt": "2026-09-17T02:28:42.382Z",
       "lastError": "network_error"
     },
     {
+      "failureType": "no_public_entry",
+      "repairSuggestion": "manual_config",
+      "autoRepairAvailable": false,
       "id": "s10-08",
       "name": "AIM-S&C人工智能分子合成与催化研讨会",
       "group": "国内学会与学术活动",
@@ -4140,11 +4584,14 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-17T01:28:20.056Z",
       "lastSuccessAt": "2026-09-16T21:25:04.698Z",
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:28:20.056Z",
+      "lastDiagnostic": "诊断：no_public_entry；建议：manual_config；尚未重新抓取正文。",
+      "lastCheckAt": "2026-09-17T02:28:42.656Z",
       "lastError": "network_error"
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s10-09",
       "name": "北京分析测试学术报告会暨展览会 BCEIA",
       "group": "国内学会与学术活动",
@@ -4173,6 +4620,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s10-10",
       "name": "慕尼黑上海分析生化展 analytica China",
       "group": "国内学会与学术活动",
@@ -4201,6 +4651,9 @@
       "lastError": ""
     },
     {
+      "failureType": "dns_error",
+      "repairSuggestion": "check_dns",
+      "autoRepairAvailable": false,
       "id": "s10-11",
       "name": "中国生物信息学大会",
       "group": "国内学会与学术活动",
@@ -4224,11 +4677,14 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-17T01:28:20.806Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:28:20.806Z",
+      "lastDiagnostic": "诊断：dns_error；建议：check_dns；尚未重新抓取正文。",
+      "lastCheckAt": "2026-09-17T02:28:44.195Z",
       "lastError": "network_error"
     },
     {
+      "failureType": "https_error",
+      "repairSuggestion": "check_robots",
+      "autoRepairAvailable": false,
       "id": "s10-12",
       "name": "全国合成生物学大会",
       "group": "国内学会与学术活动",
@@ -4252,11 +4708,14 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-17T01:28:20.820Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:28:20.820Z",
+      "lastDiagnostic": "诊断：https_error；建议：check_robots；尚未重新抓取正文。",
+      "lastCheckAt": "2026-09-17T02:28:44.217Z",
       "lastError": "network_error"
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s10-13",
       "name": "全国药物化学学术会议",
       "group": "国内学会与学术活动",
@@ -4285,6 +4744,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s10-14",
       "name": "中国计算机大会 CNCC",
       "group": "国内学会与学术活动",
@@ -4313,6 +4775,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s10-15",
       "name": "CACLP中国国际检验医学暨输血仪器试剂博览会",
       "group": "国内学会与学术活动",
@@ -4341,6 +4806,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s10-16",
       "name": "CPHI China",
       "group": "国内学会与学术活动",
@@ -4369,6 +4837,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s10-17",
       "name": "BIONNOVA生物医药创新者论坛",
       "group": "国内学会与学术活动",
@@ -4397,6 +4868,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s10-18",
       "name": "中国药学大会",
       "group": "国内学会与学术活动",
@@ -4425,6 +4899,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s10-19",
       "name": "浦江创新论坛",
       "group": "国内学会与学术活动",
@@ -4453,6 +4930,9 @@
       "lastError": ""
     },
     {
+      "failureType": "network_error",
+      "repairSuggestion": "check_robots",
+      "autoRepairAvailable": false,
       "id": "s10-20",
       "name": "中关村论坛",
       "group": "国内学会与学术活动",
@@ -4476,11 +4956,14 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-17T01:28:14.361Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:28:14.361Z",
+      "lastDiagnostic": "诊断：network_error；建议：check_robots；尚未重新抓取正文。",
+      "lastCheckAt": "2026-09-17T02:28:44.581Z",
       "lastError": "network_error"
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s10-21",
       "name": "人工智能赋能科学发现与创新国际会议（AI4Science）",
       "group": "国内学会与学术活动",
@@ -4509,6 +4992,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s11-01",
       "name": "Research Data Alliance (RDA)",
       "group": "国际标准学会与活动",
@@ -4537,6 +5023,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s11-02",
       "name": "Allotrope Foundation",
       "group": "国际标准学会与活动",
@@ -4555,16 +5044,19 @@
       "sourceKey": "s11-02",
       "groupName": "国际标准学会与活动",
       "enabled": true,
-      "crawlStrategy": "auto",
-      "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-17T01:28:21.065Z",
-      "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:28:21.065Z",
-      "lastError": "network_error"
+      "crawlStrategy": "sitemap",
+      "discoveredFeedUrl": "https://allotropefoundation.org/wp-sitemap.xml",
+      "crawlStatus": "ok",
+      "lastCrawlAt": "2026-09-17T02:34:00.610Z",
+      "lastSuccessAt": "2026-09-17T02:34:05.108Z",
+      "lastDiagnostic": "发现 4 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-17T02:34:00.610Z",
+      "lastError": ""
     },
     {
+      "failureType": "cloudflare_blocked",
+      "repairSuggestion": "check_robots",
+      "autoRepairAvailable": false,
       "id": "s11-03",
       "name": "SiLA Consortium",
       "group": "国际标准学会与活动",
@@ -4588,11 +5080,14 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-17T01:28:14.361Z",
       "lastSuccessAt": "2026-09-16T07:35:34.193Z",
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:28:14.361Z",
+      "lastDiagnostic": "诊断：cloudflare_blocked；建议：check_robots；尚未重新抓取正文。",
+      "lastCheckAt": "2026-09-17T02:28:45.935Z",
       "lastError": "network_error"
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s11-04",
       "name": "GA4GH",
       "group": "国际标准学会与活动",
@@ -4621,6 +5116,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s11-05",
       "name": "Pistoia Alliance",
       "group": "国际标准学会与活动",
@@ -4649,6 +5147,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s11-06",
       "name": "SLAS International Conference and Exhibition",
       "group": "国际标准学会与活动",
@@ -4677,6 +5178,9 @@
       "lastError": ""
     },
     {
+      "failureType": "http_404",
+      "repairSuggestion": "manual_config",
+      "autoRepairAvailable": false,
       "id": "s11-07",
       "name": "NeurIPS",
       "group": "国际标准学会与活动",
@@ -4700,11 +5204,14 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-17T01:28:14.361Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:28:14.361Z",
+      "lastDiagnostic": "诊断：http_404；建议：manual_config；尚未重新抓取正文。",
+      "lastCheckAt": "2026-09-17T02:28:46.360Z",
       "lastError": "network_error"
     },
     {
+      "failureType": "http_404",
+      "repairSuggestion": "manual_config",
+      "autoRepairAvailable": false,
       "id": "s11-08",
       "name": "ICLR",
       "group": "国际标准学会与活动",
@@ -4728,11 +5235,14 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-17T01:28:14.361Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:28:14.361Z",
+      "lastDiagnostic": "诊断：http_404；建议：manual_config；尚未重新抓取正文。",
+      "lastCheckAt": "2026-09-17T02:28:49.541Z",
       "lastError": "network_error"
     },
     {
+      "failureType": "http_404",
+      "repairSuggestion": "manual_config",
+      "autoRepairAvailable": false,
       "id": "s11-09",
       "name": "ICML",
       "group": "国际标准学会与活动",
@@ -4756,11 +5266,14 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-17T01:28:28.463Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:28:28.463Z",
+      "lastDiagnostic": "诊断：http_404；建议：manual_config；尚未重新抓取正文。",
+      "lastCheckAt": "2026-09-17T02:28:58.676Z",
       "lastError": "network_error"
     },
     {
+      "failureType": "http_404",
+      "repairSuggestion": "manual_config",
+      "autoRepairAvailable": false,
       "id": "s11-10",
       "name": "ISMB",
       "group": "国际标准学会与活动",
@@ -4784,11 +5297,14 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-17T01:28:28.463Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:28:28.463Z",
+      "lastDiagnostic": "诊断：http_404；建议：manual_config；尚未重新抓取正文。",
+      "lastCheckAt": "2026-09-17T02:29:00.881Z",
       "lastError": "network_error"
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s11-11",
       "name": "ACS Spring/Fall Meetings",
       "group": "国际标准学会与活动",
@@ -4817,6 +5333,9 @@
       "lastError": ""
     },
     {
+      "failureType": "http_403",
+      "repairSuggestion": "manual_config",
+      "autoRepairAvailable": false,
       "id": "s11-12",
       "name": "Materials Research Society Meetings",
       "group": "国际标准学会与活动",
@@ -4840,11 +5359,14 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-17T01:28:29.178Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:28:29.178Z",
+      "lastDiagnostic": "诊断：http_403；建议：manual_config；尚未重新抓取正文。",
+      "lastCheckAt": "2026-09-17T02:29:02.080Z",
       "lastError": "network_error"
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s11-13",
       "name": "Bio-IT World Conference & Expo",
       "group": "国际标准学会与活动",
@@ -4873,6 +5395,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s11-14",
       "name": "Lab of the Future Congress",
       "group": "国际标准学会与活动",
@@ -4901,6 +5426,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s11-15",
       "name": "AAAI Conference on Artificial Intelligence",
       "group": "国际标准学会与活动",
@@ -4929,6 +5457,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s11-16",
       "name": "RECOMB",
       "group": "国际标准学会与活动",
@@ -4957,6 +5488,9 @@
       "lastError": ""
     },
     {
+      "failureType": "cloudflare_blocked",
+      "repairSuggestion": "check_robots",
+      "autoRepairAvailable": false,
       "id": "s11-17",
       "name": "AIChE Annual Meeting",
       "group": "国际标准学会与活动",
@@ -4980,11 +5514,14 @@
       "crawlStatus": "network_error",
       "lastCrawlAt": "2026-09-17T01:28:28.462Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:28:28.462Z",
+      "lastDiagnostic": "诊断：cloudflare_blocked；建议：check_robots；尚未重新抓取正文。",
+      "lastCheckAt": "2026-09-17T02:29:09.631Z",
       "lastError": "network_error"
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s11-18",
       "name": "Pittcon",
       "group": "国际标准学会与活动",
@@ -5013,6 +5550,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s11-19",
       "name": "analytica Munich",
       "group": "国际标准学会与活动",
@@ -5031,16 +5571,19 @@
       "sourceKey": "s11-19",
       "groupName": "国际标准学会与活动",
       "enabled": true,
-      "crawlStrategy": "auto",
-      "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-17T01:28:28.463Z",
-      "lastSuccessAt": null,
-      "lastDiagnostic": "采集失败；未绕过访问限制，下一轮重试",
-      "lastCheckAt": "2026-09-17T01:28:28.463Z",
-      "lastError": "network_error"
+      "crawlStrategy": "sitemap",
+      "discoveredFeedUrl": "https://analytica.de/sitemap.xml",
+      "crawlStatus": "ok",
+      "lastCrawlAt": "2026-09-17T02:34:05.318Z",
+      "lastSuccessAt": "2026-09-17T02:34:09.676Z",
+      "lastDiagnostic": "发现 8 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-17T02:34:05.318Z",
+      "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s11-20",
       "name": "SynBioBeta",
       "group": "国际标准学会与活动",
@@ -5069,6 +5612,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s11-21",
       "name": "ASMS Conference",
       "group": "国际标准学会与活动",
@@ -5097,6 +5643,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s11-22",
       "name": "ELRIG Drug Discovery",
       "group": "国际标准学会与活动",
@@ -5125,6 +5674,9 @@
       "lastError": ""
     },
     {
+      "failureType": "",
+      "repairSuggestion": "",
+      "autoRepairAvailable": false,
       "id": "s11-23",
       "name": "SciDataCon",
       "group": "国际标准学会与活动",
@@ -5153,5 +5705,5 @@
       "lastError": ""
     }
   ],
-  "updatedAt": "2026-09-17T01:28:30.001Z"
+  "updatedAt": "2026-09-17T02:34:09.796Z"
 }
