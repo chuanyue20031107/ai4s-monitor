@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "generator": "chatgpt-task",
+  "createdAt": "2026-09-18T04:18:28.248Z",
+  "analyses": [
+    {
+      "articleId": "099b10f76a9eb39a375e94338831f896",
+      "contentHash": "3d8dd55d83cc97edab6646a8dea3bb8eb959727b8639861d38919de0adab55f9",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-18T04:18:28.248Z",
+      "failureReason": "",
+      "category": "产业与商业",
+      "summary": "创材深造披露与盐边洽谈共建AI钒钛合金孵化及中试基地。公司介绍，M Lab将制样、加工、热处理、测试和数据回传连接为AI设计—机器人实验—模型更新流程，并自述已有超高强钛合金、高温合金实现吨级交付。新基地仍在场地勘测、方案细化与报批筹备阶段，不能视作已经投产。分析判断：值得跟踪的是自动化材料研发能否衔接中试放大，而不是把资源储量或建设意向当作技术成果。",
+      "score": 2,
+      "importanceReason": "具体描述了材料实验闭环与中试合作，但尚无新基地验收或性能对照数据。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "实验自动化",
+        "材料发现",
+        "商业合作"
+      ],
+      "limitations": "企业自述；未披露合金牌号、性能测试、产量口径或基地投产时间，不评价地方政策。",
+      "evidence": [
+        {
+          "url": "https://www.deep-material.com/qiyexinwen/84",
+          "quote": "其核心设施M Lab高通量自动化平台覆盖制样、加工、热处理、测试及数据回传全链条"
+        },
+        {
+          "url": "https://www.deep-material.com/qiyexinwen/84",
+          "quote": "加速推进场地勘测、方案细化、手续报批等前期筹备工作"
+        }
+      ]
+    },
+    {
+      "articleId": "0cb5a5ce9c391dc8b65747d39ca69b3d",
+      "contentHash": "565e61cf96b93e23cc6aba0200c532c16761930e96a3f1cbfbcce342cd3ddf77",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-18T04:18:28.248Z",
+      "failureReason": "",
+      "category": "模型",
+      "summary": "LMDeploy项目说明介绍了大模型压缩、部署和服务工具链，包含连续批处理、分块KV缓存、张量并行及权重/KV量化。项目自述请求吞吐最高达到vLLM的1.8倍，4位推理性能为FP16的2.4倍；更新记录还列出DeepSeek、视觉语言模型及混合精度支持。其对科学智能的价值是降低科研模型服务与迭代的推理成本，而非直接证明科学发现能力。上述加速数字来自项目说明，分别对应特定比较口径，不能合并为通用性能保证。",
+      "score": 2,
+      "importanceReason": "开源推理工程能力可支持科研模型部署，但摘录缺少完整评测配置与科学任务验证。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "模型"
+      ],
+      "limitations": "raw正文被截断，吞吐与量化比较缺少完整硬件、批量及精度损失条件；未证明具体AI4S任务收益。",
+      "evidence": [
+        {
+          "url": "https://github.com/InternLM/lmdeploy",
+          "quote": "LMDeploy is a toolkit for compressing, deploying, and serving LLM"
+        },
+        {
+          "url": "https://github.com/InternLM/lmdeploy",
+          "quote": "the 4-bit inference performance is 2.4x higher than FP16."
+        }
+      ]
+    },
+    {
+      "articleId": "12b60830d35343385f4d18f4e2ac13ab",
+      "contentHash": "a27e2a68f9e26bdeb691ba32d1cd08a119af8452fc3b3f69e0c8879cca0ba25d",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-18T04:18:28.248Z",
+      "failureReason": "",
+      "category": "模型",
+      "summary": "上海AI实验室在科学前沿论坛报道中发布Intern-S2-Preview-397B和书生·端砚科学发现平台。机构称模型采用视觉与语言互动预训练，以397B参数在分子设计、材料结构生成任务上追平其此前万亿参数模型；平台连接模型、专业工具、实验数据及自动化设备，覆盖假设到实验验证，并称已在六类科研领域落地。报道同时列出蛋白质、基因组和气象等联合成果。分析判断：重点是通用模型与实验验证链的整合，但这是发布方汇总，无法仅据“领先”描述确认泛化优势或自主发现成功率。",
+      "score": 3,
+      "importanceReason": "发布了具名科学模型和实验验证平台，技术覆盖明确，但比较结果仍缺完整原始评测。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "模型",
+        "实验自动化"
+      ],
+      "limitations": "会议报道且正文截断；未提供评测表、任务划分、对照条件及独立复现。仅评价技术信息，不对政策或政治人物评分。",
+      "evidence": [
+        {
+          "url": "https://www.shlab.org.cn/news/5444278",
+          "quote": "以397B参数规模在分子设计、材料结构生成等核心科学任务上追平实验室此前的 万亿参数模型"
+        },
+        {
+          "url": "https://www.shlab.org.cn/news/5444278",
+          "quote": "连接科学大模型、专业分析工具、实验数据与具身自动化设备"
+        }
+      ]
+    },
+    {
+      "articleId": "0733c7162da86c56421e53dc0b984510",
+      "contentHash": "7b95d8b53f9163d32575bf49959f8c6bda56efffe8c93f1175b51bc12780bde0",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T04:18:28.248Z",
+      "failureReason": "组织培训与学会管理通知，没有AI科研方法或成果。"
+    },
+    {
+      "articleId": "07e6fd1d86153ff0b820dc3e5ad6f27b",
+      "contentHash": "9fda634936694146417c1602cb971361f60dde792943ab2d730e80d4535dd305",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T04:18:28.248Z",
+      "failureReason": "研究院羽毛球赛事报道，与科学智能技术无关。"
+    },
+    {
+      "articleId": "0ab3ffc474e27e40e2ee55087663718b",
+      "contentHash": "b9db94f35dddb3dd54c149184969f10c5f8dc961925e2299e0d2662541ccea9c",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T04:18:28.248Z",
+      "failureReason": "隐私与监管论坛目录，未提供可分析的AI4S研究正文。"
+    },
+    {
+      "articleId": "0bc4a8de3a3af4e5447d277ade072a6f",
+      "contentHash": "549f44d12eb521c0e9263984e953b9de953258c38f8170dee362e5da0ffc2185",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T04:18:28.248Z",
+      "failureReason": "内容为溶剂竞争吸附与分子筛催化研究；分子动力学和表征本身不构成AI方法，未见AI或自动化实验贡献。"
+    },
+    {
+      "articleId": "0c6bce660c19ce97d40cf0753927fd1e",
+      "contentHash": "f275c8e84d441dc0a1464b1f089a68170f07c9bff7aa47c86bf74966831b7078",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T04:18:28.248Z",
+      "failureReason": "费托催化中试考核报道，未涉及AI方法或自主实验系统。"
+    },
+    {
+      "articleId": "0de6425364a6e13d17cae399bcd258dc",
+      "contentHash": "ddccea959695b48a6ad2a8ab2322e03a9b0dfb438de5b7599478458a5fb15067",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T04:18:28.248Z",
+      "failureReason": "青年项目申报资助通知，没有具体AI4S研究结果。"
+    },
+    {
+      "articleId": "1006a235cb8941542230bf2f5dc68357",
+      "contentHash": "7bb29277166ce505e60aba51ac6ad4065df0ed117b033b7cce2fb7fcaf5029bf",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T04:18:28.248Z",
+      "failureReason": "视频资源筛选目录，缺少具体视频研究正文，不把标题列表作为证据。"
+    },
+    {
+      "articleId": "10ac6d08fa51956e9c2e229cc244f840",
+      "contentHash": "c495e398fd8d881411420719874bb87377cb7230844bd3bb18e030d8f9dd111e",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T04:18:28.248Z",
+      "failureReason": "学会招聘流程公告，不是AI4S技术情报。"
+    },
+    {
+      "articleId": "121401d1255385021c33c3880e0eede7",
+      "contentHash": "40d1f8812d918382653614ea4c090d6ab36061db2a69d1e21f540976325ac3b3",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T04:18:28.248Z",
+      "failureReason": "蒸汽热泵工程样机报道；卡尔曼滤波与模型预测控制未说明使用机器学习，不能据此归为AI科研成果。"
+    }
+  ]
+}
