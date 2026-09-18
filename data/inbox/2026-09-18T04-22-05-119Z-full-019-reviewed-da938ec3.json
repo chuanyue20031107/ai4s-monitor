@@ -1,0 +1,191 @@
+{
+  "schemaVersion": 1,
+  "generator": "chatgpt-task",
+  "createdAt": "2026-09-18T04:22:05.119Z",
+  "analyses": [
+    {
+      "articleId": "1377828fa43a4108fbcc89dcbdbe20fb",
+      "contentHash": "b66a9a1ece700726550df366212643493bb89fa339a4755dd96efe5d470e1c88",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-18T04:22:05.119Z",
+      "failureReason": "",
+      "category": "自动化实验室",
+      "summary": "创材深造在获奖报道中自述，One-Person Lab能够自主执行物理实验，将算法预测、自动实验、数据回流和模型迭代连成闭环。公司称材料研发周期由传统5—10年缩短至数月，已有包括钛合金、铝合金和模具钢在内的13款合金商业化。对AI4S而言，可跟踪的技术点是物理实验反馈能否持续支持配方优化；获奖本身并非技术验证，“效率十倍以上”和规模化能力仍是企业口径。",
+      "score": 2,
+      "importanceReason": "给出了具名自主实验系统及商业化数量，但没有可复核的实验基线与产品指标。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "实验自动化",
+        "材料发现"
+      ],
+      "limitations": "不采信“全球首个”“唯一”等排他表述为已验证事实；缺研发周期定义、吞吐、成功率和第三方验收。",
+      "evidence": [
+        {
+          "url": "https://www.deep-material.com/qiyexinwen/89",
+          "quote": "发布了全球首个能自主执行物理实验的AI系统“One-Person Lab”"
+        },
+        {
+          "url": "https://www.deep-material.com/qiyexinwen/89",
+          "quote": "创材深造已完成超高强钛合金、铝合金、高温合金、模具钢等13款高端合金商业化落地"
+        }
+      ]
+    },
+    {
+      "articleId": "13868ba3abaeefadbdd691b0eff469fe",
+      "contentHash": "f39dc59a5e9782026275bdbf232a3eb99178de5db476792ca5edf5c54322cde8",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-18T04:22:05.119Z",
+      "failureReason": "",
+      "category": "自动化实验室",
+      "summary": "创材深造负责人在演讲中主张，以高通量自主实验补充模型训练所缺少的真实干预、失败案例和边界条件数据，并将物理约束、实验反馈、信息增益决策列为科学智能所需的工程能力。这是一份技术路线观点稿，未报告新模型或实验对照。分析判断：完整记录失败和条件有助于审查数据偏差，但文中关于合成数据必然信息闭合、真实实验是唯一可行路径及当前AI完全缺失相关能力的绝对论断，没有在这份正文中获得证明。",
+      "score": 1,
+      "importanceReason": "提出了具体数据闭环议题，但提供的是路线主张而非可验证的新实验结果。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "数据",
+        "实验自动化"
+      ],
+      "limitations": "演讲观点；没有数据集、消融实验或合成与真实数据的受控比较，不将信息论表述当作已证明结论。",
+      "evidence": [
+        {
+          "url": "https://www.deep-material.com/qiyexinwen/88",
+          "quote": "以低成本、高效率、标准化的方式持续产生具有完整记录（包括失败案例和边界条件）的真实物理数据"
+        },
+        {
+          "url": "https://www.deep-material.com/qiyexinwen/88",
+          "quote": "自主设计实验方案并评估其信息增益的决策能力"
+        }
+      ]
+    },
+    {
+      "articleId": "168259b200fd1da6c9d41fba5f53c55e",
+      "contentHash": "ed5d95c037a55e10c3ffddca3d2548069aab424596ca9c516a21737a5a56e400",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-18T04:22:05.119Z",
+      "failureReason": "",
+      "category": "模型",
+      "summary": "DeepSeek的V4预览发布说明介绍Pro与Flash两种模型，称采用token维度压缩结合DSA稀疏注意力，官方服务提供1M上下文，并同步开放权重。发布方自述Pro的推理和智能体能力提升，Flash以较小参数及激活规模换取效率，但高难任务仍有差距。对科研应用而言，长上下文与本地部署可支持文献和代码工作流；这篇说明没有给出科学任务的实验复现，不能把数学、STEM评测宣传直接等同于真实科学发现能力。",
+      "score": 2,
+      "importanceReason": "长上下文机制及开放部署对科研工具有基础价值，但当前正文缺少完整基准与科学验证。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "模型"
+      ],
+      "limitations": "按入库发布说明分析，API名称和时间不作实时可用性保证；缺注意力效率数字、评测表和独立验证。",
+      "evidence": [
+        {
+          "url": "https://www.deepseek.com/news/v4-preview/",
+          "quote": "在 token 维度进行压缩，结合 DSA 稀疏注意力（DeepSeek Sparse Attention）"
+        },
+        {
+          "url": "https://www.deepseek.com/news/v4-preview/",
+          "quote": "V4-Pro 与 V4-Flash 最大上下文长度为 1M"
+        }
+      ]
+    },
+    {
+      "articleId": "1a8b450d1ef0584d1332aff32d43a2ea",
+      "contentHash": "a617d5b7f1d8df881202a9b8bc6d70dde6d9620f3f141f15eba71a34c8da1a47",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-18T04:22:05.119Z",
+      "failureReason": "",
+      "category": "AI4S 应用",
+      "summary": "大连化物所等团队利用两类电动车队超过三年的运行数据，结合电池模型识别单体容量与内阻老化，再用神经网络将不同温度、荷电状态和运行条件下的估计映射至统一参照工况。研究报告，在统一退役阈值下，乘用车与公交车整包寿命相对包内平均单体寿命分别缩短17.7%和22.8%，全寿命能量资源利用率分别为80.7%和72.9%。这里的AI作用是减少工况差异对老化比较的干扰；结果支持按最弱单体评估整包，而不是证明某项AI控制已延长电池寿命。",
+      "score": 3,
+      "importanceReason": "真实长期车队数据结合神经网络归一化，给出了系统级寿命和利用率量化结果。",
+      "contentType": "paper_result",
+      "moatTags": [
+        "数据",
+        "模型"
+      ],
+      "limitations": "依据机构论文报道；未见车队样本量、网络误差或独立外部验证。损失依赖所研究车队和退役阈值，不能泛化为所有车辆。",
+      "evidence": [
+        {
+          "url": "https://www.dicp.ac.cn/xwdt/ttxw/202608/t20260826_8265372.html",
+          "quote": "随后利用神经网络将不同温度、荷电状态和运行条件下获得的估计结果映射至统一参照工况"
+        },
+        {
+          "url": "https://www.dicp.ac.cn/xwdt/ttxw/202608/t20260826_8265372.html",
+          "quote": "整包寿命分别缩短 17.7% 和 22.8%"
+        }
+      ]
+    },
+    {
+      "articleId": "14ce04a3cf8616479f75d8e5c6f0b22b",
+      "contentHash": "0e7af77a7179139d69d33ea827bbd2e06d680b51180a3d9d61d2901a6262f208",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T04:22:05.119Z",
+      "failureReason": "二氧化碳聚合工业装置进展，未披露AI研发方法或自主实验。"
+    },
+    {
+      "articleId": "15ab30b53b78c56be73f7084e13dbd69",
+      "contentHash": "9b045a359e71b652cf7dc30691737af1d4bf71f05068bbb777267e5ec54fab16",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T04:22:05.119Z",
+      "failureReason": "会议专题与日程介绍，未提供具体AI分析化学结果。"
+    },
+    {
+      "articleId": "1624806efd4aedebd0ceadd9d2e6f97a",
+      "contentHash": "a954137b5158ca6c20aac4ef90dd6cf97cbec1019737fb0e4aad5758b25b7542",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T04:22:05.119Z",
+      "failureReason": "科学家精神报告会新闻，不是科学智能技术成果。"
+    },
+    {
+      "articleId": "16a339fe911038b785319debb66da06d",
+      "contentHash": "30021d794ff6bc76ae14e73c7c2abe080c7f659c98ea294ea9b5ac40334f7127",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T04:22:05.119Z",
+      "failureReason": "研究中心宗旨简介，缺少具体研究方法与结果。"
+    },
+    {
+      "articleId": "19993a24a1c34f8f1b69030fcca010e7",
+      "contentHash": "e4a94e0e35fca2457dd1288bdc2ad9a0591324c531430af9c3d21415b8737d30",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T04:22:05.119Z",
+      "failureReason": "研究领域入口介绍，不是独立技术情报。"
+    },
+    {
+      "articleId": "19b209c177df553364ec4d13e2ca7b83",
+      "contentHash": "4a2b62660f74a0f230ce8087fddd6ccd5f2ff6773b4cb497141848d94d6281bc",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T04:22:05.119Z",
+      "failureReason": "商业赞助及伙伴目录，产品简介重复且混杂，不能据营销目录构造实验结论。"
+    },
+    {
+      "articleId": "19cc81b789f41c20af625a7ad52430b0",
+      "contentHash": "4920b54ec03227ef0abda2027102838253a1168a5ef493b0a07068cb454f3a9d",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T04:22:05.119Z",
+      "failureReason": "新闻索引混有CMS调试输出，未提供所列研究的有效正文。"
+    },
+    {
+      "articleId": "1bd1e0282854205230322776b41525f0",
+      "contentHash": "f8dd2d8779206725d5f3aba8ecf1df2e19541048b954267953a36dfa2d0bb891",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T04:22:05.119Z",
+      "failureReason": "外交会晤报道，与AI4S科学技术分析无关。"
+    },
+    {
+      "articleId": "1ccd1b4098a48844c7fc2fc2d1aa8017",
+      "contentHash": "e865b43d2220c6fae798b66593785a4444070382c3b610622fc446f3280bf5e5",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T04:22:05.119Z",
+      "failureReason": "期刊宗旨和编委介绍，无具体科学智能研究正文。"
+    },
+    {
+      "articleId": "1d0bc1625f3cca10d6943f72270b99e7",
+      "contentHash": "b118ca5cd8ab868d34dbf9b22f24f62c89707214e8f60ab2f1b4b3f42e7f0f73",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T04:22:05.119Z",
+      "failureReason": "铷铯萃取分离工业示范线报道，没有AI或自主实验方法。"
+    },
+    {
+      "articleId": "1e5b3eefb062c6f95060a9dbc71d6b19",
+      "contentHash": "76cad24ef048e41ac7d7fe7c2688870cf69d868e968f00b9c0f5000b3bf0c04f",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T04:22:05.119Z",
+      "failureReason": "团队与研究员名录介绍，方向与计划不等于已完成技术成果。"
+    }
+  ]
+}
