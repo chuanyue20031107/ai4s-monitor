@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 1,
+  "generator": "chatgpt-task",
+  "createdAt": "2026-09-18T01:26:14.881Z",
+  "analyses": [
+    {
+      "articleId": "a9d72a37dea2e2a913eb90fe361bd0d9",
+      "contentHash": "b1fd800090ed827e367d6f2db0851eb8d583750aeff844ac2568bf43a13c66da",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T01:26:14.881Z",
+      "failureReason": "Meta AI研究首页只有通用模型名称和一句元描述，没有科学应用或实验结果。"
+    },
+    {
+      "articleId": "95b1f8590a9bfa6b73c50b26f4b52f6f",
+      "contentHash": "a25112ad9cb0aa6c0d14655b23adfbcd17f7aa9fe1f7666b3501c663c15a4d59",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-18T01:26:14.881Z",
+      "failureReason": "",
+      "category": "自动化实验室",
+      "summary": "Lab of the Future Congress的对话页称，一场行业讨论聚焦如何把生物制药研发中的AI洞察转为实验行动，并涉及数字生态、AI编排及自主生物制药实验室。分析判断：该页面说明行业议题已从单点模型扩展到实验流程编排，但现有正文只是一段活动回顾导语，没有具体系统架构、应用单位或效率数据。",
+      "score": 1,
+      "importanceReason": "提供自主实验室与AI编排的行业议题线索，缺少可验证落地细节。",
+      "contentType": "company_claim",
+      "moatTags": [],
+      "limitations": "会议组织方短导语；没有演讲全文、案例参数、实验结果或独立评估。",
+      "evidence": [
+        {
+          "url": "https://www.lab-of-the-future.com/article-types/digital-dialogues",
+          "quote": "From AI Insights to Experimental Action"
+        },
+        {
+          "url": "https://www.lab-of-the-future.com/article-types/digital-dialogues",
+          "quote": "enable the next generation of autonomous BioPharma laboratories"
+        }
+      ]
+    },
+    {
+      "articleId": "3a8e070496b5ab3297f57a4b8eb74ffb",
+      "contentHash": "b690211af33c880dfc2ef77c1646e2f6f88afad0f34b1c519e0a5eeb06151e21",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T01:26:14.881Z",
+      "failureReason": "抓取正文与标题不匹配，仅有另一篇量子微分方程问答的导航信息，不能分析。"
+    },
+    {
+      "articleId": "c9516c832f70bd79c2383f975258c811",
+      "contentHash": "1563ed287134ee8988b578d79f099f441b5e5379033568a77d89816a6b04650c",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T01:26:14.881Z",
+      "failureReason": "抓取正文与标题不匹配，仅有通用大模型硬件新闻导语，缺少科学应用证据。"
+    },
+    {
+      "articleId": "ed2074cad1dfd522061d2acfc2f12d4d",
+      "contentHash": "44dec6bd35feae0e6a8fd8fac1eff472eca261e2b9e58d41108d947963fe23e4",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T01:26:14.881Z",
+      "failureReason": "量子纠错与容错计算技术文章没有AI辅助科学发现或实验自动化内容。"
+    },
+    {
+      "articleId": "589fd3324fdc319f6fa29109052bf476",
+      "contentHash": "9254468a622d7382150ebc35dd46f514675dbc61d949db21151d3bcdf19bea39",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T01:26:14.881Z",
+      "failureReason": "AWS通用云与AI大会营销页，未提供具体AI4S研究或产品证据。"
+    },
+    {
+      "articleId": "02de57f64e6ffa9683b2b85055a5ed9f",
+      "contentHash": "821441f71a51329d46501705700213c783e5d8753ea2c5135cd0d8de5a845c29",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T01:26:14.881Z",
+      "failureReason": "生命科学出版物广告和营销服务介绍，不是研究情报。"
+    },
+    {
+      "articleId": "5b25b8cdbdc1598621dacf23c4d7ee4d",
+      "contentHash": "c37848449562ed1f28b96d2853ebf54e43d2274e66ba53c01fb939bfdf4d09cc",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T01:26:14.881Z",
+      "failureReason": "Bio-IT播客目录混合多期节目标题，没有单期访谈正文或可核验结果。"
+    },
+    {
+      "articleId": "9cdd8ca869ee1193716f62b114eae645",
+      "contentHash": "8c4f7ce2d0a2c6872dabc4c854a5f73cbb1ce12bac8cbd09b9677756beedb217",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T01:26:14.881Z",
+      "failureReason": "Bio-IT新闻目录仅罗列多篇报道标题，不能把列表当成具体研究证据。"
+    },
+    {
+      "articleId": "d92e94131e24de79b3a3335ebf67fa13",
+      "contentHash": "4d3e4d3857eb8b73a1387dabef0a8e632becdfb668dfd9978ffe622b0846ed13",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T01:26:14.881Z",
+      "failureReason": "ACS 2027春季会议征稿与参会营销信息，没有具体AI4S成果。"
+    },
+    {
+      "articleId": "79c575faaecea1f844b8a2f4d39671f8",
+      "contentHash": "1d07c770f8fae4e95ae57c280cf47119a4248aaf6abcd11804c4fcb2a6c412a9",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T01:26:14.881Z",
+      "failureReason": "Pistoia Alliance大会日程介绍虽含AI议题，但演讲尚待公布且没有实际项目结果。"
+    },
+    {
+      "articleId": "a9628ab74ebdf22bc148ab2a9779f83c",
+      "contentHash": "b19fed5a55cd3a067bd39b8ad862a5a8614df0b0088b2b0c7359d6120b193443",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-18T01:26:14.881Z",
+      "failureReason": "",
+      "category": "产业与商业",
+      "summary": "Pistoia Alliance年度报告页把数据治理、AI研发和后期研发列为生命科学联盟的战略重点，并称其FAIR成熟度矩阵获得行业奖项、与FDA开展公私合作。页面还提及成员反馈AI对增长目标的重要性。分析判断：这些内容反映制药研发共同体在数据与AI治理方面的组织投入，但可见摘录未列项目采用规模、技术指标或对药物研发周期的量化影响。",
+      "score": 1,
+      "importanceReason": "提供生命科学联盟的AI和FAIR数据协作方向，成果证据主要是组织自述。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "数据",
+        "商业合作"
+      ],
+      "limitations": "年度报告摘要被截断，未核对完整报告、成员采用情况或项目成效；调查比例也未给出样本方法。",
+      "evidence": [
+        {
+          "url": "https://pistoiaalliance.org/annual-report-2024/",
+          "quote": "Data is the foundation for AI and digital strategies."
+        },
+        {
+          "url": "https://pistoiaalliance.org/annual-report-2024/",
+          "quote": "We strengthened regulator and industry engagement via an FDA Public-Private Partnership"
+        }
+      ]
+    },
+    {
+      "articleId": "aa9ed418d2f1a0b2cf4b30b8ebedaa12",
+      "contentHash": "ccbc582b0eab81286dce5493c9f60ccaa9f05b09c9369bf10fd1cb78eb381af2",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T01:26:14.881Z",
+      "failureReason": "活动与培训目录混合多个项目短介，缺少单项课程或AI湿实验案例的完整证据。"
+    },
+    {
+      "articleId": "4e17d047da8ec58c2aacf6582d18ae57",
+      "contentHash": "6178c7c3c2608d7bd229da7cac1176468bd6cdecb4be63bdfcab0f567b38a685",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T01:26:14.881Z",
+      "failureReason": "样本管理研讨会预告仅称议程将涉及AI和自动化，尚无技术报告或研究结果。"
+    },
+    {
+      "articleId": "55724122a547a60e69c0badad12427c2",
+      "contentHash": "16b8356f7fbb662f0c6f83b26c848436d54d52db004c3fdbc7a9f6792b524711",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T01:26:14.881Z",
+      "failureReason": "女性科学领导力论坛的职业发展与交流活动，与AI4S技术进展无关。"
+    },
+    {
+      "articleId": "9f3a8153de2130cff9f49fe511bde2b6",
+      "contentHash": "6d15fbb39fb122848aef4f46e928290e5f4da70282f25c69a1cfae445f1ebb9e",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T01:26:14.881Z",
+      "failureReason": "SLAS 2027综合会议招展、征稿和嘉宾介绍，未给出AI实验室具体成果。"
+    },
+    {
+      "articleId": "2635b2c2630deaf9083337e99ec2fa6d",
+      "contentHash": "1655ae194f652c12d7a2fd3c8eeea92eca3823daac6b679ef674e846b1652569",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T01:26:14.881Z",
+      "failureReason": "GA4GH通讯订阅页面，没有数据标准更新或研究结果。"
+    },
+    {
+      "articleId": "4360e612fbaab7d29f24c0f6ee850707",
+      "contentHash": "d0e1e140fbe650afd5f501f29cf12d591d14904e6f47fc1c899bd77b9e99e765",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T01:26:14.881Z",
+      "failureReason": "GA4GH活动日历与历史会议目录，不是具体数据标准或AI4S进展。"
+    },
+    {
+      "articleId": "f592152205f1d80c5782ba670d136b54",
+      "contentHash": "035c9d6cdbd342866be04fb1c77bf384ad0d499edf45d3f7b4267573741513ef",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T01:26:14.881Z",
+      "failureReason": "GA4GH组织历史时间线虽涉及基因组数据共享标准，但没有本期新增AI4S成果。"
+    },
+    {
+      "articleId": "b5ededfd5b9efe4c216b6e741c0af511",
+      "contentHash": "ff7c9b92adf346d731b266f1323b8eeafc822cfe0bd4414cf8f7ce5fbf525ffe",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T01:26:14.881Z",
+      "failureReason": "RDA通讯归档和月份目录，没有具体研究数据工作成果正文。"
+    }
+  ]
+}
