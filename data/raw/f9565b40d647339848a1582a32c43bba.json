@@ -7,12 +7,13 @@
   "sourceType": "生物数据与AI公司",
   "publishedAt": "2026-06-08T17:18:08.000Z",
   "crawledAt": "2026-09-17T02:32:49.289Z",
-  "content": "The post Endpoints News: Basecamp debuts an ambitious plan to sequence a trillion genes appeared first on Basecamp Research BCR .",
-  "contentStatus": "ready",
-  "extractionMethod": "feed-excerpt",
+  "content": "",
+  "contentStatus": "insufficient_content",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "lastFetchAt": "2026-09-17T02:32:49.289Z",
-  "contentTruncated": false,
-  "contentError": "",
-  "contentHash": "1bd27393d31dc3eb336f7999487554fd55dd237beccfa391ede99ee660dcd098"
+  "lastFetchAt": "2026-09-18T04:09:32.660Z",
+  "contentTruncated": true,
+  "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "fetchedUrl": "https://basecamp-research.com/endpoints-news-basecamp-debuts-an-ambitious-plan-to-sequence-a-trillion-genes/"
 }
