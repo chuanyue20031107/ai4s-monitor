@@ -165,7 +165,10 @@ export function makeFetcher({ timeoutSeconds = 15, maxRequests = 180, fetchImpl 
       if (Number(response.headers.get('content-length')) > 1500000) { await response.body?.cancel(); throw new Error('response_too_large'); }
       const chunks = []; let size = 0;
       for await (const chunk of response.body) { size += chunk.length; if (size > 1500000) throw new Error('response_too_large'); chunks.push(chunk); }
-      const html = Buffer.concat(chunks).toString('utf8');
+      const bytes = Buffer.concat(chunks);
+      const declared = `${response.headers.get('content-type') || ''} ${bytes.subarray(0,4096).toString('latin1')}`.match(/charset\s*=\s*["']?([\w-]+)/i)?.[1]?.toLowerCase();
+      const charset = ({gb2312:'gb18030',gbk:'gb18030',gb18030:'gb18030',big5:'big5','shift_jis':'shift_jis','windows-1252':'windows-1252'})[declared] || 'utf-8';
+      const html = new TextDecoder(charset).decode(bytes);
       if (!robots && (/cf-chl-|challenge-platform/i.test(html) && /just a moment|verify you are human/i.test(html))) {
         throw Object.assign(new Error('cloudflare_challenge'), { httpStatus: response.status, phase: 'page', httpsReached: url.startsWith('https:'), cloudflare: true });
       }
@@ -209,9 +212,9 @@ export function validateAnalysis(a, raw) {
   assert(raw && ID.test(a.articleId) && a.articleId === raw.id, 'unknown_article');
   assert(HASH.test(a.contentHash) && a.contentHash === raw.contentHash, 'stale_content_hash');
   assert(['done', 'discarded', 'failed'].includes(a.analysisStatus), 'invalid_status');
+  assert(raw.contentStatus === 'ready' && typeof raw.content === 'string' && raw.content.length >= 120 && !raw.discardReason, 'excluded_source_content');
   assert(asDate(a.analyzedAt) && Date.parse(a.analyzedAt) <= Date.now() + 600000, 'invalid_analysis_time');
   if (a.analysisStatus !== 'done') { assert(typeof a.failureReason === 'string' && a.failureReason.trim().length >= 4, 'missing_reason'); return; }
-  assert(raw.contentStatus === 'ready' && raw.content.length >= 120 && !raw.discardReason, 'insufficient_source_content');
   assert(CATEGORIES.includes(a.category) && CONTENT_TYPES.includes(a.contentType), 'invalid_category_or_type');
   assert(Number.isInteger(a.score) && a.score >= 1 && a.score <= 5, 'invalid_score');
   assert(typeof a.summary === 'string' && a.summary.length >= 40 && a.summary.length <= 2500, 'invalid_summary');
@@ -223,6 +226,7 @@ export function validateAnalysis(a, raw) {
 }
 export function publish(root) {
   migrate(root); const now = iso(), raws = rawRecords(root), byId = new Map(raws.map((r) => [r.id, r]));
+  const usable = (r) => r && r.contentStatus === 'ready' && typeof r.content === 'string' && r.content.length >= 120 && !r.discardReason;
   const analyses = new Map(), receipts = [], digests = [];
   const inbox = path.join(root, 'data/inbox');
   const files = fs.existsSync(inbox) ? fs.readdirSync(inbox).filter((s) => /^[\w.-]+\.json$/.test(s)).sort() : [];
@@ -253,7 +257,7 @@ export function publish(root) {
     } catch (error) { receipts.find((r) => r.file === file).digestError = error.message; }
   }
   const commandState = reconcileCommands(root, raws, analyses);
-  const items = raws.map((r) => {
+  const items = raws.filter(usable).map((r) => {
     const a = analyses.get(r.id);
     return { id: r.id, title: r.title, sourceKey: r.sourceKey, sourceName: r.sourceName, sourceType: r.sourceType, category: '', publishedAt: r.publishedAt, crawledAt: r.crawledAt, summary: '', score: 0, importanceReason: '', contentType: '', moatTags: [], url: r.url, analysisStatus: r.discardReason ? 'discarded' : 'pending', failureReason: r.discardReason || '', ...(a ? Object.fromEntries(['category', 'summary', 'score', 'importanceReason', 'contentType', 'moatTags', 'analysisStatus', 'failureReason', 'analyzedAt', 'evidence', 'limitations', 'batchFile'].filter((k) => a[k] !== undefined).map((k) => [k, a[k]])) : {}) };
   }).sort((a, b) => Date.parse(b.crawledAt) - Date.parse(a.crawledAt));
@@ -264,10 +268,10 @@ export function publish(root) {
       item.failureReason = '';
     }
   }
-  const pending = raws.filter((r) => !r.discardReason && !['done', 'discarded'].includes(analyses.get(r.id)?.analysisStatus));
+  const pending = raws.filter((r) => usable(r) && !['done', 'discarded'].includes(analyses.get(r.id)?.analysisStatus));
   const ready = pending.filter((r) => r.contentStatus === 'ready').sort((a, b) => Date.parse(b.publishedAt || b.crawledAt) - Date.parse(a.publishedAt || a.crawledAt));
   const awaitingContent = pending.filter((r) => r.contentStatus !== 'ready');
-  writeJson(path.join(root, 'data/queue.json'), { schemaVersion: 2, updatedAt: now, pendingCount: pending.length, readyCount: ready.length, awaitingContentCount: awaitingContent.length, items: [...ready, ...awaitingContent].map((r) => ({ id: r.id, title: r.title, url: r.url, publishedAt: r.publishedAt, crawledAt: r.crawledAt, contentStatus: r.contentStatus, contentHash: r.contentHash, rawPath: `data/raw/${r.id}.json`, lastAnalysisStatus: analyses.get(r.id)?.analysisStatus || 'pending' })) });
+  writeJson(path.join(root, 'data/queue.json'), { schemaVersion: 2, updatedAt: now, pendingCount: pending.length, readyCount: ready.length, awaitingContentCount: 0, excludedContentCount: raws.length - raws.filter(usable).length, items: ready.map((r) => ({ id: r.id, title: r.title, url: r.url, publishedAt: r.publishedAt, crawledAt: r.crawledAt, contentStatus: r.contentStatus, contentHash: r.contentHash, rawPath: `data/raw/${r.id}.json`, lastAnalysisStatus: analyses.get(r.id)?.analysisStatus || 'pending' })) });
   const pub = (name, v) => writeJson(path.join(root, `client/public/data/${name}.json`), v);
   pub('articles', { items, updatedAt: now });
   const latestByDate = new Map();
@@ -275,7 +279,7 @@ export function publish(root) {
   const history = [...latestByDate.values()].sort((a, b) => b.date.localeCompare(a.date));
   pub('digest', { digest: history[0] || null });
   pub('digests', { items: history });
-  pub('analysis-status', { updatedAt: now, pending: pending.length, ready: ready.length, awaitingContent: awaitingContent.length, done: items.filter((a) => a.analysisStatus === 'done').length, discarded: items.filter((a) => a.analysisStatus === 'discarded').length, rejectedBatches: receipts.filter((r) => r.status === 'rejected' || r.digestError).length, latestDigestDate: history[0]?.date || null, screenshotRulesConfirmed: false });
+  pub('analysis-status', { updatedAt: now, pending: pending.length, ready: ready.length, awaitingContent: 0, excludedContent: raws.length - raws.filter(usable).length, done: items.filter((a) => a.analysisStatus === 'done').length, discarded: items.filter((a) => a.analysisStatus === 'discarded').length, rejectedBatches: receipts.filter((r) => r.status === 'rejected' || r.digestError).length, latestDigestDate: history[0]?.date || null, screenshotRulesConfirmed: false });
   writeJson(path.join(root, 'data/receipts.json'), { updatedAt: now, items: receipts });
   const runFile = path.join(root, 'client/public/data/runs.json'), existingRuns = readJson(runFile, { items: [] }).items;
   const runs = existingRuns.filter((r) => !r.id.startsWith('analysis:') && !r.id.startsWith('digest:'));
@@ -289,3 +293,4 @@ export function publish(root) {
 if (process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.meta.url)) {
   try { console.log(JSON.stringify(publish(process.cwd()))); } catch (error) { console.error(error.message); process.exitCode = 1; }
 }
+
