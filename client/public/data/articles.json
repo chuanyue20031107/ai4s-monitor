@@ -11133,17 +11133,33 @@
       "sourceKey": "s05-10",
       "sourceName": "深圳合成生物研究重大科技基础设施",
       "sourceType": "自主实验室与平台",
-      "category": "",
+      "category": "AI4S 应用",
       "publishedAt": null,
       "crawledAt": "2026-09-16T06:57:37.446Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "深圳先进院报道胡政因单细胞谱系示踪与肿瘤起源研究获奖。其团队结合高分辨谱系追踪、多模态组学算法和理论建模，报道早期肠癌可能呈多克隆起源，并把从多克隆到单克隆的转变识别为良恶性演化的关键步骤。分析判断：这是计算与实验谱系技术结合的肿瘤演化线索，但当前页面是奖项新闻，无法替代Nature原论文的方法和统计审查。",
+      "score": 2,
+      "importanceReason": "给出多模态算法与谱系追踪结合后的具体生物学结论，具有原论文追踪价值。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "数据",
+        "模型"
+      ],
       "url": "https://isynbio.siat.ac.cn/siat/isb/xwhd/zhxw/2026082611274675177/index.html",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-18T01:29:53.087Z",
+      "evidence": [
+        {
+          "url": "https://isynbio.siat.ac.cn/siat/isb/xwhd/zhxw/2026082611274675177/index.html",
+          "quote": "运用高分辨谱系追踪技术、多模态组学算法与理论建模探索肿瘤起源与演化基本规律"
+        },
+        {
+          "url": "https://isynbio.siat.ac.cn/siat/isb/xwhd/zhxw/2026082611274675177/index.html",
+          "quote": "首次揭示早期肠癌的多克隆起源规律"
+        }
+      ],
+      "limitations": "奖项与机构报道，未提供样本规模、算法细节、统计显著性和临床验证。",
+      "batchFile": "data/inbox/2026-09-18T01-29-53-087Z-full-009-1c64b356.json"
     },
     {
       "id": "1ba14a6baac75bcc7ef10ad0aea462c0",
@@ -11178,8 +11194,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://isynbio.siat.ac.cn/siat/isb/xwhd/zhxw/2026091418034715135/index.html",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "生物制造项目申报通知未展示附件榜单内容，没有可分析的AI方法或研究结果。",
+      "analyzedAt": "2026-09-18T01:29:53.087Z",
+      "batchFile": "data/inbox/2026-09-18T01-29-53-087Z-full-009-1c64b356.json"
     },
     {
       "id": "584e61e1da6f3ef1e791575580f3d8f1",
@@ -11241,17 +11259,33 @@
       "sourceKey": "s05-10",
       "sourceName": "深圳合成生物研究重大科技基础设施",
       "sourceType": "自主实验室与平台",
-      "category": "",
+      "category": "自动化实验室",
       "publishedAt": null,
       "crawledAt": "2026-09-16T06:57:37.446Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "第五届合成生物学创新赛设置细菌竞技、蛋白设计和合成细胞赛道，并依托深圳合成生物重大设施完成自动化、高通量实验验证；企业命题还覆盖AI发酵工艺优化。报道列出蛋白亮度、热稳定性等奖项，并介绍一支团队通过底盘与发酵条件优化建立水溶性蓝色素生产体系。分析判断：赛事把计算设计、产业题目和统一实验验证连接起来，是共享生物铸造设施的应用信号，但公开报道没有候选数量、命中率或完整实验数据。",
+      "score": 2,
+      "importanceReason": "明确存在自动化高通量验证和AI发酵题目，体现共享设施支撑多团队设计验证。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "实验自动化",
+        "商业合作"
+      ],
       "url": "https://isynbio.siat.ac.cn/siat/isb/xwhd/zhxw/2026082611085799203/index.html",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-18T01:29:53.087Z",
+      "evidence": [
+        {
+          "url": "https://isynbio.siat.ac.cn/siat/isb/xwhd/zhxw/2026082611085799203/index.html",
+          "quote": "细菌博弈、蛋白设计和合成细胞赛道依托深圳合成生物研究重大科技基础设施完成自动化、高通量实验验证。"
+        },
+        {
+          "url": "https://isynbio.siat.ac.cn/siat/isb/xwhd/zhxw/2026082611085799203/index.html",
+          "quote": "30个项目覆盖工业生物催化、二氧化碳生物转化、生物传感器、AI发酵工艺优化等前沿方向。"
+        }
+      ],
+      "limitations": "赛事主办方总结；未公开自动化协议、盲测规则、原始测量和各AI方案的基线比较。",
+      "batchFile": "data/inbox/2026-09-18T01-29-53-087Z-full-009-1c64b356.json"
     },
     {
       "id": "a2febc6ae20b51e5281245142a3199f9",
@@ -11520,8 +11554,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.szlab.ac.cn/news_details/80.html",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "材料实验室人才招聘公告，仅列AI计算设计等招聘方向，没有平台成果或技术细节。",
+      "analyzedAt": "2026-09-18T01:29:53.087Z",
+      "batchFile": "data/inbox/2026-09-18T01-29-53-087Z-full-009-1c64b356.json"
     },
     {
       "id": "f45ce6e99c981514ac5c20a6f5b4e2f9",
@@ -11538,8 +11574,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.szlab.ac.cn/news_details/76.html",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "二维半导体外延材料成果未使用AI辅助发现或自动化实验方法。",
+      "analyzedAt": "2026-09-18T01:29:53.087Z",
+      "batchFile": "data/inbox/2026-09-18T01-29-53-087Z-full-009-1c64b356.json"
     },
     {
       "id": "1f552fa9057cbe0241ce3b2cf4ac812c",
@@ -11664,8 +11702,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "http://news.ustc.edu.cn/info/1055/96129.htm",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "高校思想教育宣传活动，与AI4S研究进展无关。",
+      "analyzedAt": "2026-09-18T01:29:53.087Z",
+      "batchFile": "data/inbox/2026-09-18T01-29-53-087Z-full-009-1c64b356.json"
     },
     {
       "id": "81fa48d90a6ff7192072fd8f183ed6dd",
@@ -11808,8 +11848,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "http://news.ustc.edu.cn/info/1055/96276.htm",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "量子科技开学报告和教育活动，仅泛泛提及善用AI工具，没有AI4S成果。",
+      "analyzedAt": "2026-09-18T01:29:53.087Z",
+      "batchFile": "data/inbox/2026-09-18T01-29-53-087Z-full-009-1c64b356.json"
     },
     {
       "id": "fa25fa7a033615ef58b7e9b3c07daed4",
@@ -11889,17 +11931,33 @@
       "sourceKey": "s05-08",
       "sourceName": "国家合成生物技术创新中心/生物铸造平台",
       "sourceType": "自主实验室与平台",
-      "category": "",
+      "category": "模型",
       "publishedAt": null,
       "crawledAt": "2026-09-16T06:05:32.213Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "天津工业生物所研究方向页提出用机理模型与人工智能模型共同驱动工业菌种设计，并把DNA大规模合成、基因编辑和细胞工厂优化连接到材料、医药及天然产物制造。分析判断：这是机构层面的技术路线，强调模型与合成生物实验协同，但页面没有披露具体模型、菌株命中率、自动化规模或单个项目成果。",
+      "score": 1,
+      "importanceReason": "明确提出机理与AI双驱动菌种设计和细胞工厂优化，但仍是研究方向说明。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "模型",
+        "实验自动化"
+      ],
       "url": "https://tib.cas.cn/kxyj/lyfx/202410/t20241031_7412324.html",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-18T01:29:53.087Z",
+      "evidence": [
+        {
+          "url": "https://tib.cas.cn/kxyj/lyfx/202410/t20241031_7412324.html",
+          "quote": "发展机理模型和人工智能模型双驱动的菌种设计定制方法。"
+        },
+        {
+          "url": "https://tib.cas.cn/kxyj/lyfx/202410/t20241031_7412324.html",
+          "quote": "研究生物模拟与设计、DNA大规模合成、基因编辑、细胞工厂优化等新方法"
+        }
+      ],
+      "limitations": "机构研究方向介绍，不是完成的项目报告；缺少数据集、模型评估和实验产率。",
+      "batchFile": "data/inbox/2026-09-18T01-29-53-087Z-full-009-1c64b356.json"
     },
     {
       "id": "2e8c062a372a99af55e1f2b1ace6ccef",
@@ -12060,8 +12118,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://tib.cas.cn/kxyj/lyfx/202410/t20241031_7412325.html",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "生物工艺过程建模研究方向没有明确AI方法、模型成果或自动化实验数据。",
+      "analyzedAt": "2026-09-18T01:29:53.087Z",
+      "batchFile": "data/inbox/2026-09-18T01-29-53-087Z-full-009-1c64b356.json"
     },
     {
       "id": "d34c98a05a07e006289109928fd94672",
@@ -12069,17 +12129,34 @@
       "sourceKey": "s05-08",
       "sourceName": "国家合成生物技术创新中心/生物铸造平台",
       "sourceType": "自主实验室与平台",
-      "category": "",
+      "category": "AI4S 应用",
       "publishedAt": null,
       "crawledAt": "2026-09-16T06:05:32.213Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "天津工业生物所的工业蛋白质研究方向把蛋白大模型、结构与功能预测、理性设计和改造，与酶表达、固定化、多酶体系及全细胞催化相连接，目标是改善工业催化剂活性和复杂工况性能。分析判断：该路线覆盖从AI预测到生物催化工程的完整问题链，但当前内容只是机构规划，没有展示模型生成的候选或实验验证结果。",
+      "score": 1,
+      "importanceReason": "清楚界定蛋白大模型在工业酶设计与生物催化中的预期任务，尚缺成果证据。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "模型",
+        "实验自动化",
+        "材料发现"
+      ],
       "url": "https://tib.cas.cn/kxyj/lyfx/202410/t20241031_7412326.html",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-18T01:29:53.087Z",
+      "evidence": [
+        {
+          "url": "https://tib.cas.cn/kxyj/lyfx/202410/t20241031_7412326.html",
+          "quote": "蛋白大模型、人工智能预测蛋白结构和功能、蛋白理性设计与改造"
+        },
+        {
+          "url": "https://tib.cas.cn/kxyj/lyfx/202410/t20241031_7412326.html",
+          "quote": "解决生物催化剂活性低、工业环境下应用性能差等问题"
+        }
+      ],
+      "limitations": "研究方向页面；没有模型名称、训练数据、候选数量、湿实验命中率或产业案例。",
+      "batchFile": "data/inbox/2026-09-18T01-29-53-087Z-full-009-1c64b356.json"
     },
     {
       "id": "d433e74319387d1fd094461713f0cf0b",
@@ -12132,8 +12209,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://news.tju.edu.cn/",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "天津大学综合新闻首页抓取为政策与校园宣传内容，未包含目标自动化合成生物平台证据。",
+      "analyzedAt": "2026-09-18T01:29:53.087Z",
+      "batchFile": "data/inbox/2026-09-18T01-29-53-087Z-full-009-1c64b356.json"
     },
     {
       "id": "4a6937e2cd384520fa3cfaac9a551a32",
@@ -12150,8 +12229,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://biocrfgz.hkust-gz.edu.cn/cn/news-events/",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "实验室新闻目录仅列仪器装机和活动标题，没有自动化合成生物系统的技术或实验结果。",
+      "analyzedAt": "2026-09-18T01:29:53.087Z",
+      "batchFile": "data/inbox/2026-09-18T01-29-53-087Z-full-009-1c64b356.json"
     },
     {
       "id": "91f660e261f1533be24a72dea1a7cfbc",
@@ -12159,17 +12240,35 @@
       "sourceKey": "s05-03",
       "sourceName": "朱宸课题组AI自动化化学实验室",
       "sourceType": "自主实验室与平台",
-      "category": "",
+      "category": "自动化实验室",
       "publishedAt": null,
       "crawledAt": "2026-09-16T06:05:28.092Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "朱宸课题组描述一套建设中的化学自主实验室：机器人合成与分析工站并行运行，结构化结果回传给以分子描述符为基础的模型，再用贝叶斯优化和主动学习选择下一实验并执行。课题组将这一反馈更新视为区别于清单式机器人的关键。分析判断：架构明确呈现设计—执行—测量—重训练闭环，但页面仍标注建设中，尚无闭环轮数、命中率或相对人工流程的结果。",
+      "score": 2,
+      "importanceReason": "完整说明了化学自主实验室的数据流和下一实验选择机制，具备可评估的闭环设计。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "数据",
+        "模型",
+        "实验自动化",
+        "材料发现"
+      ],
       "url": "https://zhu.eitech.edu.cn/zh/research/",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-18T01:29:53.087Z",
+      "evidence": [
+        {
+          "url": "https://zhu.eitech.edu.cn/zh/research/",
+          "quote": "机器人合成工站和分析工站并行运行，结果以结构化数据回传"
+        },
+        {
+          "url": "https://zhu.eitech.edu.cn/zh/research/",
+          "quote": "通过贝叶斯优化和主动学习，选出最能修正当前判断的下一个实验。"
+        }
+      ],
+      "limitations": "课题组研究方向页且系统标注建设中；缺少硬件清单、异常处理、模型基准和真实闭环实验结果。",
+      "batchFile": "data/inbox/2026-09-18T01-29-53-087Z-full-009-1c64b356.json"
     },
     {
       "id": "282bdbdf92387e2c75e465b5397d87e5",
@@ -12303,17 +12402,32 @@
       "sourceKey": "s04-02",
       "sourceName": "奔曜科技 Bioyond",
       "sourceType": "实验室自动化企业",
-      "category": "",
+      "category": "自动化实验室",
       "publishedAt": null,
       "crawledAt": "2026-09-16T06:05:25.992Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "奔曜科技首页展示移液、转运和全自动一体机产品，覆盖NGS、质谱、核酸蛋白、细胞与类器官等样本前处理。其转运机器人集成轨迹规划、运动控制、AI视觉和条码模块，部分产品支持第三方仪器接入及长时间无人值守。分析判断：产品组合覆盖液体处理到跨仪器转运，是实验自动化基础设施线索，但页面没有精度、故障率、通量和客户验证数据。",
+      "score": 2,
+      "importanceReason": "公开了多类机器人功能、实验适用范围和无人值守集成方式，具备明确产品形态。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "实验自动化"
+      ],
       "url": "https://www.bioyond.com/",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-18T01:29:53.087Z",
+      "evidence": [
+        {
+          "url": "https://www.bioyond.com/",
+          "quote": "支持常规移液、NGS前处理、甲基化样本前处理、质谱样本前处理等应用。"
+        },
+        {
+          "url": "https://www.bioyond.com/",
+          "quote": "快速、高效、安全地完成全天候无人值守物料转运。"
+        }
+      ],
+      "limitations": "企业首页自述；未提供第三方性能评测、接口标准、运行可靠性与实际实验产出。",
+      "batchFile": "data/inbox/2026-09-18T01-29-53-087Z-full-009-1c64b356.json"
     },
     {
       "id": "c6fe767842f8bc4eef7e2323cf18e14c",
@@ -12654,8 +12768,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://ai.baidu.com/support/news?action=detail&id=3277",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "通用多格式文档翻译产品，不属于科学发现或实验自动化。",
+      "analyzedAt": "2026-09-18T01:29:53.087Z",
+      "batchFile": "data/inbox/2026-09-18T01-29-53-087Z-full-009-1c64b356.json"
     },
     {
       "id": "977ee4e3151f40778368ec163d22e5e3",
@@ -12735,17 +12851,32 @@
       "sourceKey": "s04-03",
       "sourceName": "汇像科技 XImaging",
       "sourceType": "实验室自动化企业",
-      "category": "",
+      "category": "自动化实验室",
       "publishedAt": null,
       "crawledAt": "2026-09-16T06:05:23.294Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "汇像科技称其机器人科学家可整合多种仪器完成上样，并用AI视觉识别链霉菌和大肠杆菌菌落的位置与形态，自动执行培养皿转移、开盖、挑取、涂布和移液。公司还描述细胞株高通量筛选流程及与分析软件的数据对接。分析判断：这是一套面向微生物与细胞实验的自动执行能力，但首页未披露识别准确率、污染率、挑取成功率或闭环优化结果。",
+      "score": 2,
+      "importanceReason": "列出AI视觉驱动的菌落处理步骤及跨设备细胞筛选流程，应用边界较具体。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "实验自动化"
+      ],
       "url": "https://www.x-imaging.com/",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-18T01:29:53.087Z",
+      "evidence": [
+        {
+          "url": "https://www.x-imaging.com/",
+          "quote": "通过AI视觉识别链霉菌、大肠杆菌等菌落形态和位置"
+        },
+        {
+          "url": "https://www.x-imaging.com/",
+          "quote": "实现微生物菌落培养皿转移，开盖，挑取、涂布、移液等功能的全流程自动化。"
+        }
+      ],
+      "limitations": "厂商产品自述；400余客户及设备覆盖等数字未见独立验证，也没有实验性能和失败处理数据。",
+      "batchFile": "data/inbox/2026-09-18T01-29-53-087Z-full-009-1c64b356.json"
     },
     {
       "id": "07c1d87d1336ed894e728e71634b610a",
@@ -12843,17 +12974,33 @@
       "sourceKey": "s04-01",
       "sourceName": "镁伽科技 MegaRobo",
       "sourceType": "实验室自动化企业",
-      "category": "",
+      "category": "自动化实验室",
       "publishedAt": null,
       "crawledAt": "2026-09-16T06:05:21.487Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "镁伽科技将其系统描述为具备感知、构思与执行闭环的自主智能体，并面向生命科学、化工和农业等实验场景提供多智能体方案。首页列出高内涵细胞成像与先进疗法生产平台，也称系统已自动化处理大量生命科学样本。分析判断：页面体现了从机器人执行向多智能体编排的产品定位，但缺少具体任务案例、样本统计口径和独立性能数据。",
+      "score": 2,
+      "importanceReason": "明确提出感知—构思—执行闭环及跨行业实验自主智能体，产品范围较完整。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "实验自动化",
+        "模型"
+      ],
       "url": "https://www.megarobo.com/",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-18T01:29:53.087Z",
+      "evidence": [
+        {
+          "url": "https://www.megarobo.com/",
+          "quote": "创新性构建的“感知（Perception）、构思（Conception）及执行（Execution）”闭环技术架构"
+        },
+        {
+          "url": "https://www.megarobo.com/",
+          "quote": "多功能自主智能体能够独立执行复杂任务"
+        }
+      ],
+      "limitations": "企业首页营销信息；未说明智能体决策算法、实验成功率、无人值守时长和样本数统计方法。",
+      "batchFile": "data/inbox/2026-09-18T01-29-53-087Z-full-009-1c64b356.json"
     },
     {
       "id": "1ac23df173e922f0145492a4cf4f2438",
@@ -13284,8 +13431,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://citrine.io/resources/blog/",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "Citrine博客目录混合多篇材料AI管理文章导语，不能作为单一技术成果的完整证据。",
+      "analyzedAt": "2026-09-18T01:29:53.087Z",
+      "batchFile": "data/inbox/2026-09-18T01-29-53-087Z-full-009-1c64b356.json"
     },
     {
       "id": "24fdfde056bc56d57e6ee3fc50f144c9",
@@ -13392,8 +13541,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://citrine.io/resources/white-papers/",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "材料AI白皮书目录以营销摘要为主，未提供具体研究数据或可验证案例正文。",
+      "analyzedAt": "2026-09-18T01:29:53.087Z",
+      "batchFile": "data/inbox/2026-09-18T01-29-53-087Z-full-009-1c64b356.json"
     },
     {
       "id": "9268711011d7b6575fd14fc714dea253",
@@ -13500,8 +13651,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://citrine.io/category/blog/demystification/",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "材料信息学科普博客分类目录，混合多个概念条目，没有单项研究结果。",
+      "analyzedAt": "2026-09-18T01:29:53.087Z",
+      "batchFile": "data/inbox/2026-09-18T01-29-53-087Z-full-009-1c64b356.json"
     },
     {
       "id": "cf83b45d33485f1ed0e4480a3526a104",
@@ -15664,5 +15817,5 @@
       "failureReason": ""
     }
   ],
-  "updatedAt": "2026-09-18T01:29:13.318Z"
+  "updatedAt": "2026-09-18T01:31:08.855Z"
 }

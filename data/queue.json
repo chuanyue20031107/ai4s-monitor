@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-18T01:29:13.318Z",
-  "pendingCount": 605,
-  "readyCount": 367,
+  "updatedAt": "2026-09-18T01:31:08.855Z",
+  "pendingCount": 585,
+  "readyCount": 347,
   "awaitingContentCount": 238,
   "items": [
     {
@@ -2129,28 +2129,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "0f7f725488c8af43daa4b662aa36d6b7",
-      "title": "祝贺！定量合成生物学全国重点实验室胡政研究员荣获2026年“科学探索奖”",
-      "url": "https://isynbio.siat.ac.cn/siat/isb/xwhd/zhxw/2026082611274675177/index.html",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:57:37.446Z",
-      "contentStatus": "ready",
-      "contentHash": "3420c55e28e1072df27f19aa7250c3f834b4619515dba2ddc7a51acc70701024",
-      "rawPath": "data/raw/0f7f725488c8af43daa4b662aa36d6b7.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "31fcaf8912e1e62d1556b4071bfe1a7e",
-      "title": "关于发布贵州省生物制造实验室 第四批小型应用类“揭榜挂帅”项目的通知",
-      "url": "https://isynbio.siat.ac.cn/siat/isb/xwhd/zhxw/2026091418034715135/index.html",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:57:37.446Z",
-      "contentStatus": "ready",
-      "contentHash": "06ac9836e176138d75d9b5229c9e204985b84b3b72cd09ede63ccd3f544f099b",
-      "rawPath": "data/raw/31fcaf8912e1e62d1556b4071bfe1a7e.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "5f893140692c8a25f9e5b7346ce42a87",
       "title": "10 2025-07 定量合成生物学全国重点实验室诚聘全球人才",
       "url": "https://isynbio.siat.ac.cn/siat/isb/rczp/zszl/2025071409331132652/index.html",
@@ -2170,17 +2148,6 @@
       "contentStatus": "ready",
       "contentHash": "76431cc7888dd09310031ca84e97f37d2ae36f92c3290c4e1a972e65c855de2f",
       "rawPath": "data/raw/837f2cf84b3e7bf29ca50acd125c2241.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "99bab736598050ed968026f15424b2fd",
-      "title": "青年智慧链接全球创新 | 第五届合成生物学创新赛在深圆满落幕",
-      "url": "https://isynbio.siat.ac.cn/siat/isb/xwhd/zhxw/2026082611085799203/index.html",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:57:37.446Z",
-      "contentStatus": "ready",
-      "contentHash": "d29c828b75ae8239550a43da45677e255133fe08dbdb9215e252f5adb881a5eb",
-      "rawPath": "data/raw/99bab736598050ed968026f15424b2fd.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -2261,28 +2228,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "0497f4e8f73bbf1947308dc06f710545",
-      "title": "苏州国家实验室诚邀海外优秀青年人才依托实验室申报国家级人才项目",
-      "url": "https://www.szlab.ac.cn/news_details/80.html",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:57:36.582Z",
-      "contentStatus": "ready",
-      "contentHash": "f59e0adf69a2c150270939d62205d604905001e7c392cf2054b552f6624a4dcf",
-      "rawPath": "data/raw/0497f4e8f73bbf1947308dc06f710545.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "f45ce6e99c981514ac5c20a6f5b4e2f9",
-      "title": "苏州实验室科研成果在《Science》发表",
-      "url": "https://www.szlab.ac.cn/news_details/76.html",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:57:36.582Z",
-      "contentStatus": "ready",
-      "contentHash": "3b40fa9d48650155ecc04b498ab78595783ee4f194e2c81f202dd2cbaf6eb781",
-      "rawPath": "data/raw/f45ce6e99c981514ac5c20a6f5b4e2f9.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "1f552fa9057cbe0241ce3b2cf4ac812c",
       "title": "众行课堂“入职第一课”顺利举办",
       "url": "http://news.ustc.edu.cn/info/1055/96244.htm",
@@ -2327,17 +2272,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "71c6544ffcb029b275f9950e862ef151",
-      "title": "2026“把青春华章写在祖国大地上”大思政课网络主题宣传和互动引...",
-      "url": "http://news.ustc.edu.cn/info/1055/96129.htm",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:05:33.961Z",
-      "contentStatus": "ready",
-      "contentHash": "abac07e3eb73d9da768303cf765321e6e2a446ca8aaeeb6383e1cbf4c427a584",
-      "rawPath": "data/raw/71c6544ffcb029b275f9950e862ef151.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "81fa48d90a6ff7192072fd8f183ed6dd",
       "title": "Fausto Giunchiglia院士访问我校并做客“大师论坛”",
       "url": "http://news.ustc.edu.cn/info/1055/96285.htm",
@@ -2346,83 +2280,6 @@
       "contentStatus": "ready",
       "contentHash": "83704099bca491a745f712724158e62dbf8c7550c331d1ec526ee252ce058c67",
       "rawPath": "data/raw/81fa48d90a6ff7192072fd8f183ed6dd.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "e07e80d4a0bfa2637a78d7cfde1bcdfb",
-      "title": "潘建伟院士为2026级新生讲授“科学与社会”开学第一课",
-      "url": "http://news.ustc.edu.cn/info/1055/96276.htm",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:05:33.961Z",
-      "contentStatus": "ready",
-      "contentHash": "82cfd782a4fffbce1a62e3c8766638e5194fc9afc962f8f64bfdc63a6169a26b",
-      "rawPath": "data/raw/e07e80d4a0bfa2637a78d7cfde1bcdfb.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "2958aac4a692a03510663dd963b62e24",
-      "title": "合成生物学与微生物制造工程",
-      "url": "https://tib.cas.cn/kxyj/lyfx/202410/t20241031_7412324.html",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:05:32.213Z",
-      "contentStatus": "ready",
-      "contentHash": "317a83ae13e74edc4905d1b829cb11f4a58c0c1c31c85b3eb6966f3d2ad42fa8",
-      "rawPath": "data/raw/2958aac4a692a03510663dd963b62e24.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "cf5158633643513622088b042bcba63e",
-      "title": "生物系统与生物工艺工程",
-      "url": "https://tib.cas.cn/kxyj/lyfx/202410/t20241031_7412325.html",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:05:32.213Z",
-      "contentStatus": "ready",
-      "contentHash": "23708db27ead2bbbad928937700bbef43c653edbff99d20da037d6217695d16f",
-      "rawPath": "data/raw/cf5158633643513622088b042bcba63e.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "d34c98a05a07e006289109928fd94672",
-      "title": "工业蛋白质科学与生物催化工程",
-      "url": "https://tib.cas.cn/kxyj/lyfx/202410/t20241031_7412326.html",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:05:32.213Z",
-      "contentStatus": "ready",
-      "contentHash": "b3bbe348701782348bb7ebaa6cd0db5b15c4348a5f368c9c60f24e95bfbf2b7c",
-      "rawPath": "data/raw/d34c98a05a07e006289109928fd94672.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "74ba2cf28e4f24582c902de6cf4b190e",
-      "title": "天津大学新闻网",
-      "url": "https://news.tju.edu.cn/",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:05:31.456Z",
-      "contentStatus": "ready",
-      "contentHash": "af75eb1852b5647f44ae3f56a5562fe84badda3ab831a3a9556ff9a306206b61",
-      "rawPath": "data/raw/74ba2cf28e4f24582c902de6cf4b190e.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "4a6937e2cd384520fa3cfaac9a551a32",
-      "title": "新闻&活动",
-      "url": "https://biocrfgz.hkust-gz.edu.cn/cn/news-events/",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:05:30.861Z",
-      "contentStatus": "ready",
-      "contentHash": "9c0f901211278daf978fee355566611d9b674a8f3003d3c9564d15845630741b",
-      "rawPath": "data/raw/4a6937e2cd384520fa3cfaac9a551a32.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "91f660e261f1533be24a72dea1a7cfbc",
-      "title": "先看研究方向",
-      "url": "https://zhu.eitech.edu.cn/zh/research/",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:05:28.092Z",
-      "contentStatus": "ready",
-      "contentHash": "ea030808fc060b742a1ee61263a022e201ed5977ce09a7f9744f14fef6a41f02",
-      "rawPath": "data/raw/91f660e261f1533be24a72dea1a7cfbc.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -2456,17 +2313,6 @@
       "contentStatus": "ready",
       "contentHash": "8618d4b92b38a2cd4a079b005f79ed5418e99fe632958ba27ffb296528357c61",
       "rawPath": "data/raw/a6468fc24a5ea769b6315240fd803d61.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "74452ce9d329d659b75da881fd9b010a",
-      "title": "Copyright © 2026 奔曜科技",
-      "url": "https://www.bioyond.com/",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:05:25.992Z",
-      "contentStatus": "ready",
-      "contentHash": "5644f32c732379f32deb9596ae8a7dafebe6ab46b26e289c9460641272b4578e",
-      "rawPath": "data/raw/74452ce9d329d659b75da881fd9b010a.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -2547,28 +2393,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "924676a0818d55322d9b43c33bbad736",
-      "title": "大模型文档翻译 重磅发布 支持多格式文档 200+语言 复杂内容翻译更快 更准 查看详情",
-      "url": "https://ai.baidu.com/support/news?action=detail&id=3277",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:05:24.251Z",
-      "contentStatus": "ready",
-      "contentHash": "20e7c41911cce620570d89ca88f0d9e93c189de7594b4a8c209a24b0d566321d",
-      "rawPath": "data/raw/924676a0818d55322d9b43c33bbad736.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "05b0d47d10fef4b2577fcf4ee97281c6",
-      "title": "机器人科学家的领导者-汇像科技(X-imaging)",
-      "url": "https://www.x-imaging.com/",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:05:23.294Z",
-      "contentStatus": "ready",
-      "contentHash": "26ac88d2ed344bd371476c33558cb1729ac6a98e3567c79b422c63d083b9d06e",
-      "rawPath": "data/raw/05b0d47d10fef4b2577fcf4ee97281c6.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "9b9d8e0a22c6d300342af081e4d26ecf",
       "title": "智造新闻 华大智造刘健：十年，从&ldquo;有&rdquo;到&ldquo;优&rdquo;再到&ldquo;全&rdquo;！我们仍在拓展能力边界 查看更多 2023-09-22",
       "url": "https://www.mgi-tech.com/mgi-news/1261.html",
@@ -2602,17 +2426,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "9943341bbeb33209d2190bb299bf8fe4",
-      "title": "镁伽官方网站-Future Beyond Sight. - 镁伽科技",
-      "url": "https://www.megarobo.com/",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:05:21.487Z",
-      "contentStatus": "ready",
-      "contentHash": "9d00d762063febaa01703fcd1a2a57d73b4cc55a066fe5219123d93a17e5d497",
-      "rawPath": "data/raw/9943341bbeb33209d2190bb299bf8fe4.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "3dc8e858d168f065e595b0a0fa5a71cb",
       "title": "2026-07-16 PerceptionBench",
       "url": "https://www.kimi.com/en/blog/perception-bench",
@@ -2632,17 +2445,6 @@
       "contentStatus": "ready",
       "contentHash": "620ca1282945a6be0f79ea97282b3cd6c882cf8a130fbe8c83301b9ec2f86269",
       "rawPath": "data/raw/c84785b7885bca32a7cbe6b51a932a51.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "18ad884bb4065a234b2377b3c19ada46",
-      "title": "Citrine's Blog",
-      "url": "https://citrine.io/resources/blog/",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:05:19.356Z",
-      "contentStatus": "ready",
-      "contentHash": "01ca9f9e4f3c4531930869196c88eef39bf5aecabe8eca1e71b77f80c9d3ce43",
-      "rawPath": "data/raw/18ad884bb4065a234b2377b3c19ada46.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -2687,17 +2489,6 @@
       "contentStatus": "ready",
       "contentHash": "f1b7009fe4cd7fa65ff308aa2b9afce01c54f3a4bf44d4af7dbb71bb5d0c49ee",
       "rawPath": "data/raw/6be980d4830caf8e94191b8e64f878ea.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "8213e735607ba7abe94c56882f96722f",
-      "title": "White Papers",
-      "url": "https://citrine.io/resources/white-papers/",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:05:19.356Z",
-      "contentStatus": "ready",
-      "contentHash": "0f39dba3e27732dab6695f5525f9dbbeffbfb71803769cf3dcff35d7377f13be",
-      "rawPath": "data/raw/8213e735607ba7abe94c56882f96722f.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -2753,17 +2544,6 @@
       "contentStatus": "ready",
       "contentHash": "56ce4afdc1a5a0d2246de57f75556ebded4df0b087a5ec855ba26c4a41329315",
       "rawPath": "data/raw/ba6ae8597bf497863e22fe46960d8590.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "c1c7c9a3c6e5fe4d2b09045827b335cd",
-      "title": "Demystification",
-      "url": "https://citrine.io/category/blog/demystification/",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:05:19.356Z",
-      "contentStatus": "ready",
-      "contentHash": "3fe0bba669d63051a37b89fe69b10d1cde2b476c2dbdca25f0445804be658bac",
-      "rawPath": "data/raw/c1c7c9a3c6e5fe4d2b09045827b335cd.json",
       "lastAnalysisStatus": "pending"
     },
     {
