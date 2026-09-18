@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-18T04:10:42.525Z",
-  "pendingCount": 314,
-  "readyCount": 314,
+  "updatedAt": "2026-09-18T04:13:05.692Z",
+  "pendingCount": 307,
+  "readyCount": 307,
   "awaitingContentCount": 0,
   "excludedContentCount": 265,
   "items": [
@@ -711,17 +711,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "02f6f0ef2180dd0e7f7ff05300f2dd8b",
-      "title": "Genomics Translate raw sequencing data into actionable insights and clinical applications. View segment »",
-      "url": "https://aws.amazon.com/health/genomics/",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T07:35:36.375Z",
-      "contentStatus": "ready",
-      "contentHash": "49c45ebe943d7f32cff001811de6f8140c68db9d410553abdaffa575574b94e1",
-      "rawPath": "data/raw/02f6f0ef2180dd0e7f7ff05300f2dd8b.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "3596b51aa386a5eb1dfd2b67f97a5d2e",
       "title": "Amazon Quick AI-powered assistant for work with research, business insights, automation, and no-code app building",
       "url": "https://aws.amazon.com/quick/?nc2=h_prod_fs_q",
@@ -1239,17 +1228,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "005bc69d490644cdd4301b520e25bb05",
-      "title": "analytica China 2026 2026.11.16-18",
-      "url": "https://www.analyticachina.com.cn/cn/analytica-china-2026",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T07:35:33.582Z",
-      "contentStatus": "ready",
-      "contentHash": "abccd240da9fee2b959e7e25f6f69110b73caf4e1144166ebcc7cc4ecae4a2df",
-      "rawPath": "data/raw/005bc69d490644cdd4301b520e25bb05.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "15ab30b53b78c56be73f7084e13dbd69",
       "title": "2026年上海国际分析化学研讨会",
       "url": "https://www.analyticachina.com.cn/cn/analytica-china-2026/Supporting-program/CCS2026",
@@ -1613,17 +1591,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "04fe8e41359a28194f7021b51cc883c5",
-      "title": "Poster Prizes Awarded at IUCr",
-      "url": "https://www.rcsb.org/news/feature/6a9974be3bf5580b84a87d3c",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:57:50.143Z",
-      "contentStatus": "ready",
-      "contentHash": "09efa6461a0e57d8b035c44d2712d824b9cd725541f35d1e489475e41645eac3",
-      "rawPath": "data/raw/04fe8e41359a28194f7021b51cc883c5.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "2f657d7f21c66a9e4e5771be6c7902c8",
       "title": "Reuse Metadata from Previous PDB Depositions",
       "url": "https://www.rcsb.org/news/feature/6a626da53bf5580b84a87d27",
@@ -1789,17 +1756,6 @@
       "lastAnalysisStatus": "failed"
     },
     {
-      "id": "0436ef5fde503c3e148954a15666fcdb",
-      "title": "我所实现光和光热驱动氨基锂—氢化锂复合体系可逆储氢",
-      "url": "https://www.dicp.ac.cn/xwdt/kyjz/202609/t20260908_8279580.html",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:57:41.220Z",
-      "contentStatus": "ready",
-      "contentHash": "e6c90bf64b06b05a441c4a8f786e3987064ea00bd6f192eb4e6aeca26a18cd68",
-      "rawPath": "data/raw/0436ef5fde503c3e148954a15666fcdb.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "0bc4a8de3a3af4e5447d277ade072a6f",
       "title": "我所揭示溶剂占据调控分子筛微孔催化扩散机制",
       "url": "https://www.dicp.ac.cn/xwdt/kyjz/202609/t20260907_8279040.html",
@@ -1918,17 +1874,6 @@
       "contentStatus": "ready",
       "contentHash": "cfac09fc80c076170140ca99921c7f839096ae4bf9ad5ac2d256525d956f7566",
       "rawPath": "data/raw/ee8d49455842f8c9d9355ebf4cd7e649.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "047fad8381b7ca794ad58d2c6c1ea66f",
-      "title": "新闻动态 人工智能赋能科学研究专题论坛观众报名通道开启 | 2026浦江创新论坛",
-      "url": "https://www.shlab.org.cn/news/5444289",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:57:40.684Z",
-      "contentStatus": "ready",
-      "contentHash": "e3cf6280ec1251f06d5560e95fc743f5959a759ca9112fd61aaa52cb4863f6cf",
-      "rawPath": "data/raw/047fad8381b7ca794ad58d2c6c1ea66f.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -2955,17 +2900,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "045d5c92ac47b435f5c365dd3151412d",
-      "title": "NIST Finalizes Guidelines on Protecting Online Identity and Access Tokens From Misuse",
-      "url": "https://www.nist.gov/news-events/news/2026/09/nist-finalizes-guidelines-protecting-online-identity-and-access-tokens",
-      "publishedAt": "2026-09-15T12:00:00.000Z",
-      "crawledAt": "2026-09-16T05:12:09.634Z",
-      "contentStatus": "ready",
-      "contentHash": "0f9ebf7974e155178c8e7f3ad12dc2451550fc380888dcae042f0b3682e263d7",
-      "rawPath": "data/raw/045d5c92ac47b435f5c365dd3151412d.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "8c6a8f61a369111579c725f932e90b5e",
       "title": "NIST Awards More Than $30 Million for MEP Centers in 11 States and Puerto Rico",
       "url": "https://www.nist.gov/news-events/news/2026/09/nist-awards-more-30-million-mep-centers-11-states-and-puerto-rico",
@@ -3326,17 +3260,6 @@
       "contentStatus": "ready",
       "contentHash": "09567e35aa95214e9a27020ce0ae626ad1c3f007e69ac5677bb5202f9516eeba",
       "rawPath": "data/raw/c22380108525590c1f6a73671d1a601f.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "025d9a87838831eddd4fb583d2cf733a",
-      "title": "DeepSeek R1",
-      "url": "https://www.deepseek.com/news/r1-0528/",
-      "publishedAt": "2025-05-28T00:00:00.000Z",
-      "crawledAt": "2026-09-16T06:05:19.446Z",
-      "contentStatus": "ready",
-      "contentHash": "e15d40adc5b97eedef74b3bec62420af39fa08cf241e5a400d0dd64d5c5f828b",
-      "rawPath": "data/raw/025d9a87838831eddd4fb583d2cf733a.json",
       "lastAnalysisStatus": "pending"
     },
     {

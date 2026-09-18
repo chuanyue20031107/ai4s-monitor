@@ -5299,8 +5299,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://aws.amazon.com/health/genomics/",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "AWS基因组服务总览混合产品、案例标题和资源入口，缺少单项AI4S方法及验证正文，不把客户列表和营销数字当研究结果。",
+      "analyzedAt": "2026-09-18T04:10:12.107Z",
+      "batchFile": "data/inbox/2026-09-18T04-10-12-107Z-full-017-reviewed.json"
     },
     {
       "id": "3596b51aa386a5eb1dfd2b67f97a5d2e",
@@ -6548,8 +6550,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.analyticachina.com.cn/cn/analytica-china-2026",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "展会时间、参展规模与招商简介，没有具体AI4S技术或实验成果。",
+      "analyzedAt": "2026-09-18T04:10:12.107Z",
+      "batchFile": "data/inbox/2026-09-18T04-10-12-107Z-full-017-reviewed.json"
     },
     {
       "id": "0363628f4157d3f9e6c587754dd48303",
@@ -7356,8 +7360,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.rcsb.org/news/feature/6a9974be3bf5580b84a87d3c",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "海报奖项报道只列研究题名、作者及资助方，未给出AI方法或研究结果；不凭结构生物学主题推定AI4S相关性。",
+      "analyzedAt": "2026-09-18T04:10:12.107Z",
+      "batchFile": "data/inbox/2026-09-18T04-10-12-107Z-full-017-reviewed.json"
     },
     {
       "id": "07882c0550660c2b59d0d42b67a14469",
@@ -7857,8 +7863,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.dicp.ac.cn/xwdt/kyjz/202609/t20260908_8279580.html",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "正文是光和光热驱动固态储氢研究，虽有实验数据，但未使用AI、机器学习或自主实验方法，与AI4S分析范围不符。",
+      "analyzedAt": "2026-09-18T04:10:12.107Z",
+      "batchFile": "data/inbox/2026-09-18T04-10-12-107Z-full-017-reviewed.json"
     },
     {
       "id": "09db20d7a6465a68036a924d4ea85f26",
@@ -8133,8 +8141,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.shlab.org.cn/news/5444289",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "AI赋能科学论坛报名与议题预告，没有具体研究方法、发布成果或实验结果。",
+      "analyzedAt": "2026-09-18T04:10:12.107Z",
+      "batchFile": "data/inbox/2026-09-18T04-10-12-107Z-full-017-reviewed.json"
     },
     {
       "id": "0cb5a5ce9c391dc8b65747d39ca69b3d",
@@ -9554,17 +9564,28 @@
       "sourceKey": "s03-01",
       "sourceName": "DeepSeek",
       "sourceType": "通用模型厂商",
-      "category": "",
+      "category": "模型",
       "publishedAt": "2025-05-28T00:00:00.000Z",
       "crawledAt": "2026-09-16T06:05:19.446Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "DeepSeek在R1-0528公告中报告AIME 2025准确率由70%升至87.5%，平均每题输出由12K增至23K tokens；沿用V3 Base并增加后训练算力，还蒸馏出Qwen3-8B版本。工具调用、JSON输出与MIT许可提供工程接入和再训练路径。分析判断：数学推理改善伴随更长推理开销，不能只以准确率评价成本收益；这些通用基准也未证明在化学、材料或生物实验任务上的可靠性。",
+      "score": 3,
+      "importanceReason": "给出推理准确率与token开销的配对变化，并提供小模型蒸馏与开放许可线索。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "模型"
+      ],
       "url": "https://www.deepseek.com/news/r1-0528/",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-18T04:10:12.107Z",
+      "evidence": [
+        {
+          "url": "https://www.deepseek.com/news/r1-0528/",
+          "quote": "新版模型准确率由旧版的 70% 提升至 87.5%。"
+        }
+      ],
+      "limitations": "厂商历史公告；未提供完整采样配置和统计区间，幻觉下降比例的任务分布与评判方法不详，不视为当前实时API说明。",
+      "batchFile": "data/inbox/2026-09-18T04-10-12-107Z-full-017-reviewed.json"
     },
     {
       "id": "168259b200fd1da6c9d41fba5f53c55e",
@@ -10697,8 +10718,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.nist.gov/news-events/news/2026/09/nist-finalizes-guidelines-protecting-online-identity-and-access-tokens",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "内容为身份令牌与访问管理安全指南，没有AI科学发现方法或实验研究，属于一般网络安全标准新闻。",
+      "analyzedAt": "2026-09-18T04:10:12.107Z",
+      "batchFile": "data/inbox/2026-09-18T04-10-12-107Z-full-017-reviewed.json"
     },
     {
       "id": "48af4181ac1ee7d02789f4c797d1476a",
@@ -11333,5 +11356,5 @@
       "failureReason": ""
     }
   ],
-  "updatedAt": "2026-09-18T04:10:42.525Z"
+  "updatedAt": "2026-09-18T04:13:05.692Z"
 }
