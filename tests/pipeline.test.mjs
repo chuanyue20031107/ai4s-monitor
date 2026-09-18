@@ -46,8 +46,7 @@ test('legacy done flags and rule digests are archived, never treated as model ou
   writeJson(path.join(root, 'client/public/data/articles.json'), { items: [{ ...r, analysisStatus: 'done', score: 5 }] });
   writeJson(path.join(root, 'client/public/data/digest.json'), { digest: { content: 'fake rules' } });
   publish(root);
-  assert.equal(readJson(path.join(root, 'client/public/data/articles.json')).items[0].analysisStatus, 'pending');
-  assert.equal(readJson(path.join(root, 'client/public/data/articles.json')).items[0].score, 0);
+  assert.equal(readJson(path.join(root, 'client/public/data/articles.json')).items.length, 0);
   assert.equal(readJson(path.join(root, 'client/public/data/digest.json')).digest, null);
   assert.equal(readJson(path.join(root, 'data/legacy/digest.json')).digest.content, 'fake rules');
   migrate(root); assert.equal(fs.readdirSync(path.join(root, 'data/raw')).length, 1);
@@ -58,7 +57,19 @@ test('content hashes, evidence, score and available body are required for done',
   assert.throws(() => validateAnalysis({ ...a, contentHash: sha256('wrong') }, r), /stale/);
   assert.throws(() => validateAnalysis({ ...a, evidence: [{ url: r.url, quote: 'This was never in the article.' }] }, r), /evidence/);
   assert.throws(() => validateAnalysis({ ...a, score: 8 }, r), /score/);
-  assert.throws(() => validateAnalysis(a, { ...r, contentStatus: 'needs_fetch' }), /insufficient/);
+  assert.throws(() => validateAnalysis(a, { ...r, contentStatus: 'needs_fetch' }), /excluded_source_content/);
+});
+test('records without usable正文 are excluded from queue and Pages data', () => {
+  const root = fixture(), r = raw(); migrate(root); putRaw(root, r);
+  const missing = { ...r, id: articleId('https://example.org/news/missing'), url: 'https://example.org/news/missing', content: '标题导航', contentHash: sha256('标题导航'), contentStatus: 'insufficient_content' };
+  putRaw(root, missing); publish(root);
+  const articles = readJson(path.join(root, 'client/public/data/articles.json')).items;
+  const queue = readJson(path.join(root, 'data/queue.json'));
+  assert.equal(articles.some((a) => a.id === missing.id), false);
+  assert.equal(queue.items.some((a) => a.id === missing.id), false);
+  assert.equal(queue.excludedContentCount, 1);
+  assert.equal(readJson(path.join(root, 'client/public/data/analysis-status.json')).awaitingContent, 0);
+  fs.rmSync(root, { recursive: true });
 });
 test('malformed batches are rejected and valid analyses remain published', () => {
   const root = fixture(), r = raw(); migrate(root); putRaw(root, r); inbox(root, batch(r));
@@ -96,3 +107,4 @@ test('zero enabled sources exits normally, unsupported WeRSS is marked needs_con
   assert.equal(r.failed, 1); assert.equal(readJson(path.join(root, 'client/public/data/sources.json')).items[0].crawlStatus, 'needs_config');
   fs.rmSync(root, { recursive: true });
 });
+
