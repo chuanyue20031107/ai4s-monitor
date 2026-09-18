@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-18T04:00:06.330Z",
-  "pendingCount": 320,
-  "readyCount": 320,
+  "updatedAt": "2026-09-18T04:10:42.525Z",
+  "pendingCount": 314,
+  "readyCount": 314,
   "awaitingContentCount": 0,
   "excludedContentCount": 265,
   "items": [
@@ -3153,17 +3153,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "43c9df58eecbae3946265c2fc8be0918",
-      "title": "创新驱动，品质领航丨CPHI & PMEC China 2026华彩谢幕，2027年虹桥再启新程",
-      "url": "https://www.cphi-china.cn/industrynews/mseindustrynews/94479/",
-      "publishedAt": "2026-06-29T03:00:34.000Z",
-      "crawledAt": "2026-09-16T08:36:58.199Z",
-      "contentStatus": "ready",
-      "contentHash": "effd3c20c5ed00b4c1b75f3a7372e9b9e459b29c8c719cecf28cd820a2a2b886",
-      "rawPath": "data/raw/43c9df58eecbae3946265c2fc8be0918.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "abfcaf3a980ff4247cdcfe9f94b5e22f",
       "title": "From AI Insights to Experimental Action In this Digital Dialogue, we examined how AI was driving actionable insights in BioPharma R&D.... Read&nbsp;more",
       "url": "https://www.lab-of-the-future.com/2026/06/11/from-ai-insights-to-experimental-action/",
@@ -3194,17 +3183,6 @@
       "contentStatus": "ready",
       "contentHash": "3e427cd68e5149cf9539966231f7e3860c3b7d3a12d1bba18bd217fd3441317c",
       "rawPath": "data/raw/3bd91597edc44646f346abe3c697619a.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "f8161afce487b7472b769fdeeadaf956",
-      "title": "Careers",
-      "url": "https://www.ornl.gov/careers",
-      "publishedAt": "2026-05-12T18:35:16.000Z",
-      "crawledAt": "2026-09-17T02:32:18.701Z",
-      "contentStatus": "ready",
-      "contentHash": "d0eba44d02ea144e888e152ebe1edda56126fbaab932a0a2f71f99a1747800f0",
-      "rawPath": "data/raw/f8161afce487b7472b769fdeeadaf956.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -3417,28 +3395,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "c903967dc43641a71a372406ef739215",
-      "title": "Publications",
-      "url": "https://www.nist.gov/publications",
-      "publishedAt": "2019-05-09T14:23:00.000Z",
-      "crawledAt": "2026-09-16T05:12:09.633Z",
-      "contentStatus": "ready",
-      "contentHash": "a630aae000c1c6e86a32748342110b6b05f2a9b01fa7e9cd8cf30ae67f843194",
-      "rawPath": "data/raw/c903967dc43641a71a372406ef739215.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "fbaa6afee3dc2f464cb95c1eae1f0f2e",
-      "title": "Blogs",
-      "url": "https://www.nist.gov/blogs",
-      "publishedAt": "2019-05-09T14:20:00.000Z",
-      "crawledAt": "2026-09-16T05:12:09.634Z",
-      "contentStatus": "ready",
-      "contentHash": "66cee9dbcdbb218deb36576b1d5cd3df48565fc57bb49a0c46a437ab138fc9f3",
-      "rawPath": "data/raw/fbaa6afee3dc2f464cb95c1eae1f0f2e.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "48af4181ac1ee7d02789f4c797d1476a",
       "title": "History",
       "url": "https://www.nist.gov/history",
@@ -3483,17 +3439,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "10c288f7441df7267d3a401562dcea36",
-      "title": "Carlos Slim Center for Health Research The Slim Center aims to bring the benefits of genomics-driven medicine to Latin America, gleaning new insights into diseases with relevance to the region.",
-      "url": "https://www.broadinstitute.org/sigma",
-      "publishedAt": "2015-12-07T20:21:27.000Z",
-      "crawledAt": "2026-09-16T05:12:08.435Z",
-      "contentStatus": "ready",
-      "contentHash": "98ce30b962b0a274bc609b450590495654e369c8c86499ddda8ec7b8db9c5fc1",
-      "rawPath": "data/raw/10c288f7441df7267d3a401562dcea36.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "5be1a17feb49df245f13eacbe6b7cec7",
       "title": "Research Test Beds",
       "url": "https://www.nist.gov/research-test-beds",
@@ -3513,17 +3458,6 @@
       "contentStatus": "ready",
       "contentHash": "2fa7525bc6636b3c1ccceb14ee985ad303709a98afe2fe95a097117dc760960b",
       "rawPath": "data/raw/6a200ea211a7887a5a70c29d006c2701.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "ea99ed4d76a03cc289166b64e8648b04",
-      "title": "This is Broad Learn about our mission, values, and history.",
-      "url": "https://www.broadinstitute.org/about-broad-institute",
-      "publishedAt": "2010-05-26T21:44:48.000Z",
-      "crawledAt": "2026-09-16T05:12:08.435Z",
-      "contentStatus": "ready",
-      "contentHash": "cb1ea28331b974b553da2c1e573cbfe78664e2719113b25bb845d90f66590c54",
-      "rawPath": "data/raw/ea99ed4d76a03cc289166b64e8648b04.json",
       "lastAnalysisStatus": "pending"
     }
   ]

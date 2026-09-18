@@ -2348,8 +2348,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.ornl.gov/careers",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "ORNL招聘入口与岗位分类，不是科学研究成果或具备具体AI4S技术信息的人才任命报道。",
+      "analyzedAt": "2026-09-18T03:58:40.125Z",
+      "batchFile": "data/inbox/2026-09-18T03-58-40-125Z-full-016-reviewed.json"
     },
     {
       "id": "febaf6ce103333992e9a51b251159b99",
@@ -3895,8 +3897,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.cphi-china.cn/industrynews/mseindustrynews/94479/",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "展会规模与参展商总结，虽列智慧实验室专区和AI论坛，但没有单项AI4S研究方法、数据或验证结果。",
+      "analyzedAt": "2026-09-18T03:58:40.125Z",
+      "batchFile": "data/inbox/2026-09-18T03-58-40-125Z-full-016-reviewed.json"
     },
     {
       "id": "0e860e4cf6107e6fa4565648166cd4d8",
@@ -10873,8 +10877,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.nist.gov/blogs",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "NIST博客总览仅描述计量服务使命，没有具体科学AI方法或结果。",
+      "analyzedAt": "2026-09-18T03:58:40.125Z",
+      "batchFile": "data/inbox/2026-09-18T03-58-40-125Z-full-016-reviewed.json"
     },
     {
       "id": "c903967dc43641a71a372406ef739215",
@@ -10891,8 +10897,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.nist.gov/publications",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "NIST出版物目录仅摘取回收设施研究导语，没有完整研究或AI方法信息，不能作为单项AI4S成果。",
+      "analyzedAt": "2026-09-18T03:58:40.125Z",
+      "batchFile": "data/inbox/2026-09-18T03-58-40-125Z-full-016-reviewed.json"
     },
     {
       "id": "f93f00b36746f670fa74167d309f996a",
@@ -10936,8 +10944,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.broadinstitute.org/sigma",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "研究中心使命简介仅称服务拉美基因组医学，未提供AI方法、数据发布或研究结果。",
+      "analyzedAt": "2026-09-18T03:58:40.125Z",
+      "batchFile": "data/inbox/2026-09-18T03-58-40-125Z-full-016-reviewed.json"
     },
     {
       "id": "16a339fe911038b785319debb66da06d",
@@ -11161,8 +11171,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.broadinstitute.org/about-broad-institute",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "Broad机构介绍与价值观页面，项目及合作方概览不是单项可核验的AI4S成果；不凭AI关键词赋予研究结果。",
+      "analyzedAt": "2026-09-18T03:58:40.125Z",
+      "batchFile": "data/inbox/2026-09-18T03-58-40-125Z-full-016-reviewed.json"
     },
     {
       "id": "20ea80092336076a9d4540e9c4c3c526",
@@ -11321,5 +11333,5 @@
       "failureReason": ""
     }
   ],
-  "updatedAt": "2026-09-18T04:00:06.330Z"
+  "updatedAt": "2026-09-18T04:10:42.525Z"
 }
