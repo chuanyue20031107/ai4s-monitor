@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-18T02:21:57.703Z",
-  "pendingCount": 342,
-  "readyCount": 342,
+  "updatedAt": "2026-09-18T03:28:12.724Z",
+  "pendingCount": 337,
+  "readyCount": 337,
   "awaitingContentCount": 0,
   "excludedContentCount": 265,
   "items": [
@@ -2823,17 +2823,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "90ad2d09bdd9102b81502fb6606b5993",
-      "title": "Recursion Reports Second Quarter Financial Results; Genentech Options First Neuroscience Target into Early Discovery Program",
-      "url": "https://ir.recursion.com/news-releases/news-release-details/recursion-reports-second-quarter-financial-results-genentech",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T05:12:19.802Z",
-      "contentStatus": "ready",
-      "contentHash": "8a51f6cc07e13b009f29a3cfac4bc1b6f7b2ae1f98cc050783be57deeeadfce3",
-      "rawPath": "data/raw/90ad2d09bdd9102b81502fb6606b5993.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "a895084daaad9b425cee67b5a5fe13be",
       "title": "Recursion to Participate in Upcoming Investor Conferences",
       "url": "https://ir.recursion.com/news-releases/news-release-details/recursion-participate-upcoming-investor-conferences-19",
@@ -2886,39 +2875,6 @@
       "contentStatus": "ready",
       "contentHash": "efcce94c68f9cf8e6f4809e5d719787c733e7929c1cf271ad2d5bf05b9841049",
       "rawPath": "data/raw/6f8920402e88f9ce32967c85e1ccf7b0.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "dfc7638a2c2a9bfe0f816ead0db09037",
-      "title": "See all research",
-      "url": "https://arcinstitute.org/research",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T05:12:12.188Z",
-      "contentStatus": "ready",
-      "contentHash": "a2d255252ded658501af0a9a0ceb25afe52f8ea565bf7147df88eeaddbffc331",
-      "rawPath": "data/raw/dfc7638a2c2a9bfe0f816ead0db09037.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "f93f00b36746f670fa74167d309f996a",
-      "title": "Google Research Explore our research",
-      "url": "https://research.google/",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T05:12:08.466Z",
-      "contentStatus": "ready",
-      "contentHash": "760d60398caf36ff4f4cb8b2665eae725f15c207f57567fa539dfcbb034de717",
-      "rawPath": "data/raw/f93f00b36746f670fa74167d309f996a.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "abb61e5304ce540025943f05e0013301",
-      "title": "Publications A catalog of scientific papers published by our members and staff scientists.",
-      "url": "https://www.broadinstitute.org/publications",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T05:12:08.435Z",
-      "contentStatus": "ready",
-      "contentHash": "dac7df62ca5317b9aba186368f41d162c9b0d6476672eab44e5189e91044992d",
-      "rawPath": "data/raw/abb61e5304ce540025943f05e0013301.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -2985,17 +2941,6 @@
       "contentStatus": "ready",
       "contentHash": "a74142ae94a42261f41ac9c1e9b57f861c2b0c373683ea50b9098c302a2e1753",
       "rawPath": "data/raw/965fb1c58caee959c31def897f4ff410.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "f406e5157407d88d6d1b927962898bb0",
-      "title": "Vision AI Transform data into valuable insights using vision AI",
-      "url": "https://www.nvidia.com/en-us/autonomous-machines/intelligent-video-analytics-platform/",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T05:12:08.213Z",
-      "contentStatus": "ready",
-      "contentHash": "e91aeadff7acde98b4178ceb09d499f0c482f1b4dfda996db5bc63b21aa03ab9",
-      "rawPath": "data/raw/f406e5157407d88d6d1b927962898bb0.json",
       "lastAnalysisStatus": "pending"
     },
     {

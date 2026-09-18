@@ -10392,17 +10392,30 @@
       "sourceKey": "s02-02",
       "sourceName": "Recursion",
       "sourceType": "AI药物/自动化实验公司",
-      "category": "",
+      "category": "产业与商业",
       "publishedAt": null,
       "crawledAt": "2026-09-16T05:12:19.802Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "Recursion公布季度业务更新，称Genentech将合作中的首个神经科学靶点推进至联合早期发现项目，并将其作为平台产生新靶点的早期证据。页面同时列出REC-4881和REC-7735等管线进展。分析判断：合作方推进靶点是平台商业验证信号，但当前页面主要是企业财务和管线自述，尚不能证明靶点的临床有效性或平台相对传统发现的增益。",
+      "score": 3,
+      "importanceReason": "披露合作方将平台产出的神经科学靶点推进到联合发现阶段，具有明确的AI药物发现转化节点。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "模型",
+        "药物设计",
+        "商业合作"
+      ],
       "url": "https://ir.recursion.com/news-releases/news-release-details/recursion-reports-second-quarter-financial-results-genentech",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-18T02:25:00Z",
+      "evidence": [
+        {
+          "url": "https://ir.recursion.com/news-releases/news-release-details/recursion-reports-second-quarter-financial-results-genentech",
+          "quote": "Genentech advanced the collaboration's first neuroscience target into a joint early discovery program"
+        }
+      ],
+      "limitations": "公司投资者关系稿件，缺少靶点名称、验证实验、候选物数据和独立合作方评估。",
+      "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     },
     {
       "id": "a895084daaad9b425cee67b5a5fe13be",
@@ -10500,17 +10513,28 @@
       "sourceKey": "s01-10",
       "sourceName": "Arc Institute",
       "sourceType": "非营利研究机构",
-      "category": "",
+      "category": "数据",
       "publishedAt": null,
       "crawledAt": "2026-09-16T05:12:12.188Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "Arc Institute研究页介绍利用32项全基因组规模CRISPR干扰化学遗传筛选，研究DNA损伤反应中PRDX1依赖的铁损伤轴。记录给出了筛选数量和研究问题，属于以大规模功能基因组数据解析细胞机制的研究线索。分析判断：实验设计规模较具体，但当前抓取内容是研究目录摘要，缺少完整论文结果、效应量及重复性信息。",
+      "score": 3,
+      "importanceReason": "明确报告32项全基因组CRISPR化学遗传筛选，数据规模和生物学问题均可追踪。",
+      "contentType": "paper_result",
+      "moatTags": [
+        "数据"
+      ],
       "url": "https://arcinstitute.org/research",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-18T02:25:00Z",
+      "evidence": [
+        {
+          "url": "https://arcinstitute.org/research",
+          "quote": "data from 32 genome-scale loss-of-function CRISPR interference chemical–genetic screens"
+        }
+      ],
+      "limitations": "研究目录摘要未提供筛选条件、统计结果、验证实验或论文全文。",
+      "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     },
     {
       "id": "045d5c92ac47b435f5c365dd3151412d",
@@ -10734,17 +10758,26 @@
       "sourceKey": "s01-01",
       "sourceName": "Google DeepMind",
       "sourceType": "科技大厂研究机构",
-      "category": "",
+      "category": "其他",
       "publishedAt": null,
       "crawledAt": "2026-09-16T05:12:08.466Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
+      "summary": "Google Research首页是机构使命与研究宣传总览，未指向单项AI4S研究、数据集、实验结果或可核对的技术发布。",
+      "score": 1,
+      "importanceReason": "页面为泛化机构介绍，缺少单一情报事件和具体证据。",
+      "contentType": "company_claim",
       "moatTags": [],
       "url": "https://research.google/",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "机构首页而非具体AI4S成果，按协议 discarded。",
+      "analyzedAt": "2026-09-18T02:25:00Z",
+      "evidence": [
+        {
+          "url": "https://research.google/",
+          "quote": "Our goal is to build a world where AI is more than a tool"
+        }
+      ],
+      "limitations": "首页内容范围过宽且为宣传性概览。",
+      "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     },
     {
       "id": "10c288f7441df7267d3a401562dcea36",
@@ -10932,17 +10965,26 @@
       "sourceKey": "s01-06",
       "sourceName": "Broad Institute",
       "sourceType": "非营利研究机构",
-      "category": "",
+      "category": "其他",
       "publishedAt": null,
       "crawledAt": "2026-09-16T05:12:08.435Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
+      "summary": "Broad Institute publications目录列出多篇论文条目，当前抓取内容是文献索引，未提供与AI4S相关的单项论文正文或可追溯实验结果。",
+      "score": 1,
+      "importanceReason": "目录混合多个研究领域，无法从当前正文确定单一AI4S情报。",
+      "contentType": "media_report",
       "moatTags": [],
       "url": "https://www.broadinstitute.org/publications",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "混合文献目录，缺乏单项AI4S正文，按协议 discarded。",
+      "analyzedAt": "2026-09-18T02:25:00Z",
+      "evidence": [
+        {
+          "url": "https://www.broadinstitute.org/publications",
+          "quote": "Demographic and clinical characteristics of participants"
+        }
+      ],
+      "limitations": "目录条目缺少完整论文内容和AI方法证据。",
+      "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     },
     {
       "id": "c7452e96083799c13e14fb66798ab27f",
@@ -11094,17 +11136,29 @@
       "sourceKey": "s01-03",
       "sourceName": "NVIDIA Research",
       "sourceType": "科技大厂研究机构",
-      "category": "",
+      "category": "自动化实验室",
       "publishedAt": null,
       "crawledAt": "2026-09-16T05:12:08.213Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "NVIDIA页面概述面向机器人和视觉分析的AI平台，包含边缘实时决策、机器人仿真训练部署、ROS 2感知移动栈、机器人基础模型工具和云端编排。分析判断：这些能力可作为实验机器人和科学自动化的通用基础设施，但页面主要是产品能力清单，没有科学实验案例、性能基准或具体AI4S应用结果。",
+      "score": 2,
+      "importanceReason": "公开了机器人仿真、训练、部署及基础模型工具等自动化基础设施能力，具有AI4S潜在支撑价值。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "模型",
+        "实验自动化"
+      ],
       "url": "https://www.nvidia.com/en-us/autonomous-machines/intelligent-video-analytics-platform/",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-18T02:25:00Z",
+      "evidence": [
+        {
+          "url": "https://www.nvidia.com/en-us/autonomous-machines/intelligent-video-analytics-platform/",
+          "quote": "AI robotics platform for robot simulation, training, and deployment"
+        }
+      ],
+      "limitations": "厂商产品页，缺少实验室场景验证、吞吐量、准确率和故障数据。",
+      "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     },
     {
       "id": "374943fc5d4021679df9225e9d26fcf6",
@@ -11125,5 +11179,5 @@
       "failureReason": ""
     }
   ],
-  "updatedAt": "2026-09-18T02:21:57.703Z"
+  "updatedAt": "2026-09-18T03:28:12.724Z"
 }
