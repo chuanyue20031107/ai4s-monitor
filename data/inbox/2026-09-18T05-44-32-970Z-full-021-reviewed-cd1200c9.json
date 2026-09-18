@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 1,
+  "generator": "chatgpt-task",
+  "createdAt": "2026-09-18T05:44:32.970Z",
+  "analyses": [
+    {
+      "articleId": "2f657d7f21c66a9e4e5771be6c7902c8",
+      "contentHash": "82852357b39071d1f94259ec31ec66da2bd04bd7586180a7462b06f628bfa795",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-18T05:44:32.970Z",
+      "failureReason": "",
+      "category": "数据",
+      "summary": "wwPDB更新OneDep的既有提交元数据复用功能，允许结构生物学研究者选择复制作者、引用、经费、分子及实验信息等类别，随后把选定mmCIF元数据合入新条目，并在上传摘要中显示导入、跳过或阻止的内容。原条目须与新条目位于同一wwPDB站点，访问需要原提交凭据或ORCID认证。分析判断：这是结构数据生产流程的质量与效率改进，可减少重复录入错误；不是新增蛋白质预测模型，也没有报告错误率降低的量化幅度。",
+      "score": 2,
+      "importanceReason": "明确改善结构数据库元数据复用及导入追踪，有利于科研数据一致性但影响属流程层面。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "数据"
+      ],
+      "limitations": "功能公告没有用户规模、录入时间或错误率的对照测量，不能据此量化模型训练收益。",
+      "evidence": [
+        {
+          "url": "https://www.rcsb.org/news/feature/6a626da53bf5580b84a87d27",
+          "quote": "Selected mmCIF metadata is merged into the new entry before annotation."
+        },
+        {
+          "url": "https://www.rcsb.org/news/feature/6a626da53bf5580b84a87d27",
+          "quote": "The previous entry must be deposited at the same wwPDB site as the current entry."
+        }
+      ]
+    },
+    {
+      "articleId": "32104070de598ef9dbd1c922058dec36",
+      "contentHash": "c443690f3313ceac85a4ca425354d942deb7ac086ac29edc81ce11ef61741579",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-18T05:44:32.970Z",
+      "failureReason": "",
+      "category": "模型",
+      "summary": "上海AI实验室介绍Intern-S2-Preview通过覆盖预训练至后训练的多任务融合、强化学习及实数预测模块，增强小规模模型的科学推理和结构生成。报道在多组学任务上下文中提到35B模型可比肩其万亿参数模型；MolecularIQ得分57.26，对照Gemini-3.1-Pro为41.33，晶体结构生成通过率自述超过40%。分析判断：把连续坐标预测纳入通用模型是具体方法进展，但结构通过校验不代表材料可合成、稳定或性质优越，也不能与后续397B版本混为一条模型结果。",
+      "score": 3,
+      "importanceReason": "提供具名科学基准、数值比较及结构生成机制，仍需原始任务定义和独立复现支持。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "模型",
+        "材料发现"
+      ],
+      "limitations": "发布方自测；未说明晶体通过率判定、样本数量、完整对照设置和实验合成验证，不采信首创范围为独立核实事实。",
+      "evidence": [
+        {
+          "url": "https://www.shlab.org.cn/news/5444267",
+          "quote": "Intern-S2-Preview在MolecularIQ上取得57.26分，超过Gemini-3.1-Pro的41.33分"
+        },
+        {
+          "url": "https://www.shlab.org.cn/news/5444267",
+          "quote": "Intern-S2-Preview的通过率超40%"
+        }
+      ]
+    },
+    {
+      "articleId": "340590bc469ad58de19083fa2007d12c",
+      "contentHash": "baf11571c7a86932cc3fdadbf3c09b54cda6541bbb36ad408d1ce9ae7b0e3127",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-18T05:44:32.970Z",
+      "failureReason": "",
+      "category": "自动化实验室",
+      "summary": "SCI报道Chemify把化学编程语言、机器人和已验证反应数据库结合，将目标分子转为可由设备执行的化学代码，支持设计—合成—测试—分析循环。报道记载首个格拉斯哥Chemifarm于2025年6月开放，后续融资计划用于扩建网络，并与Lgenia推进结核相关小分子设计优化。分析判断：关键价值是让实验细节可执行、可重复，以连接AI提出的分子与现实合成；访谈也承认化学意图与代码表达之间仍有差距，不能据愿景声称已覆盖全部化学反应。",
+      "score": 3,
+      "importanceReason": "报道具名运行设施及编程、自动化和反应数据的结合方式，体现化学闭环落地路径。",
+      "contentType": "media_report",
+      "moatTags": [
+        "数据",
+        "实验自动化",
+        "药物设计"
+      ],
+      "limitations": "媒体访谈主要依据公司陈述，正文末尾截断；缺合成成功率、反应覆盖率及跨实验室复现数据，药物项目尚非疗效证明。",
+      "evidence": [
+        {
+          "url": "https://www.soci.org/news/2026/1/how-chemify-is-building-a-bridge-to-digital-chemistry",
+          "quote": "a combination of a chemistry-focused programming language, robotics and a database of reactions."
+        },
+        {
+          "url": "https://www.soci.org/news/2026/1/how-chemify-is-building-a-bridge-to-digital-chemistry",
+          "quote": "allowing for automated design-make-test-analyse cycles."
+        }
+      ]
+    },
+    {
+      "articleId": "2eaefa49240bccb1f2b355d4a6cc4939",
+      "contentHash": "d550ebfbce350b7f6a3fc04653ca5fe9a5e2b2163c840ba149ec5729960df620",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T05:44:32.970Z",
+      "failureReason": "论坛预告，仅介绍市场议题，无科学仪器AI方法或实验结果。"
+    },
+    {
+      "articleId": "31054a8643cf4580c6eed5e8bcc3afdc",
+      "contentHash": "c298c95d57773ea1857ca9c433870680b29a5dcb77dcd6f951f867f68fb46550",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T05:44:32.970Z",
+      "failureReason": "学术大会组织及报告题目汇总，未提供可分析研究正文。"
+    },
+    {
+      "articleId": "319b9d0ceda562c21fb9c73ccdb44f11",
+      "contentHash": "4bcd5df9272d48767a052be45aa2b94f471d0536f5ae3d3a8210792706e2db42",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T05:44:32.970Z",
+      "failureReason": "Research IT产品入口及功能营销目录，未提供独立技术结果或验证。"
+    },
+    {
+      "articleId": "3563d8e46b93a311cc82891655ce5353",
+      "contentHash": "a3ab7d64b08d5a63ab472f60ceba54769c4ffbb502a51932ddf7a47f552a34ad",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T05:44:32.970Z",
+      "failureReason": "投资者会议出席公告，通用公司简介不构成本次科研进展。"
+    },
+    {
+      "articleId": "3596b51aa386a5eb1dfd2b67f97a5d2e",
+      "contentHash": "9677a80b0cf384742f09d73faaea8324d813abbd0d43773a22fafcdb785a4e09",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T05:44:32.970Z",
+      "failureReason": "通用办公助手套餐推广，无科学研究场景验证。"
+    },
+    {
+      "articleId": "37810e1e216ed1595aaa6d7ad0408e33",
+      "contentHash": "5e3309363d593ec13b2848846d528c549f67972dfa78411fd426d66a599720da",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T05:44:32.970Z",
+      "failureReason": "云服务新闻导航且内容仍在Loading，不是有效情报正文。"
+    },
+    {
+      "articleId": "39d24a6c82ef87adc4c9b44477822581",
+      "contentHash": "e8107684fe0eb92aeaeb423d175355a19457e904e516d7540d3423ad3f59ce56",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T05:44:32.970Z",
+      "failureReason": "学会委员履历介绍，没有具体高内涵筛选研究结果。"
+    },
+    {
+      "articleId": "3b9ba6736c89cccc427f1aed829958fa",
+      "contentHash": "a2ec7861b429029e11c3c3df66c8e9d9fbfaae53e7c36b0d7580e5ea321791ad",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T05:44:32.970Z",
+      "failureReason": "企业环境评级新闻，未涉及AI科研或实验自动化。"
+    }
+  ]
+}
