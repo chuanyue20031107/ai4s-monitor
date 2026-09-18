@@ -5009,17 +5009,35 @@
       "sourceKey": "s02-21",
       "sourceName": "Owkin",
       "sourceType": "AI生物医药公司",
-      "category": "",
+      "category": "AI4S 应用",
       "publishedAt": null,
       "crawledAt": "2026-09-16T07:47:28.297Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "一篇bioRxiv预印本摘要报告了针对恶性胸膜间皮瘤靶点PRDX5的机器学习辅助发现流程。研究先用多模态患者图谱识别PRDX5在上皮样亚型中上调，再预测三个潜在变构口袋，对360万种化合物虚拟筛选，并对452个候选开展高通量生化验证，获得36个非共价命中物，其中包括亚微摩尔抑制剂。分析判断：从患者数据、计算筛选到生化验证形成了可追溯链条，但命中物仍处早期阶段，离动物与临床疗效很远。",
+      "score": 4,
+      "importanceReason": "给出靶点、筛选规模和湿实验命中数，展示AI筛选与生化验证衔接的具体成果。",
+      "contentType": "paper_result",
+      "moatTags": [
+        "数据",
+        "模型",
+        "药物设计",
+        "实验自动化"
+      ],
       "url": "https://www.owkin.com/publications/identification-of-non-covalent-inhibitors-for-the-atypical-peroxiredoxin-prdx5-as-a-therapeutic-strategy-in-malignant-pleural-mesothelioma",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-18T01:25:13.592Z",
+      "evidence": [
+        {
+          "url": "https://www.owkin.com/publications/identification-of-non-covalent-inhibitors-for-the-atypical-peroxiredoxin-prdx5-as-a-therapeutic-strategy-in-malignant-pleural-mesothelioma",
+          "quote": "conducted a virtual screen of 3.6 million compounds"
+        },
+        {
+          "url": "https://www.owkin.com/publications/identification-of-non-covalent-inhibitors-for-the-atypical-peroxiredoxin-prdx5-as-a-therapeutic-strategy-in-malignant-pleural-mesothelioma",
+          "quote": "High-throughput biochemical validation of 452 candidates yielded 36 non-covalent hits, including sub-micromolar inhibitors."
+        }
+      ],
+      "limitations": "依据预印本摘要，尚未核对全文、选择性、细胞活性、药代和体内验证；不能据此称为治疗方案。",
+      "batchFile": "data/inbox/2026-09-18T01-25-13-592Z-full-005-cd72fb71.json"
     },
     {
       "id": "70957dc001d4a2c515c4a0db73cd68e2",
@@ -5027,17 +5045,33 @@
       "sourceKey": "s02-21",
       "sourceName": "Owkin",
       "sourceType": "AI生物医药公司",
-      "category": "",
+      "category": "产业与商业",
       "publishedAt": null,
       "crawledAt": "2026-09-16T07:47:28.275Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "Owkin新闻资料页把K Pro描述为面向制药研究团队的AI科学家，可编排多种AI技能和工具，分析多模态患者数据并辅助靶点、标志物和研发决策。公司称其长期目标是把患者数据连接到经验证分子，并通过临床试验与诊断合作伙伴检验部分预测。分析判断：页面明确了产品定位、数据基础和人类科学家参与方式，但它是公司媒体资料，没有给出K Pro的任务成功率、实验周期或独立比较。",
+      "score": 1,
+      "importanceReason": "提供AI科学家产品的范围与数据基础，缺乏可核验性能和具体交付结果。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "数据",
+        "模型"
+      ],
       "url": "https://www.owkin.com/press-kit",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-18T01:25:13.592Z",
+      "evidence": [
+        {
+          "url": "https://www.owkin.com/press-kit",
+          "quote": "K Pro autonomously orchestrates a suite of AI skills and tools to decode complex biology and accelerate research"
+        },
+        {
+          "url": "https://www.owkin.com/press-kit",
+          "quote": "with scientists shaping every hypothesis, decision, and discovery."
+        }
+      ],
+      "limitations": "公司新闻资料和FAQ自述；资金、认证与合作网络不等于模型科学有效性，页面也未给出基准或实验复现。",
+      "batchFile": "data/inbox/2026-09-18T01-25-13-592Z-full-005-cd72fb71.json"
     },
     {
       "id": "4bb4f02568b1eac694abbecd9131c022",
@@ -5072,8 +5106,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.embl.org/events/festival-of-science-and-curiosity/",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "EMBL公众科学节活动和互动展项说明，不是AI4S研究进展。",
+      "analyzedAt": "2026-09-18T01:25:13.592Z",
+      "batchFile": "data/inbox/2026-09-18T01-25-13-592Z-full-005-cd72fb71.json"
     },
     {
       "id": "681cc56ff583c18ed36d209e7fad2f7c",
@@ -5114,17 +5150,35 @@
       "sourceKey": "s02-17",
       "sourceName": "Cradle",
       "sourceType": "蛋白工程软件公司",
-      "category": "",
+      "category": "AI4S 应用",
       "publishedAt": null,
       "crawledAt": "2026-09-16T07:47:27.316Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "Cradle案例称其为三项后期治疗性多肽项目各生成96个候选，在效力、特异性、表达和热稳定性四项约束下，每个库至少50%的候选同时达标，并在一轮内得到多个进入下游验证的序列。合作方估计传统流程约需五轮。分析判断：多属性约束下的湿实验命中率是有价值的蛋白工程信号，但企业未披露合作方、阈值、原始测量和对照，因此“5倍加速”仍是合作方估计，不能视为独立证明。",
+      "score": 3,
+      "importanceReason": "披露候选数量、多属性约束和命中比例，且结果来自实验筛选，但验证资料不公开。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "模型",
+        "药物设计",
+        "实验自动化",
+        "商业合作"
+      ],
       "url": "https://www.cradle.bio/blog/therapeutic-peptides",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-18T01:25:13.592Z",
+      "evidence": [
+        {
+          "url": "https://www.cradle.bio/blog/therapeutic-peptides",
+          "quote": "generating 96 candidates per program"
+        },
+        {
+          "url": "https://www.cradle.bio/blog/therapeutic-peptides",
+          "quote": "in each 96-candidate library, at least 48 variants met all four property thresholds"
+        }
+      ],
+      "limitations": "匿名企业案例，未公开序列、属性阈值、实验协议、失败样本和基线；时间加速为合作方估计。",
+      "batchFile": "data/inbox/2026-09-18T01-25-13-592Z-full-005-cd72fb71.json"
     },
     {
       "id": "6a858214c8b6fb8de2efe4e63b8a6098",
@@ -5175,8 +5229,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://aip.riken.jp/news/ipsj-best-presentation-award/",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "AI辅助校歌创作获奖信息属于音乐创作应用，与科学发现和实验流程无关。",
+      "analyzedAt": "2026-09-18T01:25:13.592Z",
+      "batchFile": "data/inbox/2026-09-18T01-25-13-592Z-full-005-cd72fb71.json"
     },
     {
       "id": "1a3da577ebc22b6d2f149ec341c83e7f",
@@ -5193,8 +5249,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.helmholtz.de/en/newsroom/article/we-need-to-consider-both-too-much-and-too-little-water-together/",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "水文极端事件访谈虽为科学内容，但可见摘录没有AI模型、数据基础设施或实验自动化进展。",
+      "analyzedAt": "2026-09-18T01:25:13.592Z",
+      "batchFile": "data/inbox/2026-09-18T01-25-13-592Z-full-005-cd72fb71.json"
     },
     {
       "id": "27d4e0ed3e5a219657d9881b9760418c",
@@ -5211,8 +5269,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.embl.org/news/",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "EMBL新闻首页只有蛋白结构新闻的一句导语，不足以支持方法和结果分析。",
+      "analyzedAt": "2026-09-18T01:25:13.592Z",
+      "batchFile": "data/inbox/2026-09-18T01-25-13-592Z-full-005-cd72fb71.json"
     },
     {
       "id": "7a3760f2db8d9dd3195d52018dd574bf",
@@ -5247,8 +5307,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://aip.riken.jp/news/colt2027intokyo/",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "机器学习理论会议举办通知，没有具体AI4S研究结果。",
+      "analyzedAt": "2026-09-18T01:25:13.592Z",
+      "batchFile": "data/inbox/2026-09-18T01-25-13-592Z-full-005-cd72fb71.json"
     },
     {
       "id": "1653c9753995bbdfc5011d913b817408",
@@ -5265,8 +5327,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.helmholtz.de/en/newsroom/",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "Helmholtz新闻页仅提供人类基因组学奖项的一句摘要，没有可分析的AI方法或结果。",
+      "analyzedAt": "2026-09-18T01:25:13.592Z",
+      "batchFile": "data/inbox/2026-09-18T01-25-13-592Z-full-005-cd72fb71.json"
     },
     {
       "id": "c0be5396a953d3ad1c48edfb2d4cbfdc",
@@ -5283,8 +5347,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.aist.go.jp/aist_j/press/index.html",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "AIST媒体联络与著作物使用说明，不是研究情报。",
+      "analyzedAt": "2026-09-18T01:25:13.592Z",
+      "batchFile": "data/inbox/2026-09-18T01-25-13-592Z-full-005-cd72fb71.json"
     },
     {
       "id": "ed5ec4bf9d07d89623f4573fe7220cbf",
@@ -5301,8 +5367,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.aist.go.jp/aist_j/information/brandstory.html",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "AIST品牌故事是机构合作与价值主张，没有具体AI4S技术、研究或数据。",
+      "analyzedAt": "2026-09-18T01:25:13.592Z",
+      "batchFile": "data/inbox/2026-09-18T01-25-13-592Z-full-005-cd72fb71.json"
     },
     {
       "id": "f8eff255991bfae6098ff6a477306a32",
@@ -5337,8 +5405,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.llnl.gov/purpose/history/1960s",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "LLNL 1960年代历史页正文只有年代导航和媒体标识，证据不足且与当前AI4S进展无关。",
+      "analyzedAt": "2026-09-18T01:25:13.592Z",
+      "batchFile": "data/inbox/2026-09-18T01-25-13-592Z-full-005-cd72fb71.json"
     },
     {
       "id": "356039b904e6baeedcf6f0e93ab569f0",
@@ -5355,8 +5425,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.llnl.gov/purpose/history/1950s",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "LLNL 1950年代历史页正文只有年代导航和媒体标识，证据不足且与当前AI4S进展无关。",
+      "analyzedAt": "2026-09-18T01:25:13.592Z",
+      "batchFile": "data/inbox/2026-09-18T01-25-13-592Z-full-005-cd72fb71.json"
     },
     {
       "id": "edd44f4eecce3b9ac4e86fcabc58b3d4",
@@ -5364,17 +5436,34 @@
       "sourceKey": "s01-17",
       "sourceName": "Allen Institute for AI",
       "sourceType": "非营利AI研究机构",
-      "category": "",
+      "category": "产业与商业",
       "publishedAt": null,
       "crawledAt": "2026-09-16T07:47:24.071Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "Ai2披露由美国国家科学基金会与NVIDIA合计投入1.52亿美元，建设面向科学发现的开放多模态AI基础设施OMAI，其中NSF与NVIDIA分别投入7500万和7700万美元。项目由Ai2牵头，并联合多所大学和基础设施伙伴，目标是发布可复现、可检查的开放模型、数据、评估与文档。分析判断：这是AI科研基础设施的重要资金和开放生态投入，但文章主要说明建设承诺，尚不能证明未来模型会带来具体科学突破。",
+      "score": 3,
+      "importanceReason": "资金规模、参与机构与开放交付方向具体，可能扩大科研团队获得模型和算力的能力。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "数据",
+        "模型",
+        "商业合作"
+      ],
       "url": "https://allenai.org/blog/nsf-nvidia",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-18T01:25:13.592Z",
+      "evidence": [
+        {
+          "url": "https://allenai.org/blog/nsf-nvidia",
+          "quote": "Ai2 has been awarded $75 million from the U.S. National Science Foundation (NSF) and $77 million from NVIDIA"
+        },
+        {
+          "url": "https://allenai.org/blog/nsf-nvidia",
+          "quote": "OMAI will build a national level fully open AI ecosystem to drive scientific discovery through AI"
+        }
+      ],
+      "limitations": "Ai2自述的项目启动信息；未列出算力规模、发布节点、科学任务基准或已实现成果。",
+      "batchFile": "data/inbox/2026-09-18T01-25-13-592Z-full-005-cd72fb71.json"
     },
     {
       "id": "5a1bac0fe9154c88c342b3c1f6666217",
@@ -5391,8 +5480,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.sanger.ac.uk/non_science_group/communications/",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "Sanger研究所传播部门职责和人员介绍，不是科学研究进展。",
+      "analyzedAt": "2026-09-18T01:25:13.592Z",
+      "batchFile": "data/inbox/2026-09-18T01-25-13-592Z-full-005-cd72fb71.json"
     },
     {
       "id": "a5cca33cda5c30dcf94822d45edf511f",
@@ -5409,8 +5500,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://allenai.org/news",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "Ai2新闻目录混合多篇文章标题与短导语，不能把目录内容当作单篇研究的完整证据。",
+      "analyzedAt": "2026-09-18T01:25:13.592Z",
+      "batchFile": "data/inbox/2026-09-18T01-25-13-592Z-full-005-cd72fb71.json"
     },
     {
       "id": "66bfc1fc1aa897ae428a7afe3a90ecc5",
@@ -5445,8 +5538,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.sanger.ac.uk/science/scientific-publications/",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "Sanger论文索引页面未加载具体论文条目，只有年份导航，无法支持逐项科学分析。",
+      "analyzedAt": "2026-09-18T01:25:13.592Z",
+      "batchFile": "data/inbox/2026-09-18T01-25-13-592Z-full-005-cd72fb71.json"
     },
     {
       "id": "fa6c6679b4f6dbd377c4b7feee0153e6",
@@ -5463,8 +5558,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://allenai.org/papers",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "Ai2论文目录混合机器人、研究构思和通用模型论文的简短条目，不是单篇研究正文，无法严谨归因和分析实验结果。",
+      "analyzedAt": "2026-09-18T01:25:13.592Z",
+      "batchFile": "data/inbox/2026-09-18T01-25-13-592Z-full-005-cd72fb71.json"
     },
     {
       "id": "8fc8316235f3f41f16c9b6de11fa01a0",
@@ -5499,8 +5596,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://biohub.org/news/",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "Biohub新闻目录混合多篇AI生物学文章导语，不能将列表页作为其中任一研究的完整证据。",
+      "analyzedAt": "2026-09-18T01:25:13.592Z",
+      "batchFile": "data/inbox/2026-09-18T01-25-13-592Z-full-005-cd72fb71.json"
     },
     {
       "id": "aeaebc40520206b3856337d791942bdd",
@@ -5517,8 +5616,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.llnl.gov/purpose/history",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "LLNL机构历史概览与AI4S当前研究无关。",
+      "analyzedAt": "2026-09-18T01:25:13.592Z",
+      "batchFile": "data/inbox/2026-09-18T01-25-13-592Z-full-005-cd72fb71.json"
     },
     {
       "id": "a9d72a37dea2e2a913eb90fe361bd0d9",
@@ -5535,8 +5636,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://ai.meta.com/research/",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "Meta AI研究首页只有通用模型名称和一句元描述，没有科学应用或实验结果。",
+      "analyzedAt": "2026-09-18T01:26:14.881Z",
+      "batchFile": "data/inbox/2026-09-18T01-26-14-881Z-full-006-96f813c3.json"
     },
     {
       "id": "0e0365a639c6686ab8c54a5186645355",
@@ -5652,17 +5755,30 @@
       "sourceKey": "s11-14",
       "sourceName": "Lab of the Future Congress",
       "sourceType": "产业技术会议",
-      "category": "",
+      "category": "自动化实验室",
       "publishedAt": null,
       "crawledAt": "2026-09-16T07:35:36.892Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
+      "summary": "Lab of the Future Congress的对话页称，一场行业讨论聚焦如何把生物制药研发中的AI洞察转为实验行动，并涉及数字生态、AI编排及自主生物制药实验室。分析判断：该页面说明行业议题已从单点模型扩展到实验流程编排，但现有正文只是一段活动回顾导语，没有具体系统架构、应用单位或效率数据。",
+      "score": 1,
+      "importanceReason": "提供自主实验室与AI编排的行业议题线索，缺少可验证落地细节。",
+      "contentType": "company_claim",
       "moatTags": [],
       "url": "https://www.lab-of-the-future.com/article-types/digital-dialogues",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-18T01:26:14.881Z",
+      "evidence": [
+        {
+          "url": "https://www.lab-of-the-future.com/article-types/digital-dialogues",
+          "quote": "From AI Insights to Experimental Action"
+        },
+        {
+          "url": "https://www.lab-of-the-future.com/article-types/digital-dialogues",
+          "quote": "enable the next generation of autonomous BioPharma laboratories"
+        }
+      ],
+      "limitations": "会议组织方短导语；没有演讲全文、案例参数、实验结果或独立评估。",
+      "batchFile": "data/inbox/2026-09-18T01-26-14-881Z-full-006-96f813c3.json"
     },
     {
       "id": "9c6f00b00de3e1d7b37515ee8431de8d",
@@ -5841,8 +5957,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://research.ibm.com/blog/quantum-circuits-vs-llms",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "抓取正文与标题不匹配，仅有另一篇量子微分方程问答的导航信息，不能分析。",
+      "analyzedAt": "2026-09-18T01:26:14.881Z",
+      "batchFile": "data/inbox/2026-09-18T01-26-14-881Z-full-006-96f813c3.json"
     },
     {
       "id": "5ff8d0754146179f8383b5541bd1db84",
@@ -5931,8 +6049,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://research.ibm.com/blog/ibm-think-2026-modeling-the-universe-with-quantum-computing",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "抓取正文与标题不匹配，仅有通用大模型硬件新闻导语，缺少科学应用证据。",
+      "analyzedAt": "2026-09-18T01:26:14.881Z",
+      "batchFile": "data/inbox/2026-09-18T01-26-14-881Z-full-006-96f813c3.json"
     },
     {
       "id": "da8ebfcd6a451d005e088bf49fcc16ae",
@@ -5985,8 +6105,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://research.ibm.com/blog/qec-continuum",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "量子纠错与容错计算技术文章没有AI辅助科学发现或实验自动化内容。",
+      "analyzedAt": "2026-09-18T01:26:14.881Z",
+      "batchFile": "data/inbox/2026-09-18T01-26-14-881Z-full-006-96f813c3.json"
     },
     {
       "id": "02f6f0ef2180dd0e7f7ff05300f2dd8b",
@@ -6075,8 +6197,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://aws.amazon.com/events/reinvent/?nc2=h_dsc_ex_s1",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "AWS通用云与AI大会营销页，未提供具体AI4S研究或产品证据。",
+      "analyzedAt": "2026-09-18T01:26:14.881Z",
+      "batchFile": "data/inbox/2026-09-18T01-26-14-881Z-full-006-96f813c3.json"
     },
     {
       "id": "7584ca8167070907950fad6f3bf5922d",
@@ -6237,8 +6361,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.healthtech.com/publishing",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "生命科学出版物广告和营销服务介绍，不是研究情报。",
+      "analyzedAt": "2026-09-18T01:26:14.881Z",
+      "batchFile": "data/inbox/2026-09-18T01-26-14-881Z-full-006-96f813c3.json"
     },
     {
       "id": "3d33ecd25a35d2113dd2b4c948852adf",
@@ -6291,8 +6417,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.bio-itworldexpo.com/press/podcast",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "Bio-IT播客目录混合多期节目标题，没有单期访谈正文或可核验结果。",
+      "analyzedAt": "2026-09-18T01:26:14.881Z",
+      "batchFile": "data/inbox/2026-09-18T01-26-14-881Z-full-006-96f813c3.json"
     },
     {
       "id": "6031336a7174cad8f59831469c789e5f",
@@ -6345,8 +6473,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.bio-itworldexpo.com/newsroom",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "Bio-IT新闻目录仅罗列多篇报道标题，不能把列表当成具体研究证据。",
+      "analyzedAt": "2026-09-18T01:26:14.881Z",
+      "batchFile": "data/inbox/2026-09-18T01-26-14-881Z-full-006-96f813c3.json"
     },
     {
       "id": "a833b639da8807466d09c42d81cf9e33",
@@ -6741,8 +6871,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.acs.org/events/spring.html",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "ACS 2027春季会议征稿与参会营销信息，没有具体AI4S成果。",
+      "analyzedAt": "2026-09-18T01:26:14.881Z",
+      "batchFile": "data/inbox/2026-09-18T01-26-14-881Z-full-006-96f813c3.json"
     },
     {
       "id": "79c575faaecea1f844b8a2f4d39671f8",
@@ -6759,8 +6891,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://pistoiaalliance.org/eventdetails/boston-2026-conference/",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "Pistoia Alliance大会日程介绍虽含AI议题，但演讲尚待公布且没有实际项目结果。",
+      "analyzedAt": "2026-09-18T01:26:14.881Z",
+      "batchFile": "data/inbox/2026-09-18T01-26-14-881Z-full-006-96f813c3.json"
     },
     {
       "id": "a9628ab74ebdf22bc148ab2a9779f83c",
@@ -6768,17 +6902,33 @@
       "sourceKey": "s11-05",
       "sourceName": "Pistoia Alliance",
       "sourceType": "生命科学产业联盟",
-      "category": "",
+      "category": "产业与商业",
       "publishedAt": null,
       "crawledAt": "2026-09-16T07:35:35.755Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "Pistoia Alliance年度报告页把数据治理、AI研发和后期研发列为生命科学联盟的战略重点，并称其FAIR成熟度矩阵获得行业奖项、与FDA开展公私合作。页面还提及成员反馈AI对增长目标的重要性。分析判断：这些内容反映制药研发共同体在数据与AI治理方面的组织投入，但可见摘录未列项目采用规模、技术指标或对药物研发周期的量化影响。",
+      "score": 1,
+      "importanceReason": "提供生命科学联盟的AI和FAIR数据协作方向，成果证据主要是组织自述。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "数据",
+        "商业合作"
+      ],
       "url": "https://pistoiaalliance.org/annual-report-2024/",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-18T01:26:14.881Z",
+      "evidence": [
+        {
+          "url": "https://pistoiaalliance.org/annual-report-2024/",
+          "quote": "Data is the foundation for AI and digital strategies."
+        },
+        {
+          "url": "https://pistoiaalliance.org/annual-report-2024/",
+          "quote": "We strengthened regulator and industry engagement via an FDA Public-Private Partnership"
+        }
+      ],
+      "limitations": "年度报告摘要被截断，未核对完整报告、成员采用情况或项目成效；调查比例也未给出样本方法。",
+      "batchFile": "data/inbox/2026-09-18T01-26-14-881Z-full-006-96f813c3.json"
     },
     {
       "id": "aa9ed418d2f1a0b2cf4b30b8ebedaa12",
@@ -6795,8 +6945,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://pistoiaalliance.org/events/",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "活动与培训目录混合多个项目短介，缺少单项课程或AI湿实验案例的完整证据。",
+      "analyzedAt": "2026-09-18T01:26:14.881Z",
+      "batchFile": "data/inbox/2026-09-18T01-26-14-881Z-full-006-96f813c3.json"
     },
     {
       "id": "19b209c177df553364ec4d13e2ca7b83",
@@ -6885,8 +7037,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.slas.org/events/slas-2026-sample-management-symposium/",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "样本管理研讨会预告仅称议程将涉及AI和自动化，尚无技术报告或研究结果。",
+      "analyzedAt": "2026-09-18T01:26:14.881Z",
+      "batchFile": "data/inbox/2026-09-18T01-26-14-881Z-full-006-96f813c3.json"
     },
     {
       "id": "5420594414a9c35e884b2e00b91cd133",
@@ -6921,8 +7075,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.slas.org/events/thrive-in-science/",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "女性科学领导力论坛的职业发展与交流活动，与AI4S技术进展无关。",
+      "analyzedAt": "2026-09-18T01:26:14.881Z",
+      "batchFile": "data/inbox/2026-09-18T01-26-14-881Z-full-006-96f813c3.json"
     },
     {
       "id": "5690a27ecc88854f50d8ac699a88009e",
@@ -7011,8 +7167,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.slas.org/events/slas2027-international-conference-exhibition/",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "SLAS 2027综合会议招展、征稿和嘉宾介绍，未给出AI实验室具体成果。",
+      "analyzedAt": "2026-09-18T01:26:14.881Z",
+      "batchFile": "data/inbox/2026-09-18T01-26-14-881Z-full-006-96f813c3.json"
     },
     {
       "id": "abbdab46fae2d9f6ceef25a49c6522f8",
@@ -7137,8 +7295,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.ga4gh.org/get-involved/subscribe-to-newsletters/",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "GA4GH通讯订阅页面，没有数据标准更新或研究结果。",
+      "analyzedAt": "2026-09-18T01:26:14.881Z",
+      "batchFile": "data/inbox/2026-09-18T01-26-14-881Z-full-006-96f813c3.json"
     },
     {
       "id": "4360e612fbaab7d29f24c0f6ee850707",
@@ -7155,8 +7315,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.ga4gh.org/news-eventsxxx/events/",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "GA4GH活动日历与历史会议目录，不是具体数据标准或AI4S进展。",
+      "analyzedAt": "2026-09-18T01:26:14.881Z",
+      "batchFile": "data/inbox/2026-09-18T01-26-14-881Z-full-006-96f813c3.json"
     },
     {
       "id": "488ba915df0773166414dde0ec9a6102",
@@ -7371,8 +7533,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.ga4gh.org/about-us/history/",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "GA4GH组织历史时间线虽涉及基因组数据共享标准，但没有本期新增AI4S成果。",
+      "analyzedAt": "2026-09-18T01:26:14.881Z",
+      "batchFile": "data/inbox/2026-09-18T01-26-14-881Z-full-006-96f813c3.json"
     },
     {
       "id": "06f2e35843bc2a56700dca66881183ff",
@@ -7605,8 +7769,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.rd-alliance.org/news-stories/newsletters/",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "RDA通讯归档和月份目录，没有具体研究数据工作成果正文。",
+      "analyzedAt": "2026-09-18T01:26:14.881Z",
+      "batchFile": "data/inbox/2026-09-18T01-26-14-881Z-full-006-96f813c3.json"
     },
     {
       "id": "be94d94cc7e6ffeb1e5e56fec044226d",
@@ -15367,5 +15533,5 @@
       "failureReason": ""
     }
   ],
-  "updatedAt": "2026-09-17T21:38:09.810Z"
+  "updatedAt": "2026-09-18T01:27:29.364Z"
 }
