@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "generator": "chatgpt-task",
+  "createdAt": "2026-09-18T03:39:46.150Z",
+  "analyses": [
+    {
+      "articleId": "2479c6735b11b3c8abb8fc1ca33acc6c",
+      "category": "自动化实验室",
+      "summary": "晶泰科技称其与多所高校提出CARE框架，用大语言模型生成反应条件，再由多专家模型和证据门槛约束实验选择。公司报告8项反应优化任务，每项从5个已知结果起步，再选择10次；候选结果在选择前隐藏，并与qLogEI、EDBO、Gryffin、TPE、LMABO比较。Buchwald–Hartwig A任务的归一化遗憾为1.24%，30组测试中27组命中前1%条件；ChemLex任务为7.9%。分析判断：小预算下的排序选择和分歧审查具有实际实验价值，但隐藏已有结果的评测不等同于完整前瞻湿实验闭环，最优表现仍是公司报告。",
+      "score": 3,
+      "importanceReason": "给出具体任务、实验预算、对照方法及命中率，为判断小样本反应优化收益提供可核查线索。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "模型",
+        "实验自动化"
+      ],
+      "limitations": "原文报告8项任务及指标，但未附各任务完整表、置信区间、消融和可执行代码；Agentic HTE集成不代表本文已证明长期无人值守闭环。",
+      "contentHash": "4770b9ec69b37efd8294415436cc70fea665affc409ef35ef38678ccd095ba13",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-18T03:39:46.150Z",
+      "evidence": [
+        {
+          "url": "https://www.xtalpi.com/ai%e5%81%9a%e5%ae%9e%e9%aa%8c%e5%a6%82%e4%bd%95%e5%b0%91%e8%b5%b0%e5%bc%af%e8%b7%af%ef%bc%9f%e6%99%b6%e6%b3%b0%e7%a7%91%e6%8a%80%e8%81%94%e5%90%88%e5%a4%9a%e6%89%80%e9%ab%98%e6%a0%a1%e6%8f%90%e5%87%ba/",
+          "quote": "每项任务从 5 个已知实验结果出发，随后仅进行 10 次新的条件选择。"
+        },
+        {
+          "url": "https://www.xtalpi.com/ai%e5%81%9a%e5%ae%9e%e9%aa%8c%e5%a6%82%e4%bd%95%e5%b0%91%e8%b5%b0%e5%bc%af%e8%b7%af%ef%bc%9f%e6%99%b6%e6%b3%b0%e7%a7%91%e6%8a%80%e8%81%94%e5%90%88%e5%a4%9a%e6%89%80%e9%ab%98%e6%a0%a1%e6%8f%90%e5%87%ba/",
+          "quote": "30 组测试中有 27 组命中排名前 1% 的反应条件。"
+        }
+      ],
+      "failureReason": ""
+    },
+    {
+      "articleId": "d427b077c34b8a53b9dbbd3365ee5e9d",
+      "category": "产业与商业",
+      "summary": "晶泰科技转述默达生物的MP-5342进展：口服LDHA抑制剂完成大鼠、犬GLP毒理和猴预毒理，面向IBD推进IND准备。公司称大鼠有效剂量与明显毒性剂量间窗口超过600倍，并报告多种IBD、耐药及纤维化模型的药效。文中划分了合作角色：默达负责免疫代谢靶点验证，晶泰利用计算和高通量机器人参与筛选、合成、测试与优化。分析判断：这是计算实验平台支持候选物跨越临床前门槛的管线线索；动物安全窗口和跨药物剂量比较不能直接推导人体安全优势，IND准备也不等于已获准临床。",
+      "score": 3,
+      "importanceReason": "报告候选物跨物种临床前研究及计算实验平台分工，具有具体转化节点但尚无人体疗效证据。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "药物设计",
+        "实验自动化",
+        "商业合作"
+      ],
+      "limitations": "全部为企业自述；缺乏动物数量、暴露量、剂量归一化、完整毒理报告和统计信息，AI相对传统流程的独立贡献未量化。",
+      "contentHash": "fb138489da07ac990e56f7d7ccab381da08ca978eb0e9a337aa1ee059e409d3a",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-18T03:39:46.150Z",
+      "evidence": [
+        {
+          "url": "https://www.xtalpi.com/%e5%85%a8%e7%90%83%e9%a6%96%e6%ac%be%e5%8f%a3%e6%9c%8dldha%e6%8a%91%e5%88%b6%e5%89%82%e5%86%b2%e5%88%ba%e4%b8%b4%e5%ba%8a%ef%bc%8cai%e6%9c%ba%e5%99%a8%e4%ba%ba%e6%9e%84%e5%bb%ba%e6%96%b0%e8%8d%af/",
+          "quote": "安全窗口超过 600 倍"
+        },
+        {
+          "url": "https://www.xtalpi.com/%e5%85%a8%e7%90%83%e9%a6%96%e6%ac%be%e5%8f%a3%e6%9c%8dldha%e6%8a%91%e5%88%b6%e5%89%82%e5%86%b2%e5%88%ba%e4%b8%b4%e5%ba%8a%ef%bc%8cai%e6%9c%ba%e5%99%a8%e4%ba%ba%e6%9e%84%e5%bb%ba%e6%96%b0%e8%8d%af/",
+          "quote": "深度参与化合物筛选、合成、测试和持续优化"
+        }
+      ],
+      "failureReason": ""
+    }
+  ]
+}
