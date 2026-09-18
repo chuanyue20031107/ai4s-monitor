@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "generator": "chatgpt-task",
+  "createdAt": "2026-09-18T01:28:26.283Z",
+  "analyses": [
+    {
+      "articleId": "4bccf17a402bf0d4e10caaaabb1b1ed4",
+      "contentHash": "b82751b8385a823a84163c2f1235f744991c5744b2438c0769938cd6602037cf",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T01:28:26.283Z",
+      "failureReason": "企业慈善奖和公益捐赠新闻，与AI4S研发无关。"
+    },
+    {
+      "articleId": "9be95790fd93a79b6dc141ff577794f1",
+      "contentHash": "83556c33b82b8f996527c5334c5c304cc158d5126ec45b91ef1464993142c1bb",
+      "analysisStatus": "failed",
+      "analyzedAt": "2026-09-18T01:28:26.283Z",
+      "failureReason": "正文仅有网站版权信息，未采集到“全球开放月”活动内容，不能仅凭标题分析。"
+    },
+    {
+      "articleId": "f7bb9cbf5836e2cb7379c316baab3e02",
+      "contentHash": "bda5be268473f73e4e9f1f8da5f9f43cd45e4374dd1a4055d7eeb7bf1060d368",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T01:28:26.283Z",
+      "failureReason": "铜箔装备采购、产能和供应链合作，没有AI辅助材料研发或实验自动化证据。"
+    },
+    {
+      "articleId": "09db20d7a6465a68036a924d4ea85f26",
+      "contentHash": "696995bcca582eba36b5b1642ca7c0c8e199866796d6314348a2b5c6c56ccb0e",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T01:28:26.283Z",
+      "failureReason": "催化剂原位表征与DFT计算研究没有使用AI模型或自主实验方法。"
+    },
+    {
+      "articleId": "3150a3ec1ac217d3201762588b98f86c",
+      "contentHash": "b732bdca0b2b5b36a16649c3f94615533dfcc362e5e3b6cf3787ef08ffc3d150",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T01:28:26.283Z",
+      "failureReason": "煤基乙醇催化工艺专利与产业化新闻没有AI4S方法。"
+    },
+    {
+      "articleId": "e53e01caa56851f629fabbb664130d30",
+      "contentHash": "cfac09fc80c076170140ca99921c7f839096ae4bf9ad5ac2d256525d956f7566",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T01:28:26.283Z",
+      "failureReason": "海水制氢与淡水联产工程成果虽有完整实验数据，但正文没有AI或自动化科研方法。"
+    },
+    {
+      "articleId": "2b275566768414f5f46e71fc7f835080",
+      "contentHash": "9af1d4287e7bbddb9dfc6f2e7404d3b2c07fd88a72c19e38dfb6b30b4b1defb1",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-18T01:28:26.283Z",
+      "failureReason": "",
+      "category": "模型",
+      "summary": "上海人工智能实验室科研页集中介绍其科学智能布局：Intern-S1被定位为融合科学专业能力的全模态基础模型，另一平台整合专业智能体、科研数据和实验设备，目标是提供从假设到验证的科研支持。页面还称医疗大模型检测中心已评测上海12家医院的应用场景。分析判断：这体现了从科学模型、数据到工具与设备连接的完整产品版图，但页面混合多个项目的宣传摘要，缺少可复核基准和具体实验闭环记录。",
+      "score": 2,
+      "importanceReason": "覆盖科学基础模型、科研智能体、实验设备和医疗评测，呈现较完整的科学智能平台布局。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "数据",
+        "模型",
+        "实验自动化"
+      ],
+      "limitations": "机构研究首页的多项目摘要且存在重复；未给出Intern-S1基准表、设备接口、任务成功率或医院评测结果。",
+      "evidence": [
+        {
+          "url": "https://www.shlab.org.cn/research",
+          "quote": "平台整合了专业智能体、海量科研数据及实验设备，能为全球研究者提供从假设到验证的一站式科研支撑。"
+        },
+        {
+          "url": "https://www.shlab.org.cn/research",
+          "quote": "检测验证中心已完成上海12家医院的医疗大模型应用场景评测"
+        }
+      ]
+    },
+    {
+      "articleId": "3d97ae9aa5b3288e5aafaaad56971f3e",
+      "contentHash": "c30a2dd40cf073e0e43a96ee3451c5264977322f75c594980491960158e1224b",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T01:28:26.283Z",
+      "failureReason": "免疫与癌症论坛页面主要是科学家履历和研究故事导语，没有AI方法证据。"
+    },
+    {
+      "articleId": "b2bebe97a5006f2dd1441e31f0c3d7db",
+      "contentHash": "a8e56f5885e729467ef36eaf953275f0fbe3f3a9b527d4762b4270a0c00c6a0f",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T01:28:26.283Z",
+      "failureReason": "科研进展目录混合多篇生物医学研究摘要，不能作为单篇AI4S成果证据。"
+    },
+    {
+      "articleId": "8bec3465d37660f1c0f6d87168c9bedd",
+      "contentHash": "1d2a5289ae9fa46b3c2e263b9e80939a4e162b9d7603e90c15dced1f89ec2814",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T01:28:26.283Z",
+      "failureReason": "可编程红外传感器材料与器件研究未使用AI辅助科学发现；片外图像处理展示不等同于AI4S研发。"
+    }
+  ]
+}
