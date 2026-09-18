@@ -5463,8 +5463,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://aws.amazon.com/quick/?nc2=h_prod_fs_q",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "通用办公助手套餐推广，无科学研究场景验证。",
+      "analyzedAt": "2026-09-18T05:44:32.970Z",
+      "batchFile": "data/inbox/2026-09-18T05-44-32-970Z-full-021-reviewed-cd1200c9.json"
     },
     {
       "id": "37810e1e216ed1595aaa6d7ad0408e33",
@@ -5481,8 +5483,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://aws.amazon.com/new/?nc2=h_dsc_new",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "云服务新闻导航且内容仍在Loading，不是有效情报正文。",
+      "analyzedAt": "2026-09-18T05:44:32.970Z",
+      "batchFile": "data/inbox/2026-09-18T05-44-32-970Z-full-021-reviewed-cd1200c9.json"
     },
     {
       "id": "56cdb4e5055e0bf9614d7285d54ed919",
@@ -5949,8 +5953,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.slas.org/publications/electronic-laboratory-neighborhood/",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "学会委员履历介绍，没有具体高内涵筛选研究结果。",
+      "analyzedAt": "2026-09-18T05:44:32.970Z",
+      "batchFile": "data/inbox/2026-09-18T05-44-32-970Z-full-021-reviewed-cd1200c9.json"
     },
     {
       "id": "4e17d047da8ec58c2aacf6582d18ae57",
@@ -6848,8 +6854,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.analyticachina.com.cn/cn/analytica-china-2026/Supporting-program/yiqixinxi",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "论坛预告，仅介绍市场议题，无科学仪器AI方法或实验结果。",
+      "analyzedAt": "2026-09-18T05:44:32.970Z",
+      "batchFile": "data/inbox/2026-09-18T05-44-32-970Z-full-021-reviewed-cd1200c9.json"
     },
     {
       "id": "3e92fdc2e1b729fc48fea6c4bab05154",
@@ -7128,8 +7136,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.caai.cn/site/content/11282.html",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "学术大会组织及报告题目汇总，未提供可分析研究正文。",
+      "analyzedAt": "2026-09-18T05:44:32.970Z",
+      "batchFile": "data/inbox/2026-09-18T05-44-32-970Z-full-021-reviewed-cd1200c9.json"
     },
     {
       "id": "70e1040b0500c5dc0a2c677fdef3cc03",
@@ -7659,17 +7669,32 @@
       "sourceKey": "s07-13",
       "sourceName": "RCSB Protein Data Bank",
       "sourceType": "科学数据库与平台",
-      "category": "",
+      "category": "数据",
       "publishedAt": null,
       "crawledAt": "2026-09-16T06:57:50.143Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "wwPDB更新OneDep的既有提交元数据复用功能，允许结构生物学研究者选择复制作者、引用、经费、分子及实验信息等类别，随后把选定mmCIF元数据合入新条目，并在上传摘要中显示导入、跳过或阻止的内容。原条目须与新条目位于同一wwPDB站点，访问需要原提交凭据或ORCID认证。分析判断：这是结构数据生产流程的质量与效率改进，可减少重复录入错误；不是新增蛋白质预测模型，也没有报告错误率降低的量化幅度。",
+      "score": 2,
+      "importanceReason": "明确改善结构数据库元数据复用及导入追踪，有利于科研数据一致性但影响属流程层面。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "数据"
+      ],
       "url": "https://www.rcsb.org/news/feature/6a626da53bf5580b84a87d27",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-18T05:44:32.970Z",
+      "evidence": [
+        {
+          "url": "https://www.rcsb.org/news/feature/6a626da53bf5580b84a87d27",
+          "quote": "Selected mmCIF metadata is merged into the new entry before annotation."
+        },
+        {
+          "url": "https://www.rcsb.org/news/feature/6a626da53bf5580b84a87d27",
+          "quote": "The previous entry must be deposited at the same wwPDB site as the current entry."
+        }
+      ],
+      "limitations": "功能公告没有用户规模、录入时间或错误率的对照测量，不能据此量化模型训练收益。",
+      "batchFile": "data/inbox/2026-09-18T05-44-32-970Z-full-021-reviewed-cd1200c9.json"
     },
     {
       "id": "484bda059af3481e38e95d76e4d5756e",
@@ -8012,8 +8037,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.wuxiapptec.cn/news/wuxi-news/jf4ajwxa6c9za4nakfesav6n",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "企业环境评级新闻，未涉及AI科研或实验自动化。",
+      "analyzedAt": "2026-09-18T05:44:32.970Z",
+      "batchFile": "data/inbox/2026-09-18T05-44-32-970Z-full-021-reviewed-cd1200c9.json"
     },
     {
       "id": "7bcde9ae8b2a8433b7e00afc372019a6",
@@ -8612,17 +8639,33 @@
       "sourceKey": "s05-16",
       "sourceName": "上海人工智能实验室科学智能方向",
       "sourceType": "自主实验室与平台",
-      "category": "",
+      "category": "模型",
       "publishedAt": null,
       "crawledAt": "2026-09-16T06:57:40.684Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "上海AI实验室介绍Intern-S2-Preview通过覆盖预训练至后训练的多任务融合、强化学习及实数预测模块，增强小规模模型的科学推理和结构生成。报道在多组学任务上下文中提到35B模型可比肩其万亿参数模型；MolecularIQ得分57.26，对照Gemini-3.1-Pro为41.33，晶体结构生成通过率自述超过40%。分析判断：把连续坐标预测纳入通用模型是具体方法进展，但结构通过校验不代表材料可合成、稳定或性质优越，也不能与后续397B版本混为一条模型结果。",
+      "score": 3,
+      "importanceReason": "提供具名科学基准、数值比较及结构生成机制，仍需原始任务定义和独立复现支持。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "模型",
+        "材料发现"
+      ],
       "url": "https://www.shlab.org.cn/news/5444267",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-18T05:44:32.970Z",
+      "evidence": [
+        {
+          "url": "https://www.shlab.org.cn/news/5444267",
+          "quote": "Intern-S2-Preview在MolecularIQ上取得57.26分，超过Gemini-3.1-Pro的41.33分"
+        },
+        {
+          "url": "https://www.shlab.org.cn/news/5444267",
+          "quote": "Intern-S2-Preview的通过率超40%"
+        }
+      ],
+      "limitations": "发布方自测；未说明晶体通过率判定、样本数量、完整对照设置和实验合成验证，不采信首创范围为独立核实事实。",
+      "batchFile": "data/inbox/2026-09-18T05-44-32-970Z-full-021-reviewed-cd1200c9.json"
     },
     {
       "id": "515c5d6a9f497d05fee5629a01b3a43d",
@@ -10439,17 +10482,34 @@
       "sourceKey": "s02-16",
       "sourceName": "Chemify",
       "sourceType": "自动化化学公司",
-      "category": "",
+      "category": "自动化实验室",
       "publishedAt": null,
       "crawledAt": "2026-09-16T06:05:19.334Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "SCI报道Chemify把化学编程语言、机器人和已验证反应数据库结合，将目标分子转为可由设备执行的化学代码，支持设计—合成—测试—分析循环。报道记载首个格拉斯哥Chemifarm于2025年6月开放，后续融资计划用于扩建网络，并与Lgenia推进结核相关小分子设计优化。分析判断：关键价值是让实验细节可执行、可重复，以连接AI提出的分子与现实合成；访谈也承认化学意图与代码表达之间仍有差距，不能据愿景声称已覆盖全部化学反应。",
+      "score": 3,
+      "importanceReason": "报道具名运行设施及编程、自动化和反应数据的结合方式，体现化学闭环落地路径。",
+      "contentType": "media_report",
+      "moatTags": [
+        "数据",
+        "实验自动化",
+        "药物设计"
+      ],
       "url": "https://www.soci.org/news/2026/1/how-chemify-is-building-a-bridge-to-digital-chemistry",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-18T05:44:32.970Z",
+      "evidence": [
+        {
+          "url": "https://www.soci.org/news/2026/1/how-chemify-is-building-a-bridge-to-digital-chemistry",
+          "quote": "a combination of a chemistry-focused programming language, robotics and a database of reactions."
+        },
+        {
+          "url": "https://www.soci.org/news/2026/1/how-chemify-is-building-a-bridge-to-digital-chemistry",
+          "quote": "allowing for automated design-make-test-analyse cycles."
+        }
+      ],
+      "limitations": "媒体访谈主要依据公司陈述，正文末尾截断；缺合成成功率、反应覆盖率及跨实验室复现数据，药物项目尚非疗效证明。",
+      "batchFile": "data/inbox/2026-09-18T05-44-32-970Z-full-021-reviewed-cd1200c9.json"
     },
     {
       "id": "72594b678d252994dd803eb20fe2f99b",
@@ -10720,8 +10780,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.schrodinger.com/materials-science/use-cases/research-it/",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "Research IT产品入口及功能营销目录，未提供独立技术结果或验证。",
+      "analyzedAt": "2026-09-18T05:44:32.970Z",
+      "batchFile": "data/inbox/2026-09-18T05-44-32-970Z-full-021-reviewed-cd1200c9.json"
     },
     {
       "id": "50db938b358fa8b136bdc91ad887c4e3",
@@ -10942,8 +11004,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://ir.recursion.com/news-releases/news-release-details/recursion-participate-upcoming-investor-conferences-20",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "投资者会议出席公告，通用公司简介不构成本次科研进展。",
+      "analyzedAt": "2026-09-18T05:44:32.970Z",
+      "batchFile": "data/inbox/2026-09-18T05-44-32-970Z-full-021-reviewed-cd1200c9.json"
     },
     {
       "id": "46be8e5059aa5da18652fadc75b228c4",
@@ -11830,5 +11894,5 @@
       "failureReason": ""
     }
   ],
-  "updatedAt": "2026-09-18T05:45:12.039Z"
+  "updatedAt": "2026-09-18T05:47:43.043Z"
 }

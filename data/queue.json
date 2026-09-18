@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-18T05:45:12.039Z",
-  "pendingCount": 275,
-  "readyCount": 275,
+  "updatedAt": "2026-09-18T05:47:43.043Z",
+  "pendingCount": 264,
+  "readyCount": 264,
   "awaitingContentCount": 0,
   "excludedContentCount": 263,
   "items": [
@@ -821,28 +821,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "3596b51aa386a5eb1dfd2b67f97a5d2e",
-      "title": "Amazon Quick AI-powered assistant for work with research, business insights, automation, and no-code app building",
-      "url": "https://aws.amazon.com/quick/?nc2=h_prod_fs_q",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T07:35:36.375Z",
-      "contentStatus": "ready",
-      "contentHash": "9677a80b0cf384742f09d73faaea8324d813abbd0d43773a22fafcdb785a4e09",
-      "rawPath": "data/raw/3596b51aa386a5eb1dfd2b67f97a5d2e.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "37810e1e216ed1595aaa6d7ad0408e33",
-      "title": "News & announcements",
-      "url": "https://aws.amazon.com/new/?nc2=h_dsc_new",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T07:35:36.375Z",
-      "contentStatus": "ready",
-      "contentHash": "5e3309363d593ec13b2848846d528c549f67972dfa78411fd426d66a599720da",
-      "rawPath": "data/raw/37810e1e216ed1595aaa6d7ad0408e33.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "56cdb4e5055e0bf9614d7285d54ed919",
       "title": "Event Code of Conduct",
       "url": "https://aws.amazon.com/codeofconduct/?nc1=f_cc",
@@ -972,17 +950,6 @@
       "contentStatus": "ready",
       "contentHash": "35bd333a3bbdce89b490f8d859fe500899fff006621bf160ea41b7d549e190bf",
       "rawPath": "data/raw/cdffd8b5308e7b6bc68671a922389028.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "39d24a6c82ef87adc4c9b44477822581",
-      "title": "Electronic Laboratory Neighborhood",
-      "url": "https://www.slas.org/publications/electronic-laboratory-neighborhood/",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T07:35:35.658Z",
-      "contentStatus": "ready",
-      "contentHash": "e8107684fe0eb92aeaeb423d175355a19457e904e516d7540d3423ad3f59ce56",
-      "rawPath": "data/raw/39d24a6c82ef87adc4c9b44477822581.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -1261,17 +1228,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "2eaefa49240bccb1f2b355d4a6cc4939",
-      "title": "AI・出海・后市场——解码科学仪器行业新动能专题论坛",
-      "url": "https://www.analyticachina.com.cn/cn/analytica-china-2026/Supporting-program/yiqixinxi",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T07:35:33.582Z",
-      "contentStatus": "ready",
-      "contentHash": "d550ebfbce350b7f6a3fc04653ca5fe9a5e2b2163c840ba149ec5729960df620",
-      "rawPath": "data/raw/2eaefa49240bccb1f2b355d4a6cc4939.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "3e92fdc2e1b729fc48fea6c4bab05154",
       "title": "实验室规划、建设与管理展区",
       "url": "https://www.analyticachina.com.cn/cn/Discover-analytica-China/Press-Release/Exhibition-News/detail/labtechChina",
@@ -1346,17 +1302,6 @@
       "contentStatus": "ready",
       "contentHash": "c8efb538da7767b918e34372db2ba9202352fd728dd1f6796b140619e9d4f759",
       "rawPath": "data/raw/d84b1f9ba70249e56df46fccd09c4209.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "31054a8643cf4580c6eed5e8bcc3afdc",
-      "title": "• “人工智能+”赋能产业创新发展 第九届中国模式识别与计算机视觉大会（PRCV 2026）在哈尔滨召开 2026-08-27",
-      "url": "https://www.caai.cn/site/content/11282.html",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T07:35:30.573Z",
-      "contentStatus": "ready",
-      "contentHash": "c298c95d57773ea1857ca9c433870680b29a5dcb77dcd6f951f867f68fb46550",
-      "rawPath": "data/raw/31054a8643cf4580c6eed5e8bcc3afdc.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -1503,17 +1448,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "2f657d7f21c66a9e4e5771be6c7902c8",
-      "title": "Reuse Metadata from Previous PDB Depositions",
-      "url": "https://www.rcsb.org/news/feature/6a626da53bf5580b84a87d27",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:57:50.143Z",
-      "contentStatus": "ready",
-      "contentHash": "82852357b39071d1f94259ec31ec66da2bd04bd7586180a7462b06f628bfa795",
-      "rawPath": "data/raw/2f657d7f21c66a9e4e5771be6c7902c8.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "484bda059af3481e38e95d76e4d5756e",
       "title": "Register for the Sept 17 Webinar on Remediated Metalloprotein Data in the PDB",
       "url": "https://www.rcsb.org/news/feature/6a95686c3bf5580b84a87d32",
@@ -1646,17 +1580,6 @@
       "lastAnalysisStatus": "failed"
     },
     {
-      "id": "3b9ba6736c89cccc427f1aed829958fa",
-      "title": "药明康德荣膺CDP气候变化和水安全“双A”评级 上海，2026年1月19日 – 药明康德今日宣布，公司在2025年全球环境信息研究中心（CDP）评估中，在气候变化和水安全两个议题上均入选“A级”榜单。“A级”是CDP在相关领域授予的最高等级，这一认可充分体现了药明康德在气候变化和水资源管理方面的突出表现和对可持续发展的坚定承诺。 阅读更多",
-      "url": "https://www.wuxiapptec.cn/news/wuxi-news/jf4ajwxa6c9za4nakfesav6n",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:57:42.620Z",
-      "contentStatus": "ready",
-      "contentHash": "a2ec7861b429029e11c3c3df66c8e9d9fbfaae53e7c36b0d7580e5ea321791ad",
-      "rawPath": "data/raw/3b9ba6736c89cccc427f1aed829958fa.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "ba5b72c4a65e5ca26313c41255e17ffb",
       "title": "药明康德2026年第一季度收入和利润均实现强劲增长 上海，2026年4月27日，为全球医药及生命科学行业提供全方位、一体化新药研发和生产服务的能力和技术平台公司——药明康德（股份代码：603259.SH / 2359.HK）发布2026年第一季度业绩报告 阅读更多",
       "url": "https://www.wuxiapptec.cn/news/wuxi-news/lcsan3wkg2aopwia73kkdxkj",
@@ -1764,17 +1687,6 @@
       "contentStatus": "ready",
       "contentHash": "cfac09fc80c076170140ca99921c7f839096ae4bf9ad5ac2d256525d956f7566",
       "rawPath": "data/raw/ee8d49455842f8c9d9355ebf4cd7e649.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "32104070de598ef9dbd1c922058dec36",
-      "title": "『书生』科学大模型Intern-S2-Preview 尺寸更小、科学能力更强、科学智能体能力领先",
-      "url": "https://www.shlab.org.cn/news/5444267",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:57:40.684Z",
-      "contentStatus": "ready",
-      "contentHash": "c443690f3313ceac85a4ca425354d942deb7ac086ac29edc81ce11ef61741579",
-      "rawPath": "data/raw/32104070de598ef9dbd1c922058dec36.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -2284,17 +2196,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "340590bc469ad58de19083fa2007d12c",
-      "title": "How Chemify is building a bridge to digital chemistry January 27, 2026 Society of Chemical Industry",
-      "url": "https://www.soci.org/news/2026/1/how-chemify-is-building-a-bridge-to-digital-chemistry",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:05:19.334Z",
-      "contentStatus": "ready",
-      "contentHash": "baf11571c7a86932cc3fdadbf3c09b54cda6541bbb36ad408d1ce9ae7b0e3127",
-      "rawPath": "data/raw/340590bc469ad58de19083fa2007d12c.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "72594b678d252994dd803eb20fe2f99b",
       "title": "News & Media",
       "url": "https://www.chemify.io/news",
@@ -2372,17 +2273,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "319b9d0ceda562c21fb9c73ccdb44f11",
-      "title": "Research IT",
-      "url": "https://www.schrodinger.com/materials-science/use-cases/research-it/",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:05:18.824Z",
-      "contentStatus": "ready",
-      "contentHash": "4bcd5df9272d48767a052be45aa2b94f471d0536f5ae3d3a8210792706e2db42",
-      "rawPath": "data/raw/319b9d0ceda562c21fb9c73ccdb44f11.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "50db938b358fa8b136bdc91ad887c4e3",
       "title": "White Papers",
       "url": "https://www.schrodinger.com/materials-science/resources/?type=white-paper",
@@ -2446,17 +2336,6 @@
       "contentStatus": "ready",
       "contentHash": "be5f59c5b09241cf8875e867f270a1284faa988643594a484903438699a378ba",
       "rawPath": "data/raw/c475073014102d72351e8aa7ba08e4f1.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "3563d8e46b93a311cc82891655ce5353",
-      "title": "Recursion to Participate in Upcoming Investor Conferences",
-      "url": "https://ir.recursion.com/news-releases/news-release-details/recursion-participate-upcoming-investor-conferences-20",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T05:12:19.802Z",
-      "contentStatus": "ready",
-      "contentHash": "a3ab7d64b08d5a63ab472f60ceba54769c4ffbb502a51932ddf7a47f552a34ad",
-      "rawPath": "data/raw/3563d8e46b93a311cc82891655ce5353.json",
       "lastAnalysisStatus": "pending"
     },
     {
