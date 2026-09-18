@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-18T01:46:27.421Z",
-  "pendingCount": 347,
-  "readyCount": 347,
+  "updatedAt": "2026-09-18T02:21:57.703Z",
+  "pendingCount": 342,
+  "readyCount": 342,
   "awaitingContentCount": 0,
   "excludedContentCount": 265,
   "items": [
@@ -2669,17 +2669,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "f9c2237c5598d078c5be94f422497925",
-      "title": "May 19, 2026 News Lila Sciences Named #25 on the 2026 CNBC Disruptor 50 List Read More",
-      "url": "https://www.lila.ai/news/2026-cnbc-disruptor-50---lila-sciences",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:05:19.248Z",
-      "contentStatus": "ready",
-      "contentHash": "724757775feea44fbb83de8b5b70a892e7046104450eb91f20a30e30392dfcff",
-      "rawPath": "data/raw/f9c2237c5598d078c5be94f422497925.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "1e5b3eefb062c6f95060a9dbc71d6b19",
       "title": "We are a team of academic scientists, AI researchers, and more. Meet the Team",
       "url": "https://www.futurehouse.org/team",
@@ -2699,17 +2688,6 @@
       "contentStatus": "ready",
       "contentHash": "371422a2efb1d80d9ce022d0e456d8cc1a13355e9ad8608a09d3dc71af11fdb9",
       "rawPath": "data/raw/75242f37c63f5b5f5e764cbb365533f7.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "3972e1fd3d7728004c00971368060c57",
-      "title": "New: Building Labs that Learn",
-      "url": "https://periodic.com/news/building-labs-that-learn",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:05:18.909Z",
-      "contentStatus": "ready",
-      "contentHash": "10df720d3e079205824118821cf8d50e123df4d57b111548087b317e59ef4b31",
-      "rawPath": "data/raw/3972e1fd3d7728004c00971368060c57.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -2787,39 +2765,6 @@
       "contentStatus": "ready",
       "contentHash": "be5f59c5b09241cf8875e867f270a1284faa988643594a484903438699a378ba",
       "rawPath": "data/raw/c475073014102d72351e8aa7ba08e4f1.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "0e529012368f3ad5f8de82d902e5a8a8",
-      "title": "Learn More",
-      "url": "https://www.evolutionaryscale.ai/blog/esm-cambrian",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:05:18.818Z",
-      "contentStatus": "ready",
-      "contentHash": "00d0eec06dbe9c60c68fcdca99f5ba3d2a43ed6c4c04000f076721acf032c931",
-      "rawPath": "data/raw/0e529012368f3ad5f8de82d902e5a8a8.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "ca252e0df20729f2930e2a7ed5927f22",
-      "title": "Learn more about ESM3",
-      "url": "https://www.evolutionaryscale.ai/blog/esm3-release",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:05:18.818Z",
-      "contentStatus": "ready",
-      "contentHash": "9fb7a1973a3b095f615f9053ba9f1d903eecf6d8c98811e778de38e9ec2d2c29",
-      "rawPath": "data/raw/ca252e0df20729f2930e2a7ed5927f22.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "0deb3b5761acecdf3cd34c2430936830",
-      "title": "Events",
-      "url": "https://ir.recursion.com/news-events/events",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T05:12:19.802Z",
-      "contentStatus": "ready",
-      "contentHash": "f537e2cf37c6e582b18176be2e54a37fe282a6babfdd76db3efffd6e2eb0adeb",
-      "rawPath": "data/raw/0deb3b5761acecdf3cd34c2430936830.json",
       "lastAnalysisStatus": "pending"
     },
     {

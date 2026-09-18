@@ -9972,17 +9972,35 @@
       "sourceKey": "s02-09",
       "sourceName": "Lila Sciences",
       "sourceType": "自主科学实验公司",
-      "category": "",
+      "category": "自动化实验室",
       "publishedAt": null,
       "crawledAt": "2026-09-16T06:05:19.248Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "Lila Sciences介绍以科学超智能平台驱动假设生成、实验设计和实时学习，并建设可连续运行的AI Science Factories机器人实验室。页面称其已展示生成新抗体和开发碳捕集材料的早期概念验证，应用方向覆盖生命科学、化学和材料科学。分析判断：信息体现了模型与自动化实验设施的闭环构想，但所述成果仍主要来自公司自述，缺少抗体性能、材料指标、实验对照和复现实验细节。",
+      "score": 3,
+      "importanceReason": "同时给出科学模型、机器人实验室和早期验证案例，展示了AI驱动实验闭环的具体产品方向。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "模型",
+        "实验自动化",
+        "药物设计",
+        "材料发现"
+      ],
       "url": "https://www.lila.ai/news/2026-cnbc-disruptor-50---lila-sciences",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-18T02:10:00Z",
+      "evidence": [
+        {
+          "url": "https://www.lila.ai/news/2026-cnbc-disruptor-50---lila-sciences",
+          "quote": "an AI-driven system that can generate hypotheses and then design and run experiments that it learns from in real time"
+        },
+        {
+          "url": "https://www.lila.ai/news/2026-cnbc-disruptor-50---lila-sciences",
+          "quote": "generating novel antibodies and developing new carbon capturing materials"
+        }
+      ],
+      "limitations": "企业页面转述早期概念验证，未提供候选物序列、实验对照、材料性能、成功率或独立验证。",
+      "batchFile": "data/inbox/2026-09-18T02-10-00Z-full-010-7c6e4a91.json"
     },
     {
       "id": "1e5b3eefb062c6f95060a9dbc71d6b19",
@@ -10026,17 +10044,35 @@
       "sourceKey": "s02-10",
       "sourceName": "Periodic Labs",
       "sourceType": "自主实验公司",
-      "category": "",
+      "category": "自动化实验室",
       "publishedAt": null,
       "crawledAt": "2026-09-16T06:05:18.909Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "Periodic介绍在实体实验室部署一万亿参数的Periodic Neon模型，用于分析实验结果，并将高通量实验与物理模拟基础设施结合起来发现超导体和磁性材料。公司描述实验数据训练模型、模型决定下一步实验的闭环，也称实验室持续运行并提升通量。分析判断：该方案把实验数据作为科学模型训练信号，具有明显的数据—模型—实验反馈结构；但页面未完整给出基准任务、数据规模、实验命中率和材料发现结果。",
+      "score": 3,
+      "importanceReason": "公开了大模型部署到实体实验室及实验选择闭环，且明确指向新材料发现，技术路线具体。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "数据",
+        "模型",
+        "实验自动化",
+        "材料发现"
+      ],
       "url": "https://periodic.com/news/building-labs-that-learn",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-18T02:10:00Z",
+      "evidence": [
+        {
+          "url": "https://periodic.com/news/building-labs-that-learn",
+          "quote": "we trained a trillion-parameter model that outperforms GPT-6 Astra on a critical scientific analysis task"
+        },
+        {
+          "url": "https://periodic.com/news/building-labs-that-learn",
+          "quote": "our high-throughput labs provide the data to train increasingly capable scientific AI"
+        }
+      ],
+      "limitations": "公司文章未给出比较任务定义、评测数据、训练集规模、实验材料清单或可复现的发现结果。",
+      "batchFile": "data/inbox/2026-09-18T02-10-00Z-full-010-7c6e4a91.json"
     },
     {
       "id": "319b9d0ceda562c21fb9c73ccdb44f11",
@@ -10170,17 +10206,34 @@
       "sourceKey": "s02-06",
       "sourceName": "EvolutionaryScale",
       "sourceType": "蛋白基础模型公司",
-      "category": "",
+      "category": "模型",
       "publishedAt": null,
       "crawledAt": "2026-09-16T06:05:18.818Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "EvolutionaryScale介绍ESM Cambrian蛋白语言模型，强调模型在大规模蛋白序列上进行无监督学习，以缓解实验无法覆盖全部蛋白功能空间的问题。文章将其定位为数字生物学基础模型，并提供代码和云端部署入口。分析判断：该记录的核心价值是蛋白序列表示学习和计算生物学基础设施，但页面摘要未呈现完整基准表、具体数据集或下游实验验证。",
+      "score": 3,
+      "importanceReason": "提出面向生命尺度蛋白序列的无监督模型路线，直接对应蛋白功能预测与设计的AI4S基础能力。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "模型",
+        "数据",
+        "药物设计"
+      ],
       "url": "https://www.evolutionaryscale.ai/blog/esm-cambrian",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-18T02:10:00Z",
+      "evidence": [
+        {
+          "url": "https://www.evolutionaryscale.ai/blog/esm-cambrian",
+          "quote": "ESM C models define a new state of the art for protein representation learning"
+        },
+        {
+          "url": "https://www.evolutionaryscale.ai/blog/esm-cambrian",
+          "quote": "unsupervised learning—algorithms that can learn from patterns in unlabeled data—is critical to unlocking the promise of digital biology"
+        }
+      ],
+      "limitations": "来源为公司公告；当前正文摘录缺少模型规模、评测任务、对照方法和实验验证细节。",
+      "batchFile": "data/inbox/2026-09-18T02-10-00Z-full-010-7c6e4a91.json"
     },
     {
       "id": "ca252e0df20729f2930e2a7ed5927f22",
@@ -10188,17 +10241,33 @@
       "sourceKey": "s02-06",
       "sourceName": "EvolutionaryScale",
       "sourceType": "蛋白基础模型公司",
-      "category": "",
+      "category": "模型",
       "publishedAt": null,
       "crawledAt": "2026-09-16T06:05:18.818Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "EvolutionaryScale发布ESM3蛋白生成模型，文章将其描述为用语言模型模拟数亿年进化过程，并宣布开放生物智能API预览。页面强调蛋白质序列、结构和功能之间的联合建模方向，后续更新称相关论文发表于Science。分析判断：该记录体现蛋白生成式模型向可用API和论文成果延伸，但当前正文缺少模型评测数值、生成序列实验验证和API性能限制。",
+      "score": 3,
+      "importanceReason": "记录了蛋白生成模型、论文发表和开放API三个可追踪进展，具有明确的基础模型产品化信号。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "模型",
+        "药物设计"
+      ],
       "url": "https://www.evolutionaryscale.ai/blog/esm3-release",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-18T02:10:00Z",
+      "evidence": [
+        {
+          "url": "https://www.evolutionaryscale.ai/blog/esm3-release",
+          "quote": "ESM3: Simulating 500 million years of evolution with a language model"
+        },
+        {
+          "url": "https://www.evolutionaryscale.ai/blog/esm3-release",
+          "quote": "We’re opening our API for biological intelligence"
+        }
+      ],
+      "limitations": "来源为公司发布页；正文摘录未包含Science论文的实验表格、生成蛋白的湿实验结果、API配额或准确率。",
+      "batchFile": "data/inbox/2026-09-18T02-10-00Z-full-010-7c6e4a91.json"
     },
     {
       "id": "0deb3b5761acecdf3cd34c2430936830",
@@ -10206,17 +10275,26 @@
       "sourceKey": "s02-02",
       "sourceName": "Recursion",
       "sourceType": "AI药物/自动化实验公司",
-      "category": "",
+      "category": "其他",
       "publishedAt": null,
       "crawledAt": "2026-09-16T05:12:19.802Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
+      "summary": "该页面是公司投资者关系活动目录，仅列出即将举行或已经举行的会议，没有AI4S技术、实验结果或产品证据。",
+      "score": 1,
+      "importanceReason": "页面只提供会议日程信息，缺少可供AI4S分析的科学或技术内容。",
+      "contentType": "company_claim",
       "moatTags": [],
       "url": "https://ir.recursion.com/news-events/events",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "活动目录不含AI4S技术或实验正文，按协议 discarded。",
+      "analyzedAt": "2026-09-18T02:10:00Z",
+      "evidence": [
+        {
+          "url": "https://ir.recursion.com/news-events/events",
+          "quote": "Upcoming Events There are no upcoming events available at this time."
+        }
+      ],
+      "limitations": "目录页可能随时间变化，当前内容无法支持科学情报判断。",
+      "batchFile": "data/inbox/2026-09-18T02-10-00Z-full-010-7c6e4a91.json"
     },
     {
       "id": "3563d8e46b93a311cc82891655ce5353",
@@ -11047,5 +11125,5 @@
       "failureReason": ""
     }
   ],
-  "updatedAt": "2026-09-18T01:46:27.421Z"
+  "updatedAt": "2026-09-18T02:21:57.703Z"
 }
