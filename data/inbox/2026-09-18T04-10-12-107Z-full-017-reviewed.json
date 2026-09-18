@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "generator": "chatgpt-task",
+  "createdAt": "2026-09-18T04:10:12.107Z",
+  "analyses": [
+    {
+      "articleId": "025d9a87838831eddd4fb583d2cf733a",
+      "contentHash": "e15d40adc5b97eedef74b3bec62420af39fa08cf241e5a400d0dd64d5c5f828b",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-18T04:10:12.107Z",
+      "category": "模型",
+      "summary": "DeepSeek在R1-0528公告中报告AIME 2025准确率由70%升至87.5%，平均每题输出由12K增至23K tokens；沿用V3 Base并增加后训练算力，还蒸馏出Qwen3-8B版本。工具调用、JSON输出与MIT许可提供工程接入和再训练路径。分析判断：数学推理改善伴随更长推理开销，不能只以准确率评价成本收益；这些通用基准也未证明在化学、材料或生物实验任务上的可靠性。",
+      "score": 3,
+      "importanceReason": "给出推理准确率与token开销的配对变化，并提供小模型蒸馏与开放许可线索。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "模型"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.deepseek.com/news/r1-0528/",
+          "quote": "新版模型准确率由旧版的 70% 提升至 87.5%。"
+        }
+      ],
+      "limitations": "厂商历史公告；未提供完整采样配置和统计区间，幻觉下降比例的任务分布与评判方法不详，不视为当前实时API说明。",
+      "failureReason": ""
+    },
+    {
+      "articleId": "005bc69d490644cdd4301b520e25bb05",
+      "contentHash": "abccd240da9fee2b959e7e25f6f69110b73caf4e1144166ebcc7cc4ecae4a2df",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T04:10:12.107Z",
+      "failureReason": "展会时间、参展规模与招商简介，没有具体AI4S技术或实验成果。"
+    },
+    {
+      "articleId": "02f6f0ef2180dd0e7f7ff05300f2dd8b",
+      "contentHash": "49c45ebe943d7f32cff001811de6f8140c68db9d410553abdaffa575574b94e1",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T04:10:12.107Z",
+      "failureReason": "AWS基因组服务总览混合产品、案例标题和资源入口，缺少单项AI4S方法及验证正文，不把客户列表和营销数字当研究结果。"
+    },
+    {
+      "articleId": "0436ef5fde503c3e148954a15666fcdb",
+      "contentHash": "e6c90bf64b06b05a441c4a8f786e3987064ea00bd6f192eb4e6aeca26a18cd68",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T04:10:12.107Z",
+      "failureReason": "正文是光和光热驱动固态储氢研究，虽有实验数据，但未使用AI、机器学习或自主实验方法，与AI4S分析范围不符。"
+    },
+    {
+      "articleId": "045d5c92ac47b435f5c365dd3151412d",
+      "contentHash": "0f9ebf7974e155178c8e7f3ad12dc2451550fc380888dcae042f0b3682e263d7",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T04:10:12.107Z",
+      "failureReason": "内容为身份令牌与访问管理安全指南，没有AI科学发现方法或实验研究，属于一般网络安全标准新闻。"
+    },
+    {
+      "articleId": "047fad8381b7ca794ad58d2c6c1ea66f",
+      "contentHash": "e3cf6280ec1251f06d5560e95fc743f5959a759ca9112fd61aaa52cb4863f6cf",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T04:10:12.107Z",
+      "failureReason": "AI赋能科学论坛报名与议题预告，没有具体研究方法、发布成果或实验结果。"
+    },
+    {
+      "articleId": "04fe8e41359a28194f7021b51cc883c5",
+      "contentHash": "09efa6461a0e57d8b035c44d2712d824b9cd725541f35d1e489475e41645eac3",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T04:10:12.107Z",
+      "failureReason": "海报奖项报道只列研究题名、作者及资助方，未给出AI方法或研究结果；不凭结构生物学主题推定AI4S相关性。"
+    }
+  ]
+}
