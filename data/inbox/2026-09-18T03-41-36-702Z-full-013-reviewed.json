@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "generator": "chatgpt-task",
+  "createdAt": "2026-09-18T03:41:36.702Z",
+  "analyses": [
+    {
+      "articleId": "c9894ef733cd47fa1ef9fdf707a4a0b0",
+      "contentHash": "017e5595499832637f085593b87c23f73e62de58257ac4e8eea64e6c877b73ad",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-18T03:41:36.702Z",
+      "category": "模型",
+      "summary": "MIT Jameel Clinic以Corso获奖为引介绍Boltz的开放路线：Boltz-1公开代码、权重、训练数据和基准，后续Boltz-2及面向靶标结合蛋白设计的BoltzGen沿用开放许可。报道还称团队成立公益公司开发服务。分析判断：正文包含实质性的蛋白模型开放与产业采用线索，不能仅因标题为人物奖项就丢弃；所谓前二十大药企全部使用，是Corso本人陈述，未给出客户清单或活跃用量。",
+      "score": 2,
+      "importanceReason": "公开资产范围和蛋白设计模型演进有利于复现与应用，但本文没有新增模型性能证据。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "模型",
+        "药物设计"
+      ],
+      "evidence": [
+        {
+          "url": "https://jclinic.mit.edu/gabriele-corso-2026-innovators-under-35/",
+          "quote": "code, model weights, training data, and benchmarks"
+        }
+      ],
+      "limitations": "机构新闻稿，未附许可全文、具体模型基准、湿实验成功率；使用规模未经独立验证。",
+      "failureReason": ""
+    },
+    {
+      "articleId": "d54141b490c2b25f4231774dde90c376",
+      "contentHash": "34fc28502898aa1594587a439dd94ca686d388e9c922b06b5d974d485bcdd0a0",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-18T03:41:36.702Z",
+      "category": "AI4S 应用",
+      "summary": "MIT Jameel Clinic介绍Tadesse团队的虚拟光谱研究：以物理约束AI从单次测量推演其他测量形式，SpectroGen的结果据称与近700项矿物常规测量接近。文章将这一方法与降低多仪器表征负担联系起来，并另述呼气传感研究。分析判断：跨测量形式的生成可能节省材料表征成本，但预测光谱应作为有不确定性的推断，不能直接当作新增实测证据；呼气诊断与矿物光谱结果也不能相互替代验证。",
+      "score": 3,
+      "importanceReason": "具体给出物理约束生成光谱及近700项矿物测量对照，是明确的AI辅助表征线索。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "模型",
+        "材料发现"
+      ],
+      "evidence": [
+        {
+          "url": "https://jclinic.mit.edu/loza-tadesse-mit-technology-reviews-2026-innovators-under-35/",
+          "quote": "closely matched nearly 700 conventional measurements of mineral samples"
+        }
+      ],
+      "limitations": "报道未给误差分布、矿物划分、外部验证及离群样本处理；Matter论文细节未包含在raw中。",
+      "failureReason": ""
+    },
+    {
+      "articleId": "430c4a55fe7b30541fc3447eb61edd50",
+      "contentHash": "5f4e84031f55f6af3270e7137a33574f14a2264e48cd112ac04ddecdbe1c48e2",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-18T03:41:36.702Z",
+      "category": "AI4S 应用",
+      "summary": "晶泰科技描述SIGX1094的AI设计与胃癌类器官筛选循环：基于FAK/SRC双靶点生成、筛选并优化分子，以类器官由松散形态恢复致密球状作为表型标准。公司称合成200个分子后6个月确定临床前候选物，3.5年推进至一期，并称取得中美IND许可。分析判断：疾病表型反馈使计算筛选与实验验证相连接；提速60%缺少可比项目基线，早期疾病稳定信号也不能证明临床获益或完整安全性。",
+      "score": 3,
+      "importanceReason": "给出了双靶点机制、类器官选择标准及候选物推进时间，为计算实验闭环提供具体案例。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "模型",
+        "药物设计"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.xtalpi.com/%e6%8f%90%e9%80%9f-60%ef%bc%9a%e6%99%b6%e6%b3%b0%e7%a7%91%e6%8a%80%e9%87%8d%e7%a3%85%e8%ae%ba%e6%96%87%e6%8f%ad%e7%a4%ba-ai%e7%b1%bb%e5%99%a8%e5%ae%98%e5%a6%82%e4%bd%95%e9%87%8d%e5%a1%91%e8%8d%af/",
+          "quote": "每一轮候选分子都投入弥漫性胃癌类器官验证表型"
+        }
+      ],
+      "limitations": "企业解读文章；未提供患者例数、随访时长、剂量队列、对照及完整临床结果，监管进展为来源自述。",
+      "failureReason": ""
+    },
+    {
+      "articleId": "f9534287d53cfc28025474665584b2c8",
+      "contentHash": "4ce169d0a3b75839b5e952166b2521ddca7b396650cd18e9a69821cab501d0ac",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-18T03:41:36.702Z",
+      "category": "AI4S 应用",
+      "summary": "MIT访谈介绍面向单个患者的二维医学图像重建：用术前CT或MRI渲染合成X射线，再约5分钟训练适应该患者解剖的模型，服务三维或四维信息提取。研究者认为小规模影像数据促使物理模拟成为训练数据来源。分析判断：以患者自身解剖约束模型可降低跨人群建模负担，但毫米级实时且零失败在文中是研究问题，不是已验证性能；自主手术导航也仍属愿景。",
+      "score": 2,
+      "importanceReason": "明确描述患者特定训练和物理合成数据流程，但尚无临床误差及可靠性结果。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "模型",
+        "数据"
+      ],
+      "evidence": [
+        {
+          "url": "https://jclinic.mit.edu/ask-an-expert-qa-vivek-gopalakrishnan/",
+          "quote": "train this model in about five minutes"
+        }
+      ],
+      "limitations": "访谈自述；未披露样本数、术中配准漂移、推理延迟及失败率，五分钟为所述训练时间。",
+      "failureReason": ""
+    },
+    {
+      "articleId": "b1b4ad0d4a36bbd2e7dc0477a37dc822",
+      "contentHash": "b04473aa4f24f9456af638c32329c873e0cb0e18a73233643399359bc9cf50a8",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-18T03:41:36.702Z",
+      "category": "模型",
+      "summary": "微软研究院介绍GigaPath-Flash和GigaTIME-Flash，通过蒸馏ViT-S骨干降低病理分析成本，均采用Apache 2.0许可。GigaPath-Flash由22M参数图块编码器和21M参数LongNet切片编码器组成；GigaTIME-Flash用蒸馏骨干预测空间蛋白图谱。分析判断：更低计算开销有望支持大队列反复验证，但文中4000万细胞、21通道及逾1200关联属于原GigaTIME背景，不能直接当作Flash的新验证成果。",
+      "score": 3,
+      "importanceReason": "模型大小、蒸馏方式、许可与适用任务均较明确，直接涉及病理科学发现的计算可及性。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "模型",
+        "数据"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/",
+          "quote": "a 22M-parameter ViT-S tile encoder with a 21M-parameter LongNet slide encoder"
+        }
+      ],
+      "limitations": "raw在性能比较句中截断，无法完整解释约50倍成本主张；来源明确仅用于研究，跨机构和扫描仪性能及临床用途未经验证。",
+      "failureReason": ""
+    },
+    {
+      "articleId": "36925547eb4e2f02b6e835b0f930fd9d",
+      "contentHash": "745b58c64922474cd00fa25b2a63c8be7c3880d0101660768994e3cbc2161018",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T03:41:36.702Z",
+      "failureReason": "正文讲解抗体层析介质选型与传统纯化流程，未出现AI方法、数据驱动优化或自主实验，属于非AI4S技术资料。"
+    }
+  ]
+}
