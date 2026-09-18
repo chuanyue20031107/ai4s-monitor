@@ -7,10 +7,13 @@
   "sourceType": "AI药物/自动化实验公司",
   "publishedAt": null,
   "crawledAt": "2026-09-16T05:12:19.802Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Recursion to Participate in Upcoming Investor Conferences April 7, 2026 at 8:00 AM EDT PDF Version Salt Lake City, April 07, 2026 (GLOBE NEWSWIRE) -- Recursion (Nasdaq: RXRX), a leading clinical-stage TechBio company decoding biology to radically improve lives, today announced its participation in the following upcoming investor conferences: 25th Annual Needham Virtual Healthcare Conference - Monday, April 13, 2026 Bank of America Health Care Conference 2026 - Tuesday, May 12, 2026 Webcasts may be found in the events section of the Recursion Investor Relations website at ir.recursion.com . About Recursion Recursion (NASDAQ: RXRX) is a clinical-stage TechBio company decoding biology to radically improve lives. Recursion is advancing a portfolio of differentiated investigational medicines across its wholly owned and partnered pipeline in oncology, rare disease, neuroscience, immunology, and other therapeutic areas with significant unmet need. Enabling its mission is the Recursion OS, an AI-native, end-to-end drug discovery and development platform integrating biology, chemistry, and clinical development into a unified intelligence system. Powered by proprietary multimodal data, purpose-built AI models, and bilingual teams fluent in both science and AI, the Recursion OS is designed to translate complex science into medicines that matter — faster, better, and at scale — for patients who are waiting. Recursion’s platform infrastructure is anchored in Salt Lake City, Utah and Milton Park, Oxfordshire, where its automated biology and chemistry laboratories generate proprietary data at industrial scale. Recursion also maintains offices in New York, Montréal, and London, three global hubs for talent and leadership at the intersection of AI and scientific innovation. Learn more at www.recursion.com , or connect on X and LinkedIn .",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "f7300df31f0abd97f2330a8eb88ef649"
+  "contentHash": "be9e9675dbe68547aa8a7063313e09575faca0d3ec3a77d803575e80ed22ba57",
+  "legacyId": "f7300df31f0abd97f2330a8eb88ef649",
+  "lastFetchAt": "2026-09-18T20:59:29.694Z",
+  "contentTruncated": false,
+  "contentError": ""
 }

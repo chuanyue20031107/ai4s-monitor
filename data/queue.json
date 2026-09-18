@@ -1,11 +1,55 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-18T16:35:31.853Z",
-  "pendingCount": 315,
-  "readyCount": 315,
+  "updatedAt": "2026-09-18T21:02:13.011Z",
+  "pendingCount": 327,
+  "readyCount": 327,
   "awaitingContentCount": 0,
-  "excludedContentCount": 229,
+  "excludedContentCount": 187,
   "items": [
+    {
+      "id": "6d599667fdb2214e70b770ae9327ef08",
+      "title": "--> --> --> --> --> --> -->",
+      "url": "https://www.mgi-tech.com/Proteomics-products-platforms/291.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-18T20:59:52.639Z",
+      "contentStatus": "ready",
+      "contentHash": "20ce175e3f65900720207514c2615c7309f18a9380fc951fef5561845a223d1d",
+      "rawPath": "data/raw/6d599667fdb2214e70b770ae9327ef08.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "44088592ed65e30f25516e770df98a10",
+      "title": "View All Online Courses",
+      "url": "https://www.schrodinger.com/life-science/learn/education/courses/",
+      "publishedAt": null,
+      "crawledAt": "2026-09-18T20:59:31.177Z",
+      "contentStatus": "ready",
+      "contentHash": "7aad938c23303d7fe1c7978719e03e16faf96bb3cf7638fdd4f0bcfec779518e",
+      "rawPath": "data/raw/44088592ed65e30f25516e770df98a10.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "da500d6c7fcd5278c6845be4944600c1",
+      "title": "View All Resources",
+      "url": "https://www.schrodinger.com/life-science/resources/",
+      "publishedAt": null,
+      "crawledAt": "2026-09-18T20:59:31.153Z",
+      "contentStatus": "ready",
+      "contentHash": "5dfa57c67fa1af65feccce45b714a36b39609e43e84cfaeacaa436741ec577a2",
+      "rawPath": "data/raw/da500d6c7fcd5278c6845be4944600c1.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "815b5a0a7fe5d26677fbd954cc6f7c57",
+      "title": "Technical Blog",
+      "url": "https://developer.nvidia.com/blog",
+      "publishedAt": null,
+      "crawledAt": "2026-09-18T20:59:27.775Z",
+      "contentStatus": "ready",
+      "contentHash": "b3fcaac2712dbde2ea6befb8fdb1920e9c3ce6772b289d427f121a1794d76ed9",
+      "rawPath": "data/raw/815b5a0a7fe5d26677fbd954cc6f7c57.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "ee597d89e31297cc59af2ba5a72750a0",
       "title": "Drug Discovery 2027",
@@ -246,6 +290,17 @@
       "contentStatus": "ready",
       "contentHash": "2f88994b06f6938246e1e539bb1de6e626ef52362030e143157c1d4dd85b1abc",
       "rawPath": "data/raw/3eafc2a08ad81991071ad0103e9c5e74.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "f0ed36e6cfc80c67544a176f53eb300f",
+      "title": "NIST Awards More Than $1.7 Million to Support Cybersecurity Workforce Development Across 8 States",
+      "url": "https://www.nist.gov/news-events/news/2026/09/nist-awards-more-17-million-support-cybersecurity-workforce-development",
+      "publishedAt": "2026-09-18T12:00:00.000Z",
+      "crawledAt": "2026-09-18T20:59:26.304Z",
+      "contentStatus": "ready",
+      "contentHash": "642f2e9923e7ca2aefdc8bddd98891be7a4066b61b0f8f271c5df82d178a8871",
+      "rawPath": "data/raw/f0ed36e6cfc80c67544a176f53eb300f.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -862,6 +917,17 @@
       "contentStatus": "ready",
       "contentHash": "4cc8c1bf009a00087f63be430507fb1bb20ea0c50c2a0f0e5c4786cdb7861402",
       "rawPath": "data/raw/d22acfa5d0cc1d093c4a65f65bd5a5e3.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "eb3c186a1dd3c3863e2a33fb1448bf51",
+      "title": "Lithium Batteries May Help Unravel Mystery of Ancient Papyrus Scrolls",
+      "url": "https://www.nist.gov/blogs/taking-measure/lithium-batteries-may-help-unravel-mystery-ancient-papyrus-scrolls",
+      "publishedAt": "2026-09-17T12:00:00.000Z",
+      "crawledAt": "2026-09-18T20:59:26.381Z",
+      "contentStatus": "ready",
+      "contentHash": "a5b491bdceef5163e61b11b47accb91386a35766aa8455b0b0822cf7fba7e149",
+      "rawPath": "data/raw/eb3c186a1dd3c3863e2a33fb1448bf51.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -2834,6 +2900,28 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "f3f20df70bb23965ae8493cc317a001f",
+      "title": "Recursion to Report First Quarter 2026 Business Updates and Financial Results on May 6",
+      "url": "https://ir.recursion.com/news-releases/news-release-details/recursion-report-first-quarter-2026-business-updates-and",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T05:12:19.802Z",
+      "contentStatus": "ready",
+      "contentHash": "6ef239004d521fedd0a8e21c866c0bc8b4c3d0d5dc621a37fa14387f95792a32",
+      "rawPath": "data/raw/f3f20df70bb23965ae8493cc317a001f.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "f7300df31f0abd97f2330a8eb88ef649",
+      "title": "Recursion to Participate in Upcoming Investor Conferences",
+      "url": "https://ir.recursion.com/news-releases/news-release-details/recursion-participate-upcoming-investor-conferences-18",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T05:12:19.802Z",
+      "contentStatus": "ready",
+      "contentHash": "be9e9675dbe68547aa8a7063313e09575faca0d3ec3a77d803575e80ed22ba57",
+      "rawPath": "data/raw/f7300df31f0abd97f2330a8eb88ef649.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "6f8920402e88f9ce32967c85e1ccf7b0",
       "title": "Latest news",
       "url": "https://www.ebi.ac.uk/about/news",
@@ -3087,6 +3175,17 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "edf74927e8bf18460382ac676de9b8d9",
+      "title": "EvoLib: Turning experience into evolving knowledge",
+      "url": "https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge/",
+      "publishedAt": "2026-07-30T16:00:00.000Z",
+      "crawledAt": "2026-09-18T20:59:26.010Z",
+      "contentStatus": "ready",
+      "contentHash": "0f8dbd97961d1ecdae1c241fe5633460d9c91d2a6940ed1df4a61aae20dae852",
+      "rawPath": "data/raw/edf74927e8bf18460382ac676de9b8d9.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "c6c5d7c47e8a20f9c677e2a7c0f34928",
       "title": "【材料篇】CPHI深圳展医美论坛——再生材料与功效护肤分论坛",
       "url": "https://www.cphi-china.cn/industrynews/mseindustrynews/97056/",
@@ -3164,6 +3263,28 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "b45a9ea535cabcd957cb254cbab02b13",
+      "title": "Verifying Rust cryptography in SymCrypt, from standards to code",
+      "url": "https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/",
+      "publishedAt": "2026-07-13T16:00:00.000Z",
+      "crawledAt": "2026-09-18T20:59:26.011Z",
+      "contentStatus": "ready",
+      "contentHash": "df7f2a85a2133fb428f1caccf209dc392207c579ed8622eecc5b2a22486258ec",
+      "rawPath": "data/raw/b45a9ea535cabcd957cb254cbab02b13.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "df26bd70c115554a75a1c1d50cfa284e",
+      "title": "Aurora 1.5: Extending open foundation models for weather and Earth-system applications",
+      "url": "https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/",
+      "publishedAt": "2026-07-09T16:46:22.000Z",
+      "crawledAt": "2026-09-18T20:59:26.011Z",
+      "contentStatus": "ready",
+      "contentHash": "071d791fe2c898f4209e8c810440f8129795ada568e39d1c3a9f5d7f2f482c7d",
+      "rawPath": "data/raw/df26bd70c115554a75a1c1d50cfa284e.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "abfcaf3a980ff4247cdcfe9f94b5e22f",
       "title": "From AI Insights to Experimental Action In this Digital Dialogue, we examined how AI was driving actionable insights in BioPharma R&D.... Read&nbsp;more",
       "url": "https://www.lab-of-the-future.com/2026/06/11/from-ai-insights-to-experimental-action/",
@@ -3216,6 +3337,17 @@
       "contentStatus": "ready",
       "contentHash": "c27745063016f1b846db75e6564b37c4a731e603287ebc951997f9797c889a91",
       "rawPath": "data/raw/a1f8cdc7757774f6440b503eadd59f71.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "4bc24b85c6824864e3c3765641b43bd5",
+      "title": "AI-powered chemistry technique born in Glasgow ‘validated’ by leading journals – heralding new dawn for drug discovery April 10, 2026 Futurescot",
+      "url": "https://futurescot.com/ai-powered-chemistry-technique-born-in-glasgow-validated-by-leading-journals-heralding-new-dawn-for-drug-discovery/",
+      "publishedAt": "2026-04-10T09:37:48.000Z",
+      "crawledAt": "2026-09-16T06:05:19.334Z",
+      "contentStatus": "ready",
+      "contentHash": "a8f20a0c2b745a049acda1cdc1930e44d2384bd13e0607455bfc83870efab395",
+      "rawPath": "data/raw/4bc24b85c6824864e3c3765641b43bd5.json",
       "lastAnalysisStatus": "pending"
     },
     {
