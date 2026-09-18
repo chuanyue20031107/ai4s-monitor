@@ -69,7 +69,14 @@ export async function collect({ root = process.cwd(), seeds = null, fetchPage = 
     const contentFromFeed = entry.feedContent?.length >= 120;
     const record = { id: articleId(entry.url), title: entry.title, url: entry.url, sourceKey: s.sourceKey, sourceName: s.name, sourceType: s.type || '', publishedAt: entry.publishedAt || old?.publishedAt || null, crawledAt: old?.crawledAt || now(), content: '', contentStatus: 'needs_fetch', extractionMethod: '', discardReason: noiseReason(entry.title, entry.url), ...old };
     record.lastFetchAt = now();
-    if (record.discardReason) return;
+    const rawFile = path.join(root, `data/raw/${record.id}.json`);
+    const removeUnusable = () => {
+      // Raw storage is an evidence store: title-only, empty, blocked, and
+      // otherwise unusable pages must never become queue or Pages records.
+      if (fs.existsSync(rawFile)) fs.rmSync(rawFile, { force: true });
+      existing.delete(record.url);
+    };
+    if (record.discardReason || record.title.length < 5 || record.title.length > 220) { removeUnusable(); return; }
     try {
       let extracted;
       if (contentFromFeed) extracted = { content: entry.feedContent.slice(0, 5000), publishedAt: record.publishedAt, extractionMethod: 'feed-excerpt', contentTruncated: entry.feedContent.length >= 5000 };
@@ -79,7 +86,7 @@ export async function collect({ root = process.cwd(), seeds = null, fetchPage = 
         if (entry.fromSitemap) {
           record.title = clean(page.html.match(/<title\b[^>]*>([\s\S]*?)<\/title>/i)?.[1]
             || page.html.match(/<h1\b[^>]*>([\s\S]*?)<\/h1>/i)?.[1] || '');
-          if (record.title.length < 5 || record.title.length > 220 || noiseReason(record.title, entry.url)) return;
+          if (record.title.length < 5 || record.title.length > 220 || noiseReason(record.title, entry.url)) { removeUnusable(); return; }
         }
       }
       record.content = extracted.content; record.extractionMethod = extracted.extractionMethod; record.contentTruncated = Boolean(extracted.contentTruncated);
@@ -88,9 +95,10 @@ export async function collect({ root = process.cwd(), seeds = null, fetchPage = 
       record.contentError = record.contentStatus === 'ready' ? '' : '正文不足 120 字符，禁止仅凭标题宣布分析完成';
     } catch (error) {
       // A sitemap URL without an observed title/body is not an article record.
-      if (entry.fromSitemap && !record.title) return;
+      if (entry.fromSitemap && !record.title) { removeUnusable(); return; }
       record.contentStatus = 'fetch_failed'; record.contentError = /^HTTP_\d+$|^(robots_blocked|request_budget_exhausted|private_address_blocked|unsupported_content|response_too_large)$/.test(error.message) ? error.message : 'fetch_error';
     }
+    if (record.contentStatus !== 'ready' || record.content.length < 120) { removeUnusable(); return; }
     record.contentHash = sha256(record.content || '');
     writeJson(path.join(root, `data/raw/${record.id}.json`), record); existing.set(record.url, record);
     if (old) run.enriched++; else run.inserted++;
@@ -141,3 +149,4 @@ export async function collect({ root = process.cwd(), seeds = null, fetchPage = 
 if (process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.meta.url)) {
   try { console.log((await collect()).detail); } catch (error) { console.error(error.message); process.exitCode = 1; }
 }
+
