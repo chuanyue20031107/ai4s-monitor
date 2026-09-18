@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "generator": "chatgpt-task",
+  "createdAt": "2026-09-18T05:47:00.371Z",
+  "analyses": [
+    {
+      "articleId": "3dc8e858d168f065e595b0a0fa5a71cb",
+      "contentHash": "47696ad0c0badcb058b551380ab84df940cf9b3bc084e4f86e44ff7135768f23",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-18T05:47:00.371Z",
+      "failureReason": "",
+      "category": "数据",
+      "summary": "Kimi团队发布PerceptionBench，用42个已有基准中的模型失败案例归纳10类原子视觉能力，并构建3000道经核验题目；内部题池超过17000题，覆盖定位、计数、属性、深度、OCR和视觉幻觉等。团队称16个前沿多模态模型没有一个达到60%准确率。其价值在于把视觉感知错误与推理、外部知识分离，便于诊断模型薄弱环节；但基准由发布方设计，不能直接代表真实科研图像泛化。",
+      "score": 3,
+      "importanceReason": "提供失败驱动的视觉评测设计、题量和能力拆分，对科研多模态模型诊断有直接参考价值。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "数据",
+        "模型"
+      ],
+      "limitations": "正文截断；未披露各模型版本、完整评分分布与数据许可，题目构造与真实科学图像之间存在域差异。",
+      "evidence": [
+        {
+          "url": "https://www.kimi.com/en/blog/perception-bench",
+          "quote": "construct 3,000 verified questions"
+        },
+        {
+          "url": "https://www.kimi.com/en/blog/perception-bench",
+          "quote": "Across sixteen frontier MLLMs, no model reaches 60% accuracy"
+        }
+      ]
+    },
+    {
+      "articleId": "3cda292421d4b1a2b1b35aa1aac761e3",
+      "contentHash": "a44fa69fa7d02899e4bcc21c26c051727c17fb0836a6d91b5d0403839497758b",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-18T05:47:00.371Z",
+      "failureReason": "",
+      "category": "模型",
+      "summary": "Citrine的业务更新页介绍Citrine Catalyst为利用大语言模型的数字助手，并称其AI与智能数据管理平台服务材料和化学产品开发。页面同时列出与Michelin、LANXESS和AGC等企业合作的欧洲业务扩展。可分析的信息是模型助手与材料数据平台的产品定位及合作自述；页面不是论文或独立测评，未提供材料性能、预测误差或实验闭环数据，因此不应把“award-winning”当作科学验证。",
+      "score": 1,
+      "importanceReason": "说明材料信息学产品的模型与数据管理方向，但技术细节和可复现实验指标不足。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "数据",
+        "材料发现",
+        "商业合作"
+      ],
+      "limitations": "分类页内容混合历史博客和产品营销，合作及奖项均为企业自述，缺模型版本、任务数据和性能对照。",
+      "evidence": [
+        {
+          "url": "https://citrine.io/category/blog/business-updates-blog/",
+          "quote": "Citrine Catalyst, an innovative digital assistant that leverages large language models"
+        },
+        {
+          "url": "https://citrine.io/category/blog/business-updates-blog/",
+          "quote": "Citrine has partnered with industry leaders in Europe like Michelin, LANXESS, and AGC"
+        }
+      ]
+    },
+    {
+      "articleId": "3bfffde016074d76e69628d539a7a2bd",
+      "contentHash": "1431187f5457ebe38e14167feda61c5b81b3bd5bb08d071303d7e6b1960d946d",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T05:47:00.371Z",
+      "failureReason": "知识产权代理服务征集公告，属于采购通知，不是AI4S成果。"
+    },
+    {
+      "articleId": "3d33ecd25a35d2113dd2b4c948852adf",
+      "contentHash": "6f908b2559692c1f6132e2e5a09a75c5dfff3bc1a83f5676acf7846279252ce4",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T05:47:00.371Z",
+      "failureReason": "投资者活动与嘉宾目录，无科研方法或结果。"
+    },
+    {
+      "articleId": "3e92fdc2e1b729fc48fea6c4bab05154",
+      "contentHash": "31bff859a7958a70baf45456659355135cf50ee640456ef2ae6e39854aa371f3",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T05:47:00.371Z",
+      "failureReason": "展会规划与宣传信息，不提供可核验AI4S结果。"
+    }
+  ]
+}
