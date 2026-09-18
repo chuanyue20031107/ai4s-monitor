@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-18T03:28:12.724Z",
-  "pendingCount": 337,
-  "readyCount": 337,
+  "updatedAt": "2026-09-18T03:42:04.937Z",
+  "pendingCount": 335,
+  "readyCount": 335,
   "awaitingContentCount": 0,
   "excludedContentCount": 265,
   "items": [
@@ -2999,17 +2999,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "2479c6735b11b3c8abb8fc1ca33acc6c",
-      "title": "AI做实验如何少走弯路？晶泰科技联合多所高校提出CARE框架",
-      "url": "https://www.xtalpi.com/ai%e5%81%9a%e5%ae%9e%e9%aa%8c%e5%a6%82%e4%bd%95%e5%b0%91%e8%b5%b0%e5%bc%af%e8%b7%af%ef%bc%9f%e6%99%b6%e6%b3%b0%e7%a7%91%e6%8a%80%e8%81%94%e5%90%88%e5%a4%9a%e6%89%80%e9%ab%98%e6%a0%a1%e6%8f%90%e5%87%ba/",
-      "publishedAt": "2026-09-10T10:14:16.000Z",
-      "crawledAt": "2026-09-17T02:33:58.333Z",
-      "contentStatus": "ready",
-      "contentHash": "4770b9ec69b37efd8294415436cc70fea665affc409ef35ef38678ccd095ba13",
-      "rawPath": "data/raw/2479c6735b11b3c8abb8fc1ca33acc6c.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "d7899dcf4a2a9531193268ea67851d6d",
       "title": "DeepSeek-V4.1-Flash 发布，文本与 Agent 性能全面提升、兼具原生多模态视觉理解能力，能力更强、速度更快、且成本更低，欢迎测试和反馈",
       "url": "https://www.deepseek.com/news/deepseek-v4-1-flash/",
@@ -3018,17 +3007,6 @@
       "contentStatus": "ready",
       "contentHash": "af145fa353b11287216525ef0ff141b2d7434e41a5faf0e96059f19c2b5865ea",
       "rawPath": "data/raw/d7899dcf4a2a9531193268ea67851d6d.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "d427b077c34b8a53b9dbbd3365ee5e9d",
-      "title": "全球首款口服LDHA抑制剂冲刺临床，AI+机器人构建新药研发范式",
-      "url": "https://www.xtalpi.com/%e5%85%a8%e7%90%83%e9%a6%96%e6%ac%be%e5%8f%a3%e6%9c%8dldha%e6%8a%91%e5%88%b6%e5%89%82%e5%86%b2%e5%88%ba%e4%b8%b4%e5%ba%8a%ef%bc%8cai%e6%9c%ba%e5%99%a8%e4%ba%ba%e6%9e%84%e5%bb%ba%e6%96%b0%e8%8d%af/",
-      "publishedAt": "2026-09-09T01:30:43.000Z",
-      "crawledAt": "2026-09-17T02:33:58.335Z",
-      "contentStatus": "ready",
-      "contentHash": "fb138489da07ac990e56f7d7ccab381da08ca978eb0e9a337aa1ee059e409d3a",
-      "rawPath": "data/raw/d427b077c34b8a53b9dbbd3365ee5e9d.json",
       "lastAnalysisStatus": "pending"
     },
     {
