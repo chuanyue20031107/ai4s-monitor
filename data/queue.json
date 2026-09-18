@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-18T04:58:17.496Z",
-  "pendingCount": 293,
-  "readyCount": 293,
+  "updatedAt": "2026-09-18T05:45:12.039Z",
+  "pendingCount": 275,
+  "readyCount": 275,
   "awaitingContentCount": 0,
   "excludedContentCount": 263,
   "items": [
@@ -975,17 +975,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "2413a5e9e950a5fc5f63eaac1058c049",
-      "title": "SLAS Technology",
-      "url": "https://www.slas.org/publications/slas-technology/",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T07:35:35.658Z",
-      "contentStatus": "ready",
-      "contentHash": "656a6bff0b510544a6d6ce06479c3ddbb34ce6f8d4f5333708e2a2995858922d",
-      "rawPath": "data/raw/2413a5e9e950a5fc5f63eaac1058c049.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "39d24a6c82ef87adc4c9b44477822581",
       "title": "Electronic Laboratory Neighborhood",
       "url": "https://www.slas.org/publications/electronic-laboratory-neighborhood/",
@@ -1184,17 +1173,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "1f6ade1dd7c210cba2578f530c7bb05b",
-      "title": "中国药学会关于征集2026年优质药学科普作品的通知",
-      "url": "https://www.cpa.org.cn/?do=info&cid=78847",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T07:35:33.584Z",
-      "contentStatus": "ready",
-      "contentHash": "12ccd0ef357a7efa22875bf49646f661552b7c35cfe104b96390235a0cc41488",
-      "rawPath": "data/raw/1f6ade1dd7c210cba2578f530c7bb05b.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "3edf85b85402dbd77af634e91576dc6f",
       "title": "中国药学会中医肿瘤药物与临床研究专业委员会2026年...",
       "url": "https://www.cpa.org.cn/?do=info&cid=79026",
@@ -1283,17 +1261,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "22c56d19ed6da6e99a724e646aac58c2",
-      "title": "样品前处理及实验室通用设备展区",
-      "url": "https://www.analyticachina.com.cn/cn/Discover-analytica-China/Press-Release/Exhibition-News/detail/Sample-treatment",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T07:35:33.582Z",
-      "contentStatus": "ready",
-      "contentHash": "418f12c19e19c3a5831a490d8fd6b53d04a08a8d38cf3c31d33486ac78e76118",
-      "rawPath": "data/raw/22c56d19ed6da6e99a724e646aac58c2.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "2eaefa49240bccb1f2b355d4a6cc4939",
       "title": "AI・出海・后市场——解码科学仪器行业新动能专题论坛",
       "url": "https://www.analyticachina.com.cn/cn/analytica-china-2026/Supporting-program/yiqixinxi",
@@ -1379,28 +1346,6 @@
       "contentStatus": "ready",
       "contentHash": "c8efb538da7767b918e34372db2ba9202352fd728dd1f6796b140619e9d4f759",
       "rawPath": "data/raw/d84b1f9ba70249e56df46fccd09c4209.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "2370cc3d69b6b8bd29762980f79cbcd5",
-      "title": "05-23 2026 中国人工智能学会关于征集2027人工智能领域前沿科学问题、工程技术难题和产业技术问题的通知",
-      "url": "https://www.caai.cn/site/content/7849.html",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T07:35:30.573Z",
-      "contentStatus": "ready",
-      "contentHash": "1a1bc7a39b41bc52ee906f753788cfbfc48b974a6d8334c682a17f68d6f788a6",
-      "rawPath": "data/raw/2370cc3d69b6b8bd29762980f79cbcd5.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "292e0507a71717d74e4ad33142b5dab4",
-      "title": "07-31 2026 关于开展2026年青年科技人才培育工程工程师专项计划申报工作的通知",
-      "url": "https://www.caai.cn/site/content/8521.html",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T07:35:30.573Z",
-      "contentStatus": "ready",
-      "contentHash": "390748343023324483272c8e701ae41a1e96492264851bd64aa88175774340f3",
-      "rawPath": "data/raw/292e0507a71717d74e4ad33142b5dab4.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -1500,28 +1445,6 @@
       "contentStatus": "ready",
       "contentHash": "5e5ad360b5265aa60c44930cf949086462df89e5c1d88c1f5f16e65e684b3768",
       "rawPath": "data/raw/bf85519d4934e785db00d40aafa6c785.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "25ce2ffd76d738374717d9ef549a5fb5",
-      "title": "中国科学院与中粮集团举行科技成果交流会",
-      "url": "https://www.cas.cn/cg/zh/202609/t20260909_5120024.shtml",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T07:35:27.532Z",
-      "contentStatus": "ready",
-      "contentHash": "d6d1e4b0775d55ff22ecd3344de2896d723c08447785bdc486f19d6c3d302826",
-      "rawPath": "data/raw/25ce2ffd76d738374717d9ef549a5fb5.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "262c472237652124c327707648ac024b",
-      "title": "研究提出山地森林单木识别与多维属性协同提取方法",
-      "url": "https://www.cas.cn/syky/202609/t20260914_5120251.shtml",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T07:35:27.532Z",
-      "contentStatus": "ready",
-      "contentHash": "7ee76a13d955e0227be806339617c2b93afb756c47210b9737d3ad546e63a658",
-      "rawPath": "data/raw/262c472237652124c327707648ac024b.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -1723,17 +1646,6 @@
       "lastAnalysisStatus": "failed"
     },
     {
-      "id": "2a8fd8d321ba36424f7ed708a322369c",
-      "title": "药明康德2025年超额达成全年指引，业绩再创历史新高 公司2025年整体营业收入454.6亿元；持续经营业务收入同比+21.4% 经调整Non-IFRS归母净利润149.6亿元，同比+41.3% 持续经营业务在手订单580.0亿元，同比+28.8% 阅读更多",
-      "url": "https://www.wuxiapptec.cn/news/wuxi-news/umhjsmiz9m1gckio5iwivj6h",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:57:42.620Z",
-      "contentStatus": "ready",
-      "contentHash": "f38cda7df9d0dc59d2aeddffac752167102ca40f41678f4e1f7b5934f413f6ad",
-      "rawPath": "data/raw/2a8fd8d321ba36424f7ed708a322369c.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "3b9ba6736c89cccc427f1aed829958fa",
       "title": "药明康德荣膺CDP气候变化和水安全“双A”评级 上海，2026年1月19日 – 药明康德今日宣布，公司在2025年全球环境信息研究中心（CDP）评估中，在气候变化和水安全两个议题上均入选“A级”榜单。“A级”是CDP在相关领域授予的最高等级，这一认可充分体现了药明康德在气候变化和水资源管理方面的突出表现和对可持续发展的坚定承诺。 阅读更多",
       "url": "https://www.wuxiapptec.cn/news/wuxi-news/jf4ajwxa6c9za4nakfesav6n",
@@ -1852,17 +1764,6 @@
       "contentStatus": "ready",
       "contentHash": "cfac09fc80c076170140ca99921c7f839096ae4bf9ad5ac2d256525d956f7566",
       "rawPath": "data/raw/ee8d49455842f8c9d9355ebf4cd7e649.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "2a303fb8fcf42b73cc3b63e5fe497dfa",
-      "title": "InternLM 2024.01.02 7.1k",
-      "url": "https://github.com/InternLM/InternLM",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:57:40.684Z",
-      "contentStatus": "ready",
-      "contentHash": "1d892d1c5976dcdb58ff1857715018bb2f8f230ea5e6df8d32a0768167df0787",
-      "rawPath": "data/raw/2a303fb8fcf42b73cc3b63e5fe497dfa.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -1987,17 +1888,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "2e5e68a3630bc8a26303ad21962740a1",
-      "title": "&#x79D1;&#x7814;&#x8FDB;&#x5C55;&#x4E28;&#x53EF;&#x7F16;&#x7A0B;&#x8303;&#x5FB7;&#x534E;&#x5F02;&#x8D28;&#x7ED3;&#x5B9E;&#x73B0;&#x611F;&#x5B58;&#x7B97;&#x591A;&#x529F;&#x80FD;&#x96C6;&#x6210;",
-      "url": "https://www.sslab.org.cn/news/researchdetail?id=260727110736429128B85078C",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:57:38.624Z",
-      "contentStatus": "ready",
-      "contentHash": "d2badc309833fbad19082669ab7a1e2a9076b00cfec79bcb6ace81c2e7017246",
-      "rawPath": "data/raw/2e5e68a3630bc8a26303ad21962740a1.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "3bfffde016074d76e69628d539a7a2bd",
       "title": "&#x677E;&#x5C71;&#x6E56;&#x6750;&#x6599;&#x5B9E;&#x9A8C;&#x5BA4;&#x5173;&#x4E8E;&#x516C;&#x5F00;&#x9074;&#x9009;&#x77E5;&#x8BC6;&#x4EA7;&#x6743;&#x4EE3;&#x7406;&#x670D;&#x52A1;&#x673A;&#x6784;&#x7684;&#x516C;&#x544A;",
       "url": "https://www.sslab.org.cn/news/noticedetail?id=26073113454972020FA37A7BB",
@@ -2075,17 +1965,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "249605fab5a320b009e5dd23f2b8ac0a",
-      "title": "直属研究机构",
-      "url": "https://www.szbl.ac.cn/research/institutes.htm",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:57:37.192Z",
-      "contentStatus": "ready",
-      "contentHash": "c5095f629fefd9da7c213d57e9868d35d2aaafb73cd8415bd11cf2bffc6067a2",
-      "rawPath": "data/raw/249605fab5a320b009e5dd23f2b8ac0a.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "85a216b9eb0e44f86b8769d4c326d493",
       "title": "2026/09 18 Primate Embryo, Reproduction, Stem Cell, and Model Research 2026年9月18日上午10:00 刘真 卫光生命科学园1A栋1927会议室 了解详情",
       "url": "https://www.szbl.ac.cn/info/1017/10564.htm",
@@ -2116,28 +1995,6 @@
       "contentStatus": "ready",
       "contentHash": "a4ae698750329be64be06f964f5bf6fdd5e389dfc7c60aff16c50032c64a0a61",
       "rawPath": "data/raw/99ef6997114e8c4e48b5fddcea19c0a4.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "1f552fa9057cbe0241ce3b2cf4ac812c",
-      "title": "众行课堂“入职第一课”顺利举办",
-      "url": "http://news.ustc.edu.cn/info/1055/96244.htm",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:05:33.961Z",
-      "contentStatus": "ready",
-      "contentHash": "8c15f9b476f583524d2cc37ffd374cd11e81e2a144e2e75041c65448768da537",
-      "rawPath": "data/raw/1f552fa9057cbe0241ce3b2cf4ac812c.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "2d8f87b4b7a8f0d177541e2ab4c23fc6",
-      "title": "第十三届中国技术史与技术遗产论坛在我校举办",
-      "url": "http://news.ustc.edu.cn/info/1055/96296.htm",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:05:33.961Z",
-      "contentStatus": "ready",
-      "contentHash": "d47b598f2bbe12a938c913d71686c311c39b6a4674d6794bab768878c3876075",
-      "rawPath": "data/raw/2d8f87b4b7a8f0d177541e2ab4c23fc6.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -2306,17 +2163,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "24fdfde056bc56d57e6ee3fc50f144c9",
-      "title": "Life at Citrine",
-      "url": "https://citrine.io/category/blog/life-at-citrine/",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:05:19.356Z",
-      "contentStatus": "ready",
-      "contentHash": "2a28abb470a5cedea91c7dc99bee6ebd3990a66e6adcec57c3a58aab9c931504",
-      "rawPath": "data/raw/24fdfde056bc56d57e6ee3fc50f144c9.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "3cda292421d4b1a2b1b35aa1aac761e3",
       "title": "Business Updates",
       "url": "https://citrine.io/category/blog/business-updates-blog/",
@@ -2435,17 +2281,6 @@
       "contentStatus": "ready",
       "contentHash": "16cd1816d2510c2a9e7ed354c4a3640320b334bf1fca737009cc27b90c04f1eb",
       "rawPath": "data/raw/f8d2dffb5347ebe981602e79067783dd.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "1ea786eeb1ee7cf9ccd8b3836313e023",
-      "title": "Drug Discovery Chemistry April 13, 2026 Chemify Attending, San Diego",
-      "url": "https://www.drugdiscoverychemistry.com/?matchtype=&adgroupid=&keyword=&creative=&adposition=&campaignid=23283505599&network=x&placement=&targetid=&gad_source=1&gad_campaignid=23292829132&gbraid=0AAAAAD-WZCQHB4uz39sgCMubvU08zLJF8",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:05:19.334Z",
-      "contentStatus": "ready",
-      "contentHash": "328522fbda5ca6b33abe59450adbfeed6de85e271914d6861ed55f43ee2d2475",
-      "rawPath": "data/raw/1ea786eeb1ee7cf9ccd8b3836313e023.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -2702,17 +2537,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "21ae9552f5bd32de705654274193831a",
-      "title": "Events",
-      "url": "https://www.ebi.ac.uk/about/events",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T05:12:13.867Z",
-      "contentStatus": "ready",
-      "contentHash": "a4a796d2ee3a49bf7cf99b86f39da895d9f3a526f9d665ca69a0f77c58cc77fc",
-      "rawPath": "data/raw/21ae9552f5bd32de705654274193831a.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "6f8920402e88f9ce32967c85e1ccf7b0",
       "title": "Latest news",
       "url": "https://www.ebi.ac.uk/about/news",
@@ -2721,28 +2545,6 @@
       "contentStatus": "ready",
       "contentHash": "efcce94c68f9cf8e6f4809e5d719787c733e7929c1cf271ad2d5bf05b9841049",
       "rawPath": "data/raw/6f8920402e88f9ce32967c85e1ccf7b0.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "20ea80092336076a9d4540e9c4c3c526",
-      "title": "Autonomous Vehicles",
-      "url": "https://research.nvidia.com/labs/avg/",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T05:12:08.213Z",
-      "contentStatus": "ready",
-      "contentHash": "f697b899ac4f06521ee2de1a68d8374a98259ab9402ff938e8fd972070e0bfb2",
-      "rawPath": "data/raw/20ea80092336076a9d4540e9c4c3c526.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "26e4b8083fe735cedb234eccbd07c3d5",
-      "title": "Applied Research",
-      "url": "https://research.nvidia.com/labs/adlr/",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T05:12:08.213Z",
-      "contentStatus": "ready",
-      "contentHash": "8915459f68f4f2199cf200d925de578724a8f576671ff3f25ea8dbe6828b0c88",
-      "rawPath": "data/raw/26e4b8083fe735cedb234eccbd07c3d5.json",
       "lastAnalysisStatus": "pending"
     },
     {

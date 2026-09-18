@@ -5929,8 +5929,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.slas.org/publications/slas-technology/",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "期刊介绍和论文目录，不能把列出的题目当作实验依据。",
+      "analyzedAt": "2026-09-18T04:25:37.554Z",
+      "batchFile": "data/inbox/2026-09-18T04-25-37-554Z-full-020-reviewed-c8a59ef6.json"
     },
     {
       "id": "39d24a6c82ef87adc4c9b44477822581",
@@ -6511,8 +6513,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.cpa.org.cn/?do=info&cid=78847",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "科普作品征集行政通知，无具体科学智能成果。",
+      "analyzedAt": "2026-09-18T04:25:37.554Z",
+      "batchFile": "data/inbox/2026-09-18T04-25-37-554Z-full-020-reviewed-c8a59ef6.json"
     },
     {
       "id": "3edf85b85402dbd77af634e91576dc6f",
@@ -6824,8 +6828,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.analyticachina.com.cn/cn/Discover-analytica-China/Press-Release/Exhibition-News/detail/Sample-treatment",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "展区招商与设备类别介绍，不能作为自动化实验性能证据。",
+      "analyzedAt": "2026-09-18T04:25:37.554Z",
+      "batchFile": "data/inbox/2026-09-18T04-25-37-554Z-full-020-reviewed-c8a59ef6.json"
     },
     {
       "id": "2eaefa49240bccb1f2b355d4a6cc4939",
@@ -7082,8 +7088,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.caai.cn/site/content/7849.html",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "科研问题征集通知，尚未提供被研究的问题、方法或验证结果。",
+      "analyzedAt": "2026-09-18T04:25:37.554Z",
+      "batchFile": "data/inbox/2026-09-18T04-25-37-554Z-full-020-reviewed-c8a59ef6.json"
     },
     {
       "id": "292e0507a71717d74e4ad33142b5dab4",
@@ -7100,8 +7108,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.caai.cn/site/content/8521.html",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "青年工程师计划申报通知，不适用科学技术成果评分。",
+      "analyzedAt": "2026-09-18T04:25:37.554Z",
+      "batchFile": "data/inbox/2026-09-18T04-25-37-554Z-full-020-reviewed-c8a59ef6.json"
     },
     {
       "id": "31054a8643cf4580c6eed5e8bcc3afdc",
@@ -7420,8 +7430,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.cas.cn/cg/zh/202609/t20260909_5120024.shtml",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "成果交流会概述，未披露具名AI方法或可验证研究结果。",
+      "analyzedAt": "2026-09-18T04:25:37.554Z",
+      "batchFile": "data/inbox/2026-09-18T04-25-37-554Z-full-020-reviewed-c8a59ef6.json"
     },
     {
       "id": "262c472237652124c327707648ac024b",
@@ -7429,17 +7441,33 @@
       "sourceKey": "s08-06",
       "sourceName": "中国科学院",
       "sourceType": "国家科研机构",
-      "category": "",
+      "category": "AI4S 应用",
       "publishedAt": null,
       "crawledAt": "2026-09-16T07:35:27.532Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "中科院成都山地所团队在王朗保护区5公里×5公里实验区，融合0.2米无人机RGB影像和LiDAR数据，以加入自注意力的U-Net++初步识别树冠，再用标记控制分水岭精细分割；随后把分割特征顺序迁移至树高和森林类型任务。报道给出单木漏分率由9.12%降至4.67%、森林类型总体分类精度由81.68%升至92.51%，并生成290192株树的位置、冠幅、树高和类型数据。分析判断：贡献在于分割与属性任务共享信息，可支撑森林资源建模；尚不能直接推出碳储量估计也达到同等精度。",
+      "score": 3,
+      "importanceReason": "有明确传感器、模型流程和对照指标，展示多任务迁移对山地树木识别的实际收益。",
+      "contentType": "paper_result",
+      "moatTags": [
+        "数据",
+        "模型"
+      ],
       "url": "https://www.cas.cn/syky/202609/t20260914_5120251.shtml",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-18T04:25:37.554Z",
+      "evidence": [
+        {
+          "url": "https://www.cas.cn/syky/202609/t20260914_5120251.shtml",
+          "quote": "单木漏分率由 9.12％ 降至 4.67％"
+        },
+        {
+          "url": "https://www.cas.cn/syky/202609/t20260914_5120251.shtml",
+          "quote": "森林类型分类总体精度由 81.68％ 提高至 92.51％"
+        }
+      ],
+      "limitations": "机构论文报道未给出训练测试划分、外地森林验证及树高误差，识别株数不等于逐株人工核验数。",
+      "batchFile": "data/inbox/2026-09-18T04-25-37-554Z-full-020-reviewed-c8a59ef6.json"
     },
     {
       "id": "5ea071aaf51cc3e5fa33281c32343958",
@@ -7942,17 +7970,32 @@
       "sourceKey": "s06-03",
       "sourceName": "药明康德",
       "sourceType": "研发服务企业",
-      "category": "",
+      "category": "自动化实验室",
       "publishedAt": null,
       "crawledAt": "2026-09-16T06:57:42.620Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "药明康德年度业绩稿中与实验流程直接相关的信息是：药性评价业务自研一站式化合物鉴定软件，用于核酸及多肽代谢产物鉴定，企业称解谱效率提升83%。报道同时说明推进自动化及体内、体外筛选能力，但没有解释软件是否采用机器学习。分析判断：该条可作为研发分析自动化的局部进展追踪，不应把公司收入增长、化合物交付量或预测业绩归因于AI，也不能把解谱加速等同于新药成功率提升。",
+      "score": 2,
+      "importanceReason": "提供具体分析软件应用及效率口径，但缺方法、误差和对照工作量，证据限于企业自述。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "实验自动化"
+      ],
       "url": "https://www.wuxiapptec.cn/news/wuxi-news/umhjsmiz9m1gckio5iwivj6h",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-18T04:25:37.554Z",
+      "evidence": [
+        {
+          "url": "https://www.wuxiapptec.cn/news/wuxi-news/umhjsmiz9m1gckio5iwivj6h",
+          "quote": "药性评价业务自主开发一站式化合物鉴定软件"
+        },
+        {
+          "url": "https://www.wuxiapptec.cn/news/wuxi-news/umhjsmiz9m1gckio5iwivj6h",
+          "quote": "助力客户核酸类和多肽类代谢产物鉴定，解谱效率提升83%"
+        }
+      ],
+      "limitations": "未披露效率定义、样本量、准确率或AI算法；仅评价实验分析自动化信息，不作财务或投资判断。",
+      "batchFile": "data/inbox/2026-09-18T04-25-37-554Z-full-020-reviewed-c8a59ef6.json"
     },
     {
       "id": "3b9ba6736c89cccc427f1aed829958fa",
@@ -8501,17 +8544,32 @@
       "sourceKey": "s05-16",
       "sourceName": "上海人工智能实验室科学智能方向",
       "sourceType": "自主实验室与平台",
-      "category": "",
+      "category": "模型",
       "publishedAt": null,
       "crawledAt": "2026-09-16T06:57:40.684Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "InternLM仓库正文介绍2025年发布的InternLM3-8B-Instruct：80亿参数、4万亿训练token，支持长思维链和普通响应两种模式。项目称其推理及知识任务超过部分同规模模型，并称训练成本节省超过75%。仓库还区分基础、聊天、百万上下文和奖励模型，后者基于240万偏好样本训练。对科研使用的价值在于较小规模开放模型可作为本地推理与偏好训练基线；这不是本次抓取日的新发布，也未在正文中证明科学发现效果。",
+      "score": 2,
+      "importanceReason": "具体公开模型规模、训练量和使用模式，适合作为科研工具基线，但科学任务证据有限。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "模型"
+      ],
       "url": "https://github.com/InternLM/InternLM",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-18T04:25:37.554Z",
+      "evidence": [
+        {
+          "url": "https://github.com/InternLM/InternLM",
+          "quote": "InternLM3 is trained on only 4 trillion high-quality tokens"
+        },
+        {
+          "url": "https://github.com/InternLM/InternLM",
+          "quote": "trained on 2.4 million preference samples"
+        }
+      ],
+      "limitations": "正文截断；75%成本比较缺完整算力及数据成本口径，未核验模型许可证细则或科研评测。",
+      "batchFile": "data/inbox/2026-09-18T04-25-37-554Z-full-020-reviewed-c8a59ef6.json"
     },
     {
       "id": "2b275566768414f5f46e71fc7f835080",
@@ -8792,17 +8850,32 @@
       "sourceKey": "s05-17",
       "sourceName": "松山湖材料实验室",
       "sourceType": "自主实验室与平台",
-      "category": "",
+      "category": "模型",
       "publishedAt": null,
       "crawledAt": "2026-09-16T06:57:38.624Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "松山湖材料实验室等团队报告MoS2/MAPbBr3范德华异质结晶体管，通过栅压在光电探测、人工突触和光存储模式间切换。器件弛豫时间常数约0.12—20.1秒，可形成不同记忆深度的物理储备池；报道说多时间常数并行结构较单一时间常数结构将分类准确率提高约20%。其技术意义是为感知、时间信息处理和存储的紧凑集成提供器件原型。存储超过500秒需要持续栅偏压，不能写成无能耗非易失存储；分类改善也不能外推为通用AI系统性能。",
+      "score": 3,
+      "importanceReason": "具备可调器件机制、测量指标和储备池对照，属于神经形态计算硬件的具体研究进展。",
+      "contentType": "paper_result",
+      "moatTags": [
+        "模型"
+      ],
       "url": "https://www.sslab.org.cn/news/researchdetail?id=260727110736429128B85078C",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-18T04:25:37.554Z",
+      "evidence": [
+        {
+          "url": "https://www.sslab.org.cn/news/researchdetail?id=260727110736429128B85078C",
+          "quote": "器件的弛豫时间常数可在约0.12&mdash;20.1 s范围内连续变化"
+        },
+        {
+          "url": "https://www.sslab.org.cn/news/researchdetail?id=260727110736429128B85078C",
+          "quote": "在保持栅偏压的条件下可维持超过500s"
+        }
+      ],
+      "limitations": "机构论文报道；约20%未明确相对增幅或百分点，缺分类数据集、阵列规模及系统能耗。良率和长期稳定性仍待改进。",
+      "batchFile": "data/inbox/2026-09-18T04-25-37-554Z-full-020-reviewed-c8a59ef6.json"
     },
     {
       "id": "3bfffde016074d76e69628d539a7a2bd",
@@ -9073,8 +9146,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.szbl.ac.cn/research/institutes.htm",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "下属研究机构及规划介绍，没有具体AI4S方法验证。",
+      "analyzedAt": "2026-09-18T04:25:37.554Z",
+      "batchFile": "data/inbox/2026-09-18T04-25-37-554Z-full-020-reviewed-c8a59ef6.json"
     },
     {
       "id": "85a216b9eb0e44f86b8769d4c326d493",
@@ -9185,8 +9260,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "http://news.ustc.edu.cn/info/1055/96244.htm",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "教职工入职培训新闻，无AI4S方法或结果。",
+      "analyzedAt": "2026-09-18T04:25:37.554Z",
+      "batchFile": "data/inbox/2026-09-18T04-25-37-554Z-full-020-reviewed-c8a59ef6.json"
     },
     {
       "id": "2d8f87b4b7a8f0d177541e2ab4c23fc6",
@@ -9203,8 +9280,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "http://news.ustc.edu.cn/info/1055/96296.htm",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "技术史论坛综述，虽提及AI讨论主题但没有AI研究方法或结果。",
+      "analyzedAt": "2026-09-18T04:25:37.554Z",
+      "batchFile": "data/inbox/2026-09-18T04-25-37-554Z-full-020-reviewed-c8a59ef6.json"
     },
     {
       "id": "57b274b0913296219101db0797f4411a",
@@ -10091,8 +10170,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://citrine.io/category/blog/life-at-citrine/",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "员工生活博客目录，与科学智能技术成果无关。",
+      "analyzedAt": "2026-09-18T04:25:37.554Z",
+      "batchFile": "data/inbox/2026-09-18T04-25-37-554Z-full-020-reviewed-c8a59ef6.json"
     },
     {
       "id": "3cda292421d4b1a2b1b35aa1aac761e3",
@@ -10347,8 +10428,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.drugdiscoverychemistry.com/?matchtype=&adgroupid=&keyword=&creative=&adposition=&campaignid=23283505599&network=x&placement=&targetid=&gad_source=1&gad_campaignid=23292829132&gbraid=0AAAAAD-WZCQHB4uz39sgCMubvU08zLJF8",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "药物化学会议征稿与酒店推广页，未提供研究正文。",
+      "analyzedAt": "2026-09-18T04:25:37.554Z",
+      "batchFile": "data/inbox/2026-09-18T04-25-37-554Z-full-020-reviewed-c8a59ef6.json"
     },
     {
       "id": "340590bc469ad58de19083fa2007d12c",
@@ -11034,8 +11117,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.ebi.ac.uk/about/events",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "网络研讨会活动索引，未提供蛋白质资源或分析方法的正文。",
+      "analyzedAt": "2026-09-18T04:25:37.554Z",
+      "batchFile": "data/inbox/2026-09-18T04-25-37-554Z-full-020-reviewed-c8a59ef6.json"
     },
     {
       "id": "6f8920402e88f9ce32967c85e1ccf7b0",
@@ -11599,8 +11684,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://research.nvidia.com/labs/avg/",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "自动驾驶研究组方向及招聘介绍，没有具名AI4S研究结果。",
+      "analyzedAt": "2026-09-18T04:25:37.554Z",
+      "batchFile": "data/inbox/2026-09-18T04-25-37-554Z-full-020-reviewed-c8a59ef6.json"
     },
     {
       "id": "26e4b8083fe735cedb234eccbd07c3d5",
@@ -11617,8 +11704,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://research.nvidia.com/labs/adlr/",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "应用研究组方向概览，未给具体科学任务或新技术结果。",
+      "analyzedAt": "2026-09-18T04:25:37.554Z",
+      "batchFile": "data/inbox/2026-09-18T04-25-37-554Z-full-020-reviewed-c8a59ef6.json"
     },
     {
       "id": "528362f2040d415b634d1f6ba8b4a5be",
@@ -11741,5 +11830,5 @@
       "failureReason": ""
     }
   ],
-  "updatedAt": "2026-09-18T04:58:17.496Z"
+  "updatedAt": "2026-09-18T05:45:12.039Z"
 }
