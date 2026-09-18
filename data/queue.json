@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-18T01:27:29.364Z",
-  "pendingCount": 633,
-  "readyCount": 395,
+  "updatedAt": "2026-09-18T01:29:13.318Z",
+  "pendingCount": 605,
+  "readyCount": 367,
   "awaitingContentCount": 238,
   "items": [
     {
@@ -1161,17 +1161,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "671f729da37dac4a7481fb7935d280db",
-      "title": "2026年中国药学会医院药学专业委员会医院药学人才专...",
-      "url": "https://www.cpa.org.cn/?do=info&cid=79019",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T07:35:33.584Z",
-      "contentStatus": "ready",
-      "contentHash": "284d88abe560d80eef1a8f4bc86ec00cd441686b1796f7e60045e2e4296e8356",
-      "rawPath": "data/raw/671f729da37dac4a7481fb7935d280db.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "76b2a8c7fed8f0640437637471f7f374",
       "title": "关于举办2026年中国药学会药用辅料专业委员会学术年...",
       "url": "https://www.cpa.org.cn/?do=info&cid=79016",
@@ -1205,17 +1194,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "8e4a35f896ddcca843d03646c3b3ade0",
-      "title": "关于召开2026年中国药学会智能药物专业委员会学术年...",
-      "url": "https://www.cpa.org.cn/?do=info&cid=79030",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T07:35:33.584Z",
-      "contentStatus": "ready",
-      "contentHash": "f954d49eed44158b144263214aacfa77aa92088f2c2a9223b24c0815406bfbe6",
-      "rawPath": "data/raw/8e4a35f896ddcca843d03646c3b3ade0.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "9498e9e7686825ee8dd57859c6f63c44",
       "title": "2025年中国药学会中欧药物化学研讨会在乌鲁木齐成功举办",
       "url": "https://www.cpa.org.cn/?do=info&cid=76950",
@@ -1235,17 +1213,6 @@
       "contentStatus": "ready",
       "contentHash": "c66a437554b7960b7aada1a87a29d73dd8fd8af14fdc224abea642c8a8c41b99",
       "rawPath": "data/raw/a167325e19698521ff080b68daffb59e.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "afc90c07628851a856b5132aa73c2a50",
-      "title": "中国药学会2026年度公开招聘编外聘用人员的补充公告",
-      "url": "https://www.cpa.org.cn/?do=info&cid=79013",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T07:35:33.584Z",
-      "contentStatus": "ready",
-      "contentHash": "94956a53ae181018cfb7ec239bdb126d5709a39e6c1f9e89bf5d9566d79d1279",
-      "rawPath": "data/raw/afc90c07628851a856b5132aa73c2a50.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -1279,28 +1246,6 @@
       "contentStatus": "ready",
       "contentHash": "abccd240da9fee2b959e7e25f6f69110b73caf4e1144166ebcc7cc4ecae4a2df",
       "rawPath": "data/raw/005bc69d490644cdd4301b520e25bb05.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "0363628f4157d3f9e6c587754dd48303",
-      "title": "analytica-World",
-      "url": "https://www.analyticachina.com.cn/cn/Discover-analytica-china/Data,Facts&Impressions/zny",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T07:35:33.582Z",
-      "contentStatus": "ready",
-      "contentHash": "7f56af1765f920bea62def3fae5d863522efc948293e7490e6d8fed43b2330d6",
-      "rawPath": "data/raw/0363628f4157d3f9e6c587754dd48303.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "05974b3beb89fc6fe4fe62366dec682a",
-      "title": "展会成长历程",
-      "url": "https://www.analyticachina.com.cn/cn/Discover-analytica-china/Data,Facts&Impressions/analytica-china-Success-Story",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T07:35:33.582Z",
-      "contentStatus": "ready",
-      "contentHash": "8b6b32bf108fc8e000767131d86853f93ee746fed6f84b6996c8e41238787450",
-      "rawPath": "data/raw/05974b3beb89fc6fe4fe62366dec682a.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -1370,17 +1315,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "5ba3388c874a07b86faa8948cdd5d3ac",
-      "title": "主办及协办",
-      "url": "https://www.analyticachina.com.cn/cn/Discover-analytica-china/Data,Facts&Impressions/Organizers-&-Supporters",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T07:35:33.582Z",
-      "contentStatus": "ready",
-      "contentHash": "58fd2f86ae4d6ff95f2ed6da94fd53981b2397388f1973e817897486e1708fd2",
-      "rawPath": "data/raw/5ba3388c874a07b86faa8948cdd5d3ac.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "7fabc2e55eb94212bcf914e5948318a8",
       "title": "2026中国药品实验室数智化创新发展大会",
       "url": "https://www.analyticachina.com.cn/cn/analytica-china-2026/Supporting-program/ouryao",
@@ -1411,17 +1345,6 @@
       "contentStatus": "ready",
       "contentHash": "a8bad6d923f170fc50513d5a4a1bbdda53decadb63c7253064f3374b0eb3c427",
       "rawPath": "data/raw/b88084a0a67c5d037da84417e2fe5402.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "2caf36827c8af43c7947edb773e8119a",
-      "title": "AIM-S&C 人工智能分子合成与催化研讨会成功举办",
-      "url": "https://cbms.chem.tsinghua.edu.cn/info/banner/759",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T07:35:30.719Z",
-      "contentStatus": "ready",
-      "contentHash": "b1ec8b05ea1a931823d62d3dab4e15cd61e28dd9c291aa44d58071f42d659688",
-      "rawPath": "data/raw/2caf36827c8af43c7947edb773e8119a.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -1491,17 +1414,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "71497db133e407dec524e475a0f66f73",
-      "title": "• 第二十一届中国人工智能基础年会在长春举行 2026-09-04",
-      "url": "https://www.caai.cn/site/content/11297.html",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T07:35:30.573Z",
-      "contentStatus": "ready",
-      "contentHash": "063b686afb65b31cebd912a0b256d7035644e0c5c590b709a1bb09a9e658b632",
-      "rawPath": "data/raw/71497db133e407dec524e475a0f66f73.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "8442b7b7be30399a7a385d7fbd5bf597",
       "title": "07-31 2026 关于开展2026年中国科协青年科技人才培育工程博士生专项计划推荐工作的通知",
       "url": "https://www.caai.cn/site/content/8514.html",
@@ -1510,17 +1422,6 @@
       "contentStatus": "ready",
       "contentHash": "4d786ef0274bec336f8b59ffc2179175c330bad4c82944678e09b90c9f88dda1",
       "rawPath": "data/raw/8442b7b7be30399a7a385d7fbd5bf597.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "8f94188f317e504b8d90cccbb8474824",
-      "title": "• 2026第十五届中国智能产业高峰论坛在深圳盛大开幕 2026-09-05",
-      "url": "https://www.caai.cn/site/content/11299.html",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T07:35:30.573Z",
-      "contentStatus": "ready",
-      "contentHash": "e6294b48d8cfcd4a04e924abff0478a47707881b8c9566318e78f1e16d5e34a7",
-      "rawPath": "data/raw/8f94188f317e504b8d90cccbb8474824.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -1543,17 +1444,6 @@
       "contentStatus": "ready",
       "contentHash": "a146829de530d87190db8f9bc84df474079150cee6850829b34e88f70c8f6acb",
       "rawPath": "data/raw/c6840db8fd820f7b673f49c76413d139.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "fd7d7f4b01b273a324dde0e1101ec983",
-      "title": "• “CAAI走进高校院所”广州大学专场宣讲会顺利举办 2026-09-05",
-      "url": "https://www.caai.cn/site/content/11298.html",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T07:35:30.573Z",
-      "contentStatus": "ready",
-      "contentHash": "d5104e613c4aeee18c92b1ac597e57c0bd8c6b8fd3295b087156d412de4e4230",
-      "rawPath": "data/raw/fd7d7f4b01b273a324dde0e1101ec983.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -1667,17 +1557,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "5ea071aaf51cc3e5fa33281c32343958",
-      "title": "科学家研制出具有高隧穿电阻比的滑移铁电隧穿结",
-      "url": "https://www.cas.cn/syky/202609/t20260911_5120183.shtml",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T07:35:27.532Z",
-      "contentStatus": "ready",
-      "contentHash": "359a9a1236add8ce512e80817850b784104ff7bfae166cffea677b69043f12a5",
-      "rawPath": "data/raw/5ea071aaf51cc3e5fa33281c32343958.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "7a65d69ff740afdf7c059b2e45fc4f2a",
       "title": "轻量化双模型协同智能体MatBrain发布",
       "url": "https://www.cas.cn/syky/202609/t20260911_5120182.shtml",
@@ -1686,17 +1565,6 @@
       "contentStatus": "ready",
       "contentHash": "0ceddc87dab38f52cca00178523fa07ffe3bf87b1ecdb364e12f7fa4be6e9b48",
       "rawPath": "data/raw/7a65d69ff740afdf7c059b2e45fc4f2a.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "92bda7edbb0c33a04cf3e031a9ee4ab9",
-      "title": "研究揭示镍/氧化铝表面原位重构活性位点驱动甲烷部分氧化制合成气",
-      "url": "https://www.cas.cn/syky/202609/t20260907_5119820.shtml",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T07:35:27.532Z",
-      "contentStatus": "ready",
-      "contentHash": "e7977e976975ae048b65e1e2873371db54690431b44eb8dc631ef58de84fa1b6",
-      "rawPath": "data/raw/92bda7edbb0c33a04cf3e031a9ee4ab9.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -1755,17 +1623,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "07882c0550660c2b59d0d42b67a14469",
-      "title": "Publications",
-      "url": "https://www.rcsb.org/pages/publications",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:57:50.143Z",
-      "contentStatus": "ready",
-      "contentHash": "1935fbc1ea3579768957a535fb79a55ef095cb59f373a0e1f7fe872b519f3430",
-      "rawPath": "data/raw/07882c0550660c2b59d0d42b67a14469.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "2f657d7f21c66a9e4e5771be6c7902c8",
       "title": "Reuse Metadata from Previous PDB Depositions",
       "url": "https://www.rcsb.org/news/feature/6a626da53bf5580b84a87d27",
@@ -1796,17 +1653,6 @@
       "contentStatus": "ready",
       "contentHash": "23378d5875c461fd3d4c5dfee965e71822451043039edda389e92550256359a8",
       "rawPath": "data/raw/4b147af2163a3310fdaab09d3c582d02.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "6d608abcabeceab0c2d8268b857ff794",
-      "title": "PDB History",
-      "url": "https://www.rcsb.org/pages/about-us/history",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:57:50.143Z",
-      "contentStatus": "ready",
-      "contentHash": "62a043d8fb78aeed9e33d591ccc48b33b463ee68330169b2b06ff4b1b5318570",
-      "rawPath": "data/raw/6d608abcabeceab0c2d8268b857ff794.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -1887,17 +1733,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "d225ede07bcc5de8a76e6174231790b2",
-      "title": "Educational Resources",
-      "url": "https://pdb101.rcsb.org/learn/paper-models",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:57:50.143Z",
-      "contentStatus": "ready",
-      "contentHash": "359d306b54b28c7fa3140a8ef8c125f3abb08a3a67a5962d6f5de026ca6aa6f7",
-      "rawPath": "data/raw/d225ede07bcc5de8a76e6174231790b2.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "b3e7d37a29c683c0e879f3206e622898",
       "title": "PubChem",
       "url": "https://pubchem.ncbi.nlm.nih.gov/",
@@ -1906,18 +1741,7 @@
       "contentStatus": "ready",
       "contentHash": "36749994e57ca3c3f217982bfb8e07e466922a5ca7fcb5ca1a24f32f0c42375d",
       "rawPath": "data/raw/b3e7d37a29c683c0e879f3206e622898.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "230518966d609389cfa0149f7c5fb200",
-      "title": "磐石(ScienceOne) - AI for Science 科研智能平台",
-      "url": "https://www.scienceone.cn/index-zh.html",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:57:47.113Z",
-      "contentStatus": "ready",
-      "contentHash": "79065d080c9bef83858350abe15d91e5a8b7526e15e36d15a05ec429aa7cdff4",
-      "rawPath": "data/raw/230518966d609389cfa0149f7c5fb200.json",
-      "lastAnalysisStatus": "pending"
+      "lastAnalysisStatus": "failed"
     },
     {
       "id": "2a8fd8d321ba36424f7ed708a322369c",
@@ -1942,39 +1766,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "7bcde9ae8b2a8433b7e00afc372019a6",
-      "title": "药明康德连续四年入选富时罗素社会责任指数系列 上海，2026年7月22日 – 药明康德今日宣布，公司连续第四年入选“富时罗素社会责任指数系列”（FTSE4Good Index Series），这一认可体现了公司对可持续发展的坚定承诺。 阅读更多",
-      "url": "https://www.wuxiapptec.cn/news/wuxi-news/fefednqdqf6yearf0uwtswd8",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:57:42.620Z",
-      "contentStatus": "ready",
-      "contentHash": "6a33648471e4fc85025d7783d285b5eb2260fb0a1f4415e1500b065503f48964",
-      "rawPath": "data/raw/7bcde9ae8b2a8433b7e00afc372019a6.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "86cd2ee2b1e3c2ce58ad1affe3ecfb38",
-      "title": "药明康德入选2026道琼斯领先全球指数 上海，2026年5月18日 - 药明康德近日宣布公司入选2026道琼斯领先全球指数（Dow Jones Best-in-Class World Index，原道琼斯可持续发展世界指数），该指数基于企业长期可持续发展标准，评选出全球各行业处于领先水平的公司。这一认可充分彰显了公司在推动可持续发展和践行负责任商业实践方面的坚定承诺。 阅读更多",
-      "url": "https://www.wuxiapptec.cn/news/wuxi-news/v1bj6wuxvxdn4a55fcsnwt38",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:57:42.620Z",
-      "contentStatus": "ready",
-      "contentHash": "8f156230a67a0680fad2d8b1e0020324e6301b1ab2947e5fc93ba99e0e89f0ae",
-      "rawPath": "data/raw/86cd2ee2b1e3c2ce58ad1affe3ecfb38.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "94a4877a94951b19cb194e12b6716923",
-      "title": "药明康德2026年上半年业绩强劲并全面上调全年指引，得益于多个客户产品的更大成功及CRDMO模式 上海，2026年8月3日，为全球医药及生命科学行业提供全方位、一体化新药研发和生产服务的能力和技术平台公司--药明康德（股份代码：603259.SH / 2359.HK）发布2026年上半年业绩报告。得益于多个客户产品取得的更大成功以及独特的一体化CRDMO平台，公司收入、利润及现金流表现强劲，进而上调全年业绩指引。 阅读更多",
-      "url": "https://www.wuxiapptec.cn/news/wuxi-news/wuxi-apptec-crdmo-model-delivers-strong-results",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:57:42.620Z",
-      "contentStatus": "ready",
-      "contentHash": "715b7da0266f02328ee5b39aeb63ae95b3cdf4555cef54a82d011e5d0cfc6c20",
-      "rawPath": "data/raw/94a4877a94951b19cb194e12b6716923.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "ba5b72c4a65e5ca26313c41255e17ffb",
       "title": "药明康德2026年第一季度收入和利润均实现强劲增长 上海，2026年4月27日，为全球医药及生命科学行业提供全方位、一体化新药研发和生产服务的能力和技术平台公司——药明康德（股份代码：603259.SH / 2359.HK）发布2026年第一季度业绩报告 阅读更多",
       "url": "https://www.wuxiapptec.cn/news/wuxi-news/lcsan3wkg2aopwia73kkdxkj",
@@ -1986,17 +1777,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "4bccf17a402bf0d4e10caaaabb1b1ed4",
-      "title": "2026-09-08 最高政府奖！宁德时代荣获第十三届“中华慈善奖” 了解更多",
-      "url": "https://www.catl.com/news/10172.html",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:57:42.191Z",
-      "contentStatus": "ready",
-      "contentHash": "b82751b8385a823a84163c2f1235f744991c5744b2438c0769938cd6602037cf",
-      "rawPath": "data/raw/4bccf17a402bf0d4e10caaaabb1b1ed4.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "9be95790fd93a79b6dc141ff577794f1",
       "title": "2026-09-05 「宁德品质」全球开放月启动 了解更多",
       "url": "https://www.catl.com/news/10163.html",
@@ -2005,18 +1785,7 @@
       "contentStatus": "ready",
       "contentHash": "83556c33b82b8f996527c5334c5c304cc158d5126ec45b91ef1464993142c1bb",
       "rawPath": "data/raw/9be95790fd93a79b6dc141ff577794f1.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "f7bb9cbf5836e2cb7379c316baab3e02",
-      "title": "2026-09-06 宁德时代与泰金新能、深圳惠科等企业签署战略合作协议 了解更多",
-      "url": "https://www.catl.com/news/10161.html",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:57:42.191Z",
-      "contentStatus": "ready",
-      "contentHash": "bda5be268473f73e4e9f1f8da5f9f43cd45e4374dd1a4055d7eeb7bf1060d368",
-      "rawPath": "data/raw/f7bb9cbf5836e2cb7379c316baab3e02.json",
-      "lastAnalysisStatus": "pending"
+      "lastAnalysisStatus": "failed"
     },
     {
       "id": "0436ef5fde503c3e148954a15666fcdb",
@@ -2027,17 +1796,6 @@
       "contentStatus": "ready",
       "contentHash": "e6c90bf64b06b05a441c4a8f786e3987064ea00bd6f192eb4e6aeca26a18cd68",
       "rawPath": "data/raw/0436ef5fde503c3e148954a15666fcdb.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "09db20d7a6465a68036a924d4ea85f26",
-      "title": "我所揭示NiO/Al 2 O 3 表面原位重构活性位点驱动甲烷部分氧化制合成气",
-      "url": "https://www.dicp.ac.cn/xwdt/ttxw/202609/t20260904_8278671.html",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:57:41.220Z",
-      "contentStatus": "ready",
-      "contentHash": "696995bcca582eba36b5b1642ca7c0c8e199866796d6314348a2b5c6c56ccb0e",
-      "rawPath": "data/raw/09db20d7a6465a68036a924d4ea85f26.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -2071,17 +1829,6 @@
       "contentStatus": "ready",
       "contentHash": "a617d5b7f1d8df881202a9b8bc6d70dde6d9620f3f141f15eba71a34c8da1a47",
       "rawPath": "data/raw/1a8b450d1ef0584d1332aff32d43a2ea.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "3150a3ec1ac217d3201762588b98f86c",
-      "title": "“一种制备乙酸甲酯的方法”发明专利荣获第二十六届中国专利金奖",
-      "url": "https://www.dicp.ac.cn/xwdt/ttxw/202609/t20260901_8274843.html",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:57:41.220Z",
-      "contentStatus": "ready",
-      "contentHash": "b732bdca0b2b5b36a16649c3f94615533dfcc362e5e3b6cf3787ef08ffc3d150",
-      "rawPath": "data/raw/3150a3ec1ac217d3201762588b98f86c.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -2162,17 +1909,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "e53e01caa56851f629fabbb664130d30",
-      "title": "我所250千瓦级海水制氢联产淡水系统实现高效稳定运行",
-      "url": "https://www.dicp.ac.cn/xwdt/ttxw/202609/t20260916_8283551.html",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:57:41.220Z",
-      "contentStatus": "ready",
-      "contentHash": "cfac09fc80c076170140ca99921c7f839096ae4bf9ad5ac2d256525d956f7566",
-      "rawPath": "data/raw/e53e01caa56851f629fabbb664130d30.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "ee8d49455842f8c9d9355ebf4cd7e649",
       "title": "我所250千瓦级海水制氢联产淡水系统实现高效稳定运行",
       "url": "https://www.dicp.ac.cn/xwdt/kyjz/202609/t20260916_8283606.html",
@@ -2225,17 +1961,6 @@
       "contentStatus": "ready",
       "contentHash": "1d892d1c5976dcdb58ff1857715018bb2f8f230ea5e6df8d32a0768167df0787",
       "rawPath": "data/raw/2a303fb8fcf42b73cc3b63e5fe497dfa.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "2b275566768414f5f46e71fc7f835080",
-      "title": "了 解 更 多 科 学 研 究 成 果",
-      "url": "https://www.shlab.org.cn/research",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:57:40.684Z",
-      "contentStatus": "ready",
-      "contentHash": "9af1d4287e7bbddb9dfc6f2e7404d3b2c07fd88a72c19e38dfb6b30b4b1defb1",
-      "rawPath": "data/raw/2b275566768414f5f46e71fc7f835080.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -2327,17 +2052,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "3d97ae9aa5b3288e5aafaaad56971f3e",
-      "title": "2025免疫与癌症国际论坛",
-      "url": "https://www.cpl.ac.cn/ICB2025/list.html",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:57:39.149Z",
-      "contentStatus": "ready",
-      "contentHash": "c30a2dd40cf073e0e43a96ee3451c5264977322f75c594980491960158e1224b",
-      "rawPath": "data/raw/3d97ae9aa5b3288e5aafaaad56971f3e.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "5dd3bfaeb1e799dee9880518d7b9a490",
       "title": "标志性成果 公共空间新冠病毒气溶胶高灵敏检测系统助力冬奥 --> -->",
       "url": "https://www.cpl.ac.cn/scientific_research/research_highlights/4028c1f1853d7feb01853ddcad78002c.html",
@@ -2368,17 +2082,6 @@
       "contentStatus": "ready",
       "contentHash": "7235265b0efcd5690af485cf91f95c761bf8767fc68034971465e29aa9226987",
       "rawPath": "data/raw/9d3c96b85fe8f57637789ef2ab571946.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "b2bebe97a5006f2dd1441e31f0c3d7db",
-      "title": "- 科研进展",
-      "url": "https://www.cpl.ac.cn/scientific_research/research_news/list.html",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:57:39.149Z",
-      "contentStatus": "ready",
-      "contentHash": "a8e56f5885e729467ef36eaf953275f0fbe3f3a9b527d4762b4270a0c00c6a0f",
-      "rawPath": "data/raw/b2bebe97a5006f2dd1441e31f0c3d7db.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -2423,17 +2126,6 @@
       "contentStatus": "ready",
       "contentHash": "ac1ed6e3cf391e21e9fd33fd473c211b6af3389ff95f28b5d937c14ea93ede6e",
       "rawPath": "data/raw/6788f3417a54a4c97310854cfe59e724.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "8bec3465d37660f1c0f6d87168c9bedd",
-      "title": "&#x79D1;&#x7814;&#x8FDB;&#x5C55;&#x4E28;&#x7EB3;&#x7C73;&#x5C3A;&#x5EA6;STO&#x8584;&#x819C;&#x5B9E;&#x73B0;&#x53EF;&#x7F16;&#x7A0B;&#x4E2D;&#x7EA2;&#x5916;&#x89C6;&#x89C9;&#x4F20;&#x611F;",
-      "url": "https://www.sslab.org.cn/news/researchdetail?id=260824185040108534E8A1EDA",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:57:38.624Z",
-      "contentStatus": "ready",
-      "contentHash": "1d2a5289ae9fa46b3c2e263b9e80939a4e162b9d7603e90c15dced1f89ec2814",
-      "rawPath": "data/raw/8bec3465d37660f1c0f6d87168c9bedd.json",
       "lastAnalysisStatus": "pending"
     },
     {

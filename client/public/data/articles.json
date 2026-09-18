@@ -7915,8 +7915,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.cpa.org.cn/?do=info&cid=79019",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "医院药学人才资助项目公示没有披露项目内容，也无AI4S研究证据。",
+      "analyzedAt": "2026-09-18T01:27:41.641Z",
+      "batchFile": "data/inbox/2026-09-18T01-27-41-641Z-full-007-df6006c4.json"
     },
     {
       "id": "76b2a8c7fed8f0640437637471f7f374",
@@ -7978,17 +7980,30 @@
       "sourceKey": "s10-13",
       "sourceName": "全国药物化学学术会议",
       "sourceType": "专题学术会议",
-      "category": "",
+      "category": "其他",
       "publishedAt": null,
       "crawledAt": "2026-09-16T07:35:33.584Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
+      "summary": "中国药学会智能药物专业委员会计划于2026年10月召开年会，议题涵盖生成式AI、智能体和大语言模型与药物设计、纳米递送、生物材料及临床转化的结合。通知特别把智能药物设计与发现列为分会方向。分析判断：这是一条领域议程与人才网络信号，说明国内药学专业组织正在系统组织AI药物研发交流，但会议尚未举行，不能从议程推断研究成果或产业落地。",
+      "score": 1,
+      "importanceReason": "议题覆盖AI药物设计和临床转化，但现阶段只有会前通知，没有研究结果。",
+      "contentType": "company_claim",
       "moatTags": [],
       "url": "https://www.cpa.org.cn/?do=info&cid=79030",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-18T01:27:41.641Z",
+      "evidence": [
+        {
+          "url": "https://www.cpa.org.cn/?do=info&cid=79030",
+          "quote": "会议聚焦生成式AI、智能体、大语言模型等新一代人工智能技术与生命科学、药物研发的深度融合"
+        },
+        {
+          "url": "https://www.cpa.org.cn/?do=info&cid=79030",
+          "quote": "围绕智能药物设计与发现、智能纳米递送与生物材料、临床转化及前沿交叉等方向"
+        }
+      ],
+      "limitations": "会前通知与报名信息；报告题目、数据、方法和实验结果尚未公布。",
+      "batchFile": "data/inbox/2026-09-18T01-27-41-641Z-full-007-df6006c4.json"
     },
     {
       "id": "90a67e385aef200eb9ebcaf5b18af3d7",
@@ -8059,8 +8074,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.cpa.org.cn/?do=info&cid=79013",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "招聘延期公告，与AI4S研究无关。",
+      "analyzedAt": "2026-09-18T01:27:41.641Z",
+      "batchFile": "data/inbox/2026-09-18T01-27-41-641Z-full-007-df6006c4.json"
     },
     {
       "id": "b5f6e9209be1c628ce6681a1f200fe68",
@@ -8131,8 +8148,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.analyticachina.com.cn/cn/Discover-analytica-china/Data,Facts&Impressions/zny",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "分析生化展会品牌与2016年规模介绍，没有近期AI或实验自动化成果。",
+      "analyzedAt": "2026-09-18T01:27:41.641Z",
+      "batchFile": "data/inbox/2026-09-18T01-27-41-641Z-full-007-df6006c4.json"
     },
     {
       "id": "05974b3beb89fc6fe4fe62366dec682a",
@@ -8149,8 +8168,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.analyticachina.com.cn/cn/Discover-analytica-china/Data,Facts&Impressions/analytica-china-Success-Story",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "分析生化展会历年规模和观众统计，智能实验室仅为展陈描述，不含技术证据。",
+      "analyzedAt": "2026-09-18T01:27:41.641Z",
+      "batchFile": "data/inbox/2026-09-18T01-27-41-641Z-full-007-df6006c4.json"
     },
     {
       "id": "15ab30b53b78c56be73f7084e13dbd69",
@@ -8275,8 +8296,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.analyticachina.com.cn/cn/Discover-analytica-china/Data,Facts&Impressions/Organizers-&-Supporters",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "展会主办方和品牌定位介绍，没有AI4S研究或产品细节。",
+      "analyzedAt": "2026-09-18T01:27:41.641Z",
+      "batchFile": "data/inbox/2026-09-18T01-27-41-641Z-full-007-df6006c4.json"
     },
     {
       "id": "7fabc2e55eb94212bcf914e5948318a8",
@@ -8428,17 +8451,35 @@
       "sourceKey": "s10-08",
       "sourceName": "AIM-S&C人工智能分子合成与催化研讨会",
       "sourceType": "专题研讨会",
-      "category": "",
+      "category": "其他",
       "publishedAt": null,
       "crawledAt": "2026-09-16T07:35:30.719Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "清华大学举办的人工智能分子合成与催化研讨会把“可执行路线、可信数据、实验闭环和全合成压力测试”列为核心议题。会议总结认为，AI合成研究应从top-k预测指标走向真实可执行路线，并需要负样本、反应条件、专家标注和实验反馈。分析判断：这不是单项实验成果，却清楚指出当前逆合成模型落地的证据缺口，对评估AI化学系统比单纯准确率更有参考价值。",
+      "score": 2,
+      "importanceReason": "由跨学科专家明确提出合成AI从预测到实验验证所需的数据和闭环条件。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "数据",
+        "模型",
+        "实验自动化",
+        "材料发现"
+      ],
       "url": "https://cbms.chem.tsinghua.edu.cn/info/banner/759",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-18T01:27:41.641Z",
+      "evidence": [
+        {
+          "url": "https://cbms.chem.tsinghua.edu.cn/info/banner/759",
+          "quote": "AI 合成研究正在从单纯追求 top-k 准确率和模型预测指标，逐步走向真实可执行的合成路线设计。"
+        },
+        {
+          "url": "https://cbms.chem.tsinghua.edu.cn/info/banner/759",
+          "quote": "可信 AI 合成不仅需要更强的模型，也需要高质量数据、专家标注、负样本反馈、反应条件信息和实验闭环。"
+        }
+      ],
+      "limitations": "会议主办方总结，不含各报告的完整方法、对照实验或公开数据，不能视为技术性能验证。",
+      "batchFile": "data/inbox/2026-09-18T01-27-41-641Z-full-007-df6006c4.json"
     },
     {
       "id": "1bd1e0282854205230322776b41525f0",
@@ -8563,8 +8604,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.caai.cn/site/content/11297.html",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "人工智能基础年会综合报道罗列多个通用AI方向，仅以报告题目提及生物信息和手术机器人，缺少AI4S具体方法与结果。",
+      "analyzedAt": "2026-09-18T01:27:41.641Z",
+      "batchFile": "data/inbox/2026-09-18T01-27-41-641Z-full-007-df6006c4.json"
     },
     {
       "id": "8442b7b7be30399a7a385d7fbd5bf597",
@@ -8599,8 +8642,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.caai.cn/site/content/11299.html",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "智能产业论坛综合报道仅列“科学智能”等报告题目，未提供相关方法、数据或结果。",
+      "analyzedAt": "2026-09-18T01:27:41.641Z",
+      "batchFile": "data/inbox/2026-09-18T01-27-41-641Z-full-007-df6006c4.json"
     },
     {
       "id": "a581d2a5f28cf420084c780e85caf628",
@@ -8725,8 +8770,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.caai.cn/site/content/11298.html",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "学会资源与奖项申报宣讲活动，不是AI4S技术或科研进展。",
+      "analyzedAt": "2026-09-18T01:27:41.641Z",
+      "batchFile": "data/inbox/2026-09-18T01-27-41-641Z-full-007-df6006c4.json"
     },
     {
       "id": "0c6bce660c19ce97d40cf0753927fd1e",
@@ -8923,8 +8970,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.cas.cn/syky/202609/t20260911_5120183.shtml",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "二维铁电隧穿结材料器件研究虽有完整实验结果，但正文没有AI模型、数据方法或自动化实验内容。",
+      "analyzedAt": "2026-09-18T01:27:41.641Z",
+      "batchFile": "data/inbox/2026-09-18T01-27-41-641Z-full-007-df6006c4.json"
     },
     {
       "id": "7a65d69ff740afdf7c059b2e45fc4f2a",
@@ -8959,8 +9008,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.cas.cn/syky/202609/t20260907_5119820.shtml",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "镍催化剂原位表征与密度泛函研究没有AI方法或实验自动化证据，不属于本监测范围。",
+      "analyzedAt": "2026-09-18T01:27:41.641Z",
+      "batchFile": "data/inbox/2026-09-18T01-27-41-641Z-full-007-df6006c4.json"
     },
     {
       "id": "b8a2b748b654cdd137b69dc79cf74133",
@@ -9400,17 +9451,33 @@
       "sourceKey": "s07-13",
       "sourceName": "RCSB Protein Data Bank",
       "sourceType": "科学数据库与平台",
-      "category": "",
+      "category": "数据",
       "publishedAt": null,
       "crawledAt": "2026-09-16T06:57:50.143Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "RCSB PDB论文目录显示其2026年工作覆盖实验结构、计算结构模型、全蛋白组结构相似性检索、蛋白结构提交的RAG帮助台，以及面向社区验证的AI-ready FAIR数据。分析判断：这些条目说明结构生物学基础设施正在同时扩展计算模型接入、检索和AI服务，但当前页面是出版物目录，只能确认论文题目与出处，具体架构和评估需回到原论文。",
+      "score": 2,
+      "importanceReason": "提供结构数据基础设施面向计算模型、AI检索和可验证数据的明确更新线索。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "数据",
+        "模型"
+      ],
       "url": "https://www.rcsb.org/pages/publications",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-18T01:27:41.641Z",
+      "evidence": [
+        {
+          "url": "https://www.rcsb.org/pages/publications",
+          "quote": "RCSB PDB AI Help Desk: retrieval-augmented generation for protein structure deposition support"
+        },
+        {
+          "url": "https://www.rcsb.org/pages/publications",
+          "quote": "Advancing FAIR data towards comparable, organized, predictive AI-ready data for community validation"
+        }
+      ],
+      "limitations": "出版物列表而非论文全文；未核对帮助台准确率、检索基准、数据覆盖和许可证细节。",
+      "batchFile": "data/inbox/2026-09-18T01-27-41-641Z-full-007-df6006c4.json"
     },
     {
       "id": "2f657d7f21c66a9e4e5771be6c7902c8",
@@ -9481,8 +9548,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.rcsb.org/pages/about-us/history",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "PDB机构历史和教育资源导航，没有本期AI4S技术更新。",
+      "analyzedAt": "2026-09-18T01:27:41.641Z",
+      "batchFile": "data/inbox/2026-09-18T01-27-41-641Z-full-007-df6006c4.json"
     },
     {
       "id": "6dd559c3516573b5744ed22b499d1fad",
@@ -9625,8 +9694,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://pdb101.rcsb.org/learn/paper-models",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "PDB纸模型与结构生物学教育资源，不是AI研究或实验自动化进展。",
+      "analyzedAt": "2026-09-18T01:27:41.641Z",
+      "batchFile": "data/inbox/2026-09-18T01-27-41-641Z-full-007-df6006c4.json"
     },
     {
       "id": "d526daead91f0e4ffa0f975103020e39",
@@ -9679,8 +9750,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://pubchem.ncbi.nlm.nih.gov/",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "failed",
+      "failureReason": "页面仅返回启用JavaScript提示，未采集到PubChem数据库正文，证据不足。",
+      "analyzedAt": "2026-09-18T01:27:41.641Z",
+      "batchFile": "data/inbox/2026-09-18T01-27-41-641Z-full-007-df6006c4.json"
     },
     {
       "id": "40c89fd581d7681ca9d9824e36c8e092",
@@ -9796,17 +9869,34 @@
       "sourceKey": "s07-03",
       "sourceName": "磐石（ScienceOne）科研智能平台",
       "sourceType": "科学数据库与平台",
-      "category": "",
+      "category": "模型",
       "publishedAt": null,
       "crawledAt": "2026-09-16T06:57:47.113Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "ScienceOne平台页面称其以异构混合专家架构处理波、谱、场等科学模态，提供文献萃取、知识推理和科学工具编排，并支持智能体批量编排和科研任务全流程执行。分析判断：这是面向多模态科学数据和科研工作流的一体化平台定位，覆盖从理解到工具调用的关键层，但页面没有披露训练数据、科学基准、工具成功率或用户案例，成熟度仍无法判断。",
+      "score": 2,
+      "importanceReason": "产品能力范围明确覆盖科学多模态与科研工具编排，但缺少性能与落地证据。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "数据",
+        "模型",
+        "实验自动化"
+      ],
       "url": "https://www.scienceone.cn/index-zh.html",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-18T01:27:41.641Z",
+      "evidence": [
+        {
+          "url": "https://www.scienceone.cn/index-zh.html",
+          "quote": "实现了对波、谱、场等多种科学模态数据的深入理解"
+        },
+        {
+          "url": "https://www.scienceone.cn/index-zh.html",
+          "quote": "支持科研任务的灵活编排与全流程自动执行"
+        }
+      ],
+      "limitations": "厂商首页自述；没有模型规模、数据来源、基准对照、失败率和真实实验闭环记录。",
+      "batchFile": "data/inbox/2026-09-18T01-27-41-641Z-full-007-df6006c4.json"
     },
     {
       "id": "e3881694273143d5b642a7d4498687b3",
@@ -9913,8 +10003,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.wuxiapptec.cn/news/wuxi-news/fefednqdqf6yearf0uwtswd8",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "企业ESG指数入选与治理评级新闻，没有AI4S研发成果。",
+      "analyzedAt": "2026-09-18T01:27:41.641Z",
+      "batchFile": "data/inbox/2026-09-18T01-27-41-641Z-full-007-df6006c4.json"
     },
     {
       "id": "86cd2ee2b1e3c2ce58ad1affe3ecfb38",
@@ -9931,8 +10023,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.wuxiapptec.cn/news/wuxi-news/v1bj6wuxvxdn4a55fcsnwt38",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "企业可持续发展指数与评级新闻，没有AI4S技术内容。",
+      "analyzedAt": "2026-09-18T01:27:41.641Z",
+      "batchFile": "data/inbox/2026-09-18T01-27-41-641Z-full-007-df6006c4.json"
     },
     {
       "id": "94a4877a94951b19cb194e12b6716923",
@@ -9949,8 +10043,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.wuxiapptec.cn/news/wuxi-news/wuxi-apptec-crdmo-model-delivers-strong-results",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "企业财务业绩和产能指引没有AI辅助研发方法或具体科学成果。",
+      "analyzedAt": "2026-09-18T01:27:41.641Z",
+      "batchFile": "data/inbox/2026-09-18T01-27-41-641Z-full-007-df6006c4.json"
     },
     {
       "id": "ba5b72c4a65e5ca26313c41255e17ffb",
@@ -9985,8 +10081,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.catl.com/news/10172.html",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "企业慈善奖和公益捐赠新闻，与AI4S研发无关。",
+      "analyzedAt": "2026-09-18T01:28:26.283Z",
+      "batchFile": "data/inbox/2026-09-18T01-28-26-283Z-full-008-55e27cc8.json"
     },
     {
       "id": "9be95790fd93a79b6dc141ff577794f1",
@@ -10003,8 +10101,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.catl.com/news/10163.html",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "failed",
+      "failureReason": "正文仅有网站版权信息，未采集到“全球开放月”活动内容，不能仅凭标题分析。",
+      "analyzedAt": "2026-09-18T01:28:26.283Z",
+      "batchFile": "data/inbox/2026-09-18T01-28-26-283Z-full-008-55e27cc8.json"
     },
     {
       "id": "f7bb9cbf5836e2cb7379c316baab3e02",
@@ -10021,8 +10121,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.catl.com/news/10161.html",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "铜箔装备采购、产能和供应链合作，没有AI辅助材料研发或实验自动化证据。",
+      "analyzedAt": "2026-09-18T01:28:26.283Z",
+      "batchFile": "data/inbox/2026-09-18T01-28-26-283Z-full-008-55e27cc8.json"
     },
     {
       "id": "0436ef5fde503c3e148954a15666fcdb",
@@ -10057,8 +10159,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.dicp.ac.cn/xwdt/ttxw/202609/t20260904_8278671.html",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "催化剂原位表征与DFT计算研究没有使用AI模型或自主实验方法。",
+      "analyzedAt": "2026-09-18T01:28:26.283Z",
+      "batchFile": "data/inbox/2026-09-18T01-28-26-283Z-full-008-55e27cc8.json"
     },
     {
       "id": "0bc4a8de3a3af4e5447d277ade072a6f",
@@ -10129,8 +10233,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.dicp.ac.cn/xwdt/ttxw/202609/t20260901_8274843.html",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "煤基乙醇催化工艺专利与产业化新闻没有AI4S方法。",
+      "analyzedAt": "2026-09-18T01:28:26.283Z",
+      "batchFile": "data/inbox/2026-09-18T01-28-26-283Z-full-008-55e27cc8.json"
     },
     {
       "id": "98d3b12b73f5dbfb158697c4c1bb0a7d",
@@ -10273,8 +10379,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.dicp.ac.cn/xwdt/ttxw/202609/t20260916_8283551.html",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "海水制氢与淡水联产工程成果虽有完整实验数据，但正文没有AI或自动化科研方法。",
+      "analyzedAt": "2026-09-18T01:28:26.283Z",
+      "batchFile": "data/inbox/2026-09-18T01-28-26-283Z-full-008-55e27cc8.json"
     },
     {
       "id": "ea02340eb309e996acfca1d78ae38d64",
@@ -10408,17 +10516,34 @@
       "sourceKey": "s05-16",
       "sourceName": "上海人工智能实验室科学智能方向",
       "sourceType": "自主实验室与平台",
-      "category": "",
+      "category": "模型",
       "publishedAt": null,
       "crawledAt": "2026-09-16T06:57:40.684Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "上海人工智能实验室科研页集中介绍其科学智能布局：Intern-S1被定位为融合科学专业能力的全模态基础模型，另一平台整合专业智能体、科研数据和实验设备，目标是提供从假设到验证的科研支持。页面还称医疗大模型检测中心已评测上海12家医院的应用场景。分析判断：这体现了从科学模型、数据到工具与设备连接的完整产品版图，但页面混合多个项目的宣传摘要，缺少可复核基准和具体实验闭环记录。",
+      "score": 2,
+      "importanceReason": "覆盖科学基础模型、科研智能体、实验设备和医疗评测，呈现较完整的科学智能平台布局。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "数据",
+        "模型",
+        "实验自动化"
+      ],
       "url": "https://www.shlab.org.cn/research",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-18T01:28:26.283Z",
+      "evidence": [
+        {
+          "url": "https://www.shlab.org.cn/research",
+          "quote": "平台整合了专业智能体、海量科研数据及实验设备，能为全球研究者提供从假设到验证的一站式科研支撑。"
+        },
+        {
+          "url": "https://www.shlab.org.cn/research",
+          "quote": "检测验证中心已完成上海12家医院的医疗大模型应用场景评测"
+        }
+      ],
+      "limitations": "机构研究首页的多项目摘要且存在重复；未给出Intern-S1基准表、设备接口、任务成功率或医院评测结果。",
+      "batchFile": "data/inbox/2026-09-18T01-28-26-283Z-full-008-55e27cc8.json"
     },
     {
       "id": "32104070de598ef9dbd1c922058dec36",
@@ -10615,8 +10740,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.cpl.ac.cn/ICB2025/list.html",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "免疫与癌症论坛页面主要是科学家履历和研究故事导语，没有AI方法证据。",
+      "analyzedAt": "2026-09-18T01:28:26.283Z",
+      "batchFile": "data/inbox/2026-09-18T01-28-26-283Z-full-008-55e27cc8.json"
     },
     {
       "id": "5dd3bfaeb1e799dee9880518d7b9a490",
@@ -10687,8 +10814,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.cpl.ac.cn/scientific_research/research_news/list.html",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "科研进展目录混合多篇生物医学研究摘要，不能作为单篇AI4S成果证据。",
+      "analyzedAt": "2026-09-18T01:28:26.283Z",
+      "batchFile": "data/inbox/2026-09-18T01-28-26-283Z-full-008-55e27cc8.json"
     },
     {
       "id": "c6a0339123400bc52d7b6a7f99a1b58c",
@@ -10849,8 +10978,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.sslab.org.cn/news/researchdetail?id=260824185040108534E8A1EDA",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "可编程红外传感器材料与器件研究未使用AI辅助科学发现；片外图像处理展示不等同于AI4S研发。",
+      "analyzedAt": "2026-09-18T01:28:26.283Z",
+      "batchFile": "data/inbox/2026-09-18T01-28-26-283Z-full-008-55e27cc8.json"
     },
     {
       "id": "a772e7c9ad4fd357a60b42f73dbedfc5",
@@ -15533,5 +15664,5 @@
       "failureReason": ""
     }
   ],
-  "updatedAt": "2026-09-18T01:27:29.364Z"
+  "updatedAt": "2026-09-18T01:29:13.318Z"
 }

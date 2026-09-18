@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "analysis:2026-09-18T01-28-26-283Z-full-008-55e27cc8.json",
+      "taskType": "AI 分析",
+      "status": "success",
+      "processed": 10,
+      "succeeded": 1,
+      "failed": 1,
+      "detail": "ChatGPT 提交，结构及来源摘录校验通过；不等于自动核实全部语义",
+      "failureReason": "",
+      "startedAt": "2026-09-18T01:28:26.283Z",
+      "finishedAt": "2026-09-18T01:28:26.283Z"
+    },
+    {
+      "id": "analysis:2026-09-18T01-27-41-641Z-full-007-df6006c4.json",
+      "taskType": "AI 分析",
+      "status": "success",
+      "processed": 20,
+      "succeeded": 4,
+      "failed": 1,
+      "detail": "ChatGPT 提交，结构及来源摘录校验通过；不等于自动核实全部语义",
+      "failureReason": "",
+      "startedAt": "2026-09-18T01:27:41.641Z",
+      "finishedAt": "2026-09-18T01:27:41.641Z"
+    },
+    {
       "id": "analysis:2026-09-18T01-26-14-881Z-full-006-96f813c3.json",
       "taskType": "AI 分析",
       "status": "success",
@@ -551,5 +575,5 @@
       "finishedAt": "2026-09-16T05:12:19.802Z"
     }
   ],
-  "updatedAt": "2026-09-18T01:27:29.364Z"
+  "updatedAt": "2026-09-18T01:29:13.318Z"
 }
