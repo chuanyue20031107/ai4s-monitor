@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-18T05:47:43.043Z",
-  "pendingCount": 264,
-  "readyCount": 264,
+  "updatedAt": "2026-09-18T05:50:06.526Z",
+  "pendingCount": 259,
+  "readyCount": 259,
   "awaitingContentCount": 0,
   "excludedContentCount": 263,
   "items": [
@@ -909,17 +909,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "3d33ecd25a35d2113dd2b4c948852adf",
-      "title": "Venture/Partner Event",
-      "url": "https://www.bio-itworldexpo.com/investor",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T07:35:36.188Z",
-      "contentStatus": "ready",
-      "contentHash": "6f908b2559692c1f6132e2e5a09a75c5dfff3bc1a83f5676acf7846279252ce4",
-      "rawPath": "data/raw/3d33ecd25a35d2113dd2b4c948852adf.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "6031336a7174cad8f59831469c789e5f",
       "title": "Conferences",
       "url": "https://www.healthtech.com/?cdtConferenceId=404272006.1663694140&cdtRollupId=404272006.1663694140",
@@ -1225,17 +1214,6 @@
       "contentStatus": "ready",
       "contentHash": "f31412ed08831cee52784d981dd32ae93e0a51c051fed5adf15446346e3773b4",
       "rawPath": "data/raw/de59cb469cc0013eadd6aa1320c6db38.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "3e92fdc2e1b729fc48fea6c4bab05154",
-      "title": "实验室规划、建设与管理展区",
-      "url": "https://www.analyticachina.com.cn/cn/Discover-analytica-China/Press-Release/Exhibition-News/detail/labtechChina",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T07:35:33.582Z",
-      "contentStatus": "ready",
-      "contentHash": "31bff859a7958a70baf45456659355135cf50ee640456ef2ae6e39854aa371f3",
-      "rawPath": "data/raw/3e92fdc2e1b729fc48fea6c4bab05154.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -1800,17 +1778,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "3bfffde016074d76e69628d539a7a2bd",
-      "title": "&#x677E;&#x5C71;&#x6E56;&#x6750;&#x6599;&#x5B9E;&#x9A8C;&#x5BA4;&#x5173;&#x4E8E;&#x516C;&#x5F00;&#x9074;&#x9009;&#x77E5;&#x8BC6;&#x4EA7;&#x6743;&#x4EE3;&#x7406;&#x670D;&#x52A1;&#x673A;&#x6784;&#x7684;&#x516C;&#x544A;",
-      "url": "https://www.sslab.org.cn/news/noticedetail?id=26073113454972020FA37A7BB",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:57:38.624Z",
-      "contentStatus": "ready",
-      "contentHash": "1431187f5457ebe38e14167feda61c5b81b3bd5bb08d071303d7e6b1960d946d",
-      "rawPath": "data/raw/3bfffde016074d76e69628d539a7a2bd.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "423e6f6ed7479698222f97128206290d",
       "title": "&#x6570;&#x636E;&#x5E93;&#x5165;&#x53E3;",
       "url": "https://www.sslab.org.cn/news/noticedetail?id=24090214345433249EF92AB89",
@@ -2053,17 +2020,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "3dc8e858d168f065e595b0a0fa5a71cb",
-      "title": "2026-07-16 PerceptionBench",
-      "url": "https://www.kimi.com/en/blog/perception-bench",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:05:20.901Z",
-      "contentStatus": "ready",
-      "contentHash": "47696ad0c0badcb058b551380ab84df940cf9b3bc084e4f86e44ff7135768f23",
-      "rawPath": "data/raw/3dc8e858d168f065e595b0a0fa5a71cb.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "c84785b7885bca32a7cbe6b51a932a51",
       "title": "2026-07-16 Kimi K3",
       "url": "https://www.kimi.com/en/blog/kimi-k3",
@@ -2072,17 +2028,6 @@
       "contentStatus": "ready",
       "contentHash": "620ca1282945a6be0f79ea97282b3cd6c882cf8a130fbe8c83301b9ec2f86269",
       "rawPath": "data/raw/c84785b7885bca32a7cbe6b51a932a51.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "3cda292421d4b1a2b1b35aa1aac761e3",
-      "title": "Business Updates",
-      "url": "https://citrine.io/category/blog/business-updates-blog/",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:05:19.356Z",
-      "contentStatus": "ready",
-      "contentHash": "a44fa69fa7d02899e4bcc21c26c051727c17fb0836a6d91b5d0403839497758b",
-      "rawPath": "data/raw/3cda292421d4b1a2b1b35aa1aac761e3.json",
       "lastAnalysisStatus": "pending"
     },
     {

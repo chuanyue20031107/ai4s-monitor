@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "analysis:2026-09-18T05-47-00-371Z-full-022-reviewed-06b19a72.json",
+      "taskType": "AI 分析",
+      "status": "success",
+      "processed": 5,
+      "succeeded": 2,
+      "failed": 0,
+      "detail": "ChatGPT 提交，结构及来源摘录校验通过；不等于自动核实全部语义",
+      "failureReason": "",
+      "startedAt": "2026-09-18T05:47:00.371Z",
+      "finishedAt": "2026-09-18T05:47:00.371Z"
+    },
+    {
       "id": "analysis:2026-09-18T05-44-32-970Z-full-021-reviewed-cd1200c9.json",
       "taskType": "AI 分析",
       "status": "success",
@@ -745,5 +757,5 @@
       "finishedAt": "2026-09-16T05:12:19.802Z"
     }
   ],
-  "updatedAt": "2026-09-18T05:47:43.043Z"
+  "updatedAt": "2026-09-18T05:50:06.526Z"
 }

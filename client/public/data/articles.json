@@ -5687,8 +5687,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.bio-itworldexpo.com/investor",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "投资者活动与嘉宾目录，无科研方法或结果。",
+      "analyzedAt": "2026-09-18T05:47:00.371Z",
+      "batchFile": "data/inbox/2026-09-18T05-47-00-371Z-full-022-reviewed-06b19a72.json"
     },
     {
       "id": "5b25b8cdbdc1598621dacf23c4d7ee4d",
@@ -6874,8 +6876,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.analyticachina.com.cn/cn/Discover-analytica-China/Press-Release/Exhibition-News/detail/labtechChina",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "展会规划与宣传信息，不提供可核验AI4S结果。",
+      "analyzedAt": "2026-09-18T05:47:00.371Z",
+      "batchFile": "data/inbox/2026-09-18T05-47-00-371Z-full-022-reviewed-06b19a72.json"
     },
     {
       "id": "47573b1fd4465d236017c44520b60fcd",
@@ -8935,8 +8939,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.sslab.org.cn/news/noticedetail?id=26073113454972020FA37A7BB",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "知识产权代理服务征集公告，属于采购通知，不是AI4S成果。",
+      "analyzedAt": "2026-09-18T05:47:00.371Z",
+      "batchFile": "data/inbox/2026-09-18T05-47-00-371Z-full-022-reviewed-06b19a72.json"
     },
     {
       "id": "423e6f6ed7479698222f97128206290d",
@@ -10014,17 +10020,33 @@
       "sourceKey": "s03-02",
       "sourceName": "月之暗面 Moonshot AI",
       "sourceType": "通用模型厂商",
-      "category": "",
+      "category": "数据",
       "publishedAt": null,
       "crawledAt": "2026-09-16T06:05:20.901Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "Kimi团队发布PerceptionBench，用42个已有基准中的模型失败案例归纳10类原子视觉能力，并构建3000道经核验题目；内部题池超过17000题，覆盖定位、计数、属性、深度、OCR和视觉幻觉等。团队称16个前沿多模态模型没有一个达到60%准确率。其价值在于把视觉感知错误与推理、外部知识分离，便于诊断模型薄弱环节；但基准由发布方设计，不能直接代表真实科研图像泛化。",
+      "score": 3,
+      "importanceReason": "提供失败驱动的视觉评测设计、题量和能力拆分，对科研多模态模型诊断有直接参考价值。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "数据",
+        "模型"
+      ],
       "url": "https://www.kimi.com/en/blog/perception-bench",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-18T05:47:00.371Z",
+      "evidence": [
+        {
+          "url": "https://www.kimi.com/en/blog/perception-bench",
+          "quote": "construct 3,000 verified questions"
+        },
+        {
+          "url": "https://www.kimi.com/en/blog/perception-bench",
+          "quote": "Across sixteen frontier MLLMs, no model reaches 60% accuracy"
+        }
+      ],
+      "limitations": "正文截断；未披露各模型版本、完整评分分布与数据许可，题目构造与真实科学图像之间存在域差异。",
+      "batchFile": "data/inbox/2026-09-18T05-47-00-371Z-full-022-reviewed-06b19a72.json"
     },
     {
       "id": "c84785b7885bca32a7cbe6b51a932a51",
@@ -10224,17 +10246,34 @@
       "sourceKey": "s02-15",
       "sourceName": "Citrine Informatics",
       "sourceType": "材料信息学公司",
-      "category": "",
+      "category": "模型",
       "publishedAt": null,
       "crawledAt": "2026-09-16T06:05:19.356Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "Citrine的业务更新页介绍Citrine Catalyst为利用大语言模型的数字助手，并称其AI与智能数据管理平台服务材料和化学产品开发。页面同时列出与Michelin、LANXESS和AGC等企业合作的欧洲业务扩展。可分析的信息是模型助手与材料数据平台的产品定位及合作自述；页面不是论文或独立测评，未提供材料性能、预测误差或实验闭环数据，因此不应把“award-winning”当作科学验证。",
+      "score": 1,
+      "importanceReason": "说明材料信息学产品的模型与数据管理方向，但技术细节和可复现实验指标不足。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "数据",
+        "材料发现",
+        "商业合作"
+      ],
       "url": "https://citrine.io/category/blog/business-updates-blog/",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-18T05:47:00.371Z",
+      "evidence": [
+        {
+          "url": "https://citrine.io/category/blog/business-updates-blog/",
+          "quote": "Citrine Catalyst, an innovative digital assistant that leverages large language models"
+        },
+        {
+          "url": "https://citrine.io/category/blog/business-updates-blog/",
+          "quote": "Citrine has partnered with industry leaders in Europe like Michelin, LANXESS, and AGC"
+        }
+      ],
+      "limitations": "分类页内容混合历史博客和产品营销，合作及奖项均为企业自述，缺模型版本、任务数据和性能对照。",
+      "batchFile": "data/inbox/2026-09-18T05-47-00-371Z-full-022-reviewed-06b19a72.json"
     },
     {
       "id": "5a3c82cbddabaaac37dc36b20543ec27",
@@ -11894,5 +11933,5 @@
       "failureReason": ""
     }
   ],
-  "updatedAt": "2026-09-18T05:47:43.043Z"
+  "updatedAt": "2026-09-18T05:50:06.526Z"
 }
