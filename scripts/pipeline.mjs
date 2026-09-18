@@ -257,7 +257,9 @@ export function publish(root) {
     } catch (error) { receipts.find((r) => r.file === file).digestError = error.message; }
   }
   const commandState = reconcileCommands(root, raws, analyses);
-  const items = raws.filter(usable).map((r) => {
+  // Discarded/non-evidence records are audit data only; they must not appear
+  // in the public article list or inflate the “全部” tab.
+  const items = raws.filter(usable).filter((r) => analyses.get(r.id)?.analysisStatus !== 'discarded').map((r) => {
     const a = analyses.get(r.id);
     return { id: r.id, title: r.title, sourceKey: r.sourceKey, sourceName: r.sourceName, sourceType: r.sourceType, category: '', publishedAt: r.publishedAt, crawledAt: r.crawledAt, summary: '', score: 0, importanceReason: '', contentType: '', moatTags: [], url: r.url, analysisStatus: r.discardReason ? 'discarded' : 'pending', failureReason: r.discardReason || '', ...(a ? Object.fromEntries(['category', 'summary', 'score', 'importanceReason', 'contentType', 'moatTags', 'analysisStatus', 'failureReason', 'analyzedAt', 'evidence', 'limitations', 'batchFile'].filter((k) => a[k] !== undefined).map((k) => [k, a[k]])) : {}) };
   }).sort((a, b) => Date.parse(b.crawledAt) - Date.parse(a.crawledAt));
@@ -279,7 +281,7 @@ export function publish(root) {
   const history = [...latestByDate.values()].sort((a, b) => b.date.localeCompare(a.date));
   pub('digest', { digest: history[0] || null });
   pub('digests', { items: history });
-  pub('analysis-status', { updatedAt: now, pending: pending.length, ready: ready.length, awaitingContent: 0, excludedContent: raws.length - raws.filter(usable).length, done: items.filter((a) => a.analysisStatus === 'done').length, discarded: items.filter((a) => a.analysisStatus === 'discarded').length, rejectedBatches: receipts.filter((r) => r.status === 'rejected' || r.digestError).length, latestDigestDate: history[0]?.date || null, screenshotRulesConfirmed: false });
+  pub('analysis-status', { updatedAt: now, pending: pending.length, ready: ready.length, awaitingContent: 0, excludedContent: raws.length - raws.filter(usable).length, done: items.filter((a) => a.analysisStatus === 'done').length, discarded: [...analyses.values()].filter((a) => a.analysisStatus === 'discarded').length, rejectedBatches: receipts.filter((r) => r.status === 'rejected' || r.digestError).length, latestDigestDate: history[0]?.date || null, screenshotRulesConfirmed: false });
   writeJson(path.join(root, 'data/receipts.json'), { updatedAt: now, items: receipts });
   const runFile = path.join(root, 'client/public/data/runs.json'), existingRuns = readJson(runFile, { items: [] }).items;
   const runs = existingRuns.filter((r) => !r.id.startsWith('analysis:') && !r.id.startsWith('digest:'));
