@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "generator": "chatgpt-task",
+  "createdAt": "2026-09-18T03:58:40.125Z",
+  "analyses": [
+    {
+      "articleId": "43c9df58eecbae3946265c2fc8be0918",
+      "contentHash": "effd3c20c5ed00b4c1b75f3a7372e9b9e459b29c8c719cecf28cd820a2a2b886",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T03:58:40.125Z",
+      "failureReason": "展会规模与参展商总结，虽列智慧实验室专区和AI论坛，但没有单项AI4S研究方法、数据或验证结果。"
+    },
+    {
+      "articleId": "f8161afce487b7472b769fdeeadaf956",
+      "contentHash": "d0eba44d02ea144e888e152ebe1edda56126fbaab932a0a2f71f99a1747800f0",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T03:58:40.125Z",
+      "failureReason": "ORNL招聘入口与岗位分类，不是科学研究成果或具备具体AI4S技术信息的人才任命报道。"
+    },
+    {
+      "articleId": "c903967dc43641a71a372406ef739215",
+      "contentHash": "a630aae000c1c6e86a32748342110b6b05f2a9b01fa7e9cd8cf30ae67f843194",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T03:58:40.125Z",
+      "failureReason": "NIST出版物目录仅摘取回收设施研究导语，没有完整研究或AI方法信息，不能作为单项AI4S成果。"
+    },
+    {
+      "articleId": "fbaa6afee3dc2f464cb95c1eae1f0f2e",
+      "contentHash": "66cee9dbcdbb218deb36576b1d5cd3df48565fc57bb49a0c46a437ab138fc9f3",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T03:58:40.125Z",
+      "failureReason": "NIST博客总览仅描述计量服务使命，没有具体科学AI方法或结果。"
+    },
+    {
+      "articleId": "10c288f7441df7267d3a401562dcea36",
+      "contentHash": "98ce30b962b0a274bc609b450590495654e369c8c86499ddda8ec7b8db9c5fc1",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T03:58:40.125Z",
+      "failureReason": "研究中心使命简介仅称服务拉美基因组医学，未提供AI方法、数据发布或研究结果。"
+    },
+    {
+      "articleId": "ea99ed4d76a03cc289166b64e8648b04",
+      "contentHash": "cb1ea28331b974b553da2c1e573cbfe78664e2719113b25bb845d90f66590c54",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T03:58:40.125Z",
+      "failureReason": "Broad机构介绍与价值观页面，项目及合作方概览不是单项可核验的AI4S成果；不凭AI关键词赋予研究结果。"
+    }
+  ]
+}
