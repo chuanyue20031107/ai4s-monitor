@@ -1,0 +1,18 @@
+{
+  "id": "3f58d06e18b5c4a28bf883bfe9c68fea",
+  "title": "Spatially Integrated Multi-Omics reveals the Multicellular Landscape of Progenitor-Driven Glioblastoma Progression Korbinian Traeuble et al. Pub: BioRxiv Feb 28, 2026",
+  "url": "https://www.owkin.com/publications/spatially-integrated-multi-omics-reveals-the-multicellular-landscape-of-progenitor-driven-glioblastoma-progression",
+  "sourceKey": "s02-21",
+  "sourceName": "Owkin",
+  "sourceType": "AI生物医药公司",
+  "publishedAt": null,
+  "crawledAt": "2026-09-18T11:25:33.298Z",
+  "content": "February 28, 2026 BioRxiv Spatially Integrated Multi-Omics reveals the Multicellular Landscape of Progenitor-Driven Glioblastoma Progression Biology Cancer Research Spatial Omics Abstract Glioblastoma is the most lethal primary brain tumor, driven by complex interactions between plastic malignant cells and a diverse tumor microenvironment. Despite advances in single-cell profiling, how genomic drivers and the tumor microenvironment interact to determine tumor progression and patient survival remains poorly understood. While cellular states have been cataloged, the multi-cellular logic coordinating these into lethal phenotypes remains unresolved. Here, we integrate whole-exome sequencing, bulk and single-cell RNA sequencing, spatial transcriptomics, and histopathology from the MOSAIC cohort (n = 89) to deconstruct this inter- and intra-tumoral heterogeneity. We identify a robust latent multi-omic program in glioblastoma that delineates a transition from homeostatic neural precursors to an aggressive, immunosuppressive progenitor phenotype. This high-risk state, which predicts poor survival in both the MOSAIC discovery and independent validation cohorts (TCGA, CGGA; total n = 598), is sustained by dense intercellular communication networks linking malignant progenitors with myeloid and endothelial compartments. Spatially, this program maps to hypoxic, perinecrotic niches, directly linking molecular signaling with microvascular proliferation and tissue necrosis. Our findings provide a spatially resolved, multi-omic blueprint of the multicellular logic driving glioblastoma progression, offering a robust molecular framework for patient stratification and targeted intervention. View publication Share to: or simply highlight any text and click to post it! Authors Korbinian Traeuble Jakob Träuble MOSAIC Consortium Gabriele S. Kaminski Schierle Matthias Heinig More like this ML Research Pacpaint: a histology-based deep learning model uncovers the extensive intratumor molecular heterogeneity of pancreatic adenocarcinoma Charlie Saillard et al. Nature Communications Biology Research Multi-modal benchmarking of the Ultima UG100 and Illumina NovaSeq sequencing platforms using clinically relevant FFPE tissues Quentin Bayard et al. BioRxiv",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-18T11:25:33.298Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "59ad40ad7e3c9574bd0e734a33a27f5193caf162e582a03c0b84245f0dd57f4d"
+}

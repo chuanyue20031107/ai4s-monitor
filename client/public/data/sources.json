@@ -335,10 +335,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "ok",
-      "lastCrawlAt": "2026-09-17T05:00:01.944Z",
-      "lastSuccessAt": "2026-09-17T05:00:03.877Z",
-      "lastDiagnostic": "检查可解析 8 条候选；本次未抓取正文、未进行 AI 分析。",
-      "lastCheckAt": "2026-09-18T07:07:28.399Z",
+      "lastCrawlAt": "2026-09-18T11:25:23.122Z",
+      "lastSuccessAt": "2026-09-18T11:25:25.299Z",
+      "lastDiagnostic": "发现 8 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-18T11:25:23.122Z",
       "lastError": ""
     },
     {
@@ -366,10 +366,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "ok",
-      "lastCrawlAt": "2026-09-17T05:00:01.944Z",
-      "lastSuccessAt": "2026-09-17T05:00:02.270Z",
-      "lastDiagnostic": "检查可解析 12 条候选；本次未抓取正文、未进行 AI 分析。",
-      "lastCheckAt": "2026-09-18T07:07:28.587Z",
+      "lastCrawlAt": "2026-09-18T11:25:23.572Z",
+      "lastSuccessAt": "2026-09-18T11:25:24.166Z",
+      "lastDiagnostic": "发现 12 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-18T11:25:23.572Z",
       "lastError": ""
     },
     {
@@ -397,10 +397,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "no_content",
-      "lastCrawlAt": "2026-09-17T05:00:01.944Z",
-      "lastSuccessAt": "2026-09-17T05:00:03.755Z",
-      "lastDiagnostic": "入口可访问但未发现可解析条目；可能需要 RSS/专用解析器，不代表网站没有更新。",
-      "lastCheckAt": "2026-09-18T07:07:28.890Z",
+      "lastCrawlAt": "2026-09-18T11:25:24.166Z",
+      "lastSuccessAt": "2026-09-18T11:25:25.700Z",
+      "lastDiagnostic": "发现 0 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-18T11:25:24.166Z",
       "lastError": ""
     },
     {
@@ -428,10 +428,10 @@
       "crawlStrategy": "rss",
       "discoveredFeedUrl": "https://openai.com/news/rss.xml",
       "crawlStatus": "ok",
-      "lastCrawlAt": "2026-09-17T05:00:02.270Z",
-      "lastSuccessAt": null,
-      "lastDiagnostic": "检查可解析 12 条候选；本次未抓取正文、未进行 AI 分析。",
-      "lastCheckAt": "2026-09-18T07:07:28.975Z",
+      "lastCrawlAt": "2026-09-18T11:25:25.299Z",
+      "lastSuccessAt": "2026-09-18T11:25:25.435Z",
+      "lastDiagnostic": "发现 12 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-18T11:25:25.299Z",
       "lastError": ""
     },
     {
@@ -459,10 +459,10 @@
       "crawlStrategy": "rss",
       "discoveredFeedUrl": "https://www.ornl.gov/rss.xml",
       "crawlStatus": "ok",
-      "lastCrawlAt": "2026-09-17T05:00:02.373Z",
-      "lastSuccessAt": null,
-      "lastDiagnostic": "检查可解析 9 条候选；本次未抓取正文、未进行 AI 分析。",
-      "lastCheckAt": "2026-09-18T07:07:29.138Z",
+      "lastCrawlAt": "2026-09-18T11:25:25.362Z",
+      "lastSuccessAt": "2026-09-18T11:25:25.547Z",
+      "lastDiagnostic": "发现 9 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-18T11:25:25.362Z",
       "lastError": ""
     },
     {
@@ -490,10 +490,10 @@
       "crawlStrategy": "rss",
       "discoveredFeedUrl": "https://jclinic.mit.edu/feed/",
       "crawlStatus": "ok",
-      "lastCrawlAt": "2026-09-17T05:00:02.456Z",
-      "lastSuccessAt": null,
-      "lastDiagnostic": "检查可解析 10 条候选；本次未抓取正文、未进行 AI 分析。",
-      "lastCheckAt": "2026-09-18T07:07:29.321Z",
+      "lastCrawlAt": "2026-09-18T11:25:25.435Z",
+      "lastSuccessAt": "2026-09-18T11:25:26.031Z",
+      "lastDiagnostic": "发现 10 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-18T11:25:25.435Z",
       "lastError": ""
     },
     {
@@ -521,10 +521,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "ok",
-      "lastCrawlAt": "2026-09-17T05:00:02.827Z",
-      "lastSuccessAt": "2026-09-17T05:00:03.751Z",
-      "lastDiagnostic": "检查可解析 3 条候选；本次未抓取正文、未进行 AI 分析。",
-      "lastCheckAt": "2026-09-18T07:07:29.442Z",
+      "lastCrawlAt": "2026-09-18T11:25:25.547Z",
+      "lastSuccessAt": "2026-09-18T11:25:26.691Z",
+      "lastDiagnostic": "发现 3 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-18T11:25:25.547Z",
       "lastError": ""
     },
     {
@@ -552,10 +552,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "ok",
-      "lastCrawlAt": "2026-09-17T05:00:03.751Z",
-      "lastSuccessAt": "2026-09-17T05:00:05.176Z",
-      "lastDiagnostic": "检查可解析 12 条候选；本次未抓取正文、未进行 AI 分析。",
-      "lastCheckAt": "2026-09-18T07:07:30.165Z",
+      "lastCrawlAt": "2026-09-18T11:25:25.700Z",
+      "lastSuccessAt": "2026-09-18T11:25:27.447Z",
+      "lastDiagnostic": "发现 12 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-18T11:25:25.700Z",
       "lastError": ""
     },
     {
@@ -575,7 +575,7 @@
       "priority": "中",
       "notes": "关注物理和材料数据",
       "failureType": "http_404",
-      "repairSuggestion": "manual_config",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "sourceKey": "s01-19",
       "groupName": "海外大厂与研究机构",
@@ -583,11 +583,11 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-17T05:00:03.755Z",
+      "lastCrawlAt": "2026-09-18T11:25:26.031Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
-      "lastCheckAt": "2026-09-18T07:07:30.336Z",
-      "lastError": "network_error"
+      "lastDiagnostic": "采集失败：http_404；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-18T11:25:26.031Z",
+      "lastError": "http_404"
     },
     {
       "id": "s01-20",
@@ -614,10 +614,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "ok",
-      "lastCrawlAt": "2026-09-17T05:00:03.877Z",
-      "lastSuccessAt": "2026-09-17T05:00:05.986Z",
-      "lastDiagnostic": "检查可解析 6 条候选；本次未抓取正文、未进行 AI 分析。",
-      "lastCheckAt": "2026-09-18T07:07:30.459Z",
+      "lastCrawlAt": "2026-09-18T11:25:26.327Z",
+      "lastSuccessAt": "2026-09-18T11:25:28.311Z",
+      "lastDiagnostic": "发现 6 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-18T11:25:26.327Z",
       "lastError": ""
     },
     {
@@ -645,10 +645,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "ok",
-      "lastCrawlAt": "2026-09-17T05:00:03.898Z",
-      "lastSuccessAt": "2026-09-17T05:00:05.439Z",
-      "lastDiagnostic": "检查可解析 2 条候选；本次未抓取正文、未进行 AI 分析。",
-      "lastCheckAt": "2026-09-18T07:07:30.510Z",
+      "lastCrawlAt": "2026-09-18T11:25:26.691Z",
+      "lastSuccessAt": "2026-09-18T11:25:28.179Z",
+      "lastDiagnostic": "发现 2 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-18T11:25:26.691Z",
       "lastError": ""
     },
     {
@@ -676,10 +676,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "ok",
-      "lastCrawlAt": "2026-09-17T05:00:05.176Z",
-      "lastSuccessAt": "2026-09-17T05:00:10.822Z",
-      "lastDiagnostic": "检查可解析 9 条候选；本次未抓取正文、未进行 AI 分析。",
-      "lastCheckAt": "2026-09-18T07:07:30.860Z",
+      "lastCrawlAt": "2026-09-18T11:25:27.447Z",
+      "lastSuccessAt": "2026-09-18T11:25:31.417Z",
+      "lastDiagnostic": "发现 9 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-18T11:25:27.447Z",
       "lastError": ""
     },
     {
@@ -707,10 +707,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "ok",
-      "lastCrawlAt": "2026-09-17T05:00:05.439Z",
-      "lastSuccessAt": "2026-09-17T05:00:07.889Z",
-      "lastDiagnostic": "检查可解析 12 条候选；本次未抓取正文、未进行 AI 分析。",
-      "lastCheckAt": "2026-09-18T07:07:31.692Z",
+      "lastCrawlAt": "2026-09-18T11:25:28.179Z",
+      "lastSuccessAt": "2026-09-18T11:25:30.366Z",
+      "lastDiagnostic": "发现 12 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-18T11:25:28.179Z",
       "lastError": ""
     },
     {
@@ -738,10 +738,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "ok",
-      "lastCrawlAt": "2026-09-17T05:00:05.986Z",
-      "lastSuccessAt": "2026-09-17T05:00:08.938Z",
-      "lastDiagnostic": "检查可解析 12 条候选；本次未抓取正文、未进行 AI 分析。",
-      "lastCheckAt": "2026-09-18T07:07:31.709Z",
+      "lastCrawlAt": "2026-09-18T11:25:28.311Z",
+      "lastSuccessAt": "2026-09-18T11:25:32.522Z",
+      "lastDiagnostic": "发现 12 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-18T11:25:28.311Z",
       "lastError": ""
     },
     {
@@ -769,10 +769,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "ok",
-      "lastCrawlAt": "2026-09-17T05:00:06.771Z",
-      "lastSuccessAt": "2026-09-17T05:00:07.768Z",
-      "lastDiagnostic": "检查可解析 6 条候选；本次未抓取正文、未进行 AI 分析。",
-      "lastCheckAt": "2026-09-18T07:07:32.938Z",
+      "lastCrawlAt": "2026-09-18T11:25:30.366Z",
+      "lastSuccessAt": "2026-09-18T11:25:32.392Z",
+      "lastDiagnostic": "发现 6 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-18T11:25:30.366Z",
       "lastError": ""
     },
     {
@@ -1296,10 +1296,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "ok",
-      "lastCrawlAt": "2026-09-17T05:00:07.768Z",
-      "lastSuccessAt": "2026-09-17T05:00:08.446Z",
-      "lastDiagnostic": "检查可解析 12 条候选；本次未抓取正文、未进行 AI 分析。",
-      "lastCheckAt": "2026-09-18T07:07:36.441Z",
+      "lastCrawlAt": "2026-09-18T11:25:31.417Z",
+      "lastSuccessAt": "2026-09-18T11:25:32.254Z",
+      "lastDiagnostic": "发现 12 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-18T11:25:31.417Z",
       "lastError": ""
     },
     {
@@ -1327,10 +1327,10 @@
       "crawlStrategy": "rss",
       "discoveredFeedUrl": "https://basecamp-research.com/feed/",
       "crawlStatus": "ok",
-      "lastCrawlAt": "2026-09-17T05:00:07.889Z",
-      "lastSuccessAt": "2026-09-17T05:00:08.822Z",
-      "lastDiagnostic": "检查可解析 10 条候选；本次未抓取正文、未进行 AI 分析。",
-      "lastCheckAt": "2026-09-18T07:07:36.549Z",
+      "lastCrawlAt": "2026-09-18T11:25:32.254Z",
+      "lastSuccessAt": "2026-09-18T11:25:33.105Z",
+      "lastDiagnostic": "发现 10 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-18T11:25:32.254Z",
       "lastError": ""
     },
     {
@@ -1358,10 +1358,10 @@
       "crawlStrategy": "sitemap",
       "discoveredFeedUrl": "https://www.latentlabs.com/sitemap_index.xml",
       "crawlStatus": "ok",
-      "lastCrawlAt": "2026-09-17T05:00:08.446Z",
-      "lastSuccessAt": null,
-      "lastDiagnostic": "检查可解析 29 条候选；本次未抓取正文、未进行 AI 分析。",
-      "lastCheckAt": "2026-09-18T07:07:36.866Z",
+      "lastCrawlAt": "2026-09-18T11:25:32.392Z",
+      "lastSuccessAt": "2026-09-18T11:25:34.931Z",
+      "lastDiagnostic": "发现 29 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-18T11:25:32.392Z",
       "lastError": ""
     },
     {
@@ -1381,7 +1381,7 @@
       "priority": "中",
       "notes": "关注模型到临床管线",
       "failureType": "http_404",
-      "repairSuggestion": "manual_config",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "sourceKey": "s02-20",
       "groupName": "海外AI4S创业公司",
@@ -1389,11 +1389,11 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-17T05:00:08.822Z",
+      "lastCrawlAt": "2026-09-18T11:25:32.522Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
-      "lastCheckAt": "2026-09-18T07:07:37.045Z",
-      "lastError": "network_error"
+      "lastDiagnostic": "采集失败：http_404；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-18T11:25:32.522Z",
+      "lastError": "http_404"
     },
     {
       "id": "s02-21",
@@ -1420,10 +1420,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "ok",
-      "lastCrawlAt": "2026-09-17T05:00:08.938Z",
-      "lastSuccessAt": "2026-09-17T05:00:09.324Z",
-      "lastDiagnostic": "检查可解析 12 条候选；本次未抓取正文、未进行 AI 分析。",
-      "lastCheckAt": "2026-09-18T07:07:37.463Z",
+      "lastCrawlAt": "2026-09-18T11:25:32.974Z",
+      "lastSuccessAt": "2026-09-18T11:25:33.451Z",
+      "lastDiagnostic": "发现 12 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-18T11:25:32.974Z",
       "lastError": ""
     },
     {
@@ -1451,10 +1451,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "ok",
-      "lastCrawlAt": "2026-09-17T05:00:09.097Z",
-      "lastSuccessAt": "2026-09-17T05:00:16.639Z",
-      "lastDiagnostic": "检查可解析 1 条候选；本次未抓取正文、未进行 AI 分析。",
-      "lastCheckAt": "2026-09-18T07:07:37.713Z",
+      "lastCrawlAt": "2026-09-18T11:25:33.105Z",
+      "lastSuccessAt": "2026-09-18T11:25:36.320Z",
+      "lastDiagnostic": "发现 1 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-18T11:25:33.105Z",
       "lastError": ""
     },
     {
@@ -1482,10 +1482,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "no_content",
-      "lastCrawlAt": "2026-09-17T05:00:09.324Z",
-      "lastSuccessAt": "2026-09-17T05:00:10.812Z",
-      "lastDiagnostic": "入口可访问但未发现可解析条目；可能需要 RSS/专用解析器，不代表网站没有更新。",
-      "lastCheckAt": "2026-09-18T07:07:37.886Z",
+      "lastCrawlAt": "2026-09-18T11:25:33.451Z",
+      "lastSuccessAt": "2026-09-18T11:25:35.182Z",
+      "lastDiagnostic": "发现 0 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-18T11:25:33.451Z",
       "lastError": ""
     },
     {
@@ -1513,10 +1513,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "ok",
-      "lastCrawlAt": "2026-09-17T05:00:09.743Z",
-      "lastSuccessAt": "2026-09-17T05:00:10.456Z",
-      "lastDiagnostic": "检查可解析 2 条候选；本次未抓取正文、未进行 AI 分析。",
-      "lastCheckAt": "2026-09-18T07:07:39.241Z",
+      "lastCrawlAt": "2026-09-18T11:25:34.931Z",
+      "lastSuccessAt": "2026-09-18T11:25:35.767Z",
+      "lastDiagnostic": "发现 2 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-18T11:25:34.931Z",
       "lastError": ""
     },
     {
@@ -1544,10 +1544,10 @@
       "crawlStrategy": "sitemap",
       "discoveredFeedUrl": "https://www.sandboxaq.com/sitemap.xml",
       "crawlStatus": "ok",
-      "lastCrawlAt": "2026-09-17T05:00:10.456Z",
-      "lastSuccessAt": null,
-      "lastDiagnostic": "检查可解析 100 条候选；本次未抓取正文、未进行 AI 分析。",
-      "lastCheckAt": "2026-09-18T07:07:39.372Z",
+      "lastCrawlAt": "2026-09-18T11:25:35.182Z",
+      "lastSuccessAt": "2026-09-18T11:25:35.513Z",
+      "lastDiagnostic": "发现 100 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-18T11:25:35.182Z",
       "lastError": ""
     },
     {
@@ -1761,10 +1761,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "no_content",
-      "lastCrawlAt": "2026-09-17T05:00:10.633Z",
-      "lastSuccessAt": "2026-09-17T05:00:12.825Z",
-      "lastDiagnostic": "入口可访问但未发现可解析条目；可能需要 RSS/专用解析器，不代表网站没有更新。",
-      "lastCheckAt": "2026-09-18T07:07:43.727Z",
+      "lastCrawlAt": "2026-09-18T11:25:35.513Z",
+      "lastSuccessAt": "2026-09-18T11:25:37.116Z",
+      "lastDiagnostic": "发现 0 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-18T11:25:35.513Z",
       "lastError": ""
     },
     {
@@ -1792,10 +1792,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "no_content",
-      "lastCrawlAt": "2026-09-17T05:00:10.812Z",
-      "lastSuccessAt": "2026-09-17T05:00:12.888Z",
-      "lastDiagnostic": "入口可访问但未发现可解析条目；可能需要 RSS/专用解析器，不代表网站没有更新。",
-      "lastCheckAt": "2026-09-18T07:07:45.066Z",
+      "lastCrawlAt": "2026-09-18T11:25:35.767Z",
+      "lastSuccessAt": "2026-09-18T11:25:38.119Z",
+      "lastDiagnostic": "发现 0 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-18T11:25:35.767Z",
       "lastError": ""
     },
     {
@@ -1823,10 +1823,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "no_content",
-      "lastCrawlAt": "2026-09-17T05:00:10.822Z",
-      "lastSuccessAt": "2026-09-17T05:00:15.141Z",
-      "lastDiagnostic": "入口可访问但未发现可解析条目；可能需要 RSS/专用解析器，不代表网站没有更新。",
-      "lastCheckAt": "2026-09-18T07:07:45.458Z",
+      "lastCrawlAt": "2026-09-18T11:25:36.320Z",
+      "lastSuccessAt": "2026-09-18T11:25:39.863Z",
+      "lastDiagnostic": "发现 0 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-18T11:25:36.320Z",
       "lastError": ""
     },
     {
@@ -1854,10 +1854,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "ok",
-      "lastCrawlAt": "2026-09-17T05:00:12.825Z",
-      "lastSuccessAt": "2026-09-17T05:00:20.579Z",
-      "lastDiagnostic": "检查可解析 6 条候选；本次未抓取正文、未进行 AI 分析。",
-      "lastCheckAt": "2026-09-18T07:07:47.549Z",
+      "lastCrawlAt": "2026-09-18T11:25:37.116Z",
+      "lastSuccessAt": "2026-09-18T11:25:41.817Z",
+      "lastDiagnostic": "发现 6 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-18T11:25:37.116Z",
       "lastError": ""
     },
     {
@@ -1885,10 +1885,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "no_content",
-      "lastCrawlAt": "2026-09-17T05:00:12.888Z",
-      "lastSuccessAt": null,
-      "lastDiagnostic": "入口可访问但未发现可解析条目；可能需要 RSS/专用解析器，不代表网站没有更新。",
-      "lastCheckAt": "2026-09-18T07:07:48.142Z",
+      "lastCrawlAt": "2026-09-18T11:25:38.119Z",
+      "lastSuccessAt": "2026-09-18T11:26:12.997Z",
+      "lastDiagnostic": "发现 0 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-18T11:25:38.119Z",
       "lastError": ""
     },
     {
@@ -1916,10 +1916,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "no_content",
-      "lastCrawlAt": "2026-09-17T05:00:15.141Z",
-      "lastSuccessAt": "2026-09-17T05:00:18.347Z",
-      "lastDiagnostic": "入口可访问但未发现可解析条目；可能需要 RSS/专用解析器，不代表网站没有更新。",
-      "lastCheckAt": "2026-09-18T07:07:52.139Z",
+      "lastCrawlAt": "2026-09-18T11:25:39.863Z",
+      "lastSuccessAt": "2026-09-18T11:25:42.659Z",
+      "lastDiagnostic": "发现 0 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-18T11:25:39.863Z",
       "lastError": ""
     },
     {
@@ -2195,10 +2195,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "ok",
-      "lastCrawlAt": "2026-09-17T05:00:16.372Z",
-      "lastSuccessAt": "2026-09-17T05:00:19.917Z",
-      "lastDiagnostic": "检查可解析 1 条候选；本次未抓取正文、未进行 AI 分析。",
-      "lastCheckAt": "2026-09-18T07:08:01.227Z",
+      "lastCrawlAt": "2026-09-18T11:25:41.817Z",
+      "lastSuccessAt": "2026-09-18T11:25:45.590Z",
+      "lastDiagnostic": "发现 1 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-18T11:25:41.817Z",
       "lastError": ""
     },
     {
@@ -5287,7 +5287,7 @@
       "priority": "高",
       "notes": "计算生物学旗舰会议",
       "failureType": "http_404",
-      "repairSuggestion": "manual_config",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "sourceKey": "s11-10",
       "groupName": "国际标准学会与活动",
@@ -5295,11 +5295,11 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-17T01:28:28.463Z",
+      "lastCrawlAt": "2026-09-18T11:25:22.100Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "网络或站点响应异常；请核对入口并稍后重试。",
-      "lastCheckAt": "2026-09-18T07:09:35.747Z",
-      "lastError": "network_error"
+      "lastDiagnostic": "采集失败：http_404；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-18T11:25:22.100Z",
+      "lastError": "http_404"
     },
     {
       "id": "s11-11",
@@ -5326,10 +5326,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "ok",
-      "lastCrawlAt": "2026-09-16T21:25:19.351Z",
-      "lastSuccessAt": "2026-09-16T21:25:20.807Z",
-      "lastDiagnostic": "检查可解析 12 条候选；本次未抓取正文、未进行 AI 分析。",
-      "lastCheckAt": "2026-09-18T07:09:35.853Z",
+      "lastCrawlAt": "2026-09-18T11:25:22.103Z",
+      "lastSuccessAt": "2026-09-18T11:25:23.572Z",
+      "lastDiagnostic": "发现 12 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-18T11:25:22.103Z",
       "lastError": ""
     },
     {
@@ -5349,7 +5349,7 @@
       "priority": "高",
       "notes": "材料研究旗舰活动",
       "failureType": "http_403",
-      "repairSuggestion": "manual_config",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "sourceKey": "s11-12",
       "groupName": "国际标准学会与活动",
@@ -5357,11 +5357,11 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-17T01:28:29.178Z",
+      "lastCrawlAt": "2026-09-18T11:25:22.103Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "HTTP_403：认证、访问限制或限流；请使用授权入口或稍后重试。",
-      "lastCheckAt": "2026-09-18T07:09:35.907Z",
-      "lastError": "network_error"
+      "lastDiagnostic": "采集失败：http_403；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-18T11:25:22.103Z",
+      "lastError": "http_403"
     },
     {
       "id": "s11-13",
@@ -5388,10 +5388,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "ok",
-      "lastCrawlAt": "2026-09-16T21:25:20.616Z",
-      "lastSuccessAt": "2026-09-16T21:25:23.241Z",
-      "lastDiagnostic": "检查可解析 2 条候选；本次未抓取正文、未进行 AI 分析。",
-      "lastCheckAt": "2026-09-18T07:09:36.269Z",
+      "lastCrawlAt": "2026-09-18T11:25:22.103Z",
+      "lastSuccessAt": "2026-09-18T11:27:54.155Z",
+      "lastDiagnostic": "发现 2 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-18T11:25:22.103Z",
       "lastError": ""
     },
     {
@@ -5419,10 +5419,10 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "ok",
-      "lastCrawlAt": "2026-09-17T05:00:01.939Z",
-      "lastSuccessAt": "2026-09-17T05:00:06.771Z",
-      "lastDiagnostic": "检查可解析 12 条候选；本次未抓取正文、未进行 AI 分析。",
-      "lastCheckAt": "2026-09-18T07:09:36.493Z",
+      "lastCrawlAt": "2026-09-18T11:25:22.838Z",
+      "lastSuccessAt": "2026-09-18T11:25:25.362Z",
+      "lastDiagnostic": "发现 12 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-18T11:25:22.838Z",
       "lastError": ""
     },
     {
@@ -5705,5 +5705,5 @@
       "lastError": ""
     }
   ],
-  "updatedAt": "2026-09-18T07:09:40.976Z"
+  "updatedAt": "2026-09-18T11:27:54.155Z"
 }

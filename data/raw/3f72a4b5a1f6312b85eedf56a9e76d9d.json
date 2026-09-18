@@ -1,0 +1,18 @@
+{
+  "id": "3f72a4b5a1f6312b85eedf56a9e76d9d",
+  "title": "OKN4395, a first-in-class EP2/EP4/DP1 triple antagonist reprograms prostanoid-driven immunosuppression to restore antitumor immunity Maximilien Grandclaudon et al. Pub: BioRxiv Feb 10, 2026",
+  "url": "https://www.owkin.com/publications/okn4395-a-first-in-class-ep2-ep4-dp1-triple-antagonist-reprograms-prostanoid-driven-immunosuppression-to-restore-antitumor-immunity",
+  "sourceKey": "s02-21",
+  "sourceName": "Owkin",
+  "sourceType": "AI生物医药公司",
+  "publishedAt": null,
+  "crawledAt": "2026-09-18T11:25:33.389Z",
+  "content": "February 10, 2026 BioRxiv OKN4395, a first-in-class EP2/EP4/DP1 triple antagonist reprograms prostanoid-driven immunosuppression to restore antitumor immunity AI Biology Cancer Research Abstract Immune checkpoint inhibitors, particularly T cell targeting anti-PD(L)1 therapies, have revolutionised the treatment landscape for solid malignancies, but challenges related to non-responsiveness and the development of treatment resistance continue to be observed. An additional immunosuppressive axis relates to prostaglandin signaling downstream of cyclooxygenase-2 (COX2), where COX2 inhibitors have shown clinical promise in re-engaging both T and non-T cell immune compartments, yet have suffered from toxicity concerns. We report here the preclinical characterization of OKN4395, a highly potent and specific first-in-class triple antagonist of EP2, EP4, and DP1, major tumor immunosuppressive receptors downstream of COX2. OKN4395 restores immune function on both T cells and NK cells in vitro. Additionally, OKN4395 acts synergistically with anti-PD1 to increase speed and depth of antitumor activity. Overall, these findings robustly support the clinical investigation of OKN4395 in an ongoing Phase 1 trial ( NCT06789172 ) as an innovative cancer immunotherapy for solid tumors, as a single agent and in combination with anti-PD1 therapy. View publication Share to: or simply highlight any text and click to post it! Authors Maximilien Grandclaudon Morgane Boulch Anna Thaller onathan Sabio Ortiz Alexandre Grimaldi Marie Goxe Agnès Knopf Marie Daugan Eva Huehn Carmela Gnerre Sébastien Jeay Monica Faronato Haithem Dakhli Silvia Lopez Lastra Alexandra Hardy Sandrine Sanchez Imke Mayer Rose Hoste Floriane Montanari Vassili Soumelis, MD, PhD Joan Alberti Lucia Pattarini Caroline Hoffmann Andrew Pierce More like this Research Cancer A deep learning method for predicting knee osteoarthritis radiographic progression from MRI Jean-Baptiste Schiratti et al. Arthritis Research & Therapy AI ML Distilling foundation models for robust and efficient models in digital pathology Alexandre Filiot et al. arXiv",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-18T11:25:33.389Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "0a80c86f4f523d2fb53b21cafbf706f778febc437035c9914bd4f171991da8f6"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "e0c637e8e449ea3a7b3dce1612286c88",
+  "title": "Education",
+  "url": "https://www.acs.org/education.html",
+  "sourceKey": "s11-11",
+  "sourceName": "ACS Spring/Fall Meetings",
+  "sourceType": "国际学术会议",
+  "publishedAt": null,
+  "crawledAt": "2026-09-18T11:25:23.542Z",
+  "content": "ACS Webinars Seeing Biology in a New Light: Nanosensors for Real-Time Biosensing Celebrate National Nanotechnology Day and explore how engineered Single-walled carbon nanotubes can transform the way we detect and measure biomolecules in living systems. Read more",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-18T11:25:23.542Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "7d2181ca6c68573bfdb8fa38ceea31d40a8d03a7445402f7591a0f69a48e88f2"
+}

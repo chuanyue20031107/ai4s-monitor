@@ -1,11 +1,209 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-18T07:09:41.257Z",
-  "pendingCount": 259,
-  "readyCount": 259,
+  "updatedAt": "2026-09-18T11:27:54.234Z",
+  "pendingCount": 290,
+  "readyCount": 290,
   "awaitingContentCount": 0,
-  "excludedContentCount": 263,
+  "excludedContentCount": 236,
   "items": [
+    {
+      "id": "3f72a4b5a1f6312b85eedf56a9e76d9d",
+      "title": "OKN4395, a first-in-class EP2/EP4/DP1 triple antagonist reprograms prostanoid-driven immunosuppression to restore antitumor immunity Maximilien Grandclaudon et al. Pub: BioRxiv Feb 10, 2026",
+      "url": "https://www.owkin.com/publications/okn4395-a-first-in-class-ep2-ep4-dp1-triple-antagonist-reprograms-prostanoid-driven-immunosuppression-to-restore-antitumor-immunity",
+      "publishedAt": null,
+      "crawledAt": "2026-09-18T11:25:33.389Z",
+      "contentStatus": "ready",
+      "contentHash": "0a80c86f4f523d2fb53b21cafbf706f778febc437035c9914bd4f171991da8f6",
+      "rawPath": "data/raw/3f72a4b5a1f6312b85eedf56a9e76d9d.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "8a1fddf0f9c7bab64dc0268351f90bb6",
+      "title": "Subgroup analysis methods for time-to-event outcomes in heterogeneous randomized controlled trials Valentine Perrin et al. Pub: BMC Medical Research Methodology Feb 26, 2026",
+      "url": "https://www.owkin.com/publications/subgroup-analysis-methods-for-time-to-event-outcomes-in-heterogeneous-randomized-controlled-trials",
+      "publishedAt": null,
+      "crawledAt": "2026-09-18T11:25:33.359Z",
+      "contentStatus": "ready",
+      "contentHash": "637f0ff8a3d53daf722f4cddab6d9f126a96dc343b4712c0ab6b74093812da8b",
+      "rawPath": "data/raw/8a1fddf0f9c7bab64dc0268351f90bb6.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "3f58d06e18b5c4a28bf883bfe9c68fea",
+      "title": "Spatially Integrated Multi-Omics reveals the Multicellular Landscape of Progenitor-Driven Glioblastoma Progression Korbinian Traeuble et al. Pub: BioRxiv Feb 28, 2026",
+      "url": "https://www.owkin.com/publications/spatially-integrated-multi-omics-reveals-the-multicellular-landscape-of-progenitor-driven-glioblastoma-progression",
+      "publishedAt": null,
+      "crawledAt": "2026-09-18T11:25:33.298Z",
+      "contentStatus": "ready",
+      "contentHash": "59ad40ad7e3c9574bd0e734a33a27f5193caf162e582a03c0b84245f0dd57f4d",
+      "rawPath": "data/raw/3f58d06e18b5c4a28bf883bfe9c68fea.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "220a878b87c966ea66cb82bab7f57a72",
+      "title": "We were intentional about our company culture from day one. Here’s why that matters.",
+      "url": "https://www.cradle.bio/blog/company-culture",
+      "publishedAt": null,
+      "crawledAt": "2026-09-18T11:25:32.130Z",
+      "contentStatus": "ready",
+      "contentHash": "7ba2fb53c824c3f59154958190b65e364e85c75432dd1cc7b78392ad379475d0",
+      "rawPath": "data/raw/220a878b87c966ea66cb82bab7f57a72.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "ba60a1cf321214536accd5727a819ee0",
+      "title": "Helmholtz Launches New Strategic Unit for Security and Resilience Research",
+      "url": "https://www.helmholtz.de/en/newsroom/article/helmholtz-launches-new-strategic-unit-for-security-and-resilience-research/",
+      "publishedAt": null,
+      "crawledAt": "2026-09-18T11:25:32.066Z",
+      "contentStatus": "ready",
+      "contentHash": "a9b272eb9bc775369c5c3659178aae295f188aed7c401689aabe524daee4d9b3",
+      "rawPath": "data/raw/ba60a1cf321214536accd5727a819ee0.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "a45f9876377cc3ff38458a87a6d36ab4",
+      "title": "Visualizing trade-offs in multi-property protein optimization",
+      "url": "https://www.cradle.bio/blog/visualizing-trade-offs-in-multi-property-protein-optimization",
+      "publishedAt": null,
+      "crawledAt": "2026-09-18T11:25:32.013Z",
+      "contentStatus": "ready",
+      "contentHash": "ba940d6c16e54652b0372c27345f1624bee40a914ef65f0d2369960aed9e0c9f",
+      "rawPath": "data/raw/a45f9876377cc3ff38458a87a6d36ab4.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "86b7efc7fc75fa49df183dce5f10b155",
+      "title": "Lundbeck partners with Cradle to discover and optimize brain disorder treatments",
+      "url": "https://www.cradle.bio/blog/lundbeck",
+      "publishedAt": null,
+      "crawledAt": "2026-09-18T11:25:31.975Z",
+      "contentStatus": "ready",
+      "contentHash": "bec5f53f1a0c51caefba96609bdd645c270be5dd90106601fb47cd91c93bab1e",
+      "rawPath": "data/raw/86b7efc7fc75fa49df183dce5f10b155.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "6d50f52a8f685b14787517de123ee81f",
+      "title": "[Media Coverage] Interview with Deputy Director Naonori Ueda (NTT Facilities Journal, August 3, 2026)",
+      "url": "https://aip.riken.jp/news/interview-with-deputy-director-naonori-ueda/",
+      "publishedAt": null,
+      "crawledAt": "2026-09-18T11:25:30.789Z",
+      "contentStatus": "ready",
+      "contentHash": "357e3cf19a3af7f73c1a40255db3e257e13d46abcce945658e5f9ffc50fca88d",
+      "rawPath": "data/raw/6d50f52a8f685b14787517de123ee81f.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "471380d4f27f54c47521c54af7dfe349",
+      "title": "Three Questions for Doreen Kohlbach",
+      "url": "https://www.helmholtz.de/en/newsroom/article/three-questions-for-doreen-kohlbach/",
+      "publishedAt": null,
+      "crawledAt": "2026-09-18T11:25:30.638Z",
+      "contentStatus": "ready",
+      "contentHash": "d79fd5a1caf17e0946bb7a2ec3de10341754558d62010ea4e3597b5696f9b666",
+      "rawPath": "data/raw/471380d4f27f54c47521c54af7dfe349.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "4f20c43a238a8456888539c2a3441e75",
+      "title": "Three questions for physician Freba Grawe",
+      "url": "https://www.helmholtz.de/en/newsroom/article/three-questions-for-physician-freba-grawe/",
+      "publishedAt": null,
+      "crawledAt": "2026-09-18T11:25:30.104Z",
+      "contentStatus": "ready",
+      "contentHash": "419a7ee50136ec7843c6c54512fd0855b91392d0a1b022cc79169c7a9ca448ff",
+      "rawPath": "data/raw/4f20c43a238a8456888539c2a3441e75.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "b09dd57b3149e878651ed2bcd14063d7",
+      "title": "Hidden drivers of aggressive childhood cancer revealed New clues have been uncovered about why the childhood cancer, rhabdomyosarcoma, may behave aggressively. Find out more",
+      "url": "https://www.sanger.ac.uk/news_item/hidden-drivers-of-aggressive-childhood-cancer-revealed/",
+      "publishedAt": null,
+      "crawledAt": "2026-09-18T11:25:28.152Z",
+      "contentStatus": "ready",
+      "contentHash": "56d7dfa0e1c542eb6df14d5ba8f9829cd5a277e0c4e0cf4ce6a13aa1daec8a3a",
+      "rawPath": "data/raw/b09dd57b3149e878651ed2bcd14063d7.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "7e92c5337aeda0a663b43d4bcc5dcd7c",
+      "title": "Our History - 2020s",
+      "url": "https://www.llnl.gov/purpose/history/2020s",
+      "publishedAt": null,
+      "crawledAt": "2026-09-18T11:25:26.857Z",
+      "contentStatus": "ready",
+      "contentHash": "ce7c4137f4e500ebf980cf20da205104a2a0d6ffd241a605d55fbbd26aa8612c",
+      "rawPath": "data/raw/7e92c5337aeda0a663b43d4bcc5dcd7c.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "bf9afdc5ece8641fdc18795448f51def",
+      "title": "Our History - 2010s",
+      "url": "https://www.llnl.gov/purpose/history/2010s",
+      "publishedAt": null,
+      "crawledAt": "2026-09-18T11:25:26.788Z",
+      "contentStatus": "ready",
+      "contentHash": "b9c9f46e50d139315abf9aa57498b8ae04b619a7a0a8da6a48152d085d8ce71e",
+      "rawPath": "data/raw/bf9afdc5ece8641fdc18795448f51def.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "d360ac5173db404ca2e56e5501f949c7",
+      "title": "Our History - 2000s",
+      "url": "https://www.llnl.gov/purpose/history/2000s",
+      "publishedAt": null,
+      "crawledAt": "2026-09-18T11:25:26.320Z",
+      "contentStatus": "ready",
+      "contentHash": "f289837f2ad068f39b9818fa99770f64fb985e2e4e5cb36b8e37ad262ee97ee8",
+      "rawPath": "data/raw/d360ac5173db404ca2e56e5501f949c7.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "650b7eba6eca63c6ee4f4543deb1dea8",
+      "title": "Amazon Quick Answers grounded in your actual business data",
+      "url": "https://aws.amazon.com/quick/desktop/?nc2=h_dsc_ex_s6",
+      "publishedAt": null,
+      "crawledAt": "2026-09-18T11:25:24.098Z",
+      "contentStatus": "ready",
+      "contentHash": "529872ec669377db664caa4bf929505ada6ac2d7937a24ab985dd97b351b73e8",
+      "rawPath": "data/raw/650b7eba6eca63c6ee4f4543deb1dea8.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "4e82dc4aab29d5a4a5a8a6a65867bf95",
+      "title": "Agent Toolkit Give AI coding agents up-to-date docs and AWS resource access",
+      "url": "https://aws.amazon.com/products/developer-tools/agent-toolkit-for-aws/?nc2=h_dsc_ex_s5",
+      "publishedAt": null,
+      "crawledAt": "2026-09-18T11:25:24.009Z",
+      "contentStatus": "ready",
+      "contentHash": "6cc59e1c9d4460077c3a9c65de34671653ef49ebf36a027565e3f213397d9cd1",
+      "rawPath": "data/raw/4e82dc4aab29d5a4a5a8a6a65867bf95.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "16400897480d6d1f7ee8cde5d1dff144",
+      "title": "AI for Small Businesses Solutions designed for your business. Delivered by AWS Partners",
+      "url": "https://aws.amazon.com/smart-business/solutions/artificial-intelligence-small-medium-business/?nc2=h_dsc_ex_s4",
+      "publishedAt": null,
+      "crawledAt": "2026-09-18T11:25:23.919Z",
+      "contentStatus": "ready",
+      "contentHash": "b3176d9b71bfd995e45ec1013b1b9dfacb656b1616d1a197af84c60ebecb930f",
+      "rawPath": "data/raw/16400897480d6d1f7ee8cde5d1dff144.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "e0c637e8e449ea3a7b3dce1612286c88",
+      "title": "Education",
+      "url": "https://www.acs.org/education.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-18T11:25:23.542Z",
+      "contentStatus": "ready",
+      "contentHash": "7d2181ca6c68573bfdb8fa38ceea31d40a8d03a7445402f7591a0f69a48e88f2",
+      "rawPath": "data/raw/e0c637e8e449ea3a7b3dce1612286c88.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "efbd64ea0fdf69524124c2f094aa9dd3",
       "title": "Adoption Stories",
@@ -414,6 +612,17 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "d22acfa5d0cc1d093c4a65f65bd5a5e3",
+      "title": "How Cooley is accelerating IPO work with ChatGPT",
+      "url": "https://openai.com/index/cooley-gopublic",
+      "publishedAt": "2026-09-17T12:00:00.000Z",
+      "crawledAt": "2026-09-18T11:25:25.435Z",
+      "contentStatus": "ready",
+      "contentHash": "4cc8c1bf009a00087f63be430507fb1bb20ea0c50c2a0f0e5c4786cdb7861402",
+      "rawPath": "data/raw/d22acfa5d0cc1d093c4a65f65bd5a5e3.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "2951527db1490d93a3a378b5b440eb0c",
       "title": "See All Tech Blogs",
       "url": "https://blogs.nvidia.com/",
@@ -623,6 +832,17 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "192794312f979cbd50ee7eab3653eaf2",
+      "title": "Introducing Astra for Law",
+      "url": "https://openai.com/index/astra-for-law",
+      "publishedAt": "2026-09-17T00:00:00.000Z",
+      "crawledAt": "2026-09-18T11:25:25.435Z",
+      "contentStatus": "ready",
+      "contentHash": "c597f9098b7c0c0a6f51a3f3baa6bbe46a9766ebbfe2882e5281f0e9869dd7b3",
+      "rawPath": "data/raw/192794312f979cbd50ee7eab3653eaf2.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "0a3db91dfe46892efdc1e9d72e6846e2",
       "title": "News 09.16.2026",
       "url": "https://www.broadinstitute.org/news/software-rapidly-tracks-viral-variants-high-accuracy",
@@ -818,6 +1038,17 @@
       "contentStatus": "ready",
       "contentHash": "620b2447f62c6846d43fb6e7bf2d86cf626f6ef315b21a58404918552c852799",
       "rawPath": "data/raw/9bffdb73711a00d2c70fdddbea4ed41d.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "ebdfd9dab5b4cd945df02812a7f6b830",
+      "title": "Cleveland Clinic, RIKEN, IBM named Gordon Bell finalists",
+      "url": "https://research.ibm.com/blog/gordon-bell-finalists-2026",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T07:35:36.536Z",
+      "contentStatus": "ready",
+      "contentHash": "f21c3fc79113ebaa4a3eaa6631f39c326756ec1ff7445b61f48bdf8a5ffd73cc",
+      "rawPath": "data/raw/ebdfd9dab5b4cd945df02812a7f6b830.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -2449,6 +2680,17 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "968c32634dc2a1cb83f007064d0bd309",
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "publishedAt": "2026-09-14T00:00:00.000Z",
+      "crawledAt": "2026-09-18T11:25:25.435Z",
+      "contentStatus": "ready",
+      "contentHash": "a42228caaad189441381fde895f360b0c95de403d0b41a47a65dec38ef4a855c",
+      "rawPath": "data/raw/968c32634dc2a1cb83f007064d0bd309.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "60f024e81c4b7c8ade84a13679bc2841",
       "title": "NIST-Developed Quantum Sensors Improve Nuclear Monitoring",
       "url": "https://www.nist.gov/news-events/news/2026/09/nist-developed-quantum-sensors-improve-nuclear-monitoring",
@@ -2482,6 +2724,17 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "efd2a3b863254b7111a67b83a3c0a2db",
+      "title": "What employers are looking for in the age of AI — and four ways to provide it",
+      "url": "https://jclinic.mit.edu/what-employers-are-looking-for-in-the-age-of-ai-and-four-ways-to-provide-it/",
+      "publishedAt": "2026-08-28T19:55:00.000Z",
+      "crawledAt": "2026-09-18T11:25:25.668Z",
+      "contentStatus": "ready",
+      "contentHash": "2fec64e8273b0fcb3c7f756d81a7329e046f359fdce0dcc49f5b339dbc59ad53",
+      "rawPath": "data/raw/efd2a3b863254b7111a67b83a3c0a2db.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "59709eccd0e7b2d944834ed2e44750d7",
       "title": "晶泰资讯 晶泰科技4家孵化企业荣获HICOOL 2026全球创业大奖，AI4S底层平台持续驱动源头创新",
       "url": "https://www.xtalpi.com/%e6%99%b6%e6%b3%b0%e7%a7%91%e6%8a%804%e5%ae%b6%e5%ad%b5%e5%8c%96%e4%bc%81%e4%b8%9a%e8%8d%a3%e8%8e%b7hicool-2026%e5%85%a8%e7%90%83%e5%88%9b%e4%b8%9a%e5%a4%a7%e5%a5%96%ef%bc%8cai4s%e5%ba%95%e5%b1%82/",
@@ -2512,6 +2765,28 @@
       "contentStatus": "ready",
       "contentHash": "f6f1fa37fa77f9fcc2c46e7b912a3ca7b92d3d966de3b335899ad1c74542d298",
       "rawPath": "data/raw/76907c6af28b11b37cf853028a524460.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "66579a90dae6541952443a65a250f93d",
+      "title": "Dina Katabi Named to Forbes 50 Over 50 Innovation List",
+      "url": "https://jclinic.mit.edu/dina-katabi-named-to-forbes-50-over-50-innovation-list/",
+      "publishedAt": "2026-08-17T16:29:23.000Z",
+      "crawledAt": "2026-09-18T11:25:26.031Z",
+      "contentStatus": "ready",
+      "contentHash": "c4c489e8c317d26eaf8264ebbb2eac8f8698e8365abb238645684d023cc7f019",
+      "rawPath": "data/raw/66579a90dae6541952443a65a250f93d.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "942f09bcd0e97598c133296d098dbd95",
+      "title": "Introducing high school students to the future of AI in health",
+      "url": "https://jclinic.mit.edu/showing-high-school-students-how-to-face-the-future/",
+      "publishedAt": "2026-08-14T18:14:28.000Z",
+      "crawledAt": "2026-09-18T11:25:26.031Z",
+      "contentStatus": "ready",
+      "contentHash": "34c2facd100b42893981ed4d73675adc0a5b5ba6c91c8af3a36d7e71fefaf49e",
+      "rawPath": "data/raw/942f09bcd0e97598c133296d098dbd95.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -2625,6 +2900,28 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "f9565b40d647339848a1582a32c43bba",
+      "title": "Endpoints News: Basecamp debuts an ambitious plan to sequence a trillion genes",
+      "url": "https://basecamp-research.com/endpoints-news-basecamp-debuts-an-ambitious-plan-to-sequence-a-trillion-genes/",
+      "publishedAt": "2026-06-08T17:18:08.000Z",
+      "crawledAt": "2026-09-17T02:32:49.289Z",
+      "contentStatus": "ready",
+      "contentHash": "1bd27393d31dc3eb336f7999487554fd55dd237beccfa391ede99ee660dcd098",
+      "rawPath": "data/raw/f9565b40d647339848a1582a32c43bba.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "3bd91597edc44646f346abe3c697619a",
+      "title": "GEN: Trillion Gene Atlas Expands Evolutionary Datasets for Next-Generation AI Therapeutics",
+      "url": "https://basecamp-research.com/gen-trillion-gene-atlas-expands-evolutionary-datasets-for-next-generation-ai-therapeutics/",
+      "publishedAt": "2026-06-08T14:58:56.000Z",
+      "crawledAt": "2026-09-17T02:32:49.291Z",
+      "contentStatus": "ready",
+      "contentHash": "3e427cd68e5149cf9539966231f7e3860c3b7d3a12d1bba18bd217fd3441317c",
+      "rawPath": "data/raw/3bd91597edc44646f346abe3c697619a.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "4c0674ba1a70ac7299ce2b079d4d055e",
       "title": "Lab of the Future USA 2026 Closing Keynote",
       "url": "https://www.lab-of-the-future.com/2026/04/20/lab-of-the-future-usa-2026-closing-keynote/",
@@ -2669,6 +2966,39 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "21eb2f8a2f9f772d036f940b74eeb8cf",
+      "title": "Autonomous Science",
+      "url": "https://www.ornl.gov/autonomousscience",
+      "publishedAt": "2026-03-25T22:44:37.000Z",
+      "crawledAt": "2026-09-18T11:25:25.547Z",
+      "contentStatus": "ready",
+      "contentHash": "8bd34018192f02386b58ebcfe3dd046ca13c58529e4b90d9b3701f9eff322fe4",
+      "rawPath": "data/raw/21eb2f8a2f9f772d036f940b74eeb8cf.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "14651439990db3a66b212684712250bc",
+      "title": "ORNL Fusion Energy Week 2026",
+      "url": "https://www.ornl.gov/node/110972",
+      "publishedAt": "2026-03-24T21:27:35.000Z",
+      "crawledAt": "2026-09-18T11:25:25.547Z",
+      "contentStatus": "ready",
+      "contentHash": "91f851c5c27f906166f94a16b7df38aff39d275835fc79236344cb33d98fdbeb",
+      "rawPath": "data/raw/14651439990db3a66b212684712250bc.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "8cc869bc93a1c63546d85b64797562ee",
+      "title": "National Security",
+      "url": "https://www.ornl.gov/nationalsecurity",
+      "publishedAt": "2026-03-11T15:50:11.000Z",
+      "crawledAt": "2026-09-18T11:25:25.547Z",
+      "contentStatus": "ready",
+      "contentHash": "d15f06f55c7a6bc93d060843e686dd7630981bd6c104f6cd63b9a8383c0f7a76",
+      "rawPath": "data/raw/8cc869bc93a1c63546d85b64797562ee.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "7ffc82fb5bc45616f06f0a201abe2c23",
       "title": "Zeon invests in Chemify to cut compound synthesis time using AI and robotics February 12, 2026 European Biotechnology",
       "url": "https://european-biotechnology.com/latest-news/zeon-invests-in-chemify-to-cut-compound-synthesis-time-using-ai-and-robotics/",
@@ -2710,6 +3040,17 @@
       "contentStatus": "ready",
       "contentHash": "331d31fca1f80bacd0e8529b4ab653d85b10659d83c4cda7840dac124f53eaa7",
       "rawPath": "data/raw/87b051179039c90a67783d2881653361.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "75887176036a5479f3c7b7aa30cc9ace",
+      "title": "The Financial Times: Nvidia and Microsoft back AI breakthrough for gene therapies",
+      "url": "https://basecamp-research.com/ft-nvidia-and-microsoft-back-ai-breakthrough-for-gene-therapies/",
+      "publishedAt": "2026-01-12T17:26:17.000Z",
+      "crawledAt": "2026-09-18T11:25:33.105Z",
+      "contentStatus": "ready",
+      "contentHash": "31448dc2e72c19c833e36e27d6f834edaf8f3754c8757eceae574c64b334e8a3",
+      "rawPath": "data/raw/75887176036a5479f3c7b7aa30cc9ace.json",
       "lastAnalysisStatus": "pending"
     },
     {

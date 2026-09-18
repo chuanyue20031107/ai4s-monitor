@@ -1,26 +1,13 @@
 {
   "stats": {
-    "runId": "source-command:f9eeb526-fd3d-4598-9c3b-e34388a782b1",
+    "runId": "af174efd-09f1-4559-b66c-ac3cb46cf6a1",
     "status": "failed",
     "running": false,
     "total": 184,
     "ok": 97,
     "noContent": 37,
-    "failed": 50,
-    "failureByType": [
-      {
-        "type": "network_error",
-        "count": 47
-      },
-      {
-        "type": "timeout",
-        "count": 2
-      },
-      {
-        "type": "invalid_url",
-        "count": 1
-      }
-    ],
-    "lastCheckAt": "2026-09-18T07:09:40.976Z"
+    "failed": 49,
+    "failureByType": [],
+    "lastCheckAt": "2026-09-18T11:27:54.155Z"
   }
 }

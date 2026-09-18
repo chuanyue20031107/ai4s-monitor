@@ -1,0 +1,18 @@
+{
+  "id": "192794312f979cbd50ee7eab3653eaf2",
+  "title": "Introducing Astra for Law",
+  "url": "https://openai.com/index/astra-for-law",
+  "sourceKey": "s01-14",
+  "sourceName": "OpenAI",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": "2026-09-17T00:00:00.000Z",
+  "crawledAt": "2026-09-18T11:25:25.435Z",
+  "content": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-18T11:25:25.435Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "c597f9098b7c0c0a6f51a3f3baa6bbe46a9766ebbfe2882e5281f0e9869dd7b3"
+}
