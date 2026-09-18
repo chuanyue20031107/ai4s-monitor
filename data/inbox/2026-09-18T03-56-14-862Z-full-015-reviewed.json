@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "generator": "chatgpt-task",
+  "createdAt": "2026-09-18T03:56:14.862Z",
+  "analyses": [
+    {
+      "articleId": "7dd8c91c183cf877bd2e943c3f85ed80",
+      "contentHash": "77e6188f52c0079d43744d237643ceeba9586a5469de82d09ee11f8e0e5fb5fa",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T03:56:14.862Z",
+      "failureReason": "正文为制药生产数字化架构和ROI方法演讲，未提供AI科学发现方法或具体实验结果；不把PLC生产控制等同于AI4S成果。"
+    },
+    {
+      "articleId": "febaf6ce103333992e9a51b251159b99",
+      "contentHash": "112e5c1507abc19cc1869073bd5a746f697f055d9a912e4cd1e66bb47fe7299c",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T03:56:14.862Z",
+      "failureReason": "中子科学设施概览虽提及AI/ML领域，但没有具体模型、数据集或AI辅助实验结果；正文保留大量HTML且末尾截断。"
+    },
+    {
+      "articleId": "a8e2c84e87be0efebe57660256f313f3",
+      "contentHash": "c793239aa1e3d8a416f49d0f5b278b866b3959219be75e01b0736e25569a9d52",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T03:56:14.862Z",
+      "failureReason": "制药展门票与议题宣传，没有具体AI4S技术方法、实验数据或研究成果。"
+    },
+    {
+      "articleId": "6c1e28e6ae144645a2d6893e6cdf3097",
+      "contentHash": "efc49d2dc374a8021dd07d7aab3add28df9a6cdb869688dc3dd55357a7b328f9",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T03:56:14.862Z",
+      "failureReason": "会议预告和嘉宾履历为主，AI制药只是议题标签，未提供对应研究方法或结果。"
+    },
+    {
+      "articleId": "ffa96f23947793b09287743ce255f116",
+      "contentHash": "86abcc3746fd1d7f1209f7663232a34292e76463125b6fd0f27f6171202947b9",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T03:56:14.862Z",
+      "failureReason": "参展与获奖报道虽列AI相关论坛主题，但没有相关演讲的研究细节或实验验证，不能把会务宣传当作AI4S成果。"
+    }
+  ]
+}
