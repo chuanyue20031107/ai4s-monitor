@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "generator": "chatgpt-task",
+  "createdAt": "2026-09-18T03:48:12.422Z",
+  "analyses": [
+    {
+      "articleId": "287b43296ed988c826b3e58271622935",
+      "contentHash": "c1068d5b2e834509d90029a3cbe62063a95168edc342c5706abec5eb4add7f1a",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-18T03:48:12.422Z",
+      "category": "模型",
+      "summary": "微软报告Skala 1.1以此前2.5倍数据训练，在GMTKN55上加权平均误差为2.8 kcal/mol，55类中32类排名第一，并称维持meta-GGA级计算成本。该深度学习交换关联泛函已接入CP2K，其他列出的电子结构软件仍处集成过程。分析判断：把参考量子化学数据转成可嵌入现有计算软件的泛函，有助于提升热化学和动力学计算的实用性；基准领先不能保证新元素、材料或极端条件下同样准确。",
+      "score": 3,
+      "importanceReason": "提供标准化学基准误差及软件接入阶段，具备明确方法性能与使用路径。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "模型",
+        "数据"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/",
+          "quote": "a weighted average error of 2.8 kcal/mol on GMTKN55"
+        }
+      ],
+      "limitations": "来源为研发机构自述且raw末尾截断；未见训练测试重叠审计、完整硬件耗时或应用外推误差。",
+      "failureReason": ""
+    },
+    {
+      "articleId": "1a7704a62ecc3f65b10f9dd0c4cbf99c",
+      "contentHash": "5eb21827d71976bacb47d9c338af981f9b09e263e3dec824a264c82c25e2165b",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-18T03:48:12.422Z",
+      "category": "数据",
+      "summary": "微软介绍MindTopo拓扑推理评测，将连续性、分离、顺序、包围和结作为五类任务，每类分别测试静态判断与交互规划。受控模拟器提供真实标签、难度调节和合法动作约束，避免绳索穿越等不物理解法。来源观察到模型在静态任务更强，规划时容易丢失多步结构关系。分析判断：这种设计有助于区分感知失败与动作序列中的状态追踪失败，对实验机器人规划有参考价值，但本文未直接验证真实实验室任务。",
+      "score": 3,
+      "importanceReason": "提供拓扑能力的分层评测与受物理约束的交互任务，能揭示静态视觉基准遗漏的失败模式。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "数据",
+        "模型"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/",
+          "quote": "All scenes are generated from controlled simulators, which provide exact ground truth and adjustable difficulty."
+        }
+      ],
+      "limitations": "raw截断且缺少完整模型清单、分数及统计区间；模拟环境表现不能直接推导现实机器人安全性。",
+      "failureReason": ""
+    },
+    {
+      "articleId": "1f69ff89154c735500c25860eeea12df",
+      "contentHash": "cd84c5dd1888f78fd6a5f0147fe50f6df18892fa794bc111d2ced6ca082532bb",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-18T03:48:12.422Z",
+      "category": "自动化实验室",
+      "summary": "汉邦科技介绍小核酸合成、层析与超滤的一体化设备体系，覆盖实验室到工业生产。正文给出Oligo Lab 100合成英克司兰的厂商案例：两条链粗品纯度86.2%和84.4%，平均偶联效率99%，并用UV和电导监测反应步骤。分析判断：明确的过程监测与自动控制可支撑核酸实验自动化，但属于预设工艺执行，文章没有证明AI自主优化或跨设备闭环学习。",
+      "score": 2,
+      "importanceReason": "具备具体合成案例、质量指标和自动监测步骤，是科学实验执行基础设施信息。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "实验自动化"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.hanbon.com.cn/%e8%a3%85%e5%a4%87%e5%b7%a5%e8%89%ba%e5%8f%8c%e8%bd%ae%e9%a9%b1%e5%8a%a8%ef%bc%8c%e6%b1%89%e9%82%a6%e7%a7%91%e6%8a%80%e6%89%93%e9%80%9a%e5%b0%8f%e6%a0%b8%e9%85%b8%e4%bb%8e%e5%ae%9e%e9%aa%8c%e5%ae%a4/",
+          "quote": "单体平均偶联效率可达99%"
+        }
+      ],
+      "limitations": "厂商自述未说明序列长度、重复批次、最终纯化收率及放大误差；不将GMP和法规符合宣称视为独立认证。",
+      "failureReason": ""
+    },
+    {
+      "articleId": "5abf100342f9d151ecc359db549765f8",
+      "contentHash": "278acb48757c90b38c4b31ff64b9f7aa6af2541a78fc032b2b6d60b482abd86a",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T03:48:12.422Z",
+      "failureReason": "正文为非标制药设备质量控制和验证规范宣介，没有AI科学方法或具体自主实验成果，作为一般工程合规资料排除。"
+    }
+  ]
+}
