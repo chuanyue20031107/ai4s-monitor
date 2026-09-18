@@ -1,0 +1,232 @@
+{
+  "schemaVersion": 1,
+  "generator": "chatgpt-task",
+  "createdAt": "2026-09-18T01:25:13.592Z",
+  "analyses": [
+    {
+      "articleId": "7386137a5ec3c74309d4900f3c775fb0",
+      "contentHash": "f923c7fe699ba115e958c0cf1920df27dc2ac8fd1b55813cc5ce070f78c3ed08",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-18T01:25:13.592Z",
+      "failureReason": "",
+      "category": "AI4S 应用",
+      "summary": "一篇bioRxiv预印本摘要报告了针对恶性胸膜间皮瘤靶点PRDX5的机器学习辅助发现流程。研究先用多模态患者图谱识别PRDX5在上皮样亚型中上调，再预测三个潜在变构口袋，对360万种化合物虚拟筛选，并对452个候选开展高通量生化验证，获得36个非共价命中物，其中包括亚微摩尔抑制剂。分析判断：从患者数据、计算筛选到生化验证形成了可追溯链条，但命中物仍处早期阶段，离动物与临床疗效很远。",
+      "score": 4,
+      "importanceReason": "给出靶点、筛选规模和湿实验命中数，展示AI筛选与生化验证衔接的具体成果。",
+      "contentType": "paper_result",
+      "moatTags": [
+        "数据",
+        "模型",
+        "药物设计",
+        "实验自动化"
+      ],
+      "limitations": "依据预印本摘要，尚未核对全文、选择性、细胞活性、药代和体内验证；不能据此称为治疗方案。",
+      "evidence": [
+        {
+          "url": "https://www.owkin.com/publications/identification-of-non-covalent-inhibitors-for-the-atypical-peroxiredoxin-prdx5-as-a-therapeutic-strategy-in-malignant-pleural-mesothelioma",
+          "quote": "conducted a virtual screen of 3.6 million compounds"
+        },
+        {
+          "url": "https://www.owkin.com/publications/identification-of-non-covalent-inhibitors-for-the-atypical-peroxiredoxin-prdx5-as-a-therapeutic-strategy-in-malignant-pleural-mesothelioma",
+          "quote": "High-throughput biochemical validation of 452 candidates yielded 36 non-covalent hits, including sub-micromolar inhibitors."
+        }
+      ]
+    },
+    {
+      "articleId": "70957dc001d4a2c515c4a0db73cd68e2",
+      "contentHash": "c4af41fbf7b7065a6a9f2cf6e7beafa11040324aaed25ca1db41f94333908db5",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-18T01:25:13.592Z",
+      "failureReason": "",
+      "category": "产业与商业",
+      "summary": "Owkin新闻资料页把K Pro描述为面向制药研究团队的AI科学家，可编排多种AI技能和工具，分析多模态患者数据并辅助靶点、标志物和研发决策。公司称其长期目标是把患者数据连接到经验证分子，并通过临床试验与诊断合作伙伴检验部分预测。分析判断：页面明确了产品定位、数据基础和人类科学家参与方式，但它是公司媒体资料，没有给出K Pro的任务成功率、实验周期或独立比较。",
+      "score": 1,
+      "importanceReason": "提供AI科学家产品的范围与数据基础，缺乏可核验性能和具体交付结果。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "数据",
+        "模型"
+      ],
+      "limitations": "公司新闻资料和FAQ自述；资金、认证与合作网络不等于模型科学有效性，页面也未给出基准或实验复现。",
+      "evidence": [
+        {
+          "url": "https://www.owkin.com/press-kit",
+          "quote": "K Pro autonomously orchestrates a suite of AI skills and tools to decode complex biology and accelerate research"
+        },
+        {
+          "url": "https://www.owkin.com/press-kit",
+          "quote": "with scientists shaping every hypothesis, decision, and discovery."
+        }
+      ]
+    },
+    {
+      "articleId": "1e082e0118142c14d2670cc89ed806d6",
+      "contentHash": "d4e8050aeeb8f31e797b8d3b56aadfe5dcb836282aac251acf1e8917cccc0bac",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T01:25:13.592Z",
+      "failureReason": "EMBL公众科学节活动和互动展项说明，不是AI4S研究进展。"
+    },
+    {
+      "articleId": "757309a96ad7739cf06b3e82bba43b21",
+      "contentHash": "4f92aab5dbfbe735bde8f0e36a0186e9ae1bef0e19d420e182bb23544b60fa2f",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-18T01:25:13.592Z",
+      "failureReason": "",
+      "category": "AI4S 应用",
+      "summary": "Cradle案例称其为三项后期治疗性多肽项目各生成96个候选，在效力、特异性、表达和热稳定性四项约束下，每个库至少50%的候选同时达标，并在一轮内得到多个进入下游验证的序列。合作方估计传统流程约需五轮。分析判断：多属性约束下的湿实验命中率是有价值的蛋白工程信号，但企业未披露合作方、阈值、原始测量和对照，因此“5倍加速”仍是合作方估计，不能视为独立证明。",
+      "score": 3,
+      "importanceReason": "披露候选数量、多属性约束和命中比例，且结果来自实验筛选，但验证资料不公开。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "模型",
+        "药物设计",
+        "实验自动化",
+        "商业合作"
+      ],
+      "limitations": "匿名企业案例，未公开序列、属性阈值、实验协议、失败样本和基线；时间加速为合作方估计。",
+      "evidence": [
+        {
+          "url": "https://www.cradle.bio/blog/therapeutic-peptides",
+          "quote": "generating 96 candidates per program"
+        },
+        {
+          "url": "https://www.cradle.bio/blog/therapeutic-peptides",
+          "quote": "in each 96-candidate library, at least 48 variants met all four property thresholds"
+        }
+      ]
+    },
+    {
+      "articleId": "515b631b45d291064bb8beba269fee58",
+      "contentHash": "17533b7cb79050f03c17ec2c37ebc4720d7ff6594ea5f318a7fd5e3131aa10da",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T01:25:13.592Z",
+      "failureReason": "AI辅助校歌创作获奖信息属于音乐创作应用，与科学发现和实验流程无关。"
+    },
+    {
+      "articleId": "1a3da577ebc22b6d2f149ec341c83e7f",
+      "contentHash": "1eec0ad750066a990128c41a1ab276b59f04b684312084cb0ea89fab3932207c",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T01:25:13.592Z",
+      "failureReason": "水文极端事件访谈虽为科学内容，但可见摘录没有AI模型、数据基础设施或实验自动化进展。"
+    },
+    {
+      "articleId": "27d4e0ed3e5a219657d9881b9760418c",
+      "contentHash": "edf3d24e6dcc436f51c7efad2bf7dc124d40fd13bdb2c2f027dd05f0c12b3042",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T01:25:13.592Z",
+      "failureReason": "EMBL新闻首页只有蛋白结构新闻的一句导语，不足以支持方法和结果分析。"
+    },
+    {
+      "articleId": "aae4dec50ccbea8850f53699e876ab0e",
+      "contentHash": "6879273cff3a171b0559fd6269f6ea1227e67c7630f22502aa81dbed412df78d",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T01:25:13.592Z",
+      "failureReason": "机器学习理论会议举办通知，没有具体AI4S研究结果。"
+    },
+    {
+      "articleId": "1653c9753995bbdfc5011d913b817408",
+      "contentHash": "98e3114706e9b9aa19db66c8b2c76e2f1e9bf214be69ecec4ccef95cfcd1e973",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T01:25:13.592Z",
+      "failureReason": "Helmholtz新闻页仅提供人类基因组学奖项的一句摘要，没有可分析的AI方法或结果。"
+    },
+    {
+      "articleId": "c0be5396a953d3ad1c48edfb2d4cbfdc",
+      "contentHash": "79f26ac09186e2d5fbc9db6bef04ea82ca1cf4d1f9e37a1bf8ad88400182d1e0",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T01:25:13.592Z",
+      "failureReason": "AIST媒体联络与著作物使用说明，不是研究情报。"
+    },
+    {
+      "articleId": "ed5ec4bf9d07d89623f4573fe7220cbf",
+      "contentHash": "18f74401e3495856671b143ae7e3cc877fc8c0c3747d57be8df620029a1a2f90",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T01:25:13.592Z",
+      "failureReason": "AIST品牌故事是机构合作与价值主张，没有具体AI4S技术、研究或数据。"
+    },
+    {
+      "articleId": "54a4c5c218d3342fe8cc63f524b043f7",
+      "contentHash": "3056444fb1e04bfb87a0f5b764c851a728e9a43a43e4e8a31956cfb35ab2ca27",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T01:25:13.592Z",
+      "failureReason": "LLNL 1960年代历史页正文只有年代导航和媒体标识，证据不足且与当前AI4S进展无关。"
+    },
+    {
+      "articleId": "356039b904e6baeedcf6f0e93ab569f0",
+      "contentHash": "8f7ad909b16f526a4640ff09c485e1b4c9f46b22eb114d44424e9cbd15da64a7",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T01:25:13.592Z",
+      "failureReason": "LLNL 1950年代历史页正文只有年代导航和媒体标识，证据不足且与当前AI4S进展无关。"
+    },
+    {
+      "articleId": "edd44f4eecce3b9ac4e86fcabc58b3d4",
+      "contentHash": "bf7b6366a864ee6f074e24cf4f89f4752f559fe046c1c5faa9fef94aea507d1f",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-18T01:25:13.592Z",
+      "failureReason": "",
+      "category": "产业与商业",
+      "summary": "Ai2披露由美国国家科学基金会与NVIDIA合计投入1.52亿美元，建设面向科学发现的开放多模态AI基础设施OMAI，其中NSF与NVIDIA分别投入7500万和7700万美元。项目由Ai2牵头，并联合多所大学和基础设施伙伴，目标是发布可复现、可检查的开放模型、数据、评估与文档。分析判断：这是AI科研基础设施的重要资金和开放生态投入，但文章主要说明建设承诺，尚不能证明未来模型会带来具体科学突破。",
+      "score": 3,
+      "importanceReason": "资金规模、参与机构与开放交付方向具体，可能扩大科研团队获得模型和算力的能力。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "数据",
+        "模型",
+        "商业合作"
+      ],
+      "limitations": "Ai2自述的项目启动信息；未列出算力规模、发布节点、科学任务基准或已实现成果。",
+      "evidence": [
+        {
+          "url": "https://allenai.org/blog/nsf-nvidia",
+          "quote": "Ai2 has been awarded $75 million from the U.S. National Science Foundation (NSF) and $77 million from NVIDIA"
+        },
+        {
+          "url": "https://allenai.org/blog/nsf-nvidia",
+          "quote": "OMAI will build a national level fully open AI ecosystem to drive scientific discovery through AI"
+        }
+      ]
+    },
+    {
+      "articleId": "5a1bac0fe9154c88c342b3c1f6666217",
+      "contentHash": "48778da7b542d266a15e86e4833523141f9d4e0221934c34a62aeb79a40ab950",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T01:25:13.592Z",
+      "failureReason": "Sanger研究所传播部门职责和人员介绍，不是科学研究进展。"
+    },
+    {
+      "articleId": "a5cca33cda5c30dcf94822d45edf511f",
+      "contentHash": "c61d0af91ab275f862eadc6d9965d3825c2d71bf1d3793ecc77eb6b6a6314b54",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T01:25:13.592Z",
+      "failureReason": "Ai2新闻目录混合多篇文章标题与短导语，不能把目录内容当作单篇研究的完整证据。"
+    },
+    {
+      "articleId": "2f6fa7180556078ae99cac84cf31ff02",
+      "contentHash": "e6a980f7fa20887df7414c4553ab9ed7bc76385b35cce7dc2675516f9541d082",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T01:25:13.592Z",
+      "failureReason": "Sanger论文索引页面未加载具体论文条目，只有年份导航，无法支持逐项科学分析。"
+    },
+    {
+      "articleId": "fa6c6679b4f6dbd377c4b7feee0153e6",
+      "contentHash": "3163e97fe711346adc8df53c286ac54413588c8c70fcfbcf08a575cadbad255c",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T01:25:13.592Z",
+      "failureReason": "Ai2论文目录混合机器人、研究构思和通用模型论文的简短条目，不是单篇研究正文，无法严谨归因和分析实验结果。"
+    },
+    {
+      "articleId": "2959ec04d8f358b83c9bed20fd9457bd",
+      "contentHash": "bb06d6ad8496bd50990cd0a33289f1eecf5e6d8ac3ed3cde3b64e11285b3d3f4",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T01:25:13.592Z",
+      "failureReason": "Biohub新闻目录混合多篇AI生物学文章导语，不能将列表页作为其中任一研究的完整证据。"
+    },
+    {
+      "articleId": "aeaebc40520206b3856337d791942bdd",
+      "contentHash": "8ef8eb6a83bd97e6dacb0504b69b3476837ed40760dc953eda83a77cbf3da632",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-18T01:25:13.592Z",
+      "failureReason": "LLNL机构历史概览与AI4S当前研究无关。"
+    }
+  ]
+}
