@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-18T04:22:56.171Z",
-  "pendingCount": 293,
-  "readyCount": 293,
+  "updatedAt": "2026-09-18T04:24:52.231Z",
+  "pendingCount": 278,
+  "readyCount": 278,
   "awaitingContentCount": 0,
   "excludedContentCount": 267,
   "items": [
@@ -865,28 +865,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "19b209c177df553364ec4d13e2ca7b83",
-      "title": "Boost Your Brand",
-      "url": "https://www.slas.org/events/boost-your-brand/",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T07:35:35.658Z",
-      "contentStatus": "ready",
-      "contentHash": "4a2b62660f74a0f230ce8087fddd6ccd5f2ff6773b4cb497141848d94d6281bc",
-      "rawPath": "data/raw/19b209c177df553364ec4d13e2ca7b83.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "19cc81b789f41c20af625a7ad52430b0",
-      "title": "News Center",
-      "url": "https://www.slas.org/news-highlights/news-center/",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T07:35:35.658Z",
-      "contentStatus": "ready",
-      "contentHash": "4920b54ec03227ef0abda2027102838253a1168a5ef493b0a07068cb454f3a9d",
-      "rawPath": "data/raw/19cc81b789f41c20af625a7ad52430b0.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "2413a5e9e950a5fc5f63eaac1058c049",
       "title": "SLAS Technology",
       "url": "https://www.slas.org/publications/slas-technology/",
@@ -1173,17 +1151,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "15ab30b53b78c56be73f7084e13dbd69",
-      "title": "2026年上海国际分析化学研讨会",
-      "url": "https://www.analyticachina.com.cn/cn/analytica-china-2026/Supporting-program/CCS2026",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T07:35:33.582Z",
-      "contentStatus": "ready",
-      "contentHash": "9b045a359e71b652cf7dc30691737af1d4bf71f05068bbb777267e5ec54fab16",
-      "rawPath": "data/raw/15ab30b53b78c56be73f7084e13dbd69.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "22c56d19ed6da6e99a724e646aac58c2",
       "title": "样品前处理及实验室通用设备展区",
       "url": "https://www.analyticachina.com.cn/cn/Discover-analytica-China/Press-Release/Exhibition-News/detail/Sample-treatment",
@@ -1272,28 +1239,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "1bd1e0282854205230322776b41525f0",
-      "title": "• 习近平会见印度总理莫迪 2026-09-12",
-      "url": "https://www.caai.cn/site/content/11338.html",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T07:35:30.573Z",
-      "contentStatus": "ready",
-      "contentHash": "f8dd2d8779206725d5f3aba8ecf1df2e19541048b954267953a36dfa2d0bb891",
-      "rawPath": "data/raw/1bd1e0282854205230322776b41525f0.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "1ccd1b4098a48844c7fc2fc2d1aa8017",
-      "title": "CAAl AI Research",
-      "url": "https://www.caai.cn/site/term/206.html",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T07:35:30.573Z",
-      "contentStatus": "ready",
-      "contentHash": "e865b43d2220c6fae798b66593785a4444070382c3b610622fc446f3280bf5e5",
-      "rawPath": "data/raw/1ccd1b4098a48844c7fc2fc2d1aa8017.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "2370cc3d69b6b8bd29762980f79cbcd5",
       "title": "05-23 2026 中国人工智能学会关于征集2027人工智能领域前沿科学问题、工程技术难题和产业技术问题的通知",
       "url": "https://www.caai.cn/site/content/7849.html",
@@ -1371,17 +1316,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "14ce04a3cf8616479f75d8e5c6f0b22b",
-      "title": "长春应化所支撑全球首套5万吨级二氧化碳基聚碳酸亚丙酯产业化装置投产",
-      "url": "https://www.cas.cn/cg/zh/202606/t20260605_5111848.shtml",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T07:35:27.533Z",
-      "contentStatus": "ready",
-      "contentHash": "0e7af77a7179139d69d33ea827bbd2e06d680b51180a3d9d61d2901a6262f208",
-      "rawPath": "data/raw/14ce04a3cf8616479f75d8e5c6f0b22b.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "4c21d9408424dd30bc728727049e8dca",
       "title": "青海盐湖所等承办第27届中国·青海绿色发展投资贸易洽谈会世界盐湖产业合作大会",
       "url": "https://www.cas.cn/cg/zh/202607/t20260724_5116306.shtml",
@@ -1423,17 +1357,6 @@
       "contentStatus": "ready",
       "contentHash": "5e5ad360b5265aa60c44930cf949086462df89e5c1d88c1f5f16e65e684b3768",
       "rawPath": "data/raw/bf85519d4934e785db00d40aafa6c785.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "1d0bc1625f3cca10d6943f72270b99e7",
-      "title": "全球首套连续塔式萃取分离特色锂矿石伴生铷铯资源示范线全面达产",
-      "url": "https://www.cas.cn/cg/zh/202609/t20260911_5120164.shtml",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T07:35:27.532Z",
-      "contentStatus": "ready",
-      "contentHash": "b118ca5cd8ab868d34dbf9b22f24f62c89707214e8f60ab2f1b4b3f42e7f0f73",
-      "rawPath": "data/raw/1d0bc1625f3cca10d6943f72270b99e7.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -1677,28 +1600,6 @@
       "contentHash": "83556c33b82b8f996527c5334c5c304cc158d5126ec45b91ef1464993142c1bb",
       "rawPath": "data/raw/9be95790fd93a79b6dc141ff577794f1.json",
       "lastAnalysisStatus": "failed"
-    },
-    {
-      "id": "1624806efd4aedebd0ceadd9d2e6f97a",
-      "title": "所党委举办第二十八期科学家精神报告会暨攻坚精神...",
-      "url": "https://www.dicp.ac.cn/xwdt/zhxws/202609/t20260915_8283363.html",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:57:41.220Z",
-      "contentStatus": "ready",
-      "contentHash": "a954137b5158ca6c20aac4ef90dd6cf97cbec1019737fb0e4aad5758b25b7542",
-      "rawPath": "data/raw/1624806efd4aedebd0ceadd9d2e6f97a.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "1a8b450d1ef0584d1332aff32d43a2ea",
-      "title": "我所定量揭示单体不一致性对电动汽车电池包性能和资源利用的制约",
-      "url": "https://www.dicp.ac.cn/xwdt/ttxw/202608/t20260826_8265372.html",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:57:41.220Z",
-      "contentStatus": "ready",
-      "contentHash": "a617d5b7f1d8df881202a9b8bc6d70dde6d9620f3f141f15eba71a34c8da1a47",
-      "rawPath": "data/raw/1a8b450d1ef0584d1332aff32d43a2ea.json",
-      "lastAnalysisStatus": "pending"
     },
     {
       "id": "98d3b12b73f5dbfb158697c4c1bb0a7d",
@@ -2141,28 +2042,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "1377828fa43a4108fbcc89dcbdbe20fb",
-      "title": "喜讯！「创材深造 Deep Material」获“2026人工智能先锋奖”！ 7月30日，CFS2026第十五届财经峰会揭晓年度奖项，创材深造（Deep Material）凭借颠覆性技术创新与产业化成果，斩获“2026人工智能先锋奖”，成为AI for Science领域唯一获此殊荣的企业。作为国内首家专注高端金属材料的通用人工智能企业，创材深造以“AI+高通量”颠覆性范式， 2026.08.02",
-      "url": "https://www.deep-material.com/qiyexinwen/89",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:05:24.864Z",
-      "contentStatus": "ready",
-      "contentHash": "b66a9a1ece700726550df366212643493bb89fa339a4755dd96efe5d470e1c88",
-      "rawPath": "data/raw/1377828fa43a4108fbcc89dcbdbe20fb.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "13868ba3abaeefadbdd691b0eff469fe",
-      "title": "WAIC先锋青年说｜创材深造王轩泽：物理AI驱动的闭环进化，重塑AI for Science的新范式 2026世界人工智能大会（WAIC）期间，由机器之心主办「先锋青年说」在上海举行。这次会议汇聚了国际AI顶会Best Paper作者、估值超数亿美金的新生代创始人、海内外顶尖高校学者及一线科技大厂核心技术负责人，围绕Self-Improve Agent、世界模型、多模态、AI4S等当下最前沿、最具争 2026.07.24",
-      "url": "https://www.deep-material.com/qiyexinwen/88",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:05:24.864Z",
-      "contentStatus": "ready",
-      "contentHash": "f39dc59a5e9782026275bdbf232a3eb99178de5db476792ca5edf5c54322cde8",
-      "rawPath": "data/raw/13868ba3abaeefadbdd691b0eff469fe.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "99691edace27796060fd063b5a9a8076",
       "title": "创材深造董事长王轩泽一行到访天府金江实验室 7月2日，创材深造董事长兼总经理王轩泽一行到访天府金江实验室开展合作交流。四川资源集团副总经理、四川钒钛党委书记谢洋波，集团科技创新部部长、天府金江实验室常务副主任胡传胜以及双方核心负责人共同参与交流。天府金江实验室由攀枝花市人民政府与四川省自然资源投资集团共同组建，是天府实验室体系的新建布局，聚焦 2026.07.07",
       "url": "https://www.deep-material.com/qiyexinwen/83",
@@ -2479,17 +2358,6 @@
       "contentStatus": "ready",
       "contentHash": "fb49b514f1dc71e287c137acb095201582d1de6ca5594ba828cc1e1a273632f8",
       "rawPath": "data/raw/6a4bd67d77d17f7c947c3b0113e030df.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "1e5b3eefb062c6f95060a9dbc71d6b19",
-      "title": "We are a team of academic scientists, AI researchers, and more. Meet the Team",
-      "url": "https://www.futurehouse.org/team",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:05:19.109Z",
-      "contentStatus": "ready",
-      "contentHash": "76cad24ef048e41ac7d7fe7c2688870cf69d868e968f00b9c0f5000b3bf0c04f",
-      "rawPath": "data/raw/1e5b3eefb062c6f95060a9dbc71d6b19.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -2966,17 +2834,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "168259b200fd1da6c9d41fba5f53c55e",
-      "title": "DeepSeek V4",
-      "url": "https://www.deepseek.com/news/v4-preview/",
-      "publishedAt": "2026-04-24T00:00:00.000Z",
-      "crawledAt": "2026-09-16T06:05:19.446Z",
-      "contentStatus": "ready",
-      "contentHash": "ed5d95c037a55e10c3ffddca3d2548069aab424596ca9c516a21737a5a56e400",
-      "rawPath": "data/raw/168259b200fd1da6c9d41fba5f53c55e.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "4c0674ba1a70ac7299ce2b079d4d055e",
       "title": "Lab of the Future USA 2026 Closing Keynote",
       "url": "https://www.lab-of-the-future.com/2026/04/20/lab-of-the-future-usa-2026-closing-keynote/",
@@ -3142,17 +2999,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "16a339fe911038b785319debb66da06d",
-      "title": "Eric and Wendy Schmidt Center The EWSC is catalyzing a new field of interdisciplinary research at the intersection of data science and life science, aimed at improving human health.",
-      "url": "https://www.broadinstitute.org/ewsc",
-      "publishedAt": "2021-03-01T19:53:31.000Z",
-      "crawledAt": "2026-09-16T05:12:08.435Z",
-      "contentStatus": "ready",
-      "contentHash": "30021d794ff6bc76ae14e73c7c2abe080c7f659c98ea294ea9b5ac40334f7127",
-      "rawPath": "data/raw/16a339fe911038b785319debb66da06d.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "c7452e96083799c13e14fb66798ab27f",
       "title": "Sign up for our newsletter Receive regular updates on Broad news, research and community.",
       "url": "https://www.broadinstitute.org/newsletter-signup",
@@ -3172,17 +3018,6 @@
       "contentStatus": "ready",
       "contentHash": "df9c8bc8d59f11429e483532c8cbcfcf7d92057e43064247779bc9e6c5979179",
       "rawPath": "data/raw/48af4181ac1ee7d02789f4c797d1476a.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "19993a24a1c34f8f1b69030fcca010e7",
-      "title": "Research areas Through programs spanning genetics, biology, artificial intelligence (AI), and therapeutic development, Broad researchers are making discoveries that drive biomedical science forward.",
-      "url": "https://www.broadinstitute.org/research-areas",
-      "publishedAt": "2016-07-21T18:32:02.000Z",
-      "crawledAt": "2026-09-16T05:12:08.435Z",
-      "contentStatus": "ready",
-      "contentHash": "e4a94e0e35fca2457dd1288bdc2ad9a0591324c531430af9c3d21415b8737d30",
-      "rawPath": "data/raw/19993a24a1c34f8f1b69030fcca010e7.json",
       "lastAnalysisStatus": "pending"
     },
     {
