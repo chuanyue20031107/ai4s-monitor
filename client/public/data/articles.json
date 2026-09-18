@@ -987,8 +987,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.hanbon.com.cn/%e6%95%b0%e5%ad%97%e9%a9%b1%e5%8a%a8-%e7%ba%af%e5%8c%96%e8%b5%8b%e8%83%bd%e4%b8%a8%e6%b1%89%e9%82%a6%e7%a7%91%e6%8a%80%e4%ba%ae%e7%9b%b8%e9%a6%96%e5%b1%8a%e5%a4%a7%e5%9b%bd%e6%96%b0%e8%8d%af%e5%85%a8/",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "参展与获奖报道虽列AI相关论坛主题，但没有相关演讲的研究细节或实验验证，不能把会务宣传当作AI4S成果。",
+      "analyzedAt": "2026-09-18T03:56:14.862Z",
+      "batchFile": "data/inbox/2026-09-18T03-56-14-862Z-full-015-reviewed.json"
     },
     {
       "id": "7dd8c91c183cf877bd2e943c3f85ed80",
@@ -1005,8 +1007,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.hanbon.com.cn/%e4%bb%8e%e8%87%aa%e5%8a%a8%e5%8c%96%e5%88%b0%e7%ab%9e%e4%ba%89%e5%8a%9b%ef%bc%9a%e7%94%9f%e7%89%a9%e5%88%b6%e8%8d%af%e7%94%9f%e4%ba%a7%e6%95%b0%e5%ad%97%e5%8c%96%e7%9a%84%e8%90%bd%e5%9c%b0%e8%b7%af/",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "正文为制药生产数字化架构和ROI方法演讲，未提供AI科学发现方法或具体实验结果；不把PLC生产控制等同于AI4S成果。",
+      "analyzedAt": "2026-09-18T03:56:14.862Z",
+      "batchFile": "data/inbox/2026-09-18T03-56-14-862Z-full-015-reviewed.json"
     },
     {
       "id": "92034ac6a822747d73ef475503fb550c",
@@ -1034,17 +1038,28 @@
       "sourceKey": "s04-11",
       "sourceName": "汉邦科技 Hanbon",
       "sourceType": "制药仪器企业",
-      "category": "",
+      "category": "自动化实验室",
       "publishedAt": "2026-08-10T06:56:23.000Z",
       "crawledAt": "2026-09-17T05:00:24.121Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "汉邦科技介绍小核酸合成、层析与超滤的一体化设备体系，覆盖实验室到工业生产。正文给出Oligo Lab 100合成英克司兰的厂商案例：两条链粗品纯度86.2%和84.4%，平均偶联效率99%，并用UV和电导监测反应步骤。分析判断：明确的过程监测与自动控制可支撑核酸实验自动化，但属于预设工艺执行，文章没有证明AI自主优化或跨设备闭环学习。",
+      "score": 2,
+      "importanceReason": "具备具体合成案例、质量指标和自动监测步骤，是科学实验执行基础设施信息。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "实验自动化"
+      ],
       "url": "https://www.hanbon.com.cn/%e8%a3%85%e5%a4%87%e5%b7%a5%e8%89%ba%e5%8f%8c%e8%bd%ae%e9%a9%b1%e5%8a%a8%ef%bc%8c%e6%b1%89%e9%82%a6%e7%a7%91%e6%8a%80%e6%89%93%e9%80%9a%e5%b0%8f%e6%a0%b8%e9%85%b8%e4%bb%8e%e5%ae%9e%e9%aa%8c%e5%ae%a4/",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-18T03:48:12.422Z",
+      "evidence": [
+        {
+          "url": "https://www.hanbon.com.cn/%e8%a3%85%e5%a4%87%e5%b7%a5%e8%89%ba%e5%8f%8c%e8%bd%ae%e9%a9%b1%e5%8a%a8%ef%bc%8c%e6%b1%89%e9%82%a6%e7%a7%91%e6%8a%80%e6%89%93%e9%80%9a%e5%b0%8f%e6%a0%b8%e9%85%b8%e4%bb%8e%e5%ae%9e%e9%aa%8c%e5%ae%a4/",
+          "quote": "单体平均偶联效率可达99%"
+        }
+      ],
+      "limitations": "厂商自述未说明序列长度、重复批次、最终纯化收率及放大误差；不将GMP和法规符合宣称视为独立认证。",
+      "batchFile": "data/inbox/2026-09-18T03-48-12-422Z-full-014-reviewed.json"
     },
     {
       "id": "74f5f45ba60c09b9fe228d2c6f8fedb0",
@@ -2351,8 +2366,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.ornl.gov/neutrons",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "中子科学设施概览虽提及AI/ML领域，但没有具体模型、数据集或AI辅助实验结果；正文保留大量HTML且末尾截断。",
+      "analyzedAt": "2026-09-18T03:56:14.862Z",
+      "batchFile": "data/inbox/2026-09-18T03-56-14-862Z-full-015-reviewed.json"
     },
     {
       "id": "7f82d995c515e5ba429e7e06d184bac3",
@@ -2478,17 +2495,29 @@
       "sourceKey": "s01-02",
       "sourceName": "Microsoft Research AI for Science",
       "sourceType": "科技大厂研究机构",
-      "category": "",
+      "category": "数据",
       "publishedAt": "2026-08-12T16:00:00.000Z",
       "crawledAt": "2026-09-17T02:29:54.394Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "微软介绍MindTopo拓扑推理评测，将连续性、分离、顺序、包围和结作为五类任务，每类分别测试静态判断与交互规划。受控模拟器提供真实标签、难度调节和合法动作约束，避免绳索穿越等不物理解法。来源观察到模型在静态任务更强，规划时容易丢失多步结构关系。分析判断：这种设计有助于区分感知失败与动作序列中的状态追踪失败，对实验机器人规划有参考价值，但本文未直接验证真实实验室任务。",
+      "score": 3,
+      "importanceReason": "提供拓扑能力的分层评测与受物理约束的交互任务，能揭示静态视觉基准遗漏的失败模式。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "数据",
+        "模型"
+      ],
       "url": "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-18T03:48:12.422Z",
+      "evidence": [
+        {
+          "url": "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/",
+          "quote": "All scenes are generated from controlled simulators, which provide exact ground truth and adjustable difficulty."
+        }
+      ],
+      "limitations": "raw截断且缺少完整模型清单、分数及统计区间；模拟环境表现不能直接推导现实机器人安全性。",
+      "batchFile": "data/inbox/2026-09-18T03-48-12-422Z-full-014-reviewed.json"
     },
     {
       "id": "287b43296ed988c826b3e58271622935",
@@ -2496,17 +2525,29 @@
       "sourceKey": "s01-02",
       "sourceName": "Microsoft Research AI for Science",
       "sourceType": "科技大厂研究机构",
-      "category": "",
+      "category": "模型",
       "publishedAt": "2026-08-20T16:00:00.000Z",
       "crawledAt": "2026-09-17T02:29:54.392Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "微软报告Skala 1.1以此前2.5倍数据训练，在GMTKN55上加权平均误差为2.8 kcal/mol，55类中32类排名第一，并称维持meta-GGA级计算成本。该深度学习交换关联泛函已接入CP2K，其他列出的电子结构软件仍处集成过程。分析判断：把参考量子化学数据转成可嵌入现有计算软件的泛函，有助于提升热化学和动力学计算的实用性；基准领先不能保证新元素、材料或极端条件下同样准确。",
+      "score": 3,
+      "importanceReason": "提供标准化学基准误差及软件接入阶段，具备明确方法性能与使用路径。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "模型",
+        "数据"
+      ],
       "url": "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-18T03:48:12.422Z",
+      "evidence": [
+        {
+          "url": "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/",
+          "quote": "a weighted average error of 2.8 kcal/mol on GMTKN55"
+        }
+      ],
+      "limitations": "来源为研发机构自述且raw末尾截断；未见训练测试重叠审计、完整硬件耗时或应用外推误差。",
+      "batchFile": "data/inbox/2026-09-18T03-48-12-422Z-full-014-reviewed.json"
     },
     {
       "id": "b1b4ad0d4a36bbd2e7dc0477a37dc822",
@@ -3794,8 +3835,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.cphi-china.cn/industrynews/mseindustrynews/97080/",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "会议预告和嘉宾履历为主，AI制药只是议题标签，未提供对应研究方法或结果。",
+      "analyzedAt": "2026-09-18T03:56:14.862Z",
+      "batchFile": "data/inbox/2026-09-18T03-56-14-862Z-full-015-reviewed.json"
     },
     {
       "id": "dcf7128353fe8b6953e1fe4ab917a655",
@@ -3832,8 +3875,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.cphi-china.cn/industrynews/97116/",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "制药展门票与议题宣传，没有具体AI4S技术方法、实验数据或研究成果。",
+      "analyzedAt": "2026-09-18T03:56:14.862Z",
+      "batchFile": "data/inbox/2026-09-18T03-56-14-862Z-full-015-reviewed.json"
     },
     {
       "id": "43c9df58eecbae3946265c2fc8be0918",
@@ -4080,8 +4125,10 @@
       "contentType": "",
       "moatTags": [],
       "url": "https://www.hanbon.com.cn/%e9%9d%9e%e6%a0%87%e8%ae%be%e5%a4%87%e4%b8%ba%e4%bb%80%e4%b9%88%e7%a8%b3%ef%bc%9f%e9%9d%a0%e7%9a%84%e6%98%af%e3%80%8c%e5%85%a8%e6%b5%81%e7%a8%8b%e6%a0%87%e5%87%86%e5%8c%96%e8%b4%a8%e6%8e%a7%e3%80%8d/",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "discarded",
+      "failureReason": "正文为非标制药设备质量控制和验证规范宣介，没有AI科学方法或具体自主实验成果，作为一般工程合规资料排除。",
+      "analyzedAt": "2026-09-18T03:48:12.422Z",
+      "batchFile": "data/inbox/2026-09-18T03-48-12-422Z-full-014-reviewed.json"
     },
     {
       "id": "23be3066ea854be6e0a39a0f9f3de369",
@@ -11274,5 +11321,5 @@
       "failureReason": ""
     }
   ],
-  "updatedAt": "2026-09-18T03:48:49.902Z"
+  "updatedAt": "2026-09-18T03:58:36.131Z"
 }

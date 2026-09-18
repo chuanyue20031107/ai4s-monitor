@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-18T03:48:49.902Z",
-  "pendingCount": 329,
-  "readyCount": 329,
+  "updatedAt": "2026-09-18T03:58:36.131Z",
+  "pendingCount": 320,
+  "readyCount": 320,
   "awaitingContentCount": 0,
   "excludedContentCount": 265,
   "items": [
@@ -3054,39 +3054,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "287b43296ed988c826b3e58271622935",
-      "title": "Broadening access to Skala creates a faster path to predictive DFT",
-      "url": "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/",
-      "publishedAt": "2026-08-20T16:00:00.000Z",
-      "crawledAt": "2026-09-17T02:29:54.392Z",
-      "contentStatus": "ready",
-      "contentHash": "c1068d5b2e834509d90029a3cbe62063a95168edc342c5706abec5eb4add7f1a",
-      "rawPath": "data/raw/287b43296ed988c826b3e58271622935.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "5abf100342f9d151ecc359db549765f8",
-      "title": "17 8 月 非标设备为什么稳？靠的是「全流程标准化质控」 在生物制药非标装备领域，长期存在一个根深蒂固的认知误区：非标定制就等于无标准、靠经验，稳定性全凭运气。 也正因 [&hellip;] 阅读更多",
-      "url": "https://www.hanbon.com.cn/%e9%9d%9e%e6%a0%87%e8%ae%be%e5%a4%87%e4%b8%ba%e4%bb%80%e4%b9%88%e7%a8%b3%ef%bc%9f%e9%9d%a0%e7%9a%84%e6%98%af%e3%80%8c%e5%85%a8%e6%b5%81%e7%a8%8b%e6%a0%87%e5%87%86%e5%8c%96%e8%b4%a8%e6%8e%a7%e3%80%8d/",
-      "publishedAt": "2026-08-17T09:00:05.000Z",
-      "crawledAt": "2026-09-16T07:47:39.453Z",
-      "contentStatus": "ready",
-      "contentHash": "278acb48757c90b38c4b31ff64b9f7aa6af2541a78fc032b2b6d60b482abd86a",
-      "rawPath": "data/raw/5abf100342f9d151ecc359db549765f8.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "1a7704a62ecc3f65b10f9dd0c4cbf99c",
-      "title": "MindTopo reveals VLMs’ spatial reasoning abilities",
-      "url": "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/",
-      "publishedAt": "2026-08-12T16:00:00.000Z",
-      "crawledAt": "2026-09-17T02:29:54.394Z",
-      "contentStatus": "ready",
-      "contentHash": "5eb21827d71976bacb47d9c338af981f9b09e263e3dec824a264c82c25e2165b",
-      "rawPath": "data/raw/1a7704a62ecc3f65b10f9dd0c4cbf99c.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "6d01693e36a8f13e09dcc57ffef550e4",
       "title": "News 08.12.2026",
       "url": "https://www.broadinstitute.org/news/ai-model-streamlines-prime-editing",
@@ -3109,17 +3076,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "1f69ff89154c735500c25860eeea12df",
-      "title": "10 8 月 装备+工艺双轮驱动，汉邦科技打通小核酸从实验室到商业化生产全链条 引言 Introduction 近年来，小核酸药物被公认为继小分子化药、抗体药物之后，引领全球制药行业的“第三 [&hellip;] 阅读更多",
-      "url": "https://www.hanbon.com.cn/%e8%a3%85%e5%a4%87%e5%b7%a5%e8%89%ba%e5%8f%8c%e8%bd%ae%e9%a9%b1%e5%8a%a8%ef%bc%8c%e6%b1%89%e9%82%a6%e7%a7%91%e6%8a%80%e6%89%93%e9%80%9a%e5%b0%8f%e6%a0%b8%e9%85%b8%e4%bb%8e%e5%ae%9e%e9%aa%8c%e5%ae%a4/",
-      "publishedAt": "2026-08-10T06:56:23.000Z",
-      "crawledAt": "2026-09-17T05:00:24.121Z",
-      "contentStatus": "ready",
-      "contentHash": "cd84c5dd1888f78fd6a5f0147fe50f6df18892fa794bc111d2ced6ca082532bb",
-      "rawPath": "data/raw/1f69ff89154c735500c25860eeea12df.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "8cb4a9134ca979c850a022cf1cc0b7d1",
       "title": "‘Spooky’ Particles Transit DC Suburbs, a Step Toward a Quantum Network",
       "url": "https://www.nist.gov/news-events/news/2026/08/spooky-particles-transit-dc-suburbs-step-toward-quantum-network",
@@ -3128,17 +3084,6 @@
       "contentStatus": "ready",
       "contentHash": "3d7e7a5ed94e030c6dac77b6b6fd10d1d3c7f022aa7bea13a189516ae0122478",
       "rawPath": "data/raw/8cb4a9134ca979c850a022cf1cc0b7d1.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "7dd8c91c183cf877bd2e943c3f85ed80",
-      "title": "04 8 月 从自动化到竞争力：生物制药生产数字化的落地路径与价值释放 近日，在首届「大国新药」行业峰会现场，江苏汉邦科技股份有限公司大分子事业部总经理周康先生发表同名主题演讲，结合 [&hellip;] 阅读更多",
-      "url": "https://www.hanbon.com.cn/%e4%bb%8e%e8%87%aa%e5%8a%a8%e5%8c%96%e5%88%b0%e7%ab%9e%e4%ba%89%e5%8a%9b%ef%bc%9a%e7%94%9f%e7%89%a9%e5%88%b6%e8%8d%af%e7%94%9f%e4%ba%a7%e6%95%b0%e5%ad%97%e5%8c%96%e7%9a%84%e8%90%bd%e5%9c%b0%e8%b7%af/",
-      "publishedAt": "2026-08-04T06:34:11.000Z",
-      "crawledAt": "2026-09-17T05:00:24.382Z",
-      "contentStatus": "ready",
-      "contentHash": "77e6188f52c0079d43744d237643ceeba9586a5469de82d09ee11f8e0e5fb5fa",
-      "rawPath": "data/raw/7dd8c91c183cf877bd2e943c3f85ed80.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -3153,28 +3098,6 @@
       "lastAnalysisStatus": "pending"
     },
     {
-      "id": "febaf6ce103333992e9a51b251159b99",
-      "title": "Neutron Sciences",
-      "url": "https://www.ornl.gov/neutrons",
-      "publishedAt": "2026-08-03T14:58:04.000Z",
-      "crawledAt": "2026-09-17T02:32:18.700Z",
-      "contentStatus": "ready",
-      "contentHash": "112e5c1507abc19cc1869073bd5a746f697f055d9a912e4cd1e66bb47fe7299c",
-      "rawPath": "data/raw/febaf6ce103333992e9a51b251159b99.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "a8e2c84e87be0efebe57660256f313f3",
-      "title": "倒计时丨CPHI 深圳展门票抢先领取，锁定行业风口！",
-      "url": "https://www.cphi-china.cn/industrynews/97116/",
-      "publishedAt": "2026-07-31T02:06:10.000Z",
-      "crawledAt": "2026-09-16T08:37:00.766Z",
-      "contentStatus": "ready",
-      "contentHash": "c793239aa1e3d8a416f49d0f5b278b866b3959219be75e01b0736e25569a9d52",
-      "rawPath": "data/raw/a8e2c84e87be0efebe57660256f313f3.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
       "id": "1d97ce9901e405acee5e79d324e8430b",
       "title": "Echoverse: Deep, evolving environments for computer-use agents",
       "url": "https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/",
@@ -3183,17 +3106,6 @@
       "contentStatus": "ready",
       "contentHash": "8b4ee3851cd7a69aa9d7dc7046fda43de4055d1183c7ec174ea130f94f1be816",
       "rawPath": "data/raw/1d97ce9901e405acee5e79d324e8430b.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "6c1e28e6ae144645a2d6893e6cdf3097",
-      "title": "首轮嘉宾阵容公布丨CPHI深圳2026制药高质量发展大会暨第五届天然产物合成和药物先进制造方法国际研讨会",
-      "url": "https://www.cphi-china.cn/industrynews/mseindustrynews/97080/",
-      "publishedAt": "2026-07-30T01:43:39.000Z",
-      "crawledAt": "2026-09-16T08:37:01.044Z",
-      "contentStatus": "ready",
-      "contentHash": "efc49d2dc374a8021dd07d7aab3add28df9a6cdb869688dc3dd55357a7b328f9",
-      "rawPath": "data/raw/6c1e28e6ae144645a2d6893e6cdf3097.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -3227,17 +3139,6 @@
       "contentStatus": "ready",
       "contentHash": "772eb356b35235ca221b1feba04d37ac57ae464b4eefcacb67931450474dc840",
       "rawPath": "data/raw/aa60fdf3ba5fc777f252288dd3c76880.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "ffa96f23947793b09287743ce255f116",
-      "title": "25 7 月 数字驱动 纯化赋能丨汉邦科技亮相首届大国新药全球会议，共筑抗体与ADC智造新生态 2026年7月22日至24日，由同写意主办的首届“大国新药”全球会议（CPIC 2026）在上海国家会展中心盛 [&hellip;] 阅读更多",
-      "url": "https://www.hanbon.com.cn/%e6%95%b0%e5%ad%97%e9%a9%b1%e5%8a%a8-%e7%ba%af%e5%8c%96%e8%b5%8b%e8%83%bd%e4%b8%a8%e6%b1%89%e9%82%a6%e7%a7%91%e6%8a%80%e4%ba%ae%e7%9b%b8%e9%a6%96%e5%b1%8a%e5%a4%a7%e5%9b%bd%e6%96%b0%e8%8d%af%e5%85%a8/",
-      "publishedAt": "2026-07-25T06:06:00.000Z",
-      "crawledAt": "2026-09-17T05:00:24.642Z",
-      "contentStatus": "ready",
-      "contentHash": "86abcc3746fd1d7f1209f7663232a34292e76463125b6fd0f27f6171202947b9",
-      "rawPath": "data/raw/ffa96f23947793b09287743ce255f116.json",
       "lastAnalysisStatus": "pending"
     },
     {
