@@ -2,6 +2,20 @@
   "items": [
     {
       "version": 1,
+      "requestId": "f9eeb526-fd3d-4598-9c3b-e34388a782b1",
+      "action": "health_check",
+      "issueNumber": 10,
+      "issueUrl": "https://github.com/chuanyue20031107/ai4s-monitor/issues/10",
+      "runUrl": "https://github.com/chuanyue20031107/ai4s-monitor/actions/runs/35317666705",
+      "startedAt": "2026-09-18T07:07:26.989Z",
+      "status": "partial",
+      "detail": "检查 184 个来源：成功 134，失败 50；未抓取正文。",
+      "processed": 184,
+      "failed": 50,
+      "finishedAt": "2026-09-18T07:09:40.976Z"
+    },
+    {
+      "version": 1,
       "requestId": "3b47e0e9-3ea7-4006-8d71-55bbc3819663",
       "action": "retry_failed",
       "issueNumber": 7,
@@ -44,5 +58,5 @@
       "finishedAt": "2026-09-16T17:03:18.335Z"
     }
   ],
-  "updatedAt": "2026-09-17T01:28:30.003Z"
+  "updatedAt": "2026-09-18T07:09:40.979Z"
 }
