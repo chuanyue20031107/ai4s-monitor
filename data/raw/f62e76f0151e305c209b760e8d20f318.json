@@ -1,0 +1,18 @@
+{
+  "id": "f62e76f0151e305c209b760e8d20f318",
+  "title": "Register for the Oct 22 Virtual Office Hour on Transitioning to the New PDB Beta Archive, Extended PDB IDs, and PDBx/mmCIF",
+  "url": "https://www.rcsb.org/news/feature/6a95908f3bf5580b84a87d34",
+  "sourceKey": "s07-13",
+  "sourceName": "RCSB Protein Data Bank",
+  "sourceType": "科学数据库与平台",
+  "publishedAt": null,
+  "crawledAt": "2026-09-18T04:51:56.243Z",
+  "content": "On July 21, 2027: new 4-character PDB IDs (e.g. 1abc) will no longer be issued by the wwPDB. Several resources are available to help users transition, including Bring your questions to this office hour with Dr. Ezra Peisach to help you become an early adopter of the new PDB Beta Archive, Extended PDB IDs, and PDBx/mmCIF File Format. This informal event will include a brief demonstration and ample opportunity for Q&A. Thursday October 22, 2026 noon-1:00pm Eastern | 9:00am - 10am Pacific Please register for this free event. An institutional email address for registration is preferred. You will receive confirmation and a Zoom link by email before the event. Software developers who will need to make updates to code are encouraged to attend. RCSB PDB Core Operations are funded by the U.S. National Science Foundation (DBI-2321666), the US Department of Energy (DE-SC0019749), and the National Cancer Institute , National Institute of Allergy and Infectious Diseases , and National Institute of General Medical Sciences of the National Institutes of Health under grant R01GM157729. RCSB PDB uses resources of the National Energy Research Scientific Computing Center ( NERSC ), a Department of Energy User Facility.",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-18T04:51:56.243Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "5bf75a20d2bdd2e44229013350fb63df6c32bd5814ec6a1f7d3f86aeaabf1d2b"
+}

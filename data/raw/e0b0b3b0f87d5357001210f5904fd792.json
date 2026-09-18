@@ -7,10 +7,13 @@
   "sourceType": "基因组标准组织",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:35.568Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Previous Next Our products Global ELSI: Building Global Capacity for Genomics Research Collaborates with researchers in low- and middle-income countries (LMICs) to develop practical, context-appropriate resources that help navigate legal and ethical issues in genomic data sharing The sharing of genomic and related health data is critical to advancing research worldwide. To achieve this goal, governments, funding bodies, institutions, and publishers have developed data infrastructures, policies, and incentives to facilitate the global sharing of genomic research data. However, policies developed by and for highly competitive economies have been shown to deter researchers in low-resource settings from engaging in data sharing. To ensure advances in genomic research to benefit everyone equally, it is important that genomic researchers and health practitioners in low- and middle-income countries (LMICs) can use and contribute to tools that address the legal and ethical challenges of sharing genomic data. The Global Ethical, Legal, and Social Implications (ELSI) group, formed by the Regulatory & Ethics Work Stream, aims to collaborate with genomic researchers and health practitioners from LMICs to develop optimal governance structures for data sharing at the intersection of ethics, law, and genomics in LMICs.This group aims to collaborate with genomic researchers from LMICs to develop contextually relevant resources that can be implemented and used in regions globally. Starting with the example of GA4GH’s model consent clauses in genomic research, the group will be developing recommendations for how these clauses could be tailored to better address the research context in Africa. Jump to... Documents Contributors Meetings Benefits Aims to explore the structural, ethical, and legal barriers that LMICs face to genomic data sharing Aims to provide guidelines and strategies to promote more equitable data sharing policies worldwide Target users Researchers, data generators, data custodians, data access committees, ethics review committees, data protection authorities, funding agencies, security officers, and research institutes GET INVOLVED THEME Security/regulation/ethics CATEGORY Policy guidance TYPE Policy resource Lifecycle Status Current Community Engagement Active Engagement Work Stream Regulatory & Ethics Work Stream (REWS) Product Leads Diya Uberoi Claudia Gonzaga-Jauregui Staff Contacts Ariel (Yunhe) Xue Jessica Seegobin Community resources Dive deeper into this product! Documents Date Title 8 Oct 2025 From Global Standards to Local Implementation: Applying REWS’ Model Consent Clauses in African Research Settings (October Connect 2025) Contributors Don't see your name? Get in touch: Contact Us Claudia Gonzaga-Jauregui International Laboratory for Human Genome Research Binay Panda Jawaharlal Nehru University Meetings loading... Powered by Pretty Google Calendar",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "e0b0b3b0f87d5357001210f5904fd792"
+  "contentHash": "d1bb2cacb19299f36d612b1226bfbbfdbbf8bef0daaa55c96061d5358601f201",
+  "legacyId": "e0b0b3b0f87d5357001210f5904fd792",
+  "lastFetchAt": "2026-09-18T04:55:13.850Z",
+  "contentTruncated": true,
+  "contentError": ""
 }

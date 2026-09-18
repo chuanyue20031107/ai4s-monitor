@@ -7,10 +7,13 @@
   "sourceType": "科学数据库与平台",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:57:50.143Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "Explore PDB MeSH Networks | Overview | Filtering and Data | User Guide | Search PDB by MeSH In 1971, the structural biology community established the single worldwide archive for macromolecular structure data–the Protein Data Bank (PDB). From its inception, the PDB has embraced a culture of open access, leading to its widespread use by the research community. PDB data are used by hundreds of data resources and millions of users exploring fundamental biology, energy, and biomedicine. 2021 marks the 50th year of the PDB . In January, the PDB contained more than 170,000 structures; ~150,000 had corresponding “primary citations” describing these entries in a peer-reviewed journal. The National Library of Medicine assigns MeSH (Medical Subject Headings) from a controlled vocabulary to index articles for PubMed. MeSH terms typically appear in a hierarchical tree structure that starts with 16 main branches: Anatomy Organisms Diseases Chemicals and Drugs Analytical, Diagnostic and Therapeutic Techniques and Equipment Psychiatry and Psychology Phenomena and Processes Disciplines and Occupations Anthropology, Education, Sociology and Social Phenomena Technology, Industry, Agriculture Humanities Information Science Named Groups Health Care Publication Characteristics Geographicals RCSB PDB has a separate browser to find PDB structures based on these hierarchical trees at RCSB.org. The RCSB PDB Citation MeSH Network Explorer flattens these trees into co-occurence networks of MeSH terms associated with PDB entries. Each node on the graph is a publication, and nodes are linked when they share MeSH terms. Publications that share similar MeSH terms are clustered together into Groups; the largest groups are color-coded. Depending on the size of the network, groups contain at least one, two, or three common MeSH terms. Clicking on a node reveals information about the publication, clustered group, and related PDB structures. Nodes that have multiple terms in common are located near each other; nodes that have less in common are located further apart. This new way of visualizing MeSH terms can provide insights into relationships between PDB primary citations. 10,699 publications are represented throughout these networks. MeSH terms very common in PDB-related articles (e.g., protein) were filtered out to generate more meaningful networks. Depending on the size of the branch network, publications with at least one, two, or three common MeSH terms are included to simplify navigation. Number of publications and corresponding PDB entries by branch E. Analytical, Diagnostic and Therapeutic Techniques and Equipment I. Anthropology, Education, Sociology and Social Phenomena The data used in each branch are available for download as CSV files . This MeSH Explorer has been developed for RCSB PDB by Digital Science and is powered by Dimensions , the world’s largest linked research information dataset.",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "d526daead91f0e4ffa0f975103020e39"
+  "contentHash": "321ee436164ad05da0819c4a553aa500654517abe0fbdddcf7313afc0fd6bd59",
+  "legacyId": "d526daead91f0e4ffa0f975103020e39",
+  "lastFetchAt": "2026-09-18T04:51:56.019Z",
+  "contentTruncated": false,
+  "contentError": ""
 }

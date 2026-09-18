@@ -7,10 +7,13 @@
   "sourceType": "实验室技术展会",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:33.582Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "2026展会观众预登记火热进行中，11.16-18, 上海新国际博览中心，与我们共同相约2026慕尼黑分析生化中国展！",
+  "contentStatus": "insufficient_content",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "dee981d6b9124ded7af4be6843b26cbe"
+  "contentHash": "5f152cbf7b6f0e23e24df2bb124743a6acd9f3def60d0f935a5c7092747010a5",
+  "legacyId": "dee981d6b9124ded7af4be6843b26cbe",
+  "lastFetchAt": "2026-09-18T04:52:52.076Z",
+  "contentTruncated": false,
+  "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成"
 }

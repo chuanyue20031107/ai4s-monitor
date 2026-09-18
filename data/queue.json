@@ -1,11 +1,121 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-18T04:24:52.231Z",
-  "pendingCount": 278,
-  "readyCount": 278,
+  "updatedAt": "2026-09-18T04:58:17.496Z",
+  "pendingCount": 293,
+  "readyCount": 293,
   "awaitingContentCount": 0,
-  "excludedContentCount": 267,
+  "excludedContentCount": 263,
   "items": [
+    {
+      "id": "efbd64ea0fdf69524124c2f094aa9dd3",
+      "title": "Adoption Stories",
+      "url": "https://www.rd-alliance.org/adoption-stories",
+      "publishedAt": null,
+      "crawledAt": "2026-09-18T04:55:16.311Z",
+      "contentStatus": "ready",
+      "contentHash": "a99ee5b34c80964696fea37778167250f7d2741361f6dcd2c4571c0e4463e070",
+      "rawPath": "data/raw/efbd64ea0fdf69524124c2f094aa9dd3.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "d270f2d64a6941c5ba05fcee70be8e2d",
+      "title": "Summary of Fall 2025 Allotrope Connect – Allotrope Foundation",
+      "url": "https://allotropefoundation.org/summary-of-fall-2025-allotrope-connect/",
+      "publishedAt": null,
+      "crawledAt": "2026-09-18T04:55:10.218Z",
+      "contentStatus": "ready",
+      "contentHash": "3e40973f5dbde00fff8507dfce4c6cb9726f173b17387e42719691727c2c5993",
+      "rawPath": "data/raw/d270f2d64a6941c5ba05fcee70be8e2d.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "410aa08655fac1182d19bcaeee5484a6",
+      "title": "Search Recommendations & Outputs",
+      "url": "https://www.rd-alliance.org/outputs/?keyword=&output-status%5B%5D=in-community-review&output-status%5B%5D=in-council-review-open&start_date=&end_date=&sort-by=date-desc",
+      "publishedAt": null,
+      "crawledAt": "2026-09-18T04:55:09.383Z",
+      "contentStatus": "ready",
+      "contentHash": "f5291af2d974cd32a3a2028efc64ddb12cd24a48e673109cd8a11ebc8103c947",
+      "rawPath": "data/raw/410aa08655fac1182d19bcaeee5484a6.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "f4c6ca37e0f8e594a39587da9fddb8b5",
+      "title": "• 中国人工智能学会祝福天下教师节日快乐！ 2026-09-10",
+      "url": "https://www.caai.cn/site/content/11344.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-18T04:52:08.988Z",
+      "contentStatus": "ready",
+      "contentHash": "bce2f500100b2523b1e2967d81b33ec8063cca6e8bab4ff6d7d04cd37951408c",
+      "rawPath": "data/raw/f4c6ca37e0f8e594a39587da9fddb8b5.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "3b9471dec5ad79c2ff91438e062b230f",
+      "title": "• CAAI青年工委会AI科普活动在云南成功举办 2026-09-16",
+      "url": "https://www.caai.cn/site/content/11346.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-18T04:52:08.762Z",
+      "contentStatus": "ready",
+      "contentHash": "6f60822aa28a34e323b44f60701655aa367eae88a6a7078087a6dc0fd2addf2f",
+      "rawPath": "data/raw/3b9471dec5ad79c2ff91438e062b230f.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "a9824b5d4af9128c5af08a426f8caa0d",
+      "title": "全国大模型与具身交互大会在合肥圆满落幕 9月13日，全国大模型与具身交互大会在合肥圆满落幕。本次大会由中国人工智能学会（CAAI）主办，CAAI自然语言理解专委会、合肥工业大学计算机与信息学院联合承办，采用线上线下相结合的模式，吸引超2万人关注，受到科技日报、工人日报、中国青年报、安徽日报、安徽广播电视台、合肥电视台、安徽经济报等多家权威媒体报道。大会会场全景本次大会紧扣国家“十五五”人工智能发展战略与安徽省“人工智能+万物”行动部署，",
+      "url": "https://www.caai.cn/site/content/11347.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-18T04:52:08.319Z",
+      "contentStatus": "ready",
+      "contentHash": "6c20fb27e549d94a7a1222320628e9eb1ca77f26cef1cd2bfca45c44436578b4",
+      "rawPath": "data/raw/a9824b5d4af9128c5af08a426f8caa0d.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "c3579c8105a541126f1278aad230dddf",
+      "title": "科研人员构建即插即用视觉跟踪框架",
+      "url": "https://www.cas.cn/syky/202609/t20260917_5120474.shtml",
+      "publishedAt": null,
+      "crawledAt": "2026-09-18T04:52:01.429Z",
+      "contentStatus": "ready",
+      "contentHash": "051fd7d4b1f265232a5e68831d38eb5a4502ec67ae6e3f2e7af23269534a7567",
+      "rawPath": "data/raw/c3579c8105a541126f1278aad230dddf.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "640eaad8993a990d6f05ec8a64905582",
+      "title": "全球红树林碳储量边缘效应研究获进展",
+      "url": "https://www.cas.cn/syky/202609/t20260911_5120181.shtml",
+      "publishedAt": null,
+      "crawledAt": "2026-09-18T04:52:01.086Z",
+      "contentStatus": "ready",
+      "contentHash": "ee445d1ed83c45a94fb787140506aee04541283ef3ee5df228510072c47608a4",
+      "rawPath": "data/raw/640eaad8993a990d6f05ec8a64905582.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "b526cc3e235b60c05028b7dd604c4066",
+      "title": "研究提出三维自旋玻璃高效采样新方法",
+      "url": "https://www.cas.cn/syky/202609/t20260917_5120478.shtml",
+      "publishedAt": null,
+      "crawledAt": "2026-09-18T04:52:00.526Z",
+      "contentStatus": "ready",
+      "contentHash": "cd556dd1bd8d6306b3082406ba8aaba99e1620c18a1051cb3b1efd100eec20da",
+      "rawPath": "data/raw/b526cc3e235b60c05028b7dd604c4066.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "f62e76f0151e305c209b760e8d20f318",
+      "title": "Register for the Oct 22 Virtual Office Hour on Transitioning to the New PDB Beta Archive, Extended PDB IDs, and PDBx/mmCIF",
+      "url": "https://www.rcsb.org/news/feature/6a95908f3bf5580b84a87d34",
+      "publishedAt": null,
+      "crawledAt": "2026-09-18T04:51:56.243Z",
+      "contentStatus": "ready",
+      "contentHash": "5bf75a20d2bdd2e44229013350fb63df6c32bd5814ec6a1f7d3f86aeaabf1d2b",
+      "rawPath": "data/raw/f62e76f0151e305c209b760e8d20f318.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "8baf8d576e8ee7923bb3b8d101ff443c",
       "title": "我所揭示SAPO-34分子筛Brønsted酸精细落位及运动行为",
@@ -1052,6 +1162,28 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "e05632debc2872bd2fd462ec90415351",
+      "title": "Announcements",
+      "url": "https://www.ga4gh.org/news-eventsxxx/announcements/",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T07:35:35.568Z",
+      "contentStatus": "ready",
+      "contentHash": "b4911bc8487dbdbc756ea4743c13b2bda43ccfd1acc9eaf926f915b1f43ba991",
+      "rawPath": "data/raw/e05632debc2872bd2fd462ec90415351.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "e0b0b3b0f87d5357001210f5904fd792",
+      "title": "Global ELSI: Building Global Capacity for Genomics Research",
+      "url": "https://www.ga4gh.org/product/global-elsi-building-global-capacity-for-genomics-research/",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T07:35:35.568Z",
+      "contentStatus": "ready",
+      "contentHash": "d1bb2cacb19299f36d612b1226bfbbfdbbf8bef0daaa55c96061d5358601f201",
+      "rawPath": "data/raw/e0b0b3b0f87d5357001210f5904fd792.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "1f6ade1dd7c210cba2578f530c7bb05b",
       "title": "中国药学会关于征集2026年优质药学科普作品的通知",
       "url": "https://www.cpa.org.cn/?do=info&cid=78847",
@@ -1236,6 +1368,17 @@
       "contentStatus": "ready",
       "contentHash": "a8bad6d923f170fc50513d5a4a1bbdda53decadb63c7253064f3374b0eb3c427",
       "rawPath": "data/raw/b88084a0a67c5d037da84417e2fe5402.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "d84b1f9ba70249e56df46fccd09c4209",
+      "title": "实验室自动化与数字化展区",
+      "url": "https://www.analyticachina.com.cn/cn/Discover-analytica-China/Press-Release/Exhibition-News/detail/Automation-and-Digitalization",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T07:35:33.582Z",
+      "contentStatus": "ready",
+      "contentHash": "c8efb538da7767b918e34372db2ba9202352fd728dd1f6796b140619e9d4f759",
+      "rawPath": "data/raw/d84b1f9ba70249e56df46fccd09c4209.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -1544,6 +1687,28 @@
       "contentStatus": "ready",
       "contentHash": "48cf9c64d79deafd4ac680bc1fe105d9092c3ffcd5b8c081f28577544023e716",
       "rawPath": "data/raw/b449dd6aa5e81181e3f87951c34eaeb2.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "d526daead91f0e4ffa0f975103020e39",
+      "title": "Find connections between articles describing PDB structures using MeSH terms",
+      "url": "https://cdn.rcsb.org/rcsb-pdb/pdb50mesh/index.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T06:57:50.143Z",
+      "contentStatus": "ready",
+      "contentHash": "321ee436164ad05da0819c4a553aa500654517abe0fbdddcf7313afc0fd6bd59",
+      "rawPath": "data/raw/d526daead91f0e4ffa0f975103020e39.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "f37cae2df6658da540f2a7c0041dd79b",
+      "title": "COVID-19",
+      "url": "https://www.rcsb.org/news/feature/5e74d55d2d410731e9944f52",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T06:57:50.143Z",
+      "contentStatus": "ready",
+      "contentHash": "31f2199b0f42c8213896a8d5500d3b24404f31734b701c5f6b66a5436f3d1678",
+      "rawPath": "data/raw/f37cae2df6658da540f2a7c0041dd79b.json",
       "lastAnalysisStatus": "pending"
     },
     {
