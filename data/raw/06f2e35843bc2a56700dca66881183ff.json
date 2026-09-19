@@ -7,12 +7,13 @@
   "sourceType": "国际数据组织",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:34.387Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "fetch_failed",
-  "extractionMethod": "legacy-title-only",
+  "content": "This is a heavily interactive web application, and JavaScript is required. Simple HTML interfaces are possible, but that is not what this is. Learn more about Bluesky at bsky.social and atproto.com . Profile Research Data Alliance (RDA) The Research Data Alliance builds the social and technical bridges that enable the global, open sharing and re-use of data. Become a member today: https://www.rd-alliance.org/",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
+  "contentHash": "1e926fdbb480406cf9515b3e5803920fb0edc37884b135b72e697e887dec383f",
   "legacyId": "06f2e35843bc2a56700dca66881183ff",
-  "lastFetchAt": "2026-09-17T08:26:50.066Z",
-  "contentError": "fetch failed"
+  "lastFetchAt": "2026-09-19T11:14:40.900Z",
+  "contentError": "",
+  "contentTruncated": false
 }

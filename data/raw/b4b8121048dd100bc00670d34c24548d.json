@@ -7,13 +7,13 @@
   "sourceType": "国际数据组织",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:34.387Z",
-  "content": "News A new format for 28th Plenary: Call for Sessions Open September 15, 2026",
-  "contentStatus": "insufficient_content",
+  "content": "Reports & Publications RDA AI Cross-Fertilisation Meetings Spotlight Trust, Governance and FAIR Readiness for AI Agents September 18, 2026",
+  "contentStatus": "ready",
   "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "contentHash": "5c48259ba1dbe9602793c78f753dce7a807311b4a71a62cbce91746dcec0a3f5",
+  "contentHash": "29815ad41af2fce07d60fe9f605dd30dfa1ab772d34d462ff49e2f1ea631e696",
   "legacyId": "b4b8121048dd100bc00670d34c24548d",
-  "lastFetchAt": "2026-09-18T04:55:08.338Z",
+  "lastFetchAt": "2026-09-19T11:14:40.118Z",
   "contentTruncated": false,
-  "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成"
+  "contentError": ""
 }
