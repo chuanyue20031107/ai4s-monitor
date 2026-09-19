@@ -1,0 +1,18 @@
+{
+  "id": "ba6fc9cf11bad38ec7731847693b292d",
+  "title": "Ask an Expert Q&A: Vinith Suriyakumar",
+  "url": "https://jclinic.mit.edu/ask-an-expert-qa-vinith-suriyakumar/",
+  "sourceKey": "s01-16",
+  "sourceName": "MIT Jameel Clinic",
+  "sourceType": "高校研究机构",
+  "publishedAt": "2026-07-25T15:46:55.000Z",
+  "crawledAt": "2026-09-19T15:58:30.235Z",
+  "content": "Vinith Suriyakumar is a fifth year PhD student and a ‘22 Wellcome Trust Fellow co-advised by Jameel Clinic PIs Maryzeh Ghassemi and Ashia Wilson . His research focuses on the privacy, security, and safety of machine learning, with a particular focus on building safeguards against malicious behavior enabled by generative AI systems, including AI-generated child sexual abuse material (CSAM) and non-consensual intimate imagery (NCII). The following responses have been edited for clarity. 1. What’s the biggest question you are trying to answer in your work? How can we build AI systems that are useful and powerful, while being resistant to generating or enabling harmful content such as CSAM, NCII, and cyberattacks? More broadly, I study how to develop scalable safeguards that protect people as generative AI capabilities advance. 2. What’s something in your research that’s been exciting or surprising lately? One exciting finding from my research lately is that we are able to evaluate whether models possess harmful capabilities, such as generating CSAM and NCII, without ever producing the harmful content. This is exciting because it enables essential evaluations in settings where the law prohibits us from generating outputs and we were previously unable to assess for these harmful capabilities whatsoever. 3. What is the biggest challenge in your area of research? The biggest challenge is that harmful behaviors are often rare, difficult to study directly, and constantly evolving as models themselves become more capable. We need evaluation and mitigation techniques that are effective, even when we are unable to observe outputs directly. 4. If your research succeeds, how could it help patients or medicine? These same methods that I’m building to make generative AI safer can be used in healthcare to ensure responsible deployment and prevent misuse. Robust safeguards are essential for ensuring that these generative AI systems deliver benefit to all in healthcare and don’t introduce new risks to vulnerable populations. 5. What papers or whose work have you been reading lately that you’d like to give a shoutout to? I’ve been reading Aditi Raghunathan’s group papers recently, especially on how to build LLM architectures that natively enable unlearning . I think this is an interesting line of inquiry that could help us enable better unlearning for safety than the existing methods we have, which are quite brittle. — Ask & Expert Q&A is a monthly Q&A series featuring experts doing cutting-edge work at the intersection of artificial intelligence and health who are affiliated with the MIT Jameel Clinic. If you have any questions for our researchers or are interested in being featured, please reach out to jclinic-info(at)mit.edu.",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-19T15:58:30.235Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "ba2d3735876ace745b8332af6ad934ce0e8cecf35e9ccb0e13fda46fd347d79e"
+}

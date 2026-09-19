@@ -1,0 +1,18 @@
+{
+  "id": "5da1f4614cd0aa4bf182caac263110d2",
+  "title": "Portraits",
+  "url": "https://www.helmholtz.de/en/about-us/who-we-are/press-and-media/people-at-helmholtz/",
+  "sourceKey": "s01-24",
+  "sourceName": "Helmholtz Association",
+  "sourceType": "国家研究联合体",
+  "publishedAt": null,
+  "crawledAt": "2026-09-19T15:58:37.284Z",
+  "content": "Researcher portraits Karen Christman MDC James Eills J&uuml;lich Nils Christiansen Hereon Erika von Mutius Munich Kristina Kvashnina HZDR Mathias Munschauer HZI Lara Urban Munich Klaus J&auml;ger HZB Cas Cremers CISPA Francesca Toma Hereon Mar Fern&aacute;ndez M&eacute;ndez AWI Stefan Pfister DKFZ Francesca Santoro J&uuml;lich Nataliia Fedorchenko J&uuml;lich Mariia Nesterkina HZI Rami Barends J&uuml;lich John Paul Strachan J&uuml;lich Narges Ahmidi Munich Veronika Eyring DLR Verena Mohaupt AWI Katja Matthes Geomar Robert Pitz-Paal DLR Fabian Theis Munich Markus Rex AWI Christian Haas AWI Tommaso Calarco J&uuml;lich Catherine Dubourdieu HZB Kristel Michielsen J&uuml;lich Ulrike Protzer Munich Ben Engel Munich Peter Fineran HZI Ursula Bassler DESY G&uuml;nter Hasinger DLR Peter Wasserscheid J&uuml;lich Wolfgang Wernsdorfer KIT Denise V&ouml;lker DESY D&ouml;rte Rother Esther Horvath AWI Henry Chapman Barbara Terhal J&uuml;lich Angelika Humbert AWI Newsroom Our Research People at Helmholtz",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-19T15:58:37.284Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "8798bcf88b98d01dfb44e426025cd8a53c913db729e079bbb18a3bddaf299785"
+}

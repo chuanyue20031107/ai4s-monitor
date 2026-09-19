@@ -1,0 +1,18 @@
+{
+  "id": "afd38b7a878932c8621f11ff452dca10",
+  "title": "Multimodal machine learning models enhance outcome prediction in intrahepatic cholangiocarcinoma Eliott Brion et al. Pub: Computers in Biology and Medicine Oct 30, 2025",
+  "url": "https://www.owkin.com/publications/multimodal-machine-learning-models-enhance-outcome-prediction-in-intrahepatic-cholangiocarcinoma",
+  "sourceKey": "s02-21",
+  "sourceName": "Owkin",
+  "sourceType": "AI生物医药公司",
+  "publishedAt": null,
+  "crawledAt": "2026-09-19T15:58:39.894Z",
+  "content": "October 30, 2025 Computers in Biology and Medicine Multimodal machine learning models enhance outcome prediction in intrahepatic cholangiocarcinoma AI Cancer ML Research Abstract Background Intrahepatic cholangiocarcinoma (iCCA) is a highly heterogeneous malignancy with limited treatment options, particularly for unresectable cases. Despite the availability of multi-modal data, it remains challenging to effectively integrate these diverse data types to inform treatment decisions. ‍ Methods Nested cross-validation was applied to two cohorts of iCCA patients: resected (N = 75) and unresected (N = 98). Multimodal data, including clinical, histological, radiological, and targeted sequencing, were utilized to develop and evaluate machine learning models for predicting overall survival (OS), and progression/recurrence-free survival (PFS/RFS). The most predictive features were identified through multivariate analysis and Shapley values. Results The machine learning models demonstrated a good ability to predict OS and PFS/RFS on held-out patients within each cohort, achieving average concordance indices of up to 0.70 ± 0.13. Inter-cohort validation showed that models were able to generalize, with concordance indices reaching 0.61 (95% CI: 0.53–0.68). In resected patients, CA-19-9 (Shapley = 0.27), ARID1A alteration (p = 0.057), tumor sphericity (Shapley = 0.09) and histological tumor tiles (p < 0.001) were the top predictors of worse OS. In unresected patients, male gender (Shapley = 0.23) and KRAS (p = 0.012) negatively correlated with OS, whereas gray non-uniformity (Shapley = 0.11) was associated with improved outcomes for both cohorts. Conclusions Machine learning models utilizing multi-modal data can effectively predict survival and recurrence in iCCA patients. These predictive models, along with their interpretable features, hold potential for enhancing our understanding of the disease and guiding treatment selection. View publication Share to: or simply highlight any text and click to post it! Authors Eliott Brion Valérie Ducret Naaz Nasar Benoit Sauty Sarah McIntyre Remo Alessandris Carlie Sigel Mala Jain Umesh Bhanot Jordana Ray-Kirton Joachim Silber Caroline Hoffmann Charles Maussion Jayasree Chakraborty Benoit Schmauch William R. Jarnagin More like this Biology Research Prescription of off-label medications in patients on dialysis: time to challenge contraindications? Maxime Touzot et al. Clinical Kidney Journal ML Research A benchmark of computational pipelines for single-cell histone modification data Félix Raimundo et al. Genome Biology",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-19T15:58:39.894Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "04b5c50647f9867548401a4d95658f9b32734167b056b22bb37d043949c6f11f"
+}

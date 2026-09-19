@@ -1,0 +1,18 @@
+{
+  "id": "f4d0a2cb4661dbec2cdda5e7c8c5ab8c",
+  "title": "A deep learning-based multiscale integration of spatial omics with tumor morphology Benoit Schmauch et al. Pub: Nature Communications Nov 27, 2025",
+  "url": "https://www.owkin.com/publications/a-deep-learning-based-multiscale-integration-of-spatial-omics-with-tumor-morphology",
+  "sourceKey": "s02-21",
+  "sourceName": "Owkin",
+  "sourceType": "AI生物医药公司",
+  "publishedAt": null,
+  "crawledAt": "2026-09-19T15:58:39.853Z",
+  "content": "November 27, 2025 Nature Communications A deep learning-based multiscale integration of spatial omics with tumor morphology AI Biology Cancer Spatial Omics Abstract Spatial Transcriptomics (spTx) offers unprecedented insights into the spatial arrangement of the tumor microenvironment, tumor initiation/progression and identification of new therapeutic target candidates. However, spTx remains unlikely to be routinely used in the near future. Hematoxylin and eosin (H&E) stained histological slides, on the other hand, are routinely generated for a large fraction of cancer patients. Here, we present a deep learning-based approach for multiscale integration of spTx with tumor morphology (MISO). We train MISO to predict spTx from H&E and validate it on a dataset of 72 10X Genomics Visium samples. We further validate our approach on 348 samples from five indications from the MOSAIC consortium and show that MISO significantly outperforms competing methods in extensive benchmarks. We demonstrate that MISO enables near single-cell-resolution, spatially-resolved gene expression prediction. View publication Share to: or simply highlight any text and click to post it! Authors Benoit Schmauch Loïc Herpin Antoine Olivier Thomas Duboudin Remy Dubois Lucie Gillet Alexandre Filiot Jean-Baptiste Schiratti Valentina Di Proietto Delphine Le Corre Alexandre Bourgoin Julien Taïeb Pierre Laurent-Puig Eric Durand, PhD More like this Research Cancer A deep learning method for predicting knee osteoarthritis radiographic progression from MRI Jean-Baptiste Schiratti et al. Arthritis Research & Therapy AI OwkinZero: Accelerating Biological Discovery with AI Nathan Bigaud et al. arXiv",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-19T15:58:39.853Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "b0bc54c8423c4e5e20e2f06d8dbefa5b97fccc75a431fe5ebaeb401cf0b5f2d9"
+}

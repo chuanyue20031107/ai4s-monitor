@@ -1,0 +1,18 @@
+{
+  "id": "217de59bc629ad9cc4353221f7aab851",
+  "title": "Aurora Serverless relational database service for PostgreSQL, MySQL, and DSQL",
+  "url": "https://aws.amazon.com/rds/aurora/?nc2=h_prod_fs_aa",
+  "sourceKey": "s01-12",
+  "sourceName": "Amazon Web Services",
+  "sourceType": "科技大厂",
+  "publishedAt": null,
+  "crawledAt": "2026-09-19T15:58:28.566Z",
+  "content": "Amazon Aurora Overview Engines Features Pricing Resources More Amazon Aurora Unparalleled high performance and availability at global scale for PostgreSQL, MySQL, and DSQL Get started with Aurora Connect with an Aurora specialist What is Aurora Aurora is a serverless, relational database service that is easy to use with zero infrastructure management, zero downtime maintenance, and instant scaling to any demand. Aurora offers 6x the throughput of PostgreSQL and MySQL, and is fully compatible with PostgreSQL and MySQL. With Aurora DSQL, you have the fastest serverless distributed SQL database that is PostgreSQL-compatible. Aurora is designed for up to 99.999% multi-Region availability and virtually unlimited scale in and across regions to meet your workload needs. Broad compliance standards and enterprise security capabilities along with effortless integration with analytics and agentic AI services makes Aurora ideal for your relational workloads. Play Benefits of Aurora High performance Power internet-scale applications with 6x the throughput of PostgreSQL and MySQL, and the fastest distributed SQL reads and writes with Aurora DSQL. Learn more High availability Designed for up to 99.99% single-Region and 99.999% multi-Region availability with fault-tolerant distributed storage to ensure continuous data access and durability for your applications. Learn more Scale and build with ease Automatically scale to the demands of any workload, removing bottlenecks while maintaining performance. Learn more Cost-effective Improve productivity and lower total cost of ownership with a fully managed database including innovations like serverless so you can focus on building applications that delight your users. Learn more Easy to migrate Easily migrate MySQL or PostgreSQL databases to and from Aurora using standard tools, or run legacy SQL Server applications with Babelfish for Aurora PostgreSQL with minimal code change. Learn more Use cases Modernize enterprise applications Operate enterprise applications, such as customer relationship management (CRM), enterprise resource planning (ERP), supply chain, and billing applications, with high availability and performance. Build SaaS applications Support reliable, high- performance, and multi-tenant Software-as a-Service (SaaS) applications with flexible instance and storage scaling. Deploy globally distributed applications Develop internet-scale applications, such as mobile games, social media apps, and online services, that require multi-Region scalability and resilience. Go serverless Hands-off capacity management, and pay only for capacity consumed with instantaneous and fine-grained scaling to save up to 90% of cost. Next Steps Resources Learn with hands-on training Get started with Aurora Documentation Dive deep on Aurora Read the documentation Free tier Sign up for a free account Try for free Console Start building in the console Sign in",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-19T15:58:28.566Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "409e140e4a1d223a3aeab363f98e2440b6f91e12a890855d17ffc810bf9511e2"
+}

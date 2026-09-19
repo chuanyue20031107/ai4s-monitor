@@ -1,0 +1,18 @@
+{
+  "id": "a00923bf4ddda715364788a2da3f2ff9",
+  "title": "Introducing the Australian Youth Safety Blueprint",
+  "url": "https://openai.com/index/australian-youth-safety-blueprint",
+  "sourceKey": "s01-14",
+  "sourceName": "OpenAI",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": "2026-09-18T12:00:00.000Z",
+  "crawledAt": "2026-09-19T15:58:29.950Z",
+  "content": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-19T15:58:29.950Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "008f092f322a1bb9593f99110c1b5af504512febb1e6e9909bb67c4cfb45e760"
+}
