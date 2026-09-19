@@ -1,0 +1,18 @@
+{
+  "id": "1ade9c20421d6a14e768ca5c2b3e615a",
+  "title": "水质重金属应急监测系统（在线） 在线式水质重金属监测系统结合了在线采样系统、数据智能管理系统，具备自动取水、自动样品过滤、自动样品预处理、自动样品分析、自动数据质控、自动数据采集及传输等功能，实现水质重金属全自动在线监测。",
+  "url": "https://www.tofms.net/goods/151.html",
+  "sourceKey": "s04-10",
+  "sourceName": "禾信仪器 Hexin",
+  "sourceType": "质谱仪器企业",
+  "publishedAt": null,
+  "crawledAt": "2026-09-19T20:49:21.143Z",
+  "content": "ICP-MS 1000 型 电感耦合等离子体 质谱仪主要包括以下功能模块：、自动取水模块、进样系统、 ICP 离子源、接口单元、离子传输系统、四级杆质量分析系统、离子检测及和数据采集系统、真空系统、整机控制系统与软件系统，待测样品通过进样系统进入离子源部分，在被 ICP 射频电源离子化后，在接口及离子传输系统中通过聚焦、消除干扰后进入四极杆质量分析器，在其中离子将按照质荷比（ m/z ）大小被分开，经过聚焦后，达到检测器。检测器将不同质荷比的离子流通过接收、测量及数据处理转换成电信号经放大、处理后得到分析结果 。",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-19T20:49:21.143Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "8e01c0df683b10f629d1e80d924ac0f87b47ace73f86d8f953398e742d2e002a"
+}
