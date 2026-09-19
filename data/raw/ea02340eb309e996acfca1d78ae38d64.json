@@ -7,10 +7,13 @@
   "sourceType": "自主实验室与平台",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:57:41.220Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "发布时间：2026-09-10 | 供稿部门：2508组 | 【 放大 】 【 缩小 】 | 【 打印 】 【 关闭 】 近日，我所化学反应动力学全国重点实验室大连光源科学研究中心（ 2500 组群）李宏伟研究员、杨学明院士团队联合英国贝尔法斯特女王大学 Tom J. Millar 教授，在低温气相反应动力学领域取得新进展，团队利用大连相干光源揭示了星际冷分子云环境中 α,β- 不饱和羰基化合物的气相合成机制。 甲基乙烯酮和丙烯醛是 α,β- 不饱和羰基化合物的典型代表，也是星际冷分子云环境中的关键中间体。二者可经一系列反应生成羧酸、酰胺、酯类、酸酐乃至氨基酸等前生命分子，对其产生和演化机制的研究，可为生命起源的“天外假说”提供支撑。甲基乙烯酮和丙烯醛在金牛座分子云 -1 （ TMC-1 ）中均具有可观丰度，但现有星际化学反应网络及相关模型均难以解释其主要来源。 研究团队利用自主搭建的低温气相均匀流反应动力学研究装置（ Chin. J. Chem. Phys. , 2025 ），结合大连相干光源光电离质谱探测技术，开展低温自由基反应动力学研究，已揭示了自由基在星际低温环境下烯烃（ J. Chem. Phys. , 2025 ）和醚类分子（ Chin. Chem. Lett. , 2025 ）演化中的作用。在本研究中，团队在 25 至 100 K 的低温气相条件下系统研究了次甲基自由基与乙醛的反应动力学，提出了次甲基自由基与含羰基有机分子的反应机理。依托大连相干光源低温气相动力学实验站，团队揭示了该气相反应体系可高效合成甲基乙烯酮和丙烯醛，并验证了相关气相化学反应机理。暗星云化学反应模型结果表明，该气相反应是冷分子云环境中甲基乙烯酮和丙烯醛的主要来源。 该研究进一步揭示了冷分子云中不饱和复杂有机物可通过中性—中性气相反应高效生成，突破了以往认为此类复杂有机物主要形成于冰面过程的传统认知，为重新评估星际复杂有机分子的气相化学网络及前生命分子起源路径提供了实验依据。 相关研究成果以“ Low-Temperature Synthesis of α,β-Unsaturated Carbonyl Compounds: Key Intermediates in Interstellar Organic Chemistry” 为题，发表在《美国化学会志》（ Journal of the American Chemical Society ）上。该工作的第一作者是我所 2508 组已毕业博士周飞跃。该工作得到了国家自然科学基金等项目的资助。（文 / 图 周飞跃） 文章链接： https://pubs.acs.org/doi/10.1021/jacs.6c13446",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "ea02340eb309e996acfca1d78ae38d64"
+  "contentHash": "759ca9107a5229180c86e1c25975093e1f7eb78b82ebafdfc17694312e2d5f1a",
+  "legacyId": "ea02340eb309e996acfca1d78ae38d64",
+  "lastFetchAt": "2026-09-19T04:49:57.615Z",
+  "contentTruncated": false,
+  "contentError": ""
 }

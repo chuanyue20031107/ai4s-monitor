@@ -1,11 +1,77 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-18T21:02:13.011Z",
-  "pendingCount": 327,
-  "readyCount": 327,
+  "updatedAt": "2026-09-19T04:55:19.264Z",
+  "pendingCount": 341,
+  "readyCount": 341,
   "awaitingContentCount": 0,
-  "excludedContentCount": 187,
+  "excludedContentCount": 167,
   "items": [
+    {
+      "id": "2093eb1b3d8a919a1a933b1d030f14fa",
+      "title": "了 解 更 多",
+      "url": "https://www.shlab.org.cn/enrollment",
+      "publishedAt": null,
+      "crawledAt": "2026-09-19T04:49:46.316Z",
+      "contentStatus": "ready",
+      "contentHash": "a8cbca696ae2133eba0117c80e9b90891b825419ddf383f22149f30f2c27badf",
+      "rawPath": "data/raw/2093eb1b3d8a919a1a933b1d030f14fa.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "0eee806108e6630669cf52b8d9ecc43b",
+      "title": "生物技术国家专业化众创空间",
+      "url": "https://tib.cas.cn/kxyj/cxdy/202411/t20241106_7430853.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-19T04:47:15.237Z",
+      "contentStatus": "ready",
+      "contentHash": "96707e5ba3982227af20cb71deb33ca213eb46c50a0f5a126eea2a1064dc07a6",
+      "rawPath": "data/raw/0eee806108e6630669cf52b8d9ecc43b.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "b07185afee50789105f2736e7e716468",
+      "title": "中国合成生物产业知识产权运营中心",
+      "url": "https://tib.cas.cn/kxyj/cxdy/202411/t20241106_7430744.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-19T04:47:14.860Z",
+      "contentStatus": "ready",
+      "contentHash": "113ac0c5f2df81a84ee38917f92e5b05770a3c71abf6eb457347d76f9a8981f1",
+      "rawPath": "data/raw/b07185afee50789105f2736e7e716468.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "fc67de606413ad79ad1818934e492bb6",
+      "title": "京津冀食品营养健康与安全创新平台",
+      "url": "https://tib.cas.cn/kxyj/cxdy/202411/t20241106_7430593.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-19T04:47:14.021Z",
+      "contentStatus": "ready",
+      "contentHash": "0db25f217daec3714fcfa509678b02849883d82f9ff922ade8a9a679a148ea55",
+      "rawPath": "data/raw/fc67de606413ad79ad1818934e492bb6.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "10ca774d07ab1c1ac459b2985568668e",
+      "title": "学校召开2026年“一站式”学生社区建设推进工作会议",
+      "url": "http://news.ustc.edu.cn/info/1055/96343.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-09-19T04:47:05.556Z",
+      "contentStatus": "ready",
+      "contentHash": "037a90329d3d5dfe5796668c4be78a45372b379cd7cc7c4592b5055c8cd58026",
+      "rawPath": "data/raw/10ca774d07ab1c1ac459b2985568668e.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "8e9bea97c3dca595c8f0cc2360199144",
+      "title": "我校举办2026年离退休教职工书画摄影手工作品展",
+      "url": "http://news.ustc.edu.cn/info/1055/96333.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-09-19T04:47:02.855Z",
+      "contentStatus": "ready",
+      "contentHash": "d63d7e9273bdd1b6733ef1c92d426e0ac3f8e1fad4b1bb138b30d3b4cd982d11",
+      "rawPath": "data/raw/8e9bea97c3dca595c8f0cc2360199144.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "6d599667fdb2214e70b770ae9327ef08",
       "title": "--> --> --> --> --> --> -->",
@@ -796,6 +862,17 @@
       "contentStatus": "ready",
       "contentHash": "480aa18deae3def30a058a0b12fe96de2e0c0f7093dce1c6ad1455882351fa1a",
       "rawPath": "data/raw/e42991825225f7d13149200d127a49db.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "1df0f6958407a752a3852b46117975e2",
+      "title": "创材深造完成A+轮融资：以真实数据驱动自我进化RSI，近20款高性能金属材料量产落地 2026.09.16",
+      "url": "https://www.deep-material.com/qiyexinwen/92",
+      "publishedAt": null,
+      "crawledAt": "2026-09-17T17:09:43.062Z",
+      "contentStatus": "ready",
+      "contentHash": "a4560a2609f070eb104bc3839bfabe2fe6571eed676fd3e473df615ff14f76e9",
+      "rawPath": "data/raw/1df0f6958407a752a3852b46117975e2.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -2196,6 +2273,17 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "ea02340eb309e996acfca1d78ae38d64",
+      "title": "我所利用大连相干光源揭示星际冷分子云中不饱和羰基化合物的气相形成机制",
+      "url": "https://www.dicp.ac.cn/xwdt/kyjz/202609/t20260908_8279597.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T06:57:41.220Z",
+      "contentStatus": "ready",
+      "contentHash": "759ca9107a5229180c86e1c25975093e1f7eb78b82ebafdfc17694312e2d5f1a",
+      "rawPath": "data/raw/ea02340eb309e996acfca1d78ae38d64.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "ee8d49455842f8c9d9355ebf4cd7e649",
       "title": "我所250千瓦级海水制氢联产淡水系统实现高效稳定运行",
       "url": "https://www.dicp.ac.cn/xwdt/kyjz/202609/t20260916_8283606.html",
@@ -2281,6 +2369,17 @@
       "contentStatus": "ready",
       "contentHash": "6f57bfb4ed151cc42ac6fb08d62f01cbfc0283436994a9855eb0827213098cf7",
       "rawPath": "data/raw/cf32e5a8040179eb9f16d7507efad728.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "cf9957c0e2713bc95e2cc7627b431afd",
+      "title": "AGI4S珠穆朗玛计划 “AGI for Science珠穆朗玛计划”（AGI4S珠穆朗玛计划），旨在构建“科学智能创新中枢”，打造领先的 AGI4S 基座能力，汇聚科学智能创新全要素，助力全球科学家攀登科学高峰。",
+      "url": "https://www.shlab.org.cn/news/5444242",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T06:57:40.684Z",
+      "contentStatus": "ready",
+      "contentHash": "66fa5ad43da2222f0a84a8b35b0716134c36c6f69757c14b9ad1553e1e130d44",
+      "rawPath": "data/raw/cf9957c0e2713bc95e2cc7627b431afd.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -2416,6 +2515,17 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "ef3510ddeb01e833207c57d9601a6c9a",
+      "title": "2026/09 24 Connecting Biostatistics, Public Health, and Clinical Research 2026年9月24日 上午10:00 张敏 教授 高科创新中心B座1楼大型多媒体会议室 了解详情",
+      "url": "https://www.szbl.ac.cn/info/1017/10568.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T06:57:37.192Z",
+      "contentStatus": "ready",
+      "contentHash": "1cbc7c903b0279956b3c51f59f259c843eda620ffa66ed95b281b492b5f10417",
+      "rawPath": "data/raw/ef3510ddeb01e833207c57d9601a6c9a.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "57b274b0913296219101db0797f4411a",
       "title": "学校组织教师节慰问及座谈交流活动",
       "url": "http://news.ustc.edu.cn/info/1055/96215.htm",
@@ -2446,6 +2556,17 @@
       "contentStatus": "ready",
       "contentHash": "83704099bca491a745f712724158e62dbf8c7550c331d1ec526ee252ce058c67",
       "rawPath": "data/raw/81fa48d90a6ff7192072fd8f183ed6dd.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "d6ee49f097bdf587bf593f6d62a62ba4",
+      "title": "中国科大结晶聚合物链向热导率预测研究入选《Macromolecules》内封面",
+      "url": "http://news.ustc.edu.cn/info/1055/96283.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T06:05:33.961Z",
+      "contentStatus": "ready",
+      "contentHash": "8e339e1b3d46a986e23b8ad5823264d36204c2222eb513efb0c4094cd7ac6fc5",
+      "rawPath": "data/raw/d6ee49f097bdf587bf593f6d62a62ba4.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -2999,6 +3120,17 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "09c2cc23740a21a158954dc84922b98e",
+      "title": "赛诺菲团队到访晶泰科技，共同探讨AI 如何加速新药研发",
+      "url": "https://www.xtalpi.com/%e8%b5%9b%e8%af%ba%e8%8f%b2%e5%9b%a2%e9%98%9f%e5%88%b0%e8%ae%bf%e6%99%b6%e6%b3%b0%e7%a7%91%e6%8a%80%ef%bc%8c%e5%85%b1%e5%90%8c%e6%8e%a2%e8%ae%a8ai-%e5%a6%82%e4%bd%95%e5%8a%a0%e9%80%9f%e6%96%b0/",
+      "publishedAt": "2026-09-15T09:33:59.000Z",
+      "crawledAt": "2026-09-19T04:47:01.479Z",
+      "contentStatus": "ready",
+      "contentHash": "8bdc180ff1713e5236282c8af0fb79d995203d40fc0fd59764e7c1e493457996",
+      "rawPath": "data/raw/09c2cc23740a21a158954dc84922b98e.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "7f82d995c515e5ba429e7e06d184bac3",
       "title": "How Fyxer built an AI executive assistant people trust",
       "url": "https://openai.com/index/fyxer",
@@ -3029,6 +3161,17 @@
       "contentStatus": "ready",
       "contentHash": "2dca0d1834ad59c94de340fb3682942595e65936a88eb938f7ac9d60d982fc56",
       "rawPath": "data/raw/60f024e81c4b7c8ade84a13679bc2841.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "76a211dc038a88c17df1f7b467ff52f5",
+      "title": "【晶泰生态圈】祝贺鼎犀智创完成数亿元Pre-A轮融资",
+      "url": "https://www.xtalpi.com/%e3%80%90%e6%99%b6%e6%b3%b0%e7%94%9f%e6%80%81%e5%9c%88%e3%80%91%e7%a5%9d%e8%b4%ba%e9%bc%8e%e7%8a%80%e6%99%ba%e5%88%9b%e5%ae%8c%e6%88%90%e6%95%b0%e4%ba%bf%e5%85%83pre-a%e8%bd%ae%e8%9e%8d%e8%b5%84/",
+      "publishedAt": "2026-09-10T09:47:16.000Z",
+      "crawledAt": "2026-09-19T04:47:01.479Z",
+      "contentStatus": "ready",
+      "contentHash": "83e84cb26c9a19942a1fe2109777c71173e9227d26bf23c2223c79b99db3de02",
+      "rawPath": "data/raw/76a211dc038a88c17df1f7b467ff52f5.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -3095,6 +3238,17 @@
       "contentStatus": "ready",
       "contentHash": "f6f1fa37fa77f9fcc2c46e7b912a3ca7b92d3d966de3b335899ad1c74542d298",
       "rawPath": "data/raw/76907c6af28b11b37cf853028a524460.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "b830d0149c75a422f72d5fba87f48cbf",
+      "title": "祝贺Moderna！AI攻克癌症疫苗难题，晶泰一直在路上",
+      "url": "https://www.xtalpi.com/%e7%a5%9d%e8%b4%bamoderna%ef%bc%81ai%e6%94%bb%e5%85%8b%e7%99%8c%e7%97%87%e7%96%ab%e8%8b%97%e9%9a%be%e9%a2%98%ef%bc%8c%e6%99%b6%e6%b3%b0%e4%b8%80%e7%9b%b4%e5%9c%a8%e8%b7%af%e4%b8%8a/",
+      "publishedAt": "2026-08-20T03:12:39.000Z",
+      "crawledAt": "2026-09-19T04:47:01.479Z",
+      "contentStatus": "ready",
+      "contentHash": "465d569b921c5f2e6a019961811aef1a45f5750c0bbfedbb5eb7587899cef79c",
+      "rawPath": "data/raw/b830d0149c75a422f72d5fba87f48cbf.json",
       "lastAnalysisStatus": "pending"
     },
     {

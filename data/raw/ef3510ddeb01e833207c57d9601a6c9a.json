@@ -7,10 +7,13 @@
   "sourceType": "自主实验室与平台",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:57:37.192Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "【讲座主题】：Connecting Biostatistics, Public Health, and Clinical Research Copyright © 2026 深圳湾实验室 版权所有www.szbl.ac.cn All Rights Reserved. 粤ICP备19032884号 粤公网安备44031102000926号",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "ef3510ddeb01e833207c57d9601a6c9a"
+  "contentHash": "1cbc7c903b0279956b3c51f59f259c843eda620ffa66ed95b281b492b5f10417",
+  "legacyId": "ef3510ddeb01e833207c57d9601a6c9a",
+  "lastFetchAt": "2026-09-19T04:49:41.599Z",
+  "contentTruncated": false,
+  "contentError": ""
 }
