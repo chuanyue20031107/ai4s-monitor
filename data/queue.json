@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-20T06:18:50.468Z",
-  "pendingCount": 387,
-  "readyCount": 387,
+  "updatedAt": "2026-09-20T06:21:25.520Z",
+  "pendingCount": 382,
+  "readyCount": 382,
   "awaitingContentCount": 0,
   "excludedContentCount": 140,
   "items": [
@@ -103,61 +103,6 @@
       "contentStatus": "ready",
       "contentHash": "8ad645837ffd9fa54862e48f865c78127d440af414bfe21fa5ef37a7cb367e60",
       "rawPath": "data/raw/51558b40c23445f9b6afc743dd73b97c.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "8d9c1a6b0ec58a1738f0bc3b5755c585",
-      "title": "AI省钱管家，帮企业算清环保三本账 2026-09-16",
-      "url": "https://www.fpi-inc.com/news_cont_48308.html",
-      "publishedAt": null,
-      "crawledAt": "2026-09-19T20:49:18.821Z",
-      "contentStatus": "ready",
-      "contentHash": "9595656e9e0514f55d06487d582749919786798f59280e2d27be26f60b6c6d54",
-      "rawPath": "data/raw/8d9c1a6b0ec58a1738f0bc3b5755c585.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "deef4c26c1a6045f3bbd8ac20fe88d00",
-      "title": "Media Contacts",
-      "url": "https://www.llnl.gov/news/media-contacts",
-      "publishedAt": null,
-      "crawledAt": "2026-09-19T15:58:47.541Z",
-      "contentStatus": "ready",
-      "contentHash": "f5c81ba5df066c890d89807faafb5994d69ad88a2c751bd8456865cf0df218de",
-      "rawPath": "data/raw/deef4c26c1a6045f3bbd8ac20fe88d00.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "0c04462f478ff51ebd8e409453d94d9e",
-      "title": "Highlights",
-      "url": "https://www.llnl.gov/news/highlights",
-      "publishedAt": null,
-      "crawledAt": "2026-09-19T15:58:45.885Z",
-      "contentStatus": "ready",
-      "contentHash": "cc4c26bb6ce87b804b070251b756f3e80c58f8d4015d546712ba3d441e302e9b",
-      "rawPath": "data/raw/0c04462f478ff51ebd8e409453d94d9e.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "afd38b7a878932c8621f11ff452dca10",
-      "title": "Multimodal machine learning models enhance outcome prediction in intrahepatic cholangiocarcinoma Eliott Brion et al. Pub: Computers in Biology and Medicine Oct 30, 2025",
-      "url": "https://www.owkin.com/publications/multimodal-machine-learning-models-enhance-outcome-prediction-in-intrahepatic-cholangiocarcinoma",
-      "publishedAt": null,
-      "crawledAt": "2026-09-19T15:58:39.894Z",
-      "contentStatus": "ready",
-      "contentHash": "04b5c50647f9867548401a4d95658f9b32734167b056b22bb37d043949c6f11f",
-      "rawPath": "data/raw/afd38b7a878932c8621f11ff452dca10.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "f4d0a2cb4661dbec2cdda5e7c8c5ab8c",
-      "title": "A deep learning-based multiscale integration of spatial omics with tumor morphology Benoit Schmauch et al. Pub: Nature Communications Nov 27, 2025",
-      "url": "https://www.owkin.com/publications/a-deep-learning-based-multiscale-integration-of-spatial-omics-with-tumor-morphology",
-      "publishedAt": null,
-      "crawledAt": "2026-09-19T15:58:39.853Z",
-      "contentStatus": "ready",
-      "contentHash": "b0bc54c8423c4e5e20e2f06d8dbefa5b97fccc75a431fe5ebaeb401cf0b5f2d9",
-      "rawPath": "data/raw/f4d0a2cb4661dbec2cdda5e7c8c5ab8c.json",
       "lastAnalysisStatus": "pending"
     },
     {

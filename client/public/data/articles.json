@@ -304,35 +304,30 @@
       "sourceKey": "s04-09",
       "sourceName": "聚光科技 FPI",
       "sourceType": "科学仪器企业",
-      "category": "",
+      "category": "AI4S 应用",
       "publishedAt": null,
       "crawledAt": "2026-09-19T20:49:18.821Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "聚光科技介绍面向企业环保管理的AI产品，将排污许可证要求转化为任务，连接监测数据、治理设施和责任流程，用于风险预警、任务派发、处置留痕和治理成本分析。产品还尝试对排放负荷、运行参数、能耗物耗和耗材变化建立分析模型，并已在化工、制药场景试点。文章强调AI进入业务闭环，但没有披露准确率、误报率或成本改善数据。",
+      "score": 3,
+      "importanceReason": "内容展示了AI连接环境监测数据和实际管理流程的应用方向，并有行业试点，但证据来自企业宣传，缺少可复核的效果指标。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "数据",
+        "模型",
+        "实验自动化"
+      ],
       "url": "https://www.fpi-inc.com/news_cont_48308.html",
-      "analysisStatus": "analyzing",
-      "failureReason": ""
-    },
-    {
-      "id": "deef4c26c1a6045f3bbd8ac20fe88d00",
-      "title": "Media Contacts",
-      "sourceKey": "s01-18",
-      "sourceName": "Lawrence Livermore National Laboratory",
-      "sourceType": "美国国家实验室",
-      "category": "",
-      "publishedAt": null,
-      "crawledAt": "2026-09-19T15:58:47.541Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
-      "url": "https://www.llnl.gov/news/media-contacts",
-      "analysisStatus": "analyzing",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-20T06:19:09.087Z",
+      "evidence": [
+        {
+          "url": "https://www.fpi-inc.com/news_cont_48308.html",
+          "quote": "它连接现场监测数据、治理设施运行、排污许可要求和环保管理流程，让AI从“看数据”走向 “管过程、找风险、算成本”"
+        }
+      ],
+      "limitations": "企业产品新闻，未提供数据规模、模型性能、试点前后对照、部署成本或第三方评测。",
+      "batchFile": "data/inbox/2026-09-20T06-19-09-087Z-manual-003.json"
     },
     {
       "id": "0c04462f478ff51ebd8e409453d94d9e",
@@ -340,17 +335,31 @@
       "sourceKey": "s01-18",
       "sourceName": "Lawrence Livermore National Laboratory",
       "sourceType": "美国国家实验室",
-      "category": "",
+      "category": "自动化实验室",
       "publishedAt": null,
       "crawledAt": "2026-09-19T15:58:45.885Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "劳伦斯利弗莫尔国家实验室的概览页介绍其将AI用于国家安全、材料发现、聚变研究、先进制造和能源韧性，并提到自驱动实验室、数字孪生、加速药物发现和超算支撑的建模模拟。页面还将El Capitan超算与高保真模拟联系起来。该页面是机构能力概览，说明应用方向和基础设施，但没有针对单个项目给出可复核的实验结果。",
+      "score": 3,
+      "importanceReason": "机构公开列出AI、自驱动实验室、数字孪生和材料/药物发现等AI4S应用方向，覆盖面广，但属于概览性介绍，缺少具体项目指标。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "模型",
+        "实验自动化",
+        "药物设计",
+        "材料发现"
+      ],
       "url": "https://www.llnl.gov/news/highlights",
-      "analysisStatus": "analyzing",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-20T06:19:09.087Z",
+      "evidence": [
+        {
+          "url": "https://www.llnl.gov/news/highlights",
+          "quote": "From creating self-driving labs and digital twins that streamline production workflows to accelerated drug discovery"
+        }
+      ],
+      "limitations": "机构概览页面，未提供具体算法、数据集、实验周期缩短比例、发现案例的独立验证或可复现实验细节。",
+      "batchFile": "data/inbox/2026-09-20T06-19-09-087Z-manual-003.json"
     },
     {
       "id": "afd38b7a878932c8621f11ff452dca10",
@@ -358,17 +367,30 @@
       "sourceKey": "s02-21",
       "sourceName": "Owkin",
       "sourceType": "AI生物医药公司",
-      "category": "",
+      "category": "AI4S 应用",
       "publishedAt": null,
       "crawledAt": "2026-09-19T15:58:39.894Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "这项研究使用临床、组织学、影像学和靶向测序等多模态数据，建立肝内胆管癌总体生存及无进展/无复发生存预测模型。研究在切除队列75例和未切除队列98例上采用嵌套交叉验证，留出患者上的最高平均一致性指数达到0.70±0.13，跨队列验证达到0.61（95% CI 0.53–0.68）。研究还用多变量分析和Shapley值解释预测特征。",
+      "score": 4,
+      "importanceReason": "研究提供了队列规模、验证方法、性能指标和可解释特征，展示多模态机器学习用于肿瘤预后预测的实际证据；样本量和外部泛化仍限制结论强度。",
+      "contentType": "paper_result",
+      "moatTags": [
+        "数据",
+        "模型",
+        "药物设计"
+      ],
       "url": "https://www.owkin.com/publications/multimodal-machine-learning-models-enhance-outcome-prediction-in-intrahepatic-cholangiocarcinoma",
-      "analysisStatus": "analyzing",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-20T06:19:09.087Z",
+      "evidence": [
+        {
+          "url": "https://www.owkin.com/publications/multimodal-machine-learning-models-enhance-outcome-prediction-in-intrahepatic-cholangiocarcinoma",
+          "quote": "achieving average concordance indices of up to 0.70 ± 0.13"
+        }
+      ],
+      "limitations": "研究样本量有限，跨队列一致性指数为0.61，尚未证明模型能改善临床决策或患者结局。",
+      "batchFile": "data/inbox/2026-09-20T06-19-09-087Z-manual-003.json"
     },
     {
       "id": "f4d0a2cb4661dbec2cdda5e7c8c5ab8c",
@@ -376,17 +398,29 @@
       "sourceKey": "s02-21",
       "sourceName": "Owkin",
       "sourceType": "AI生物医药公司",
-      "category": "",
+      "category": "AI4S 应用",
       "publishedAt": null,
       "crawledAt": "2026-09-19T15:58:39.853Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "MISO是一种将空间转录组与组织形态整合的深度学习方法，目标是从常规H&E切片预测空间转录组信息。研究在72个10X Genomics Visium样本上训练和验证，并在来自MOSAIC联盟、覆盖五种适应症的348个样本上进行进一步验证。作者报告MISO在多项基准测试中优于对比方法，并能进行接近单细胞分辨率的空间基因表达预测。",
+      "score": 4,
+      "importanceReason": "研究把常规病理切片与空间组学联系起来，给出跨数据集验证规模和明确任务结果，对降低空间组学应用门槛具有潜在价值。",
+      "contentType": "paper_result",
+      "moatTags": [
+        "数据",
+        "模型"
+      ],
       "url": "https://www.owkin.com/publications/a-deep-learning-based-multiscale-integration-of-spatial-omics-with-tumor-morphology",
-      "analysisStatus": "analyzing",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-20T06:19:09.087Z",
+      "evidence": [
+        {
+          "url": "https://www.owkin.com/publications/a-deep-learning-based-multiscale-integration-of-spatial-omics-with-tumor-morphology",
+          "quote": "We further validate our approach on 348 samples from five indications from the MOSAIC consortium"
+        }
+      ],
+      "limitations": "摘要未给出各任务的具体误差、组织类型分层结果、外部机构复现情况及预测空间表达与真实测量的差异范围。",
+      "batchFile": "data/inbox/2026-09-20T06-19-09-087Z-manual-003.json"
     },
     {
       "id": "2b85e6d8de8418a6f1f30e38f01cb303",
@@ -10174,5 +10208,5 @@
       "failureReason": ""
     }
   ],
-  "updatedAt": "2026-09-20T06:18:50.468Z"
+  "updatedAt": "2026-09-20T06:21:25.520Z"
 }
