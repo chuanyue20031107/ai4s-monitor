@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "generator": "chatgpt-task",
+  "createdAt": "2026-09-20T04:02:34.046Z",
+  "analyses": [
+    {
+      "articleId": "d010ab1f8ecb3f3f7cfd16f641bf739a",
+      "contentHash": "bfad6084a92589dcd564a1b205a6b5f83d0cb20b5ccdcfa21956a05eadf5b0a8",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-20T04:02:34.046Z",
+      "failureReason": "AAAI投稿与会议报告导航页，无具体AI4S情报"
+    },
+    {
+      "articleId": "7244b2f343ea8986c38f000eb2b34f79",
+      "contentHash": "58171a244d6f51ebb7c764dcd016b56aada52b10d58ec437064ba6b2e67801b2",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-20T04:02:34.046Z",
+      "failureReason": "版权许可说明页，无具体AI4S情报"
+    },
+    {
+      "articleId": "a91543c14263a5286a7f94bc01e92bf8",
+      "contentHash": "f796978d04e3972d96cf76c08d34bf76c1a1d0192dee402f90f78856eb3fdc0c",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-20T04:02:34.046Z",
+      "failureReason": "出版政策与投稿规范页，无具体AI4S情报"
+    },
+    {
+      "articleId": "257ba6793b2787de855d492bbdd9e484",
+      "contentHash": "66fc004cf0a4a28fff07d3b14601923a7dd3c3106e186dd056da0f84c6018418",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-20T04:02:34.046Z",
+      "category": "其他",
+      "summary": "文章以施莱登的经历回顾细胞学说形成过程，介绍其从法律职业转向植物学研究，并叙述1838—1839年施莱登与施旺将植物和动物组织的共同细胞结构概括为细胞学说。文章强调显微观察和跨学科交流在形成统一生命结构认识中的作用。其科学史叙述包含作者个人化表达和延伸联想，主要价值是科普回顾，未提供新的实验数据或可复现实验方案。",
+      "score": 2,
+      "importanceReason": "内容准确聚焦细胞学说的历史脉络和显微观察启发，但属于科学史科普，未报告新的AI4S方法、数据或实验结果。",
+      "contentType": "media_report",
+      "moatTags": [],
+      "evidence": [
+        {
+          "url": "https://www.caclp.com/article/?detail_14395.html",
+          "quote": "细胞是植物体结构的基本单位，低等植物由单个细胞构成，而高等植物则是由无数细胞组成的共同体"
+        }
+      ],
+      "limitations": "文章为科普叙述，部分历史细节和心理经历带有作者转述或推测，未提供原始文献核验、定量数据或新的研究证据。"
+    },
+    {
+      "articleId": "77465d0b3d43e8383386f9e947a219ee",
+      "contentHash": "149729fe9d7afbdcf11c82de7eae6110c8b8dc6a29a5d56103d48395b7066095",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-20T04:02:34.046Z",
+      "failureReason": "医疗试剂采购招标公告，无AI4S研究或技术进展"
+    }
+  ]
+}
