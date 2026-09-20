@@ -1,0 +1,18 @@
+{
+  "id": "99cf2798098b9bfb937c4e3225a3b5c5",
+  "title": "AI tool spots antibiotics that fight drug-resistant gonorrhoea",
+  "url": "https://jclinic.mit.edu/ai-tool-spots-antibiotics-that-fight-drug-resistant-gonorrhoea/",
+  "sourceKey": "s01-16",
+  "sourceName": "MIT Jameel Clinic",
+  "sourceType": "高校研究机构",
+  "publishedAt": "2026-06-24T15:44:00.000Z",
+  "crawledAt": "2026-09-20T20:55:54.226Z",
+  "content": "Scientists have used a machine-learning strategy to discover antibiotics with fresh mechanisms, including two that do not structurally resemble antimicrobial drugs already in use. The bacterium Neisseria gonorrhoeae, which causes gonorrhoea, has developed a high level of resistance to at least five previously recommended antibiotics, and some emerging strains of the microorganism do not respond to current treatments. Melis Anahtar at the Massachusetts Institute of Technology in Cambridge and her colleagues created a data set containing 38,650 molecules, as well as information about how well they slowed N. gonorrhoeae growth. The researchers trained a neural network on those data and then used it to screen 6.1 million molecules, finding some that were predicted to target the bacteria. Laboratory testing showed that one of these molecules was both effective against multidrug-resistant N. gonorrhoeae and relatively non-toxic to human cells. After retraining the model on another 152 molecules, the scientists identified an extra candidate. This molecule also killed multidrug-resistant N. gonorrhoeae strains in vitro, and it lowered the levels of a drug-susceptible strain of the bacterium in mice. Further experiments showed that the molecule inhibits an enzyme important for building the bacterial cell wall. Nature 655 , 11 (2026) doi: https://doi.org/10.1038/d41586-026-01987-7",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-20T20:55:54.226Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "cc118a1b9b58d69d3929f201a7ff818f2c893e52c1a7cdd1f8c33c2d39144864"
+}

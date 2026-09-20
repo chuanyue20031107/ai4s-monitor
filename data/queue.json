@@ -1,10 +1,10 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-20T16:20:49.157Z",
-  "pendingCount": 403,
-  "readyCount": 403,
+  "updatedAt": "2026-09-20T20:56:48.794Z",
+  "pendingCount": 405,
+  "readyCount": 405,
   "awaitingContentCount": 0,
-  "excludedContentCount": 132,
+  "excludedContentCount": 131,
   "items": [
     {
       "id": "160b7e1b45370383c94c6deaacc5143b",
@@ -1995,6 +1995,17 @@
       "contentStatus": "ready",
       "contentHash": "8e908f65461bc107858b572e21705e815198fce2c307436542f608200d3d3c5b",
       "rawPath": "data/raw/cdf356a45609b34c71babf8816f77f95.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "ec087c82b68a9187ea6370f3681de168",
+      "title": "AWS HealthOmics Transform genomic, transcriptomic, and other omics data into insights. Learn more »",
+      "url": "https://aws.amazon.com/healthomics/",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T07:35:36.375Z",
+      "contentStatus": "ready",
+      "contentHash": "87a4a4ba807ee6de72cced14b6d18a43117af7cc9680352473de08925eeb41bc",
+      "rawPath": "data/raw/ec087c82b68a9187ea6370f3681de168.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -4074,6 +4085,17 @@
       "contentStatus": "ready",
       "contentHash": "41c2642c642af3463f38c2a0df8c52c63c30ca6f847442446c9b8c4cd4a52bdf",
       "rawPath": "data/raw/fce114fa85693f2cd863751ad0631721.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "99cf2798098b9bfb937c4e3225a3b5c5",
+      "title": "AI tool spots antibiotics that fight drug-resistant gonorrhoea",
+      "url": "https://jclinic.mit.edu/ai-tool-spots-antibiotics-that-fight-drug-resistant-gonorrhoea/",
+      "publishedAt": "2026-06-24T15:44:00.000Z",
+      "crawledAt": "2026-09-20T20:55:54.226Z",
+      "contentStatus": "ready",
+      "contentHash": "cc118a1b9b58d69d3929f201a7ff818f2c893e52c1a7cdd1f8c33c2d39144864",
+      "rawPath": "data/raw/99cf2798098b9bfb937c4e3225a3b5c5.json",
       "lastAnalysisStatus": "pending"
     },
     {

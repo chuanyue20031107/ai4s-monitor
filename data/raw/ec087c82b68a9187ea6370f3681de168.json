@@ -7,10 +7,13 @@
   "sourceType": "科技大厂",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:36.375Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "AWS HealthOmics Overview Features Pricing Resources Customers AWS HealthOmics Accelerate scientific breakthroughs at scale with fully managed bioinformatics workflows Get Started Why HealthOmics? AWS HealthOmics is a HIPAA-eligible service that accelerates clinical diagnostic testing, drug discovery, and agriculture research by fully managing the complex infrastructure behind your bioinformatics workflows. HealthOmics supports industry-standard workflow languages (WDL, Nextflow, CWL) and seamlessly scales bioinformatics infrastructure to support data from tens of thousands of tests per day—all with predictable cost per-sample. HealthOmics handles the technical complexities like managing compute resources and maintaining workflow engines so you can focus entirely on scientific breakthroughs. Play Key Benefits Scale without complexity Scale workflows across 100,000+ concurrent vCPUs to support tens of thousands of tests daily with zero infrastructure management and predictable cost-per sample. Focus on science, not infrastructure Use familiar workflow languages and APIs while AWS automatically handles infrastructure orchestration and data management behind the scenes. Built-in compliance features Comprehensive audit trails, data provenance tracking, and HIPAA-eligible infrastructure designed for clinical workflows—all out-of-the-box—support development of solutions that meet regulatory requirements. Primary use cases Clinical Diagnostics Build and scale diagnostic testing workflows with predictable costs and fully managed infrastructure that grows with your testing volume. Learn more Drug Discovery Accelerate therapeutic research by orchestrating biological foundation models at scale, enabling rapid iteration across millions of potential candidates. Learn more Agricultural Research Enhance crop traits like drought tolerance and pest resistance through AI-powered workflows that improve food security and agricultural productivity. Learn more Get started with AWS HealthOmics Start using AWS HealthOmics Sign in Learn more about pricing Learn more Discover Ready2Run workflows Visit Ready2Run workflows",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "ec087c82b68a9187ea6370f3681de168"
+  "contentHash": "87a4a4ba807ee6de72cced14b6d18a43117af7cc9680352473de08925eeb41bc",
+  "legacyId": "ec087c82b68a9187ea6370f3681de168",
+  "lastFetchAt": "2026-09-20T20:55:53.672Z",
+  "contentTruncated": false,
+  "contentError": ""
 }
