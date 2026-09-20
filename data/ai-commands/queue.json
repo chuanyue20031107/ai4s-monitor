@@ -1,4 +1,145 @@
 {
   "schemaVersion": 1,
-  "items": []
+  "items": [
+    {
+      "id": "full-runtime-20260920035340-a1b2c3d4-0001",
+      "commandId": "full-runtime-20260920035340-a1b2c3d4",
+      "taskPath": "data/ai-commands/tasks/full-runtime-20260920035340-a1b2c3d4-0001.json",
+      "createdAt": "2026-09-20T03:54:39.383Z",
+      "pending": 30
+    },
+    {
+      "id": "full-runtime-20260920035340-a1b2c3d4-0002",
+      "commandId": "full-runtime-20260920035340-a1b2c3d4",
+      "taskPath": "data/ai-commands/tasks/full-runtime-20260920035340-a1b2c3d4-0002.json",
+      "createdAt": "2026-09-20T03:54:39.383Z",
+      "pending": 30
+    },
+    {
+      "id": "full-runtime-20260920035340-a1b2c3d4-0003",
+      "commandId": "full-runtime-20260920035340-a1b2c3d4",
+      "taskPath": "data/ai-commands/tasks/full-runtime-20260920035340-a1b2c3d4-0003.json",
+      "createdAt": "2026-09-20T03:54:39.383Z",
+      "pending": 30
+    },
+    {
+      "id": "full-runtime-20260920035340-a1b2c3d4-0004",
+      "commandId": "full-runtime-20260920035340-a1b2c3d4",
+      "taskPath": "data/ai-commands/tasks/full-runtime-20260920035340-a1b2c3d4-0004.json",
+      "createdAt": "2026-09-20T03:54:39.383Z",
+      "pending": 30
+    },
+    {
+      "id": "full-runtime-20260920035340-a1b2c3d4-0005",
+      "commandId": "full-runtime-20260920035340-a1b2c3d4",
+      "taskPath": "data/ai-commands/tasks/full-runtime-20260920035340-a1b2c3d4-0005.json",
+      "createdAt": "2026-09-20T03:54:39.383Z",
+      "pending": 22
+    },
+    {
+      "id": "full-runtime-20260920035340-a1b2c3d4-0006",
+      "commandId": "full-runtime-20260920035340-a1b2c3d4",
+      "taskPath": "data/ai-commands/tasks/full-runtime-20260920035340-a1b2c3d4-0006.json",
+      "createdAt": "2026-09-20T03:54:39.383Z",
+      "pending": 4
+    },
+    {
+      "id": "full-runtime-20260920035340-a1b2c3d4-0007",
+      "commandId": "full-runtime-20260920035340-a1b2c3d4",
+      "taskPath": "data/ai-commands/tasks/full-runtime-20260920035340-a1b2c3d4-0007.json",
+      "createdAt": "2026-09-20T03:54:39.383Z",
+      "pending": 4
+    },
+    {
+      "id": "full-runtime-20260920035340-a1b2c3d4-0008",
+      "commandId": "full-runtime-20260920035340-a1b2c3d4",
+      "taskPath": "data/ai-commands/tasks/full-runtime-20260920035340-a1b2c3d4-0008.json",
+      "createdAt": "2026-09-20T03:54:39.383Z",
+      "pending": 6
+    },
+    {
+      "id": "full-runtime-20260920035340-a1b2c3d4-0009",
+      "commandId": "full-runtime-20260920035340-a1b2c3d4",
+      "taskPath": "data/ai-commands/tasks/full-runtime-20260920035340-a1b2c3d4-0009.json",
+      "createdAt": "2026-09-20T03:54:39.383Z",
+      "pending": 15
+    },
+    {
+      "id": "full-runtime-20260920035340-a1b2c3d4-0010",
+      "commandId": "full-runtime-20260920035340-a1b2c3d4",
+      "taskPath": "data/ai-commands/tasks/full-runtime-20260920035340-a1b2c3d4-0010.json",
+      "createdAt": "2026-09-20T03:54:39.383Z",
+      "pending": 15
+    },
+    {
+      "id": "full-runtime-20260920035340-a1b2c3d4-0011",
+      "commandId": "full-runtime-20260920035340-a1b2c3d4",
+      "taskPath": "data/ai-commands/tasks/full-runtime-20260920035340-a1b2c3d4-0011.json",
+      "createdAt": "2026-09-20T03:54:39.383Z",
+      "pending": 17
+    },
+    {
+      "id": "full-runtime-20260920035340-a1b2c3d4-0012",
+      "commandId": "full-runtime-20260920035340-a1b2c3d4",
+      "taskPath": "data/ai-commands/tasks/full-runtime-20260920035340-a1b2c3d4-0012.json",
+      "createdAt": "2026-09-20T03:54:39.383Z",
+      "pending": 15
+    },
+    {
+      "id": "full-runtime-20260920035340-a1b2c3d4-0013",
+      "commandId": "full-runtime-20260920035340-a1b2c3d4",
+      "taskPath": "data/ai-commands/tasks/full-runtime-20260920035340-a1b2c3d4-0013.json",
+      "createdAt": "2026-09-20T03:54:39.383Z",
+      "pending": 19
+    },
+    {
+      "id": "full-runtime-20260920035340-a1b2c3d4-0014",
+      "commandId": "full-runtime-20260920035340-a1b2c3d4",
+      "taskPath": "data/ai-commands/tasks/full-runtime-20260920035340-a1b2c3d4-0014.json",
+      "createdAt": "2026-09-20T03:54:39.383Z",
+      "pending": 20
+    },
+    {
+      "id": "full-runtime-20260920035340-a1b2c3d4-0015",
+      "commandId": "full-runtime-20260920035340-a1b2c3d4",
+      "taskPath": "data/ai-commands/tasks/full-runtime-20260920035340-a1b2c3d4-0015.json",
+      "createdAt": "2026-09-20T03:54:39.383Z",
+      "pending": 16
+    },
+    {
+      "id": "full-runtime-20260920035340-a1b2c3d4-0016",
+      "commandId": "full-runtime-20260920035340-a1b2c3d4",
+      "taskPath": "data/ai-commands/tasks/full-runtime-20260920035340-a1b2c3d4-0016.json",
+      "createdAt": "2026-09-20T03:54:39.383Z",
+      "pending": 24
+    },
+    {
+      "id": "full-runtime-20260920035340-a1b2c3d4-0017",
+      "commandId": "full-runtime-20260920035340-a1b2c3d4",
+      "taskPath": "data/ai-commands/tasks/full-runtime-20260920035340-a1b2c3d4-0017.json",
+      "createdAt": "2026-09-20T03:54:39.383Z",
+      "pending": 21
+    },
+    {
+      "id": "full-runtime-20260920035340-a1b2c3d4-0018",
+      "commandId": "full-runtime-20260920035340-a1b2c3d4",
+      "taskPath": "data/ai-commands/tasks/full-runtime-20260920035340-a1b2c3d4-0018.json",
+      "createdAt": "2026-09-20T03:54:39.383Z",
+      "pending": 24
+    },
+    {
+      "id": "full-runtime-20260920035340-a1b2c3d4-0019",
+      "commandId": "full-runtime-20260920035340-a1b2c3d4",
+      "taskPath": "data/ai-commands/tasks/full-runtime-20260920035340-a1b2c3d4-0019.json",
+      "createdAt": "2026-09-20T03:54:39.383Z",
+      "pending": 26
+    },
+    {
+      "id": "full-runtime-20260920035340-a1b2c3d4-0020",
+      "commandId": "full-runtime-20260920035340-a1b2c3d4",
+      "taskPath": "data/ai-commands/tasks/full-runtime-20260920035340-a1b2c3d4-0020.json",
+      "createdAt": "2026-09-20T03:54:39.383Z",
+      "pending": 17
+    }
+  ]
 }
