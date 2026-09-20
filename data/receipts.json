@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T05:06:42.178Z",
+  "updatedAt": "2026-09-20T06:18:50.468Z",
   "items": [
     {
       "file": "2026-09-16T07-50-52Z-first-verified-batch.json",
@@ -128,6 +128,11 @@
     },
     {
       "file": "2026-09-20T04-02-34-046Z-manual-001.json",
+      "status": "accepted",
+      "analyses": 5
+    },
+    {
+      "file": "2026-09-20T06-12-54-861Z-manual-002.json",
       "status": "accepted",
       "analyses": 5
     }

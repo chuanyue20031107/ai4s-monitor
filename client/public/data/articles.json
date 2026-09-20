@@ -208,40 +208,34 @@
       "batchFile": "data/inbox/2026-09-20T04-02-34-046Z-manual-001.json"
     },
     {
-      "id": "b84476f2ef096e8d6ca4c1cd39bee623",
-      "title": "病毒所艾滋病试剂人类免疫缺陷病毒(HIV1+2)型抗体检测试剂盒（免疫印迹法）采购项目公开招标公告",
-      "sourceKey": "s10-15",
-      "sourceName": "CACLP中国国际检验医学暨输血仪器试剂博览会",
-      "sourceType": "行业展会/会议",
-      "category": "",
-      "publishedAt": null,
-      "crawledAt": "2026-09-19T20:50:30.066Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
-      "url": "https://www.caclp.com/article/?detail_14397.html",
-      "analysisStatus": "analyzing",
-      "failureReason": ""
-    },
-    {
       "id": "5a20f58a8274602a03610d2898aef911",
       "title": "实力跃升！国轩高科位列全球新能源 500 强第 53 位 2026-09-14 2026-09-14",
       "sourceKey": "s06-10",
       "sourceName": "国轩高科",
       "sourceType": "研发型企业",
-      "category": "",
+      "category": "产业与商业",
       "publishedAt": null,
       "crawledAt": "2026-09-19T20:50:07.869Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "国轩高科披露其入选2026全球新能源500强第53位，并介绍在AI数字能源方向的布局。文章提到Axtrem智能制造平台、GotionGuard智能守卫系统，以及搭载本地化AI大模型的高压级联储能系统，体现企业把AI用于电池制造、储能运维和风险预警的产品化路径。信息主要来自企业自述，未给出模型指标、事故率变化或第三方验证。",
+      "score": 3,
+      "importanceReason": "文章给出AI与新能源制造、储能安全结合的明确产品线和应用方向，但证据主要是公司宣传，缺少量化效果和独立评测。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "模型",
+        "实验自动化"
+      ],
       "url": "https://www.gotion.com.cn/newsInfo/983",
-      "analysisStatus": "analyzing",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-20T06:12:54.861Z",
+      "evidence": [
+        {
+          "url": "https://www.gotion.com.cn/newsInfo/983",
+          "quote": "乾元智储二代高压级联储能系统搭载本地化 AI 大模型，兼顾高效运维与全流程防护"
+        }
+      ],
+      "limitations": "企业新闻稿，未提供模型架构、训练数据、准确率、误报率或实际部署效果。",
+      "batchFile": "data/inbox/2026-09-20T06-12-54-861Z-manual-002.json"
     },
     {
       "id": "c6d954eba4ba27435ecf9de20341c499",
@@ -249,17 +243,30 @@
       "sourceKey": "s06-10",
       "sourceName": "国轩高科",
       "sourceType": "研发型企业",
-      "category": "",
+      "category": "产业与商业",
       "publishedAt": null,
       "crawledAt": "2026-09-19T20:50:07.645Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "国轩高科介绍电啦啦在欧非运输走廊交付换电重卡，并发布车、光、储、充、换一体化运力方案。方案采用430kWh+430kWh模块化电量组合，宣称支持5分钟换电，接入数字能源云平台进行能源调度，并将换电接口技术纳入IEC 63066国际标准。该方案针对跨境重卡补能网络不足、低温衰减和大功率补能效率等问题，仍需真实运营数据验证。",
+      "score": 3,
+      "importanceReason": "方案把电池、换电、储能、可再生能源和云端调度整合到跨境物流场景，具有明确工程应用价值，但目前主要是发布会和企业自述证据。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "模型",
+        "实验自动化",
+        "商业合作"
+      ],
       "url": "https://www.gotion.com.cn/newsInfo/982",
-      "analysisStatus": "analyzing",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-20T06:12:54.861Z",
+      "evidence": [
+        {
+          "url": "https://www.gotion.com.cn/newsInfo/982",
+          "quote": "支持主车与挂车四包联动底置侧换电系统，可实现430kWh+430kWh 模块化电量组合，支持 5 分钟快速换电"
+        }
+      ],
+      "limitations": "缺少车队规模、换电次数、低温续航、系统可用率和全生命周期成本数据，客户项目仍需持续运营验证。",
+      "batchFile": "data/inbox/2026-09-20T06-12-54-861Z-manual-002.json"
     },
     {
       "id": "1ade9c20421d6a14e768ca5c2b3e615a",
@@ -267,35 +274,29 @@
       "sourceKey": "s04-10",
       "sourceName": "禾信仪器 Hexin",
       "sourceType": "质谱仪器企业",
-      "category": "",
+      "category": "数据",
       "publishedAt": null,
       "crawledAt": "2026-09-19T20:49:21.143Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "禾信仪器页面介绍在线水质重金属监测系统的ICP-MS 1000技术路径。系统包含自动取样、样品过滤与预处理、ICP离子源、离子传输、四极杆质量分析、离子检测和数据采集等模块；样品经射频电源离子化后按质荷比分离，再由检测器转换为分析结果。该配置适合连续水质监测和自动化采样，但页面没有给出检测限、精密度、校准稳定性或现场运行数据。",
+      "score": 3,
+      "importanceReason": "记录提供了在线质谱检测和自动采样的明确技术链条，对环境监测自动化有直接参考价值，但缺乏性能指标和独立验证。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "数据",
+        "实验自动化"
+      ],
       "url": "https://www.tofms.net/goods/151.html",
-      "analysisStatus": "analyzing",
-      "failureReason": ""
-    },
-    {
-      "id": "7fc806fb4fcba0a3c9ad330dc3ad1dff",
-      "title": "城市生态发展",
-      "sourceKey": "s04-09",
-      "sourceName": "聚光科技 FPI",
-      "sourceType": "科学仪器企业",
-      "category": "",
-      "publishedAt": null,
-      "crawledAt": "2026-09-19T20:49:19.513Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
-      "url": "https://www.fpi-inc.com/zt_cs.html",
-      "analysisStatus": "analyzing",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-20T06:12:54.861Z",
+      "evidence": [
+        {
+          "url": "https://www.tofms.net/goods/151.html",
+          "quote": "待测样品通过进样系统进入离子源部分，在被 ICP 射频电源离子化后"
+        }
+      ],
+      "limitations": "产品页未给出重金属具体检测限、线性范围、抗基质干扰能力、维护频率和长期现场数据。",
+      "batchFile": "data/inbox/2026-09-20T06-12-54-861Z-manual-002.json"
     },
     {
       "id": "8d9c1a6b0ec58a1738f0bc3b5755c585",
@@ -10173,5 +10174,5 @@
       "failureReason": ""
     }
   ],
-  "updatedAt": "2026-09-20T05:06:42.178Z"
+  "updatedAt": "2026-09-20T06:18:50.468Z"
 }

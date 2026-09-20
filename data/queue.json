@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-20T05:06:42.178Z",
-  "pendingCount": 392,
-  "readyCount": 392,
+  "updatedAt": "2026-09-20T06:18:50.468Z",
+  "pendingCount": 387,
+  "readyCount": 387,
   "awaitingContentCount": 0,
   "excludedContentCount": 140,
   "items": [
@@ -103,61 +103,6 @@
       "contentStatus": "ready",
       "contentHash": "8ad645837ffd9fa54862e48f865c78127d440af414bfe21fa5ef37a7cb367e60",
       "rawPath": "data/raw/51558b40c23445f9b6afc743dd73b97c.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "b84476f2ef096e8d6ca4c1cd39bee623",
-      "title": "病毒所艾滋病试剂人类免疫缺陷病毒(HIV1+2)型抗体检测试剂盒（免疫印迹法）采购项目公开招标公告",
-      "url": "https://www.caclp.com/article/?detail_14397.html",
-      "publishedAt": null,
-      "crawledAt": "2026-09-19T20:50:30.066Z",
-      "contentStatus": "ready",
-      "contentHash": "006dfc1a07cc52a9d7eb3f3c6d0e54b16bcd5280c3a312ec76d9d8155668488a",
-      "rawPath": "data/raw/b84476f2ef096e8d6ca4c1cd39bee623.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "5a20f58a8274602a03610d2898aef911",
-      "title": "实力跃升！国轩高科位列全球新能源 500 强第 53 位 2026-09-14 2026-09-14",
-      "url": "https://www.gotion.com.cn/newsInfo/983",
-      "publishedAt": null,
-      "crawledAt": "2026-09-19T20:50:07.869Z",
-      "contentStatus": "ready",
-      "contentHash": "ee50893518db330da9d1fea20eb4218aa6e37e34aa1b3e45531aebbad7aef984",
-      "rawPath": "data/raw/5a20f58a8274602a03610d2898aef911.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "c6d954eba4ba27435ecf9de20341c499",
-      "title": "电啦啦欧非运输走廊首台换电重卡正式交付 2026-09-18 2026-09-18",
-      "url": "https://www.gotion.com.cn/newsInfo/982",
-      "publishedAt": null,
-      "crawledAt": "2026-09-19T20:50:07.645Z",
-      "contentStatus": "ready",
-      "contentHash": "8ad42fdfe51664bbccdb9a9ea33d0169105b83a9c75ec883f63ce20c1efe79cc",
-      "rawPath": "data/raw/c6d954eba4ba27435ecf9de20341c499.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "1ade9c20421d6a14e768ca5c2b3e615a",
-      "title": "水质重金属应急监测系统（在线） 在线式水质重金属监测系统结合了在线采样系统、数据智能管理系统，具备自动取水、自动样品过滤、自动样品预处理、自动样品分析、自动数据质控、自动数据采集及传输等功能，实现水质重金属全自动在线监测。",
-      "url": "https://www.tofms.net/goods/151.html",
-      "publishedAt": null,
-      "crawledAt": "2026-09-19T20:49:21.143Z",
-      "contentStatus": "ready",
-      "contentHash": "8e01c0df683b10f629d1e80d924ac0f87b47ace73f86d8f953398e742d2e002a",
-      "rawPath": "data/raw/1ade9c20421d6a14e768ca5c2b3e615a.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "7fc806fb4fcba0a3c9ad330dc3ad1dff",
-      "title": "城市生态发展",
-      "url": "https://www.fpi-inc.com/zt_cs.html",
-      "publishedAt": null,
-      "crawledAt": "2026-09-19T20:49:19.513Z",
-      "contentStatus": "ready",
-      "contentHash": "e87d95741de5266ea67f5fe7e559b8c2957ada80049675459393984826a54d6f",
-      "rawPath": "data/raw/7fc806fb4fcba0a3c9ad330dc3ad1dff.json",
       "lastAnalysisStatus": "pending"
     },
     {

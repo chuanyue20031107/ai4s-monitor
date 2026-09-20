@@ -45,35 +45,35 @@
       "contentHash": "006dfc1a07cc52a9d7eb3f3c6d0e54b16bcd5280c3a312ec76d9d8155668488a",
       "rawPath": "data/raw/b84476f2ef096e8d6ca4c1cd39bee623.json",
       "previousAnalysis": null,
-      "status": "pending"
+      "status": "discarded"
     },
     {
       "id": "5a20f58a8274602a03610d2898aef911",
       "contentHash": "ee50893518db330da9d1fea20eb4218aa6e37e34aa1b3e45531aebbad7aef984",
       "rawPath": "data/raw/5a20f58a8274602a03610d2898aef911.json",
       "previousAnalysis": null,
-      "status": "pending"
+      "status": "done"
     },
     {
       "id": "c6d954eba4ba27435ecf9de20341c499",
       "contentHash": "8ad42fdfe51664bbccdb9a9ea33d0169105b83a9c75ec883f63ce20c1efe79cc",
       "rawPath": "data/raw/c6d954eba4ba27435ecf9de20341c499.json",
       "previousAnalysis": null,
-      "status": "pending"
+      "status": "done"
     },
     {
       "id": "1ade9c20421d6a14e768ca5c2b3e615a",
       "contentHash": "8e01c0df683b10f629d1e80d924ac0f87b47ace73f86d8f953398e742d2e002a",
       "rawPath": "data/raw/1ade9c20421d6a14e768ca5c2b3e615a.json",
       "previousAnalysis": null,
-      "status": "pending"
+      "status": "done"
     },
     {
       "id": "7fc806fb4fcba0a3c9ad330dc3ad1dff",
       "contentHash": "e87d95741de5266ea67f5fe7e559b8c2957ada80049675459393984826a54d6f",
       "rawPath": "data/raw/7fc806fb4fcba0a3c9ad330dc3ad1dff.json",
       "previousAnalysis": null,
-      "status": "pending"
+      "status": "discarded"
     },
     {
       "id": "8d9c1a6b0ec58a1738f0bc3b5755c585",
