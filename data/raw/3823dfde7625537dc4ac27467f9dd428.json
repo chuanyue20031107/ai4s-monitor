@@ -7,12 +7,13 @@
   "sourceType": "国际数据组织",
   "publishedAt": null,
   "crawledAt": "2026-09-16T07:35:34.387Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "fetch_failed",
-  "extractionMethod": "legacy-title-only",
+  "content": "In Council Review Interest Group Dataspaces in the Research Ecosystem Join Group Group Stage: Not Yet Endorsed In Council Review Interest Group Share Follow us on Facebook Follow us on X Follow us on LinkedIn Email us ? Members Anastasia Valtopoulou Wolmar Nyberg Åkerström Andrew Ehlert Thomas Shafee Fahame Emamjome Hilary Hanahoe See All (66) > Group Details Status: In Council Review Chair(s): Christina Drummond , Kheeran Dharmawardena , Felipe Pérez-Jvostov Secretariat Liaison: Bridget Walker TAB Liaison: Najla Rettberg Developing from demand expressed at the RDAP25 BOF , this interest group will allow RDA members to share lessons learned while adapting, adopting, and piloting the international dataspace protocol and its associated governance and technical building blocks for academic and industrial data sharing. It also will provide a space for RDA members to explore how the dataspace model for controlled data sharing maps to other RDA activity to identify future working groups for resource development. Developing from demand expressed at the RDAP25 BOF , this interest group will allow RDA members to share lessons learned while adapting, adopting, and piloting the international dataspace protocol and its associated governance and technical building blocks for academic and industrial data sharing. It also will provide a space for RDA members to explore how the dataspace model for controlled data sharing maps to other RDA activity to identify future working groups for resource development. View more Loading the group updates. Please wait. Public All Members Only Me Public All Members Only Me Public All Members Only Me Activity modal title",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
+  "contentHash": "52be090698717682f8d6677ca4546bcc72aee6e7aa1aadca6a5057ba44b14761",
   "legacyId": "3823dfde7625537dc4ac27467f9dd428",
-  "lastFetchAt": "2026-09-17T08:29:37.244Z",
-  "contentError": "HTTP_403"
+  "lastFetchAt": "2026-09-20T16:20:14.541Z",
+  "contentError": "",
+  "contentTruncated": false
 }
