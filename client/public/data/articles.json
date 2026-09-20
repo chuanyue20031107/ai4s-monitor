@@ -1,94 +1,31 @@
 {
   "items": [
     {
-      "id": "d010ab1f8ecb3f3f7cfd16f641bf739a",
-      "title": "Contribute",
-      "sourceKey": "s11-15",
-      "sourceName": "AAAI Conference on Artificial Intelligence",
-      "sourceType": "国际学术会议",
-      "category": "",
-      "publishedAt": null,
-      "crawledAt": "2026-09-19T20:50:51.569Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
-      "url": "https://aaai.org/aaai-publications/contribute/",
-      "analysisStatus": "analyzing",
-      "failureReason": ""
-    },
-    {
-      "id": "7244b2f343ea8986c38f000eb2b34f79",
-      "title": "Request to Reproduce Copyrighted Materials",
-      "sourceKey": "s11-15",
-      "sourceName": "AAAI Conference on Artificial Intelligence",
-      "sourceType": "国际学术会议",
-      "category": "",
-      "publishedAt": null,
-      "crawledAt": "2026-09-19T20:50:51.402Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
-      "url": "https://aaai.org/aaai-publications/request-to-reproduce-copyrighted-materials/",
-      "analysisStatus": "analyzing",
-      "failureReason": ""
-    },
-    {
-      "id": "a91543c14263a5286a7f94bc01e92bf8",
-      "title": "AAAI Publication Policies & Guidelines",
-      "sourceKey": "s11-15",
-      "sourceName": "AAAI Conference on Artificial Intelligence",
-      "sourceType": "国际学术会议",
-      "category": "",
-      "publishedAt": null,
-      "crawledAt": "2026-09-19T20:50:51.223Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
-      "url": "https://aaai.org/aaai-publications/aaai-publication-policies-guidelines/",
-      "analysisStatus": "analyzing",
-      "failureReason": ""
-    },
-    {
       "id": "257ba6793b2787de855d492bbdd9e484",
       "title": "病理人话说施莱登走出抑郁，顿悟生命基本单元",
       "sourceKey": "s10-15",
       "sourceName": "CACLP中国国际检验医学暨输血仪器试剂博览会",
       "sourceType": "行业展会/会议",
-      "category": "",
+      "category": "其他",
       "publishedAt": null,
       "crawledAt": "2026-09-19T20:50:32.679Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
+      "summary": "文章以施莱登的经历回顾细胞学说形成过程，介绍其从法律职业转向植物学研究，并叙述1838—1839年施莱登与施旺将植物和动物组织的共同细胞结构概括为细胞学说。文章强调显微观察和跨学科交流在形成统一生命结构认识中的作用。其科学史叙述包含作者个人化表达和延伸联想，主要价值是科普回顾，未提供新的实验数据或可复现实验方案。",
+      "score": 2,
+      "importanceReason": "内容准确聚焦细胞学说的历史脉络和显微观察启发，但属于科学史科普，未报告新的AI4S方法、数据或实验结果。",
+      "contentType": "media_report",
       "moatTags": [],
       "url": "https://www.caclp.com/article/?detail_14395.html",
-      "analysisStatus": "analyzing",
-      "failureReason": ""
-    },
-    {
-      "id": "77465d0b3d43e8383386f9e947a219ee",
-      "title": "乌鲁木齐市第一人民医院（乌鲁木齐儿童医院）输血试剂采购项目 公开招标公告（三次）",
-      "sourceKey": "s10-15",
-      "sourceName": "CACLP中国国际检验医学暨输血仪器试剂博览会",
-      "sourceType": "行业展会/会议",
-      "category": "",
-      "publishedAt": null,
-      "crawledAt": "2026-09-19T20:50:31.375Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
-      "url": "https://www.caclp.com/article/?detail_14396.html",
-      "analysisStatus": "analyzing",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-20T04:02:34.046Z",
+      "evidence": [
+        {
+          "url": "https://www.caclp.com/article/?detail_14395.html",
+          "quote": "细胞是植物体结构的基本单位，低等植物由单个细胞构成，而高等植物则是由无数细胞组成的共同体"
+        }
+      ],
+      "limitations": "文章为科普叙述，部分历史细节和心理经历带有作者转述或推测，未提供原始文献核验、定量数据或新的研究证据。",
+      "batchFile": "data/inbox/2026-09-20T04-02-34-046Z-manual-001.json"
     },
     {
       "id": "b84476f2ef096e8d6ca4c1cd39bee623",
@@ -10020,5 +9957,5 @@
       "failureReason": ""
     }
   ],
-  "updatedAt": "2026-09-20T03:56:51.842Z"
+  "updatedAt": "2026-09-20T04:05:07.054Z"
 }
