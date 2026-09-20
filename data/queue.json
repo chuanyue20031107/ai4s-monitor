@@ -1,11 +1,110 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-20T06:21:25.520Z",
-  "pendingCount": 382,
-  "readyCount": 382,
+  "updatedAt": "2026-09-20T11:41:45.658Z",
+  "pendingCount": 393,
+  "readyCount": 393,
   "awaitingContentCount": 0,
-  "excludedContentCount": 140,
+  "excludedContentCount": 136,
   "items": [
+    {
+      "id": "31be8046dce1b1f2c46b8628d3a08f21",
+      "title": "松山湖材料实验室科研部关于2026年度松山湖材料实验室知识产权代理服务采购项目（50-100万）征求意见公示",
+      "url": "https://www.sslab.org.cn/news/noticedetail?id=26092014360454796EFBE93E9",
+      "publishedAt": null,
+      "crawledAt": "2026-09-20T11:36:22.344Z",
+      "contentStatus": "ready",
+      "contentHash": "811781042c93cfa170c6cc418bf9513d901a3785b0cca437fe32c0b0ecd33ac9",
+      "rawPath": "data/raw/31be8046dce1b1f2c46b8628d3a08f21.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "d386ee3757228e0831a41cfc841e54b5",
+      "title": "2026/09 23 Microbial Regulation of Host Physiology: Insights from C. elegans Screens 2026年9月23日 10:00-11:30 祁斌 研究员 卫光生命科学园1A座1927会议室 了解详情",
+      "url": "https://www.szbl.ac.cn/info/1017/10571.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-09-20T11:36:15.188Z",
+      "contentStatus": "ready",
+      "contentHash": "fff0061dd42dc3065ff40d3bee31aa22ddc3d1aa4cd07c6190a5f46d6449522d",
+      "rawPath": "data/raw/d386ee3757228e0831a41cfc841e54b5.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "123d2c6b52a03e904d91e6e1d8171d7d",
+      "title": "天津工生所在嗜热真菌高通量工程化改造与蛋白质表达系统构建方面取得新进展",
+      "url": "https://tib.cas.cn/xwdt/kyjz/202609/t20260903_8277270.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-20T11:33:51.009Z",
+      "contentStatus": "ready",
+      "contentHash": "7eeb142da5995481ef8e2108a085486b0881db766919e0034e2829359b944634",
+      "rawPath": "data/raw/123d2c6b52a03e904d91e6e1d8171d7d.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "03300265be68d6a6b76eb52070eed34e",
+      "title": "天津工生所在生物质一步转化合成苹果酸方面取得新进展",
+      "url": "https://tib.cas.cn/xwdt/kyjz/202609/t20260903_8277274.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-20T11:33:50.675Z",
+      "contentStatus": "ready",
+      "contentHash": "962872e3c907fdf4821c8411190835d4071c77fbda114a9b320042d8cb26be9b",
+      "rawPath": "data/raw/03300265be68d6a6b76eb52070eed34e.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "0569be6031b3f4e1392bca0cb8324c6a",
+      "title": "天津工生所在真菌整合生物炼制技术一步发酵合成纤维素乙醇方面取得新进展",
+      "url": "https://tib.cas.cn/xwdt/kyjz/202609/t20260903_8277267.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-20T11:33:49.970Z",
+      "contentStatus": "ready",
+      "contentHash": "ca4a799c908a46ed40f0c1178956cc8c1834588b2d662246793725d6d4af0931",
+      "rawPath": "data/raw/0569be6031b3f4e1392bca0cb8324c6a.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "25c26d80f22394ebe8ba43c8e6758a49",
+      "title": "中国科大2026年度“华米基金”立项通知",
+      "url": "https://www.ustc.edu.cn/tzggcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1363&wbnewsid=25768",
+      "publishedAt": null,
+      "crawledAt": "2026-09-20T11:33:44.748Z",
+      "contentStatus": "ready",
+      "contentHash": "53eb947f7cfecd059e61bd0d45932cc5c5bd1e0a17e7a9d3ccbde02a41f716a2",
+      "rawPath": "data/raw/25c26d80f22394ebe8ba43c8e6758a49.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "a277e069e03c07d5fc39bd3e55b27b36",
+      "title": "关于公布2026级“科创试点班”录取名单的通...",
+      "url": "https://www.ustc.edu.cn/tzggcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1363&wbnewsid=25759",
+      "publishedAt": null,
+      "crawledAt": "2026-09-20T11:33:37.490Z",
+      "contentStatus": "ready",
+      "contentHash": "91cb11d76f0bd20e126b1e6e7cd06babd03ff1ea0b59314cd9af375be0acbc84",
+      "rawPath": "data/raw/a277e069e03c07d5fc39bd3e55b27b36.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "d52803f1de7627697ecec101f3252c42",
+      "title": "我校参加2026欧洲国际教育交流协会年会暨国际教育展",
+      "url": "http://news.ustc.edu.cn/info/1055/96354.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-09-20T11:33:32.604Z",
+      "contentStatus": "ready",
+      "contentHash": "8aa7166ccbb1af6eef274e89c8b995bd86fab7f59dea6f5512fd6b578427ff9f",
+      "rawPath": "data/raw/d52803f1de7627697ecec101f3252c42.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "fc91e4892e43886e41e34a30c7ffdc7a",
+      "title": "--> --> --> --> --> --> -->",
+      "url": "https://www.mgi-tech.com/universal-pipetting/293.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-20T11:33:27.975Z",
+      "contentStatus": "ready",
+      "contentHash": "3aadb46ad531046e1c032fe529ff9fb79ae3cdff80703e0a36e49b83e716bffd",
+      "rawPath": "data/raw/fc91e4892e43886e41e34a30c7ffdc7a.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "e6b764949b57d9a0c14416ab53f37186",
       "title": "Drug Discovery 2030",
@@ -2735,6 +2834,17 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "ec7c51b5dab80e387fc1c51ea681b1c6",
+      "title": "XTuner 2025.07.11 5k",
+      "url": "https://github.com/InternLM/xtuner",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T06:57:40.684Z",
+      "contentStatus": "ready",
+      "contentHash": "1964ed979ce27cd7857f039499fc862868742e6c7b9753babd7866f1945a6902",
+      "rawPath": "data/raw/ec7c51b5dab80e387fc1c51ea681b1c6.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "5dd3bfaeb1e799dee9880518d7b9a490",
       "title": "标志性成果 公共空间新冠病毒气溶胶高灵敏检测系统助力冬奥 --> -->",
       "url": "https://www.cpl.ac.cn/scientific_research/research_highlights/4028c1f1853d7feb01853ddcad78002c.html",
@@ -2996,6 +3106,17 @@
       "contentStatus": "ready",
       "contentHash": "ffade9eb993c5754b2cc67f9efbde985d1f4afc448540ca7817f9335f2d6bde5",
       "rawPath": "data/raw/ca717b1197bce56daa3bf0150333d83c.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "f4ee503da3dc3f5a411709ad50fa62a5",
+      "title": "微试样+数据闭环：创材深造亮相全国微试样力学会议，重构材料力学评价体系 8 月28-29日， 第4届全国微试样力学试验方法研讨会暨第2届中国力学试验仪器装备创新交流会在上海举行 2026.09.01",
+      "url": "https://www.deep-material.com/qiyexinwen/91",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T06:05:24.864Z",
+      "contentStatus": "ready",
+      "contentHash": "b4016d2a24952e31442ae7612de632812a6115bf80ec384c6abb8e7be7a1e472",
+      "rawPath": "data/raw/f4ee503da3dc3f5a411709ad50fa62a5.json",
       "lastAnalysisStatus": "pending"
     },
     {
