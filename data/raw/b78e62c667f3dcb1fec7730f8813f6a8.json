@@ -7,12 +7,12 @@
   "sourceType": "国家计量标准机构",
   "publishedAt": "2019-05-09T14:22:00.000Z",
   "crawledAt": "2026-09-17T17:06:43.778Z",
-  "content": "The awards will help small and medium-sized manufacturers increase the adoption of advanced manufacturing technology.",
-  "contentStatus": "insufficient_content",
+  "content": "Projects will address local cybersecurity workforce needs and will offer practical learning opportunities including internships, apprenticeships and hands-on projects.",
+  "contentStatus": "ready",
   "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "lastFetchAt": "2026-09-17T17:06:43.778Z",
+  "lastFetchAt": "2026-09-20T05:01:06.609Z",
   "contentTruncated": false,
-  "contentError": "正文不足 120 字符，禁止仅凭标题宣布分析完成",
-  "contentHash": "1cb8c2646f6f224317de857c2c56c480176a74488bc4bd2f28b8bc617643bf7e"
+  "contentError": "",
+  "contentHash": "063aef046396245e066206c65257e7ad436cc523dca07eaa5ff460bd9949c8a8"
 }

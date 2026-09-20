@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "id": "af2b4c28-5143-45a1-8a8f-6dead048240e",
+      "taskType": "来源抓取",
+      "status": "failed",
+      "processed": 36,
+      "succeeded": 31,
+      "failed": 5,
+      "inserted": 10,
+      "enriched": 2,
+      "detail": "来源 36：成功 31，失败 5；新增 10，补正文 2；未进行 AI 分析",
+      "failureReason": "部分来源失败，已保留其他成功结果",
+      "startedAt": "2026-09-20T05:01:00.449Z",
+      "finishedAt": "2026-09-20T05:06:42.092Z"
+    },
+    {
       "id": "analysis:2026-09-20T04-02-34-046Z-manual-001.json",
       "taskType": "AI 分析",
       "status": "success",
@@ -881,5 +895,5 @@
       "finishedAt": "2026-09-16T05:12:19.802Z"
     }
   ],
-  "updatedAt": "2026-09-20T04:05:07.054Z"
+  "updatedAt": "2026-09-20T05:06:42.178Z"
 }

@@ -1,0 +1,18 @@
+{
+  "id": "63046841a4cc5a82079333ff8b48c841",
+  "title": "Newsroom",
+  "url": "https://nvidianews.nvidia.com/",
+  "sourceKey": "s01-03",
+  "sourceName": "NVIDIA Research",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": null,
+  "crawledAt": "2026-09-20T05:01:06.213Z",
+  "content": "NVIDIA Expands Open Source CUDA-Q Platform for Fault-Tolerant Quantum Computing NVIDIA today announced an expansion of the NVIDIA CUDA-Q™ open source platform with CUDA-Q Logical, an orchestration layer that provides a ... NVIDIA today announced an expansion of the NVIDIA CUDA-Q™ open source platform with CUDA-Q Logical, an orchestration layer that provides a ... Read More",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-20T05:01:06.213Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "a2591dc074033ac9f2f2f4fb147b0ee8f25faaf57576a8a0e7c0aae8461dddcf"
+}

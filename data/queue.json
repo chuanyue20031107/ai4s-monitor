@@ -1,11 +1,110 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-20T04:05:07.054Z",
-  "pendingCount": 380,
-  "readyCount": 380,
+  "updatedAt": "2026-09-20T05:06:42.178Z",
+  "pendingCount": 392,
+  "readyCount": 392,
   "awaitingContentCount": 0,
-  "excludedContentCount": 145,
+  "excludedContentCount": 140,
   "items": [
+    {
+      "id": "e6b764949b57d9a0c14416ab53f37186",
+      "title": "Drug Discovery 2030",
+      "url": "https://elrig.org/portfolio/drug-discovery-2030/",
+      "publishedAt": null,
+      "crawledAt": "2026-09-20T05:01:19.135Z",
+      "contentStatus": "ready",
+      "contentHash": "435be361a708be0bbe9c81349aa60ea6c5b9bca78372fddc7078e423c8dd624a",
+      "rawPath": "data/raw/e6b764949b57d9a0c14416ab53f37186.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "86991de0c04eadef94dcc85a053e2212",
+      "title": "Drug Discovery 2029",
+      "url": "https://elrig.org/portfolio/drug-discovery-2029/",
+      "publishedAt": null,
+      "crawledAt": "2026-09-20T05:01:14.542Z",
+      "contentStatus": "ready",
+      "contentHash": "9e93824806c98ecfd18152096af2b81004970897624312f4a621da3dee623a56",
+      "rawPath": "data/raw/86991de0c04eadef94dcc85a053e2212.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "9850563e27541823b2f04298c102068c",
+      "title": "View All Case Studies",
+      "url": "https://www.schrodinger.com/materials-science/learn/?resource_type=case-study",
+      "publishedAt": null,
+      "crawledAt": "2026-09-20T05:01:11.412Z",
+      "contentStatus": "ready",
+      "contentHash": "3bf956db093ec34a1eada5c9e7d0243fd4aa597cb21e7722481408045603aa20",
+      "rawPath": "data/raw/9850563e27541823b2f04298c102068c.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "fccd9bd5223ff7ec80559f27d711768b",
+      "title": "View curricula",
+      "url": "https://www.schrodinger.com/teaching-with-schrodinger/",
+      "publishedAt": null,
+      "crawledAt": "2026-09-20T05:01:11.388Z",
+      "contentStatus": "ready",
+      "contentHash": "859ca963659d2586ec0a47a283d6e11cc6c6de2a7fb2f381a25828f00ff48361",
+      "rawPath": "data/raw/fccd9bd5223ff7ec80559f27d711768b.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "93c15b03e54e630ef0e1dff035df3273",
+      "title": "Drug Discovery 2028",
+      "url": "https://elrig.org/portfolio/drug-discovery-2028/",
+      "publishedAt": null,
+      "crawledAt": "2026-09-20T05:01:08.383Z",
+      "contentStatus": "ready",
+      "contentHash": "c7c47241405d684d0971001cce830f5572303cc6d0d9a35dc08bff63a0377deb",
+      "rawPath": "data/raw/93c15b03e54e630ef0e1dff035df3273.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "63046841a4cc5a82079333ff8b48c841",
+      "title": "Newsroom",
+      "url": "https://nvidianews.nvidia.com/",
+      "publishedAt": null,
+      "crawledAt": "2026-09-20T05:01:06.213Z",
+      "contentStatus": "ready",
+      "contentHash": "a2591dc074033ac9f2f2f4fb147b0ee8f25faaf57576a8a0e7c0aae8461dddcf",
+      "rawPath": "data/raw/63046841a4cc5a82079333ff8b48c841.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "6e8872a778fdccf78284c8159fc0baf9",
+      "title": "About the Search Tools",
+      "url": "https://www.asms.org/publications/abstracts-and-proceedings/new-search-tool",
+      "publishedAt": null,
+      "crawledAt": "2026-09-20T05:01:02.816Z",
+      "contentStatus": "ready",
+      "contentHash": "be5839a858e78c73385b99e4931231eb0ed3eb91307190373cdc38509e8bf442",
+      "rawPath": "data/raw/6e8872a778fdccf78284c8159fc0baf9.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "6ef7844152f915ce7fc6b3dec315b2eb",
+      "title": "Abstracts and Proceedings",
+      "url": "https://www.asms.org/publications/abstracts-and-proceedings",
+      "publishedAt": null,
+      "crawledAt": "2026-09-20T05:01:02.350Z",
+      "contentStatus": "ready",
+      "contentHash": "845132ad69d8881d6709bdf67cfbb6de52663afb33c1a4d319227915322de52d",
+      "rawPath": "data/raw/6ef7844152f915ce7fc6b3dec315b2eb.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "51558b40c23445f9b6afc743dd73b97c",
+      "title": "Wiley Archives",
+      "url": "https://www.asms.org/publications/wiley-archives",
+      "publishedAt": null,
+      "crawledAt": "2026-09-20T05:01:02.129Z",
+      "contentStatus": "ready",
+      "contentHash": "8ad645837ffd9fa54862e48f865c78127d440af414bfe21fa5ef37a7cb367e60",
+      "rawPath": "data/raw/51558b40c23445f9b6afc743dd73b97c.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "b84476f2ef096e8d6ca4c1cd39bee623",
       "title": "病毒所艾滋病试剂人类免疫缺陷病毒(HIV1+2)型抗体检测试剂盒（免疫印迹法）采购项目公开招标公告",
@@ -3054,6 +3153,17 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "e70390e22983a42d95bda45f51adc650",
+      "title": "2026-04-20 Kimi K2.6",
+      "url": "https://www.kimi.com/en/blog/kimi-k2-6",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T06:05:20.901Z",
+      "contentStatus": "ready",
+      "contentHash": "f369e572655893c3b02478b3aec02c4f55b8fbc101d126cca9145c06abb78e9d",
+      "rawPath": "data/raw/e70390e22983a42d95bda45f51adc650.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "5a3c82cbddabaaac37dc36b20543ec27",
       "title": "Newsletters",
       "url": "https://citrine.io/resources/newsletters/",
@@ -3824,6 +3934,17 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "84fb3d732a5c116d9eee58666ba28d0f",
+      "title": "Flint: A visualization language for the AI era",
+      "url": "https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era/",
+      "publishedAt": "2026-07-08T16:00:00.000Z",
+      "crawledAt": "2026-09-20T05:01:04.122Z",
+      "contentStatus": "ready",
+      "contentHash": "3ef65c87ac0367564e9efc10fd5a1cb1942c4faeef460b672a0dfdeea5665d46",
+      "rawPath": "data/raw/84fb3d732a5c116d9eee58666ba28d0f.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "fce114fa85693f2cd863751ad0631721",
       "title": "17 posters worth seeing from MIT Jameel Clinic researchers at ICML 2026",
       "url": "https://jclinic.mit.edu/17-posters-worth-seeing-from-mit-jameel-clinic-researchers-at-icml-2026/",
@@ -4129,6 +4250,17 @@
       "contentStatus": "ready",
       "contentHash": "6cd37ec794d47548fbf17a8b924d4d8204fed639d78e7b87c6ab78672dcf9a06",
       "rawPath": "data/raw/c7452e96083799c13e14fb66798ab27f.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "b78e62c667f3dcb1fec7730f8813f6a8",
+      "title": "See NIST News",
+      "url": "https://www.nist.gov/news-events/news",
+      "publishedAt": "2019-05-09T14:22:00.000Z",
+      "crawledAt": "2026-09-17T17:06:43.778Z",
+      "contentStatus": "ready",
+      "contentHash": "063aef046396245e066206c65257e7ad436cc523dca07eaa5ff460bd9949c8a8",
+      "rawPath": "data/raw/b78e62c667f3dcb1fec7730f8813f6a8.json",
       "lastAnalysisStatus": "pending"
     },
     {
