@@ -17,28 +17,28 @@
       "contentHash": "26cf906b00f3333f2a389672ef9b29846369a0be2812f9559380338ec968177b",
       "rawPath": "data/raw/c6c5d7c47e8a20f9c677e2a7c0f34928.json",
       "previousAnalysis": null,
-      "status": "pending"
+      "status": "discarded"
     },
     {
       "id": "cf25b4f4be8cb56a128be53179f0a77f",
       "contentHash": "7e04de97276bfaf5413bea9641d54f0b4b1964643524dcf811193748613d4307",
       "rawPath": "data/raw/cf25b4f4be8cb56a128be53179f0a77f.json",
       "previousAnalysis": null,
-      "status": "pending"
+      "status": "discarded"
     },
     {
       "id": "ba6fc9cf11bad38ec7731847693b292d",
       "contentHash": "ba2d3735876ace745b8332af6ad934ce0e8cecf35e9ccb0e13fda46fd347d79e",
       "rawPath": "data/raw/ba6fc9cf11bad38ec7731847693b292d.json",
       "previousAnalysis": null,
-      "status": "pending"
+      "status": "discarded"
     },
     {
       "id": "aa60fdf3ba5fc777f252288dd3c76880",
       "contentHash": "772eb356b35235ca221b1feba04d37ac57ae464b4eefcacb67931450474dc840",
       "rawPath": "data/raw/aa60fdf3ba5fc777f252288dd3c76880.json",
       "previousAnalysis": null,
-      "status": "pending"
+      "status": "discarded"
     },
     {
       "id": "ffa96f23947793b09287743ce255f116",
@@ -52,42 +52,42 @@
       "contentHash": "25580d4c3c2f3a375d2b0a9a060a35c47966ced4e7dcaa13c23b99513f75af0b",
       "rawPath": "data/raw/c58943bf8aba74455c1cd396f50ee073.json",
       "previousAnalysis": null,
-      "status": "pending"
+      "status": "discarded"
     },
     {
       "id": "77231c0fd7c38ead70da2e0de5bfb8c0",
       "contentHash": "1ef5b652c9933b1eae6038b7674f91c9d4a7832138532d9bd1eb2aee5ecae03e",
       "rawPath": "data/raw/77231c0fd7c38ead70da2e0de5bfb8c0.json",
       "previousAnalysis": null,
-      "status": "pending"
+      "status": "discarded"
     },
     {
       "id": "43c1fd5b8097a6a932bbe9901de0459e",
       "contentHash": "3dced6744dd71fd6d73b36e14b601f645388c611fd69261eb0ab5bcbcd694142",
       "rawPath": "data/raw/43c1fd5b8097a6a932bbe9901de0459e.json",
       "previousAnalysis": null,
-      "status": "pending"
+      "status": "discarded"
     },
     {
       "id": "8ab57d18e723c0876871e5eeff5c3404",
       "contentHash": "84d7df726d1440f3eaeab72bf211f2970ae4bb9b0b5f34d822854f0e55936daf",
       "rawPath": "data/raw/8ab57d18e723c0876871e5eeff5c3404.json",
       "previousAnalysis": null,
-      "status": "pending"
+      "status": "discarded"
     },
     {
       "id": "b45a9ea535cabcd957cb254cbab02b13",
       "contentHash": "df7f2a85a2133fb428f1caccf209dc392207c579ed8622eecc5b2a22486258ec",
       "rawPath": "data/raw/b45a9ea535cabcd957cb254cbab02b13.json",
       "previousAnalysis": null,
-      "status": "pending"
+      "status": "discarded"
     },
     {
       "id": "df26bd70c115554a75a1c1d50cfa284e",
       "contentHash": "071d791fe2c898f4209e8c810440f8129795ada568e39d1c3a9f5d7f2f482c7d",
       "rawPath": "data/raw/df26bd70c115554a75a1c1d50cfa284e.json",
       "previousAnalysis": null,
-      "status": "pending"
+      "status": "done"
     },
     {
       "id": "43c9df58eecbae3946265c2fc8be0918",
@@ -101,28 +101,28 @@
       "contentHash": "41c2642c642af3463f38c2a0df8c52c63c30ca6f847442446c9b8c4cd4a52bdf",
       "rawPath": "data/raw/fce114fa85693f2cd863751ad0631721.json",
       "previousAnalysis": null,
-      "status": "pending"
+      "status": "discarded"
     },
     {
       "id": "abfcaf3a980ff4247cdcfe9f94b5e22f",
       "contentHash": "969724eec979bdc975a7af53f878626807f68f4659d35407ed5f9893aea9f219",
       "rawPath": "data/raw/abfcaf3a980ff4247cdcfe9f94b5e22f.json",
       "previousAnalysis": null,
-      "status": "pending"
+      "status": "done"
     },
     {
       "id": "f9565b40d647339848a1582a32c43bba",
       "contentHash": "1bd27393d31dc3eb336f7999487554fd55dd237beccfa391ede99ee660dcd098",
       "rawPath": "data/raw/f9565b40d647339848a1582a32c43bba.json",
       "previousAnalysis": null,
-      "status": "pending"
+      "status": "discarded"
     },
     {
       "id": "3bd91597edc44646f346abe3c697619a",
       "contentHash": "3e427cd68e5149cf9539966231f7e3860c3b7d3a12d1bba18bd217fd3441317c",
       "rawPath": "data/raw/3bd91597edc44646f346abe3c697619a.json",
       "previousAnalysis": null,
-      "status": "pending"
+      "status": "discarded"
     },
     {
       "id": "f8161afce487b7472b769fdeeadaf956",
@@ -136,85 +136,85 @@
       "contentHash": "0727a34da3243f527c7b95f6f9681f95837a0210c38ebd6405e458d4520b7063",
       "rawPath": "data/raw/4c0674ba1a70ac7299ce2b079d4d055e.json",
       "previousAnalysis": null,
-      "status": "pending"
+      "status": "discarded"
     },
     {
       "id": "a1f8cdc7757774f6440b503eadd59f71",
       "contentHash": "c27745063016f1b846db75e6564b37c4a731e603287ebc951997f9797c889a91",
       "rawPath": "data/raw/a1f8cdc7757774f6440b503eadd59f71.json",
       "previousAnalysis": null,
-      "status": "pending"
+      "status": "done"
     },
     {
       "id": "4bc24b85c6824864e3c3765641b43bd5",
       "contentHash": "a8f20a0c2b745a049acda1cdc1930e44d2384bd13e0607455bfc83870efab395",
       "rawPath": "data/raw/4bc24b85c6824864e3c3765641b43bd5.json",
       "previousAnalysis": null,
-      "status": "pending"
+      "status": "done"
     },
     {
       "id": "a022428c9c2990bc29b51bb9f03ad6aa",
       "contentHash": "5741dcc8436f3cb4202326d8ef4827953077d72c1d0a8ee3de909c0519d949e3",
       "rawPath": "data/raw/a022428c9c2990bc29b51bb9f03ad6aa.json",
       "previousAnalysis": null,
-      "status": "pending"
+      "status": "discarded"
     },
     {
       "id": "44cbbd7d06c91ace4a625c0e54f94bd8",
       "contentHash": "c4d7d6cf15f7f83838bf85b474848797144f3b3fc86d1df51b73615e057a6230",
       "rawPath": "data/raw/44cbbd7d06c91ace4a625c0e54f94bd8.json",
       "previousAnalysis": null,
-      "status": "pending"
+      "status": "discarded"
     },
     {
       "id": "21eb2f8a2f9f772d036f940b74eeb8cf",
       "contentHash": "8bd34018192f02386b58ebcfe3dd046ca13c58529e4b90d9b3701f9eff322fe4",
       "rawPath": "data/raw/21eb2f8a2f9f772d036f940b74eeb8cf.json",
       "previousAnalysis": null,
-      "status": "pending"
+      "status": "discarded"
     },
     {
       "id": "14651439990db3a66b212684712250bc",
       "contentHash": "91f851c5c27f906166f94a16b7df38aff39d275835fc79236344cb33d98fdbeb",
       "rawPath": "data/raw/14651439990db3a66b212684712250bc.json",
       "previousAnalysis": null,
-      "status": "pending"
+      "status": "discarded"
     },
     {
       "id": "8cc869bc93a1c63546d85b64797562ee",
       "contentHash": "d15f06f55c7a6bc93d060843e686dd7630981bd6c104f6cd63b9a8383c0f7a76",
       "rawPath": "data/raw/8cc869bc93a1c63546d85b64797562ee.json",
       "previousAnalysis": null,
-      "status": "pending"
+      "status": "discarded"
     },
     {
       "id": "e16775d47603555f4e197a963e8fdb68",
       "contentHash": "9760027fbe39db61dafa68975afcc72b4c224f7a10363ba42a8216faca395d30",
       "rawPath": "data/raw/e16775d47603555f4e197a963e8fdb68.json",
       "previousAnalysis": null,
-      "status": "pending"
+      "status": "discarded"
     },
     {
       "id": "c82b9de9357f284142407a4804da2741",
       "contentHash": "3c3f2ad763aaecefc8688646f8e2dbd0eb66d55ba3e9b95b7fcf7797302b01b8",
       "rawPath": "data/raw/c82b9de9357f284142407a4804da2741.json",
       "previousAnalysis": null,
-      "status": "pending"
+      "status": "discarded"
     },
     {
       "id": "a9891b5b5833f338561d218ce84f16cd",
       "contentHash": "c9cb3914689efce76dd878e6da2b13e6cfd1a92e927db89e00584f77cf473e7f",
       "rawPath": "data/raw/a9891b5b5833f338561d218ce84f16cd.json",
       "previousAnalysis": null,
-      "status": "pending"
+      "status": "discarded"
     },
     {
       "id": "7ffc82fb5bc45616f06f0a201abe2c23",
       "contentHash": "413adefac833368ee221ad4b7e3719b8362fc05375e83e562125aedbafaed26c",
       "rawPath": "data/raw/7ffc82fb5bc45616f06f0a201abe2c23.json",
       "previousAnalysis": null,
-      "status": "pending"
+      "status": "discarded"
     }
   ],
-  "status": "pending"
+  "status": "completed"
 }

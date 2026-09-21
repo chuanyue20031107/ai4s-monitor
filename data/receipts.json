@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T20:56:48.794Z",
+  "updatedAt": "2026-09-21T03:03:57.371Z",
   "items": [
     {
       "file": "2026-09-16T07-50-52Z-first-verified-batch.json",
@@ -138,6 +138,51 @@
     },
     {
       "file": "2026-09-20T06-19-09-087Z-manual-003.json",
+      "status": "accepted",
+      "analyses": 5
+    },
+    {
+      "file": "2026-09-21T02-47-13Z-full-01.json",
+      "status": "accepted",
+      "analyses": 50
+    },
+    {
+      "file": "2026-09-21T02-47-13Z-full-02.json",
+      "status": "accepted",
+      "analyses": 50
+    },
+    {
+      "file": "2026-09-21T02-47-13Z-full-03.json",
+      "status": "accepted",
+      "analyses": 50
+    },
+    {
+      "file": "2026-09-21T02-47-13Z-full-04.json",
+      "status": "accepted",
+      "analyses": 50
+    },
+    {
+      "file": "2026-09-21T02-47-13Z-full-05.json",
+      "status": "accepted",
+      "analyses": 50
+    },
+    {
+      "file": "2026-09-21T02-47-13Z-full-06.json",
+      "status": "accepted",
+      "analyses": 50
+    },
+    {
+      "file": "2026-09-21T02-47-13Z-full-07.json",
+      "status": "accepted",
+      "analyses": 50
+    },
+    {
+      "file": "2026-09-21T02-47-13Z-full-08.json",
+      "status": "accepted",
+      "analyses": 50
+    },
+    {
+      "file": "2026-09-21T02-47-13Z-full-09.json",
       "status": "accepted",
       "analyses": 5
     }

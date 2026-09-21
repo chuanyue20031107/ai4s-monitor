@@ -52,49 +52,49 @@
       "contentHash": "e2d5ac5e82d39daa9867b8765e15614028d6fa42711552a86ad64926919775dc",
       "rawPath": "data/raw/98d3b12b73f5dbfb158697c4c1bb0a7d.json",
       "previousAnalysis": null,
-      "status": "pending"
+      "status": "discarded"
     },
     {
       "id": "9b94085cda72220b896d168d9a2c0b18",
       "contentHash": "48c33d2f9877ce7c3464425ff61958bd525184cd671a7edcc691e86061dadd19",
       "rawPath": "data/raw/9b94085cda72220b896d168d9a2c0b18.json",
       "previousAnalysis": null,
-      "status": "pending"
+      "status": "discarded"
     },
     {
       "id": "a67c5e24139f126b81f118d2daa7c60f",
       "contentHash": "904b29bc197190f51c3a7eb0f12653c7b89c73ab382316153d2deb75de7e7e43",
       "rawPath": "data/raw/a67c5e24139f126b81f118d2daa7c60f.json",
       "previousAnalysis": null,
-      "status": "pending"
+      "status": "discarded"
     },
     {
       "id": "ad29881794c433e0ce3143055bcf80aa",
       "contentHash": "de8ed5ec47337c1fac04c927f00967a80a3e42951bc5a4ad5d9c4b0f30a151e9",
       "rawPath": "data/raw/ad29881794c433e0ce3143055bcf80aa.json",
       "previousAnalysis": null,
-      "status": "pending"
+      "status": "done"
     },
     {
       "id": "b4457a6be797285643a2d20a7a075892",
       "contentHash": "b53da70cb69f78ef41040f130924c135684a41e5f755fd410a1551663de07358",
       "rawPath": "data/raw/b4457a6be797285643a2d20a7a075892.json",
       "previousAnalysis": null,
-      "status": "pending"
+      "status": "discarded"
     },
     {
       "id": "c209f271c9dd22a1d75f91f66c44b44e",
       "contentHash": "0ec880721bf10032f77ad93bf1f0b7dfe6ca9b66cd73b57d5a77a30a98128fce",
       "rawPath": "data/raw/c209f271c9dd22a1d75f91f66c44b44e.json",
       "previousAnalysis": null,
-      "status": "pending"
+      "status": "discarded"
     },
     {
       "id": "deff9c33801714560aeac1cd0ffc1667",
       "contentHash": "e145242cc1fced99f6635f0a9c7d92633f0a87747dcff1b3794f6f9d3751940c",
       "rawPath": "data/raw/deff9c33801714560aeac1cd0ffc1667.json",
       "previousAnalysis": null,
-      "status": "pending"
+      "status": "discarded"
     },
     {
       "id": "e53e01caa56851f629fabbb664130d30",
@@ -108,14 +108,14 @@
       "contentHash": "759ca9107a5229180c86e1c25975093e1f7eb78b82ebafdfc17694312e2d5f1a",
       "rawPath": "data/raw/ea02340eb309e996acfca1d78ae38d64.json",
       "previousAnalysis": null,
-      "status": "pending"
+      "status": "discarded"
     },
     {
       "id": "ee8d49455842f8c9d9355ebf4cd7e649",
       "contentHash": "cfac09fc80c076170140ca99921c7f839096ae4bf9ad5ac2d256525d956f7566",
       "rawPath": "data/raw/ee8d49455842f8c9d9355ebf4cd7e649.json",
       "previousAnalysis": null,
-      "status": "pending"
+      "status": "discarded"
     },
     {
       "id": "047fad8381b7ca794ad58d2c6c1ea66f",
@@ -129,56 +129,56 @@
       "contentHash": "ca8c98be47e41cbf52aa27dd911634d03d2852a4819c9206338e95f3b1873025",
       "rawPath": "data/raw/515c5d6a9f497d05fee5629a01b3a43d.json",
       "previousAnalysis": null,
-      "status": "pending"
+      "status": "discarded"
     },
     {
       "id": "6231023bebc9110313655bc8c97a872f",
       "contentHash": "bcf974e00f5530ec7af10bbd85afc4e6a15ce4f47fd4682e82854fb315a249ec",
       "rawPath": "data/raw/6231023bebc9110313655bc8c97a872f.json",
       "previousAnalysis": null,
-      "status": "pending"
+      "status": "done"
     },
     {
       "id": "6d1b5bb3f88366e1291fe73ee141bb76",
       "contentHash": "aff98675867ae8b9695a2a06a71453b5500ea8b42765ced294ac6fbc8fba60b6",
       "rawPath": "data/raw/6d1b5bb3f88366e1291fe73ee141bb76.json",
       "previousAnalysis": null,
-      "status": "pending"
+      "status": "discarded"
     },
     {
       "id": "8d2c5917f1087180290e2e34605fee1e",
       "contentHash": "dcaaff2dcaf8242ba5a4ea32870c61d69b18fa77fa50c4f057a119487c388fd6",
       "rawPath": "data/raw/8d2c5917f1087180290e2e34605fee1e.json",
       "previousAnalysis": null,
-      "status": "pending"
+      "status": "discarded"
     },
     {
       "id": "a00764589e2321fb355587d193e83710",
       "contentHash": "5c716ac56056a49e7d3eba3bee41622323da8f20f924fe79713f50f81a361323",
       "rawPath": "data/raw/a00764589e2321fb355587d193e83710.json",
       "previousAnalysis": null,
-      "status": "pending"
+      "status": "done"
     },
     {
       "id": "aeb69c2c14609a92947b9ec5fbcee64c",
       "contentHash": "fe773a71adbfd31b4697d196ef9bb7d07029f5f15ceca7d3b72a7c211e018ec7",
       "rawPath": "data/raw/aeb69c2c14609a92947b9ec5fbcee64c.json",
       "previousAnalysis": null,
-      "status": "pending"
+      "status": "discarded"
     },
     {
       "id": "cf32e5a8040179eb9f16d7507efad728",
       "contentHash": "6f57bfb4ed151cc42ac6fb08d62f01cbfc0283436994a9855eb0827213098cf7",
       "rawPath": "data/raw/cf32e5a8040179eb9f16d7507efad728.json",
       "previousAnalysis": null,
-      "status": "pending"
+      "status": "done"
     },
     {
       "id": "cf9957c0e2713bc95e2cc7627b431afd",
       "contentHash": "66fa5ad43da2222f0a84a8b35b0716134c36c6f69757c14b9ad1553e1e130d44",
       "rawPath": "data/raw/cf9957c0e2713bc95e2cc7627b431afd.json",
       "previousAnalysis": null,
-      "status": "pending"
+      "status": "done"
     },
     {
       "id": "3d97ae9aa5b3288e5aafaaad56971f3e",
@@ -192,21 +192,21 @@
       "contentHash": "bca756e6646a6a38b047bb77e0e08318add23e416fba1e8bb4881bc657eb9d8d",
       "rawPath": "data/raw/5dd3bfaeb1e799dee9880518d7b9a490.json",
       "previousAnalysis": null,
-      "status": "pending"
+      "status": "discarded"
     },
     {
       "id": "989d4a702b35d7c8ed421e89dec302ce",
       "contentHash": "d817d90d647812423707002ebc211ecbad6b1f2ba09d8ed40eaee464e364a4ce",
       "rawPath": "data/raw/989d4a702b35d7c8ed421e89dec302ce.json",
       "previousAnalysis": null,
-      "status": "pending"
+      "status": "discarded"
     },
     {
       "id": "9d3c96b85fe8f57637789ef2ab571946",
       "contentHash": "7235265b0efcd5690af485cf91f95c761bf8767fc68034971465e29aa9226987",
       "rawPath": "data/raw/9d3c96b85fe8f57637789ef2ab571946.json",
       "previousAnalysis": null,
-      "status": "pending"
+      "status": "discarded"
     },
     {
       "id": "b2bebe97a5006f2dd1441e31f0c3d7db",
@@ -216,5 +216,5 @@
       "status": "discarded"
     }
   ],
-  "status": "pending"
+  "status": "completed"
 }

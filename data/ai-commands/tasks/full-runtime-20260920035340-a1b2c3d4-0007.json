@@ -24,7 +24,7 @@
       "contentHash": "98b188e9f47d4bdd30c69f531f26fe66286a002e4034118dc185f779cb40647c",
       "rawPath": "data/raw/7ea330ae999c9e2b2bd8f4aee7dbaa09.json",
       "previousAnalysis": null,
-      "status": "pending"
+      "status": "discarded"
     },
     {
       "id": "894e7a287ffab36ad0902276095924cb",
@@ -87,14 +87,14 @@
       "contentHash": "5ad8858bb449906e285af734fa23e2deb2b0978319f86623e57df16951f67df3",
       "rawPath": "data/raw/a623c786b6a61570ea1a5f152d7f6a5a.json",
       "previousAnalysis": null,
-      "status": "pending"
+      "status": "done"
     },
     {
       "id": "ab504a6036094c84c6ffb341f0328a70",
       "contentHash": "2f8298347d894c5cde24719243f696b7ead14b281dc4f63139ef3cc13e173256",
       "rawPath": "data/raw/ab504a6036094c84c6ffb341f0328a70.json",
       "previousAnalysis": null,
-      "status": "pending"
+      "status": "discarded"
     },
     {
       "id": "7d2872733a614740ea67cf0d6caa1be4",
@@ -129,7 +129,7 @@
       "contentHash": "99148e9811e4076928d253a81b59cfe7ede2f63d9c8b47564628857faae951e6",
       "rawPath": "data/raw/a708b55560da68c62578701b825cab4f.json",
       "previousAnalysis": null,
-      "status": "pending"
+      "status": "discarded"
     },
     {
       "id": "9c97a1d0284915715318268326767630",
@@ -216,5 +216,5 @@
       "status": "discarded"
     }
   ],
-  "status": "pending"
+  "status": "completed"
 }
