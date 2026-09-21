@@ -1,0 +1,410 @@
+{
+  "schemaVersion": 1,
+  "generator": "chatgpt-task",
+  "createdAt": "2026-09-21T02:47:13.199Z",
+  "analyses": [
+    {
+      "articleId": "5f893140692c8a25f9e5b7346ce42a87",
+      "contentHash": "06e311c3fb213f25789a17c07105c69d0661a2256a4b34de641acc98e842d9f7",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.384Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "5ff8d0754146179f8383b5541bd1db84",
+      "contentHash": "2399871f109e88a4848b07e35d0e6b3e0229184c75c84daf8a6076883e15ad92",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.385Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "6031336a7174cad8f59831469c789e5f",
+      "contentHash": "e04b857a677e1773edce79bcd5000da03655a763c83946c4b167436228a50bbf",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.386Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "6034d50b700312c00e4657ef46562e66",
+      "contentHash": "0a561e0d00e2c6cccf4e0a259b9dccab6038ab05c56457583a09c02209c12917",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.387Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "60f024e81c4b7c8ade84a13679bc2841",
+      "contentHash": "2dca0d1834ad59c94de340fb3682942595e65936a88eb938f7ac9d60d982fc56",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.388Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "620b8a8e922a48660d38b69efd6e43cd",
+      "contentHash": "70e4054c015ebb5b050e82575d3cdb3fe10d0fedc1be8c3ca0e8440270964a59",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.389Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "6231023bebc9110313655bc8c97a872f",
+      "contentHash": "bcf974e00f5530ec7af10bbd85afc4e6a15ce4f47fd4682e82854fb315a249ec",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-21T02:44:54.390Z",
+      "category": "自动化实验室",
+      "summary": "原文标题为“OpenCompass 2025.10.20 13k”。当前正文直接提到AI、模型、科学计算、数据或自动化相关内容；可核验摘录为：“on inference of Large Model(analysis, reasoning, prompt engineering.) Toolkit OpenCompass OpenCompass is an LLM evaluation platform, supporting a wide range of models (LLaMA, LLaMa”。摘要仅复述当前抓取正文，未把来源自述当作独立验证。",
+      "score": 2,
+      "importanceReason": "正文涉及AI4S方法或应用，但当前正文的验证细节有限。",
+      "contentType": "paper_result",
+      "moatTags": [
+        "数据",
+        "模型",
+        "实验自动化"
+      ],
+      "evidence": [
+        {
+          "url": "https://github.com/open-compass/",
+          "quote": "on inference of Large Model(analysis, reasoning, prompt engineering.) Toolkit OpenCompass OpenCompass is an LLM evaluation platform, supporting a wide range of models (LLaMA, LLaMa2, ChatGLM"
+        }
+      ],
+      "limitations": "当前分析仅基于仓库保存的正文摘录；未补充原文之外的样本规模、基线、误差、外部验证或商业使用证据。",
+      "failureReason": ""
+    },
+    {
+      "articleId": "63046841a4cc5a82079333ff8b48c841",
+      "contentHash": "a2591dc074033ac9f2f2f4fb147b0ee8f25faaf57576a8a0e7c0aae8461dddcf",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.391Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "63ad860f28228929d681144fe38070e4",
+      "contentHash": "785bb571df6d0ebde3e330f73e553a7ce29e2c9504301db09cce7004ac2b02cc",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.392Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "63f49d49814eed7e99b3f3f436b103aa",
+      "contentHash": "8e75c8f78b731eae4092814f082bc6323da2e62b44ccdc35ce7d03d67c5d0e14",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-21T02:44:54.393Z",
+      "category": "自动化实验室",
+      "summary": "原文标题为“GLM-5-Turbo”。当前正文直接提到AI、模型、科学计算、数据或自动化相关内容；可核验摘录为：“标设计，我们构造真实Agent工作流使模型在龙虾任务中具备可执行性。重点增强以下核心能力： Tool Calling——调用不掉链子。强化对外部工具与各类Skills的调用能力。 Instruction Following——复杂指令拆解更强。对复杂多层、长链路指令理解和拆解更准确，支持识别目标、规划步骤、多智能体协同。 定时与持续性任务——更懂时间维度，长”。摘要仅复述当前抓取正文，未把来源自述当作独立验证。",
+      "score": 3,
+      "importanceReason": "正文给出方法、研究进展或落地线索，值得继续核对原始论文、数据、实验指标或客户证据。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "数据",
+        "模型",
+        "实验自动化"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.zhipuai.cn/zh/research/155",
+          "quote": "标设计，我们构造真实Agent工作流使模型在龙虾任务中具备可执行性。重点增强以下核心能力： Tool Calling——调用不掉链子。强化对外部工具与各类Skills的调用能力。 Instruction Following——复杂指令拆解更强。对复杂多层、长链路指令理解和拆解更准确，支持识别目标、规划步骤、多智能体协同。 定时与持续性任务——更懂时间维度，长任务不中断。针对定时"
+        }
+      ],
+      "limitations": "当前分析仅基于仓库保存的正文摘录；未补充原文之外的样本规模、基线、误差、外部验证或商业使用证据。",
+      "failureReason": ""
+    },
+    {
+      "articleId": "640eaad8993a990d6f05ec8a64905582",
+      "contentHash": "ee445d1ed83c45a94fb787140506aee04541283ef3ee5df228510072c47608a4",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.394Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "650b7eba6eca63c6ee4f4543deb1dea8",
+      "contentHash": "529872ec669377db664caa4bf929505ada6ac2d7937a24ab985dd97b351b73e8",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.397Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "65ab198452fcd46e34cf593649291862",
+      "contentHash": "a74142ae94a42261f41ac9c1e9b57f861c2b0c373683ea50b9098c302a2e1753",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.398Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "65c327a442de342adae0ce2f0ba673d9",
+      "contentHash": "871c2bb66e20bd714e803d096fabe5f3c12d7ec9859464afc2759220dda26dbc",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.399Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "66141941f7ed26368e0a352c4aecb9b2",
+      "contentHash": "42fdc6b422a9d1f62ef944e0cfea03e52c9b97c164368ac36371f95820a1327a",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.400Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "6628de6bc0b35d815c34f293e97662dc",
+      "contentHash": "a5ffaa0984ae68d16d1f266009e5bc9bd084b3c6aa40c5b48a3bead2e11dec50",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.401Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "66579a90dae6541952443a65a250f93d",
+      "contentHash": "c4c489e8c317d26eaf8264ebbb2eac8f8698e8365abb238645684d023cc7f019",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.403Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "66a121d32212db034147bc0261941728",
+      "contentHash": "e92d278db4831c0584727a2073bdaae111d0ff146c6897380523aee472825fb0",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.404Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "6788f3417a54a4c97310854cfe59e724",
+      "contentHash": "ac1ed6e3cf391e21e9fd33fd473c211b6af3389ff95f28b5d937c14ea93ede6e",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.405Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "6890d8440120a7ec9bea315510c2740c",
+      "contentHash": "b8bfc8fcd2effe269d121165639d37a0dd268ea0ee44524278242142bf538e55",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.406Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "699fd5a5c56863e889c0b4542e827f3e",
+      "contentHash": "5131d2322f6cd1c91645468e5193de1acf2e2fdaee3c6feac126502a387c2ba4",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.407Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "69a3b30ddc1643807baf394c389cf88e",
+      "contentHash": "87f28938df4b37e6670d38e3d0c6d6a5934fde12ff3d360eeb423ca8868e0b35",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.408Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "6a200ea211a7887a5a70c29d006c2701",
+      "contentHash": "2fa7525bc6636b3c1ccceb14ee985ad303709a98afe2fe95a097117dc760960b",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.409Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "6a4bd67d77d17f7c947c3b0113e030df",
+      "contentHash": "fb49b514f1dc71e287c137acb095201582d1de6ca5594ba828cc1e1a273632f8",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-21T02:44:54.410Z",
+      "category": "自动化实验室",
+      "summary": "原文标题为“October 3, 2025 Blog Join Our Mission Lila Sciences is introducing the world’s first scientific superintelligence platform for life, chemical, and materials sciences. Read More”。当前正文直接提到AI、模型、科学计算、数据或自动化相关内容；可核验摘录为：“l intelligence is mastering existing knowledge. In science, AI trained on millions of scientific papers, genetic sequences, and chemical structures can predict protein structures a”。摘要仅复述当前抓取正文，未把来源自述当作独立验证。",
+      "score": 3,
+      "importanceReason": "正文给出方法、研究进展或落地线索，值得继续核对原始论文、数据、实验指标或客户证据。",
+      "contentType": "paper_result",
+      "moatTags": [
+        "模型",
+        "实验自动化",
+        "材料发现",
+        "商业合作"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.lila.ai/news/join-our-mission",
+          "quote": "l intelligence is mastering existing knowledge. In science, AI trained on millions of scientific papers, genetic sequences, and chemical structures can predict protein structures and model c"
+        }
+      ],
+      "limitations": "当前分析仅基于仓库保存的正文摘录；未补充原文之外的样本规模、基线、误差、外部验证或商业使用证据。",
+      "failureReason": ""
+    },
+    {
+      "articleId": "6be980d4830caf8e94191b8e64f878ea",
+      "contentHash": "f1b7009fe4cd7fa65ff308aa2b9afce01c54f3a4bf44d4af7dbb71bb5d0c49ee",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.411Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "6d01693e36a8f13e09dcc57ffef550e4",
+      "contentHash": "8d957095f36430cbe8d0be8945ae35852fb290c764dff0f4c0214e94755bd80f",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.413Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "6d1b5bb3f88366e1291fe73ee141bb76",
+      "contentHash": "aff98675867ae8b9695a2a06a71453b5500ea8b42765ced294ac6fbc8fba60b6",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.415Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "6d50f52a8f685b14787517de123ee81f",
+      "contentHash": "357e3cf19a3af7f73c1a40255db3e257e13d46abcce945658e5f9ffc50fca88d",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.416Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "6d599667fdb2214e70b770ae9327ef08",
+      "contentHash": "20ce175e3f65900720207514c2615c7309f18a9380fc951fef5561845a223d1d",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.418Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "6d7fbe3eb3d0095cd6f8bfae14dc5132",
+      "contentHash": "fe51758e78fe599346567fa0033777569a12c252554db01c7f841f090e1bc5fa",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.420Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "6dd559c3516573b5744ed22b499d1fad",
+      "contentHash": "6fdb77cc311ffd2f3b57550a4ed8327a711662f02c062a1ffc02db73055cc1e6",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.421Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "6e4d0f1d66a1a49f9643e708bf9f792a",
+      "contentHash": "72e6a430ebcdd1cba4ca6011e63c3802e5b22705b3d7043f5e3ee4f20533ce43",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.425Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "6e8872a778fdccf78284c8159fc0baf9",
+      "contentHash": "be5839a858e78c73385b99e4931231eb0ed3eb91307190373cdc38509e8bf442",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.427Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "6ef7844152f915ce7fc6b3dec315b2eb",
+      "contentHash": "845132ad69d8881d6709bdf67cfbb6de52663afb33c1a4d319227915322de52d",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.432Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "6f8920402e88f9ce32967c85e1ccf7b0",
+      "contentHash": "efcce94c68f9cf8e6f4809e5d719787c733e7929c1cf271ad2d5bf05b9841049",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.433Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "70a7227d2beff310f27ef24a287b4189",
+      "contentHash": "92c90396285a285ca87175a19d37a1e3e66ff492162262dfe9a1b1d80b375803",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.435Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "70e1040b0500c5dc0a2c677fdef3cc03",
+      "contentHash": "3baddce8eddb9f06decd6c8636f4586eecbef3a5bb4ad523d1049d195dfc548a",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.436Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "70e9cb287b1994ed17ba33b466706d4e",
+      "contentHash": "91002c1fffdde1c21cdec5475feb639c29fd5948aa55f2ee8ab07af82fc3d485",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.440Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "717034f622df2d6a5f75b8a0668ff322",
+      "contentHash": "d52d16efabefbc44bf25623cbca35c94eab45304e302cbecef8ad54ef79adfe8",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.441Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "7225db9b14b312d46d15d419318278b3",
+      "contentHash": "df70ac08996c8dc924be2e2f85b27c5220191f28850dddc85af02a4d91307e54",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.442Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "72355a6d69101fa02937b4bcdfb19100",
+      "contentHash": "f69f1c64e5d0ee0530f1fcf408b6d0d976451a725ab15fb0e4aea1c793bd78b1",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.443Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "72594b678d252994dd803eb20fe2f99b",
+      "contentHash": "9f8d54e22a88d83d11a22d7e3a53d978a361a893ccad2ad5697753ca2a1b994d",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.449Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "73e4006e2559f7895b43b22354ecc8fc",
+      "contentHash": "ba6d404dba4c7e954e60e4c10e21299c03bc48156c7ce36847a82460926ed8d5",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.450Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "74c10c4e707087bdf7ac93b2ad55843f",
+      "contentHash": "93721343b8a2b0cbe510bee52d10f96af3d4655b9937e0215f63947617c9b75e",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.452Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "7502b2aeb521ebf300e199734a5bc571",
+      "contentHash": "faebfd2bd98a28a57cb8cb4b8078d7447b11695bc5300d042aab49e46e010f70",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.453Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "75242f37c63f5b5f5e764cbb365533f7",
+      "contentHash": "371422a2efb1d80d9ce022d0e456d8cc1a13355e9ad8608a09d3dc71af11fdb9",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.455Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "7584ca8167070907950fad6f3bf5922d",
+      "contentHash": "3558ceafb580a9a00e80376fc752b41ed2330cae4ebfa2fb2d79c30cbf6bb6e1",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.456Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "75887176036a5479f3c7b7aa30cc9ace",
+      "contentHash": "31448dc2e72c19c833e36e27d6f834edaf8f3754c8757eceae574c64b334e8a3",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.457Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "761accf813aff955de806917ff0cd9d7",
+      "contentHash": "f8e27fc394d6dc8b811b9383ac98e4f9a62f1b79405b4e0bb24dd9011ea24c21",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.458Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "76907c6af28b11b37cf853028a524460",
+      "contentHash": "f6f1fa37fa77f9fcc2c46e7b912a3ca7b92d3d966de3b335899ad1c74542d298",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.460Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    }
+  ]
+}
+

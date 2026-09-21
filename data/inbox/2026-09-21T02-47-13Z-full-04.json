@@ -1,0 +1,425 @@
+{
+  "schemaVersion": 1,
+  "generator": "chatgpt-task",
+  "createdAt": "2026-09-21T02:47:13.199Z",
+  "analyses": [
+    {
+      "articleId": "76a211dc038a88c17df1f7b467ff52f5",
+      "contentHash": "83e84cb26c9a19942a1fe2109777c71173e9227d26bf23c2223c79b99db3de02",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.461Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "76b2a8c7fed8f0640437637471f7f374",
+      "contentHash": "0aba209733e5cb96442a7b8a924cb1aa61c63579bffbff5bd81f118f775b627a",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.462Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "76bc67f7a6693a76690bc89058850bc3",
+      "contentHash": "1fa02bc2f69024c547a2227a41c87ff343f1e6d94bb4de3bbaeec3c12e11bb71",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.465Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "77231c0fd7c38ead70da2e0de5bfb8c0",
+      "contentHash": "1ef5b652c9933b1eae6038b7674f91c9d4a7832138532d9bd1eb2aee5ecae03e",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.466Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "77cad21ed3e3ae8b2679a90c273684f5",
+      "contentHash": "dfc662e7e6a2c78d1fc59cf995844cb1173f2e22ef80e7bf11dafd6443d32a07",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.467Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "77ccda1cf13a44ffe423a812296c730b",
+      "contentHash": "da17678949072e463993dd7bf3958aa4a789fde7cdfabf886d50b3e6863e2f80",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.468Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "7839847624a34d1a3fe6078ed408f4eb",
+      "contentHash": "f77d0db66a62e540e762b5bc361db8a93bde27e3e39141153fb3cc115bf4673f",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.469Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "7947765ced6e7124e97c67c74426cbc4",
+      "contentHash": "13ab494f58d6022f25e43b80f7ea5e1565a71428a21a5e460687fa9cf340d2be",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.470Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "7a402a8a6f0417c4eda3773cc1aa4ee9",
+      "contentHash": "850533b9bed81e680cae08a51176c7a06c00a039013932ec1d1f1b4ef684ba93",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.472Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "7a65d69ff740afdf7c059b2e45fc4f2a",
+      "contentHash": "0ceddc87dab38f52cca00178523fa07ffe3bf87b1ecdb364e12f7fa4be6e9b48",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-21T02:44:54.473Z",
+      "category": "模型",
+      "summary": "原文标题为“轻量化双模型协同智能体MatBrain发布”。当前正文直接提到AI、模型、科学计算、数据或自动化相关内容；可核验摘录为：“。上科大致力于服务国家经济社会发展战略，培养科技创新创业人才，努力建设一所小规模、高水平、国际化的研究型、创新型大学。 材料创制是一项涉及多学科知识交叉的复杂系统工程，长期面临研发周期长、试错成本高等挑战。近年来，大语言模型在辅助材料设计与预测方面展现出巨大潜力。 近日，中国科学院深圳先进技术研究院成功打造了面向材料创制的轻量化双模型协同智能体MatBrai”。摘要仅复述当前抓取正文，未把来源自述当作独立验证。",
+      "score": 3,
+      "importanceReason": "正文给出方法、研究进展或落地线索，值得继续核对原始论文、数据、实验指标或客户证据。",
+      "contentType": "paper_result",
+      "moatTags": [
+        "模型",
+        "材料发现"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.cas.cn/syky/202609/t20260911_5120182.shtml",
+          "quote": "。上科大致力于服务国家经济社会发展战略，培养科技创新创业人才，努力建设一所小规模、高水平、国际化的研究型、创新型大学。 材料创制是一项涉及多学科知识交叉的复杂系统工程，长期面临研发周期长、试错成本高等挑战。近年来，大语言模型在辅助材料设计与预测方面展现出巨大潜力。 近日，中国科学院深圳先进技术研究院成功打造了面向材料创制的轻量化双模型协同智能体MatBrain。 团队首次提出了"
+        }
+      ],
+      "limitations": "当前分析仅基于仓库保存的正文摘录；未补充原文之外的样本规模、基线、误差、外部验证或商业使用证据。",
+      "failureReason": ""
+    },
+    {
+      "articleId": "7af6e6e5c6b3e3b23c8418b4e66edff2",
+      "contentHash": "d89055481db8ba2df7be2971e0627c7f5c14690a112024546005212b3acdab08",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-21T02:44:54.475Z",
+      "category": "自动化实验室",
+      "summary": "原文标题为“Chemify founder publishes three papers validating Chemputation platform for automated drug discovery April 14, 2026 Manufacturing Chemist”。当前正文直接提到AI、模型、科学计算、数据或自动化相关内容；可核验摘录为：“e discoveries, delivering real molecules using Chemputation AI to our partners,\" said Lee Cronin , CEO and founder of Chemify. Chemputation shifts chemistry from an artisanal pract”。摘要仅复述当前抓取正文，未把来源自述当作独立验证。",
+      "score": 3,
+      "importanceReason": "正文给出方法、研究进展或落地线索，值得继续核对原始论文、数据、实验指标或客户证据。",
+      "contentType": "paper_result",
+      "moatTags": [
+        "模型",
+        "实验自动化",
+        "药物设计",
+        "材料发现",
+        "商业合作"
+      ],
+      "evidence": [
+        {
+          "url": "https://manufacturingchemist.com/chemify-founder-three-papers-chemputation-platform-drug-discovery",
+          "quote": "e discoveries, delivering real molecules using Chemputation AI to our partners,\" said Lee Cronin , CEO and founder of Chemify. Chemputation shifts chemistry from an artisanal practice to an"
+        }
+      ],
+      "limitations": "当前分析仅基于仓库保存的正文摘录；未补充原文之外的样本规模、基线、误差、外部验证或商业使用证据。",
+      "failureReason": ""
+    },
+    {
+      "articleId": "7b97a9dcb2131fbddfbdce25cbe0a838",
+      "contentHash": "88b8dc47ff475db8a1499bfbc197104120c19fedd6d910e778133381e80b0666",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.476Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "7c97abc3ef928bac2790007ea62acb76",
+      "contentHash": "3e48029c6a7e8da4c6b7079537571f4f115bcf19989907b08e628d38cb2b6625",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.478Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "7ceee65678c549effe90e73a834a4ce5",
+      "contentHash": "df6f873c71baf1f3c45156195dd4e2d2e400ae1ce91b01e309310f3b31bef981",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.480Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "7dd5ed4b30e7a0ebb051f5af27d7705c",
+      "contentHash": "9bdbdc1c28ad42210a54f2f3ccf902e9b470a96a9e424a57aeeaca05e37dbd4f",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.482Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "7e7d18cb4673a50d8a751f11cd6f2086",
+      "contentHash": "ba9c45bc1c4f82d85e3c68f4e491a91bae4c9d392738b0842d0b516e00a3c426",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.487Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "7e92c5337aeda0a663b43d4bcc5dcd7c",
+      "contentHash": "ce7c4137f4e500ebf980cf20da205104a2a0d6ffd241a605d55fbbd26aa8612c",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.488Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "7ea330ae999c9e2b2bd8f4aee7dbaa09",
+      "contentHash": "98b188e9f47d4bdd30c69f531f26fe66286a002e4034118dc185f779cb40647c",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.490Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "7eb48682e91d6383059913289fde9c6f",
+      "contentHash": "0bcb6c52b6ad53267f3d07c6d8b2921d60aefa4c5f0565774d563347d13e7252",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.491Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "7f7d51ee0b1f7b9ac7e24c0672796db2",
+      "contentHash": "5dfa57c67fa1af65feccce45b714a36b39609e43e84cfaeacaa436741ec577a2",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.492Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "7f82d995c515e5ba429e7e06d184bac3",
+      "contentHash": "871d82bfdb087d7f4fb90fbc2211fba2eaa482e1d78218d33dcd5a2ad005230e",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.493Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "7fabc2e55eb94212bcf914e5948318a8",
+      "contentHash": "ffb1e02a2d2da1fe9b8567223be272ff0e8d1be98ab0f27c58631484ca9ac783",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.499Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "7ffc82fb5bc45616f06f0a201abe2c23",
+      "contentHash": "413adefac833368ee221ad4b7e3719b8362fc05375e83e562125aedbafaed26c",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.501Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "815b5a0a7fe5d26677fbd954cc6f7c57",
+      "contentHash": "b3fcaac2712dbde2ea6befb8fdb1920e9c3ce6772b289d427f121a1794d76ed9",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.502Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "81fa48d90a6ff7192072fd8f183ed6dd",
+      "contentHash": "83704099bca491a745f712724158e62dbf8c7550c331d1ec526ee252ce058c67",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.504Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "837f2cf84b3e7bf29ca50acd125c2241",
+      "contentHash": "76431cc7888dd09310031ca84e97f37d2ae36f92c3290c4e1a972e65c855de2f",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.505Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "8442b7b7be30399a7a385d7fbd5bf597",
+      "contentHash": "4d786ef0274bec336f8b59ffc2179175c330bad4c82944678e09b90c9f88dda1",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.507Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "84fb3d732a5c116d9eee58666ba28d0f",
+      "contentHash": "3ef65c87ac0367564e9efc10fd5a1cb1942c4faeef460b672a0dfdeea5665d46",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-21T02:44:54.508Z",
+      "category": "数据",
+      "summary": "原文标题为“Flint: A visualization language for the AI era”。当前正文直接提到AI、模型、科学计算、数据或自动化相关内容；可核验摘录为：“atted, how much room labels need, and which colors make the data easier to read. Modern visualization libraries such as Vega-Lite, Apache ECharts, and Chart.js expose these control”。摘要仅复述当前抓取正文，未把来源自述当作独立验证。",
+      "score": 1,
+      "importanceReason": "正文主要是方向或产品说明，科学增量和验证信息有限。",
+      "contentType": "media_report",
+      "moatTags": [
+        "数据",
+        "模型"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era/",
+          "quote": "atted, how much room labels need, and which colors make the data easier to read. Modern visualization libraries such as Vega-Lite, Apache ECharts, and Chart.js expose these controls, but the"
+        }
+      ],
+      "limitations": "当前分析仅基于仓库保存的正文摘录；未补充原文之外的样本规模、基线、误差、外部验证或商业使用证据。",
+      "failureReason": ""
+    },
+    {
+      "articleId": "85a216b9eb0e44f86b8769d4c326d493",
+      "contentHash": "3eb4edad820a6b2f187e1c7ba04b405fdc3091e03ac50a8ea774d2c33e758873",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.509Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "85a521541650d4caf87a43aa64a388c2",
+      "contentHash": "d3b5ce7f65378599a8bfe204a027205ad1ca3c9e8e87bf0e9142bfc5c4852aa9",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.510Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "861207dcf9fa11bd0c3b1a6259e63b7e",
+      "contentHash": "732029872c67eac62cff3c9c995bbc001192125ab29a198763949c3dca767e00",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.514Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "86991de0c04eadef94dcc85a053e2212",
+      "contentHash": "9e93824806c98ecfd18152096af2b81004970897624312f4a621da3dee623a56",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.516Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "86a5643c075af30e78a0057aa1638422",
+      "contentHash": "20dffa0422cc4e18727f736553f94758c3355c8a6b47b12963a6a404e8e56fd6",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.518Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "86b7efc7fc75fa49df183dce5f10b155",
+      "contentHash": "bec5f53f1a0c51caefba96609bdd645c270be5dd90106601fb47cd91c93bab1e",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-21T02:44:54.519Z",
+      "category": "产业与商业",
+      "summary": "原文标题为“Lundbeck partners with Cradle to discover and optimize brain disorder treatments”。当前正文直接提到AI、模型、科学计算、数据或自动化相关内容；可核验摘录为：“Lundbeck partners with Cradle to discover and optimize brain disorder treatments Optimizing across the entire batch is one secret to better proteins How does AI change the first ro”。摘要仅复述当前抓取正文，未把来源自述当作独立验证。",
+      "score": 1,
+      "importanceReason": "正文主要是方向或产品说明，科学增量和验证信息有限。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "药物设计",
+        "商业合作"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.cradle.bio/blog/lundbeck",
+          "quote": "Lundbeck partners with Cradle to discover and optimize brain disorder treatments Optimizing across the entire batch is one secret to better proteins How does AI change the first round of ant"
+        }
+      ],
+      "limitations": "当前分析仅基于仓库保存的正文摘录；未补充原文之外的样本规模、基线、误差、外部验证或商业使用证据。",
+      "failureReason": ""
+    },
+    {
+      "articleId": "87a970549572f634e53cd122aebcfcd2",
+      "contentHash": "38f2609443710c70dd13608404454def68a12c9a3dab8efd6dd8792de155fa73",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.521Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "87b051179039c90a67783d2881653361",
+      "contentHash": "331d31fca1f80bacd0e8529b4ab653d85b10659d83c4cda7840dac124f53eaa7",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.522Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "8a1fddf0f9c7bab64dc0268351f90bb6",
+      "contentHash": "637f0ff8a3d53daf722f4cddab6d9f126a96dc343b4712c0ab6b74093812da8b",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.523Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "8aa3f6cd313a48d01f8d5929ff395749",
+      "contentHash": "3efe56cba55c7481dabae1a3359e715966675b4f30cdb2f132445ac4a32dcad1",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.524Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "8ab57d18e723c0876871e5eeff5c3404",
+      "contentHash": "84d7df726d1440f3eaeab72bf211f2970ae4bb9b0b5f34d822854f0e55936daf",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.525Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "8b545d61c850efa5e592a462a3262c92",
+      "contentHash": "fd29298eebed3f2e3e3838b9d46423caa31f042ff428539f3076c0527ecc0fa5",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.526Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "8baf8d576e8ee7923bb3b8d101ff443c",
+      "contentHash": "0f1fd11fabc6e57ecf334f45b8b6955bcc76687df72c553c01cf2af4664b155c",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.527Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "8c6a8f61a369111579c725f932e90b5e",
+      "contentHash": "1a1d6450886153a3f024ee54644101f0760475d26fd2fd142819bd12a6d9ed9d",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.531Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "8cb4a9134ca979c850a022cf1cc0b7d1",
+      "contentHash": "3d7e7a5ed94e030c6dac77b6b6fd10d1d3c7f022aa7bea13a189516ae0122478",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.533Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "8cbc812d0a6fc76c2c31dc71d21fd504",
+      "contentHash": "479a75d3a833a99e69e93f0a46082d58e53846a4a942fccbc2051aba3233ec6f",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.534Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "8cc869bc93a1c63546d85b64797562ee",
+      "contentHash": "d15f06f55c7a6bc93d060843e686dd7630981bd6c104f6cd63b9a8383c0f7a76",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.536Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "8cce74884fe09113bb88de993430dc3f",
+      "contentHash": "d8a82c168ac15dd311dd092e0c1cbcddb994ec498e1ba4591b21ca06978ad386",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.537Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "8d2c5917f1087180290e2e34605fee1e",
+      "contentHash": "dcaaff2dcaf8242ba5a4ea32870c61d69b18fa77fa50c4f057a119487c388fd6",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.538Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "8e017a9102d58ecd3a303fd052845a57",
+      "contentHash": "dae38657032cd13e7f4fc0899a2172a89c49b634e254c78f5381d665d566077c",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.539Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "8e9bea97c3dca595c8f0cc2360199144",
+      "contentHash": "d63d7e9273bdd1b6733ef1c92d426e0ac3f8e1fad4b1bb138b30d3b4cd982d11",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.541Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "8efd278285eb19cbfe27c957e089cbc5",
+      "contentHash": "fe773a71adbfd31b4697d196ef9bb7d07029f5f15ceca7d3b72a7c211e018ec7",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.542Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    }
+  ]
+}
+

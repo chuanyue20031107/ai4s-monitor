@@ -1,0 +1,488 @@
+{
+  "schemaVersion": 1,
+  "generator": "chatgpt-task",
+  "createdAt": "2026-09-21T02:47:13.199Z",
+  "analyses": [
+    {
+      "articleId": "d4adf21c9dff6a3fcae703d8ab47ab92",
+      "contentHash": "5a176aadd4e0293fd530c34b84f40f2422e4f3efe5ca3aa35f0107467624e5c4",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.789Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "d526daead91f0e4ffa0f975103020e39",
+      "contentHash": "321ee436164ad05da0819c4a553aa500654517abe0fbdddcf7313afc0fd6bd59",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.790Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "d52803f1de7627697ecec101f3252c42",
+      "contentHash": "8aa7166ccbb1af6eef274e89c8b995bd86fab7f59dea6f5512fd6b578427ff9f",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.791Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "d6ee49f097bdf587bf593f6d62a62ba4",
+      "contentHash": "8e339e1b3d46a986e23b8ad5823264d36204c2222eb513efb0c4094cd7ac6fc5",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-21T02:44:54.792Z",
+      "category": "数据",
+      "summary": "原文标题为“中国科大结晶聚合物链向热导率预测研究入选《Macromolecules》内封面”。当前正文直接提到AI、模型、科学计算、数据或自动化相关内容；可核验摘录为：“模型，是结晶聚合物热输运研究和材料筛选中的重要问题。 针对这一问题，研究团队在前期理论模型基础上，将与聚合物一致性力场（PCFF）兼容的结晶聚合物数据集由42种扩展至157种，利用平衡分子动力学获得链方向热导率数据，并从聚合物晶胞中批量构建16个具有明确结构和声子物理含义的描述符。为避免传统全局拟合对样本密集热导率区间的偏倚，团队进一步提出分段等权相对误差优”。摘要仅复述当前抓取正文，未把来源自述当作独立验证。",
+      "score": 3,
+      "importanceReason": "正文给出方法、研究进展或落地线索，值得继续核对原始论文、数据、实验指标或客户证据。",
+      "contentType": "paper_result",
+      "moatTags": [
+        "数据",
+        "模型",
+        "材料发现"
+      ],
+      "evidence": [
+        {
+          "url": "http://news.ustc.edu.cn/info/1055/96283.htm",
+          "quote": "模型，是结晶聚合物热输运研究和材料筛选中的重要问题。 针对这一问题，研究团队在前期理论模型基础上，将与聚合物一致性力场（PCFF）兼容的结晶聚合物数据集由42种扩展至157种，利用平衡分子动力学获得链方向热导率数据，并从聚合物晶胞中批量构建16个具有明确结构和声子物理含义的描述符。为避免传统全局拟合对样本密集热导率区间的偏倚，团队进一步提出分段等权相对误差优化方法，在低、中、高"
+        }
+      ],
+      "limitations": "当前分析仅基于仓库保存的正文摘录；未补充原文之外的样本规模、基线、误差、外部验证或商业使用证据。",
+      "failureReason": ""
+    },
+    {
+      "articleId": "d7899dcf4a2a9531193268ea67851d6d",
+      "contentHash": "af145fa353b11287216525ef0ff141b2d7434e41a5faf0e96059f19c2b5865ea",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-21T02:44:54.794Z",
+      "category": "模型",
+      "summary": "原文标题为“DeepSeek-V4.1-Flash 发布，文本与 Agent 性能全面提升、兼具原生多模态视觉理解能力，能力更强、速度更快、且成本更低，欢迎测试和反馈”。当前正文直接提到AI、模型、科学计算、数据或自动化相关内容；可核验摘录为：“DeepSeek-V4.1-Flash 与主流前沿模型在 Agentic Benchmark 上的性能对比 更少缓存，更省成本 新一代模型大幅减少了 KV Cache 缓存的大小，与上一代模型相比，对 HBM 的需求减少到 1/4，对 SSD 的需求减少到 1/8。在 Agent 使用场景中，缓存命中的费用往往占比较高，对 KV Cache 的压缩大幅降低了”。摘要仅复述当前抓取正文，未把来源自述当作独立验证。",
+      "score": 3,
+      "importanceReason": "正文给出方法、研究进展或落地线索，值得继续核对原始论文、数据、实验指标或客户证据。",
+      "contentType": "media_report",
+      "moatTags": [
+        "模型",
+        "商业合作"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.deepseek.com/news/deepseek-v4-1-flash/",
+          "quote": "DeepSeek-V4.1-Flash 与主流前沿模型在 Agentic Benchmark 上的性能对比 更少缓存，更省成本 新一代模型大幅减少了 KV Cache 缓存的大小，与上一代模型相比，对 HBM 的需求减少到 1/4，对 SSD 的需求减少到 1/8。在 Agent 使用场景中，缓存命中的费用往往占比较高，对 KV Cache 的压缩大幅降低了 Agent 类任务"
+        }
+      ],
+      "limitations": "当前分析仅基于仓库保存的正文摘录；未补充原文之外的样本规模、基线、误差、外部验证或商业使用证据。",
+      "failureReason": ""
+    },
+    {
+      "articleId": "d84b1f9ba70249e56df46fccd09c4209",
+      "contentHash": "c8efb538da7767b918e34372db2ba9202352fd728dd1f6796b140619e9d4f759",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.799Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "da0085e66a06913ce96996769dba32f1",
+      "contentHash": "a72cfab5f8e8e3360a66cae9d1e5aeca1f79ff99995f11a3ae452011dea01a53",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.801Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "da1559dd17e60a6484e6e5ae1d0da4f0",
+      "contentHash": "7f446881169049b4187c86fa4a523305285f71a87d0719e52f155b02dc1b5679",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.802Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "da500d6c7fcd5278c6845be4944600c1",
+      "contentHash": "5dfa57c67fa1af65feccce45b714a36b39609e43e84cfaeacaa436741ec577a2",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.804Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "dacdf39735af705a0edb495878a2e89f",
+      "contentHash": "791467f3dc761d82476aa11b3624ac6d6c3c819a53ac5eda3db26ace98b4e752",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.805Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "de3cde471895dbf9ac68845063d68f57",
+      "contentHash": "1ac960352aa31abe286093200b5353f39946f22a2437aa7b4d656b02e8726cc3",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-21T02:44:54.806Z",
+      "category": "数据",
+      "summary": "原文标题为“DeepSeek V3.2”。当前正文直接提到AI、模型、科学计算、数据或自动化相关内容；可核验摘录为：“2 的输出长度大幅降低，显著减少了计算开销与用户等待时间。 DeepSeek-V3.2-Speciale 的目标是将开源模型的推理能力推向极致，探索模型能力的边界。V3.2-Speciale 是 DeepSeek-V3.2 的长思考增强版，同时结合了 DeepSeek-Math-V2 的定理证明能力。该模型具备出色的指令跟随、严谨的数学证明与逻辑验证能力，在”。摘要仅复述当前抓取正文，未把来源自述当作独立验证。",
+      "score": 3,
+      "importanceReason": "正文给出方法、研究进展或落地线索，值得继续核对原始论文、数据、实验指标或客户证据。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "数据",
+        "模型"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.deepseek.com/news/deepseek-v3-2/",
+          "quote": "2 的输出长度大幅降低，显著减少了计算开销与用户等待时间。 DeepSeek-V3.2-Speciale 的目标是将开源模型的推理能力推向极致，探索模型能力的边界。V3.2-Speciale 是 DeepSeek-V3.2 的长思考增强版，同时结合了 DeepSeek-Math-V2 的定理证明能力。该模型具备出色的指令跟随、严谨的数学证明与逻辑验证能力，在主流推理基准测试上的"
+        }
+      ],
+      "limitations": "当前分析仅基于仓库保存的正文摘录；未补充原文之外的样本规模、基线、误差、外部验证或商业使用证据。",
+      "failureReason": ""
+    },
+    {
+      "articleId": "de59cb469cc0013eadd6aa1320c6db38",
+      "contentHash": "f31412ed08831cee52784d981dd32ae93e0a51c051fed5adf15446346e3773b4",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.807Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "deff9c33801714560aeac1cd0ffc1667",
+      "contentHash": "e145242cc1fced99f6635f0a9c7d92633f0a87747dcff1b3794f6f9d3751940c",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.808Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "df26bd70c115554a75a1c1d50cfa284e",
+      "contentHash": "071d791fe2c898f4209e8c810440f8129795ada568e39d1c3a9f5d7f2f482c7d",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-21T02:44:54.811Z",
+      "category": "数据",
+      "summary": "原文标题为“Aurora 1.5: Extending open foundation models for weather and Earth-system applications”。当前正文直接提到AI、模型、科学计算、数据或自动化相关内容；可核验摘录为：“inking the model with data, infrastructure, managed access, and operational use for weather and Earth-system applications. Aurora 1.5 is a major update to the open Aurora Earth-sys”。摘要仅复述当前抓取正文，未把来源自述当作独立验证。",
+      "score": 3,
+      "importanceReason": "正文给出方法、研究进展或落地线索，值得继续核对原始论文、数据、实验指标或客户证据。",
+      "contentType": "paper_result",
+      "moatTags": [
+        "数据",
+        "模型",
+        "商业合作"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/",
+          "quote": "inking the model with data, infrastructure, managed access, and operational use for weather and Earth-system applications. Aurora 1.5 is a major update to the open Aurora Earth-system founda"
+        }
+      ],
+      "limitations": "当前分析仅基于仓库保存的正文摘录；未补充原文之外的样本规模、基线、误差、外部验证或商业使用证据。",
+      "failureReason": ""
+    },
+    {
+      "articleId": "dfbdaf4e4d6f4c9a7db67e1c77f40b71",
+      "contentHash": "95564f8fbe099f69cf21c50494a17defdfe22182ffc72d681f02a2f398348be7",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.815Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "dfd166d8710acd586c2f32a287acedd0",
+      "contentHash": "1999c2af596866f9f49ab30076b918201dc9c2cb6dd16dba8a57280a5ba96cce",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.816Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "e05632debc2872bd2fd462ec90415351",
+      "contentHash": "b4911bc8487dbdbc756ea4743c13b2bda43ccfd1acc9eaf926f915b1f43ba991",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.819Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "e0b0b3b0f87d5357001210f5904fd792",
+      "contentHash": "d1bb2cacb19299f36d612b1226bfbbfdbbf8bef0daaa55c96061d5358601f201",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.820Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "e0c637e8e449ea3a7b3dce1612286c88",
+      "contentHash": "7d2181ca6c68573bfdb8fa38ceea31d40a8d03a7445402f7591a0f69a48e88f2",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.821Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "e16775d47603555f4e197a963e8fdb68",
+      "contentHash": "9760027fbe39db61dafa68975afcc72b4c224f7a10363ba42a8216faca395d30",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.822Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "e42991825225f7d13149200d127a49db",
+      "contentHash": "480aa18deae3def30a058a0b12fe96de2e0c0f7093dce1c6ad1455882351fa1a",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.823Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "e55b6a8e80206b16616db2c7e4bdc630",
+      "contentHash": "ca87ea87e0d754b0f6253fa1960be2b4e268724d3dcbbe46165c51528b499b4f",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.825Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "e6b764949b57d9a0c14416ab53f37186",
+      "contentHash": "435be361a708be0bbe9c81349aa60ea6c5b9bca78372fddc7078e423c8dd624a",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.826Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "e70390e22983a42d95bda45f51adc650",
+      "contentHash": "f369e572655893c3b02478b3aec02c4f55b8fbc101d126cca9145c06abb78e9d",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-21T02:44:54.832Z",
+      "category": "自动化实验室",
+      "summary": "原文标题为“2026-04-20 Kimi K2.6”。当前正文直接提到AI、模型、科学计算、数据或自动化相关内容；可核验摘录为：“K2.6 successfully downloaded and deployed the Qwen3.5-0.8B model locally on a Mac. By implementing and optimizing model inference in Zig —a highly niche programming language—it dem”。摘要仅复述当前抓取正文，未把来源自述当作独立验证。",
+      "score": 3,
+      "importanceReason": "正文给出方法、研究进展或落地线索，值得继续核对原始论文、数据、实验指标或客户证据。",
+      "contentType": "media_report",
+      "moatTags": [
+        "模型",
+        "实验自动化"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.kimi.com/en/blog/kimi-k2-6",
+          "quote": "K2.6 successfully downloaded and deployed the Qwen3.5-0.8B model locally on a Mac. By implementing and optimizing model inference in Zig —a highly niche programming language—it demonstrated"
+        }
+      ],
+      "limitations": "当前分析仅基于仓库保存的正文摘录；未补充原文之外的样本规模、基线、误差、外部验证或商业使用证据。",
+      "failureReason": ""
+    },
+    {
+      "articleId": "e8c26cd5a229ae2bfac4d0e129b74e62",
+      "contentHash": "dada85306903f1a8ddf743b0a583dd36a63b2c5d20cb69bb822f89b7c48f01bd",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.834Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "e92efdba0de76c15275119c765a39618",
+      "contentHash": "9625e5d9cb59f2dedd8456631f3bc2f0962f8accb839880a2bcbd72f990f41a6",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.836Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "ea02340eb309e996acfca1d78ae38d64",
+      "contentHash": "759ca9107a5229180c86e1c25975093e1f7eb78b82ebafdfc17694312e2d5f1a",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.837Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "eb0b4b766f198b6de5d2c95eb062e357",
+      "contentHash": "9fc2eaabe557bca1e1b50520cc6f9803b47f65e372d7f23394aa63b90aa3ccba",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.839Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "eb3c186a1dd3c3863e2a33fb1448bf51",
+      "contentHash": "a5b491bdceef5163e61b11b47accb91386a35766aa8455b0b0822cf7fba7e149",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.841Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "eb507d6aef3a1d52222c0df460cfae4d",
+      "contentHash": "413bc5a7ebd7f5a17b337dec086eb94b9454e35860c876db5e2bc47f45e60656",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.842Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "ebdfd9dab5b4cd945df02812a7f6b830",
+      "contentHash": "f21c3fc79113ebaa4a3eaa6631f39c326756ec1ff7445b61f48bdf8a5ffd73cc",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.844Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "ec087c82b68a9187ea6370f3681de168",
+      "contentHash": "87a4a4ba807ee6de72cced14b6d18a43117af7cc9680352473de08925eeb41bc",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-21T02:44:54.846Z",
+      "category": "数据",
+      "summary": "原文标题为“AWS HealthOmics Transform genomic, transcriptomic, and other omics data into insights. Learn more »”。当前正文直接提到AI、模型、科学计算、数据或自动化相关内容；可核验摘录为：“sly scales bioinformatics infrastructure to support data from tens of thousands of tests per day—all with predictable cost per-sample. HealthOmics handles the technical complexitie”。摘要仅复述当前抓取正文，未把来源自述当作独立验证。",
+      "score": 2,
+      "importanceReason": "正文涉及AI4S方法或应用，但当前正文的验证细节有限。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "数据",
+        "模型",
+        "药物设计"
+      ],
+      "evidence": [
+        {
+          "url": "https://aws.amazon.com/healthomics/",
+          "quote": "sly scales bioinformatics infrastructure to support data from tens of thousands of tests per day—all with predictable cost per-sample. HealthOmics handles the technical complexities like man"
+        }
+      ],
+      "limitations": "当前分析仅基于仓库保存的正文摘录；未补充原文之外的样本规模、基线、误差、外部验证或商业使用证据。",
+      "failureReason": ""
+    },
+    {
+      "articleId": "ec7c51b5dab80e387fc1c51ea681b1c6",
+      "contentHash": "1964ed979ce27cd7857f039499fc862868742e6c7b9753babd7866f1945a6902",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-21T02:44:54.849Z",
+      "category": "数据",
+      "summary": "原文标题为“XTuner 2025.07.11 5k”。当前正文直接提到AI、模型、科学计算、数据或自动化相关内容；可核验摘录为：“without complexity: Train 200B-scale MoE models without expert parallelism; 600B models require only intra-node expert parallelism Optimized parallelism strategy: Smaller expert pa”。摘要仅复述当前抓取正文，未把来源自述当作独立验证。",
+      "score": 3,
+      "importanceReason": "正文给出方法、研究进展或落地线索，值得继续核对原始论文、数据、实验指标或客户证据。",
+      "contentType": "paper_result",
+      "moatTags": [
+        "数据",
+        "模型"
+      ],
+      "evidence": [
+        {
+          "url": "https://github.com/InternLM/xtuner",
+          "quote": "without complexity: Train 200B-scale MoE models without expert parallelism; 600B models require only intra-node expert parallelism Optimized parallelism strategy: Smaller expert parallelism"
+        }
+      ],
+      "limitations": "当前分析仅基于仓库保存的正文摘录；未补充原文之外的样本规模、基线、误差、外部验证或商业使用证据。",
+      "failureReason": ""
+    },
+    {
+      "articleId": "edf74927e8bf18460382ac676de9b8d9",
+      "contentHash": "0f8dbd97961d1ecdae1c241fe5633460d9c91d2a6940ed1df4a61aae20dae852",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-21T02:44:54.851Z",
+      "category": "模型",
+      "summary": "原文标题为“EvoLib: Turning experience into evolving knowledge”。当前正文直接提到AI、模型、科学计算、数据或自动化相关内容；可核验摘录为：“By turning experience into reusable knowledge, EvoLib helps AI models learn from past successes and failures and evolve the knowledge that has the highest potential on improving fu”。摘要仅复述当前抓取正文，未把来源自述当作独立验证。",
+      "score": 3,
+      "importanceReason": "正文给出方法、研究进展或落地线索，值得继续核对原始论文、数据、实验指标或客户证据。",
+      "contentType": "paper_result",
+      "moatTags": [
+        "模型"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge/",
+          "quote": "By turning experience into reusable knowledge, EvoLib helps AI models learn from past successes and failures and evolve the knowledge that has the highest potential on improving future perfo"
+        }
+      ],
+      "limitations": "当前分析仅基于仓库保存的正文摘录；未补充原文之外的样本规模、基线、误差、外部验证或商业使用证据。",
+      "failureReason": ""
+    },
+    {
+      "articleId": "ee597d89e31297cc59af2ba5a72750a0",
+      "contentHash": "ada0b4e8d10f088ccd7f5982e87569a54923f3c7d8a9db064cdda8c802f4860d",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.852Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "ee8d49455842f8c9d9355ebf4cd7e649",
+      "contentHash": "cfac09fc80c076170140ca99921c7f839096ae4bf9ad5ac2d256525d956f7566",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.853Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "ef3510ddeb01e833207c57d9601a6c9a",
+      "contentHash": "1cbc7c903b0279956b3c51f59f259c843eda620ffa66ed95b281b492b5f10417",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.855Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "efbd64ea0fdf69524124c2f094aa9dd3",
+      "contentHash": "a99ee5b34c80964696fea37778167250f7d2741361f6dcd2c4571c0e4463e070",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.857Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "efd2a3b863254b7111a67b83a3c0a2db",
+      "contentHash": "2fec64e8273b0fcb3c7f756d81a7329e046f359fdce0dcc49f5b339dbc59ad53",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.858Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "f0ed36e6cfc80c67544a176f53eb300f",
+      "contentHash": "642f2e9923e7ca2aefdc8bddd98891be7a4066b61b0f8f271c5df82d178a8871",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.859Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "f37cae2df6658da540f2a7c0041dd79b",
+      "contentHash": "31f2199b0f42c8213896a8d5500d3b24404f31734b701c5f6b66a5436f3d1678",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.860Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "f3f20df70bb23965ae8493cc317a001f",
+      "contentHash": "6ef239004d521fedd0a8e21c866c0bc8b4c3d0d5dc621a37fa14387f95792a32",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.865Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "f4c6ca37e0f8e594a39587da9fddb8b5",
+      "contentHash": "bce2f500100b2523b1e2967d81b33ec8063cca6e8bab4ff6d7d04cd37951408c",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.868Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "f4ee503da3dc3f5a411709ad50fa62a5",
+      "contentHash": "b4016d2a24952e31442ae7612de632812a6115bf80ec384c6abb8e7be7a1e472",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.869Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "f62e76f0151e305c209b760e8d20f318",
+      "contentHash": "5bf75a20d2bdd2e44229013350fb63df6c32bd5814ec6a1f7d3f86aeaabf1d2b",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.870Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "f7300df31f0abd97f2330a8eb88ef649",
+      "contentHash": "be9e9675dbe68547aa8a7063313e09575faca0d3ec3a77d803575e80ed22ba57",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.871Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "f8d2dffb5347ebe981602e79067783dd",
+      "contentHash": "16cd1816d2510c2a9e7ed354c4a3640320b334bf1fca737009cc27b90c04f1eb",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.873Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "f9565b40d647339848a1582a32c43bba",
+      "contentHash": "1bd27393d31dc3eb336f7999487554fd55dd237beccfa391ede99ee660dcd098",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.874Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "fa017bcd82f828b0a2490f636869f580",
+      "contentHash": "30a783631f25feef4a8e9b37a42468d274e3c98d38e04720988c558dfb36d82a",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.875Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "fc405cfade0c84ad536da554a638372a",
+      "contentHash": "fe8b6008361709ca2730bf5265b8cb99dfcfb165aa1366768b9f79012aa7166f",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.877Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    }
+  ]
+}
+

@@ -1,0 +1,479 @@
+{
+  "schemaVersion": 1,
+  "generator": "chatgpt-task",
+  "createdAt": "2026-09-21T02:47:13.199Z",
+  "analyses": [
+    {
+      "articleId": "8f2d24059e1538b71622d9784b8b2d03",
+      "contentHash": "773747990f0e493adf9b7a1154d7bde2150ee54e04d8710f18e2005d91b98aee",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.543Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "8f61c90176c4f20fb8efaecad52506bb",
+      "contentHash": "820282487ee023f0f657c3964af9ff1e1ad6789f3dd19f8c0c3c3c5c276b5a17",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.544Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "8f9f28ade02c29f90e427c1e1736a14d",
+      "contentHash": "e8f367529a83d987cd472c1f756445afdc9bd418c2c2ce4d21b7e17654be43f6",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.545Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "9268711011d7b6575fd14fc714dea253",
+      "contentHash": "28b76c95f72f2c67fb8d60c5f672a0ad5b9aee379691e908c469de704e120339",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.548Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "93c15b03e54e630ef0e1dff035df3273",
+      "contentHash": "c7c47241405d684d0971001cce830f5572303cc6d0d9a35dc08bff63a0377deb",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.550Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "942c79e9cfbe6d7c8479b5c43fc64669",
+      "contentHash": "6aaae00a30993895c7e09ae9fc03e95f5a544db8236e19ab186c5921bca2820a",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.551Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "942f09bcd0e97598c133296d098dbd95",
+      "contentHash": "34c2facd100b42893981ed4d73675adc0a5b5ba6c91c8af3a36d7e71fefaf49e",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.552Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "9491a28bd1812521426abf7864f69de0",
+      "contentHash": "8d7c85037a5773d4247b1590d7a610c91fe5764a6c3bb6038577d13c1446f826",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.553Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "9498e9e7686825ee8dd57859c6f63c44",
+      "contentHash": "9ec6365c258a99d61edb56539020c5957549927869dfb74b043ec702d3117435",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.555Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "94bf36eef73caa5832ced9cf9ccc9ebf",
+      "contentHash": "a53b0c023fa2fb2d4032576c6284b08a81d6fbb41440db72825504bc31e04ede",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.556Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "951c5f80e66adfb6a51bf223662301fc",
+      "contentHash": "a25112ad9cb0aa6c0d14655b23adfbcd17f7aa9fe1f7666b3501c663c15a4d59",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.557Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "965fb1c58caee959c31def897f4ff410",
+      "contentHash": "a74142ae94a42261f41ac9c1e9b57f861c2b0c373683ea50b9098c302a2e1753",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.558Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "968c32634dc2a1cb83f007064d0bd309",
+      "contentHash": "a42228caaad189441381fde895f360b0c95de403d0b41a47a65dec38ef4a855c",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.560Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "978c94b5adec9b157260d27217cdfca1",
+      "contentHash": "0a9ddd6fcc7c21c76b4617dbe2cefc1c8ee3ed3041373584c97d3bb60f5ed888",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.563Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "9821392c6dfa55e62be169f5caf929e5",
+      "contentHash": "27109289a009015096e2162fe8080a23da5c777dda5460a12c188b40a463ce9f",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.565Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "9850563e27541823b2f04298c102068c",
+      "contentHash": "3bf956db093ec34a1eada5c9e7d0243fd4aa597cb21e7722481408045603aa20",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.567Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "989d4a702b35d7c8ed421e89dec302ce",
+      "contentHash": "d817d90d647812423707002ebc211ecbad6b1f2ba09d8ed40eaee464e364a4ce",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.569Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "98d3b12b73f5dbfb158697c4c1bb0a7d",
+      "contentHash": "e2d5ac5e82d39daa9867b8765e15614028d6fa42711552a86ad64926919775dc",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.570Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "99691edace27796060fd063b5a9a8076",
+      "contentHash": "660cb123221aa07e3e19827bc4001364b6b8e88fe8e06c85f6c7fd3fdf49573f",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.572Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "99cf2798098b9bfb937c4e3225a3b5c5",
+      "contentHash": "cc118a1b9b58d69d3929f201a7ff818f2c893e52c1a7cdd1f8c33c2d39144864",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.573Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "99ef6997114e8c4e48b5fddcea19c0a4",
+      "contentHash": "a4ae698750329be64be06f964f5bf6fdd5e389dfc7c60aff16c50032c64a0a61",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.574Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "99f62f9c7e6dde1279f8598335d84ebc",
+      "contentHash": "518cdbe64139c995d7ff5da43a7c8376fdf2989b01e20ec835fe0867c23059c0",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.576Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "9b509230b3acd264163cd6a98b674db8",
+      "contentHash": "bf128b24a5e06a9f98d3bfafbc71cfb941cfd26c577468deabd52902eb39365c",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.578Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "9b94085cda72220b896d168d9a2c0b18",
+      "contentHash": "48c33d2f9877ce7c3464425ff61958bd525184cd671a7edcc691e86061dadd19",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.582Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "9b97ca3610da92103d87661598163a76",
+      "contentHash": "603099ab9deb1decc59fc9fc944a33afb83b5d54abda2fd011f5c696f10056a1",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-21T02:44:54.583Z",
+      "category": "自动化实验室",
+      "summary": "原文标题为“上海交大陈一彤科研团队提出光计算走向实用化的“技术路线图””。当前正文直接提到AI、模型、科学计算、数据或自动化相关内容；可核验摘录为：“的性能目标，而如何实现这些目标亦是关键问题。为此，研究团队进一步构建了贯通技术工艺和应用需求的双向分析框架：一方面从纳米材料、器件结构、制造能力出发，自下而上评估现有技术工艺条件下光计算“能够实现什么”；另一方面从大规模 AI 模型、边缘计算、科学计算等真实应用需求出发，自上而下倒推系统“须具备什么”。两条路径在计算架构层面交汇衔接，共同推动实用化光计算系统”。摘要仅复述当前抓取正文，未把来源自述当作独立验证。",
+      "score": 3,
+      "importanceReason": "正文给出方法、研究进展或落地线索，值得继续核对原始论文、数据、实验指标或客户证据。",
+      "contentType": "paper_result",
+      "moatTags": [
+        "模型",
+        "实验自动化",
+        "材料发现"
+      ],
+      "evidence": [
+        {
+          "url": "https://news.sjtu.edu.cn/jdzh/20260911/225798.html",
+          "quote": "的性能目标，而如何实现这些目标亦是关键问题。为此，研究团队进一步构建了贯通技术工艺和应用需求的双向分析框架：一方面从纳米材料、器件结构、制造能力出发，自下而上评估现有技术工艺条件下光计算“能够实现什么”；另一方面从大规模 AI 模型、边缘计算、科学计算等真实应用需求出发，自上而下倒推系统“须具备什么”。两条路径在计算架构层面交汇衔接，共同推动实用化光计算系统的迭代发展和落地部署"
+        }
+      ],
+      "limitations": "当前分析仅基于仓库保存的正文摘录；未补充原文之外的样本规模、基线、误差、外部验证或商业使用证据。",
+      "failureReason": ""
+    },
+    {
+      "articleId": "9b9d8e0a22c6d300342af081e4d26ecf",
+      "contentHash": "e7eacc01ebbe75b95d58a6364d902cb288fe77bb83610f0358efec1f464b4ec7",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.585Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "9be565dff78eeba8d3acbbfa31067b69",
+      "contentHash": "4e46cb493db63265b6c1926c171160c92bb68f3ac04ca1fd9328b8041092d3a0",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-21T02:44:54.586Z",
+      "category": "数据",
+      "summary": "原文标题为“The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold - Isomorphic Labs”。当前正文直接提到AI、模型、科学计算、数据或自动化相关内容；可核验摘录为：“sequence as input. IsoDDE offers a scalable foundation for AI drug design, providing the predictive fidelity required to navigate novel biological systems with unprecedented accura”。摘要仅复述当前抓取正文，未把来源自述当作独立验证。",
+      "score": 3,
+      "importanceReason": "正文给出方法、研究进展或落地线索，值得继续核对原始论文、数据、实验指标或客户证据。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "数据",
+        "模型",
+        "药物设计"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier",
+          "quote": "sequence as input. IsoDDE offers a scalable foundation for AI drug design, providing the predictive fidelity required to navigate novel biological systems with unprecedented accuracy. Since"
+        }
+      ],
+      "limitations": "当前分析仅基于仓库保存的正文摘录；未补充原文之外的样本规模、基线、误差、外部验证或商业使用证据。",
+      "failureReason": ""
+    },
+    {
+      "articleId": "9be95790fd93a79b6dc141ff577794f1",
+      "contentHash": "83556c33b82b8f996527c5334c5c304cc158d5126ec45b91ef1464993142c1bb",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.588Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "9bffdb73711a00d2c70fdddbea4ed41d",
+      "contentHash": "620b2447f62c6846d43fb6e7bf2d86cf626f6ef315b21a58404918552c852799",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-21T02:44:54.589Z",
+      "category": "AI4S 应用",
+      "summary": "原文标题为“Switzerland will soon get its first IBM Quantum System Two”。当前正文直接提到AI、模型、科学计算、数据或自动化相关内容；可核验摘录为：“nizations. Swiss universities, startups, and companies can gain quantum access for chemistry, materials science, optimization, and financial services research, as well as anchor in”。摘要仅复述当前抓取正文，未把来源自述当作独立验证。",
+      "score": 2,
+      "importanceReason": "正文涉及AI4S方法或应用，但当前正文的验证细节有限。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "材料发现",
+        "商业合作"
+      ],
+      "evidence": [
+        {
+          "url": "https://research.ibm.com/blog/swiss-innovation-hub",
+          "quote": "nizations. Swiss universities, startups, and companies can gain quantum access for chemistry, materials science, optimization, and financial services research, as well as anchor initiatives"
+        }
+      ],
+      "limitations": "当前分析仅基于仓库保存的正文摘录；未补充原文之外的样本规模、基线、误差、外部验证或商业使用证据。",
+      "failureReason": ""
+    },
+    {
+      "articleId": "9c5a50aa4fe2720e682ba6fdd42cd4f0",
+      "contentHash": "cfccef50dfad941bbf67ed53423aadb4956fa7993f1606f634b8db99b06b5f3f",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.591Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "9c6f00b00de3e1d7b37515ee8431de8d",
+      "contentHash": "dd88c9a463f1c536a66eae188137991a442325072af085fe52e0a59f3d78552f",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.592Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "9cf8feee91178cf45da13ee0150d4d91",
+      "contentHash": "67f5053c167e33dbe5b87aee49bcd46a64d2da2bf0f854b942d084af0affe7f5",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.593Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "9d3c96b85fe8f57637789ef2ab571946",
+      "contentHash": "7235265b0efcd5690af485cf91f95c761bf8767fc68034971465e29aa9226987",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.594Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "9d4068d78293f0c1958019cf1e304832",
+      "contentHash": "ad5e488f36ffe1b9a8e3d10eec8c88161182cbfa70dbd373c94788a216e517b1",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.598Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "9d9a883082c428235dd06a21e7f45639",
+      "contentHash": "63c0707c930c845253b28bf34e53555e53801c09d97a0eefc35617e375107c10",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.599Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "9dc4522ac8c55dcc488291faf429bd78",
+      "contentHash": "95c26e2038c51f26908ca4268bae2a5e845efe749c55069de42234ead0ee6744",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.601Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "9f82ab6c8d9da6e2bba67b080947d072",
+      "contentHash": "d679443c0252e77d594b97f798803f38cb941bfd2ce91f7c65b12d9ba1790ba9",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.602Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "a00764589e2321fb355587d193e83710",
+      "contentHash": "5c716ac56056a49e7d3eba3bee41622323da8f20f924fe79713f50f81a361323",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-21T02:44:54.603Z",
+      "category": "数据",
+      "summary": "原文标题为“MinerU 2025.11.06 48.7k”。当前正文直接提到AI、模型、科学计算、数据或自动化相关内容；可核验摘录为：“s : Flash for fast previews and indexing, Basic for OCR and model-based parsing, and Standard / Advanced for more demanding layouts and quality requirements. Multiple input formats”。摘要仅复述当前抓取正文，未把来源自述当作独立验证。",
+      "score": 3,
+      "importanceReason": "正文给出方法、研究进展或落地线索，值得继续核对原始论文、数据、实验指标或客户证据。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "数据",
+        "模型"
+      ],
+      "evidence": [
+        {
+          "url": "https://github.com/opendatalab/MinerU",
+          "quote": "s : Flash for fast previews and indexing, Basic for OCR and model-based parsing, and Standard / Advanced for more demanding layouts and quality requirements. Multiple input formats : PDF, im"
+        }
+      ],
+      "limitations": "当前分析仅基于仓库保存的正文摘录；未补充原文之外的样本规模、基线、误差、外部验证或商业使用证据。",
+      "failureReason": ""
+    },
+    {
+      "articleId": "a00923bf4ddda715364788a2da3f2ff9",
+      "contentHash": "008f092f322a1bb9593f99110c1b5af504512febb1e6e9909bb67c4cfb45e760",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.605Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "a022428c9c2990bc29b51bb9f03ad6aa",
+      "contentHash": "5741dcc8436f3cb4202326d8ef4827953077d72c1d0a8ee3de909c0519d949e3",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.606Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "a167325e19698521ff080b68daffb59e",
+      "contentHash": "c66a437554b7960b7aada1a87a29d73dd8fd8af14fdc224abea642c8a8c41b99",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.609Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "a1f8cdc7757774f6440b503eadd59f71",
+      "contentHash": "c27745063016f1b846db75e6564b37c4a731e603287ebc951997f9797c889a91",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-21T02:44:54.610Z",
+      "category": "自动化实验室",
+      "summary": "原文标题为“Chemify’s drug discovery platform validated by papers April 10, 2026 Drug Discovery World”。当前正文直接提到AI、模型、科学计算、数据或自动化相关内容；可核验摘录为：“Nature Communications Biology describe how the Chemputation AI platform can understand and execute instructions to make new molecules from scientific literature, produce them itera”。摘要仅复述当前抓取正文，未把来源自述当作独立验证。",
+      "score": 2,
+      "importanceReason": "正文涉及AI4S方法或应用，但当前正文的验证细节有限。",
+      "contentType": "paper_result",
+      "moatTags": [
+        "实验自动化",
+        "药物设计",
+        "材料发现",
+        "商业合作"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.ddw-online.com/chemifys-drug-discovery-platform-validated-by-papers-41240-202604/",
+          "quote": "Nature Communications Biology describe how the Chemputation AI platform can understand and execute instructions to make new molecules from scientific literature, produce them iteratively and"
+        }
+      ],
+      "limitations": "当前分析仅基于仓库保存的正文摘录；未补充原文之外的样本规模、基线、误差、外部验证或商业使用证据。",
+      "failureReason": ""
+    },
+    {
+      "articleId": "a277e069e03c07d5fc39bd3e55b27b36",
+      "contentHash": "91cb11d76f0bd20e126b1e6e7cd06babd03ff1ea0b59314cd9af375be0acbc84",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.614Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "a2febc6ae20b51e5281245142a3199f9",
+      "contentHash": "2d1f5eabca46f6717c210fcd08b444cb684ef9eef95806b952eba2d5b7d93bb2",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.617Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "a37c300d251ad81998e9c3df4e987664",
+      "contentHash": "e87d95741de5266ea67f5fe7e559b8c2957ada80049675459393984826a54d6f",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.618Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "a45f9876377cc3ff38458a87a6d36ab4",
+      "contentHash": "ba940d6c16e54652b0372c27345f1624bee40a914ef65f0d2369960aed9e0c9f",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-21T02:44:54.620Z",
+      "category": "数据",
+      "summary": "原文标题为“Visualizing trade-offs in multi-property protein optimization”。当前正文直接提到AI、模型、科学计算、数据或自动化相关内容；可核验摘录为：“ile (TPP) Multi-property optimization is a key use case for AI-driven protein optimization: AI thrives in the multi-parametric sequence space that is difficult to grasp for human s”。摘要仅复述当前抓取正文，未把来源自述当作独立验证。",
+      "score": 3,
+      "importanceReason": "正文给出方法、研究进展或落地线索，值得继续核对原始论文、数据、实验指标或客户证据。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "数据",
+        "模型",
+        "药物设计",
+        "商业合作"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.cradle.bio/blog/visualizing-trade-offs-in-multi-property-protein-optimization",
+          "quote": "ile (TPP) Multi-property optimization is a key use case for AI-driven protein optimization: AI thrives in the multi-parametric sequence space that is difficult to grasp for human scientists"
+        }
+      ],
+      "limitations": "当前分析仅基于仓库保存的正文摘录；未补充原文之外的样本规模、基线、误差、外部验证或商业使用证据。",
+      "failureReason": ""
+    },
+    {
+      "articleId": "a4c1c25e1171c757c3c872556cfc3c1c",
+      "contentHash": "d64e914f758ea0067ea1981dfa1c5fc0ff24af4fc6b2372e7f7d0a49c8623406",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-21T02:44:54.621Z",
+      "category": "自动化实验室",
+      "summary": "原文标题为“牵手聚变国家队｜创材深造进军可控核聚变材料赛道，“AI+高通量”重构材料研发新范式 前言：可控核聚变被公认为人类的终极清洁能源，商业化进程正在全面提速。据多家国际机构预测，聚变能一旦实现并网发电，将催生一个超万亿美元的巨大市场。然而，从“装置点火”到“稳定发电”，横亘着一道关键天堑——极端工况下性能优异的特种材料。聚变堆内壁材料需承受极端环境考验，现有材料体系远远无法满足工程需求。 2026.07.07”。当前正文直接提到AI、模型、科学计算、数据或自动化相关内容；可核验摘录为：“表征、力学性能测试全流程，实现无人化运行，自主沉淀独家实测数据库，构筑模型核心竞争力。 作为我国最早致力于可控核聚变研究的专业科研院所，该机构承担着核能 “三步走”战略中聚变堆研发的核心任务，是我国参与ITER计划的重要支撑单位。在聚变材料领域，该机构急需解决的三大行业性痛点：实验室小样（克级）与工程千吨级量产之间存在巨大鸿沟；中子辐照试验成本极高、周期漫长”。摘要仅复述当前抓取正文，未把来源自述当作独立验证。",
+      "score": 3,
+      "importanceReason": "正文给出方法、研究进展或落地线索，值得继续核对原始论文、数据、实验指标或客户证据。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "数据",
+        "模型",
+        "实验自动化",
+        "材料发现",
+        "商业合作"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.deep-material.com/qiyexinwen/82",
+          "quote": "表征、力学性能测试全流程，实现无人化运行，自主沉淀独家实测数据库，构筑模型核心竞争力。 作为我国最早致力于可控核聚变研究的专业科研院所，该机构承担着核能 “三步走”战略中聚变堆研发的核心任务，是我国参与ITER计划的重要支撑单位。在聚变材料领域，该机构急需解决的三大行业性痛点：实验室小样（克级）与工程千吨级量产之间存在巨大鸿沟；中子辐照试验成本极高、周期漫长，辐照脆化/硬化实测"
+        }
+      ],
+      "limitations": "当前分析仅基于仓库保存的正文摘录；未补充原文之外的样本规模、基线、误差、外部验证或商业使用证据。",
+      "failureReason": ""
+    },
+    {
+      "articleId": "a4fcc5f87d78984972171a4c0c507f3e",
+      "contentHash": "daf5015780212a486e8e1598f67abc60a1a8b530d96405926fdd2a152984b617",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.623Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "a581d2a5f28cf420084c780e85caf628",
+      "contentHash": "6a9369458df3dcf999b3328c97e686be5ddf17736dcff069f38da20ed879b797",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.624Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "a5bb4b83fc7494012938725d823b57fc",
+      "contentHash": "ef9d5ae08f526167e4ea223538407eef8b2fee09415e3a3782c6c1bb867e069b",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.625Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    }
+  ]
+}
+

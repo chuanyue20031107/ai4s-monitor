@@ -1,0 +1,496 @@
+{
+  "schemaVersion": 1,
+  "generator": "chatgpt-task",
+  "createdAt": "2026-09-21T02:47:13.199Z",
+  "analyses": [
+    {
+      "articleId": "0027655752f485505679840a6f0d22fe",
+      "contentHash": "4db7d3076945791fb9807f8d729b7654f94e7c5a890d63a51f4d078fabc24735",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-21T02:44:54.230Z",
+      "category": "数据",
+      "summary": "原文标题为“Introducing CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement”。当前正文直接提到AI、模型、科学计算、数据或自动化相关内容；可核验摘录为：“setting. In a separate research experiment from CARE-X, we paired Qwen3-VL-4B-Instruct with deterministic measurement tools to evaluate whether direct computation could improve per”。摘要仅复述当前抓取正文，未把来源自述当作独立验证。",
+      "score": 3,
+      "importanceReason": "正文给出方法、研究进展或落地线索，值得继续核对原始论文、数据、实验指标或客户证据。",
+      "contentType": "media_report",
+      "moatTags": [
+        "数据",
+        "模型"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/",
+          "quote": "setting. In a separate research experiment from CARE-X, we paired Qwen3-VL-4B-Instruct with deterministic measurement tools to evaluate whether direct computation could improve performance o"
+        }
+      ],
+      "limitations": "当前分析仅基于仓库保存的正文摘录；未补充原文之外的样本规模、基线、误差、外部验证或商业使用证据。",
+      "failureReason": ""
+    },
+    {
+      "articleId": "01bc6e23aacf1016528aace8f5cc9af1",
+      "contentHash": "e3d8f5ee5588ece6c0e6fdbfa961f8cf6dcae59065cdb8b9d9cb2609b2521eab",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.237Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "02916ef0796586970cf13efa6a45490d",
+      "contentHash": "567c513c7bba90a772b6ee43f438a747776f2d60b170fa97002b0df0c5f3c16c",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-21T02:44:54.239Z",
+      "category": "自动化实验室",
+      "summary": "原文标题为“2000RS FluoXpert”。当前正文直接提到AI、模型、科学计算、数据或自动化相关内容；可核验摘录为：“uoXpert 适配不同样本大小，搭载3种不同载片规格多重免疫荧光试剂套装和多重免疫荧光染拍软件，在同一样本24靶标蛋白检测，实现 染拍一体化！ 2 载片数 3 载片规格 6-Plex、24-Plex 试剂盒套装 140 片/周 最大通量 FFPE/冷冻 样本类型 2000RS FluoXpert 一体化智能工具 通过染、拍、洗一体化实现不同目标蛋白多重免疫”。摘要仅复述当前抓取正文，未把来源自述当作独立验证。",
+      "score": 3,
+      "importanceReason": "正文给出方法、研究进展或落地线索，值得继续核对原始论文、数据、实验指标或客户证据。",
+      "contentType": "paper_result",
+      "moatTags": [
+        "数据",
+        "模型",
+        "实验自动化"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.mgi-tech.com/Proteomics-products-platforms/5.html",
+          "quote": "uoXpert 适配不同样本大小，搭载3种不同载片规格多重免疫荧光试剂套装和多重免疫荧光染拍软件，在同一样本24靶标蛋白检测，实现 染拍一体化！ 2 载片数 3 载片规格 6-Plex、24-Plex 试剂盒套装 140 片/周 最大通量 FFPE/冷冻 样本类型 2000RS FluoXpert 一体化智能工具 通过染、拍、洗一体化实现不同目标蛋白多重免疫荧光。 性能参数 多"
+        }
+      ],
+      "limitations": "当前分析仅基于仓库保存的正文摘录；未补充原文之外的样本规模、基线、误差、外部验证或商业使用证据。",
+      "failureReason": ""
+    },
+    {
+      "articleId": "03300265be68d6a6b76eb52070eed34e",
+      "contentHash": "962872e3c907fdf4821c8411190835d4071c77fbda114a9b320042d8cb26be9b",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.242Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "0569be6031b3f4e1392bca0cb8324c6a",
+      "contentHash": "ca4a799c908a46ed40f0c1178956cc8c1834588b2d662246793725d6d4af0931",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.243Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "06f2e35843bc2a56700dca66881183ff",
+      "contentHash": "1e926fdbb480406cf9515b3e5803920fb0edc37884b135b72e697e887dec383f",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.244Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "089227037e020b4fc4600ea4e588b13a",
+      "contentHash": "4b24776005feb7477bb88b71a000ff30b62e56c1f291fdcf331e0418073a5ba1",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.249Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "091e3509224d4d47932c2abaa6d57b28",
+      "contentHash": "9fc1704ced8476fb3a796df21810dcc8f798715a37926ec3ad0831b2a3c02559",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-21T02:44:54.251Z",
+      "category": "自动化实验室",
+      "summary": "原文标题为“Optimizing across the entire batch is one secret to better proteins Aug 11, 2026”。当前正文直接提到AI、模型、科学计算、数据或自动化相关内容；可核验摘录为：“where you can also subscribe to our newsletter. Cradle uses machine learning (ML) to accelerate protein design: We help scientists engineer proteins to become biologics like antibo”。摘要仅复述当前抓取正文，未把来源自述当作独立验证。",
+      "score": 3,
+      "importanceReason": "正文给出方法、研究进展或落地线索，值得继续核对原始论文、数据、实验指标或客户证据。",
+      "contentType": "paper_result",
+      "moatTags": [
+        "数据",
+        "模型",
+        "实验自动化",
+        "药物设计",
+        "材料发现"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.cradle.bio/blog/optimizing-entire-batch",
+          "quote": "where you can also subscribe to our newsletter. Cradle uses machine learning (ML) to accelerate protein design: We help scientists engineer proteins to become biologics like antibodies or pe"
+        }
+      ],
+      "limitations": "当前分析仅基于仓库保存的正文摘录；未补充原文之外的样本规模、基线、误差、外部验证或商业使用证据。",
+      "failureReason": ""
+    },
+    {
+      "articleId": "09c2cc23740a21a158954dc84922b98e",
+      "contentHash": "8bdc180ff1713e5236282c8af0fb79d995203d40fc0fd59764e7c1e493457996",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-21T02:44:54.252Z",
+      "category": "AI4S 应用",
+      "summary": "原文标题为“赛诺菲团队到访晶泰科技，共同探讨AI 如何加速新药研发”。当前正文直接提到AI、模型、科学计算、数据或自动化相关内容；可核验摘录为：“赛诺菲团队到访晶泰科技，共同探讨AI 如何加速新药研发 appeared first on 晶泰科技 XtalPi .”。摘要仅复述当前抓取正文，未把来源自述当作独立验证。",
+      "score": 1,
+      "importanceReason": "正文主要是方向或产品说明，科学增量和验证信息有限。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "模型"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.xtalpi.com/%e8%b5%9b%e8%af%ba%e8%8f%b2%e5%9b%a2%e9%98%9f%e5%88%b0%e8%ae%bf%e6%99%b6%e6%b3%b0%e7%a7%91%e6%8a%80%ef%bc%8c%e5%85%b1%e5%90%8c%e6%8e%a2%e8%ae%a8ai-%e5%a6%82%e4%bd%95%e5%8a%a0%e9%80%9f%e6%96%b0/",
+          "quote": "赛诺菲团队到访晶泰科技，共同探讨AI 如何加速新药研发 appeared first on 晶泰科技 XtalPi ."
+        }
+      ],
+      "limitations": "当前分析仅基于仓库保存的正文摘录；未补充原文之外的样本规模、基线、误差、外部验证或商业使用证据。",
+      "failureReason": ""
+    },
+    {
+      "articleId": "0a09e45937b927b369e32a61882ff334",
+      "contentHash": "9dfc24c1e2a8e78f35b98617a48fbeb260b30855839ce3d756dd2551f3e3fed7",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.254Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "0a3db91dfe46892efdc1e9d72e6846e2",
+      "contentHash": "c4b8caebc82f90cc5fc57e100053b9195fe276489b09bf3f6e209b963fe95f7d",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.255Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "0bf849d1ee8eb6f739890e3e4449f6a2",
+      "contentHash": "b5c715ebb84f7424d1b397a16db594e6015c14540ac870e77551691517c79a63",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.256Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "0d165a87fef00bbe610828172e834a2c",
+      "contentHash": "f1c70248173d671191d8b0bbe27056d16e33eaf984e81cc8d7539b16be6c4064",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.257Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "0d9c638cb5039d0be90ec59cf78086ae",
+      "contentHash": "bc7d6598ecdbfdd048a4f20204cd3e4453e737674c02f313f48522af0e62ca05",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.258Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "0e0365a639c6686ab8c54a5186645355",
+      "contentHash": "2f49483cb35ed6950991e75f6b275c3a8caea75baac92bc94a0890069d0bcdea",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.259Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "0e860e4cf6107e6fa4565648166cd4d8",
+      "contentHash": "c4c2470c4fa02d1aeef6599d2f997949c4f26e57373f06135302571b2dfd54a4",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.260Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "0eee806108e6630669cf52b8d9ecc43b",
+      "contentHash": "96707e5ba3982227af20cb71deb33ca213eb46c50a0f5a126eea2a1064dc07a6",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.261Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "0f44f2bbcb97b5c27dd533a8a294898e",
+      "contentHash": "b97e45d9e708758d7cdffbd4e399a088f47a879695aa9a2480e7c19ae4d7a415",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.264Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "10ca774d07ab1c1ac459b2985568668e",
+      "contentHash": "037a90329d3d5dfe5796668c4be78a45372b379cd7cc7c4592b5055c8cd58026",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.269Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "123d2c6b52a03e904d91e6e1d8171d7d",
+      "contentHash": "7eeb142da5995481ef8e2108a085486b0881db766919e0034e2829359b944634",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-21T02:44:54.271Z",
+      "category": "自动化实验室",
+      "summary": "原文标题为“天津工生所在嗜热真菌高通量工程化改造与蛋白质表达系统构建方面取得新进展”。当前正文直接提到AI、模型、科学计算、数据或自动化相关内容；可核验摘录为：“工2个专业学位硕士培养点。拥有微生物学、生物化学与分子生物学、生物化工、应用化学、生物与医药、材料与化工6个博士、硕士招生专业，形成了特色鲜明、优势突出的学科体系，为研究生综合素质、创新能力和人文素养的提升奠定了坚实的基础。 中国科学院天津工业生物技术研究所秉承“开放 联合 国际化”的发展理念，以牵头建设国家合成生物技术创新中心为契机，联合国际(地区)优势机”。摘要仅复述当前抓取正文，未把来源自述当作独立验证。",
+      "score": 3,
+      "importanceReason": "正文给出方法、研究进展或落地线索，值得继续核对原始论文、数据、实验指标或客户证据。",
+      "contentType": "paper_result",
+      "moatTags": [
+        "数据",
+        "实验自动化",
+        "材料发现",
+        "商业合作"
+      ],
+      "evidence": [
+        {
+          "url": "https://tib.cas.cn/xwdt/kyjz/202609/t20260903_8277270.html",
+          "quote": "工2个专业学位硕士培养点。拥有微生物学、生物化学与分子生物学、生物化工、应用化学、生物与医药、材料与化工6个博士、硕士招生专业，形成了特色鲜明、优势突出的学科体系，为研究生综合素质、创新能力和人文素养的提升奠定了坚实的基础。 中国科学院天津工业生物技术研究所秉承“开放 联合 国际化”的发展理念，以牵头建设国家合成生物技术创新中心为契机，联合国际(地区)优势机构共建联合中心，构建"
+        }
+      ],
+      "limitations": "当前分析仅基于仓库保存的正文摘录；未补充原文之外的样本规模、基线、误差、外部验证或商业使用证据。",
+      "failureReason": ""
+    },
+    {
+      "articleId": "14651439990db3a66b212684712250bc",
+      "contentHash": "91f851c5c27f906166f94a16b7df38aff39d275835fc79236344cb33d98fdbeb",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.273Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "160b7e1b45370383c94c6deaacc5143b",
+      "contentHash": "bd770b7aa405c825c00f21cb8e3b88005716e9b9423699f2cfeffb0f73f2f89e",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.274Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "16400897480d6d1f7ee8cde5d1dff144",
+      "contentHash": "b3176d9b71bfd995e45ec1013b1b9dfacb656b1616d1a197af84c60ebecb930f",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.275Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "17d0d4636dd84d5c9efc3f2d5f56ea9c",
+      "contentHash": "8a52b3302a84443b67cdb7a645c862570857a7054b0efcfb2f2cd9eac76d60a2",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.276Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "192794312f979cbd50ee7eab3653eaf2",
+      "contentHash": "c597f9098b7c0c0a6f51a3f3baa6bbe46a9766ebbfe2882e5281f0e9869dd7b3",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.277Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "19abd9bbeeec8c61e865a1b7441cae8e",
+      "contentHash": "987bae1950ca444f97dd221023cd68b3762b491de1b49d6d5e51779ab07cee18",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.280Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "1d97ce9901e405acee5e79d324e8430b",
+      "contentHash": "8b4ee3851cd7a69aa9d7dc7046fda43de4055d1183c7ec174ea130f94f1be816",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-21T02:44:54.282Z",
+      "category": "自动化实验室",
+      "summary": "原文标题为“Echoverse: Deep, evolving environments for computer-use agents”。当前正文直接提到AI、模型、科学计算、数据或自动化相关内容；可核验摘录为：“ens and users. Trained on all twelve, a 9B model nearly doubles its base score (36.5% to 67.1%), coming within fourteen points of GPT-5.4. The experiment taught us several lessons:”。摘要仅复述当前抓取正文，未把来源自述当作独立验证。",
+      "score": 3,
+      "importanceReason": "正文给出方法、研究进展或落地线索，值得继续核对原始论文、数据、实验指标或客户证据。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "数据",
+        "模型",
+        "实验自动化"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/",
+          "quote": "ens and users. Trained on all twelve, a 9B model nearly doubles its base score (36.5% to 67.1%), coming within fourteen points of GPT-5.4. The experiment taught us several lessons: High simu"
+        }
+      ],
+      "limitations": "当前分析仅基于仓库保存的正文摘录；未补充原文之外的样本规模、基线、误差、外部验证或商业使用证据。",
+      "failureReason": ""
+    },
+    {
+      "articleId": "1df0f6958407a752a3852b46117975e2",
+      "contentHash": "a4560a2609f070eb104bc3839bfabe2fe6571eed676fd3e473df615ff14f76e9",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-21T02:44:54.284Z",
+      "category": "自动化实验室",
+      "summary": "原文标题为“创材深造完成A+轮融资：以真实数据驱动自我进化RSI，近20款高性能金属材料量产落地 2026.09.16”。当前正文直接提到AI、模型、科学计算、数据或自动化相关内容；可核验摘录为：“数据——特别是包含实验条件、过程参数、失败结果和工艺反馈的高维数据——正成为稀缺资源。未来的赢家是能够连接数据、模型、实验系统、算力和产业需求的基础设施组织者。 政策端同样在加速催化。国务院《关于深入实施“人工智能+”行动的意见》（国发〔2025〕11号）明确提出，2027年AI4S应用普及率目标达70%，2030年超90%；北京市、上海市相继出台AI4S专”。摘要仅复述当前抓取正文，未把来源自述当作独立验证。",
+      "score": 3,
+      "importanceReason": "正文给出方法、研究进展或落地线索，值得继续核对原始论文、数据、实验指标或客户证据。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "数据",
+        "模型",
+        "实验自动化",
+        "材料发现",
+        "商业合作"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.deep-material.com/qiyexinwen/92",
+          "quote": "数据——特别是包含实验条件、过程参数、失败结果和工艺反馈的高维数据——正成为稀缺资源。未来的赢家是能够连接数据、模型、实验系统、算力和产业需求的基础设施组织者。 政策端同样在加速催化。国务院《关于深入实施“人工智能+”行动的意见》（国发〔2025〕11号）明确提出，2027年AI4S应用普及率目标达70%，2030年超90%；北京市、上海市相继出台AI4S专项实施方案，自主实验"
+        }
+      ],
+      "limitations": "当前分析仅基于仓库保存的正文摘录；未补充原文之外的样本规模、基线、误差、外部验证或商业使用证据。",
+      "failureReason": ""
+    },
+    {
+      "articleId": "1e1ef802d0de743617eb6f2df0f8a9e4",
+      "contentHash": "9493a10ec88e6ce36a25db002ec9d55770030542fd8c306ffe2df32fc9bebde7",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.285Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "1e95bc535cd1228d08106691fecfb136",
+      "contentHash": "938fa98124395cf74d692e75dea28f82b1e0a7a9e18fa957ca11741cf87726fd",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.286Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "2093eb1b3d8a919a1a933b1d030f14fa",
+      "contentHash": "a8cbca696ae2133eba0117c80e9b90891b825419ddf383f22149f30f2c27badf",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.287Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "217de59bc629ad9cc4353221f7aab851",
+      "contentHash": "409e140e4a1d223a3aeab363f98e2440b6f91e12a890855d17ffc810bf9511e2",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.288Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "21eb2f8a2f9f772d036f940b74eeb8cf",
+      "contentHash": "8bd34018192f02386b58ebcfe3dd046ca13c58529e4b90d9b3701f9eff322fe4",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.289Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "220a878b87c966ea66cb82bab7f57a72",
+      "contentHash": "7ba2fb53c824c3f59154958190b65e364e85c75432dd1cc7b78392ad379475d0",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.291Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "231ec98a717ae01040186ebff34c8073",
+      "contentHash": "dbd846f068322b2e797092dcca73339c6b1e38184c19bec0aeecf3026d8eb927",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.292Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "23be3066ea854be6e0a39a0f9f3de369",
+      "contentHash": "e87d95741de5266ea67f5fe7e559b8c2957ada80049675459393984826a54d6f",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.293Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "245780223a48b5e6519aedb943fc84f8",
+      "contentHash": "66535d00ac4517d06ada4ba274437a5f70cb39d26e35e4c092e708670a98ff5b",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.294Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "2461e5b2d479e38aef3a8944979a2e73",
+      "contentHash": "f8d7dfdad1c520c5751c7cc18170e3a484ce66203c5952537224780d7df1552a",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.295Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "25c26d80f22394ebe8ba43c8e6758a49",
+      "contentHash": "53eb947f7cfecd059e61bd0d45932cc5c5bd1e0a17e7a9d3ccbde02a41f716a2",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.299Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "2689c2eec30b1f8f87f778e2d064b3db",
+      "contentHash": "fecf151c9b5716abb564357ffc8a96dbb38a473d89eec379c309c66b8b608634",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.300Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "2951527db1490d93a3a378b5b440eb0c",
+      "contentHash": "7b46928d70ec0a70bcbac5fb4b01738104f6b337c8ac1b10a2b6471c36a5336a",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.301Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "2b85e6d8de8418a6f1f30e38f01cb303",
+      "contentHash": "348c07875df583a275df9700c50dd1b6fafe51923f2a16e7729c267599f599df",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-21T02:44:54.304Z",
+      "category": "自动化实验室",
+      "summary": "原文标题为“IMILIA: interpretable multiple instance learning for inflammation prediction in IBD from H&E whole slide images Thalyssa Baiocco-rodrigues et al. Pub: arXiv Dec 15, 2025”。当前正文直接提到AI、模型、科学计算、数据或自动化相关内容；可核验摘录为：“ediction of inflammation presence in IBD digitized slides stained with hematoxylin and eosin (H&E), followed by the automated computation of markers characterizing tissue regions d”。摘要仅复述当前抓取正文，未把来源自述当作独立验证。",
+      "score": 3,
+      "importanceReason": "正文给出方法、研究进展或落地线索，值得继续核对原始论文、数据、实验指标或客户证据。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "数据",
+        "模型",
+        "实验自动化"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.owkin.com/publications/imilia-interpretable-multiple-instance-learning-for-inflammation-prediction-in-ibd-from-h-e-whole-slide-images",
+          "quote": "ediction of inflammation presence in IBD digitized slides stained with hematoxylin and eosin (H&E), followed by the automated computation of markers characterizing tissue regions driving the"
+        }
+      ],
+      "limitations": "当前分析仅基于仓库保存的正文摘录；未补充原文之外的样本规模、基线、误差、外部验证或商业使用证据。",
+      "failureReason": ""
+    },
+    {
+      "articleId": "2bf0d14ebb282fa853ce919935089f57",
+      "contentHash": "393d3244e9751096f7d8c443f9d65e4e34dc1961bd3edc27f1f69f6f6b4ac9d4",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.305Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "313453726b948ec53ebee618049240e5",
+      "contentHash": "7c61d25bcf09d78811c5afe48cadd5b5c7072c08bd1cff4b6fe786e43ee652f3",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.306Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "31be8046dce1b1f2c46b8628d3a08f21",
+      "contentHash": "811781042c93cfa170c6cc418bf9513d901a3785b0cca437fe32c0b0ecd33ac9",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.307Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "374943fc5d4021679df9225e9d26fcf6",
+      "contentHash": "3721bae1fc56e34097ee46454cd1a196dbf61f681f38d6d1bfd314f00e28332c",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.309Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "381c3db90710c41074fdae47bbae61d4",
+      "contentHash": "b2077c5142231a9c572cacd85865f12be3003441985532093bd86eb1d3d1bcd9",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.310Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "3823dfde7625537dc4ac27467f9dd428",
+      "contentHash": "52be090698717682f8d6677ca4546bcc72aee6e7aa1aadca6a5057ba44b14761",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.312Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "384039f16088da2cfd3030ed0ae0fc90",
+      "contentHash": "6a07f720d6680e4a0d0514c6dadc0276e3dedb4401821dd63f91e95641fde995",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.315Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "3b9471dec5ad79c2ff91438e062b230f",
+      "contentHash": "6f60822aa28a34e323b44f60701655aa367eae88a6a7078087a6dc0fd2addf2f",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.316Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    }
+  ]
+}
+

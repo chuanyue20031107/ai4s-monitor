@@ -1,0 +1,527 @@
+{
+  "schemaVersion": 1,
+  "generator": "chatgpt-task",
+  "createdAt": "2026-09-21T02:47:13.199Z",
+  "analyses": [
+    {
+      "articleId": "ba6fc9cf11bad38ec7731847693b292d",
+      "contentHash": "ba2d3735876ace745b8332af6ad934ce0e8cecf35e9ccb0e13fda46fd347d79e",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.705Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "bc0a10d2b3f196dc592e1fe463716ac0",
+      "contentHash": "64f670e44d72f837c6dccc7dd1ded122bd73188b3738163d10594ad692355f7b",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.707Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "bd0bdb46d1ee7393e71a9970c5732756",
+      "contentHash": "ff6b4f37a6e7b911106434438e735476097f99d63716f4f91a8d1209a037b3e0",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.708Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "bddbcd926b703b71c0b35e87a77b1ece",
+      "contentHash": "aaccfce16bff4f08acfa408ec447d4837387a1bbee5fcfeed60e17dc5b3115f7",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.709Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "bde234650b71ab12e672d147b98a92a7",
+      "contentHash": "b7f8ebc2bd93fc480776d7bb1aa443a3d765e69ec83605d7d885d3e84f691095",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-21T02:44:54.711Z",
+      "category": "自动化实验室",
+      "summary": "原文标题为“The Chemist Who Wants To Reprogram Drug Discovery April 20, 2026 In Vivo”。当前正文直接提到AI、模型、科学计算、数据或自动化相关内容；可核验摘录为：“l scale. Reaction breadth. Most robotic platforms handle five to 11 reaction types. Chemify claims to handle over 3,000, including pyrophoric and air-sensitive chemistry, which he ”。摘要仅复述当前抓取正文，未把来源自述当作独立验证。",
+      "score": 3,
+      "importanceReason": "正文给出方法、研究进展或落地线索，值得继续核对原始论文、数据、实验指标或客户证据。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "实验自动化",
+        "药物设计"
+      ],
+      "evidence": [
+        {
+          "url": "https://insights.citeline.com/in-vivo/manufacturing/the-chemist-who-wants-to-reprogram-drug-discovery-X3XWVRMRM5GFRELO4J55RTUGDQ/",
+          "quote": "l scale. Reaction breadth. Most robotic platforms handle five to 11 reaction types. Chemify claims to handle over 3,000, including pyrophoric and air-sensitive chemistry, which he said most"
+        }
+      ],
+      "limitations": "当前分析仅基于仓库保存的正文摘录；未补充原文之外的样本规模、基线、误差、外部验证或商业使用证据。",
+      "failureReason": ""
+    },
+    {
+      "articleId": "bdf7ea07d5884172fea8f1ecf5cb55f7",
+      "contentHash": "d331c91010fc203b2a327b5d43df3d2efc6d3fc6773cbc4d6c90b68060af05b5",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.715Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "becd0f52858c86dc077452cd8db4472e",
+      "contentHash": "019c27e9ead75d0e7201e1e33fcbe916a578b7649f1fd02d026dcb2878d3ce36",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-21T02:44:54.717Z",
+      "category": "自动化实验室",
+      "summary": "原文标题为“「创材深造 Deep Material」亮相WAIC 2026，共创AI for Material新生态 「创材深造 Deep Material」亮相WAIC 2026 2026.07.21”。当前正文直接提到AI、模型、科学计算、数据或自动化相关内容；可核验摘录为：“AI科学家的强大实力。 另一亮点是 高通量自驱实验 室 M-Lab。它覆盖制样、加工、热处理、测试及数据回传全链条，可7×24小时连续产出结构化实验数据，形成“AI设计—机器人实验—数据回流—模型升级”的正向迭代机制。平台深度融合多模态AI智能体，具备自主提出配方假设、设计实验方案、调度设备并解读反馈数据的能力，将算力转化为可验证的研发成果，打通AI4S产业”。摘要仅复述当前抓取正文，未把来源自述当作独立验证。",
+      "score": 3,
+      "importanceReason": "正文给出方法、研究进展或落地线索，值得继续核对原始论文、数据、实验指标或客户证据。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "数据",
+        "模型",
+        "实验自动化",
+        "材料发现"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.deep-material.com/qiyexinwen/86",
+          "quote": "AI科学家的强大实力。 另一亮点是 高通量自驱实验 室 M-Lab。它覆盖制样、加工、热处理、测试及数据回传全链条，可7×24小时连续产出结构化实验数据，形成“AI设计—机器人实验—数据回流—模型升级”的正向迭代机制。平台深度融合多模态AI智能体，具备自主提出配方假设、设计实验方案、调度设备并解读反馈数据的能力，将算力转化为可验证的研发成果，打通AI4S产业落地的“最后一公里"
+        }
+      ],
+      "limitations": "当前分析仅基于仓库保存的正文摘录；未补充原文之外的样本规模、基线、误差、外部验证或商业使用证据。",
+      "failureReason": ""
+    },
+    {
+      "articleId": "bf57b6217d0d10842ddcade3cb2cf31f",
+      "contentHash": "eb1198444478918449bea6354a82631110b9f85afecdda53dc45c21db059f8b3",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.718Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "bf85519d4934e785db00d40aafa6c785",
+      "contentHash": "5e5ad360b5265aa60c44930cf949086462df89e5c1d88c1f5f16e65e684b3768",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.719Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "bf9afdc5ece8641fdc18795448f51def",
+      "contentHash": "b9c9f46e50d139315abf9aa57498b8ae04b619a7a0a8da6a48152d085d8ce71e",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.720Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "bff4f4761add239f7b1d727e6d09fdc9",
+      "contentHash": "53c3b3c3dc30fc1485536ffaac0f1b2f417a9b0288bbc26f6baeef35bcbdbdd9",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.721Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "c18d3e95b03ff7960307133c8a726385",
+      "contentHash": "fdaf937d0549ab3c31f1c1093f6a37fe1e87ac08c7b858b223375287411d9d06",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.722Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "c1ef7f5d8e12dab016de9a492122b807",
+      "contentHash": "c4c2470c4fa02d1aeef6599d2f997949c4f26e57373f06135302571b2dfd54a4",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.723Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "c209f271c9dd22a1d75f91f66c44b44e",
+      "contentHash": "0ec880721bf10032f77ad93bf1f0b7dfe6ca9b66cd73b57d5a77a30a98128fce",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.724Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "c22380108525590c1f6a73671d1a601f",
+      "contentHash": "09567e35aa95214e9a27020ce0ae626ad1c3f007e69ac5677bb5202f9516eeba",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-21T02:44:54.726Z",
+      "category": "模型",
+      "summary": "原文标题为“DeepSeek V3.1”。当前正文直接提到AI、模型、科学计算、数据或自动化相关内容；可核验摘录为：“端环境下的复杂任务（Terminal-Bench）测试中，DeepSeek-V3.1 相比之前的 DeepSeek 系列模型有明显提高。 搜索智能体 DeepSeek-V3.1 在多项搜索评测指标上取得了较大提升。在需要多步推理的复杂搜索测试（browsecomp）与多学科专家级难题测试（HLE）上，DeepSeek-V3.1 性能已大幅领先 R1-0528”。摘要仅复述当前抓取正文，未把来源自述当作独立验证。",
+      "score": 3,
+      "importanceReason": "正文给出方法、研究进展或落地线索，值得继续核对原始论文、数据、实验指标或客户证据。",
+      "contentType": "media_report",
+      "moatTags": [
+        "模型"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.deepseek.com/news/deepseek-v3-1/",
+          "quote": "端环境下的复杂任务（Terminal-Bench）测试中，DeepSeek-V3.1 相比之前的 DeepSeek 系列模型有明显提高。 搜索智能体 DeepSeek-V3.1 在多项搜索评测指标上取得了较大提升。在需要多步推理的复杂搜索测试（browsecomp）与多学科专家级难题测试（HLE）上，DeepSeek-V3.1 性能已大幅领先 R1-0528。 思考效率提升 我"
+        }
+      ],
+      "limitations": "当前分析仅基于仓库保存的正文摘录；未补充原文之外的样本规模、基线、误差、外部验证或商业使用证据。",
+      "failureReason": ""
+    },
+    {
+      "articleId": "c3579c8105a541126f1278aad230dddf",
+      "contentHash": "051fd7d4b1f265232a5e68831d38eb5a4502ec67ae6e3f2e7af23269534a7567",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-21T02:44:54.727Z",
+      "category": "自动化实验室",
+      "summary": "原文标题为“科研人员构建即插即用视觉跟踪框架”。当前正文直接提到AI、模型、科学计算、数据或自动化相关内容；可核验摘录为：“变、遮挡及外观剧烈变化等因素常导致传统跟踪方法鲁棒性不足，通常需引入历史帧的时空信息以提升稳定性。 近日，中国科学院沈阳自动化研究所团队提出一种即插即用视觉跟踪框架PNPTrack。该框架在无需全参数重训练且无需额外引入时空处理模块的前提下，即可有效利用时空信息提升跟踪的稳定性与精度。 科研团队将骨干网络的编码器划分为浅层与深层：浅层编码器在训练中保持冻结、”。摘要仅复述当前抓取正文，未把来源自述当作独立验证。",
+      "score": 2,
+      "importanceReason": "正文涉及AI4S方法或应用，但当前正文的验证细节有限。",
+      "contentType": "media_report",
+      "moatTags": [
+        "数据",
+        "模型",
+        "实验自动化"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.cas.cn/syky/202609/t20260917_5120474.shtml",
+          "quote": "变、遮挡及外观剧烈变化等因素常导致传统跟踪方法鲁棒性不足，通常需引入历史帧的时空信息以提升稳定性。 近日，中国科学院沈阳自动化研究所团队提出一种即插即用视觉跟踪框架PNPTrack。该框架在无需全参数重训练且无需额外引入时空处理模块的前提下，即可有效利用时空信息提升跟踪的稳定性与精度。 科研团队将骨干网络的编码器划分为浅层与深层：浅层编码器在训练中保持冻结、不参与时空交互，降低"
+        }
+      ],
+      "limitations": "当前分析仅基于仓库保存的正文摘录；未补充原文之外的样本规模、基线、误差、外部验证或商业使用证据。",
+      "failureReason": ""
+    },
+    {
+      "articleId": "c3826d4412710d66302490e0d3d4b425",
+      "contentHash": "f7b3dacb829154fe07ea9d047525d7a36144de1559a5d2b098aca3127c144bc7",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.731Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "c3ee9896d71b227bd754ddddd38afc16",
+      "contentHash": "d8a82c168ac15dd311dd092e0c1cbcddb994ec498e1ba4591b21ca06978ad386",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.733Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "c475073014102d72351e8aa7ba08e4f1",
+      "contentHash": "be5f59c5b09241cf8875e867f270a1284faa988643594a484903438699a378ba",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.735Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "c51be1212fbc6a5ccf8ab8e81acd8a6c",
+      "contentHash": "e5b0375061a8b7585a3a294ab2faed7e3e0747ecc385787b4c6d08282fb22f1d",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-21T02:44:54.736Z",
+      "category": "自动化实验室",
+      "summary": "原文标题为“--> --> --> --> --> --> -->”。当前正文直接提到AI、模型、科学计算、数据或自动化相关内容；可核验摘录为：“也给了我们非常积极的反馈。两个多月里，我只提了一次备件需求，周五提，下个周一所需要的备件就抵达了现场，完全没有耽误客户的实验，速度快得宛如在日本国内发出，因此也赢得了客户对我们全球服务支持体系的认可。 RIKEN主要用我们的设备做WGS、WES样本检测，从下机的数据来看，结果非常好。他们自己也很欣喜，因为我们的设备， 一方面大幅降低了成本，另一方面，产出的结”。摘要仅复述当前抓取正文，未把来源自述当作独立验证。",
+      "score": 3,
+      "importanceReason": "正文给出方法、研究进展或落地线索，值得继续核对原始论文、数据、实验指标或客户证据。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "数据",
+        "模型",
+        "实验自动化",
+        "商业合作"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.mgi-tech.com/mgi-news/1262.html",
+          "quote": "也给了我们非常积极的反馈。两个多月里，我只提了一次备件需求，周五提，下个周一所需要的备件就抵达了现场，完全没有耽误客户的实验，速度快得宛如在日本国内发出，因此也赢得了客户对我们全球服务支持体系的认可。 RIKEN主要用我们的设备做WGS、WES样本检测，从下机的数据来看，结果非常好。他们自己也很欣喜，因为我们的设备， 一方面大幅降低了成本，另一方面，产出的结果完全可以跟昂贵的美"
+        }
+      ],
+      "limitations": "当前分析仅基于仓库保存的正文摘录；未补充原文之外的样本规模、基线、误差、外部验证或商业使用证据。",
+      "failureReason": ""
+    },
+    {
+      "articleId": "c58943bf8aba74455c1cd396f50ee073",
+      "contentHash": "25580d4c3c2f3a375d2b0a9a060a35c47966ced4e7dcaa13c23b99513f75af0b",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.738Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "c63b8d4c6a0e28de3b99b0e8fa91e14a",
+      "contentHash": "94be56b31df4b8f6973f3a5501f26abd1509e5f4c3010b73bf8c23c5ff3e9e0a",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-21T02:44:54.739Z",
+      "category": "模型",
+      "summary": "原文标题为“DeepSeek V3”。当前正文直接提到AI、模型、科学计算、数据或自动化相关内容；可核验摘录为：“2 上，DeepSeek-V3 平均表现超越其他模型。 代码： DeepSeek-V3 在算法类代码场景（Codeforces），远远领先于市面上已有的全部非 o1 类模型；并在工程类代码场景（SWE-Bench Verified）逼近 Claude-3.5-Sonnet-1022。 数学： 在美国数学竞赛（AIME 2024, MATH）和全国高中数学联赛”。摘要仅复述当前抓取正文，未把来源自述当作独立验证。",
+      "score": 3,
+      "importanceReason": "正文给出方法、研究进展或落地线索，值得继续核对原始论文、数据、实验指标或客户证据。",
+      "contentType": "media_report",
+      "moatTags": [
+        "模型"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.deepseek.com/news/deepseek-v3/",
+          "quote": "2 上，DeepSeek-V3 平均表现超越其他模型。 代码： DeepSeek-V3 在算法类代码场景（Codeforces），远远领先于市面上已有的全部非 o1 类模型；并在工程类代码场景（SWE-Bench Verified）逼近 Claude-3.5-Sonnet-1022。 数学： 在美国数学竞赛（AIME 2024, MATH）和全国高中数学联赛（CNMO 2024"
+        }
+      ],
+      "limitations": "当前分析仅基于仓库保存的正文摘录；未补充原文之外的样本规模、基线、误差、外部验证或商业使用证据。",
+      "failureReason": ""
+    },
+    {
+      "articleId": "c6840db8fd820f7b673f49c76413d139",
+      "contentHash": "a146829de530d87190db8f9bc84df474079150cee6850829b34e88f70c8f6acb",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.740Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "c6c5d7c47e8a20f9c677e2a7c0f34928",
+      "contentHash": "26cf906b00f3333f2a389672ef9b29846369a0be2812f9559380338ec968177b",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.741Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "c7452e96083799c13e14fb66798ab27f",
+      "contentHash": "6cd37ec794d47548fbf17a8b924d4d8204fed639d78e7b87c6ab78672dcf9a06",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.742Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "c76e75ed5297c6dff9553df23b9e7b8f",
+      "contentHash": "f77b4d54bb04e59b43df14d829ace7598f5ea90b4894971e28f8e717f2a0baa0",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-21T02:44:54.744Z",
+      "category": "自动化实验室",
+      "summary": "原文标题为“--> --> --> --> --> --> -->”。当前正文直接提到AI、模型、科学计算、数据或自动化相关内容；可核验摘录为：“胺到合成类固醇，从血液回输到EPO，作弊手段不断翻新，检测技术也在追赶中迭代。 但所有传统方法都困于同一逻辑：在身体里找药物——药物会代谢、痕迹会消失，让“找药”越来越像一场滞后的追捕。 如果传统检测像是在一个已经清空现场的房间里寻找凶器，那么转录组学则是在读取房间墙上留下的指纹。 每一次干预——兴奋剂、血液回输、极限训练、高原暴露——都会在基因表达层面留下”。摘要仅复述当前抓取正文，未把来源自述当作独立验证。",
+      "score": 3,
+      "importanceReason": "正文给出方法、研究进展或落地线索，值得继续核对原始论文、数据、实验指标或客户证据。",
+      "contentType": "paper_result",
+      "moatTags": [
+        "数据",
+        "实验自动化",
+        "药物设计",
+        "商业合作"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.mgi-tech.com/mgi-news/1357.html",
+          "quote": "胺到合成类固醇，从血液回输到EPO，作弊手段不断翻新，检测技术也在追赶中迭代。 但所有传统方法都困于同一逻辑：在身体里找药物——药物会代谢、痕迹会消失，让“找药”越来越像一场滞后的追捕。 如果传统检测像是在一个已经清空现场的房间里寻找凶器，那么转录组学则是在读取房间墙上留下的指纹。 每一次干预——兴奋剂、血液回输、极限训练、高原暴露——都会在基因表达层面留下独特的“分子指纹”。"
+        }
+      ],
+      "limitations": "当前分析仅基于仓库保存的正文摘录；未补充原文之外的样本规模、基线、误差、外部验证或商业使用证据。",
+      "failureReason": ""
+    },
+    {
+      "articleId": "c82b9de9357f284142407a4804da2741",
+      "contentHash": "3c3f2ad763aaecefc8688646f8e2dbd0eb66d55ba3e9b95b7fcf7797302b01b8",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.746Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "c84785b7885bca32a7cbe6b51a932a51",
+      "contentHash": "620ca1282945a6be0f79ea97282b3cd6c882cf8a130fbe8c83301b9ec2f86269",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.749Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "c8a8ff87328440917f573c9fd946fb21",
+      "contentHash": "ce9f6e8358349153a109f040d8929d7e3694aecf99a757a5c89f420ded129020",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.750Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "ca717b1197bce56daa3bf0150333d83c",
+      "contentHash": "ffade9eb993c5754b2cc67f9efbde985d1f4afc448540ca7817f9335f2d6bde5",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.751Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "cac758740f5536acc45efcdc6e7d3549",
+      "contentHash": "af177ca4e81012ffd9bf30396680f021e0ffe88129ddde01eb3b3d6d4dcf86d2",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.752Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "cacfdb26914fd3fad5c75105786efdf6",
+      "contentHash": "c48aab487ae0da093de543a65c9521d19607247c68ce824b1be9756c0bced13f",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.754Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "cb4a2e3fa5101e53640fad3cd9051cc0",
+      "contentHash": "bac4a58a79a065559ccf04dcc8e2b46b84916ed0de116d92b4f70a1a4a8c2b18",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.755Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "cd6936606cfd3b9d1381a6b59f78ee89",
+      "contentHash": "bd346524f91136b5282bb5cf0aca2756c1fb7f6a017fd8aebbdd710ae7ba9270",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.756Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "cd9536fba98867a640931f96dfa2c0eb",
+      "contentHash": "23e15413b7bd25b22db096af87d8975511c7d47d46552a936e3c1e1aed5df014",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-21T02:44:54.758Z",
+      "category": "数据",
+      "summary": "原文标题为“Xaira Therapeutics”。当前正文直接提到AI、模型、科学计算、数据或自动化相关内容；可核验摘录为：“. As a vertically integrated company that combines frontier AI model development with therapeutic programs, we have experienced firsthand both the opportunities that de novo antibo”。摘要仅复述当前抓取正文，未把来源自述当作独立验证。",
+      "score": 3,
+      "importanceReason": "正文给出方法、研究进展或落地线索，值得继续核对原始论文、数据、实验指标或客户证据。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "数据",
+        "模型",
+        "药物设计"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.xaira.com/news/progressable-binders-the-binders-that-matter",
+          "quote": ". As a vertically integrated company that combines frontier AI model development with therapeutic programs, we have experienced firsthand both the opportunities that de novo antibody design"
+        }
+      ],
+      "limitations": "当前分析仅基于仓库保存的正文摘录；未补充原文之外的样本规模、基线、误差、外部验证或商业使用证据。",
+      "failureReason": ""
+    },
+    {
+      "articleId": "cdf356a45609b34c71babf8816f77f95",
+      "contentHash": "8e908f65461bc107858b572e21705e815198fce2c307436542f608200d3d3c5b",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.759Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "cdffd8b5308e7b6bc68671a922389028",
+      "contentHash": "35bd333a3bbdce89b490f8d859fe500899fff006621bf160ea41b7d549e190bf",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.761Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "ce7d8bd21b6d389209bd639bbf486edf",
+      "contentHash": "acfa4c210a3bbede305ee65eb8cdbdc203cf1fd60eb464d3c3a5a832ee09614d",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.765Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "cf2414467694ef7085ef1e493a49b2dc",
+      "contentHash": "1a59b9769cbb478a03b33ac23aa3febe81ead92766655f2b67ffedc0ac4b62fd",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.766Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "cf25b4f4be8cb56a128be53179f0a77f",
+      "contentHash": "7e04de97276bfaf5413bea9641d54f0b4b1964643524dcf811193748613d4307",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.768Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "cf32e5a8040179eb9f16d7507efad728",
+      "contentHash": "6f57bfb4ed151cc42ac6fb08d62f01cbfc0283436994a9855eb0827213098cf7",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-21T02:44:54.770Z",
+      "category": "数据",
+      "summary": "原文标题为“InternVL 2024.05.09 9.4k”。当前正文直接提到AI、模型、科学计算、数据或自动化相关内容；可核验摘录为：“/30 : 🔥 We open-source the training code of InternVL3_5-GPT-OSS-20B-A4B and CascadeRL, which consists of a offline RL stage and a online RL stage . The training data for these two”。摘要仅复述当前抓取正文，未把来源自述当作独立验证。",
+      "score": 3,
+      "importanceReason": "正文给出方法、研究进展或落地线索，值得继续核对原始论文、数据、实验指标或客户证据。",
+      "contentType": "paper_result",
+      "moatTags": [
+        "数据",
+        "模型"
+      ],
+      "evidence": [
+        {
+          "url": "https://github.com/OpenGVLab/InternVL",
+          "quote": "/30 : 🔥 We open-source the training code of InternVL3_5-GPT-OSS-20B-A4B and CascadeRL, which consists of a offline RL stage and a online RL stage . The training data for these two stages ("
+        }
+      ],
+      "limitations": "当前分析仅基于仓库保存的正文摘录；未补充原文之外的样本规模、基线、误差、外部验证或商业使用证据。",
+      "failureReason": ""
+    },
+    {
+      "articleId": "cf83b45d33485f1ed0e4480a3526a104",
+      "contentHash": "8bd92d4453b3d34837bfff161307ff293b0eaaa72b5f5bb161a0cb77d6ee1ac6",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.772Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "cf9957c0e2713bc95e2cc7627b431afd",
+      "contentHash": "66fa5ad43da2222f0a84a8b35b0716134c36c6f69757c14b9ad1553e1e130d44",
+      "analysisStatus": "done",
+      "analyzedAt": "2026-09-21T02:44:54.774Z",
+      "category": "自动化实验室",
+      "summary": "原文标题为“AGI4S珠穆朗玛计划 “AGI for Science珠穆朗玛计划”（AGI4S珠穆朗玛计划），旨在构建“科学智能创新中枢”，打造领先的 AGI4S 基座能力，汇聚科学智能创新全要素，助力全球科学家攀登科学高峰。”。当前正文直接提到AI、模型、科学计算、数据或自动化相关内容；可核验摘录为：“k超智融合算力平台连接通算、超算、智算集群提供算力支撑；以Sciverse科学智能数据库提供大规模、高准确度、强时效性的AI Ready数据基座支持；以自主实验平台缩短从“推演”到“验证”的科研周期； 通过书生科学基座模型提供领先的通专融合模型能力，以书生科学发现平台支撑全流程一站式科学发现，助力重构科研生产力。 科学场景产学研共建，开辟攀登最佳路径 ：上海”。摘要仅复述当前抓取正文，未把来源自述当作独立验证。",
+      "score": 3,
+      "importanceReason": "正文给出方法、研究进展或落地线索，值得继续核对原始论文、数据、实验指标或客户证据。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "数据",
+        "模型",
+        "实验自动化",
+        "材料发现",
+        "商业合作"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.shlab.org.cn/news/5444242",
+          "quote": "k超智融合算力平台连接通算、超算、智算集群提供算力支撑；以Sciverse科学智能数据库提供大规模、高准确度、强时效性的AI Ready数据基座支持；以自主实验平台缩短从“推演”到“验证”的科研周期； 通过书生科学基座模型提供领先的通专融合模型能力，以书生科学发现平台支撑全流程一站式科学发现，助力重构科研生产力。 科学场景产学研共建，开辟攀登最佳路径 ：上海AI实验室与人工智能"
+        }
+      ],
+      "limitations": "当前分析仅基于仓库保存的正文摘录；未补充原文之外的样本规模、基线、误差、外部验证或商业使用证据。",
+      "failureReason": ""
+    },
+    {
+      "articleId": "d0903cd266c3f6f5b569de5017097098",
+      "contentHash": "7b4163c8f648fdbbe45a7ef07a7b34a1cf23ad1a7d7cca8fa05d2b678f5be109",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.775Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "d1277a1b716a4ac8a9fab84144153673",
+      "contentHash": "b0255530f8d56b71753293639392c41abc2e122b1228b5e8617b9a9d17b86e2a",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.777Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "d22acfa5d0cc1d093c4a65f65bd5a5e3",
+      "contentHash": "4cc8c1bf009a00087f63be430507fb1bb20ea0c50c2a0f0e5c4786cdb7861402",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.782Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "d270f2d64a6941c5ba05fcee70be8e2d",
+      "contentHash": "3e40973f5dbde00fff8507dfce4c6cb9726f173b17387e42719691727c2c5993",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.783Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "d360ac5173db404ca2e56e5501f949c7",
+      "contentHash": "f289837f2ad068f39b9818fa99770f64fb985e2e4e5cb36b8e37ad262ee97ee8",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.785Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "d386ee3757228e0831a41cfc841e54b5",
+      "contentHash": "fff0061dd42dc3065ff40d3bee31aa22ddc3d1aa4cd07c6190a5f46d6449522d",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.786Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "d449498985ea6cd5ffeb322195250af6",
+      "contentHash": "b9e054b3921b8cdec225037cee78fe514025ff31d99368e40d3e1b93fc626ffa",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.787Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    }
+  ]
+}
+

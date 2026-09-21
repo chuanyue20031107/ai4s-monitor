@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "generator": "chatgpt-task",
+  "createdAt": "2026-09-21T02:47:13.199Z",
+  "analyses": [
+    {
+      "articleId": "fc67de606413ad79ad1818934e492bb6",
+      "contentHash": "0db25f217daec3714fcfa509678b02849883d82f9ff922ade8a9a679a148ea55",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.881Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "fc91e4892e43886e41e34a30c7ffdc7a",
+      "contentHash": "3aadb46ad531046e1c032fe529ff9fb79ae3cdff80703e0a36e49b83e716bffd",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.883Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "fccd9bd5223ff7ec80559f27d711768b",
+      "contentHash": "859ca963659d2586ec0a47a283d6e11cc6c6de2a7fb2f381a25828f00ff48361",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.885Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "fce114fa85693f2cd863751ad0631721",
+      "contentHash": "41c2642c642af3463f38c2a0df8c52c63c30ca6f847442446c9b8c4cd4a52bdf",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.887Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    },
+    {
+      "articleId": "fd1523ceaf133118c9572e464eca1ad3",
+      "contentHash": "c2fd7c3095bf1f12df77f99f352256a6391b53dea1ee23a15f0ff5cb5e03df51",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-21T02:44:54.888Z",
+      "failureReason": "逐条核对当前正文后，内容为导航、行政/活动信息、一般机构介绍或非AI4S研究，未提供可核验的AI方法、数据、模型或自动化实验进展。"
+    }
+  ]
+}
+
