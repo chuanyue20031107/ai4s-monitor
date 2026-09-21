@@ -7,10 +7,13 @@
   "sourceType": "材料高通量实验企业",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:05:24.864Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "编者按：在催生新质生产力的方式中，产业深度转型升级是重要路径之一。“传统产业改造升级，也能发展新质生产力。”近年来，我国传统产业探索发展新模式、创新转型升级新路径，取得显著成效。近日，人民网推出“‘老兵’站上新赛道”系列报道，聚焦万亿级新材料产业。以下为文章节选。",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "dfb86ef20cec19d21bc1577f36d7e2d8"
+  "contentHash": "c9397efb8869b3d4547279b87d871ae81263761d51d51546769e3b0c208ae923",
+  "legacyId": "dfb86ef20cec19d21bc1577f36d7e2d8",
+  "lastFetchAt": "2026-09-21T22:03:10.454Z",
+  "contentTruncated": false,
+  "contentError": ""
 }
