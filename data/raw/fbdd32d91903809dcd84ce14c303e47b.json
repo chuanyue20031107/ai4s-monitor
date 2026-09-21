@@ -7,10 +7,13 @@
   "sourceType": "国家计量标准机构",
   "publishedAt": null,
   "crawledAt": "2026-09-16T05:12:09.634Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "During the period of 2013-2014, PSCR researchers performed investigations of Band-14 LTE in-building coverage at selected sites on the campus of the University of Colorado. PSCR performed extensive sets of measurements, obtained valuable information and insight about in-building coverage issues, and...",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
   "discardReason": "",
-  "legacyId": "fbdd32d91903809dcd84ce14c303e47b"
+  "contentHash": "bf556a2d6435e6b4459a55afff0cb890b8980b69584e2e9347c98e05e4964560",
+  "legacyId": "fbdd32d91903809dcd84ce14c303e47b",
+  "lastFetchAt": "2026-09-21T12:58:12.233Z",
+  "contentTruncated": false,
+  "contentError": ""
 }

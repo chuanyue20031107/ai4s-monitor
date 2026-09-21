@@ -5,12 +5,15 @@
   "sourceKey": "s01-08",
   "sourceName": "National Institute of Standards and Technology",
   "sourceType": "国家计量标准机构",
-  "publishedAt": null,
+  "publishedAt": "2009-07-22T18:56:00.000Z",
   "crawledAt": "2026-09-16T05:12:09.634Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "needs_fetch",
-  "extractionMethod": "legacy-title-only",
+  "content": "An official website of the United States government Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock ( Lock A locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites. Welcome to the NIST Research Library and Museum (Library). The Library is responsible for creating, maintaining, and disseminating a NIST knowledge base which supports the research and administrative needs required to fulfill the scientific, engineering, and technical mission of NIST. NIST Staff can find resources on our internal site (restricted access) Contact the Library: library [at] nist.gov (library[at]nist[dot]gov) ● (301) 975-3052 Is the NIST Research Library open to the public? Can I borrow or obtain copies of materials from the NIST Research Library? Do I need reprint permission to use material from a NIST publication? How can I identify and find NIST Publications?",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
-  "legacyId": "f7e8a6a95edd650145cac95879e2282f"
+  "contentHash": "da1c87e4666aed77a08773c461863b0882990fad115f0aba87dd3ebb4dd96a99",
+  "legacyId": "f7e8a6a95edd650145cac95879e2282f",
+  "lastFetchAt": "2026-09-21T12:58:12.170Z",
+  "contentTruncated": false,
+  "contentError": ""
 }

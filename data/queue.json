@@ -1,10 +1,10 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-21T05:09:40.668Z",
-  "pendingCount": 14,
-  "readyCount": 14,
+  "updatedAt": "2026-09-21T13:00:42.024Z",
+  "pendingCount": 18,
+  "readyCount": 18,
   "awaitingContentCount": 0,
-  "excludedContentCount": 131,
+  "excludedContentCount": 124,
   "items": [
     {
       "id": "80ca88bf49f96c8a954974847433ddfa",
@@ -158,6 +158,50 @@
       "contentStatus": "ready",
       "contentHash": "ad6844423d9b273ebd652d8ace9cb92dcbaac2a4321aa53a24eb5ec45ebd3a34",
       "rawPath": "data/raw/f664f298c337f6e82d5bab4b2949cc5b.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "98734ae6a280b5b4ab7fcccccdbf844b",
+      "title": "Lee Cronin: Chemistry is stuck in the dark ages – ‘chemputation’ can bring it into the digital world January 8, 2026 The Conversation",
+      "url": "https://theconversation.com/chemistry-is-stuck-in-the-dark-ages-chemputation-can-bring-it-into-the-digital-world-272610",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T06:05:19.334Z",
+      "contentStatus": "ready",
+      "contentHash": "927d500ed79fffe2f3a63bacc703fe259f8979bac259a438423d2156efb7944c",
+      "rawPath": "data/raw/98734ae6a280b5b4ab7fcccccdbf844b.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "e3e07579ad0ea55556c04eb5826b4f29",
+      "title": "Publications",
+      "url": "https://www.schrodinger.com/materials-science/resources/?type=publication",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T06:05:18.824Z",
+      "contentStatus": "ready",
+      "contentHash": "32aacfdfc90a81dfb44f1a6c789a06b491c6b4cba9a6bd51d49dd41a92f4e59c",
+      "rawPath": "data/raw/e3e07579ad0ea55556c04eb5826b4f29.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "fbdd32d91903809dcd84ce14c303e47b",
+      "title": "Research Projects",
+      "url": "https://www.nist.gov/laboratories/projects-programs",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T05:12:09.634Z",
+      "contentStatus": "ready",
+      "contentHash": "bf556a2d6435e6b4459a55afff0cb890b8980b69584e2e9347c98e05e4964560",
+      "rawPath": "data/raw/fbdd32d91903809dcd84ce14c303e47b.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "f7e8a6a95edd650145cac95879e2282f",
+      "title": "NIST Research Library",
+      "url": "https://www.nist.gov/nist-research-library",
+      "publishedAt": "2009-07-22T18:56:00.000Z",
+      "crawledAt": "2026-09-16T05:12:09.634Z",
+      "contentStatus": "ready",
+      "contentHash": "da1c87e4666aed77a08773c461863b0882990fad115f0aba87dd3ebb4dd96a99",
+      "rawPath": "data/raw/f7e8a6a95edd650145cac95879e2282f.json",
       "lastAnalysisStatus": "pending"
     }
   ]

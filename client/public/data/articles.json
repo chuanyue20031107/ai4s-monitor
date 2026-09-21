@@ -4861,6 +4861,24 @@
       "batchFile": "data/inbox/2026-09-21T02-47-13Z-full-04.json"
     },
     {
+      "id": "98734ae6a280b5b4ab7fcccccdbf844b",
+      "title": "Lee Cronin: Chemistry is stuck in the dark ages – ‘chemputation’ can bring it into the digital world January 8, 2026 The Conversation",
+      "sourceKey": "s02-16",
+      "sourceName": "Chemify",
+      "sourceType": "自动化化学公司",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T06:05:19.334Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://theconversation.com/chemistry-is-stuck-in-the-dark-ages-chemputation-can-bring-it-into-the-digital-world-272610",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "a1f8cdc7757774f6440b503eadd59f71",
       "title": "Chemify’s drug discovery platform validated by papers April 10, 2026 Drug Discovery World",
       "sourceKey": "s02-16",
@@ -5027,6 +5045,24 @@
       "batchFile": "data/inbox/2026-09-18T02-10-00Z-full-010-7c6e4a91.json"
     },
     {
+      "id": "e3e07579ad0ea55556c04eb5826b4f29",
+      "title": "Publications",
+      "sourceKey": "s02-04",
+      "sourceName": "Schrödinger",
+      "sourceType": "计算化学软件与药物公司",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T06:05:18.824Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.schrodinger.com/materials-science/resources/?type=publication",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "0e529012368f3ad5f8de82d902e5a8a8",
       "title": "Learn More",
       "sourceKey": "s02-06",
@@ -5156,6 +5192,42 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     },
     {
+      "id": "f7e8a6a95edd650145cac95879e2282f",
+      "title": "NIST Research Library",
+      "sourceKey": "s01-08",
+      "sourceName": "National Institute of Standards and Technology",
+      "sourceType": "国家计量标准机构",
+      "category": "",
+      "publishedAt": "2009-07-22T18:56:00.000Z",
+      "crawledAt": "2026-09-16T05:12:09.634Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.nist.gov/nist-research-library",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "fbdd32d91903809dcd84ce14c303e47b",
+      "title": "Research Projects",
+      "sourceKey": "s01-08",
+      "sourceName": "National Institute of Standards and Technology",
+      "sourceType": "国家计量标准机构",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T05:12:09.634Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.nist.gov/laboratories/projects-programs",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "f406e5157407d88d6d1b927962898bb0",
       "title": "Vision AI Transform data into valuable insights using vision AI",
       "sourceKey": "s01-03",
@@ -5186,5 +5258,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-09-21T05:09:40.668Z"
+  "updatedAt": "2026-09-21T13:00:42.024Z"
 }
