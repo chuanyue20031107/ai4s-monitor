@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "id": "26151e760d36fcd750001d614c14f3e0",
+      "title": "大气活性氯来源研究取得进展",
+      "sourceKey": "s08-06",
+      "sourceName": "中国科学院",
+      "sourceType": "国家科研机构",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-09-22T05:10:11.409Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.cas.cn/syky/202608/t20260831_5119333.shtml",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "5dc9ec97bf0438baf45de7e27652cf00",
+      "title": "研究揭示月壤水冰导热率双控新机制",
+      "sourceKey": "s08-06",
+      "sourceName": "中国科学院",
+      "sourceType": "国家科研机构",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-09-22T05:10:11.021Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.cas.cn/syky/202609/t20260918_5120585.shtml",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "4ddb5c67d6bfc3d8779dcbfb2739cc1b",
+      "title": "研究揭示氧化锰表面羟基和氧空位增强一氧化碳吸附协同机制",
+      "sourceKey": "s08-06",
+      "sourceName": "中国科学院",
+      "sourceType": "国家科研机构",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-09-22T05:10:10.421Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.cas.cn/syky/202609/t20260917_5120484.shtml",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "390b0c6bfa73655d4418fdfc6a0a7822",
       "title": "最懂科学的开源基础大模型『书生-S2』发布 在2026浦江创新论坛上，上海人工智能实验室发布书生多模态大模型 S2。科学能力比肩顶尖闭源，通用性能居开源第一梯队",
       "sourceKey": "s05-16",
@@ -3415,6 +3469,42 @@
       "batchFile": "data/inbox/2026-09-18T01-27-41-641Z-full-007-df6006c4.json"
     },
     {
+      "id": "db0d5bcc2119d42d4512f2ded4aa944c",
+      "title": "• 在第四十二个教师节到来之际 习近平向全国广大教师和教育工作者致以节日祝贺和诚挚问候 2026-09-09",
+      "sourceKey": "s10-05",
+      "sourceName": "中国人工智能大会 CCAI",
+      "sourceType": "全国学术大会",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T07:35:30.573Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.caai.cn/site/content/11334.html",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "efe38d15e6dc9bdbb5cfc9dc862aa21d",
+      "title": "• 习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话 2026-09-12",
+      "sourceKey": "s10-05",
+      "sourceName": "中国人工智能大会 CCAI",
+      "sourceType": "全国学术大会",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T07:35:30.573Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.caai.cn/site/content/11335.html",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "262c472237652124c327707648ac024b",
       "title": "研究提出山地森林单木识别与多维属性协同提取方法",
       "sourceKey": "s08-06",
@@ -5492,5 +5582,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-09-21T22:11:40.022Z"
+  "updatedAt": "2026-09-22T05:13:43.938Z"
 }

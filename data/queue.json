@@ -1,11 +1,44 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-21T22:11:40.022Z",
-  "pendingCount": 31,
-  "readyCount": 31,
+  "updatedAt": "2026-09-22T05:13:43.938Z",
+  "pendingCount": 36,
+  "readyCount": 36,
   "awaitingContentCount": 0,
-  "excludedContentCount": 120,
+  "excludedContentCount": 118,
   "items": [
+    {
+      "id": "26151e760d36fcd750001d614c14f3e0",
+      "title": "大气活性氯来源研究取得进展",
+      "url": "https://www.cas.cn/syky/202608/t20260831_5119333.shtml",
+      "publishedAt": null,
+      "crawledAt": "2026-09-22T05:10:11.409Z",
+      "contentStatus": "ready",
+      "contentHash": "af927d493b82154736ed9c4204332ba3a87983ed3aab5c67e004590c380bf1a7",
+      "rawPath": "data/raw/26151e760d36fcd750001d614c14f3e0.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "5dc9ec97bf0438baf45de7e27652cf00",
+      "title": "研究揭示月壤水冰导热率双控新机制",
+      "url": "https://www.cas.cn/syky/202609/t20260918_5120585.shtml",
+      "publishedAt": null,
+      "crawledAt": "2026-09-22T05:10:11.021Z",
+      "contentStatus": "ready",
+      "contentHash": "f87c3d15f6a8c39dd6c61a6d047571746405dc9dffa972cdfed5ec7611eeecb7",
+      "rawPath": "data/raw/5dc9ec97bf0438baf45de7e27652cf00.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "4ddb5c67d6bfc3d8779dcbfb2739cc1b",
+      "title": "研究揭示氧化锰表面羟基和氧空位增强一氧化碳吸附协同机制",
+      "url": "https://www.cas.cn/syky/202609/t20260917_5120484.shtml",
+      "publishedAt": null,
+      "crawledAt": "2026-09-22T05:10:10.421Z",
+      "contentStatus": "ready",
+      "contentHash": "598999582677eed1e597020cc95ee19d653819e1921f328593d0b4e3f10f631c",
+      "rawPath": "data/raw/4ddb5c67d6bfc3d8779dcbfb2739cc1b.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "390b0c6bfa73655d4418fdfc6a0a7822",
       "title": "最懂科学的开源基础大模型『书生-S2』发布 在2026浦江创新论坛上，上海人工智能实验室发布书生多模态大模型 S2。科学能力比肩顶尖闭源，通用性能居开源第一梯队",
@@ -290,6 +323,28 @@
       "contentStatus": "ready",
       "contentHash": "ad6844423d9b273ebd652d8ace9cb92dcbaac2a4321aa53a24eb5ec45ebd3a34",
       "rawPath": "data/raw/f664f298c337f6e82d5bab4b2949cc5b.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "db0d5bcc2119d42d4512f2ded4aa944c",
+      "title": "• 在第四十二个教师节到来之际 习近平向全国广大教师和教育工作者致以节日祝贺和诚挚问候 2026-09-09",
+      "url": "https://www.caai.cn/site/content/11334.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T07:35:30.573Z",
+      "contentStatus": "ready",
+      "contentHash": "64ae585dc3c712d9e01c74d01d487b514007d5ae53a767bc2cb4d9519eede42f",
+      "rawPath": "data/raw/db0d5bcc2119d42d4512f2ded4aa944c.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "efe38d15e6dc9bdbb5cfc9dc862aa21d",
+      "title": "• 习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话 2026-09-12",
+      "url": "https://www.caai.cn/site/content/11335.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T07:35:30.573Z",
+      "contentStatus": "ready",
+      "contentHash": "d690d25d682765064a41d925fdfa2998f59a0483612a3cd8af9de4ed2fac0ff7",
+      "rawPath": "data/raw/efe38d15e6dc9bdbb5cfc9dc862aa21d.json",
       "lastAnalysisStatus": "pending"
     },
     {
