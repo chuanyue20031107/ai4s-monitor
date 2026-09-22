@@ -25,9 +25,20 @@ const STEPS = [
 ] as const;
 
 export function AICommandPanel() {
-  const [copyState, setCopyState] = useState<'idle' | 'copied' | 'error'>('idle');\n  const [digestCopyState, setDigestCopyState] = useState<'idle' | 'copied' | 'error'>('idle');
+  const [copyState, setCopyState] = useState<'idle' | 'copied' | 'error'>('idle');
+  const [digestCopyState, setDigestCopyState] = useState<'idle' | 'copied' | 'error'>('idle');
 
-  const copyDigestPrompt = async () => {\n    try {\n      await navigator.clipboard.writeText(DAILY_DIGEST_PROMPT);\n      setDigestCopyState('copied');\n      window.setTimeout(() => setDigestCopyState('idle'), 2200);\n    } catch {\n      setDigestCopyState('error');\n    }\n  };\n\n  const copyPrompt = async () => {
+  const copyDigestPrompt = async () => {
+    try {
+      await navigator.clipboard.writeText(DAILY_DIGEST_PROMPT);
+      setDigestCopyState('copied');
+      window.setTimeout(() => setDigestCopyState('idle'), 2200);
+    } catch {
+      setDigestCopyState('error');
+    }
+  };
+
+  const copyPrompt = async () => {
     try {
       await navigator.clipboard.writeText(ANALYSIS_PROMPT);
       setCopyState('copied');
@@ -79,6 +90,28 @@ export function AICommandPanel() {
           {copyState === 'error' && <p className="text-xs text-destructive" role="alert">复制失败，请手动选择并复制指令。</p>}
         </div>
       </CardContent>
-    </Card>\n\n    <Card>\n      <CardHeader>\n        <CardTitle className="flex items-center gap-2 text-sm">\n          <Sparkles className="size-4 text-primary" aria-hidden="true" />\n          AI4S 日报生成指令\n        </CardTitle>\n      </CardHeader>\n      <CardContent className="space-y-3">\n        <div className="flex flex-wrap items-center justify-between gap-2">\n          <p className="text-xs text-muted-foreground">复制后交给当前 Codex 会话执行，范围与重要情报看板保持一致。</p>\n          <Button size="sm" onClick={() => void copyDigestPrompt()} aria-label="复制 AI4S 日报生成指令">\n            {digestCopyState === 'copied' ? <Check className="size-3" aria-hidden="true" /> : <Clipboard className="size-3" aria-hidden="true" />}\n            {digestCopyState === 'copied' ? '已复制' : '复制指令'}\n          </Button>\n        </div>\n        <div className="max-h-[32rem] overflow-y-auto rounded-md border bg-muted/30 p-4">\n          <pre className="whitespace-pre-wrap break-words font-mono text-xs leading-6">{DAILY_DIGEST_PROMPT}</pre>\n        </div>\n        {digestCopyState === 'error' && <p className="text-xs text-destructive" role="alert">复制失败，请手动选择并复制指令。</p>}\n      </CardContent>\n    </Card>
+    </Card>
+
+    <Card>
+      <CardHeader>
+        <CardTitle className="flex items-center gap-2 text-sm">
+          <Sparkles className="size-4 text-primary" aria-hidden="true" />
+          AI4S 日报生成指令
+        </CardTitle>
+      </CardHeader>
+      <CardContent className="space-y-3">
+        <div className="flex flex-wrap items-center justify-between gap-2">
+          <p className="text-xs text-muted-foreground">复制后交给当前 Codex 会话执行，范围与重要情报看板保持一致。</p>
+          <Button size="sm" onClick={() => void copyDigestPrompt()} aria-label="复制 AI4S 日报生成指令">
+            {digestCopyState === 'copied' ? <Check className="size-3" aria-hidden="true" /> : <Clipboard className="size-3" aria-hidden="true" />}
+            {digestCopyState === 'copied' ? '已复制' : '复制指令'}
+          </Button>
+        </div>
+        <div className="max-h-[32rem] overflow-y-auto rounded-md border bg-muted/30 p-4">
+          <pre className="whitespace-pre-wrap break-words font-mono text-xs leading-6">{DAILY_DIGEST_PROMPT}</pre>
+        </div>
+        {digestCopyState === 'error' && <p className="text-xs text-destructive" role="alert">复制失败，请手动选择并复制指令。</p>}
+      </CardContent>
+    </Card>
   );
 }
