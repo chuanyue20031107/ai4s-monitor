@@ -25,9 +25,9 @@ const STEPS = [
 ] as const;
 
 export function AICommandPanel() {
-  const [copyState, setCopyState] = useState<'idle' | 'copied' | 'error'>('idle');
+  const [copyState, setCopyState] = useState<'idle' | 'copied' | 'error'>('idle');\n  const [digestCopyState, setDigestCopyState] = useState<'idle' | 'copied' | 'error'>('idle');
 
-  const copyPrompt = async () => {
+  const copyDigestPrompt = async () => {\n    try {\n      await navigator.clipboard.writeText(DAILY_DIGEST_PROMPT);\n      setDigestCopyState('copied');\n      window.setTimeout(() => setDigestCopyState('idle'), 2200);\n    } catch {\n      setDigestCopyState('error');\n    }\n  };\n\n  const copyPrompt = async () => {
     try {
       await navigator.clipboard.writeText(ANALYSIS_PROMPT);
       setCopyState('copied');
