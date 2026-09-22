@@ -1,10 +1,10 @@
 import { Link, useParams } from 'react-router-dom';
 import {
+  Bot,
   CheckCircle2,
   Circle,
   ExternalLink,
   Loader2,
-  RotateCw,
   SearchX,
   XCircle,
 } from 'lucide-react';
@@ -43,7 +43,7 @@ function InfoRow({ label, children }: { label: string; children: React.ReactNode
 
 export default function ArticleDetailPage() {
   const { id } = useParams<{ id: string }>();
-  const { articles, sourceRuntime, busy, reanalyzeArticle } = useAi4s();
+  const { articles, sourceRuntime } = useAi4s();
   const article = articles.find((a) => a.id === id);
   const source = article ? SOURCE_SEED.find((s) => s.id === article.sourceId) ?? null : null;
   const runtime = source ? sourceRuntime[source.id] : undefined;
@@ -59,8 +59,6 @@ export default function ArticleDetailPage() {
       </div>
     );
   }
-
-  const reanalyzing = busy[`article:${article.id}`];
 
   return (
     <div className="space-y-4">
@@ -99,14 +97,11 @@ export default function ArticleDetailPage() {
                   查看原文
                 </a>
               </Button>
-              <Button
-                size="sm"
-                variant="outline"
-                disabled={reanalyzing}
-                onClick={() => reanalyzeArticle(article.id)}
-              >
-                {reanalyzing ? <Loader2 className="size-4 animate-spin" /> : <RotateCw className="size-4" />}
-                重新分析
+              <Button size="sm" variant="outline" asChild>
+                <Link to={`/ai-control?articleId=${encodeURIComponent(article.id)}`}>
+                  <Bot className="size-4" />
+                  交给 Codex 分析
+                </Link>
               </Button>
             </CardContent>
           </Card>
