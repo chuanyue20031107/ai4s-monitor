@@ -165,11 +165,11 @@ export default function ArticlesPage() {
       <div className="flex flex-wrap items-center justify-between gap-3">
         <div>
           <h1 className="text-xl font-bold">情报文章</h1>
-          <p className="mt-1 text-xs text-muted-foreground">待AI分析包含 pending / analyzing；分析中表示已分派至 ChatGPT 任务批次。</p>
+          <p className="mt-1 text-xs text-muted-foreground">待AI分析包含 pending / analyzing；分析由 Codex 在工作区直接完成。</p>
         </div>
         <div className="flex gap-2">
           <Button size="sm" variant="outline" onClick={() => void refreshAll()}>刷新文章</Button>
-          <Button size="sm" onClick={() => navigate('/ai-control')}>AI 清仓 / 分析任务</Button>
+          <Button size="sm" onClick={() => navigate('/ai-control')}>交给 Codex 分析</Button>
         </div>
       </div>
       <div className="flex flex-wrap gap-2" role="group" aria-label="分析状态分组">
