@@ -1,8 +1,19 @@
 /** Shared public entry selection and bounded RSS/Sitemap parsing. */
 import { canonicalUrl, clean, extractEntries, noiseReason } from './pipeline.mjs';
 
+const FAILURE_STATUSES = new Set(['invalid_url', 'robots_blocked', 'timeout', 'network_error', 'parse_failed', 'needs_config', 'failed', 'http_403', 'http_404', 'http_500', 'dns_error', 'https_error', 'cloudflare_blocked']);
+
+function publicSearchFeed(source) {
+  const label = String(source.name || source.sourceKey || '').trim();
+  if (!label) return '';
+  return `https://news.google.com/rss/search?q=${encodeURIComponent(`"${label}" AI science research`)}&hl=en-US&gl=US&ceid=US:en`;
+}
+
 export function sourceEntry(source) {
   if (source._wechat) return source._fetchUrl || '';
+  if (FAILURE_STATUSES.has(source.crawlStatus) || source.lastError && FAILURE_STATUSES.has(source.lastError)) {
+    return publicSearchFeed(source);
+  }
   return (['rss', 'sitemap'].includes(source.crawlStrategy) && source.discoveredFeedUrl)
     || source.feedUrl || source.website || source.github || '';
 }
