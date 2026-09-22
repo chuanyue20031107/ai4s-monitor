@@ -1,0 +1,18 @@
+{
+  "id": "10538c022345675d1abd4a83236ec639",
+  "title": "Building standards for the next phase of AI",
+  "url": "https://openai.com/index/building-standards-next-phase-ai",
+  "sourceKey": "s01-14",
+  "sourceName": "OpenAI",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": "2026-09-21T10:00:00.000Z",
+  "crawledAt": "2026-09-22T11:48:25.354Z",
+  "content": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-22T11:48:25.354Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "a97cca53921476f73e640640ab87553ab40ee9ce86605d72180d35abadd44838"
+}

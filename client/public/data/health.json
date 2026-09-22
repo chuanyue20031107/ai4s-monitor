@@ -1,13 +1,13 @@
 {
   "stats": {
-    "runId": "source-command:retry-last-failed-20260922",
-    "status": "success",
+    "runId": "d41e2a69-e970-40c7-8cb4-8b9c8d82de0e",
+    "status": "failed",
     "running": false,
     "total": 184,
     "ok": 102,
-    "noContent": 82,
-    "failed": 0,
+    "noContent": 72,
+    "failed": 10,
     "failureByType": [],
-    "lastCheckAt": "2026-09-22T11:22:32.399Z"
+    "lastCheckAt": "2026-09-22T11:50:45.543Z"
   }
 }

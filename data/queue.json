@@ -1,11 +1,44 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-22T11:33:38.817Z",
-  "pendingCount": 1,
-  "readyCount": 1,
+  "updatedAt": "2026-09-22T11:50:45.660Z",
+  "pendingCount": 8,
+  "readyCount": 8,
   "awaitingContentCount": 0,
-  "excludedContentCount": 113,
+  "excludedContentCount": 110,
   "items": [
+    {
+      "id": "8d1169f60b897e5e88d70109dbd08c8d",
+      "title": "Latent Labs announces Latent-X2: AI-generated antibodies with drug-like developability and low ex vivo immunogenicity - Latent Labs",
+      "url": "https://www.latentlabs.com/press-release/latent-labs-announces-latent-x2-ai-generated-antibodies-with-drug-like-developability-and-low-ex-vivo-immunogenicity/",
+      "publishedAt": null,
+      "crawledAt": "2026-09-22T11:48:40.005Z",
+      "contentStatus": "ready",
+      "contentHash": "2b086e6fc9b3f8236c70ac21587dee8758f8f5951c78b9a137c4b495e26073cc",
+      "rawPath": "data/raw/8d1169f60b897e5e88d70109dbd08c8d.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "ff00d799fe2dad0d5d904e16997cd979",
+      "title": "Latent Labs Achieves Over 4x Training Speedups on NVIDIA Blackwell GPUs, Accelerating Generative AI for Drug Discovery - Latent Labs",
+      "url": "https://www.latentlabs.com/press-release/latent-labs-achieves-over-4x-training-speedups-on-nvidia-blackwell-gpus-accelerating-generative-ai-for-drug-discovery/",
+      "publishedAt": null,
+      "crawledAt": "2026-09-22T11:48:39.903Z",
+      "contentStatus": "ready",
+      "contentHash": "4b32b325932ded6516510856d32ef6ae4b6125189bfc4a2c7af6cdd50c9d0e43",
+      "rawPath": "data/raw/ff00d799fe2dad0d5d904e16997cd979.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "1ca7ee3c912995d113d99e19afd7a500",
+      "title": "Latent Labs announces Latent-Y: The Autonomous AI Agent for Drug Design at Scale - Latent Labs",
+      "url": "https://www.latentlabs.com/press-release/latent-y/",
+      "publishedAt": null,
+      "crawledAt": "2026-09-22T11:48:39.728Z",
+      "contentStatus": "ready",
+      "contentHash": "33e54cebf85b4018228f1e468e48210036ce2ec3621b18b9e604711aba19b429",
+      "rawPath": "data/raw/1ca7ee3c912995d113d99e19afd7a500.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "28bacb8b68411b9d16906af58605647a",
       "title": "[s01-04] AI4S public RSS fallback",
@@ -15,6 +48,50 @@
       "contentStatus": "ready",
       "contentHash": "7f1999a26319b704abc127889ca6e7ac413c381fe37a1d90c0111b3e6649acfc",
       "rawPath": "data/raw/28bacb8b68411b9d16906af58605647a.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "08ffdb24bebd9aa2ffda2f849b7e7af9",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "publishedAt": "2026-09-21T12:00:00.000Z",
+      "crawledAt": "2026-09-22T11:48:25.353Z",
+      "contentStatus": "ready",
+      "contentHash": "c0ebde0b8212cd6c3a08ae2b1f32fe40fe103060ccb4723243c8556057a32f38",
+      "rawPath": "data/raw/08ffdb24bebd9aa2ffda2f849b7e7af9.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "8fe4474fdbb9c4c46a22f87851542711",
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "publishedAt": "2026-09-21T12:00:00.000Z",
+      "crawledAt": "2026-09-22T11:48:25.354Z",
+      "contentStatus": "ready",
+      "contentHash": "6fecaaaca8e738a8ed2d8d77a41f6bf829286fd08002436adef8c793fd4d06c3",
+      "rawPath": "data/raw/8fe4474fdbb9c4c46a22f87851542711.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "10538c022345675d1abd4a83236ec639",
+      "title": "Building standards for the next phase of AI",
+      "url": "https://openai.com/index/building-standards-next-phase-ai",
+      "publishedAt": "2026-09-21T10:00:00.000Z",
+      "crawledAt": "2026-09-22T11:48:25.354Z",
+      "contentStatus": "ready",
+      "contentHash": "a97cca53921476f73e640640ab87553ab40ee9ce86605d72180d35abadd44838",
+      "rawPath": "data/raw/10538c022345675d1abd4a83236ec639.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "70b86b69732f309243da3860ad694055",
+      "title": "Meetings and Events",
+      "url": "https://www.rd-alliance.org/events/",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T07:35:34.387Z",
+      "contentStatus": "ready",
+      "contentHash": "b5c25add7c7ba53d15fea9c9d238e5dfd3718387c61a89b27a3308b184e9b956",
+      "rawPath": "data/raw/70b86b69732f309243da3860ad694055.json",
       "lastAnalysisStatus": "pending"
     }
   ]

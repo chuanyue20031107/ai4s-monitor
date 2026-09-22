@@ -1,0 +1,18 @@
+{
+  "id": "08ffdb24bebd9aa2ffda2f849b7e7af9",
+  "title": "Advisory Group on Mathematics and Artificial Intelligence",
+  "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+  "sourceKey": "s01-14",
+  "sourceName": "OpenAI",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": "2026-09-21T12:00:00.000Z",
+  "crawledAt": "2026-09-22T11:48:25.353Z",
+  "content": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-22T11:48:25.353Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "c0ebde0b8212cd6c3a08ae2b1f32fe40fe103060ccb4723243c8556057a32f38"
+}
