@@ -3,6 +3,7 @@
  * 数据由 GitHub Actions 写入 client/public/data/*.json，前端只读加载。
  */
 import type {
+  IAi4sAnalyzeUrlRequest,
   IAi4sArticlesResponse,
   IAi4sCrawlAllStartResponse,
   IAi4sDigestResponse,
@@ -41,6 +42,10 @@ function actionsOnly(): never {
   throw new Error('静态站点不直接写库；已打开 GitHub Actions，请点击 Run workflow');
 }
 
+function codexOnly(): never {
+  throw new Error('AI 分析由 Codex 工作区完成；页面不会创建分析任务或调用外部分析接口。');
+}
+
 export const fetchArticles = () => loadJson<IAi4sArticlesResponse>('articles');
 export const fetchSources = () => loadJson<IAi4sSourcesResponse>('sources');
 export const fetchSettings = () => loadJson<IAi4sSettingsResponse>('settings');
@@ -65,6 +70,14 @@ export async function crawlSource(_id: string): Promise<IAi4sIngestResult> {
 
 export async function startCrawlAll(): Promise<IAi4sCrawlAllStartResponse> {
   return actionsOnly();
+}
+
+export async function analyzeUrl(_payload: IAi4sAnalyzeUrlRequest): Promise<IAi4sIngestResult> {
+  return codexOnly();
+}
+
+export async function reanalyzeArticle(_id: string): Promise<IAi4sIngestResult> {
+  return codexOnly();
 }
 
 export async function pushDigest(_type: 'daily' | 'weekly' = 'daily'): Promise<IAi4sPushResult> {
