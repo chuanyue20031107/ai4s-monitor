@@ -76,7 +76,7 @@ export async function collect({ root = process.cwd(), seeds = null, fetchPage = 
       if (fs.existsSync(rawFile)) fs.rmSync(rawFile, { force: true });
       existing.delete(record.url);
     };
-    if (record.discardReason || record.title.length < 5 || record.title.length > 220) { removeUnusable(); return; }
+    if (!entry.fromSitemap && (record.discardReason || record.title.length < 5 || record.title.length > 220)) { removeUnusable(); return; }
     try {
       let extracted;
       if (contentFromFeed) extracted = { content: entry.feedContent.slice(0, 5000), publishedAt: record.publishedAt, extractionMethod: 'feed-excerpt', contentTruncated: entry.feedContent.length >= 5000 };
