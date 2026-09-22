@@ -3,19 +3,25 @@ import { Bot, Check, Clipboard, FileCheck2, Search, Sparkles } from 'lucide-reac
 import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 
-/**
- * The page is a hand-off point for the Codex agent. It deliberately has no
- * queue client or external task API: Codex reads and updates the workspace itself.
- */
 export const ANALYSIS_PROMPT = [
-  '读取 `chuanyue20031107/ai4s-monitor` 的最新 `main` 分支数据，动态收集当前所有未分析情报，不使用任何固定数量。',
-  '你负责实际分析：逐条读取 `data/raw/<id>.json`，核对当前 `contentHash`，然后生成符合 `docs/chatgpt-analysis.md` 的真实中文分析。每条必须包含摘要、分类、评分及理由、`contentType`、`moatTags`、逐字证据、限制和 `analyzedAt`；证据必须来自当前原文，且每个 quote 必须逐字包含在对应 raw 的 `content` 中。',
-  '严格使用仓库允许值：`category` 只能是 `模型`、`数据`、`AI4S 应用`、`自动化实验室`、`产业与商业`、`其他`；`contentType` 只能是 `company_claim`、`paper_result`、`media_report`；`moatTags` 只能是 `数据`、`模型`、`实验自动化`、`药物设计`、`材料发现`、`商业合作`、`人才`。不要创造“科研进展”“材料与化学”等自定义分类。',
-  '状态必须严格区分：与 AI4S 无关且正文确实是行政通知、导航页或目录页才用 `discarded`；正文不足、证据不足或无法可靠判断才用 `failed` 并填写具体 `failureReason`；`pending` 只表示暂不提交、继续留在本地 checkpoint，不能作为已完成结果写进 inbox；只有所有字段和证据都通过校验才可用 `done`，绝不为了清零伪造 done。',
-  '在本地工作区持续循环处理全部记录，把每条结果先保存到本地临时目录和 checkpoint。每轮重新读取 `data/queue.json`、所有目标 `data/raw/<id>.json` 和新增记录，直到完整扫描确认实时 `pending=0`。不要在分析未全部完成前写入 GitHub，不要创建任务队列、worker、Actions 入队或额外 API 请求。',
-  '提交前必须做本地预检：逐条复核 ID、`contentHash`、正文长度、状态、时间、允许分类/类型/标签、摘要长度、理由、证据 URL、quote 长度及 `raw.content.includes(quote)`；然后运行 `node scripts/pipeline.mjs`（必要时先运行 `node --test tests/pipeline.test.mjs`）。只要有一条 rejected 或校验错误，就继续修正并重新运行，禁止提交该批次。',
-  '全部目标均通过本地校验后，再一次性生成全部 `data/inbox/*.json` 文件，并在一个 Git commit 中提交到仓库；允许拆成多个文件，但不能产生中间提交。随后等待 publisher，重新读取 `data/receipts.json`、`data/queue.json`、`client/public/data/analysis-status.json`、Actions 部署和 Pages 实际数据；只有 receipts 对应批次为 `accepted` 且线上数据更新才算发布成功。',
-  '只有当实时 `pending=0`、所有目标均为有效 `done` 或有明确依据的 `discarded`、缺正文/失败为 0、批次 accepted、Pages 部署成功并且线上文章显示为“AI已分析”时，才报告完成。报告实际动态数量、done/discarded/failed、剩余 ID、每个 rejected 原因、最终 commit、Actions 和 Pages 链接。不要提前结束，也不要把入队、部分分析、Actions success 或 commit 成功说成完成。',
+  '读取 chuanyue20031107/ai4s-monitor 的最新 main 分支数据，动态收集当前所有未分析情报，不使用任何固定数量。',
+  '逐条读取 data/raw/<id>.json，核对当前 contentHash，按照 docs/chatgpt-analysis.md 生成真实中文分析。每条必须包含摘要、分类、评分及理由、contentType、moatTags、逐字证据、限制和 analyzedAt，证据必须逐字来自当前 raw.content。',
+  '严格使用仓库允许的 category、contentType 和 moatTags 值；无关行政通知、导航页和目录页才标记 discarded；正文不足或证据不足只能 failed 或 pending，不能伪造 done。',
+  '在本地持续循环处理全部未分析记录，保存 checkpoint；每轮重新读取 queue 和 raw，直到实时 pending=0。全部校验通过后，只新增唯一 data/inbox/*.json 批次，再等待 publisher、accepted 回执、Actions 和 Pages。',
+  '只有实时 pending=0、目标全部有效完成、批次 accepted、Pages 部署成功并显示 AI已分析时才能报告完成。'
+].join('\n\n');
+
+export const DAILY_DIGEST_PROMPT = [
+  '读取 https://github.com/chuanyue20031107/ai4s-monitor 的最新 main 分支，同时读取当前 Pages 实际部署的数据，生成并发布今天的 AI4S 日报。',
+  '先读取 AGENTS.md、docs/chatgpt-analysis.md、data/queue.json、最近的 data/inbox/*.json、GitHub main 的 client/public/data/articles.json、digest.json、digests.json，以及 Pages 实际加载的 articles.json、analysis-status.json、digest.json、digests.json。',
+  'GitHub 与 Pages 不一致时，以 Pages 当前页面实际使用的 articles 为准。严格复现 ImportantBoard：先取 analysisStatus === done，再按 crawledAt >= todayStartTs() 且 crawledAt <= todayEndTs() 筛选；项目时区为 Asia/Shanghai。',
+  '不得使用 publishedAt 替代 crawledAt，不得用 queue pending、accepted 回执、batchFile、评分、来源或类别减少今日 done 数量。日报 articleIds 必须包含看板今日显示的全部 done 情报；看板显示11条时必须包含11条。',
+  '逐条读取对应 rawPath，核对当前 contentHash，并确认 summary、importanceReason、evidence、limitations 与 raw 内容一致。pending、analyzing、failed、discarded 不得进入今日 done 集合。',
+  '重点情报只纳入 score >= 4 的今日 done 情报；score=3 或以下不得进入重点。没有重点时写：今日暂无评分大于等于4/5且通过校验的有效情报。',
+  '同一 sourceName 的重点情报合并为一条，保留全部原文 URL，摘要必须覆盖原文事实、分析判断、重要性及限制，不得凭标题补写或把企业自述改写成独立验证结论。',
+  '正文只能包含【重点情报】和【趋势观察】。趋势观察基于全部今日 done 情报，说明 done 总数、重点数量、企业/机构自述数量、论文或媒体报道数量、合并来源数量，并注明有限样本，样本不足时写不能据此推断行业整体趋势。',
+  '生成 digest，articleIds 为看板今日全部 done ID，pendingCount 为生成时实时值；只新增 data/inbox/<UTC时间戳>-daily-digest-<唯一后缀>.json，不直接修改 queue、receipts、digest.json、digests.json 或前端派生文件。',
+  '提交后等待 receipts 对应批次 accepted、Crawl and deploy 成功，并验证 Pages digest.json 已更新且 articleIds 数量与看板今日数量完全一致；不一致时继续排查，不得报告完成。'
 ].join('\n\n');
 
 const STEPS = [
@@ -24,94 +30,55 @@ const STEPS = [
   { icon: FileCheck2, title: '校验并写回', description: '校验结果后更新项目数据，页面自动展示。' },
 ] as const;
 
-// Two independent copyable prompt panels: analysis and daily digest.\nexport function AICommandPanel() {
-  const [copyState, setCopyState] = useState<'idle' | 'copied' | 'error'>('idle');
-  const [digestCopyState, setDigestCopyState] = useState<'idle' | 'copied' | 'error'>('idle');
-
-  const copyDigestPrompt = async () => {
+function CopyPrompt({ title, prompt }: { title: string; prompt: string }) {
+  const [state, setState] = useState<'idle' | 'copied' | 'error'>('idle');
+  const copy = async () => {
     try {
-      await navigator.clipboard.writeText(DAILY_DIGEST_PROMPT);
-      setDigestCopyState('copied');
-      window.setTimeout(() => setDigestCopyState('idle'), 2200);
+      await navigator.clipboard.writeText(prompt);
+      setState('copied');
+      window.setTimeout(() => setState('idle'), 2200);
     } catch {
-      setDigestCopyState('error');
+      setState('error');
     }
   };
-
-  const copyPrompt = async () => {
-    try {
-      await navigator.clipboard.writeText(ANALYSIS_PROMPT);
-      setCopyState('copied');
-      window.setTimeout(() => setCopyState('idle'), 2200);
-    } catch {
-      setCopyState('error');
-    }
-  };
-
   return (
-    <Card>
-      <CardHeader>
-        <CardTitle className="flex items-center gap-2 text-sm">
-          <Bot className="size-4 text-primary" aria-hidden="true" />
-          AI 分析 · Codex 工作区
-        </CardTitle>
-      </CardHeader>
-      <CardContent className="space-y-5">
-        <div className="rounded-md border border-primary/20 bg-primary/5 p-4">
-          <p className="text-sm leading-6">
-            Codex 会直接在当前工作区读取情报、完成分析并写回项目数据。此页面只提供分析指令，不创建任务队列，也不需要在页面中配置或调用任何外部接口。
-          </p>
-        </div>
+    <div className="space-y-2">
+      <div className="flex flex-wrap items-center justify-between gap-2">
+        <h3 className="text-sm font-medium">{title}</h3>
+        <Button size="sm" onClick={() => void copy()}>
+          {state === 'copied' ? <Check className="size-3" /> : <Clipboard className="size-3" />}
+          {state === 'copied' ? '已复制' : '复制指令'}
+        </Button>
+      </div>
+      <div className="max-h-[32rem] overflow-y-auto rounded-md border bg-muted/30 p-4">
+        <pre className="whitespace-pre-wrap break-words font-mono text-xs leading-6">{prompt}</pre>
+      </div>
+      {state === 'error' && <p className="text-xs text-destructive">复制失败，请手动选择并复制指令。</p>}
+    </div>
+  );
+}
 
-        <div className="grid gap-3 sm:grid-cols-3">
-          {STEPS.map(({ icon: Icon, title, description }) => (
-            <div key={title} className="rounded-md border p-3">
-              <Icon className="mb-2 size-4 text-primary" aria-hidden="true" />
-              <h3 className="text-xs font-medium">{title}</h3>
-              <p className="mt-1 text-xs leading-5 text-muted-foreground">{description}</p>
-            </div>
-          ))}
-        </div>
-
-        <div className="space-y-2">
-          <div className="flex flex-wrap items-center justify-between gap-2">
-            <div>
-              <h3 className="text-sm font-medium">Codex 分析指令</h3>
-              <p className="text-xs text-muted-foreground">复制后交给当前 Codex 会话执行。</p>
-            </div>
-            <Button size="sm" onClick={() => void copyPrompt()} aria-label="复制 Codex 分析指令">
-              {copyState === 'copied' ? <Check className="size-3" aria-hidden="true" /> : <Clipboard className="size-3" aria-hidden="true" />}
-              {copyState === 'copied' ? '已复制' : '复制指令'}
-            </Button>
+export function AICommandPanel() {
+  return (
+    <div className="space-y-5">
+      <Card>
+        <CardHeader>
+          <CardTitle className="flex items-center gap-2 text-sm"><Bot className="size-4 text-primary" />AI 分析 · Codex 工作区</CardTitle>
+        </CardHeader>
+        <CardContent className="space-y-5">
+          <div className="rounded-md border border-primary/20 bg-primary/5 p-4">
+            <p className="text-sm leading-6">Codex 会直接在当前工作区读取情报、完成分析并写回项目数据。此页面只提供分析指令，不创建任务队列，也不调用外部接口。</p>
           </div>
-          <div className="max-h-[32rem] overflow-y-auto rounded-md border bg-muted/30 p-4">
-            <pre className="whitespace-pre-wrap break-words font-mono text-xs leading-6">{ANALYSIS_PROMPT}</pre>
+          <div className="grid gap-3 sm:grid-cols-3">
+            {STEPS.map(({ icon: Icon, title, description }) => <div key={title} className="rounded-md border p-3"><Icon className="mb-2 size-4 text-primary" /><h3 className="text-xs font-medium">{title}</h3><p className="mt-1 text-xs leading-5 text-muted-foreground">{description}</p></div>)}
           </div>
-          {copyState === 'error' && <p className="text-xs text-destructive" role="alert">复制失败，请手动选择并复制指令。</p>}
-        </div>
-      </CardContent>
-    </Card>
-
-    <Card>
-      <CardHeader>
-        <CardTitle className="flex items-center gap-2 text-sm">
-          <Sparkles className="size-4 text-primary" aria-hidden="true" />
-          AI4S 日报生成指令
-        </CardTitle>
-      </CardHeader>
-      <CardContent className="space-y-3">
-        <div className="flex flex-wrap items-center justify-between gap-2">
-          <p className="text-xs text-muted-foreground">复制后交给当前 Codex 会话执行，范围与重要情报看板保持一致。</p>
-          <Button size="sm" onClick={() => void copyDigestPrompt()} aria-label="复制 AI4S 日报生成指令">
-            {digestCopyState === 'copied' ? <Check className="size-3" aria-hidden="true" /> : <Clipboard className="size-3" aria-hidden="true" />}
-            {digestCopyState === 'copied' ? '已复制' : '复制指令'}
-          </Button>
-        </div>
-        <div className="max-h-[32rem] overflow-y-auto rounded-md border bg-muted/30 p-4">
-          <pre className="whitespace-pre-wrap break-words font-mono text-xs leading-6">{DAILY_DIGEST_PROMPT}</pre>
-        </div>
-        {digestCopyState === 'error' && <p className="text-xs text-destructive" role="alert">复制失败，请手动选择并复制指令。</p>}
-      </CardContent>
-    </Card>
+          <CopyPrompt title="Codex 分析指令" prompt={ANALYSIS_PROMPT} />
+        </CardContent>
+      </Card>
+      <Card>
+        <CardHeader><CardTitle className="flex items-center gap-2 text-sm"><Sparkles className="size-4 text-primary" />AI4S 日报生成指令</CardTitle></CardHeader>
+        <CardContent><CopyPrompt title="日报提示词" prompt={DAILY_DIGEST_PROMPT} /></CardContent>
+      </Card>
+    </div>
   );
 }
