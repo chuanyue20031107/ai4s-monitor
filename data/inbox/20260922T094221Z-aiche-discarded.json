@@ -1,0 +1,52 @@
+{
+  "createdAt": "2026-09-22T09:42:21.618Z",
+  "analyses": [
+    {
+      "moatTags": [],
+      "score": 0,
+      "contentHash": "cf08bcf70afd89ade23cb67999ded46c072ec86a0e081b4caca9c2cdf314fed7",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-22T09:42:21.618Z",
+      "articleId": "a733a7b6fc343a038f5437193a4d5ed7",
+      "category": "",
+      "summary": "",
+      "contentType": "",
+      "limitations": "",
+      "evidence": [],
+      "importanceReason": "",
+      "failureReason": "当前抓取正文仅包含头图和系列序号，没有可核对的科研、模型、数据或 AI4S 应用内容；该人物介绍页与 AI4S 情报主题无关。"
+    },
+    {
+      "moatTags": [],
+      "score": 0,
+      "contentHash": "0d69c57c9fe81896957f0350a8c9552cdcd1d6a32344923ff175e466c69d7ad3",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-22T09:42:21.618Z",
+      "articleId": "63e7342079ef55bbe8b19e82eef6f9cc",
+      "category": "",
+      "summary": "",
+      "contentType": "",
+      "limitations": "",
+      "evidence": [],
+      "importanceReason": "",
+      "failureReason": "当前抓取正文仅包含头图和系列序号，没有可核对的科研、模型、数据或 AI4S 应用内容；该人物荣誉介绍页与 AI4S 情报主题无关。"
+    },
+    {
+      "moatTags": [],
+      "score": 0,
+      "contentHash": "78b4015d4499ca88d884b959d9bef2c6dec021a8afa6c0142b57788a4a184805",
+      "analysisStatus": "discarded",
+      "analyzedAt": "2026-09-22T09:42:21.618Z",
+      "articleId": "0d1dd08cac50ffddbe6acc975e89edef",
+      "category": "",
+      "summary": "",
+      "contentType": "",
+      "limitations": "",
+      "evidence": [],
+      "importanceReason": "",
+      "failureReason": "当前页面是 CCPS Glossary 词汇表入口，仅提供下载应用的目录/导航信息，不是 AI4S 情报正文。"
+    }
+  ],
+  "generator": "chatgpt-task",
+  "schemaVersion": 1
+}
