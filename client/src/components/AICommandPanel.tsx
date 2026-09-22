@@ -8,10 +8,11 @@ import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
  * queue client or external task API: Codex reads and updates the workspace itself.
  */
 export const ANALYSIS_PROMPT = [
-  '你是当前 ai4s-monitor 工作区的 AI4S 情报分析代理。直接读取仓库现有数据，找出所有仍需分析的记录；数量以本次扫描结果为准，不要使用固定批量或预设 ID。',
-  '逐条读取 data/raw/<id>.json，核对最新 contentHash 和正文。依据原文生成真实中文分析：摘要、分类、评分及理由、contentType、moatTags、逐字证据、限制和 analyzedAt。无关页面才标记 discarded；证据不足标记 failed 或保留 pending，绝不补造结论。',
-  '在当前 Codex 工作区完成读取、分析、校验和写入。不要创建分析队列、worker、Actions 任务或额外的 API 请求；不要把“已安排”或“已部分处理”当成完成。分析过程中定期重新扫描待处理数据，直到确认没有遗漏。',
-  '校验所有 ID、contentHash、字段、证据和状态后，把结果写入项目现有的数据格式和目录，并保留可恢复的 checkpoint。写入完成后再次读取结果，确认页面能显示最新状态，再报告实际处理数量和失败项。',
+  '读取 `chuanyue20031107/ai4s-monitor` 的最新 `main` 分支数据，动态收集当前所有未分析情报，不使用任何固定数量。',
+  '你负责实际分析：逐条读取 `data/raw/<id>.json`，核对当前 `contentHash`，然后生成符合 `docs/chatgpt-analysis.md` 的真实中文分析。每条必须包含摘要、分类、评分及理由、`contentType`、`moatTags`、逐字证据、限制和 `analyzedAt`；证据必须来自当前原文。无关页面才标记 `discarded`，证据不足只能保留 `failed` 或 `pending`，不能伪造 `done`。',
+  '在本地工作区持续循环处理全部记录，把每条结果先保存到本地临时目录和 checkpoint。不要在分析未全部完成前写入 GitHub，不要把 GitHub Actions 入队当作分析完成。每次循环重新读取队列和 raw，处理执行期间新增的待分析记录，直到完整扫描确认实时 `pending=0`。',
+  '全部分析完成后统一校验所有 ID、`contentHash`、字段、证据和状态。校验通过后，再一次性生成全部 `data/inbox/*.json` 文件，并在一个 Git commit 中提交到仓库；允许拆成多个文件，但不能产生中间提交。随后等待 publisher，检查 `data/receipts.json`、Actions 部署和 Pages 实际数据。',
+  '只有当实时 pending 为 0、所有目标均为有效 `done`、缺正文/失败为 0、Pages 部署成功并且线上文章显示为“AI已分析”时，才报告完成。报告实际动态数量、done/discarded/failed、剩余 ID、最终 commit、Actions 和 Pages 链接。不要提前结束，也不要把入队、部分分析或提交成功说成完成。',
 ].join('\n\n');
 
 const STEPS = [
