@@ -1,17 +1,15 @@
-name: AI analysis queue CI
+name: Analysis publication CI
 on:
   pull_request:
     paths:
-      - 'scripts/ai-*'
       - 'scripts/pipeline.mjs'
-      - 'tests/ai-commands.test.mjs'
+      - 'tests/pipeline.test.mjs'
       - '.github/workflows/ai-analysis-*.yml'
   push:
     branches: [main]
     paths:
-      - 'scripts/ai-*'
       - 'scripts/pipeline.mjs'
-      - 'tests/ai-commands.test.mjs'
+      - 'tests/pipeline.test.mjs'
       - '.github/workflows/ai-analysis-*.yml'
 permissions:
   contents: read
@@ -23,4 +21,4 @@ jobs:
       - uses: actions/setup-node@v5
         with:
           node-version: '22'
-      - run: node --test tests/ai-commands.test.mjs tests/pipeline.test.mjs
+      - run: node --test tests/pipeline.test.mjs
