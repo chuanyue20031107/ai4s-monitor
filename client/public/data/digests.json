@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "date": "2026-09-22",
+      "timeZone": "Asia/Shanghai",
+      "windowStart": "2026-09-22T00:00:00+08:00",
+      "windowEnd": "2026-09-22T23:59:59+08:00",
+      "generatedAt": "2026-09-22T07:04:06Z",
+      "articleIds": [],
+      "pendingCount": 36,
+      "content": "【重点情报】\n今日暂无通过校验的有效情报。\n\n【趋势观察】\n今日没有可用于趋势归纳的有效样本，不能据此推断行业整体趋势。",
+      "id": "daily-2026-09-22",
+      "articleCount": 0,
+      "digestType": "daily",
+      "generator": "chatgpt-task",
+      "batchFile": "2026-09-22T07-04-06Z-daily-digest-7b3e.json"
+    },
+    {
       "date": "2026-09-16",
       "timeZone": "Asia/Shanghai",
       "windowStart": "2026-09-16T00:00:00+08:00",
