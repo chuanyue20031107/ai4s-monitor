@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-22T10:43:34.789Z",
+  "updatedAt": "2026-09-22T10:51:24.969Z",
   "pending": 0,
   "ready": 0,
   "awaitingContent": 0,
   "excludedContent": 118,
   "done": 178,
   "discarded": 584,
-  "rejectedBatches": 3,
+  "rejectedBatches": 4,
   "latestDigestDate": "2026-09-22",
   "screenshotRulesConfirmed": false
 }

@@ -5,15 +5,19 @@
       "timeZone": "Asia/Shanghai",
       "windowStart": "2026-09-22T00:00:00+08:00",
       "windowEnd": "2026-09-22T23:59:59+08:00",
-      "generatedAt": "2026-09-22T09:17:17.747Z",
-      "articleIds": [],
-      "pendingCount": 3,
-      "content": "【重点情报】\n今日暂无评分大于等于4/5且通过校验的有效情报。\n【趋势观察】\n没有评分大于等于4/5的有效样本，不能据此推断行业整体趋势。",
+      "generatedAt": "2026-09-22T10:50:26.230Z",
+      "articleIds": [
+        "26151e760d36fcd750001d614c14f3e0",
+        "5dc9ec97bf0438baf45de7e27652cf00",
+        "4ddb5c67d6bfc3d8779dcbfb2739cc1b"
+      ],
+      "pendingCount": 0,
+      "content": "【重点情报】\n今日暂无评分大于等于4/5且通过校验的有效情报。\n\n【趋势观察】\n今日看板口径下共使用3条done情报，其中0条进入重点情报，合并来源0组。3条均为科研机构发布的论文或研究成果类信息，没有企业自述样本。当前结论仅反映有限样本观察，不能据此推断行业整体趋势。\n\n今日done情报原文链接：\n[https://www.cas.cn/syky/202608/t20260831_5119333.shtml](https://www.cas.cn/syky/202608/t20260831_5119333.shtml)\n[https://www.cas.cn/syky/202609/t20260918_5120585.shtml](https://www.cas.cn/syky/202609/t20260918_5120585.shtml)\n[https://www.cas.cn/syky/202609/t20260917_5120484.shtml](https://www.cas.cn/syky/202609/t20260917_5120484.shtml)",
       "id": "daily-2026-09-22",
-      "articleCount": 0,
+      "articleCount": 3,
       "digestType": "daily",
       "generator": "chatgpt-task",
-      "batchFile": "20260922T091717Z-daily-digest-score-ge4.json"
+      "batchFile": "20260922T105026Z-daily-digest-final-retry.json"
     },
     {
       "date": "2026-09-16",

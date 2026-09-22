@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "digest:2026-09-22",
+      "taskType": "每日摘要生成",
+      "status": "success",
+      "processed": 3,
+      "succeeded": 3,
+      "failed": 0,
+      "detail": "ChatGPT 日报 2026-09-22；未处理 0",
+      "failureReason": "",
+      "startedAt": "2026-09-22T10:50:26.230Z",
+      "finishedAt": "2026-09-22T10:50:26.230Z"
+    },
+    {
       "id": "source-command:retry-public-rss-20260922",
       "taskType": "失败来源重试",
       "status": "failed",
@@ -25,18 +37,6 @@
       "failureReason": "",
       "startedAt": "2026-09-22T09:42:21.618Z",
       "finishedAt": "2026-09-22T09:42:21.618Z"
-    },
-    {
-      "id": "digest:2026-09-22",
-      "taskType": "每日摘要生成",
-      "status": "success",
-      "processed": 0,
-      "succeeded": 0,
-      "failed": 0,
-      "detail": "ChatGPT 日报 2026-09-22；未处理 3",
-      "failureReason": "",
-      "startedAt": "2026-09-22T09:17:17.747Z",
-      "finishedAt": "2026-09-22T09:17:17.747Z"
     },
     {
       "id": "source-command:7c5fa838-cdb3-4627-b355-926bb326fbcd",
@@ -1189,5 +1189,5 @@
       "finishedAt": "2026-09-16T05:12:19.802Z"
     }
   ],
-  "updatedAt": "2026-09-22T10:43:34.789Z"
+  "updatedAt": "2026-09-22T10:51:24.969Z"
 }
