@@ -4155,8 +4155,8 @@
       "lastError": ""
     },
     {
-      "failureType": "http_502",
-      "repairSuggestion": "diagnose_again",
+      "failureType": "",
+      "repairSuggestion": "",
       "autoRepairAvailable": false,
       "id": "s08-07",
       "name": "中国政府采购网",
@@ -4178,12 +4178,12 @@
       "enabled": true,
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-22T11:14:48.559Z",
-      "lastSuccessAt": "2026-09-17T01:28:02.845Z",
-      "lastDiagnostic": "采集失败：http_502；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
-      "lastCheckAt": "2026-09-22T11:14:48.559Z",
-      "lastError": "http_502"
+      "crawlStatus": "ok",
+      "lastCrawlAt": "2026-09-22T11:22:32.156Z",
+      "lastSuccessAt": "2026-09-22T11:22:32.339Z",
+      "lastDiagnostic": "发现 1 条候选；本次处理上限 3；正文与分析状态分别记录",
+      "lastCheckAt": "2026-09-22T11:22:32.156Z",
+      "lastError": ""
     },
     {
       "failureType": "",
@@ -5705,5 +5705,5 @@
       "lastError": ""
     }
   ],
-  "updatedAt": "2026-09-22T11:14:52.999Z"
+  "updatedAt": "2026-09-22T11:22:32.399Z"
 }

@@ -2,6 +2,20 @@
   "items": [
     {
       "version": 1,
+      "requestId": "retry-last-failed-20260922",
+      "action": "retry_failed",
+      "issueNumber": 15,
+      "issueUrl": "https://github.com/chuanyue20031107/ai4s-monitor/issues/15",
+      "runUrl": "https://github.com/chuanyue20031107/ai4s-monitor/actions/runs/35720952064",
+      "startedAt": "2026-09-22T11:22:32.118Z",
+      "status": "success",
+      "detail": "抓取 1 个来源：成功 1，失败 0；新增 0，补正文 0；未进行 AI 分析。",
+      "processed": 1,
+      "failed": 0,
+      "finishedAt": "2026-09-22T11:22:32.399Z"
+    },
+    {
+      "version": 1,
       "requestId": "retry-selfhosted-rss-20260922",
       "action": "retry_failed",
       "issueNumber": 14,
@@ -86,5 +100,5 @@
       "finishedAt": "2026-09-16T17:03:18.335Z"
     }
   ],
-  "updatedAt": "2026-09-22T11:14:53.002Z"
+  "updatedAt": "2026-09-22T11:22:32.402Z"
 }

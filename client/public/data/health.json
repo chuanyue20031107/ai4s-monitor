@@ -1,18 +1,13 @@
 {
   "stats": {
-    "runId": "source-command:retry-selfhosted-rss-20260922",
-    "status": "failed",
+    "runId": "source-command:retry-last-failed-20260922",
+    "status": "success",
     "running": false,
     "total": 184,
-    "ok": 101,
+    "ok": 102,
     "noContent": 82,
-    "failed": 1,
-    "failureByType": [
-      {
-        "type": "network_error",
-        "count": 1
-      }
-    ],
-    "lastCheckAt": "2026-09-22T11:14:52.999Z"
+    "failed": 0,
+    "failureByType": [],
+    "lastCheckAt": "2026-09-22T11:22:32.399Z"
   }
 }
