@@ -1,6 +1,96 @@
 {
   "items": [
     {
+      "id": "091b5f9d23c085500fe0e3058ec7149b",
+      "title": "华大智造发布“全球首款多模态眼部成像一体机”及“健康智能指环”",
+      "sourceKey": "s10-15",
+      "sourceName": "CACLP中国国际检验医学暨输血仪器试剂博览会",
+      "sourceType": "行业展会/会议",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-09-22T17:06:19.278Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.caclp.com/article/?detail_14391.html",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "bdeebc61fb11a76274bea7ae7e763d52",
+      "title": "电啦啦欧非运输走廊首台换电重卡正式交付 2026-09-18 2026-09-18",
+      "sourceKey": "s06-10",
+      "sourceName": "国轩高科",
+      "sourceType": "研发型企业",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-09-22T17:05:35.540Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.gotion.com.cn/newsInfo/984",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "7b10274683d2fb26222130b8a737da5c",
+      "title": "世界制造业大会 | 董事长李缜发表主旨演讲《开放创新 协同共生》 2026-09-20 2026-09-20",
+      "sourceKey": "s06-10",
+      "sourceName": "国轩高科",
+      "sourceType": "研发型企业",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-09-22T17:05:35.257Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.gotion.com.cn/newsInfo/985",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "91501e0b4472ad46309c21d1fbb634c0",
+      "title": "世界制造业大会 | 国轩高科重磅发布低空飞行高功率电池等三大创新成果 2026-09-22 2026-09-22",
+      "sourceKey": "s06-10",
+      "sourceName": "国轩高科",
+      "sourceType": "研发型企业",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-09-22T17:05:34.973Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.gotion.com.cn/newsInfo/986",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "6a7ed514d30ba911a6eaa4a16da23b99",
+      "title": "污废水治理",
+      "sourceKey": "s04-09",
+      "sourceName": "聚光科技 FPI",
+      "sourceType": "科学仪器企业",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-09-22T17:03:02.637Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.fpi-inc.com/zt_fw.html",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "8d1169f60b897e5e88d70109dbd08c8d",
       "title": "Latent Labs announces Latent-X2: AI-generated antibodies with drug-like developability and low ex vivo immunogenicity - Latent Labs",
       "sourceKey": "s02-19",
@@ -5745,5 +5835,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-09-22T13:09:43.479Z"
+  "updatedAt": "2026-09-22T17:09:26.140Z"
 }

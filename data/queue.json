@@ -1,11 +1,66 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-22T13:09:43.479Z",
-  "pendingCount": 8,
-  "readyCount": 8,
+  "updatedAt": "2026-09-22T17:09:26.140Z",
+  "pendingCount": 13,
+  "readyCount": 13,
   "awaitingContentCount": 0,
   "excludedContentCount": 110,
   "items": [
+    {
+      "id": "091b5f9d23c085500fe0e3058ec7149b",
+      "title": "华大智造发布“全球首款多模态眼部成像一体机”及“健康智能指环”",
+      "url": "https://www.caclp.com/article/?detail_14391.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-22T17:06:19.278Z",
+      "contentStatus": "ready",
+      "contentHash": "21ca30e330c7bc3f38a850d865e03143df290e83677c7512a26667141f7b4517",
+      "rawPath": "data/raw/091b5f9d23c085500fe0e3058ec7149b.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "bdeebc61fb11a76274bea7ae7e763d52",
+      "title": "电啦啦欧非运输走廊首台换电重卡正式交付 2026-09-18 2026-09-18",
+      "url": "https://www.gotion.com.cn/newsInfo/984",
+      "publishedAt": null,
+      "crawledAt": "2026-09-22T17:05:35.540Z",
+      "contentStatus": "ready",
+      "contentHash": "8ad42fdfe51664bbccdb9a9ea33d0169105b83a9c75ec883f63ce20c1efe79cc",
+      "rawPath": "data/raw/bdeebc61fb11a76274bea7ae7e763d52.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "7b10274683d2fb26222130b8a737da5c",
+      "title": "世界制造业大会 | 董事长李缜发表主旨演讲《开放创新 协同共生》 2026-09-20 2026-09-20",
+      "url": "https://www.gotion.com.cn/newsInfo/985",
+      "publishedAt": null,
+      "crawledAt": "2026-09-22T17:05:35.257Z",
+      "contentStatus": "ready",
+      "contentHash": "c0e2c96b3b98a1ccf49db757ce73d3a27a1b500f5d6ac4252229b8945e62f1b3",
+      "rawPath": "data/raw/7b10274683d2fb26222130b8a737da5c.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "91501e0b4472ad46309c21d1fbb634c0",
+      "title": "世界制造业大会 | 国轩高科重磅发布低空飞行高功率电池等三大创新成果 2026-09-22 2026-09-22",
+      "url": "https://www.gotion.com.cn/newsInfo/986",
+      "publishedAt": null,
+      "crawledAt": "2026-09-22T17:05:34.973Z",
+      "contentStatus": "ready",
+      "contentHash": "8a1301d250dd4049c6b12aa9d9dd29ff4a74fc117de672be3bc9614122c57176",
+      "rawPath": "data/raw/91501e0b4472ad46309c21d1fbb634c0.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "6a7ed514d30ba911a6eaa4a16da23b99",
+      "title": "污废水治理",
+      "url": "https://www.fpi-inc.com/zt_fw.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-22T17:03:02.637Z",
+      "contentStatus": "ready",
+      "contentHash": "e87d95741de5266ea67f5fe7e559b8c2957ada80049675459393984826a54d6f",
+      "rawPath": "data/raw/6a7ed514d30ba911a6eaa4a16da23b99.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "8d1169f60b897e5e88d70109dbd08c8d",
       "title": "Latent Labs announces Latent-X2: AI-generated antibodies with drug-like developability and low ex vivo immunogenicity - Latent Labs",

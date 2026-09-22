@@ -22,6 +22,6 @@
     "retentionDays": 90,
     "crawlWindowStart": "00:00",
     "crawlWindowEnd": "23:59",
-    "lastRunAt": "2026-09-22T11:50:45.543Z"
+    "lastRunAt": "2026-09-22T17:09:26.000Z"
   }
 }
