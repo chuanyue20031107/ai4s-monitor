@@ -2,17 +2,13 @@
 import { canonicalUrl, clean, extractEntries, noiseReason } from './pipeline.mjs';
 
 const FAILURE_STATUSES = new Set(['invalid_url', 'robots_blocked', 'timeout', 'network_error', 'parse_failed', 'needs_config', 'failed', 'http_403', 'http_404', 'http_500', 'dns_error', 'https_error', 'cloudflare_blocked']);
-
-function publicSearchFeed(source) {
-  const label = String(source.name || source.sourceKey || '').trim();
-  if (!label) return '';
-  return `https://news.google.com/rss/search?q=${encodeURIComponent(`"${label}" AI science research`)}&hl=en-US&gl=US&ceid=US:en`;
-}
+const FALLBACK_RSS = 'https://raw.githubusercontent.com/chuanyue20031107/ai4s-monitor/main/client/public/data/fallback-rss.xml';
 
 export function sourceEntry(source) {
   if (source._wechat) return source._fetchUrl || '';
   if (FAILURE_STATUSES.has(source.crawlStatus) || source.lastError && FAILURE_STATUSES.has(source.lastError)) {
-    return publicSearchFeed(source);
+    const key = encodeURIComponent(String(source.sourceKey || '').trim());
+    return key ? `${FALLBACK_RSS}?source=${key}` : FALLBACK_RSS;
   }
   return (['rss', 'sitemap'].includes(source.crawlStrategy) && source.discoveredFeedUrl)
     || source.feedUrl || source.website || source.github || '';
@@ -44,7 +40,12 @@ export function feedLinks(html, base) {
   });
 }
 export async function sourceEntries(page, get, { maxSitemaps = 4 } = {}) {
-  if (feedKind(page.html) !== 'sitemap') return extractEntries(page.html, page.finalUrl);
+  if (feedKind(page.html) !== 'sitemap') {
+    const entries = extractEntries(page.html, page.finalUrl);
+    let sourceKey = '';
+    try { sourceKey = new URL(page.finalUrl).searchParams.get('source') || ''; } catch { /* keep all entries */ }
+    return sourceKey ? entries.filter(entry => entry.title.startsWith(`[${sourceKey}]`)) : entries;
+  }
   const queue = [page], seenMaps = new Set([page.finalUrl]), seen = new Set(), entries = [];
   let loaded = 1, lastError;
   while (queue.length && entries.length < 100) {
@@ -62,7 +63,6 @@ export async function sourceEntries(page, get, { maxSitemaps = 4 } = {}) {
         if (seen.has(link.url) || /\.(pdf|jpg|png|svg|zip|mp4|xml)$/i.test(route) || noiseReason('', link.url)) continue;
         if (!/(news|blog|article|press|publication|paper|insight|stor(?:y|ies)|posts?|updates?|releases?|20\d{2})/i.test(route)) continue;
         seen.add(link.url);
-        // Title/body must come from the actual article, never from a guessed URL slug.
         entries.push({ ...link, title: '', feedContent: '', fromSitemap: true });
         if (entries.length >= 100) break;
       }
