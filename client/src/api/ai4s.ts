@@ -3,7 +3,6 @@
  * 数据由 GitHub Actions 写入 client/public/data/*.json，前端只读加载。
  */
 import type {
-  IAi4sAnalyzeUrlRequest,
   IAi4sArticlesResponse,
   IAi4sCrawlAllStartResponse,
   IAi4sDigestResponse,
@@ -65,14 +64,6 @@ export async function crawlSource(_id: string): Promise<IAi4sIngestResult> {
 }
 
 export async function startCrawlAll(): Promise<IAi4sCrawlAllStartResponse> {
-  return actionsOnly();
-}
-
-export async function analyzeUrl(_payload: IAi4sAnalyzeUrlRequest): Promise<IAi4sIngestResult> {
-  return actionsOnly();
-}
-
-export async function reanalyzeArticle(_id: string): Promise<IAi4sIngestResult> {
   return actionsOnly();
 }
 
