@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T07:12:15.259Z",
+  "updatedAt": "2026-09-22T07:26:35.867Z",
   "items": [
     {
       "file": "2026-09-16T07-50-52Z-first-verified-batch.json",
@@ -190,6 +190,11 @@
       "file": "2026-09-22T07-04-06Z-daily-digest-7b3e.json",
       "status": "accepted",
       "analyses": 0
+    },
+    {
+      "file": "20260922T070852Z-full-dynamic.json",
+      "status": "rejected",
+      "reason": "invalid_category_or_type"
     }
   ]
 }
