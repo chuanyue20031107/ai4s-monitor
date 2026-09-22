@@ -94,8 +94,8 @@
       "lastError": ""
     },
     {
-      "failureType": "cloudflare_blocked",
-      "repairSuggestion": "check_robots",
+      "failureType": "robots_blocked",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "id": "s01-04",
       "name": "Argonne National Laboratory",
@@ -117,16 +117,16 @@
       "enabled": true,
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-21T12:58:11.077Z",
+      "crawlStatus": "robots_blocked",
+      "lastCrawlAt": "2026-09-22T10:41:03.445Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "诊断：cloudflare_blocked；建议：check_robots；尚未重新抓取正文。",
-      "lastCheckAt": "2026-09-22T08:35:17.457Z",
-      "lastError": "cloudflare_blocked"
+      "lastDiagnostic": "采集失败：robots_blocked；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-22T10:41:03.445Z",
+      "lastError": "robots_blocked"
     },
     {
-      "failureType": "cloudflare_blocked",
-      "repairSuggestion": "check_robots",
+      "failureType": "robots_blocked",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "id": "s01-05",
       "name": "Lawrence Berkeley National Laboratory",
@@ -148,12 +148,12 @@
       "enabled": true,
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-21T12:58:11.225Z",
+      "crawlStatus": "robots_blocked",
+      "lastCrawlAt": "2026-09-22T10:41:03.445Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "诊断：cloudflare_blocked；建议：check_robots；尚未重新抓取正文。",
-      "lastCheckAt": "2026-09-22T08:35:17.463Z",
-      "lastError": "cloudflare_blocked"
+      "lastDiagnostic": "采集失败：robots_blocked；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-22T10:41:03.445Z",
+      "lastError": "robots_blocked"
     },
     {
       "failureType": "",
@@ -187,8 +187,8 @@
       "lastError": ""
     },
     {
-      "failureType": "dns_error",
-      "repairSuggestion": "check_dns",
+      "failureType": "robots_blocked",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "id": "s01-07",
       "name": "National Renewable Energy Laboratory",
@@ -210,12 +210,12 @@
       "enabled": true,
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-21T12:58:11.743Z",
+      "crawlStatus": "robots_blocked",
+      "lastCrawlAt": "2026-09-22T10:41:03.446Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "诊断：dns_error；建议：check_dns；尚未重新抓取正文。",
-      "lastCheckAt": "2026-09-22T08:35:17.463Z",
-      "lastError": "dns_error"
+      "lastDiagnostic": "采集失败：robots_blocked；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-22T10:41:03.446Z",
+      "lastError": "robots_blocked"
     },
     {
       "failureType": "",
@@ -559,8 +559,8 @@
       "lastError": ""
     },
     {
-      "failureType": "http_404",
-      "repairSuggestion": "manual_config",
+      "failureType": "robots_blocked",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "id": "s01-19",
       "name": "Los Alamos National Laboratory",
@@ -582,12 +582,12 @@
       "enabled": true,
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-20T20:55:54.473Z",
+      "crawlStatus": "robots_blocked",
+      "lastCrawlAt": "2026-09-22T10:41:03.445Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "诊断：http_404；建议：manual_config；尚未重新抓取正文。",
-      "lastCheckAt": "2026-09-22T08:35:17.530Z",
-      "lastError": "http_404"
+      "lastDiagnostic": "采集失败：robots_blocked；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-22T10:41:03.445Z",
+      "lastError": "robots_blocked"
     },
     {
       "failureType": "",
@@ -1148,8 +1148,8 @@
       "lastError": ""
     },
     {
-      "failureType": "http_404",
-      "repairSuggestion": "manual_config",
+      "failureType": "robots_blocked",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "id": "s02-13",
       "name": "CuspAI",
@@ -1171,12 +1171,12 @@
       "enabled": true,
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-21T12:58:16.971Z",
+      "crawlStatus": "robots_blocked",
+      "lastCrawlAt": "2026-09-22T10:41:03.446Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "诊断：http_404；建议：manual_config；尚未重新抓取正文。",
-      "lastCheckAt": "2026-09-22T08:35:17.685Z",
-      "lastError": "http_404"
+      "lastDiagnostic": "采集失败：robots_blocked；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-22T10:41:03.446Z",
+      "lastError": "robots_blocked"
     },
     {
       "failureType": "",
@@ -1365,8 +1365,8 @@
       "lastError": ""
     },
     {
-      "failureType": "http_404",
-      "repairSuggestion": "manual_config",
+      "failureType": "robots_blocked",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "id": "s02-20",
       "name": "Iambic Therapeutics",
@@ -1388,12 +1388,12 @@
       "enabled": true,
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-20T20:55:58.756Z",
+      "crawlStatus": "robots_blocked",
+      "lastCrawlAt": "2026-09-22T10:41:03.445Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "诊断：http_404；建议：manual_config；尚未重新抓取正文。",
-      "lastCheckAt": "2026-09-22T08:35:17.818Z",
-      "lastError": "http_404"
+      "lastDiagnostic": "采集失败：robots_blocked；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-22T10:41:03.445Z",
+      "lastError": "robots_blocked"
     },
     {
       "failureType": "",
@@ -2295,8 +2295,8 @@
       "lastError": ""
     },
     {
-      "failureType": "dns_error",
-      "repairSuggestion": "check_dns",
+      "failureType": "robots_blocked",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "id": "s04-12",
       "name": "赛桥生物",
@@ -2318,12 +2318,12 @@
       "enabled": true,
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-21T05:05:53.772Z",
+      "crawlStatus": "robots_blocked",
+      "lastCrawlAt": "2026-09-22T10:41:03.445Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "诊断：dns_error；建议：check_dns；尚未重新抓取正文。",
-      "lastCheckAt": "2026-09-22T08:35:18.069Z",
-      "lastError": "dns_error"
+      "lastDiagnostic": "采集失败：robots_blocked；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-22T10:41:03.445Z",
+      "lastError": "robots_blocked"
     },
     {
       "failureType": "",
@@ -2419,8 +2419,8 @@
       "lastError": ""
     },
     {
-      "failureType": "https_error",
-      "repairSuggestion": "check_robots",
+      "failureType": "robots_blocked",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "id": "s05-04",
       "name": "自驱动科学实验系统",
@@ -2442,12 +2442,12 @@
       "enabled": true,
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-21T22:03:10.930Z",
+      "crawlStatus": "robots_blocked",
+      "lastCrawlAt": "2026-09-22T10:41:03.394Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "诊断：https_error；建议：check_robots；尚未重新抓取正文。",
-      "lastCheckAt": "2026-09-22T08:35:18.343Z",
-      "lastError": "https_error"
+      "lastDiagnostic": "采集失败：robots_blocked；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-22T10:41:03.394Z",
+      "lastError": "robots_blocked"
     },
     {
       "failureType": "",
@@ -2574,8 +2574,8 @@
       "lastError": ""
     },
     {
-      "failureType": "dns_error",
-      "repairSuggestion": "check_dns",
+      "failureType": "robots_blocked",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "id": "s05-09",
       "name": "合成生物学海河实验室",
@@ -2597,12 +2597,12 @@
       "enabled": true,
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-21T22:03:22.822Z",
+      "crawlStatus": "robots_blocked",
+      "lastCrawlAt": "2026-09-22T10:41:03.395Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "诊断：dns_error；建议：check_dns；尚未重新抓取正文。",
-      "lastCheckAt": "2026-09-22T08:35:19.364Z",
-      "lastError": "dns_error"
+      "lastDiagnostic": "采集失败：robots_blocked；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-22T10:41:03.395Z",
+      "lastError": "robots_blocked"
     },
     {
       "failureType": "",
@@ -2636,8 +2636,8 @@
       "lastError": ""
     },
     {
-      "failureType": "dns_error",
-      "repairSuggestion": "check_dns",
+      "failureType": "robots_blocked",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "id": "s05-11",
       "name": "北京科学智能研究院",
@@ -2659,12 +2659,12 @@
       "enabled": true,
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-21T22:04:06.656Z",
+      "crawlStatus": "robots_blocked",
+      "lastCrawlAt": "2026-09-22T10:41:03.396Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "诊断：dns_error；建议：check_dns；尚未重新抓取正文。",
-      "lastCheckAt": "2026-09-22T08:35:19.390Z",
-      "lastError": "dns_error"
+      "lastDiagnostic": "采集失败：robots_blocked；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-22T10:41:03.396Z",
+      "lastError": "robots_blocked"
     },
     {
       "failureType": "",
@@ -2698,8 +2698,8 @@
       "lastError": ""
     },
     {
-      "failureType": "network_error",
-      "repairSuggestion": "check_robots",
+      "failureType": "robots_blocked",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "id": "s05-13",
       "name": "姑苏实验室",
@@ -2721,12 +2721,12 @@
       "enabled": true,
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-21T22:05:45.387Z",
+      "crawlStatus": "robots_blocked",
+      "lastCrawlAt": "2026-09-22T10:41:03.396Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "诊断：network_error；建议：check_robots；尚未重新抓取正文。",
-      "lastCheckAt": "2026-09-22T08:35:19.414Z",
-      "lastError": "network_error"
+      "lastDiagnostic": "采集失败：robots_blocked；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-22T10:41:03.396Z",
+      "lastError": "robots_blocked"
     },
     {
       "failureType": "",
@@ -2853,8 +2853,8 @@
       "lastError": ""
     },
     {
-      "failureType": "dns_error",
-      "repairSuggestion": "check_dns",
+      "failureType": "robots_blocked",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "id": "s05-18",
       "name": "北京材料基因工程高精尖创新中心",
@@ -2876,12 +2876,12 @@
       "enabled": true,
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-21T22:06:06.534Z",
+      "crawlStatus": "robots_blocked",
+      "lastCrawlAt": "2026-09-22T10:41:03.445Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "诊断：dns_error；建议：check_dns；尚未重新抓取正文。",
-      "lastCheckAt": "2026-09-22T08:35:19.915Z",
-      "lastError": "dns_error"
+      "lastDiagnostic": "采集失败：robots_blocked；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-22T10:41:03.445Z",
+      "lastError": "robots_blocked"
     },
     {
       "failureType": "",
@@ -2915,8 +2915,8 @@
       "lastError": ""
     },
     {
-      "failureType": "https_error",
-      "repairSuggestion": "check_robots",
+      "failureType": "robots_blocked",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "id": "s05-20",
       "name": "上海药物所国家新药筛选中心",
@@ -2938,16 +2938,16 @@
       "enabled": true,
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-21T22:06:40.040Z",
+      "crawlStatus": "robots_blocked",
+      "lastCrawlAt": "2026-09-22T10:41:03.542Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "诊断：https_error；建议：check_robots；尚未重新抓取正文。",
-      "lastCheckAt": "2026-09-22T08:35:19.976Z",
-      "lastError": "https_error"
+      "lastDiagnostic": "采集失败：robots_blocked；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-22T10:41:03.542Z",
+      "lastError": "robots_blocked"
     },
     {
-      "failureType": "dns_error",
-      "repairSuggestion": "check_dns",
+      "failureType": "robots_blocked",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "id": "s05-21",
       "name": "广州实验室",
@@ -2969,12 +2969,12 @@
       "enabled": true,
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-21T05:05:54.041Z",
+      "crawlStatus": "robots_blocked",
+      "lastCrawlAt": "2026-09-22T10:41:03.542Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "诊断：dns_error；建议：check_dns；尚未重新抓取正文。",
-      "lastCheckAt": "2026-09-22T08:35:21.243Z",
-      "lastError": "dns_error"
+      "lastDiagnostic": "采集失败：robots_blocked；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-22T10:41:03.542Z",
+      "lastError": "robots_blocked"
     },
     {
       "failureType": "",
@@ -3008,8 +3008,8 @@
       "lastError": ""
     },
     {
-      "failureType": "http_500",
-      "repairSuggestion": "check_robots",
+      "failureType": "robots_blocked",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "id": "s05-23",
       "name": "西湖大学蛋白质组学与大数据平台",
@@ -3031,12 +3031,12 @@
       "enabled": true,
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-21T05:06:23.259Z",
+      "crawlStatus": "robots_blocked",
+      "lastCrawlAt": "2026-09-22T10:41:03.542Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "诊断：http_500；建议：check_robots；尚未重新抓取正文。",
-      "lastCheckAt": "2026-09-22T08:35:21.392Z",
-      "lastError": "http_500"
+      "lastDiagnostic": "采集失败：robots_blocked；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-22T10:41:03.542Z",
+      "lastError": "robots_blocked"
     },
     {
       "failureType": "",
@@ -3132,8 +3132,8 @@
       "lastError": ""
     },
     {
-      "failureType": "dns_error",
-      "repairSuggestion": "check_dns",
+      "failureType": "robots_blocked",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "id": "s06-01",
       "name": "恒瑞医药",
@@ -3155,16 +3155,16 @@
       "enabled": true,
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-21T22:08:17.484Z",
+      "crawlStatus": "robots_blocked",
+      "lastCrawlAt": "2026-09-22T10:41:03.542Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "诊断：dns_error；建议：check_dns；尚未重新抓取正文。",
-      "lastCheckAt": "2026-09-22T08:35:21.978Z",
-      "lastError": "dns_error"
+      "lastDiagnostic": "采集失败：robots_blocked；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-22T10:41:03.542Z",
+      "lastError": "robots_blocked"
     },
     {
-      "failureType": "timeout",
-      "repairSuggestion": "check_robots",
+      "failureType": "robots_blocked",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "id": "s06-02",
       "name": "百济神州",
@@ -3186,12 +3186,12 @@
       "enabled": true,
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
-      "crawlStatus": "timeout",
-      "lastCrawlAt": "2026-09-21T22:08:37.970Z",
+      "crawlStatus": "robots_blocked",
+      "lastCrawlAt": "2026-09-22T10:41:03.542Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "诊断：timeout；建议：check_robots；尚未重新抓取正文。",
-      "lastCheckAt": "2026-09-22T08:35:22.614Z",
-      "lastError": "timeout"
+      "lastDiagnostic": "采集失败：robots_blocked；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-22T10:41:03.542Z",
+      "lastError": "robots_blocked"
     },
     {
       "failureType": "",
@@ -3349,8 +3349,8 @@
       "lastError": ""
     },
     {
-      "failureType": "timeout",
-      "repairSuggestion": "check_robots",
+      "failureType": "robots_blocked",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "id": "s06-08",
       "name": "中国石化石科院",
@@ -3372,16 +3372,16 @@
       "enabled": true,
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
-      "crawlStatus": "timeout",
-      "lastCrawlAt": "2026-09-22T05:07:26.343Z",
+      "crawlStatus": "robots_blocked",
+      "lastCrawlAt": "2026-09-22T10:41:03.542Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "诊断：timeout；建议：check_robots；尚未重新抓取正文。",
-      "lastCheckAt": "2026-09-22T08:35:22.731Z",
-      "lastError": "timeout"
+      "lastDiagnostic": "采集失败：robots_blocked；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-22T10:41:03.542Z",
+      "lastError": "robots_blocked"
     },
     {
-      "failureType": "timeout",
-      "repairSuggestion": "check_robots",
+      "failureType": "robots_blocked",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "id": "s06-09",
       "name": "石药集团",
@@ -3403,12 +3403,12 @@
       "enabled": true,
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
-      "crawlStatus": "timeout",
-      "lastCrawlAt": "2026-09-21T05:06:36.272Z",
+      "crawlStatus": "robots_blocked",
+      "lastCrawlAt": "2026-09-22T10:41:03.542Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "诊断：timeout；建议：check_robots；尚未重新抓取正文。",
-      "lastCheckAt": "2026-09-22T08:35:25.658Z",
-      "lastError": "timeout"
+      "lastDiagnostic": "采集失败：robots_blocked；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-22T10:41:03.542Z",
+      "lastError": "robots_blocked"
     },
     {
       "failureType": "",
@@ -3597,8 +3597,8 @@
       "lastError": ""
     },
     {
-      "failureType": "https_error",
-      "repairSuggestion": "check_robots",
+      "failureType": "robots_blocked",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "id": "s07-04",
       "name": "Science Data Bank（ScienceDB）",
@@ -3620,16 +3620,16 @@
       "enabled": true,
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-22T05:07:29.236Z",
+      "crawlStatus": "robots_blocked",
+      "lastCrawlAt": "2026-09-22T10:41:03.531Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "诊断：https_error；建议：check_robots；尚未重新抓取正文。",
-      "lastCheckAt": "2026-09-22T08:35:27.238Z",
-      "lastError": "https_error"
+      "lastDiagnostic": "采集失败：robots_blocked；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-22T10:41:03.531Z",
+      "lastError": "robots_blocked"
     },
     {
-      "failureType": "network_error",
-      "repairSuggestion": "manual_config",
+      "failureType": "robots_blocked",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "id": "s07-05",
       "name": "国家基因组科学数据中心 NGDC",
@@ -3651,12 +3651,12 @@
       "enabled": true,
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-22T05:07:30.319Z",
+      "crawlStatus": "robots_blocked",
+      "lastCrawlAt": "2026-09-22T10:41:03.531Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "诊断：network_error；建议：manual_config；尚未重新抓取正文。",
-      "lastCheckAt": "2026-09-22T08:35:29.613Z",
-      "lastError": "network_error"
+      "lastDiagnostic": "采集失败：robots_blocked；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-22T10:41:03.531Z",
+      "lastError": "robots_blocked"
     },
     {
       "failureType": "",
@@ -3721,8 +3721,8 @@
       "lastError": ""
     },
     {
-      "failureType": "http_403",
-      "repairSuggestion": "check_robots",
+      "failureType": "robots_blocked",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "id": "s07-08",
       "name": "国家人口健康科学数据中心",
@@ -3744,16 +3744,16 @@
       "enabled": true,
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-22T05:07:39.226Z",
+      "crawlStatus": "robots_blocked",
+      "lastCrawlAt": "2026-09-22T10:41:03.531Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "诊断：http_403；建议：check_robots；尚未重新抓取正文。",
-      "lastCheckAt": "2026-09-22T08:35:32.736Z",
-      "lastError": "http_403"
+      "lastDiagnostic": "采集失败：robots_blocked；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-22T10:41:03.531Z",
+      "lastError": "robots_blocked"
     },
     {
-      "failureType": "timeout",
-      "repairSuggestion": "check_robots",
+      "failureType": "robots_blocked",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "id": "s07-09",
       "name": "国家材料科学数据中心",
@@ -3775,16 +3775,16 @@
       "enabled": true,
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
-      "crawlStatus": "timeout",
-      "lastCrawlAt": "2026-09-22T05:07:40.825Z",
+      "crawlStatus": "robots_blocked",
+      "lastCrawlAt": "2026-09-22T10:41:03.531Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "诊断：timeout；建议：check_robots；尚未重新抓取正文。",
-      "lastCheckAt": "2026-09-22T08:35:34.442Z",
-      "lastError": "timeout"
+      "lastDiagnostic": "采集失败：robots_blocked；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-22T10:41:03.531Z",
+      "lastError": "robots_blocked"
     },
     {
-      "failureType": "cloudflare_blocked",
-      "repairSuggestion": "check_robots",
+      "failureType": "robots_blocked",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "id": "s07-10",
       "name": "Materials Project",
@@ -3806,12 +3806,12 @@
       "enabled": true,
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-22T05:09:59.195Z",
+      "crawlStatus": "robots_blocked",
+      "lastCrawlAt": "2026-09-22T10:41:03.542Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "诊断：cloudflare_blocked；建议：check_robots；尚未重新抓取正文。",
-      "lastCheckAt": "2026-09-22T08:35:34.991Z",
-      "lastError": "cloudflare_blocked"
+      "lastDiagnostic": "采集失败：robots_blocked；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-22T10:41:03.542Z",
+      "lastError": "robots_blocked"
     },
     {
       "failureType": "",
@@ -4000,8 +4000,8 @@
       "lastError": ""
     },
     {
-      "failureType": "timeout",
-      "repairSuggestion": "check_dns",
+      "failureType": "robots_blocked",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "id": "s08-02",
       "name": "国家自然科学基金委员会",
@@ -4023,16 +4023,16 @@
       "enabled": true,
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
-      "crawlStatus": "timeout",
-      "lastCrawlAt": "2026-09-22T05:10:02.869Z",
+      "crawlStatus": "robots_blocked",
+      "lastCrawlAt": "2026-09-22T10:41:03.626Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "诊断：timeout；建议：check_dns；尚未重新抓取正文。",
-      "lastCheckAt": "2026-09-22T08:35:35.076Z",
-      "lastError": "timeout"
+      "lastDiagnostic": "采集失败：robots_blocked；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-22T10:41:03.626Z",
+      "lastError": "robots_blocked"
     },
     {
-      "failureType": "http_403",
-      "repairSuggestion": "check_robots",
+      "failureType": "robots_blocked",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "id": "s08-03",
       "name": "国家发展和改革委员会",
@@ -4054,12 +4054,12 @@
       "enabled": true,
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-22T05:10:05.067Z",
+      "crawlStatus": "robots_blocked",
+      "lastCrawlAt": "2026-09-22T10:41:03.626Z",
       "lastSuccessAt": "2026-09-16T06:57:51.541Z",
-      "lastDiagnostic": "诊断：http_403；建议：check_robots；尚未重新抓取正文。",
-      "lastCheckAt": "2026-09-22T08:35:36.455Z",
-      "lastError": "http_403"
+      "lastDiagnostic": "采集失败：robots_blocked；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-22T10:41:03.626Z",
+      "lastError": "robots_blocked"
     },
     {
       "failureType": "",
@@ -4093,8 +4093,8 @@
       "lastError": ""
     },
     {
-      "failureType": "http_404",
-      "repairSuggestion": "manual_config",
+      "failureType": "robots_blocked",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "id": "s08-05",
       "name": "国家数据局",
@@ -4116,12 +4116,12 @@
       "enabled": true,
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-22T05:10:05.985Z",
+      "crawlStatus": "robots_blocked",
+      "lastCrawlAt": "2026-09-22T10:41:03.626Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "诊断：http_404；建议：manual_config；尚未重新抓取正文。",
-      "lastCheckAt": "2026-09-22T08:35:37.365Z",
-      "lastError": "http_404"
+      "lastDiagnostic": "采集失败：robots_blocked；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-22T10:41:03.626Z",
+      "lastError": "robots_blocked"
     },
     {
       "failureType": "",
@@ -4155,8 +4155,8 @@
       "lastError": ""
     },
     {
-      "failureType": "no_public_entry",
-      "repairSuggestion": "manual_config",
+      "failureType": "http_502",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "id": "s08-07",
       "name": "中国政府采购网",
@@ -4179,15 +4179,15 @@
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
       "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-22T05:10:07.565Z",
+      "lastCrawlAt": "2026-09-22T10:41:03.626Z",
       "lastSuccessAt": "2026-09-17T01:28:02.845Z",
-      "lastDiagnostic": "诊断：discovery_inconclusive；建议：manual_config；尚未重新抓取正文。",
-      "lastCheckAt": "2026-09-22T08:35:43.210Z",
+      "lastDiagnostic": "采集失败：http_502；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-22T10:41:03.626Z",
       "lastError": "http_502"
     },
     {
-      "failureType": "timeout",
-      "repairSuggestion": "check_robots",
+      "failureType": "robots_blocked",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "id": "s08-08",
       "name": "全国公共资源交易平台",
@@ -4209,16 +4209,16 @@
       "enabled": true,
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-22T05:10:10.273Z",
+      "crawlStatus": "robots_blocked",
+      "lastCrawlAt": "2026-09-22T10:41:03.614Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "诊断：timeout；建议：check_robots；尚未重新抓取正文。",
-      "lastCheckAt": "2026-09-22T08:35:44.927Z",
-      "lastError": "http_404"
+      "lastDiagnostic": "采集失败：robots_blocked；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-22T10:41:03.614Z",
+      "lastError": "robots_blocked"
     },
     {
-      "failureType": "invalid_url",
-      "repairSuggestion": "manual_config",
+      "failureType": "robots_blocked",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "id": "s08-09",
       "name": "省市科技主管部门",
@@ -4240,12 +4240,12 @@
       "enabled": true,
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-22T05:10:11.686Z",
+      "crawlStatus": "robots_blocked",
+      "lastCrawlAt": "2026-09-22T10:41:03.614Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "诊断：invalid_url；建议：manual_config；尚未重新抓取正文。",
-      "lastCheckAt": "2026-09-22T08:35:45.688Z",
-      "lastError": "invalid_url"
+      "lastDiagnostic": "采集失败：robots_blocked；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-22T10:41:03.614Z",
+      "lastError": "robots_blocked"
     },
     {
       "failureType": "",
@@ -4311,7 +4311,7 @@
     },
     {
       "failureType": "timeout",
-      "repairSuggestion": "check_robots",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "id": "s08-12",
       "name": "国家药品监督管理局",
@@ -4333,16 +4333,16 @@
       "enabled": true,
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-21T05:08:34.026Z",
+      "crawlStatus": "timeout",
+      "lastCrawlAt": "2026-09-22T10:41:03.625Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "诊断：timeout；建议：check_robots；尚未重新抓取正文。",
-      "lastCheckAt": "2026-09-22T08:35:45.688Z",
-      "lastError": "http_412"
+      "lastDiagnostic": "采集失败：timeout；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-22T10:41:03.625Z",
+      "lastError": "timeout"
     },
     {
-      "failureType": "http_403",
-      "repairSuggestion": "manual_config",
+      "failureType": "robots_blocked",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "id": "s10-01",
       "name": "科学智能大会（AI for Science Conference）",
@@ -4364,12 +4364,12 @@
       "enabled": true,
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-22T05:10:11.686Z",
+      "crawlStatus": "robots_blocked",
+      "lastCrawlAt": "2026-09-22T10:41:03.614Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "诊断：http_403；建议：manual_config；尚未重新抓取正文。",
-      "lastCheckAt": "2026-09-22T08:35:46.181Z",
-      "lastError": "http_403"
+      "lastDiagnostic": "采集失败：robots_blocked；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-22T10:41:03.614Z",
+      "lastError": "robots_blocked"
     },
     {
       "failureType": "",
@@ -4403,8 +4403,8 @@
       "lastError": ""
     },
     {
-      "failureType": "http_403",
-      "repairSuggestion": "manual_config",
+      "failureType": "robots_blocked",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "id": "s10-03",
       "name": "中国化学会学术年会",
@@ -4426,16 +4426,16 @@
       "enabled": true,
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-22T05:10:16.573Z",
+      "crawlStatus": "robots_blocked",
+      "lastCrawlAt": "2026-09-22T10:41:03.614Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "诊断：http_403；建议：manual_config；尚未重新抓取正文。",
-      "lastCheckAt": "2026-09-22T08:35:50.077Z",
-      "lastError": "http_403"
+      "lastDiagnostic": "采集失败：robots_blocked；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-22T10:41:03.614Z",
+      "lastError": "robots_blocked"
     },
     {
-      "failureType": "timeout",
-      "repairSuggestion": "check_robots",
+      "failureType": "robots_blocked",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "id": "s10-04",
       "name": "中国材料大会",
@@ -4457,12 +4457,12 @@
       "enabled": true,
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-22T05:10:16.777Z",
+      "crawlStatus": "robots_blocked",
+      "lastCrawlAt": "2026-09-22T10:41:03.625Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "诊断：timeout；建议：check_robots；尚未重新抓取正文。",
-      "lastCheckAt": "2026-09-22T08:35:53.335Z",
-      "lastError": "https_error"
+      "lastDiagnostic": "采集失败：robots_blocked；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-22T10:41:03.625Z",
+      "lastError": "robots_blocked"
     },
     {
       "failureType": "",
@@ -4496,8 +4496,8 @@
       "lastError": ""
     },
     {
-      "failureType": "timeout",
-      "repairSuggestion": "check_robots",
+      "failureType": "robots_blocked",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "id": "s10-06",
       "name": "中国自动化大会 CAC",
@@ -4519,16 +4519,16 @@
       "enabled": true,
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
-      "crawlStatus": "timeout",
-      "lastCrawlAt": "2026-09-22T05:10:42.301Z",
+      "crawlStatus": "robots_blocked",
+      "lastCrawlAt": "2026-09-22T10:41:03.625Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "诊断：timeout；建议：check_robots；尚未重新抓取正文。",
-      "lastCheckAt": "2026-09-22T08:35:53.772Z",
-      "lastError": "timeout"
+      "lastDiagnostic": "采集失败：robots_blocked；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-22T10:41:03.625Z",
+      "lastError": "robots_blocked"
     },
     {
-      "failureType": "http_403",
-      "repairSuggestion": "check_robots",
+      "failureType": "robots_blocked",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "id": "s10-07",
       "name": "中国化工学会能源、材料与化工学术会议",
@@ -4550,12 +4550,12 @@
       "enabled": true,
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-22T05:10:44.627Z",
+      "crawlStatus": "robots_blocked",
+      "lastCrawlAt": "2026-09-22T10:41:03.625Z",
       "lastSuccessAt": "2026-09-16T07:35:31.203Z",
-      "lastDiagnostic": "诊断：http_403；建议：check_robots；尚未重新抓取正文。",
-      "lastCheckAt": "2026-09-22T08:36:02.436Z",
-      "lastError": "http_403"
+      "lastDiagnostic": "采集失败：robots_blocked；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-22T10:41:03.625Z",
+      "lastError": "robots_blocked"
     },
     {
       "failureType": "",
@@ -4651,8 +4651,8 @@
       "lastError": ""
     },
     {
-      "failureType": "dns_error",
-      "repairSuggestion": "check_dns",
+      "failureType": "robots_blocked",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "id": "s10-11",
       "name": "中国生物信息学大会",
@@ -4674,16 +4674,16 @@
       "enabled": true,
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-20T16:18:06.493Z",
+      "crawlStatus": "robots_blocked",
+      "lastCrawlAt": "2026-09-22T10:43:34.670Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "诊断：dns_error；建议：check_dns；尚未重新抓取正文。",
-      "lastCheckAt": "2026-09-22T08:36:03.713Z",
-      "lastError": "dns_error"
+      "lastDiagnostic": "采集失败：robots_blocked；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-22T10:43:34.670Z",
+      "lastError": "robots_blocked"
     },
     {
-      "failureType": "https_error",
-      "repairSuggestion": "check_robots",
+      "failureType": "robots_blocked",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "id": "s10-12",
       "name": "全国合成生物学大会",
@@ -4705,12 +4705,12 @@
       "enabled": true,
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-20T16:18:12.533Z",
+      "crawlStatus": "robots_blocked",
+      "lastCrawlAt": "2026-09-22T10:43:34.670Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "诊断：https_error；建议：check_robots；尚未重新抓取正文。",
-      "lastCheckAt": "2026-09-22T08:36:03.864Z",
-      "lastError": "https_error"
+      "lastDiagnostic": "采集失败：robots_blocked；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-22T10:43:34.670Z",
+      "lastError": "robots_blocked"
     },
     {
       "failureType": "",
@@ -4930,8 +4930,8 @@
       "lastError": ""
     },
     {
-      "failureType": "network_error",
-      "repairSuggestion": "check_robots",
+      "failureType": "robots_blocked",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "id": "s10-20",
       "name": "中关村论坛",
@@ -4953,12 +4953,12 @@
       "enabled": true,
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-21T05:08:46.329Z",
+      "crawlStatus": "robots_blocked",
+      "lastCrawlAt": "2026-09-22T10:43:34.670Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "诊断：network_error；建议：check_robots；尚未重新抓取正文。",
-      "lastCheckAt": "2026-09-22T08:36:05.096Z",
-      "lastError": "network_error"
+      "lastDiagnostic": "采集失败：robots_blocked；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-22T10:43:34.670Z",
+      "lastError": "robots_blocked"
     },
     {
       "failureType": "",
@@ -5054,8 +5054,8 @@
       "lastError": ""
     },
     {
-      "failureType": "cloudflare_blocked",
-      "repairSuggestion": "check_robots",
+      "failureType": "robots_blocked",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "id": "s11-03",
       "name": "SiLA Consortium",
@@ -5077,12 +5077,12 @@
       "enabled": true,
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-20T20:55:49.895Z",
+      "crawlStatus": "robots_blocked",
+      "lastCrawlAt": "2026-09-22T10:43:34.670Z",
       "lastSuccessAt": "2026-09-16T07:35:34.193Z",
-      "lastDiagnostic": "诊断：cloudflare_blocked；建议：check_robots；尚未重新抓取正文。",
-      "lastCheckAt": "2026-09-22T08:36:12.162Z",
-      "lastError": "cloudflare_blocked"
+      "lastDiagnostic": "采集失败：robots_blocked；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-22T10:43:34.670Z",
+      "lastError": "robots_blocked"
     },
     {
       "failureType": "",
@@ -5178,8 +5178,8 @@
       "lastError": ""
     },
     {
-      "failureType": "http_404",
-      "repairSuggestion": "manual_config",
+      "failureType": "robots_blocked",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "id": "s11-07",
       "name": "NeurIPS",
@@ -5201,16 +5201,16 @@
       "enabled": true,
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-20T20:55:51.130Z",
+      "crawlStatus": "robots_blocked",
+      "lastCrawlAt": "2026-09-22T10:43:34.671Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "诊断：http_404；建议：manual_config；尚未重新抓取正文。",
-      "lastCheckAt": "2026-09-22T08:36:12.810Z",
-      "lastError": "http_404"
+      "lastDiagnostic": "采集失败：robots_blocked；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-22T10:43:34.671Z",
+      "lastError": "robots_blocked"
     },
     {
-      "failureType": "http_404",
-      "repairSuggestion": "manual_config",
+      "failureType": "robots_blocked",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "id": "s11-08",
       "name": "ICLR",
@@ -5232,16 +5232,16 @@
       "enabled": true,
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-20T20:55:51.385Z",
+      "crawlStatus": "robots_blocked",
+      "lastCrawlAt": "2026-09-22T10:43:34.641Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "诊断：http_404；建议：manual_config；尚未重新抓取正文。",
-      "lastCheckAt": "2026-09-22T08:36:13.212Z",
-      "lastError": "http_404"
+      "lastDiagnostic": "采集失败：robots_blocked；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-22T10:43:34.641Z",
+      "lastError": "robots_blocked"
     },
     {
-      "failureType": "http_404",
-      "repairSuggestion": "manual_config",
+      "failureType": "robots_blocked",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "id": "s11-09",
       "name": "ICML",
@@ -5263,16 +5263,16 @@
       "enabled": true,
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-20T20:55:51.640Z",
+      "crawlStatus": "robots_blocked",
+      "lastCrawlAt": "2026-09-22T10:43:34.641Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "诊断：http_404；建议：manual_config；尚未重新抓取正文。",
-      "lastCheckAt": "2026-09-22T08:36:15.527Z",
-      "lastError": "http_404"
+      "lastDiagnostic": "采集失败：robots_blocked；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-22T10:43:34.641Z",
+      "lastError": "robots_blocked"
     },
     {
-      "failureType": "http_404",
-      "repairSuggestion": "manual_config",
+      "failureType": "robots_blocked",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "id": "s11-10",
       "name": "ISMB",
@@ -5294,12 +5294,12 @@
       "enabled": true,
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-20T20:55:51.866Z",
+      "crawlStatus": "robots_blocked",
+      "lastCrawlAt": "2026-09-22T10:43:34.641Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "诊断：http_404；建议：manual_config；尚未重新抓取正文。",
-      "lastCheckAt": "2026-09-22T08:36:16.017Z",
-      "lastError": "http_404"
+      "lastDiagnostic": "采集失败：robots_blocked；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-22T10:43:34.641Z",
+      "lastError": "robots_blocked"
     },
     {
       "failureType": "",
@@ -5333,8 +5333,8 @@
       "lastError": ""
     },
     {
-      "failureType": "http_403",
-      "repairSuggestion": "manual_config",
+      "failureType": "robots_blocked",
+      "repairSuggestion": "diagnose_again",
       "autoRepairAvailable": false,
       "id": "s11-12",
       "name": "Materials Research Society Meetings",
@@ -5356,12 +5356,12 @@
       "enabled": true,
       "crawlStrategy": "auto",
       "discoveredFeedUrl": null,
-      "crawlStatus": "network_error",
-      "lastCrawlAt": "2026-09-20T20:55:52.111Z",
+      "crawlStatus": "robots_blocked",
+      "lastCrawlAt": "2026-09-22T10:43:34.641Z",
       "lastSuccessAt": null,
-      "lastDiagnostic": "诊断：http_403；建议：manual_config；尚未重新抓取正文。",
-      "lastCheckAt": "2026-09-22T08:36:18.163Z",
-      "lastError": "http_403"
+      "lastDiagnostic": "采集失败：robots_blocked；网络/超时已按 30 秒、2 分钟重试，HTTP/robots 限制不重试；已进入失败来源队列。",
+      "lastCheckAt": "2026-09-22T10:43:34.641Z",
+      "lastError": "robots_blocked"
     },
     {
       "failureType": "",
@@ -5705,5 +5705,5 @@
       "lastError": ""
     }
   ],
-  "updatedAt": "2026-09-22T08:36:36.175Z"
+  "updatedAt": "2026-09-22T10:43:34.721Z"
 }
