@@ -1,0 +1,18 @@
+{
+  "id": "1eb279917e85e92e7fdf30bafb9e12b6",
+  "title": "News - Isomorphic Labs",
+  "url": "https://www.isomorphiclabs.com/news",
+  "sourceKey": "s02-01",
+  "sourceName": "Isomorphic Labs",
+  "sourceType": "AI药物公司",
+  "publishedAt": null,
+  "crawledAt": "2026-09-22T21:25:31.820Z",
+  "content": "The Quest to ‘Solve All Disease’ with AI: Isomorphic Labs’ Max Jaderberg A breakthrough unfolds. Google DeepMind: The Podcast featuring Demis Hassabis",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-22T21:25:31.820Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "0bab002c0a7d1d51c48fd46ec60f93ef194e669d997a673fecee079abe9c6d50"
+}

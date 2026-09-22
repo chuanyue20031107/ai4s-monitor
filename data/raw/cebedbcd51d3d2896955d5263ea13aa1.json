@@ -1,0 +1,18 @@
+{
+  "id": "cebedbcd51d3d2896955d5263ea13aa1",
+  "title": "A quest for a cure: AI drug design with Isomorphic Labs - Isomorphic Labs",
+  "url": "https://www.isomorphiclabs.com/articles/a-quest-for-a-cure-ai-drug-design-with-isomorphic-labs",
+  "sourceKey": "s02-01",
+  "sourceName": "Isomorphic Labs",
+  "sourceType": "AI药物公司",
+  "publishedAt": null,
+  "crawledAt": "2026-09-22T21:25:31.856Z",
+  "content": "They dig into the immense complexities of designing new drugs, considering questions such as: How do you find the right molecular key for the right biological lock? How can AI help scientists understand disease better and overcome challenges like drug toxicity? And what about the diseases that are currently considered “undruggable”? Finally, they explore the ultimate impact of this technology, from the future of personalised medicine to the ambitious goal of being able to eventually design treatments for all diseases.",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-22T21:25:31.856Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "222a36a54093bf3d7085b4d3724446c75216269d9767c35efb85e3e1fe51499f"
+}

@@ -1,11 +1,44 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-22T17:09:26.140Z",
-  "pendingCount": 13,
-  "readyCount": 13,
+  "updatedAt": "2026-09-22T21:27:58.557Z",
+  "pendingCount": 21,
+  "readyCount": 21,
   "awaitingContentCount": 0,
-  "excludedContentCount": 110,
+  "excludedContentCount": 107,
   "items": [
+    {
+      "id": "cebedbcd51d3d2896955d5263ea13aa1",
+      "title": "A quest for a cure: AI drug design with Isomorphic Labs - Isomorphic Labs",
+      "url": "https://www.isomorphiclabs.com/articles/a-quest-for-a-cure-ai-drug-design-with-isomorphic-labs",
+      "publishedAt": null,
+      "crawledAt": "2026-09-22T21:25:31.856Z",
+      "contentStatus": "ready",
+      "contentHash": "222a36a54093bf3d7085b4d3724446c75216269d9767c35efb85e3e1fe51499f",
+      "rawPath": "data/raw/cebedbcd51d3d2896955d5263ea13aa1.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "1eb279917e85e92e7fdf30bafb9e12b6",
+      "title": "News - Isomorphic Labs",
+      "url": "https://www.isomorphiclabs.com/news",
+      "publishedAt": null,
+      "crawledAt": "2026-09-22T21:25:31.820Z",
+      "contentStatus": "ready",
+      "contentHash": "0bab002c0a7d1d51c48fd46ec60f93ef194e669d997a673fecee079abe9c6d50",
+      "rawPath": "data/raw/1eb279917e85e92e7fdf30bafb9e12b6.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "82c9573ed9c6ba6662f2ba31d356aeb1",
+      "title": "Isomorphic Labs 2.0",
+      "url": "https://www.isomorphiclabs.com/press/isomorphic-labs-funding",
+      "publishedAt": null,
+      "crawledAt": "2026-09-22T21:25:31.781Z",
+      "contentStatus": "ready",
+      "contentHash": "71a133517a23028b4f1b5b9062e61a833f55596eafa433ddbaf758049fd714d3",
+      "rawPath": "data/raw/82c9573ed9c6ba6662f2ba31d356aeb1.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "091b5f9d23c085500fe0e3058ec7149b",
       "title": "华大智造发布“全球首款多模态眼部成像一体机”及“健康智能指环”",
@@ -106,6 +139,17 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "d84d5932ca4ed661685084e3b5c62f33",
+      "title": "Improving synthesis prediction of small molecules at scale with RetroChimera",
+      "url": "https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera/",
+      "publishedAt": "2026-09-21T15:30:19.000Z",
+      "crawledAt": "2026-09-22T21:25:27.904Z",
+      "contentStatus": "ready",
+      "contentHash": "cfc033dd80b1f680c8df1d09b62b0be08399b334358f55d9583334cfbc85edab",
+      "rawPath": "data/raw/d84d5932ca4ed661685084e3b5c62f33.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "08ffdb24bebd9aa2ffda2f849b7e7af9",
       "title": "Advisory Group on Mathematics and Artificial Intelligence",
       "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
@@ -147,6 +191,50 @@
       "contentStatus": "ready",
       "contentHash": "b5c25add7c7ba53d15fea9c9d238e5dfd3718387c61a89b27a3308b184e9b956",
       "rawPath": "data/raw/70b86b69732f309243da3860ad694055.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "e9ad17fe1ee9f40dba785e86f50146b7",
+      "title": "Events",
+      "url": "https://www.schrodinger.com/life-science/resources/?type=event",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T06:05:18.824Z",
+      "contentStatus": "ready",
+      "contentHash": "42959bd0cc72463f7a4a86c5bbd1f516338e577c1fb1820f923e52d4b02bda14",
+      "rawPath": "data/raw/e9ad17fe1ee9f40dba785e86f50146b7.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "85475bbf276306560437df5389924404",
+      "title": "Three Minutes to Make Your Research Matter: Join AIChE’s 2026 3MT® Competition",
+      "url": "https://www.aiche.org/three-minutes-make-your-research-matter-join-aiches-2026-3mtr-competition",
+      "publishedAt": "2026-09-15T03:03:10.000Z",
+      "crawledAt": "2026-09-22T21:25:23.457Z",
+      "contentStatus": "ready",
+      "contentHash": "0859d1571e25d1d4b174c7318e0e1b852487c30b38e193fa25fe74cd1b04e5d9",
+      "rawPath": "data/raw/85475bbf276306560437df5389924404.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "d642b0fd1f49b1911939363000a83720",
+      "title": "Designing Industrial Biotechnology for Commercial Success",
+      "url": "https://www.aiche.org/designing-industrial-biotechnology-commercial-success",
+      "publishedAt": "2026-09-14T14:03:10.000Z",
+      "crawledAt": "2026-09-22T21:25:23.457Z",
+      "contentStatus": "ready",
+      "contentHash": "5e9320d6f8e76364b085f261b8679142152404a1ecccf460f075385495a11fc8",
+      "rawPath": "data/raw/d642b0fd1f49b1911939363000a83720.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "048a3ce1e9295997f551f3bd905a3973",
+      "title": "What Will It Take to Get New Gene Editing and RNA Breakthroughs to Patients?",
+      "url": "https://www.aiche.org/what-will-it-take-get-new-gene-editing-and-rna-breakthroughs-patients",
+      "publishedAt": "2026-09-11T17:03:09.000Z",
+      "crawledAt": "2026-09-22T21:25:23.457Z",
+      "contentStatus": "ready",
+      "contentHash": "3fb90e565bfed6d0b6ad1545cf971a113b5322e1f1bddf78c239da8cf05ff059",
+      "rawPath": "data/raw/048a3ce1e9295997f551f3bd905a3973.json",
       "lastAnalysisStatus": "pending"
     }
   ]
