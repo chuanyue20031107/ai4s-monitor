@@ -1,84 +1,78 @@
-import { useCallback, useEffect, useRef, useState } from 'react';
-import { ExternalLink, RefreshCw } from 'lucide-react';
+import { useState } from 'react';
+import { Bot, Check, Clipboard, FileCheck2, Search, Sparkles } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
-import { Input } from '@/components/ui/input';
-import { Textarea } from '@/components/ui/textarea';
-import { AI_WORKER_URL, commandCommitUrl, createAICommand, fetchAIQueue, type AICommand, type AICommandResult, type AIQueueSnapshot, type AnalysisLimit } from '@/api/aiCommands';
 
-const LABELS: Record<AICommandResult['status'], string> = {
-  pending: '等待 worker 分批', awaiting_analysis: '等待 ChatGPT 分析', completed: '本次选中条目已处理',
-  partial: '部分失败，可重新提交', no_work: '本次无可新增的分析任务', rejected: '任务格式被拒绝',
-};
+/**
+ * The page is a hand-off point for the Codex agent. It deliberately has no
+ * queue client or external task API: Codex reads and updates the workspace itself.
+ */
+export const ANALYSIS_PROMPT = [
+  '你是当前 ai4s-monitor 工作区的 AI4S 情报分析代理。直接读取仓库现有数据，找出所有仍需分析的记录；数量以本次扫描结果为准，不要使用固定批量或预设 ID。',
+  '逐条读取 data/raw/<id>.json，核对最新 contentHash 和正文。依据原文生成真实中文分析：摘要、分类、评分及理由、contentType、moatTags、逐字证据、限制和 analyzedAt。无关页面才标记 discarded；证据不足标记 failed 或保留 pending，绝不补造结论。',
+  '在当前 Codex 工作区完成读取、分析、校验和写入。不要创建分析队列、worker、Actions 任务或额外的 API 请求；不要把“已安排”或“已部分处理”当成完成。分析过程中定期重新扫描待处理数据，直到确认没有遗漏。',
+  '校验所有 ID、contentHash、字段、证据和状态后，把结果写入项目现有的数据格式和目录，并保留可恢复的 checkpoint。写入完成后再次读取结果，确认页面能显示最新状态，再报告实际处理数量和失败项。',
+].join('\n\n');
+
+const STEPS = [
+  { icon: Search, title: '读取工作区数据', description: '扫描待分析记录并核对正文版本。' },
+  { icon: Sparkles, title: 'Codex 自主分析', description: '基于原文生成结构化中文分析和证据。' },
+  { icon: FileCheck2, title: '校验并写回', description: '校验结果后更新项目数据，页面自动展示。' },
+] as const;
 
 export function AICommandPanel() {
-  const [instruction, setInstruction] = useState('分析待处理的 AI4S 情报，依据原文给出分类、评分、中文摘要与限制。');
-  const [query, setQuery] = useState('');
-  const [limit, setLimit] = useState<AnalysisLimit>(100);
-  const [draft, setDraft] = useState<AICommand | null>(null);
-  const [snapshot, setSnapshot] = useState<AIQueueSnapshot | null>(null);
-  const [error, setError] = useState('');
-  const [loading, setLoading] = useState(false);
-  const fetching = useRef(false);
-  const refresh = useCallback(async () => {
-    if (fetching.current) return;
-    fetching.current = true; setLoading(true);
-    try { setSnapshot(await fetchAIQueue()); setError(''); }
-    catch (e) { setError(e instanceof Error ? e.message : '队列读取失败'); }
-    finally { fetching.current = false; setLoading(false); }
-  }, []);
-  useEffect(() => {
-    void refresh();
-    const timer = window.setInterval(() => { if (!document.hidden) void refresh(); }, 30000);
-    const onFocus = () => void refresh();
-    window.addEventListener('focus', onFocus);
-    return () => { clearInterval(timer); window.removeEventListener('focus', onFocus); };
-  }, [refresh]);
-  const confirmed = draft && snapshot?.items.some((r) => r.id === draft.id);
+  const [copyState, setCopyState] = useState<'idle' | 'copied' | 'error'>('idle');
+
+  const copyPrompt = async () => {
+    try {
+      await navigator.clipboard.writeText(ANALYSIS_PROMPT);
+      setCopyState('copied');
+      window.setTimeout(() => setCopyState('idle'), 2200);
+    } catch {
+      setCopyState('error');
+    }
+  };
 
   return (
     <Card>
-      <CardHeader><CardTitle className="text-sm">AI 任务控制中心 · 清仓模式</CardTitle></CardHeader>
-      <CardContent className="space-y-4">
-        <p className="text-sm text-muted-foreground">worker 将有正文的待分析文章拆为每批最多 30 篇，由 ChatGPT 分析并校验回写。清仓范围以任务执行时的数据为准。</p>
-        <div className="flex flex-wrap items-center gap-2" role="group" aria-label="清仓批量">
-          {([100, 500, 'all'] as const).map((size) => (
-            <Button key={size} size="sm" variant={limit === size ? 'default' : 'outline'} aria-pressed={limit === size}
-              onClick={() => { setLimit(size); setDraft(null); }}>{size === 'all' ? '全部待分析' : `${size} 篇`}</Button>
+      <CardHeader>
+        <CardTitle className="flex items-center gap-2 text-sm">
+          <Bot className="size-4 text-primary" aria-hidden="true" />
+          AI 分析 · Codex 工作区
+        </CardTitle>
+      </CardHeader>
+      <CardContent className="space-y-5">
+        <div className="rounded-md border border-primary/20 bg-primary/5 p-4">
+          <p className="text-sm leading-6">
+            Codex 会直接在当前工作区读取情报、完成分析并写回项目数据。此页面只提供分析指令，不创建任务队列，也不需要在页面中配置或调用任何外部接口。
+          </p>
+        </div>
+
+        <div className="grid gap-3 sm:grid-cols-3">
+          {STEPS.map(({ icon: Icon, title, description }) => (
+            <div key={title} className="rounded-md border p-3">
+              <Icon className="mb-2 size-4 text-primary" aria-hidden="true" />
+              <h3 className="text-xs font-medium">{title}</h3>
+              <p className="mt-1 text-xs leading-5 text-muted-foreground">{description}</p>
+            </div>
           ))}
         </div>
-        <div className="space-y-1">
-          <label className="text-xs text-muted-foreground" htmlFor="ai-query">范围关键词（可选，匹配标题、来源和正文；留空为全部）</label>
-          <Input id="ai-query" value={query} maxLength={100} onChange={(e) => { setQuery(e.target.value); setDraft(null); }} placeholder="例如：材料" />
-        </div>
-        <div className="space-y-1">
-          <label className="text-xs text-muted-foreground" htmlFor="ai-instruction">分析要求（交给 ChatGPT，不用于自动筛选范围）</label>
-          <Textarea id="ai-instruction" value={instruction} maxLength={1000} onChange={(e) => { setInstruction(e.target.value); setDraft(null); }} />
-        </div>
-        <div className="flex flex-wrap gap-2">
-          <Button disabled={!instruction.trim() || Boolean(draft && !confirmed)} onClick={() => setDraft(createAICommand(instruction, limit, query))}>生成分析任务</Button>
-          <Button variant="outline" asChild><a href={AI_WORKER_URL} target="_blank" rel="noreferrer">查看 / 运行 worker<ExternalLink className="size-3" /></a></Button>
-        </div>
-        {draft && <div className="space-y-2 rounded-md border p-3 text-sm" aria-live="polite">
-          <p>{confirmed ? '已从仓库读到任务回执。' : '任务草稿已生成，尚未入队。请在 GitHub 确认文件并提交到 main；如创建 PR，合并后才会入队。'}</p>
-          <code className="block break-all text-xs">data/ai-commands/pending/{draft.id}.json</code>
-          {!confirmed && <Button size="sm" asChild><a href={commandCommitUrl(draft)} target="_blank" rel="noreferrer">前往 GitHub 提交<ExternalLink className="size-3" /></a></Button>}
-        </div>}
-        <div className="flex items-center justify-between border-t pt-4">
-          <h3 className="text-sm font-medium">仓库任务队列 {snapshot ? `· ${snapshot.pendingTasks} 个批次待处理` : ''}</h3>
-          <Button size="sm" variant="ghost" disabled={loading} onClick={() => void refresh()}><RefreshCw className={`size-3 ${loading ? 'animate-spin' : ''}`} />刷新</Button>
-        </div>
-        {error && <p className="text-sm text-destructive" role="alert">{error}</p>}
-        {!snapshot && !error && <p className="text-sm text-muted-foreground">正在读取队列…</p>}
-        {snapshot?.items.length === 0 && <p className="text-sm text-muted-foreground">暂无已提交任务。生成草稿后，完成 GitHub 提交即可开始排队。</p>}
-        <div className="max-h-96 space-y-2 overflow-y-auto" aria-live="polite">
-          {snapshot?.items.map((r) => <div key={r.id} className="space-y-1 rounded-md border p-3 text-xs">
-            <div className="flex flex-wrap justify-between gap-2"><span className="font-medium">{LABELS[r.status] || r.status}</span><code>{r.id}</code></div>
-            <p className="break-words">{r.instruction}</p>
-            <p className="text-muted-foreground">本次 {r.total} 篇 · 完成 {r.completed} · 待分析 {r.pending} · 失败 / 过期 {r.failed}</p>
-            <p className="text-muted-foreground">入队时：缺正文 {r.blocked} · 已在其他任务 {r.alreadyQueued} · 超出本次数量 {r.remaining || 0}</p>
-            {r.reason && <p className="text-destructive">{r.reason}</p>}
-          </div>)}
+
+        <div className="space-y-2">
+          <div className="flex flex-wrap items-center justify-between gap-2">
+            <div>
+              <h3 className="text-sm font-medium">Codex 分析指令</h3>
+              <p className="text-xs text-muted-foreground">复制后交给当前 Codex 会话执行。</p>
+            </div>
+            <Button size="sm" onClick={() => void copyPrompt()} aria-label="复制 Codex 分析指令">
+              {copyState === 'copied' ? <Check className="size-3" aria-hidden="true" /> : <Clipboard className="size-3" aria-hidden="true" />}
+              {copyState === 'copied' ? '已复制' : '复制指令'}
+            </Button>
+          </div>
+          <div className="max-h-[32rem] overflow-y-auto rounded-md border bg-muted/30 p-4">
+            <pre className="whitespace-pre-wrap break-words font-mono text-xs leading-6">{ANALYSIS_PROMPT}</pre>
+          </div>
+          {copyState === 'error' && <p className="text-xs text-destructive" role="alert">复制失败，请手动选择并复制指令。</p>}
         </div>
       </CardContent>
     </Card>
