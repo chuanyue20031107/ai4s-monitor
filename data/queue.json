@@ -1,43 +1,9 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-22T09:01:34.785Z",
-  "pendingCount": 3,
-  "readyCount": 3,
+  "updatedAt": "2026-09-22T09:50:42.492Z",
+  "pendingCount": 0,
+  "readyCount": 0,
   "awaitingContentCount": 0,
   "excludedContentCount": 118,
-  "items": [
-    {
-      "id": "a733a7b6fc343a038f5437193a4d5ed7",
-      "title": "Meet AIChE Member Shannon Servoss",
-      "url": "https://www.aiche.org/meet-aiche-member-shannon-servoss",
-      "publishedAt": "2026-09-18T15:03:09.000Z",
-      "crawledAt": "2026-09-22T08:36:36.113Z",
-      "contentStatus": "ready",
-      "contentHash": "cf08bcf70afd89ade23cb67999ded46c072ec86a0e081b4caca9c2cdf314fed7",
-      "rawPath": "data/raw/a733a7b6fc343a038f5437193a4d5ed7.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "63e7342079ef55bbe8b19e82eef6f9cc",
-      "title": "Introducing Some of AIChE’s Recently Elected Fellows",
-      "url": "https://www.aiche.org/introducing-some-aiches-recently-elected-fellows-2",
-      "publishedAt": "2026-09-17T16:03:10.000Z",
-      "crawledAt": "2026-09-22T08:36:36.113Z",
-      "contentStatus": "ready",
-      "contentHash": "0d69c57c9fe81896957f0350a8c9552cdcd1d6a32344923ff175e466c69d7ad3",
-      "rawPath": "data/raw/63e7342079ef55bbe8b19e82eef6f9cc.json",
-      "lastAnalysisStatus": "pending"
-    },
-    {
-      "id": "0d1dd08cac50ffddbe6acc975e89edef",
-      "title": "CCPS Glossary",
-      "url": "https://www.aiche.org/redirect/ccps-glossary",
-      "publishedAt": "2018-01-31T22:17:49.000Z",
-      "crawledAt": "2026-09-22T08:36:36.112Z",
-      "contentStatus": "ready",
-      "contentHash": "78b4015d4499ca88d884b959d9bef2c6dec021a8afa6c0142b57788a4a184805",
-      "rawPath": "data/raw/0d1dd08cac50ffddbe6acc975e89edef.json",
-      "lastAnalysisStatus": "pending"
-    }
-  ]
+  "items": []
 }

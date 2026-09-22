@@ -1,16 +1,28 @@
 {
   "items": [
     {
+      "id": "analysis:20260922T094221Z-aiche-discarded.json",
+      "taskType": "AI 分析",
+      "status": "success",
+      "processed": 3,
+      "succeeded": 0,
+      "failed": 0,
+      "detail": "ChatGPT 提交，结构及来源摘录校验通过；不等于自动核实全部语义",
+      "failureReason": "",
+      "startedAt": "2026-09-22T09:42:21.618Z",
+      "finishedAt": "2026-09-22T09:42:21.618Z"
+    },
+    {
       "id": "digest:2026-09-22",
       "taskType": "每日摘要生成",
       "status": "success",
-      "processed": 3,
-      "succeeded": 3,
+      "processed": 0,
+      "succeeded": 0,
       "failed": 0,
       "detail": "ChatGPT 日报 2026-09-22；未处理 3",
       "failureReason": "",
-      "startedAt": "2026-09-22T08:55:55.944Z",
-      "finishedAt": "2026-09-22T08:55:55.944Z"
+      "startedAt": "2026-09-22T09:17:17.747Z",
+      "finishedAt": "2026-09-22T09:17:17.747Z"
     },
     {
       "id": "source-command:7c5fa838-cdb3-4627-b355-926bb326fbcd",
@@ -1163,5 +1175,5 @@
       "finishedAt": "2026-09-16T05:12:19.802Z"
     }
   ],
-  "updatedAt": "2026-09-22T09:01:34.785Z"
+  "updatedAt": "2026-09-22T09:50:42.492Z"
 }

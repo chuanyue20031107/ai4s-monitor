@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T09:01:34.785Z",
+  "updatedAt": "2026-09-22T09:50:42.492Z",
   "items": [
     {
       "file": "2026-09-16T07-50-52Z-first-verified-batch.json",
@@ -205,6 +205,21 @@
       "file": "20260922T085555Z-daily-digest-9f2c.json",
       "status": "accepted",
       "analyses": 0
+    },
+    {
+      "file": "20260922T091329Z-daily-digest-high-score-merge.json",
+      "status": "accepted",
+      "analyses": 0
+    },
+    {
+      "file": "20260922T091717Z-daily-digest-score-ge4.json",
+      "status": "accepted",
+      "analyses": 0
+    },
+    {
+      "file": "20260922T094221Z-aiche-discarded.json",
+      "status": "accepted",
+      "analyses": 3
     }
   ]
 }
