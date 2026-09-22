@@ -22,9 +22,11 @@ GitHub Actions 负责定时采集、校验和发布；Codex 工作区负责读�
 1. 读取当前工作区的 `AGENTS.md`、本协议、`data/queue.json`、近期 inbox 批次和每条 `data/raw/<id>.json`，不要凭上一轮对话猜测数据。
 2. 动态扫描所有 ready 且尚未完成的记录。数量以本次扫描为准，不使用固定 ID，不创建任务队列，不等待外部 worker。
 3. 核对每条记录的 `contentHash`、正文状态和已有分析，避免重复处理。哈希变化时重新读取当前正文。
-4. 判断 AI4S 相关性。行政通知和导航页标记 `discarded`；正文不足或证据不足只能 `failed` 或保留 `pending`，不能补造 `done`。
-5. 摘要、分类、评分、理由、contentType、moatTags、证据、限制和时间必须来自当前原文。证据摘录须逐字存在于 `raw.content`。
-6. 校验所有 ID、哈希、字段、证据和状态后，把结果写入新的 `data/inbox/*.json` 文件，并保留可恢复 checkpoint。重新读取结果确认页面数据可发布，再报告实际处理数量和失败项。
+4. 判断 AI4S 相关性。行政通知、导航页或目录页才可标记 `discarded`；正文不足、证据不足或无法可靠判断时标记 `failed` 并填写具体 `failureReason`，或留在本地 checkpoint 的 `pending`。`pending` 不得写入 inbox，`done` 不得用于凑数清零。
+5. 摘要、分类、评分、理由、contentType、moatTags、证据、限制和时间必须来自当前原文。证据摘录须逐字存在于对应 `raw.content`。
+6. 允许值必须严格遵守 pipeline：`category` 只能是 `模型`、`数据`、`AI4S 应用`、`自动化实验室`、`产业与商业`、`其他`；`contentType` 只能是 `company_claim`、`paper_result`、`media_report`；`moatTags` 只能是 `数据`、`模型`、`实验自动化`、`药物设计`、`材料发现`、`商业合作`、`人才`。
+7. 每条结果先写本地临时目录和 checkpoint。提交前逐条复核 ID、`contentHash`、正文可用性、状态、时间、字段长度、允许值、证据 URL、quote 长度以及 `raw.content.includes(quote)`，然后运行 `node scripts/pipeline.mjs`；必要时运行 `node --test tests/pipeline.test.mjs`。出现任何 rejected 或校验错误，必须修正并重新运行，禁止提交未通过的批次。
+8. 所有当前目标都通过本地校验后，才一次性生成全部 `data/inbox/*.json` 并在一个 Git commit 中提交；随后重新读取 `data/receipts.json`、`data/queue.json`、`client/public/data/analysis-status.json` 和 Pages 数据。只有对应 receipt 为 `accepted` 且实时 `pending=0` 才能报告完成。
 
 ## 批次格式
 
@@ -53,7 +55,7 @@ GitHub Actions 负责定时采集、校验和发布；Codex 工作区负责读�
 }
 ```
 
-`generator` 保留旧值以兼容历史批次；来源主体是当前 Codex 工作区。每批最多 50 条，每条 ID 不重复。`done` 必须有 ready 正文、有效摘要、评分、分类和 1–5 个证据片段；`discarded`/`failed` 只需说明原因。
+`generator` 保留旧值以兼容历史批次；来源主体是当前 Codex 工作区。每批最多 50 条，每条 ID 不重复。`done` 必须有 ready 正文、有效摘要、评分、允许分类/类型/标签和 1–5 个证据片段；`discarded`/`failed` 只需说明原因，且不得伪装成 `done`。
 
 ## 日报
 
@@ -61,4 +63,4 @@ GitHub Actions 负责定时采集、校验和发布；Codex 工作区负责读�
 
 ## 验证
 
-`npm run crawl` 只采集；`node scripts/pipeline.mjs` 只校验并导出，不请求模型或分析接口；`node --test tests/pipeline.test.mjs` 是无网络回归测试；`npm run typecheck` 和 `npm run build` 由 CI 验证。
+`npm run crawl` 只采集；`node scripts/pipeline.mjs` 只校验并导出，不请求模型或分析接口；`node --test tests/pipeline.test.mjs` 是无网络回归测试；`npm run typecheck` 和 `npm run build` 由 CI 验证。Actions 的 `success` 或 commit 成功不等于批次 accepted；必须以 `data/receipts.json`、实时 queue 和 Pages 数据为准。
