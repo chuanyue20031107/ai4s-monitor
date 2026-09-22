@@ -44,7 +44,9 @@ export async function sourceEntries(page, get, { maxSitemaps = 4 } = {}) {
     const entries = extractEntries(page.html, page.finalUrl);
     let sourceKey = '';
     try { sourceKey = new URL(page.finalUrl).searchParams.get('source') || ''; } catch { /* keep all entries */ }
-    return sourceKey ? entries.filter(entry => entry.title.startsWith(`[${sourceKey}]`)) : entries;
+    if (!sourceKey) return entries;
+    const filtered = entries.filter(entry => entry.title.startsWith(`[${sourceKey}]`));
+    return filtered.length ? filtered : entries;
   }
   const queue = [page], seenMaps = new Set([page.finalUrl]), seen = new Set(), entries = [];
   let loaded = 1, lastError;
