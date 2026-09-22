@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T08:55:56.057Z",
+  "updatedAt": "2026-09-22T09:01:34.785Z",
   "items": [
     {
       "file": "2026-09-16T07-50-52Z-first-verified-batch.json",
@@ -200,6 +200,11 @@
       "file": "20260922T081330Z-full-dynamic-retry.json",
       "status": "accepted",
       "analyses": 36
+    },
+    {
+      "file": "20260922T085555Z-daily-digest-9f2c.json",
+      "status": "accepted",
+      "analyses": 0
     }
   ]
 }
