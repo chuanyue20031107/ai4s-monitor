@@ -9,10 +9,13 @@ import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
  */
 export const ANALYSIS_PROMPT = [
   '读取 `chuanyue20031107/ai4s-monitor` 的最新 `main` 分支数据，动态收集当前所有未分析情报，不使用任何固定数量。',
-  '你负责实际分析：逐条读取 `data/raw/<id>.json`，核对当前 `contentHash`，然后生成符合 `docs/chatgpt-analysis.md` 的真实中文分析。每条必须包含摘要、分类、评分及理由、`contentType`、`moatTags`、逐字证据、限制和 `analyzedAt`；证据必须来自当前原文。无关页面才标记 `discarded`，证据不足只能保留 `failed` 或 `pending`，不能伪造 `done`。',
-  '在本地工作区持续循环处理全部记录，把每条结果先保存到本地临时目录和 checkpoint。不要在分析未全部完成前写入 GitHub，不要把 GitHub Actions 入队当作分析完成。每次循环重新读取队列和 raw，处理执行期间新增的待分析记录，直到完整扫描确认实时 `pending=0`。',
-  '全部分析完成后统一校验所有 ID、`contentHash`、字段、证据和状态。校验通过后，再一次性生成全部 `data/inbox/*.json` 文件，并在一个 Git commit 中提交到仓库；允许拆成多个文件，但不能产生中间提交。随后等待 publisher，检查 `data/receipts.json`、Actions 部署和 Pages 实际数据。',
-  '只有当实时 pending 为 0、所有目标均为有效 `done`、缺正文/失败为 0、Pages 部署成功并且线上文章显示为“AI已分析”时，才报告完成。报告实际动态数量、done/discarded/failed、剩余 ID、最终 commit、Actions 和 Pages 链接。不要提前结束，也不要把入队、部分分析或提交成功说成完成。',
+  '你负责实际分析：逐条读取 `data/raw/<id>.json`，核对当前 `contentHash`，然后生成符合 `docs/chatgpt-analysis.md` 的真实中文分析。每条必须包含摘要、分类、评分及理由、`contentType`、`moatTags`、逐字证据、限制和 `analyzedAt`；证据必须来自当前原文，且每个 quote 必须逐字包含在对应 raw 的 `content` 中。',
+  '严格使用仓库允许值：`category` 只能是 `模型`、`数据`、`AI4S 应用`、`自动化实验室`、`产业与商业`、`其他`；`contentType` 只能是 `company_claim`、`paper_result`、`media_report`；`moatTags` 只能是 `数据`、`模型`、`实验自动化`、`药物设计`、`材料发现`、`商业合作`、`人才`。不要创造“科研进展”“材料与化学”等自定义分类。',
+  '状态必须严格区分：与 AI4S 无关且正文确实是行政通知、导航页或目录页才用 `discarded`；正文不足、证据不足或无法可靠判断才用 `failed` 并填写具体 `failureReason`；`pending` 只表示暂不提交、继续留在本地 checkpoint，不能作为已完成结果写进 inbox；只有所有字段和证据都通过校验才可用 `done`，绝不为了清零伪造 done。',
+  '在本地工作区持续循环处理全部记录，把每条结果先保存到本地临时目录和 checkpoint。每轮重新读取 `data/queue.json`、所有目标 `data/raw/<id>.json` 和新增记录，直到完整扫描确认实时 `pending=0`。不要在分析未全部完成前写入 GitHub，不要创建任务队列、worker、Actions 入队或额外 API 请求。',
+  '提交前必须做本地预检：逐条复核 ID、`contentHash`、正文长度、状态、时间、允许分类/类型/标签、摘要长度、理由、证据 URL、quote 长度及 `raw.content.includes(quote)`；然后运行 `node scripts/pipeline.mjs`（必要时先运行 `node --test tests/pipeline.test.mjs`）。只要有一条 rejected 或校验错误，就继续修正并重新运行，禁止提交该批次。',
+  '全部目标均通过本地校验后，再一次性生成全部 `data/inbox/*.json` 文件，并在一个 Git commit 中提交到仓库；允许拆成多个文件，但不能产生中间提交。随后等待 publisher，重新读取 `data/receipts.json`、`data/queue.json`、`client/public/data/analysis-status.json`、Actions 部署和 Pages 实际数据；只有 receipts 对应批次为 `accepted` 且线上数据更新才算发布成功。',
+  '只有当实时 `pending=0`、所有目标均为有效 `done` 或有明确依据的 `discarded`、缺正文/失败为 0、批次 accepted、Pages 部署成功并且线上文章显示为“AI已分析”时，才报告完成。报告实际动态数量、done/discarded/failed、剩余 ID、每个 rejected 原因、最终 commit、Actions 和 Pages 链接。不要提前结束，也不要把入队、部分分析、Actions success 或 commit 成功说成完成。',
 ].join('\n\n');
 
 const STEPS = [
