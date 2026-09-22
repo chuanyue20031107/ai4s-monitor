@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T09:50:42.492Z",
+  "updatedAt": "2026-09-22T10:20:49.080Z",
   "items": [
     {
       "file": "2026-09-16T07-50-52Z-first-verified-batch.json",
@@ -220,6 +220,12 @@
       "file": "20260922T094221Z-aiche-discarded.json",
       "status": "accepted",
       "analyses": 3
+    },
+    {
+      "file": "20260922T101853Z-daily-digest-dashboard-rule.json",
+      "status": "accepted",
+      "analyses": 0,
+      "digestError": "digest_missing_source_links"
     }
   ]
 }
