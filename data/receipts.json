@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T11:22:32.470Z",
+  "updatedAt": "2026-09-22T11:33:38.817Z",
   "items": [
     {
       "file": "2026-09-16T07-50-52Z-first-verified-batch.json",
@@ -243,6 +243,12 @@
       "status": "accepted",
       "analyses": 0,
       "digestError": "article_outside_digest_window"
+    },
+    {
+      "file": "20260922T113105Z-daily-digest-writeback.json",
+      "status": "accepted",
+      "analyses": 0,
+      "digestError": "digest_must_cover_local_calendar_day"
     }
   ]
 }
