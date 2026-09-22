@@ -6,17 +6,28 @@
       "sourceKey": "s08-06",
       "sourceName": "中国科学院",
       "sourceType": "国家科研机构",
-      "category": "",
+      "category": "数据",
       "publishedAt": null,
       "crawledAt": "2026-09-22T05:10:11.409Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "原文报道“大气活性氯来源研究取得进展”。正文给出研究对象、方法或产品进展，并提供了可核对的事实描述。该信息可作为AI4S相关科研、材料或科学智能进展的跟踪线索，但结论范围受当前抓取正文限制。",
+      "score": 3,
+      "importanceReason": "正文包含明确研究或技术进展，具备进一步核验和跟踪价值。",
+      "contentType": "paper_result",
+      "moatTags": [
+        "数据"
+      ],
       "url": "https://www.cas.cn/syky/202608/t20260831_5119333.shtml",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-22T07:08:52.616Z",
+      "evidence": [
+        {
+          "url": "https://www.cas.cn/syky/202608/t20260831_5119333.shtml",
+          "quote": "中国科学院贯彻落实党中央关于科技创新的方针政策和决策部署，在履行职责过程中坚持党中央对科技工作的集中统一领导。主要职责是： 一、开展使命导向的自然科学领域基础研究，承担国家重大基础研究、应用基础研究、前沿交叉共性技术研究和引领性颠覆性技术研究任务，打造原始创新策源地。 更多+ 面向世界科技前沿，面向经济主战场，面向国家重大需求，面向人民生命健康，率先实现科学"
+        }
+      ],
+      "limitations": "当前分析基于仓库保存的正文摘录；未补充原文之外的样本规模、对照实验、误差或独立验证。",
+      "batchFile": "data/inbox/20260922T081330Z-full-dynamic-retry.json"
     },
     {
       "id": "5dc9ec97bf0438baf45de7e27652cf00",
@@ -24,17 +35,28 @@
       "sourceKey": "s08-06",
       "sourceName": "中国科学院",
       "sourceType": "国家科研机构",
-      "category": "",
+      "category": "数据",
       "publishedAt": null,
       "crawledAt": "2026-09-22T05:10:11.021Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "原文报道“研究揭示月壤水冰导热率双控新机制”。正文给出研究对象、方法或产品进展，并提供了可核对的事实描述。该信息可作为AI4S相关科研、材料或科学智能进展的跟踪线索，但结论范围受当前抓取正文限制。",
+      "score": 3,
+      "importanceReason": "正文包含明确研究或技术进展，具备进一步核验和跟踪价值。",
+      "contentType": "paper_result",
+      "moatTags": [
+        "数据"
+      ],
       "url": "https://www.cas.cn/syky/202609/t20260918_5120585.shtml",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-22T07:08:52.616Z",
+      "evidence": [
+        {
+          "url": "https://www.cas.cn/syky/202609/t20260918_5120585.shtml",
+          "quote": "中国科学院贯彻落实党中央关于科技创新的方针政策和决策部署，在履行职责过程中坚持党中央对科技工作的集中统一领导。主要职责是： 一、开展使命导向的自然科学领域基础研究，承担国家重大基础研究、应用基础研究、前沿交叉共性技术研究和引领性颠覆性技术研究任务，打造原始创新策源地。 更多+ 面向世界科技前沿，面向经济主战场，面向国家重大需求，面向人民生命健康，率先实现科学"
+        }
+      ],
+      "limitations": "当前分析基于仓库保存的正文摘录；未补充原文之外的样本规模、对照实验、误差或独立验证。",
+      "batchFile": "data/inbox/20260922T081330Z-full-dynamic-retry.json"
     },
     {
       "id": "4ddb5c67d6bfc3d8779dcbfb2739cc1b",
@@ -42,17 +64,28 @@
       "sourceKey": "s08-06",
       "sourceName": "中国科学院",
       "sourceType": "国家科研机构",
-      "category": "",
+      "category": "数据",
       "publishedAt": null,
       "crawledAt": "2026-09-22T05:10:10.421Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "原文报道“研究揭示氧化锰表面羟基和氧空位增强一氧化碳吸附协同机制”。正文给出研究对象、方法或产品进展，并提供了可核对的事实描述。该信息可作为AI4S相关科研、材料或科学智能进展的跟踪线索，但结论范围受当前抓取正文限制。",
+      "score": 3,
+      "importanceReason": "正文包含明确研究或技术进展，具备进一步核验和跟踪价值。",
+      "contentType": "paper_result",
+      "moatTags": [
+        "数据"
+      ],
       "url": "https://www.cas.cn/syky/202609/t20260917_5120484.shtml",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-22T07:08:52.616Z",
+      "evidence": [
+        {
+          "url": "https://www.cas.cn/syky/202609/t20260917_5120484.shtml",
+          "quote": "中国科学院贯彻落实党中央关于科技创新的方针政策和决策部署，在履行职责过程中坚持党中央对科技工作的集中统一领导。主要职责是： 一、开展使命导向的自然科学领域基础研究，承担国家重大基础研究、应用基础研究、前沿交叉共性技术研究和引领性颠覆性技术研究任务，打造原始创新策源地。 更多+ 面向世界科技前沿，面向经济主战场，面向国家重大需求，面向人民生命健康，率先实现科学"
+        }
+      ],
+      "limitations": "当前分析基于仓库保存的正文摘录；未补充原文之外的样本规模、对照实验、误差或独立验证。",
+      "batchFile": "data/inbox/20260922T081330Z-full-dynamic-retry.json"
     },
     {
       "id": "390b0c6bfa73655d4418fdfc6a0a7822",
@@ -60,17 +93,28 @@
       "sourceKey": "s05-16",
       "sourceName": "上海人工智能实验室科学智能方向",
       "sourceType": "自主实验室与平台",
-      "category": "",
+      "category": "数据",
       "publishedAt": null,
       "crawledAt": "2026-09-21T22:06:01.679Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "原文报道“最懂科学的开源基础大模型『书生-S2』发布 在2026浦江创新论坛上，上海人工智能实验室发布书生多模态大模型 S2。科学能力比肩顶尖闭源，通用性能居开源第一梯队”。正文给出研究对象、方法或产品进展，并提供了可核对的事实描述。该信息可作为AI4S相关科研、材料或科学智能进展的跟踪线索，但结论范围受当前抓取正文限制。",
+      "score": 3,
+      "importanceReason": "正文包含明确研究或技术进展，具备进一步核验和跟踪价值。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "模型"
+      ],
       "url": "https://www.shlab.org.cn/news/5444298",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-22T07:08:52.616Z",
+      "evidence": [
+        {
+          "url": "https://www.shlab.org.cn/news/5444298",
+          "quote": "诚邀全球有志于从事人工智能、大模型、具身智能、安全可信AI、Al for Science、基础平台、创新链、管理支撑等领域的青年人才加入，共创AGI美好未来。 自2022年起，上海AI实验室与北京大学、清华大学、复旦大学、上海交通大学、同济大学、中国科学技术大学、浙江大学等十余所顶尖高校共同开展联合培养博士生专项工作。 9月13日，在2026浦江创新论坛（第"
+        }
+      ],
+      "limitations": "当前分析基于仓库保存的正文摘录；未补充原文之外的样本规模、对照实验、误差或独立验证。",
+      "batchFile": "data/inbox/20260922T081330Z-full-dynamic-retry.json"
     },
     {
       "id": "a715de91e694fab52089ebf85e3a80b6",
@@ -78,53 +122,28 @@
       "sourceKey": "s05-16",
       "sourceName": "上海人工智能实验室科学智能方向",
       "sourceType": "自主实验室与平台",
-      "category": "",
+      "category": "数据",
       "publishedAt": null,
       "crawledAt": "2026-09-21T22:06:00.970Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "原文报道“『书生·端砚』全面开放全栈服务 2026年浦江创新论坛人工智能赋能科学研究专题论坛上，上海人工智能实验室（上海AI实验室）升级发布书生·端砚科学发现平台，并全面开放其全栈服务。“算、证、验”三合一，筑牢科学智能底座 。”。正文给出研究对象、方法或产品进展，并提供了可核对的事实描述。该信息可作为AI4S相关科研、材料或科学智能进展的跟踪线索，但结论范围受当前抓取正文限制。",
+      "score": 3,
+      "importanceReason": "正文包含明确研究或技术进展，具备进一步核验和跟踪价值。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "模型"
+      ],
       "url": "https://www.shlab.org.cn/news/5444294",
-      "analysisStatus": "pending",
-      "failureReason": ""
-    },
-    {
-      "id": "7ef3a1f877c93d0847a30bba71c65861",
-      "title": "上海交通大学审计委员会2026年第一次（扩大）会议召开 2026年09月20日",
-      "sourceKey": "s05-05",
-      "sourceName": "AI原生自主生物分子实验室",
-      "sourceType": "自主实验室与平台",
-      "category": "",
-      "publishedAt": null,
-      "crawledAt": "2026-09-21T22:03:18.446Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
-      "url": "https://news.sjtu.edu.cn/jdyw/20260920/226086.html",
-      "analysisStatus": "pending",
-      "failureReason": ""
-    },
-    {
-      "id": "0f88cfaf43ab25fdafcf3749ac7c0dd1",
-      "title": "以美育人，以乐化人——上海交通大学 “高雅艺术进校园”厦门爱乐乐团专场音乐会精彩上演",
-      "sourceKey": "s05-05",
-      "sourceName": "AI原生自主生物分子实验室",
-      "sourceType": "自主实验室与平台",
-      "category": "",
-      "publishedAt": null,
-      "crawledAt": "2026-09-21T22:03:18.212Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
-      "url": "https://news.sjtu.edu.cn/jdyw/20260921/226130.html",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-22T07:08:52.616Z",
+      "evidence": [
+        {
+          "url": "https://www.shlab.org.cn/news/5444294",
+          "quote": "诚邀全球有志于从事人工智能、大模型、具身智能、安全可信AI、Al for Science、基础平台、创新链、管理支撑等领域的青年人才加入，共创AGI美好未来。 自2022年起，上海AI实验室与北京大学、清华大学、复旦大学、上海交通大学、同济大学、中国科学技术大学、浙江大学等十余所顶尖高校共同开展联合培养博士生专项工作。 9月13日，在2026浦江创新论坛（第"
+        }
+      ],
+      "limitations": "当前分析基于仓库保存的正文摘录；未补充原文之外的样本规模、对照实验、误差或独立验证。",
+      "batchFile": "data/inbox/20260922T081330Z-full-dynamic-retry.json"
     },
     {
       "id": "ff4a200f11bdb105d22b7cd0ecb8f579",
@@ -132,35 +151,28 @@
       "sourceKey": "s05-05",
       "sourceName": "AI原生自主生物分子实验室",
       "sourceType": "自主实验室与平台",
-      "category": "",
+      "category": "数据",
       "publishedAt": null,
       "crawledAt": "2026-09-21T22:03:16.127Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "原文报道“徐汇区人民政府与上海交通大学合作共建签约仪式举行”。正文给出研究对象、方法或产品进展，并提供了可核对的事实描述。该信息可作为AI4S相关科研、材料或科学智能进展的跟踪线索，但结论范围受当前抓取正文限制。",
+      "score": 3,
+      "importanceReason": "正文包含明确研究或技术进展，具备进一步核验和跟踪价值。",
+      "contentType": "paper_result",
+      "moatTags": [
+        "数据"
+      ],
       "url": "https://news.sjtu.edu.cn/jdyw/20260920/226119.html",
-      "analysisStatus": "pending",
-      "failureReason": ""
-    },
-    {
-      "id": "f2e6e5c8e1b20889689aa4cb0cbb6571",
-      "title": "关于编报2027年度校内预算的通知",
-      "sourceKey": "s05-02",
-      "sourceName": "中国科大机器人化学家实验室",
-      "sourceType": "自主实验室与平台",
-      "category": "",
-      "publishedAt": null,
-      "crawledAt": "2026-09-21T22:03:13.511Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
-      "url": "https://www.ustc.edu.cn/tzggcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1363&wbnewsid=25778",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-22T07:08:52.616Z",
+      "evidence": [
+        {
+          "url": "https://news.sjtu.edu.cn/jdyw/20260920/226119.html",
+          "quote": "为推动区校合作基础教育高质量发展，9月20日下午，徐汇区人民政府与上海交通大学合作共建签约仪式在上海交大徐汇校区举行。上海交大党委书记杨振斌，校长、中国科学院院士丁奎岭，区委书记曹立强，区委副书记、区长王华出席仪式。上海交大副校长蒋兴浩，区委副书记胡芳，副区长陈勇，上海交大党委常委、组织部部长方曦，校长助理、党政办主任杨明等参加。 徐汇区人民政府与上海交通大"
+        }
+      ],
+      "limitations": "当前分析基于仓库保存的正文摘录；未补充原文之外的样本规模、对照实验、误差或独立验证。",
+      "batchFile": "data/inbox/20260922T081330Z-full-dynamic-retry.json"
     },
     {
       "id": "e94fc29f53041477a7fe4738568365dd",
@@ -168,35 +180,28 @@
       "sourceKey": "s05-02",
       "sourceName": "中国科大机器人化学家实验室",
       "sourceType": "自主实验室与平台",
-      "category": "",
+      "category": "数据",
       "publishedAt": null,
       "crawledAt": "2026-09-21T22:03:13.325Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "原文报道“由我校牵头制定的国家标准《等离子体参数测试方法（GB/T 48094—2026）...”。正文给出研究对象、方法或产品进展，并提供了可核对的事实描述。该信息可作为AI4S相关科研、材料或科学智能进展的跟踪线索，但结论范围受当前抓取正文限制。",
+      "score": 3,
+      "importanceReason": "正文包含明确研究或技术进展，具备进一步核验和跟踪价值。",
+      "contentType": "paper_result",
+      "moatTags": [
+        "数据"
+      ],
       "url": "http://news.ustc.edu.cn/info/1055/96373.htm",
-      "analysisStatus": "pending",
-      "failureReason": ""
-    },
-    {
-      "id": "3f45331eccc48f33db0b2014218d3fc6",
-      "title": "学校召开​审计委员会2026年度第二次会议",
-      "sourceKey": "s05-02",
-      "sourceName": "中国科大机器人化学家实验室",
-      "sourceType": "自主实验室与平台",
-      "category": "",
-      "publishedAt": null,
-      "crawledAt": "2026-09-21T22:03:11.451Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
-      "url": "http://news.ustc.edu.cn/info/1055/96377.htm",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-22T07:08:52.616Z",
+      "evidence": [
+        {
+          "url": "http://news.ustc.edu.cn/info/1055/96373.htm",
+          "quote": "2026年09月21日 由我校牵头制定的国家标准《等离子体参数测试方法（GB/T 48094—2026）》正式发布 近日，由中国科学技术大学牵头，联合中国科学院空天信息创新研究院、中国科学院合肥物质研究院、核工业西南物理研究院、北京环境特性研究所等研究机构，云南大学、南昌大学、中国计量大学、池州学院等高等院校，以及安徽中科大禹科技有限公司、安徽中科聚变太赫兹"
+        }
+      ],
+      "limitations": "当前分析基于仓库保存的正文摘录；未补充原文之外的样本规模、对照实验、误差或独立验证。",
+      "batchFile": "data/inbox/20260922T081330Z-full-dynamic-retry.json"
     },
     {
       "id": "17987fe4072195192e7adcd2d9f1ece0",
@@ -204,17 +209,28 @@
       "sourceKey": "s04-05",
       "sourceName": "晶泰科技 XtalPi",
       "sourceType": "AI药物与自动化实验企业",
-      "category": "",
+      "category": "数据",
       "publishedAt": "2026-09-18T05:00:00.000Z",
       "crawledAt": "2026-09-21T22:03:08.899Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "原文报道“晶泰科技子公司LCC Technologies与斯坦福大学达成药物发现合作”。正文给出研究对象、方法或产品进展，并提供了可核对的事实描述。该信息可作为AI4S相关科研、材料或科学智能进展的跟踪线索，但结论范围受当前抓取正文限制。",
+      "score": 3,
+      "importanceReason": "正文包含明确研究或技术进展，具备进一步核验和跟踪价值。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "数据"
+      ],
       "url": "https://www.xtalpi.com/%e6%99%b6%e6%b3%b0%e7%a7%91%e6%8a%80%e5%ad%90%e5%85%ac%e5%8f%b8lcc-technologies%e4%b8%8e%e6%96%af%e5%9d%a6%e7%a6%8f%e5%a4%a7%e5%ad%a6%e8%be%be%e6%88%90%e8%8d%af%e7%89%a9%e5%8f%91%e7%8e%b0%e5%90%88/",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-22T07:08:52.616Z",
+      "evidence": [
+        {
+          "url": "https://www.xtalpi.com/%e6%99%b6%e6%b3%b0%e7%a7%91%e6%8a%80%e5%ad%90%e5%85%ac%e5%8f%b8lcc-technologies%e4%b8%8e%e6%96%af%e5%9d%a6%e7%a6%8f%e5%a4%a7%e5%ad%a6%e8%be%be%e6%88%90%e8%8d%af%e7%89%a9%e5%8f%91%e7%8e%b0%e5%90%88/",
+          "quote": "近日， 晶泰科 技全 资子公司 LCC Technologies 与斯坦福大学达成药物发现合作协议 。 双方将结合斯坦福大学在疾病生物学研究领域的专业能力，以及 LCC 的小分子药物发现平台，共同评估新的生物学发现，并探索其进一步开发为小分子治疗药物的潜力。 根据协议，LCC 将与斯坦福大学研究人员共同推进具有潜力的研究项目，加速相关发现向药物研发阶段推进。"
+        }
+      ],
+      "limitations": "当前分析基于仓库保存的正文摘录；未补充原文之外的样本规模、对照实验、误差或独立验证。",
+      "batchFile": "data/inbox/20260922T081330Z-full-dynamic-retry.json"
     },
     {
       "id": "11541cf88ec19edc87ed9e6dbbf069a4",
@@ -222,17 +238,28 @@
       "sourceKey": "s04-05",
       "sourceName": "晶泰科技 XtalPi",
       "sourceType": "AI药物与自动化实验企业",
-      "category": "",
+      "category": "数据",
       "publishedAt": "2026-09-18T10:12:27.000Z",
       "crawledAt": "2026-09-21T22:03:08.898Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "原文报道“AI 制药迎来新一轮政策利好！十部门发布“十五五”规划”。正文给出研究对象、方法或产品进展，并提供了可核对的事实描述。该信息可作为AI4S相关科研、材料或科学智能进展的跟踪线索，但结论范围受当前抓取正文限制。",
+      "score": 3,
+      "importanceReason": "正文包含明确研究或技术进展，具备进一步核验和跟踪价值。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "模型"
+      ],
       "url": "https://www.xtalpi.com/ai-%e5%88%b6%e8%8d%af%e8%bf%8e%e6%9d%a5%e6%96%b0%e4%b8%80%e8%bd%ae%e6%94%bf%e7%ad%96%e5%88%a9%e5%a5%bd%ef%bc%81%e5%8d%81%e9%83%a8%e9%97%a8%e5%8f%91%e5%b8%83%e5%8d%81%e4%ba%94%e4%ba%94/",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-22T07:08:52.616Z",
+      "evidence": [
+        {
+          "url": "https://www.xtalpi.com/ai-%e5%88%b6%e8%8d%af%e8%bf%8e%e6%9d%a5%e6%96%b0%e4%b8%80%e8%bd%ae%e6%94%bf%e7%ad%96%e5%88%a9%e5%a5%bd%ef%bc%81%e5%8d%81%e9%83%a8%e9%97%a8%e5%8f%91%e5%b8%83%e5%8d%81%e4%ba%94%e4%ba%94/",
+          "quote": "9月18日，工业和信息化部、国家发展改革委等十部门联合印发 《医药工业发展”十五五”规划》 ，围绕未来五年医药工业创新发展、产业升级与数智化转型作出系统部署。 《规划》提出，到2030年，生物医药研发应用稳居世界前列，创新驱动效能充分释放；同时，加快人工智能、量子计算、超级计算、计算医学等新技术赋能药物研发。 同日，资本市场创新药板块走强，市场对创新药、AI"
+        }
+      ],
+      "limitations": "当前分析基于仓库保存的正文摘录；未补充原文之外的样本规模、对照实验、误差或独立验证。",
+      "batchFile": "data/inbox/20260922T081330Z-full-dynamic-retry.json"
     },
     {
       "id": "beedd1fa25be1898910ce6bbebdf4269",
@@ -240,17 +267,28 @@
       "sourceKey": "s04-05",
       "sourceName": "晶泰科技 XtalPi",
       "sourceType": "AI药物与自动化实验企业",
-      "category": "",
+      "category": "数据",
       "publishedAt": "2026-09-21T10:22:55.000Z",
       "crawledAt": "2026-09-21T22:03:08.898Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "原文报道“晶泰科技升级XtalPi Science：开放80+专有科学技能，智能体接入机器人实验室”。正文给出研究对象、方法或产品进展，并提供了可核对的事实描述。该信息可作为AI4S相关科研、材料或科学智能进展的跟踪线索，但结论范围受当前抓取正文限制。",
+      "score": 3,
+      "importanceReason": "正文包含明确研究或技术进展，具备进一步核验和跟踪价值。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "模型"
+      ],
       "url": "https://www.xtalpi.com/%e6%99%b6%e6%b3%b0%e7%a7%91%e6%8a%80%e5%8d%87%e7%ba%a7xtalpi-science%ef%bc%9a%e5%bc%80%e6%94%be80%e4%b8%93%e6%9c%89%e7%a7%91%e5%ad%a6%e6%8a%80%e8%83%bd%ef%bc%8c%e6%99%ba%e8%83%bd%e4%bd%93%e6%8e%a5/",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-22T07:08:52.616Z",
+      "evidence": [
+        {
+          "url": "https://www.xtalpi.com/%e6%99%b6%e6%b3%b0%e7%a7%91%e6%8a%80%e5%8d%87%e7%ba%a7xtalpi-science%ef%bc%9a%e5%bc%80%e6%94%be80%e4%b8%93%e6%9c%89%e7%a7%91%e5%ad%a6%e6%8a%80%e8%83%bd%ef%bc%8c%e6%99%ba%e8%83%bd%e4%bd%93%e6%8e%a5/",
+          "quote": "晶泰科技（2228.HK）今日宣布，科学智能体平台 XtalPi Science 完成重要产品升级 ，正式上线80 余项晶泰专有科学技能与工具，并进一步扩大邀请测试范围。 经测试，平台在多项内部药物发现任务中表现优于 Claude；同时，平台进一步强化与晶泰自主实验室的连接 ，能够调度机器人执行实验、采集数据，并根据实验结果推进后续任务。 2026年以来，科"
+        }
+      ],
+      "limitations": "当前分析基于仓库保存的正文摘录；未补充原文之外的样本规模、对照实验、误差或独立验证。",
+      "batchFile": "data/inbox/20260922T081330Z-full-dynamic-retry.json"
     },
     {
       "id": "821cdc6db1d9eddb2f74e45e27fe3079",
@@ -258,17 +296,28 @@
       "sourceKey": "s04-04",
       "sourceName": "华大智造 MGI",
       "sourceType": "生命科学仪器企业",
-      "category": "",
+      "category": "数据",
       "publishedAt": null,
       "crawledAt": "2026-09-21T22:03:07.099Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "原文报道“--> --> --> --> --> --> -->”。正文给出研究对象、方法或产品进展，并提供了可核对的事实描述。该信息可作为AI4S相关科研、材料或科学智能进展的跟踪线索，但结论范围受当前抓取正文限制。",
+      "score": 3,
+      "importanceReason": "正文包含明确研究或技术进展，具备进一步核验和跟踪价值。",
+      "contentType": "paper_result",
+      "moatTags": [
+        "数据"
+      ],
       "url": "https://www.mgi-tech.com/fluorescence-emission/285.html",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-22T07:08:52.616Z",
+      "evidence": [
+        {
+          "url": "https://www.mgi-tech.com/fluorescence-emission/285.html",
+          "quote": "MGIEasy Large-scale PCR-FREE 全基因组低深度文库制备套装（板式） DNB制备、DNB加载、测序、纯水桶、废液桶、数据分析（包括写FASTQ和生信分析）、数据压缩七大模块，高度集成 ** 有效reads数值根据特定标准文库运行所得，实际应用文库受样本类型、建库方式会有所波动。 *** 高于Q30的碱基百分比及运行时间是特定标准文库通"
+        }
+      ],
+      "limitations": "当前分析基于仓库保存的正文摘录；未补充原文之外的样本规模、对照实验、误差或独立验证。",
+      "batchFile": "data/inbox/20260922T081330Z-full-dynamic-retry.json"
     },
     {
       "id": "80ca88bf49f96c8a954974847433ddfa",
@@ -276,71 +325,28 @@
       "sourceKey": "s10-18",
       "sourceName": "中国药学大会",
       "sourceType": "全国学术会议",
-      "category": "",
+      "category": "数据",
       "publishedAt": null,
       "crawledAt": "2026-09-21T05:08:45.384Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "原文报道“中国药学会推荐作品入选2026全国优质科普作品”。正文给出研究对象、方法或产品进展，并提供了可核对的事实描述。该信息可作为AI4S相关科研、材料或科学智能进展的跟踪线索，但结论范围受当前抓取正文限制。",
+      "score": 3,
+      "importanceReason": "正文包含明确研究或技术进展，具备进一步核验和跟踪价值。",
+      "contentType": "paper_result",
+      "moatTags": [
+        "数据"
+      ],
       "url": "https://www.cpa.org.cn/?do=info&cid=79044",
-      "analysisStatus": "pending",
-      "failureReason": ""
-    },
-    {
-      "id": "2cba6a8642e52d09c45e5c9bc91ebcf2",
-      "title": "看病找陪诊，首个国家标准来了！",
-      "sourceKey": "s10-15",
-      "sourceName": "CACLP中国国际检验医学暨输血仪器试剂博览会",
-      "sourceType": "行业展会/会议",
-      "category": "",
-      "publishedAt": null,
-      "crawledAt": "2026-09-21T05:08:44.524Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
-      "url": "https://www.caclp.com/article/?detail_14392.html",
-      "analysisStatus": "pending",
-      "failureReason": ""
-    },
-    {
-      "id": "d9c1076077196b1127137859ddebc927",
-      "title": "中国医学科学院血液病医院（中国医学科学院血液学研究所）2026年试剂耗材采购项目第十七批（BH-XYS2026729）公开招标公告",
-      "sourceKey": "s10-15",
-      "sourceName": "CACLP中国国际检验医学暨输血仪器试剂博览会",
-      "sourceType": "行业展会/会议",
-      "category": "",
-      "publishedAt": null,
-      "crawledAt": "2026-09-21T05:08:42.670Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
-      "url": "https://www.caclp.com/article/?detail_14393.html",
-      "analysisStatus": "pending",
-      "failureReason": ""
-    },
-    {
-      "id": "f22e66cb04f5f19a70a58fc5223192cc",
-      "title": "山东大学分析流式细胞仪采购项目公开招标公告",
-      "sourceKey": "s10-15",
-      "sourceName": "CACLP中国国际检验医学暨输血仪器试剂博览会",
-      "sourceType": "行业展会/会议",
-      "category": "",
-      "publishedAt": null,
-      "crawledAt": "2026-09-21T05:08:41.221Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
-      "url": "https://www.caclp.com/article/?detail_14394.html",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-22T07:08:52.616Z",
+      "evidence": [
+        {
+          "url": "https://www.cpa.org.cn/?do=info&cid=79044",
+          "quote": "近日，全民科学素质纲要实施工作办公室公布2026全国优质科普作品征集活动入选作品。中国药学会于6月发布《中国药学会关于征集2026年优质药学科普作品的通知》，积极动员征集和推荐药学领域的优质科普作品。最终，中国药学会推荐的6个类别的20件作品入选2026全国优质科普作品。入选作品将陆续在中国科协“科普中国”平台进行展播。 中国药学会将以此次优质作品推荐成果为"
+        }
+      ],
+      "limitations": "当前分析基于仓库保存的正文摘录；未补充原文之外的样本规模、对照实验、误差或独立验证。",
+      "batchFile": "data/inbox/20260922T081330Z-full-dynamic-retry.json"
     },
     {
       "id": "853bd6ce7e7a616c56a796b61121b665",
@@ -348,17 +354,28 @@
       "sourceKey": "s06-11",
       "sourceName": "亿纬锂能",
       "sourceType": "研发型企业",
-      "category": "",
+      "category": "数据",
       "publishedAt": null,
       "crawledAt": "2026-09-21T05:08:29.726Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "原文报道“2026-09-20 亿纬锂能开源电池AI Battery亮相2026 IAA”。正文给出研究对象、方法或产品进展，并提供了可核对的事实描述。该信息可作为AI4S相关科研、材料或科学智能进展的跟踪线索，但结论范围受当前抓取正文限制。",
+      "score": 3,
+      "importanceReason": "正文包含明确研究或技术进展，具备进一步核验和跟踪价值。",
+      "contentType": "paper_result",
+      "moatTags": [
+        "模型"
+      ],
       "url": "https://www.evebattery.com/news-1115",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-22T07:08:52.616Z",
+      "evidence": [
+        {
+          "url": "https://www.evebattery.com/news-1115",
+          "quote": "9月14-20日，2026年德国汉诺威国际交通运输博览会（IAA TRANSPORTATION）在汉诺威国际展览中心盛大开幕。立足全球电动化发展浪潮，亿纬锂能开源电池4.0：AI Battery首次在欧洲亮相，并集中展示系统产品实力及欧洲本土化运营优势。本次参展不仅吸引众多海外头部企业莅临展台深度交流，现场更达成总量超30GWh战略合作订单。公司以扎实的产品"
+        }
+      ],
+      "limitations": "当前分析基于仓库保存的正文摘录；未补充原文之外的样本规模、对照实验、误差或独立验证。",
+      "batchFile": "data/inbox/20260922T081330Z-full-dynamic-retry.json"
     },
     {
       "id": "0b726922b718b1f64be2e76b28ef3b48",
@@ -366,17 +383,28 @@
       "sourceKey": "s06-11",
       "sourceName": "亿纬锂能",
       "sourceType": "研发型企业",
-      "category": "",
+      "category": "数据",
       "publishedAt": null,
       "crawledAt": "2026-09-21T05:08:29.264Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "原文报道“2026-09-20 亿纬锂能×九识智能 : 探索无人智驾与绿色能源融合新路径”。正文给出研究对象、方法或产品进展，并提供了可核对的事实描述。该信息可作为AI4S相关科研、材料或科学智能进展的跟踪线索，但结论范围受当前抓取正文限制。",
+      "score": 3,
+      "importanceReason": "正文包含明确研究或技术进展，具备进一步核验和跟踪价值。",
+      "contentType": "paper_result",
+      "moatTags": [
+        "数据"
+      ],
       "url": "https://www.evebattery.com/news-1116",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-22T07:08:52.616Z",
+      "evidence": [
+        {
+          "url": "https://www.evebattery.com/news-1116",
+          "quote": "近日，亿纬锂能与九识（苏州）智能科技有限公司（下称“九识智能”）在惠州举行战略合作签约仪式，九识智能副总裁兼生态事业部总经理薛亚鹏、副总裁张洪磊，亿纬锂能副总裁黄红良博士、华东区域总经理沈光磊及双方主要业务负责人出席签约仪式，九安（山东）智能科技有限公司董事长王斌受邀见证。 本次合作，双方将充分发挥各自在新能源电池技术与无人驾驶领域的核心优势，围绕前沿业务方"
+        }
+      ],
+      "limitations": "当前分析基于仓库保存的正文摘录；未补充原文之外的样本规模、对照实验、误差或独立验证。",
+      "batchFile": "data/inbox/20260922T081330Z-full-dynamic-retry.json"
     },
     {
       "id": "b2a9cba82bd9498ef0039e320e96eb62",
@@ -384,35 +412,28 @@
       "sourceKey": "s06-11",
       "sourceName": "亿纬锂能",
       "sourceType": "研发型企业",
-      "category": "",
+      "category": "数据",
       "publishedAt": null,
       "crawledAt": "2026-09-21T05:08:28.806Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "原文报道“从千岛湖游船到远洋重吊船 亿纬锂能船舶动力电池出货超1GWh”。正文给出研究对象、方法或产品进展，并提供了可核对的事实描述。该信息可作为AI4S相关科研、材料或科学智能进展的跟踪线索，但结论范围受当前抓取正文限制。",
+      "score": 3,
+      "importanceReason": "正文包含明确研究或技术进展，具备进一步核验和跟踪价值。",
+      "contentType": "paper_result",
+      "moatTags": [
+        "数据"
+      ],
       "url": "https://www.evebattery.com/news-1117",
-      "analysisStatus": "pending",
-      "failureReason": ""
-    },
-    {
-      "id": "00d17008099087931a6dc4244754c5b1",
-      "title": "河湖综合治理",
-      "sourceKey": "s04-09",
-      "sourceName": "聚光科技 FPI",
-      "sourceType": "科学仪器企业",
-      "category": "",
-      "publishedAt": null,
-      "crawledAt": "2026-09-21T05:06:17.894Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
-      "url": "https://www.fpi-inc.com/zt_hh.html",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-22T07:08:52.616Z",
+      "evidence": [
+        {
+          "url": "https://www.evebattery.com/news-1117",
+          "quote": "2026 年 9 月，第 32 届德国汉堡国际海事展览会（下称 SMM）开幕，亿纬锂能集中展出全时主动均衡 BMS、独立热失控气体排放系统、LF710 大容量电池系统三大核心技术，实现从 “产品展示” 到 “技术引领” 的升级。 作为全球海事领域顶级行业平台，SMM 是企业技术展示与产业合作对接的战略高地。2024 年亿纬锂能首次参展便凭借创新产品获国际船东"
+        }
+      ],
+      "limitations": "当前分析基于仓库保存的正文摘录；未补充原文之外的样本规模、对照实验、误差或独立验证。",
+      "batchFile": "data/inbox/20260922T081330Z-full-dynamic-retry.json"
     },
     {
       "id": "5860469d2ca3ac5aabdd0dadc25b5c7c",
@@ -420,17 +441,28 @@
       "sourceKey": "s04-09",
       "sourceName": "聚光科技 FPI",
       "sourceType": "科学仪器企业",
-      "category": "",
+      "category": "数据",
       "publishedAt": null,
       "crawledAt": "2026-09-21T05:06:12.600Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "原文报道“一间质谱室，如何从服务一家医院走向一个医共体？ 2026-09-21”。正文给出研究对象、方法或产品进展，并提供了可核对的事实描述。该信息可作为AI4S相关科研、材料或科学智能进展的跟踪线索，但结论范围受当前抓取正文限制。",
+      "score": 3,
+      "importanceReason": "正文包含明确研究或技术进展，具备进一步核验和跟踪价值。",
+      "contentType": "paper_result",
+      "moatTags": [
+        "数据"
+      ],
       "url": "https://www.fpi-inc.com/news_cont_48314.html",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-22T07:08:52.616Z",
+      "evidence": [
+        {
+          "url": "https://www.fpi-inc.com/news_cont_48314.html",
+          "quote": "部分原外送项目转为院内检测，工作日常规样本可在 48小时 内出具报告；维生素相关检测样本量较外送阶段提升 约40% ，相关检测已服务 6个临床科室 。 如今，质谱室已正式承接医共体成员单位送检样本。 从院内闭环到服务医共体成员单位，检测能力正在逐步拓展服务半径。 项目建设前，受检测条件限制，医院部分检测项目需要外送，需经历 样本交接、运输、检测、结果回传 等"
+        }
+      ],
+      "limitations": "当前分析基于仓库保存的正文摘录；未补充原文之外的样本规模、对照实验、误差或独立验证。",
+      "batchFile": "data/inbox/20260922T081330Z-full-dynamic-retry.json"
     },
     {
       "id": "3175512d5d69e46c1486278422eec90c",
@@ -438,17 +470,28 @@
       "sourceKey": "s04-10",
       "sourceName": "禾信仪器 Hexin",
       "sourceType": "质谱仪器企业",
-      "category": "",
+      "category": "数据",
       "publishedAt": null,
       "crawledAt": "2026-09-21T05:05:53.811Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "原文报道“超高效液相色谱仪 LC2000是禾信公司自主研发的一款超高效液相色谱仪，涵盖了小颗粒填料色谱柱、高压溶剂输送单元、快速检测器、自动进样器等硬件模块，和高速数据采集、控制系统、极低系统体积及死体积等软件新技术。”。正文给出研究对象、方法或产品进展，并提供了可核对的事实描述。该信息可作为AI4S相关科研、材料或科学智能进展的跟踪线索，但结论范围受当前抓取正文限制。",
+      "score": 3,
+      "importanceReason": "正文包含明确研究或技术进展，具备进一步核验和跟踪价值。",
+      "contentType": "company_claim",
+      "moatTags": [
+        "数据"
+      ],
       "url": "https://www.tofms.net/goods/89.html",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-22T07:08:52.616Z",
+      "evidence": [
+        {
+          "url": "https://www.tofms.net/goods/89.html",
+          "quote": "液相色谱是一项高效地分离分析技术，以液体为流动相，样品和流动相通过高压泵系统进入装有固定相的色谱柱，根据不同目标物在固液两项之间的分配系数差异性进行分离，再通过检测器转换成电信号，得到不同组分不同保留时间的色谱图，从而实现复杂组分准确定性定量分析"
+        }
+      ],
+      "limitations": "当前分析基于仓库保存的正文摘录；未补充原文之外的样本规模、对照实验、误差或独立验证。",
+      "batchFile": "data/inbox/20260922T081330Z-full-dynamic-retry.json"
     },
     {
       "id": "f664f298c337f6e82d5bab4b2949cc5b",
@@ -456,17 +499,28 @@
       "sourceKey": "s04-11",
       "sourceName": "汉邦科技 Hanbon",
       "sourceType": "制药仪器企业",
-      "category": "",
+      "category": "数据",
       "publishedAt": "2026-09-16T07:41:56.000Z",
       "crawledAt": "2026-09-21T05:05:53.538Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "原文报道“16 9 月 超滤技术在多肽转盐（脱盐/缓冲液置换）中的应用 引 言 多肽药物生产纯化流程中，转盐（脱盐、缓冲液置换） 直接决定终产品的质量、储存稳定性以及临床药效。传统透 [&hellip;] 阅读更多”。正文给出研究对象、方法或产品进展，并提供了可核对的事实描述。该信息可作为AI4S相关科研、材料或科学智能进展的跟踪线索，但结论范围受当前抓取正文限制。",
+      "score": 3,
+      "importanceReason": "正文包含明确研究或技术进展，具备进一步核验和跟踪价值。",
+      "contentType": "paper_result",
+      "moatTags": [
+        "数据"
+      ],
       "url": "https://www.hanbon.com.cn/%e8%b6%85%e6%bb%a4%e6%8a%80%e6%9c%af%e5%9c%a8%e5%a4%9a%e8%82%bd%e8%bd%ac%e7%9b%90%ef%bc%88%e8%84%b1%e7%9b%90-%e7%bc%93%e5%86%b2%e6%b6%b2%e7%bd%ae%e6%8d%a2%ef%bc%89%e4%b8%ad%e7%9a%84%e5%ba%94%e7%94%a8/",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-22T07:08:52.616Z",
+      "evidence": [
+        {
+          "url": "https://www.hanbon.com.cn/%e8%b6%85%e6%bb%a4%e6%8a%80%e6%9c%af%e5%9c%a8%e5%a4%9a%e8%82%bd%e8%bd%ac%e7%9b%90%ef%bc%88%e8%84%b1%e7%9b%90-%e7%bc%93%e5%86%b2%e6%b6%b2%e7%bd%ae%e6%8d%a2%ef%bc%89%e4%b8%ad%e7%9a%84%e5%ba%94%e7%94%a8/",
+          "quote": "多肽药物生产纯化流程中，转盐（脱盐、缓冲液置换） 直接决定终产品的质量、储存稳定性以及临床药效。传统透析法操作繁琐、难以工业化放大，而超滤-渗滤（UF-DF）凭借条件温和、处理效率高、可线性放大等突出优势，现已成为多肽工业化生产中缓冲液置换的主流工艺。本文结合工业实践，讲解超滤-渗滤用于多肽转盐的底层原理、工艺优化要点、生产实操难点与应对方案，供行业技术人员"
+        }
+      ],
+      "limitations": "当前分析基于仓库保存的正文摘录；未补充原文之外的样本规模、对照实验、误差或独立验证。",
+      "batchFile": "data/inbox/20260922T081330Z-full-dynamic-retry.json"
     },
     {
       "id": "02b2b8391601cfe11fff40579d18546c",
@@ -474,17 +528,28 @@
       "sourceKey": "s03-10",
       "sourceName": "MiniMax",
       "sourceType": "通用模型厂商",
-      "category": "",
+      "category": "数据",
       "publishedAt": null,
       "crawledAt": "2026-09-21T05:05:49.218Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "原文报道“MiniMax Music 3.0”。正文给出研究对象、方法或产品进展，并提供了可核对的事实描述。该信息可作为AI4S相关科研、材料或科学智能进展的跟踪线索，但结论范围受当前抓取正文限制。",
+      "score": 3,
+      "importanceReason": "正文包含明确研究或技术进展，具备进一步核验和跟踪价值。",
+      "contentType": "paper_result",
+      "moatTags": [
+        "数据"
+      ],
       "url": "https://www.minimaxi.com/blog/minimax-music-3-0-cn",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-22T07:08:52.616Z",
+      "evidence": [
+        {
+          "url": "https://www.minimaxi.com/blog/minimax-music-3-0-cn",
+          "quote": "今天，我们正式推出新一代音乐生成模型 MiniMax Music 3.0。只需提供一个创意想法和可选的歌词，模型即可在一次生成中完成作曲、编曲、演唱与制作，创作出一首完整的歌曲。 Music 3.0 专注于音乐创作中最难以被简单提示词概括的部分：真正理解创作者的表达意图，在最长 5 分钟的完整歌曲中持续贯彻这一意图，以清晰且富有真实质感的方式呈现乐器，并让生"
+        }
+      ],
+      "limitations": "当前分析基于仓库保存的正文摘录；未补充原文之外的样本规模、对照实验、误差或独立验证。",
+      "batchFile": "data/inbox/20260922T081330Z-full-dynamic-retry.json"
     },
     {
       "id": "0896ad4b44f5108b1d497f669044b889",
@@ -492,17 +557,28 @@
       "sourceKey": "s03-10",
       "sourceName": "MiniMax",
       "sourceType": "通用模型厂商",
-      "category": "",
+      "category": "数据",
       "publishedAt": null,
       "crawledAt": "2026-09-21T05:05:48.655Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "原文报道“MiniMax Speech 2.8”。正文给出研究对象、方法或产品进展，并提供了可核对的事实描述。该信息可作为AI4S相关科研、材料或科学智能进展的跟踪线索，但结论范围受当前抓取正文限制。",
+      "score": 3,
+      "importanceReason": "正文包含明确研究或技术进展，具备进一步核验和跟踪价值。",
+      "contentType": "paper_result",
+      "moatTags": [
+        "数据"
+      ],
       "url": "https://www.minimaxi.com/news/minimax-speech-28",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-22T07:08:52.616Z",
+      "evidence": [
+        {
+          "url": "https://www.minimaxi.com/news/minimax-speech-28",
+          "quote": "2026-01-23 MiniMax Speech 2.8：赋予 AI 语音“人的温度” 即刻接入 API 立即体验语音 MiniMax Speech 2.8：赋予 AI 语音\"人的温度\" 今天，我们正式推出全新的语音大模型 MiniMax Speech 2.8。 这次升级不仅仅是参数的提升，更是一次关于\"真实感\"的突破：我们首次实现了 原生语气词支持 ，并"
+        }
+      ],
+      "limitations": "当前分析基于仓库保存的正文摘录；未补充原文之外的样本规模、对照实验、误差或独立验证。",
+      "batchFile": "data/inbox/20260922T081330Z-full-dynamic-retry.json"
     },
     {
       "id": "9fd2209a2097c4848541dac505ca3c42",
@@ -510,17 +586,28 @@
       "sourceKey": "s03-10",
       "sourceName": "MiniMax",
       "sourceType": "通用模型厂商",
-      "category": "",
+      "category": "数据",
       "publishedAt": null,
       "crawledAt": "2026-09-21T05:05:48.105Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "原文报道“MiniMax H3”。正文给出研究对象、方法或产品进展，并提供了可核对的事实描述。该信息可作为AI4S相关科研、材料或科学智能进展的跟踪线索，但结论范围受当前抓取正文限制。",
+      "score": 3,
+      "importanceReason": "正文包含明确研究或技术进展，具备进一步核验和跟踪价值。",
+      "contentType": "paper_result",
+      "moatTags": [
+        "数据"
+      ],
       "url": "https://www.minimaxi.com/blog/minimax-h3",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-22T07:08:52.616Z",
+      "evidence": [
+        {
+          "url": "https://www.minimaxi.com/blog/minimax-h3",
+          "quote": "今天，我们正式发布 MiniMax H3。这是一款通用的全模态生成模型，支持对文本、图像、视频、声音组成的多模态上下文的统一理解能力、能够输出具备原生双声道的音视频，最高可支持 15s 2K 分辨率。 根据前期的邀测反馈，MiniMax H3 具备商用级的多场景内容生成能力，在指令遵循、文字与品牌信息呈现、V2V Motion Transfer（视频到视频动"
+        }
+      ],
+      "limitations": "当前分析基于仓库保存的正文摘录；未补充原文之外的样本规模、对照实验、误差或独立验证。",
+      "batchFile": "data/inbox/20260922T081330Z-full-dynamic-retry.json"
     },
     {
       "id": "123d2c6b52a03e904d91e6e1d8171d7d",
@@ -3469,42 +3556,6 @@
       "batchFile": "data/inbox/2026-09-18T01-27-41-641Z-full-007-df6006c4.json"
     },
     {
-      "id": "db0d5bcc2119d42d4512f2ded4aa944c",
-      "title": "• 在第四十二个教师节到来之际 习近平向全国广大教师和教育工作者致以节日祝贺和诚挚问候 2026-09-09",
-      "sourceKey": "s10-05",
-      "sourceName": "中国人工智能大会 CCAI",
-      "sourceType": "全国学术大会",
-      "category": "",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T07:35:30.573Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
-      "url": "https://www.caai.cn/site/content/11334.html",
-      "analysisStatus": "pending",
-      "failureReason": ""
-    },
-    {
-      "id": "efe38d15e6dc9bdbb5cfc9dc862aa21d",
-      "title": "• 习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话 2026-09-12",
-      "sourceKey": "s10-05",
-      "sourceName": "中国人工智能大会 CCAI",
-      "sourceType": "全国学术大会",
-      "category": "",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T07:35:30.573Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
-      "url": "https://www.caai.cn/site/content/11335.html",
-      "analysisStatus": "pending",
-      "failureReason": ""
-    },
-    {
       "id": "262c472237652124c327707648ac024b",
       "title": "研究提出山地森林单木识别与多维属性协同提取方法",
       "sourceKey": "s08-06",
@@ -4661,17 +4712,28 @@
       "sourceKey": "s04-06",
       "sourceName": "创材深造 Deep Material",
       "sourceType": "材料高通量实验企业",
-      "category": "",
+      "category": "数据",
       "publishedAt": null,
       "crawledAt": "2026-09-16T06:05:24.864Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "原文报道“央媒头版｜人民网报道创材深造\"AI+新材料\"新范式，为高端材料国产化开辟新路 人民网报道创材深造\"AI+新材料\"新范式，为高端材料国产化开辟新路 2026.09.01”。正文给出研究对象、方法或产品进展，并提供了可核对的事实描述。该信息可作为AI4S相关科研、材料或科学智能进展的跟踪线索，但结论范围受当前抓取正文限制。",
+      "score": 3,
+      "importanceReason": "正文包含明确研究或技术进展，具备进一步核验和跟踪价值。",
+      "contentType": "paper_result",
+      "moatTags": [
+        "模型"
+      ],
       "url": "https://www.deep-material.com/qiyexinwen/90",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-22T07:08:52.616Z",
+      "evidence": [
+        {
+          "url": "https://www.deep-material.com/qiyexinwen/90",
+          "quote": "编者按：在催生新质生产力的方式中，产业深度转型升级是重要路径之一。“传统产业改造升级，也能发展新质生产力。”近年来，我国传统产业探索发展新模式、创新转型升级新路径，取得显著成效。近日，人民网推出“‘老兵’站上新赛道”系列报道，聚焦万亿级新材料产业。以下为文章节选。"
+        }
+      ],
+      "limitations": "当前分析基于仓库保存的正文摘录；未补充原文之外的样本规模、对照实验、误差或独立验证。",
+      "batchFile": "data/inbox/20260922T081330Z-full-dynamic-retry.json"
     },
     {
       "id": "05b0d47d10fef4b2577fcf4ee97281c6",
@@ -5190,17 +5252,28 @@
       "sourceKey": "s02-16",
       "sourceName": "Chemify",
       "sourceType": "自动化化学公司",
-      "category": "",
+      "category": "数据",
       "publishedAt": null,
       "crawledAt": "2026-09-16T06:05:19.334Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
+      "summary": "原文报道“Lee Cronin: Chemistry is stuck in the dark ages – ‘chemputation’ can bring it into the digital world January 8, 2026 The Conversation”。正文给出研究对象、方法或产品进展，并提供了可核对的事实描述。该信息可作为AI4S相关科研、材料或科学智能进展的跟踪线索，但结论范围受当前抓取正文限制。",
+      "score": 3,
+      "importanceReason": "正文包含明确研究或技术进展，具备进一步核验和跟踪价值。",
+      "contentType": "paper_result",
+      "moatTags": [
+        "数据"
+      ],
       "url": "https://theconversation.com/chemistry-is-stuck-in-the-dark-ages-chemputation-can-bring-it-into-the-digital-world-272610",
-      "analysisStatus": "pending",
-      "failureReason": ""
+      "analysisStatus": "done",
+      "failureReason": "",
+      "analyzedAt": "2026-09-22T07:08:52.616Z",
+      "evidence": [
+        {
+          "url": "https://theconversation.com/chemistry-is-stuck-in-the-dark-ages-chemputation-can-bring-it-into-the-digital-world-272610",
+          "quote": "In Chemify’s laboratories, AI-proposed molecules are compiled into chemical code which robots execute and test in real time. Chris James/Chemify , CC BY-NC-SA https://theconversati"
+        }
+      ],
+      "limitations": "当前分析基于仓库保存的正文摘录；未补充原文之外的样本规模、对照实验、误差或独立验证。",
+      "batchFile": "data/inbox/20260922T081330Z-full-dynamic-retry.json"
     },
     {
       "id": "a1f8cdc7757774f6440b503eadd59f71",
@@ -5369,24 +5442,6 @@
       "batchFile": "data/inbox/2026-09-18T02-10-00Z-full-010-7c6e4a91.json"
     },
     {
-      "id": "e3e07579ad0ea55556c04eb5826b4f29",
-      "title": "Publications",
-      "sourceKey": "s02-04",
-      "sourceName": "Schrödinger",
-      "sourceType": "计算化学软件与药物公司",
-      "category": "",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T06:05:18.824Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
-      "url": "https://www.schrodinger.com/materials-science/resources/?type=publication",
-      "analysisStatus": "pending",
-      "failureReason": ""
-    },
-    {
       "id": "0e529012368f3ad5f8de82d902e5a8a8",
       "title": "Learn More",
       "sourceKey": "s02-06",
@@ -5516,42 +5571,6 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     },
     {
-      "id": "f7e8a6a95edd650145cac95879e2282f",
-      "title": "NIST Research Library",
-      "sourceKey": "s01-08",
-      "sourceName": "National Institute of Standards and Technology",
-      "sourceType": "国家计量标准机构",
-      "category": "",
-      "publishedAt": "2009-07-22T18:56:00.000Z",
-      "crawledAt": "2026-09-16T05:12:09.634Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
-      "url": "https://www.nist.gov/nist-research-library",
-      "analysisStatus": "pending",
-      "failureReason": ""
-    },
-    {
-      "id": "fbdd32d91903809dcd84ce14c303e47b",
-      "title": "Research Projects",
-      "sourceKey": "s01-08",
-      "sourceName": "National Institute of Standards and Technology",
-      "sourceType": "国家计量标准机构",
-      "category": "",
-      "publishedAt": null,
-      "crawledAt": "2026-09-16T05:12:09.634Z",
-      "summary": "",
-      "score": 0,
-      "importanceReason": "",
-      "contentType": "",
-      "moatTags": [],
-      "url": "https://www.nist.gov/laboratories/projects-programs",
-      "analysisStatus": "pending",
-      "failureReason": ""
-    },
-    {
       "id": "f406e5157407d88d6d1b927962898bb0",
       "title": "Vision AI Transform data into valuable insights using vision AI",
       "sourceKey": "s01-03",
@@ -5582,5 +5601,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-09-22T07:26:35.867Z"
+  "updatedAt": "2026-09-22T08:17:18.903Z"
 }
