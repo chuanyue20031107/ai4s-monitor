@@ -24,7 +24,7 @@ const STEPS = [
   { icon: FileCheck2, title: '校验并写回', description: '校验结果后更新项目数据，页面自动展示。' },
 ] as const;
 
-export function AICommandPanel() {
+// Two independent copyable prompt panels: analysis and daily digest.\nexport function AICommandPanel() {
   const [copyState, setCopyState] = useState<'idle' | 'copied' | 'error'>('idle');
   const [digestCopyState, setDigestCopyState] = useState<'idle' | 'copied' | 'error'>('idle');
 
