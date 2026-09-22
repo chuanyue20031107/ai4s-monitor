@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "id": "63e7342079ef55bbe8b19e82eef6f9cc",
+      "title": "Introducing Some of AIChE’s Recently Elected Fellows",
+      "sourceKey": "s11-17",
+      "sourceName": "AIChE Annual Meeting",
+      "sourceType": "国际学术会议",
+      "category": "",
+      "publishedAt": "2026-09-17T16:03:10.000Z",
+      "crawledAt": "2026-09-22T08:36:36.113Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.aiche.org/introducing-some-aiches-recently-elected-fellows-2",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "a733a7b6fc343a038f5437193a4d5ed7",
+      "title": "Meet AIChE Member Shannon Servoss",
+      "sourceKey": "s11-17",
+      "sourceName": "AIChE Annual Meeting",
+      "sourceType": "国际学术会议",
+      "category": "",
+      "publishedAt": "2026-09-18T15:03:09.000Z",
+      "crawledAt": "2026-09-22T08:36:36.113Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.aiche.org/meet-aiche-member-shannon-servoss",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "0d1dd08cac50ffddbe6acc975e89edef",
+      "title": "CCPS Glossary",
+      "sourceKey": "s11-17",
+      "sourceName": "AIChE Annual Meeting",
+      "sourceType": "国际学术会议",
+      "category": "",
+      "publishedAt": "2018-01-31T22:17:49.000Z",
+      "crawledAt": "2026-09-22T08:36:36.112Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.aiche.org/redirect/ccps-glossary",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "26151e760d36fcd750001d614c14f3e0",
       "title": "大气活性氯来源研究取得进展",
       "sourceKey": "s08-06",
@@ -5601,5 +5655,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-09-22T08:34:00.271Z"
+  "updatedAt": "2026-09-22T08:36:36.116Z"
 }

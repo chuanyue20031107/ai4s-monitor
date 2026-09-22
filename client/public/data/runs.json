@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "id": "source-command:7c5fa838-cdb3-4627-b355-926bb326fbcd",
+      "taskType": "单来源手动抓取",
+      "status": "success",
+      "processed": 1,
+      "succeeded": 1,
+      "failed": 0,
+      "inserted": 3,
+      "enriched": 0,
+      "startedAt": "2026-09-22T08:36:35.973Z",
+      "finishedAt": "2026-09-22T08:36:36.175Z",
+      "detail": "抓取 1 个来源：成功 1，失败 0；新增 3，补正文 0；未进行 AI 分析。",
+      "failureReason": ""
+    },
+    {
       "id": "analysis:20260922T081330Z-full-dynamic-retry.json",
       "taskType": "AI 分析",
       "status": "success",
@@ -1149,5 +1163,5 @@
       "finishedAt": "2026-09-16T05:12:19.802Z"
     }
   ],
-  "updatedAt": "2026-09-22T08:34:00.271Z"
+  "updatedAt": "2026-09-22T08:36:36.175Z"
 }

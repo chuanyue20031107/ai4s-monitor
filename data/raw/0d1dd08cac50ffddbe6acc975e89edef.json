@@ -1,0 +1,18 @@
+{
+  "id": "0d1dd08cac50ffddbe6acc975e89edef",
+  "title": "CCPS Glossary",
+  "url": "https://www.aiche.org/redirect/ccps-glossary",
+  "sourceKey": "s11-17",
+  "sourceName": "AIChE Annual Meeting",
+  "sourceType": "国际学术会议",
+  "publishedAt": "2018-01-31T22:17:49.000Z",
+  "crawledAt": "2026-09-22T08:36:36.112Z",
+  "content": "<div class=\"field field-name-body field-type-text-with-summary field-label-hidden body-copy\"> <div class=\"field-items\"> <div class=\"field-item even\"><p>Download the CCPS Glossary App</p> </div> </div> </div>",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-22T08:36:36.112Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "78b4015d4499ca88d884b959d9bef2c6dec021a8afa6c0142b57788a4a184805"
+}
