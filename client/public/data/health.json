@@ -1,26 +1,18 @@
 {
   "stats": {
-    "runId": "source-command:retry-public-rss-20260922",
+    "runId": "source-command:retry-selfhosted-rss-20260922",
     "status": "failed",
     "running": false,
     "total": 184,
-    "ok": 100,
-    "noContent": 39,
-    "failed": 45,
+    "ok": 101,
+    "noContent": 82,
+    "failed": 1,
     "failureByType": [
-      {
-        "type": "robots_blocked",
-        "count": 43
-      },
       {
         "type": "network_error",
         "count": 1
-      },
-      {
-        "type": "timeout",
-        "count": 1
       }
     ],
-    "lastCheckAt": "2026-09-22T10:43:34.721Z"
+    "lastCheckAt": "2026-09-22T11:14:52.999Z"
   }
 }

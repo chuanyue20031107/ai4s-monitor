@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "id": "source-command:retry-selfhosted-rss-20260922",
+      "taskType": "失败来源重试",
+      "status": "failed",
+      "processed": 45,
+      "succeeded": 44,
+      "failed": 1,
+      "inserted": 1,
+      "enriched": 0,
+      "startedAt": "2026-09-22T11:14:47.836Z",
+      "finishedAt": "2026-09-22T11:14:52.999Z",
+      "detail": "抓取 45 个来源：成功 44，失败 1；新增 1，补正文 0；未进行 AI 分析。",
+      "failureReason": "部分来源失败；成功结果保留，可在来源详情查看诊断后重试。"
+    },
+    {
       "id": "digest:2026-09-22",
       "taskType": "每日摘要生成",
       "status": "success",
@@ -1189,5 +1203,5 @@
       "finishedAt": "2026-09-16T05:12:19.802Z"
     }
   ],
-  "updatedAt": "2026-09-22T11:08:59.930Z"
+  "updatedAt": "2026-09-22T11:14:53.071Z"
 }

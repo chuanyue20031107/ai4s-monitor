@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "28bacb8b68411b9d16906af58605647a",
+      "title": "[s01-04] AI4S public RSS fallback",
+      "sourceKey": "s01-04",
+      "sourceName": "Argonne National Laboratory",
+      "sourceType": "美国国家实验室",
+      "category": "",
+      "publishedAt": "2026-09-22T10:00:00.000Z",
+      "crawledAt": "2026-09-22T11:14:48.164Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://arxiv.org/",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "26151e760d36fcd750001d614c14f3e0",
       "title": "大气活性氯来源研究取得进展",
       "sourceKey": "s08-06",
@@ -5601,5 +5619,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-09-22T11:08:59.930Z"
+  "updatedAt": "2026-09-22T11:14:53.071Z"
 }

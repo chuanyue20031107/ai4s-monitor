@@ -1,0 +1,18 @@
+{
+  "id": "28bacb8b68411b9d16906af58605647a",
+  "title": "[s01-04] AI4S public RSS fallback",
+  "url": "https://arxiv.org/",
+  "sourceKey": "s01-04",
+  "sourceName": "Argonne National Laboratory",
+  "sourceType": "美国国家实验室",
+  "publishedAt": "2026-09-22T10:00:00.000Z",
+  "crawledAt": "2026-09-22T11:14:48.164Z",
+  "content": "This source-specific fallback keeps the source crawlable while the original endpoint is unavailable. It is a temporary monitoring feed and should be replaced with an official RSS when one is available.",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-22T11:14:48.164Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "7f1999a26319b704abc127889ca6e7ac413c381fe37a1d90c0111b3e6649acfc"
+}
