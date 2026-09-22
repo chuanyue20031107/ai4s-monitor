@@ -1,6 +1,7 @@
 import { useEffect, useState, type FormEvent } from 'react';
+import { useNavigate } from 'react-router-dom';
 import { toast } from 'sonner';
-import { Loader2, Save, Search } from 'lucide-react';
+import { Bot, Loader2, Save } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { Checkbox } from '@/components/ui/checkbox';
@@ -42,14 +43,13 @@ export default function SettingsPage() {
   const {
     settings,
     sourceRuntime,
-    busy,
     loaded,
     lastRunAt,
     lastPushAt,
     toggleSource,
     saveSettings,
-    analyzeUrl,
   } = useAi4s();
+  const navigate = useNavigate();
   const [form, setForm] = useState<ISettings>({ ...settings });
   const [manualUrl, setManualUrl] = useState('');
   const [saving, setSaving] = useState(false);
@@ -60,19 +60,14 @@ export default function SettingsPage() {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [loaded]);
 
-  const analyzing = busy['analyze:url'];
-
-  const handleManualCrawl = async (e: FormEvent) => {
+  const handleManualAnalysis = (e: FormEvent) => {
     e.preventDefault();
     const url = manualUrl.trim();
     if (!/^https?:\/\//.test(url)) {
       toast.error('请输入以 http(s):// 开头的链接');
       return;
     }
-    const ok = await analyzeUrl(url);
-    if (ok) {
-      setManualUrl('');
-    }
+    navigate(`/ai-control?${new URLSearchParams({ url }).toString()}`);
   };
 
   const update = (patch: Partial<ISettings>) => setForm((prev) => ({ ...prev, ...patch }));
@@ -107,33 +102,28 @@ export default function SettingsPage() {
 
   return (
     <div className="mx-auto max-w-3xl space-y-4">
-      {/* 手动抓取 */}
+      {/* 单篇分析指令 */}
       <Card>
         <CardHeader>
-          <CardTitle className="text-sm">手动抓取情报</CardTitle>
+          <CardTitle className="text-sm">单篇情报分析</CardTitle>
           <CardDescription>
-            GitHub Pages 为只读站点。提交后会打开 Actions 页面，请点击 Run workflow 执行抓取；自动任务每 6 小时运行一次。
+            输入原文链接，生成交给 Codex 的分析指令。下一步仍需复制到 Codex 会话中执行；此处不会提交抓取或分析请求。
           </CardDescription>
         </CardHeader>
         <CardContent>
-          <form onSubmit={handleManualCrawl} className="flex gap-2">
+          <form onSubmit={handleManualAnalysis} className="flex flex-wrap gap-2">
             <Input
               type="url"
               placeholder="https://example.com/article"
               value={manualUrl}
               onChange={(e) => setManualUrl(e.target.value)}
-              disabled={analyzing}
+              className="min-w-0 flex-1"
             />
-            <Button type="submit" className="shrink-0" disabled={analyzing}>
-              {analyzing ? <Loader2 className="size-4 animate-spin" /> : <Search className="size-4" />}
-              {analyzing ? '抓取中…' : '抓取并分析'}
+            <Button type="submit" className="shrink-0">
+              <Bot className="size-4" />
+              生成 Codex 分析指令
             </Button>
           </form>
-          {analyzing && (
-            <p className="mt-2 text-xs text-muted-foreground">
-              正在抓取并分析，完成后将自动入库到「情报列表」…
-            </p>
-          )}
         </CardContent>
       </Card>
 
