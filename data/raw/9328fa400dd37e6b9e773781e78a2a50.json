@@ -1,0 +1,18 @@
+{
+  "id": "9328fa400dd37e6b9e773781e78a2a50",
+  "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+  "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+  "sourceKey": "s01-14",
+  "sourceName": "OpenAI",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": "2026-09-23T13:00:00.000Z",
+  "crawledAt": "2026-09-23T17:11:44.019Z",
+  "content": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-23T17:11:44.019Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "65322153b065b705eb6e93782347927c97a5bd1bb3bf0c44d476a4ef9322e8af"
+}

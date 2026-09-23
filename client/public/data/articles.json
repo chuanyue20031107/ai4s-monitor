@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "id": "abfa58966c78a8717bb76bc4ce48d9e5",
+      "title": "[Media Coverage] Why Japan Digs into Basic Research at Its National AI Institute - Ten Years of RIKEN AIP and Building a Bridge of Collaboration with Korea (ZDNet Korea, September 18, 2026)",
+      "sourceKey": "s01-22",
+      "sourceName": "RIKEN Center for Advanced Intelligence Project",
+      "sourceType": "国家研究机构",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-09-23T17:11:47.955Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://aip.riken.jp/news/202609zdnetkorea/",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "60e0c0851b345dce991485decc424ce2",
+      "title": "See AutoDiscovery in action at PARC",
+      "sourceKey": "s01-17",
+      "sourceName": "Allen Institute for AI",
+      "sourceType": "非营利AI研究机构",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-09-23T17:11:45.250Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://allenai.org/blog/swedish-autodiscovery-partnership",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "9328fa400dd37e6b9e773781e78a2a50",
+      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+      "sourceKey": "s01-14",
+      "sourceName": "OpenAI",
+      "sourceType": "科技大厂研究机构",
+      "category": "",
+      "publishedAt": "2026-09-23T13:00:00.000Z",
+      "crawledAt": "2026-09-23T17:11:44.019Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "eae74f82317118cb3ae3a3ac3e4e613c",
       "title": "• 习近平向第48届世界技能大赛致贺信 2026-09-22",
       "sourceKey": "s10-05",
@@ -4155,6 +4209,24 @@
       "failureReason": ""
     },
     {
+      "id": "7afdb7175198e1206e21cd4f29e3647d",
+      "title": "Infrastructure for Non-Traditional Research Outputs and Processes (Infra4NTROs)",
+      "sourceKey": "s11-01",
+      "sourceName": "Research Data Alliance (RDA)",
+      "sourceType": "国际数据组织",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T07:35:34.387Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.rd-alliance.org/groups/infrastructure-for-non-traditional-research-outputs-and-processes-infra4ntros/activity",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "8e4a35f896ddcca843d03646c3b3ade0",
       "title": "关于召开2026年中国药学会智能药物专业委员会学术年...",
       "sourceKey": "s10-13",
@@ -6285,5 +6357,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-09-23T11:55:39.983Z"
+  "updatedAt": "2026-09-23T17:12:17.303Z"
 }

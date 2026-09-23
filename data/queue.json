@@ -1,11 +1,44 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-23T11:55:39.983Z",
-  "pendingCount": 38,
-  "readyCount": 38,
+  "updatedAt": "2026-09-23T17:12:17.303Z",
+  "pendingCount": 42,
+  "readyCount": 42,
   "awaitingContentCount": 0,
-  "excludedContentCount": 105,
+  "excludedContentCount": 102,
   "items": [
+    {
+      "id": "abfa58966c78a8717bb76bc4ce48d9e5",
+      "title": "[Media Coverage] Why Japan Digs into Basic Research at Its National AI Institute - Ten Years of RIKEN AIP and Building a Bridge of Collaboration with Korea (ZDNet Korea, September 18, 2026)",
+      "url": "https://aip.riken.jp/news/202609zdnetkorea/",
+      "publishedAt": null,
+      "crawledAt": "2026-09-23T17:11:47.955Z",
+      "contentStatus": "ready",
+      "contentHash": "fb5f922b2da426110a56809987218e516f1a426f94df9b6e84b5faaf72ed38fb",
+      "rawPath": "data/raw/abfa58966c78a8717bb76bc4ce48d9e5.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "60e0c0851b345dce991485decc424ce2",
+      "title": "See AutoDiscovery in action at PARC",
+      "url": "https://allenai.org/blog/swedish-autodiscovery-partnership",
+      "publishedAt": null,
+      "crawledAt": "2026-09-23T17:11:45.250Z",
+      "contentStatus": "ready",
+      "contentHash": "9830ff322b47cd1e2326d26ead52fc38346a9c9d08db4b3ebcba29aa85319299",
+      "rawPath": "data/raw/60e0c0851b345dce991485decc424ce2.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "9328fa400dd37e6b9e773781e78a2a50",
+      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "publishedAt": "2026-09-23T13:00:00.000Z",
+      "crawledAt": "2026-09-23T17:11:44.019Z",
+      "contentStatus": "ready",
+      "contentHash": "65322153b065b705eb6e93782347927c97a5bd1bb3bf0c44d476a4ef9322e8af",
+      "rawPath": "data/raw/9328fa400dd37e6b9e773781e78a2a50.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "eae74f82317118cb3ae3a3ac3e4e613c",
       "title": "• 习近平向第48届世界技能大赛致贺信 2026-09-22",
@@ -378,6 +411,17 @@
       "contentStatus": "ready",
       "contentHash": "b5c25add7c7ba53d15fea9c9d238e5dfd3718387c61a89b27a3308b184e9b956",
       "rawPath": "data/raw/70b86b69732f309243da3860ad694055.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "7afdb7175198e1206e21cd4f29e3647d",
+      "title": "Infrastructure for Non-Traditional Research Outputs and Processes (Infra4NTROs)",
+      "url": "https://www.rd-alliance.org/groups/infrastructure-for-non-traditional-research-outputs-and-processes-infra4ntros/activity",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T07:35:34.387Z",
+      "contentStatus": "ready",
+      "contentHash": "0b9b0698c9d51c1f40831040d6de124c75b135f6b0f71a3854d526cd98849b70",
+      "rawPath": "data/raw/7afdb7175198e1206e21cd4f29e3647d.json",
       "lastAnalysisStatus": "pending"
     },
     {
