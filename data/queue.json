@@ -1,11 +1,99 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-22T21:27:58.557Z",
-  "pendingCount": 21,
-  "readyCount": 21,
+  "updatedAt": "2026-09-23T05:00:28.856Z",
+  "pendingCount": 29,
+  "readyCount": 29,
   "awaitingContentCount": 0,
-  "excludedContentCount": 107,
+  "excludedContentCount": 105,
   "items": [
+    {
+      "id": "5bb181b5c48e324878c143dcaa023b01",
+      "title": "『书生』物理世界模型W0为AI4S下半场再添一把钥匙 上海人工智能实验室（上海AI实验室）发布『书生』物理世界模型W0，为大模型的数字化能力进入物理世界提供关键支撑，进而为科学智能从方案推演走向真实实验打开全新路径。",
+      "url": "https://www.shlab.org.cn/news/5444292",
+      "publishedAt": null,
+      "crawledAt": "2026-09-23T04:56:17.929Z",
+      "contentStatus": "ready",
+      "contentHash": "b60946e752094c8902d39995e0b066844e5d036bfd5843e5c84e62265b6897a5",
+      "rawPath": "data/raw/5bb181b5c48e324878c143dcaa023b01.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "1b23fb534395460701a8c96d3138adc2",
+      "title": "“AGI4S六问”之再思考 基于去年在浦江创新论坛提出的“AGI4S六问”，针对当前的科研困境，周伯文教授提出“科学研究是下一个编程”的核心解题思路，“AI与科学将形成双轮驱动——两者共同提升，助力新认知的发现和新突破的产生。”",
+      "url": "https://www.shlab.org.cn/news/5444293",
+      "publishedAt": null,
+      "crawledAt": "2026-09-23T04:56:16.824Z",
+      "contentStatus": "ready",
+      "contentHash": "240866fbdfb1a8a0851c204da74a03f06caadb1879a09e431243abe7bf0c1f30",
+      "rawPath": "data/raw/1b23fb534395460701a8c96d3138adc2.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "1334c514fa34f2dc6feac06cb6c272e9",
+      "title": "2026/09 24 Novel Protein Functions from De Novo Protein Design and Expanded Chemical Functionalities 2026年9月24日 10:00- 11:10 陈昱达 特聘研究员 卫光生命科学园1A座1927会议室 了解详情",
+      "url": "https://www.szbl.ac.cn/info/1017/10580.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-09-23T04:55:30.581Z",
+      "contentStatus": "ready",
+      "contentHash": "da69e3bb9f60a6b41ab10400a61b3ae79b52258a227da3c77b2a5c53577d5c8a",
+      "rawPath": "data/raw/1334c514fa34f2dc6feac06cb6c272e9.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "fd22ae2ad319d20fe289a04787605c6d",
+      "title": "关于2027年智慧校园项目需求申报的通知",
+      "url": "https://www.ustc.edu.cn/tzggcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1363&wbnewsid=25783",
+      "publishedAt": null,
+      "crawledAt": "2026-09-23T04:53:21.341Z",
+      "contentStatus": "ready",
+      "contentHash": "b473c1f3bb49c4fa8df2518230410c287dbea08a9ea2840b4b98a5297fa9f5b3",
+      "rawPath": "data/raw/fd22ae2ad319d20fe289a04787605c6d.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "6027bce3227d378fd38ed34e30446f97",
+      "title": "关于举办中国科大2026年度科创项目成果展的...",
+      "url": "https://www.ustc.edu.cn/info/1364/25785.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-09-23T04:53:21.093Z",
+      "contentStatus": "ready",
+      "contentHash": "a1cd256489e35d7765ecac63ecf031127243cd27c735e1303ccbe6966330a70c",
+      "rawPath": "data/raw/6027bce3227d378fd38ed34e30446f97.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "13e7b3c01c2f76c524b240901882725d",
+      "title": "环境学院举办2026年“环聚科大，境启华章”迎新晚会",
+      "url": "http://news.ustc.edu.cn/info/1055/96396.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-09-23T04:53:19.876Z",
+      "contentStatus": "ready",
+      "contentHash": "9468c510db99c8165df2ca8160032c0065a1ac346509e9aeb69f84ecb199789f",
+      "rawPath": "data/raw/13e7b3c01c2f76c524b240901882725d.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "0ebc05d06e2d80b4ec3effa807b541a2",
+      "title": "创材深造入选“2026人工智能创新应用TOP50” 创材深造凭借“具身AI材料科学家——金属材料智能研发与量产平台”入选“2026人工智能创新应用TOP50” 2026.09.22",
+      "url": "https://www.deep-material.com/qiyexinwen/93",
+      "publishedAt": null,
+      "crawledAt": "2026-09-23T04:52:50.134Z",
+      "contentStatus": "ready",
+      "contentHash": "d192a3a41116e1fedd882496ded074ae10b84083c4bf255a51f15ce53a18e68e",
+      "rawPath": "data/raw/0ebc05d06e2d80b4ec3effa807b541a2.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "7bb7ea5c47285ac885524fb394d87489",
+      "title": "T1+ 测序进入“天”时代",
+      "url": "https://www.mgi-tech.com/fluorescence-emission/266.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-23T04:52:42.688Z",
+      "contentStatus": "ready",
+      "contentHash": "68f40391b3a114461fe563006ef58696f26aafa367f2a24f651c63daaab68bae",
+      "rawPath": "data/raw/7bb7ea5c47285ac885524fb394d87489.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "cebedbcd51d3d2896955d5263ea13aa1",
       "title": "A quest for a cure: AI drug design with Isomorphic Labs - Isomorphic Labs",
