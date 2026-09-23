@@ -1,11 +1,110 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-23T05:00:28.856Z",
-  "pendingCount": 29,
-  "readyCount": 29,
+  "updatedAt": "2026-09-23T11:55:39.983Z",
+  "pendingCount": 38,
+  "readyCount": 38,
   "awaitingContentCount": 0,
   "excludedContentCount": 105,
   "items": [
+    {
+      "id": "eae74f82317118cb3ae3a3ac3e4e613c",
+      "title": "• 习近平向第48届世界技能大赛致贺信 2026-09-22",
+      "url": "https://www.caai.cn/site/content/11351.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-23T11:52:36.971Z",
+      "contentStatus": "ready",
+      "contentHash": "da56652d1e06cf584975f95d962fcea258f4d247dafa1f49f92310c51d868208",
+      "rawPath": "data/raw/eae74f82317118cb3ae3a3ac3e4e613c.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "91f189c72322559548ec6a030f7768df",
+      "title": "习近平向全国广大农民和工作在“三农”战线上的同志们致以节日祝贺和诚挚问候 在第九个“中国农民丰收节”到来之际 习近平向全国广大农民和工作在“三农”战线上的同志们致以节日祝贺和诚挚问候 强调扎实推进乡村全面振兴 努力让广大农民生活更加幸福美好 新华社北京9月22日电 在第九个“中国农民丰收节”到来之际，中共中央总书记、国家主席、中央军委主席习近平",
+      "url": "https://www.caai.cn/site/content/11354.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-23T11:52:36.658Z",
+      "contentStatus": "ready",
+      "contentHash": "dfe4255087c91dbca784bc63ad9687a20a616f164190d33f4d97dee1352bb155",
+      "rawPath": "data/raw/91f189c72322559548ec6a030f7768df.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "3cd7c1d41e03177e20cca32d4ff54415",
+      "title": "09-22 2026 2026全球人工智能创新创业大赛海选评审结果公示",
+      "url": "https://www.caai.cn/site/content/11350.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-23T11:52:36.088Z",
+      "contentStatus": "ready",
+      "contentHash": "88765653e57722765c93b061ad5eafbc800b7b0ebb0d3ac3da1dde8e2b8f4e97",
+      "rawPath": "data/raw/3cd7c1d41e03177e20cca32d4ff54415.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "cbd4ea2e7ec7b959e99d6c9245d4e113",
+      "title": "南京航空航天大学天目湖校区明慧楼塔楼B座4、6-9层及C座3-5层改造公开招标公告",
+      "url": "https://www.ccgp.gov.cn/cggg/zygg/gkzb/202609/t20260923_27392252.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-09-23T11:52:07.387Z",
+      "contentStatus": "ready",
+      "contentHash": "d92e864f934d1af69b183609e4afc90e4dd24ec620b3fcbd6739a828e699e8d6",
+      "rawPath": "data/raw/cbd4ea2e7ec7b959e99d6c9245d4e113.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "9a8b7287ce11a8c89ff4bf973b1ab82e",
+      "title": "上海市消防救援总队轨道交通支队食堂主副食品配送服务采购项目比选公告",
+      "url": "https://www.ccgp.gov.cn/cggg/zygg/qtgg/202609/t20260923_27392253.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-09-23T11:52:06.702Z",
+      "contentStatus": "ready",
+      "contentHash": "0cbf6bf804d0dcf1add84237a19e6a9559a5f9482a3e969b73015bae1e2d8ee5",
+      "rawPath": "data/raw/9a8b7287ce11a8c89ff4bf973b1ab82e.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "8570691b0ce41447fa11771197c401b1",
+      "title": "zycgr21071301多癌早筛试剂盒委托生产技术服务采购项目中标公告",
+      "url": "https://www.ccgp.gov.cn/cggg/zygg/zbgg/202609/t20260923_27392259.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-09-23T11:52:04.708Z",
+      "contentStatus": "ready",
+      "contentHash": "d2b23524be4d63b15479e2479121aab18fa751edbe1c6349d739afaa6417d092",
+      "rawPath": "data/raw/8570691b0ce41447fa11771197c401b1.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "15cb5be1ab239f0d6176b424ad9b870f",
+      "title": "科研人员提出肺结节AI辅助诊断新方法",
+      "url": "https://www.cas.cn/syky/202609/t20260922_5120832.shtml",
+      "publishedAt": null,
+      "crawledAt": "2026-09-23T11:52:00.327Z",
+      "contentStatus": "ready",
+      "contentHash": "ccbf3fb7cf7fc559055130e7e713f275d3a3192e3bce85d7b6f5e71bbb518315",
+      "rawPath": "data/raw/15cb5be1ab239f0d6176b424ad9b870f.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "f639521a656e238f6fac4994c97f3836",
+      "title": "分子拓扑调控长程相干电荷输运研究取得进展",
+      "url": "https://www.cas.cn/syky/202609/t20260917_5120477.shtml",
+      "publishedAt": null,
+      "crawledAt": "2026-09-23T11:51:59.966Z",
+      "contentStatus": "ready",
+      "contentHash": "ca75d4cfc024a9d1c3dc473262d3363fd54e78fd9f9d9cd31c2d7c7e1371041c",
+      "rawPath": "data/raw/f639521a656e238f6fac4994c97f3836.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "f0e7e217be15570693c2300cae634873",
+      "title": "研究揭示新疆东天山青铜至铁器时代人群遗传历史",
+      "url": "https://www.cas.cn/syky/202609/t20260921_5120766.shtml",
+      "publishedAt": null,
+      "crawledAt": "2026-09-23T11:51:59.248Z",
+      "contentStatus": "ready",
+      "contentHash": "ce51256b3c5015ce2f8652363439c4ede12fbda00c9813bf819ed455aa74a0cd",
+      "rawPath": "data/raw/f0e7e217be15570693c2300cae634873.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "5bb181b5c48e324878c143dcaa023b01",
       "title": "『书生』物理世界模型W0为AI4S下半场再添一把钥匙 上海人工智能实验室（上海AI实验室）发布『书生』物理世界模型W0，为大模型的数字化能力进入物理世界提供关键支撑，进而为科学智能从方案推演走向真实实验打开全新路径。",
