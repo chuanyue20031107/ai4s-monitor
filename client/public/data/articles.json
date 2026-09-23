@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "id": "e78fb8a53ffadab50fe60e6b4b60248c",
+      "title": "国轩高科零碳全场景方案亮相东博会，加速链接东盟绿色市场 2026-09-23 2026-09-23",
+      "sourceKey": "s06-10",
+      "sourceName": "国轩高科",
+      "sourceType": "研发型企业",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-09-23T21:36:08.652Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.gotion.com.cn/newsInfo/987",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "e4c42c03963aaa197238720cac3e1138",
+      "title": "从一台仪器到检测能力，第三方实验室如何升级？ 2026-09-23",
+      "sourceKey": "s04-09",
+      "sourceName": "聚光科技 FPI",
+      "sourceType": "科学仪器企业",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-09-23T21:36:03.772Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.fpi-inc.com/news_cont_48318.html",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "bb0290f62fbe88360459e5b145d3a42e",
+      "title": "Simon Kohl Named to Observer’s 2025 A.I. Power Index - Latent Labs",
+      "sourceKey": "s02-19",
+      "sourceName": "Latent Labs",
+      "sourceType": "生成式生物公司",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-09-23T21:35:50.329Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.latentlabs.com/press-release/simon-kohl-named-to-observers-2025-a-i-power-index/",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "abfa58966c78a8717bb76bc4ce48d9e5",
       "title": "[Media Coverage] Why Japan Digs into Basic Research at Its National AI Institute - Ten Years of RIKEN AIP and Building a Bridge of Collaboration with Korea (ZDNet Korea, September 18, 2026)",
       "sourceKey": "s01-22",
@@ -6357,5 +6411,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-09-23T17:12:17.303Z"
+  "updatedAt": "2026-09-23T21:39:00.031Z"
 }
