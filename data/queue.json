@@ -1,11 +1,55 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-24T11:57:25.044Z",
-  "pendingCount": 60,
-  "readyCount": 60,
+  "updatedAt": "2026-09-24T17:18:32.198Z",
+  "pendingCount": 64,
+  "readyCount": 64,
   "awaitingContentCount": 0,
-  "excludedContentCount": 98,
+  "excludedContentCount": 95,
   "items": [
+    {
+      "id": "7df04056485276d30fe255b930880404",
+      "title": "量子点超快光物理研究取得进展",
+      "url": "https://www.cas.cn/syky/202609/t20260917_5120483.shtml",
+      "publishedAt": null,
+      "crawledAt": "2026-09-24T17:18:31.139Z",
+      "contentStatus": "ready",
+      "contentHash": "a38a9b3babdf6a9472c33b3a3270ca0623494902e55301de5f9d909d887de992",
+      "rawPath": "data/raw/7df04056485276d30fe255b930880404.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "587d568a5d2ddd132eb28e73dd3bcf97",
+      "title": "科研人员在嫦娥六号月壤中发现稳定单涡旋态",
+      "url": "https://www.cas.cn/syky/202609/t20260923_5120922.shtml",
+      "publishedAt": null,
+      "crawledAt": "2026-09-24T17:18:30.874Z",
+      "contentStatus": "ready",
+      "contentHash": "d636288deac4f9ef6a5852560562f1f20352a7f949e42c22fcee36fe114f7759",
+      "rawPath": "data/raw/587d568a5d2ddd132eb28e73dd3bcf97.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "94cc52e299eaafa72a6eddd3b4f65496",
+      "title": "电催化二氧化碳还原研究取得进展",
+      "url": "https://www.cas.cn/syky/202609/t20260922_5120829.shtml",
+      "publishedAt": null,
+      "crawledAt": "2026-09-24T17:18:30.311Z",
+      "contentStatus": "ready",
+      "contentHash": "54b9474d76ded5fd74c8229960591d7a0533af6068fef1846ffb3e460d9ed47c",
+      "rawPath": "data/raw/94cc52e299eaafa72a6eddd3b4f65496.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "9bbc148f4570d72a1d706436266db89f",
+      "title": "赛场砺志强体魄 聚力攻坚庆华诞——我所举办庆祝中国共产党成立105周年运动会",
+      "url": "https://www.dicp.ac.cn/xwdt/ttxw/202609/t20260924_8286950.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-24T17:18:20.621Z",
+      "contentStatus": "ready",
+      "contentHash": "a13e55b60b86dcbd07cebf555b6e27fd70cc896b0d08e9b1d8c049b4d9cd2ae8",
+      "rawPath": "data/raw/9bbc148f4570d72a1d706436266db89f.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "415ef3984887561448924a5050093e56",
       "title": "松山湖材料实验室人事部关于松山湖材料实验室2026年员工健康体检委托服务采购项目（50-100万）征求意见公示",

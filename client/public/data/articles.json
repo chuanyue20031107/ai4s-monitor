@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "7df04056485276d30fe255b930880404",
+      "title": "量子点超快光物理研究取得进展",
+      "sourceKey": "s08-06",
+      "sourceName": "中国科学院",
+      "sourceType": "国家科研机构",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-09-24T17:18:31.139Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.cas.cn/syky/202609/t20260917_5120483.shtml",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "587d568a5d2ddd132eb28e73dd3bcf97",
+      "title": "科研人员在嫦娥六号月壤中发现稳定单涡旋态",
+      "sourceKey": "s08-06",
+      "sourceName": "中国科学院",
+      "sourceType": "国家科研机构",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-09-24T17:18:30.874Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.cas.cn/syky/202609/t20260923_5120922.shtml",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "94cc52e299eaafa72a6eddd3b4f65496",
+      "title": "电催化二氧化碳还原研究取得进展",
+      "sourceKey": "s08-06",
+      "sourceName": "中国科学院",
+      "sourceType": "国家科研机构",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-09-24T17:18:30.311Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.cas.cn/syky/202609/t20260922_5120829.shtml",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "9bbc148f4570d72a1d706436266db89f",
+      "title": "赛场砺志强体魄 聚力攻坚庆华诞——我所举办庆祝中国共产党成立105周年运动会",
+      "sourceKey": "s05-19",
+      "sourceName": "中科院大连化物所高通量实验与催化平台",
+      "sourceType": "自主实验室与平台",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-09-24T17:18:20.621Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.dicp.ac.cn/xwdt/ttxw/202609/t20260924_8286950.html",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "415ef3984887561448924a5050093e56",
       "title": "松山湖材料实验室人事部关于松山湖材料实验室2026年员工健康体检委托服务采购项目（50-100万）征求意见公示",
       "sourceKey": "s05-17",
@@ -6681,5 +6753,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-09-24T11:57:25.044Z"
+  "updatedAt": "2026-09-24T17:18:32.198Z"
 }
