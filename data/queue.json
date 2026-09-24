@@ -1,11 +1,77 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-24T17:18:32.198Z",
-  "pendingCount": 64,
-  "readyCount": 64,
+  "updatedAt": "2026-09-24T21:39:02.351Z",
+  "pendingCount": 72,
+  "readyCount": 72,
   "awaitingContentCount": 0,
-  "excludedContentCount": 95,
+  "excludedContentCount": 94,
   "items": [
+    {
+      "id": "294e86e97623ad00300e57197a55e96f",
+      "title": "Read more",
+      "url": "https://www.sanger.ac.uk/news_item/bats-originated-in-europe-largest-bat-genome-and-fossil-study-finds/",
+      "publishedAt": null,
+      "crawledAt": "2026-09-24T21:36:45.949Z",
+      "contentStatus": "ready",
+      "contentHash": "21cce208b79b360349c3c857e53bd9e4b4662dd92e9b90c63ba28d9495bc4b98",
+      "rawPath": "data/raw/294e86e97623ad00300e57197a55e96f.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "e5179e0382a1263860177ff8ab0e86ac",
+      "title": "Data for agentic AI The 7 essential data capabilities to scale agentic AI",
+      "url": "https://aws.amazon.com/data/resources/data-foundation-for-agentic-ai/?nc2=h_dsc_ex_s4",
+      "publishedAt": null,
+      "crawledAt": "2026-09-24T21:36:42.031Z",
+      "contentStatus": "ready",
+      "contentHash": "f799fe8f94dd7a5c660e15c5f588ac8b36dec24b947054aef61dcf6826065655",
+      "rawPath": "data/raw/e5179e0382a1263860177ff8ab0e86ac.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "8b645ffe9374b3e1b709831d707da402",
+      "title": "Build & Deploy AI Agents 88% of agent pilots stall. Learn what the rest do differently",
+      "url": "https://aws.amazon.com/ai/build-ai-agents/?nc2=h_dsc_ex_s2",
+      "publishedAt": null,
+      "crawledAt": "2026-09-24T21:36:41.945Z",
+      "contentStatus": "ready",
+      "contentHash": "35a15e3068ad65aec902064969b95231e979d8c3918d42cd6b1ba2b894a4c9ed",
+      "rawPath": "data/raw/8b645ffe9374b3e1b709831d707da402.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "dada88381c4fc3cd21aaf3ea4c200c80",
+      "title": "关于召开2026年中国药学会药物经济学专业委员会学术...",
+      "url": "https://www.cpa.org.cn/?do=info&cid=79059",
+      "publishedAt": null,
+      "crawledAt": "2026-09-24T21:36:32.072Z",
+      "contentStatus": "ready",
+      "contentHash": "e876a9920429487f66266a429bc68d15af7238d1980d7948ce4767158143ea0d",
+      "rawPath": "data/raw/dada88381c4fc3cd21aaf3ea4c200c80.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "71708f7bc6552a7969baa3cfb1324938",
+      "title": "• 薪火庚续 智创无垠 庆祝中国人工智能学会成立四十五周年 2026-09-20",
+      "url": "https://www.caai.cn/site/content/11349.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-24T21:36:26.029Z",
+      "contentStatus": "ready",
+      "contentHash": "42d056761c12e60fafcd53003d8f10ff9ca271ce1401070d14c1c2f7a8b11810",
+      "rawPath": "data/raw/71708f7bc6552a7969baa3cfb1324938.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "47a041eb1d013545c953b45538c9ad82",
+      "title": "• 学会推荐2部科普作品入选2026全国优质科普作品名单 2026-09-24",
+      "url": "https://www.caai.cn/site/content/11379.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-24T21:36:25.529Z",
+      "contentStatus": "ready",
+      "contentHash": "b59b81cc45c1a9d231340a08abdcb014838dcdc75d234720d4b2d2223fa969e9",
+      "rawPath": "data/raw/47a041eb1d013545c953b45538c9ad82.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "7df04056485276d30fe255b930880404",
       "title": "量子点超快光物理研究取得进展",
@@ -202,6 +268,17 @@
       "contentStatus": "ready",
       "contentHash": "65322153b065b705eb6e93782347927c97a5bd1bb3bf0c44d476a4ef9322e8af",
       "rawPath": "data/raw/9328fa400dd37e6b9e773781e78a2a50.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "347b65ce144a221e189c1995b6f8e902",
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
+      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "publishedAt": "2026-09-23T12:00:00.000Z",
+      "crawledAt": "2026-09-24T21:36:42.494Z",
+      "contentStatus": "ready",
+      "contentHash": "41c44dd9c9cbf81ec78ea14ca2e16291027db763a2753e8c902739f58ecfd872",
+      "rawPath": "data/raw/347b65ce144a221e189c1995b6f8e902.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -708,6 +785,17 @@
       "contentStatus": "ready",
       "contentHash": "bf89b5b4d1217e048401a631ef2ccc34b226513c4a91c386d04d0f9e0540f409",
       "rawPath": "data/raw/6554a2c25633c04a9a091022eac10aa2.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "a6a4f3e42fa0a22a752f5b37cebe3b44",
+      "title": "Economic Impact",
+      "url": "https://www.ornl.gov/node/111617",
+      "publishedAt": "2026-08-18T15:58:46.000Z",
+      "crawledAt": "2026-09-24T21:36:42.620Z",
+      "contentStatus": "ready",
+      "contentHash": "198e6689bf581ad1867436e6dcdf60750bf46a53931db95618cf0759c2611887",
+      "rawPath": "data/raw/a6a4f3e42fa0a22a752f5b37cebe3b44.json",
       "lastAnalysisStatus": "pending"
     }
   ]
