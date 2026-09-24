@@ -1,11 +1,44 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-23T21:39:00.031Z",
-  "pendingCount": 45,
-  "readyCount": 45,
+  "updatedAt": "2026-09-24T05:05:14.705Z",
+  "pendingCount": 53,
+  "readyCount": 53,
   "awaitingContentCount": 0,
-  "excludedContentCount": 102,
+  "excludedContentCount": 100,
   "items": [
+    {
+      "id": "b40a615fc602fcbe92c7346ea0f81689",
+      "title": "Isomorphic Labs kicks off 2024 with two pharmaceutical collaborations - Isomorphic Labs",
+      "url": "https://www.isomorphiclabs.com/articles/isomorphic-labs-kicks-off-2024-with-two-pharmaceutical-collaborations",
+      "publishedAt": null,
+      "crawledAt": "2026-09-24T05:01:49.678Z",
+      "contentStatus": "ready",
+      "contentHash": "ec14654c28bcada490dcc74ec81587ca66ce0d3fd1d255102049f28d0039f159",
+      "rawPath": "data/raw/b40a615fc602fcbe92c7346ea0f81689.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "8a151befbe6f12caa731c5d1f465ee9f",
+      "title": "Isomorphic Labs announces first phase of management team - Isomorphic Labs",
+      "url": "https://www.isomorphiclabs.com/articles/isomorphic-labs-announces-first-phase-of-management-team",
+      "publishedAt": null,
+      "crawledAt": "2026-09-24T05:01:49.647Z",
+      "contentStatus": "ready",
+      "contentHash": "c71453ddab291a405087ae138d2fac9fcbd0998d903a7f5cc3cfe0fb7be4c8d4",
+      "rawPath": "data/raw/8a151befbe6f12caa731c5d1f465ee9f.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "d97b3a3e60b32aaf4e825525822bd1f6",
+      "title": "AI-First Drug Design: Accelerating the Discovery of New Therapeutics - Isomorphic Labs",
+      "url": "https://www.isomorphiclabs.com/articles/ai-first-drug-design-accelerating-the-discovery-of-new-therapeutics",
+      "publishedAt": null,
+      "crawledAt": "2026-09-24T05:01:49.620Z",
+      "contentStatus": "ready",
+      "contentHash": "fdabe23db556c87a60045cce6377fc53356b2e900fc018523693c70386a5ccdc",
+      "rawPath": "data/raw/d97b3a3e60b32aaf4e825525822bd1f6.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "e78fb8a53ffadab50fe60e6b4b60248c",
       "title": "国轩高科零碳全场景方案亮相东博会，加速链接东盟绿色市场 2026-09-23 2026-09-23",
@@ -62,6 +95,17 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "33f98722c2911516eceeb09c1b896f68",
+      "title": "Offloaded inference for real-world physical AI robotics",
+      "url": "https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics/",
+      "publishedAt": "2026-09-23T16:01:36.000Z",
+      "crawledAt": "2026-09-24T05:01:47.709Z",
+      "contentStatus": "ready",
+      "contentHash": "2ceeea50fea4845447bfa233b80506a4351ac6633ef4567e2349645edb9667d9",
+      "rawPath": "data/raw/33f98722c2911516eceeb09c1b896f68.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "9328fa400dd37e6b9e773781e78a2a50",
       "title": "OpenAI extends cyber access to Ukraine for civilian defense",
       "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
@@ -70,6 +114,17 @@
       "contentStatus": "ready",
       "contentHash": "65322153b065b705eb6e93782347927c97a5bd1bb3bf0c44d476a4ef9322e8af",
       "rawPath": "data/raw/9328fa400dd37e6b9e773781e78a2a50.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "56420e0364e867c0a5cb4663e7d6bab3",
+      "title": "When Scientists Become Accidental Detectives",
+      "url": "https://www.nist.gov/blogs/taking-measure/when-scientists-become-accidental-detectives",
+      "publishedAt": "2026-09-23T12:00:00.000Z",
+      "crawledAt": "2026-09-24T05:01:48.443Z",
+      "contentStatus": "ready",
+      "contentHash": "4f70bc930f52a7cf2cc6128357ed1f6730535e172b2fb9f55198c18f6a4c3104",
+      "rawPath": "data/raw/56420e0364e867c0a5cb4663e7d6bab3.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -499,6 +554,39 @@
       "contentStatus": "ready",
       "contentHash": "3fb90e565bfed6d0b6ad1545cf971a113b5322e1f1bddf78c239da8cf05ff059",
       "rawPath": "data/raw/048a3ce1e9295997f551f3bd905a3973.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "24adffd45e54d61775eb551af180cf8c",
+      "title": "From Methane to Materials: Engineering Biodegradable Polymers",
+      "url": "https://www.aiche.org/methane-materials-engineering-biodegradable-polymers",
+      "publishedAt": "2026-09-09T17:03:10.000Z",
+      "crawledAt": "2026-09-24T05:01:43.509Z",
+      "contentStatus": "ready",
+      "contentHash": "0fddb5a3c0280a363222674dce6860ca1e38f7e96c64815becae6e016dedb2d6",
+      "rawPath": "data/raw/24adffd45e54d61775eb551af180cf8c.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "89610f6ec7a77d57f23bce362e686ff7",
+      "title": "Kate Broderick on the Technologies Compressing the Drug Development Timeline",
+      "url": "https://www.aiche.org/kate-broderick-on-technologies-compressing-drug-development-timeline",
+      "publishedAt": "2026-09-08T18:03:09.000Z",
+      "crawledAt": "2026-09-24T05:01:43.509Z",
+      "contentStatus": "ready",
+      "contentHash": "93c04251fa89b11ca32568ec73ad73c58b56367cd38bce0480997ebae8b10bbd",
+      "rawPath": "data/raw/89610f6ec7a77d57f23bce362e686ff7.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "6554a2c25633c04a9a091022eac10aa2",
+      "title": "September 2026 CEP Preview",
+      "url": "https://www.aiche.org/september-2026-cep-preview",
+      "publishedAt": "2026-09-02T18:03:09.000Z",
+      "crawledAt": "2026-09-24T05:01:43.509Z",
+      "contentStatus": "ready",
+      "contentHash": "bf89b5b4d1217e048401a631ef2ccc34b226513c4a91c386d04d0f9e0540f409",
+      "rawPath": "data/raw/6554a2c25633c04a9a091022eac10aa2.json",
       "lastAnalysisStatus": "pending"
     }
   ]
