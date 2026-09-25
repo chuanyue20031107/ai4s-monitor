@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-25T17:26:18.953Z",
-  "pending": 81,
-  "ready": 81,
+  "updatedAt": "2026-09-25T21:49:00.910Z",
+  "pending": 86,
+  "ready": 86,
   "awaitingContent": 0,
-  "excludedContent": 93,
+  "excludedContent": 92,
   "done": 178,
   "discarded": 584,
   "rejectedBatches": 6,

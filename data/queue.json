@@ -1,11 +1,66 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-25T17:26:18.953Z",
-  "pendingCount": 81,
-  "readyCount": 81,
+  "updatedAt": "2026-09-25T21:49:00.910Z",
+  "pendingCount": 86,
+  "readyCount": 86,
   "awaitingContentCount": 0,
-  "excludedContentCount": 93,
+  "excludedContentCount": 92,
   "items": [
+    {
+      "id": "e8d640e91748a23d002bc4817db4460c",
+      "title": "中国科学院院所科技成果贵州行（六盘水市专场）活动举办",
+      "url": "https://www.cas.cn/cg/zh/202609/t20260920_5120715.shtml",
+      "publishedAt": null,
+      "crawledAt": "2026-09-25T21:46:23.147Z",
+      "contentStatus": "ready",
+      "contentHash": "3bcd7f6180c38f1fc97278c6d9a5b7c78f96f1296c7d3cf603daea38e90bc68e",
+      "rawPath": "data/raw/e8d640e91748a23d002bc4817db4460c.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "4f25f65e0e57851f64e083fce8412de4",
+      "title": "光固化3D打印聚氨酯弹性体研究获进展",
+      "url": "https://www.cas.cn/syky/202609/t20260921_5120767.shtml",
+      "publishedAt": null,
+      "crawledAt": "2026-09-25T21:46:22.575Z",
+      "contentStatus": "ready",
+      "contentHash": "ab2b6a5fec12313be4df431543797124c76d91b715eab0e4625694ef2bd6f3f5",
+      "rawPath": "data/raw/4f25f65e0e57851f64e083fce8412de4.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "a208d38223bdb0f434e39f2b1ae271f3",
+      "title": "Register for the Oct 22 Virtual Office Hour on Transitioning to the New PDB Beta Archive, Extended PDB IDs, and PDBx/mmCIF",
+      "url": "https://www.rcsb.org/news/training/6a95908f3bf5580b84a87d34",
+      "publishedAt": null,
+      "crawledAt": "2026-09-25T21:46:11.351Z",
+      "contentStatus": "ready",
+      "contentHash": "eeaf4b3d38ce1f5aa55859b04e4a4f7f2a9270c9eb526794828c0977923af7de",
+      "rawPath": "data/raw/a208d38223bdb0f434e39f2b1ae271f3.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "de954ade2e1a37c0d9098fa2a20f0b8c",
+      "title": "Training News",
+      "url": "https://www.rcsb.org/news/training/2026",
+      "publishedAt": null,
+      "crawledAt": "2026-09-25T21:46:11.151Z",
+      "contentStatus": "ready",
+      "contentHash": "eeaf4b3d38ce1f5aa55859b04e4a4f7f2a9270c9eb526794828c0977923af7de",
+      "rawPath": "data/raw/de954ade2e1a37c0d9098fa2a20f0b8c.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "04be1c901fba02ee6a81fc9b5c9c8ce6",
+      "title": "Features & Highlights",
+      "url": "https://www.rcsb.org/news/feature/2026",
+      "publishedAt": null,
+      "crawledAt": "2026-09-25T21:46:10.924Z",
+      "contentStatus": "ready",
+      "contentHash": "5a2e1576fb64722aa775d5ea4c04112e64c54f70016466d2aa65f5bdd94a61db",
+      "rawPath": "data/raw/04be1c901fba02ee6a81fc9b5c9c8ce6.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "9315b365bfce446dbc846620a621d99b",
       "title": "In conversation with… Colin Murdoch, Isomorphic Labs’ first President - Isomorphic Labs",

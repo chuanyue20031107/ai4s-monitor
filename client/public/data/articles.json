@@ -1,6 +1,96 @@
 {
   "items": [
     {
+      "id": "e8d640e91748a23d002bc4817db4460c",
+      "title": "中国科学院院所科技成果贵州行（六盘水市专场）活动举办",
+      "sourceKey": "s08-06",
+      "sourceName": "中国科学院",
+      "sourceType": "国家科研机构",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-09-25T21:46:23.147Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.cas.cn/cg/zh/202609/t20260920_5120715.shtml",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "4f25f65e0e57851f64e083fce8412de4",
+      "title": "光固化3D打印聚氨酯弹性体研究获进展",
+      "sourceKey": "s08-06",
+      "sourceName": "中国科学院",
+      "sourceType": "国家科研机构",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-09-25T21:46:22.575Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.cas.cn/syky/202609/t20260921_5120767.shtml",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "a208d38223bdb0f434e39f2b1ae271f3",
+      "title": "Register for the Oct 22 Virtual Office Hour on Transitioning to the New PDB Beta Archive, Extended PDB IDs, and PDBx/mmCIF",
+      "sourceKey": "s07-13",
+      "sourceName": "RCSB Protein Data Bank",
+      "sourceType": "科学数据库与平台",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-09-25T21:46:11.351Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.rcsb.org/news/training/6a95908f3bf5580b84a87d34",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "de954ade2e1a37c0d9098fa2a20f0b8c",
+      "title": "Training News",
+      "sourceKey": "s07-13",
+      "sourceName": "RCSB Protein Data Bank",
+      "sourceType": "科学数据库与平台",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-09-25T21:46:11.151Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.rcsb.org/news/training/2026",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "04be1c901fba02ee6a81fc9b5c9c8ce6",
+      "title": "Features & Highlights",
+      "sourceKey": "s07-13",
+      "sourceName": "RCSB Protein Data Bank",
+      "sourceType": "科学数据库与平台",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-09-25T21:46:10.924Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.rcsb.org/news/feature/2026",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "9315b365bfce446dbc846620a621d99b",
       "title": "In conversation with… Colin Murdoch, Isomorphic Labs’ first President - Isomorphic Labs",
       "sourceKey": "s02-01",
@@ -7059,5 +7149,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-09-25T17:26:18.953Z"
+  "updatedAt": "2026-09-25T21:49:00.910Z"
 }
