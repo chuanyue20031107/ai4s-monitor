@@ -1,11 +1,77 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-25T05:08:58.057Z",
-  "pendingCount": 73,
-  "readyCount": 73,
+  "updatedAt": "2026-09-25T12:01:23.513Z",
+  "pendingCount": 81,
+  "readyCount": 81,
   "awaitingContentCount": 0,
-  "excludedContentCount": 94,
+  "excludedContentCount": 93,
   "items": [
+    {
+      "id": "9315b365bfce446dbc846620a621d99b",
+      "title": "In conversation with… Colin Murdoch, Isomorphic Labs’ first President - Isomorphic Labs",
+      "url": "https://www.isomorphiclabs.com/articles/in-conversation-with-colin-murdoch-isomorphic-labs-first-president",
+      "publishedAt": null,
+      "crawledAt": "2026-09-25T11:58:54.226Z",
+      "contentStatus": "ready",
+      "contentHash": "44570c5d8aae33243ee0e0696f1f21fd0fc8b7692ad69ea410f11085d0d37675",
+      "rawPath": "data/raw/9315b365bfce446dbc846620a621d99b.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "8592355ddf2416c7e52b22dee9152318",
+      "title": "How AI Is Saving Billions of Years of Human Research Time - Isomorphic Labs",
+      "url": "https://www.isomorphiclabs.com/articles/how-ai-is-saving-billions-of-years-of-human-research-time",
+      "publishedAt": null,
+      "crawledAt": "2026-09-25T11:58:54.203Z",
+      "contentStatus": "ready",
+      "contentHash": "efa586c6942828e6f51b45df73385d9412dd9f0c08cd6470a0a29f51d5a508c4",
+      "rawPath": "data/raw/8592355ddf2416c7e52b22dee9152318.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "a0ad4f912973e8b7c39105d7d5646e82",
+      "title": "A breakthrough unfolds. Google DeepMind: The Podcast featuring Demis Hassabis - Isomorphic Labs",
+      "url": "https://www.isomorphiclabs.com/articles/a-breakthrough-unfolds",
+      "publishedAt": null,
+      "crawledAt": "2026-09-25T11:58:54.178Z",
+      "contentStatus": "ready",
+      "contentHash": "82ba4e465094e72eb05e8e511866172d5bbe61ce7be9e48ac6a7f72e228844cf",
+      "rawPath": "data/raw/a0ad4f912973e8b7c39105d7d5646e82.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "3a3bcd6f8fe019b1b5b2159007e5c769",
+      "title": "方健国已任浙江省卫生健康委主任",
+      "url": "https://www.caclp.com/article/?detail_14398.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-25T11:58:38.877Z",
+      "contentStatus": "ready",
+      "contentHash": "ba2cf5d1f7d7b5c6fffaab5f4ba06100da27f958f0bdf02958de145a964782b2",
+      "rawPath": "data/raw/3a3bcd6f8fe019b1b5b2159007e5c769.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "33a640e6bfb76e794bfeeadb3a57a40f",
+      "title": "上海首个！大三甲医院检验科自研IVD试剂获批上市",
+      "url": "https://www.caclp.com/article/?detail_14399.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-25T11:58:37.832Z",
+      "contentStatus": "ready",
+      "contentHash": "2c1c3d5783c5f7ca6a14d3cfce950f4a3b8ff0a22b07ce8c080bae4b61d26a09",
+      "rawPath": "data/raw/33a640e6bfb76e794bfeeadb3a57a40f.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "770a97dcc04ac345b78f8bc5e1833ade",
+      "title": "罗氏诊断推出 MyLab+ER Delta 与第六代高敏肌钙蛋白 T 检测",
+      "url": "https://www.caclp.com/article/?detail_14400.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-25T11:58:36.785Z",
+      "contentStatus": "ready",
+      "contentHash": "9ac27bde8a01dc82ae11ec955d25262923f5a8016da360a8de29c63e2ebc7aa8",
+      "rawPath": "data/raw/770a97dcc04ac345b78f8bc5e1833ade.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "56ac81f56d448018f521b875f5928aca",
       "title": "Introducing Latent-X, a frontier generative AI model for protein binder design accessible via no-code platform for push-button protein design - Latent Labs",
@@ -81,6 +147,17 @@
       "contentStatus": "ready",
       "contentHash": "b59b81cc45c1a9d231340a08abdcb014838dcdc75d234720d4b2d2223fa969e9",
       "rawPath": "data/raw/47a041eb1d013545c953b45538c9ad82.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "d2a862a5b7288abae033f08cc479b6af",
+      "title": "Quantum ChemE Makes Its Annual Meeting Debut",
+      "url": "https://www.aiche.org/quantum-cheme-makes-its-annual-meeting-debut",
+      "publishedAt": "2026-09-24T21:03:05.000Z",
+      "crawledAt": "2026-09-25T11:58:47.227Z",
+      "contentStatus": "ready",
+      "contentHash": "d9a7741d16ef0b7a1071c8778030033373382a3e141e349bb180696faa0586e7",
+      "rawPath": "data/raw/d2a862a5b7288abae033f08cc479b6af.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -730,6 +807,17 @@
       "contentStatus": "ready",
       "contentHash": "42959bd0cc72463f7a4a86c5bbd1f516338e577c1fb1820f923e52d4b02bda14",
       "rawPath": "data/raw/e9ad17fe1ee9f40dba785e86f50146b7.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "cf9f21fc37fab3f41e346e268c828ff4",
+      "title": "Robotics",
+      "url": "https://www.nvidia.com/en-us/research/robotics/",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T05:12:08.213Z",
+      "contentStatus": "ready",
+      "contentHash": "a74142ae94a42261f41ac9c1e9b57f861c2b0c373683ea50b9098c302a2e1753",
+      "rawPath": "data/raw/cf9f21fc37fab3f41e346e268c828ff4.json",
       "lastAnalysisStatus": "pending"
     },
     {

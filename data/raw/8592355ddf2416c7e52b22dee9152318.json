@@ -1,0 +1,18 @@
+{
+  "id": "8592355ddf2416c7e52b22dee9152318",
+  "title": "How AI Is Saving Billions of Years of Human Research Time - Isomorphic Labs",
+  "url": "https://www.isomorphiclabs.com/articles/how-ai-is-saving-billions-of-years-of-human-research-time",
+  "sourceKey": "s02-01",
+  "sourceName": "Isomorphic Labs",
+  "sourceType": "AI药物公司",
+  "publishedAt": null,
+  "crawledAt": "2026-09-25T11:58:54.203Z",
+  "content": "Can AI compress the years long research time of a PhD into seconds? Our Chief Ai Officer, Max Jaderberg explores how “AI analogs” simulate real-world lab work with staggering speed and scale, unlocking new insights on protein folding and drug discovery. Drawing on his experience working on AlphaFold 3, an AI model developed and released by Isomorphic Labs and Google DeepMind for predicting the structure of molecules, Max explains how this new technology frees up researchers' time and resources to better understand the real, messy world and tackle the next frontiers of science, medicine and more. (Recorded at TEDAI San Francisco on October 22, 2024)",
+  "contentStatus": "ready",
+  "extractionMethod": "meta-description",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-25T11:58:54.203Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "efa586c6942828e6f51b45df73385d9412dd9f0c08cd6470a0a29f51d5a508c4"
+}

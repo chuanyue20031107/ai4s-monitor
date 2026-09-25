@@ -1,0 +1,18 @@
+{
+  "id": "a0ad4f912973e8b7c39105d7d5646e82",
+  "title": "A breakthrough unfolds. Google DeepMind: The Podcast featuring Demis Hassabis - Isomorphic Labs",
+  "url": "https://www.isomorphiclabs.com/articles/a-breakthrough-unfolds",
+  "sourceKey": "s02-01",
+  "sourceName": "Isomorphic Labs",
+  "sourceType": "AI药物公司",
+  "publishedAt": null,
+  "crawledAt": "2026-09-25T11:58:54.178Z",
+  "content": "In December 2019, DeepMind’s AI system, AlphaFold, solved a 50-year-old grand challenge in biology, known as the protein-folding problem. A headline in the journal Nature read, “It will change everything” and the President of the UK's Royal Society called it a “stunning advance [that arrived] decades before many in the field would have predicted”. This breakthrough AI model inspired the founding of Isomorphic Labs to apply cutting-edge AI to reimagine the entire drug discovery process.",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-25T11:58:54.178Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "82ba4e465094e72eb05e8e511866172d5bbe61ce7be9e48ac6a7f72e228844cf"
+}
