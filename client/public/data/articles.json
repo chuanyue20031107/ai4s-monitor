@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "56ac81f56d448018f521b875f5928aca",
+      "title": "Introducing Latent-X, a frontier generative AI model for protein binder design accessible via no-code platform for push-button protein design - Latent Labs",
+      "sourceKey": "s02-19",
+      "sourceName": "Latent Labs",
+      "sourceType": "生成式生物公司",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-09-25T05:05:38.067Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.latentlabs.com/press-release/introducing-latent-x-a-frontier-generative-ai-model-for-protein-binder-design-accessible-via-no-code-platform-for-push-button-protein-design/",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "294e86e97623ad00300e57197a55e96f",
       "title": "Read more",
       "sourceKey": "s01-20",
@@ -6897,5 +6915,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-09-24T21:39:02.351Z"
+  "updatedAt": "2026-09-25T05:08:58.057Z"
 }
