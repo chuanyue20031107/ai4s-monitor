@@ -1,11 +1,22 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-25T21:49:00.910Z",
-  "pendingCount": 86,
-  "readyCount": 86,
+  "updatedAt": "2026-09-26T05:10:45.176Z",
+  "pendingCount": 87,
+  "readyCount": 87,
   "awaitingContentCount": 0,
   "excludedContentCount": 92,
   "items": [
+    {
+      "id": "44c86881774f084fbd4fb2154f18c692",
+      "title": "Call for Papers",
+      "url": "https://www.bio-itworldexpo.com/call-for-papers",
+      "publishedAt": null,
+      "crawledAt": "2026-09-26T05:07:56.948Z",
+      "contentStatus": "ready",
+      "contentHash": "f326bf5e02d16e7351077cc0ebd0a9381f6b988869b09ef13d9be04ec7de459f",
+      "rawPath": "data/raw/44c86881774f084fbd4fb2154f18c692.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "e8d640e91748a23d002bc4817db4460c",
       "title": "中国科学院院所科技成果贵州行（六盘水市专场）活动举办",

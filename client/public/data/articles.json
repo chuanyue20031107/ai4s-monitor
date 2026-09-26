@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "44c86881774f084fbd4fb2154f18c692",
+      "title": "Call for Papers",
+      "sourceKey": "s11-13",
+      "sourceName": "Bio-IT World Conference & Expo",
+      "sourceType": "产业技术会议",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-09-26T05:07:56.948Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.bio-itworldexpo.com/call-for-papers",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "e8d640e91748a23d002bc4817db4460c",
       "title": "中国科学院院所科技成果贵州行（六盘水市专场）活动举办",
       "sourceKey": "s08-06",
@@ -7149,5 +7167,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-09-25T21:49:00.910Z"
+  "updatedAt": "2026-09-26T05:10:45.176Z"
 }
