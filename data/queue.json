@@ -1,11 +1,33 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-26T05:10:45.176Z",
-  "pendingCount": 87,
-  "readyCount": 87,
+  "updatedAt": "2026-09-26T11:33:41.294Z",
+  "pendingCount": 89,
+  "readyCount": 89,
   "awaitingContentCount": 0,
   "excludedContentCount": 92,
   "items": [
+    {
+      "id": "6191dfca7b1c242e8915455ac1fb7521",
+      "title": "Latent Labs and AWS announce collaboration to scale generative AI for the Life Sciences - Latent Labs",
+      "url": "https://www.latentlabs.com/press-release/latent-labs-and-aws-announce-collaboration-to-scale-generative-ai-for-the-life-sciences/",
+      "publishedAt": null,
+      "crawledAt": "2026-09-26T11:33:27.268Z",
+      "contentStatus": "ready",
+      "contentHash": "5b54374621f67b1131bda028c18e1491d5f1bb173ab8d12a15debca339e8924b",
+      "rawPath": "data/raw/6191dfca7b1c242e8915455ac1fb7521.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "e837a4297f975ca3558f6c58f6e1409a",
+      "title": "&Aacute;gnes T&oacute;th-Petr&oacute;czy",
+      "url": "https://www.helmholtz.de/en/newsroom/article/the-disorder-of-life/",
+      "publishedAt": null,
+      "crawledAt": "2026-09-26T11:33:23.693Z",
+      "contentStatus": "ready",
+      "contentHash": "6a0a488294fb13d6e10bdaad431c5304cf10d6aa739ace0d74e792e2f8fca2aa",
+      "rawPath": "data/raw/e837a4297f975ca3558f6c58f6e1409a.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "44c86881774f084fbd4fb2154f18c692",
       "title": "Call for Papers",
