@@ -1,0 +1,18 @@
+{
+  "id": "d3079105eecc3f94ef2212a6f4b52811",
+  "title": "Nobel Prize lecture: Demis Hassabis, Nobel Prize in Chemistry 2024 - Isomorphic Labs",
+  "url": "https://www.isomorphiclabs.com/articles/nobel-prize-lecture-demis-hassabis-nobel-prize-in-chemistry-2024",
+  "sourceKey": "s02-01",
+  "sourceName": "Isomorphic Labs",
+  "sourceType": "AI药物公司",
+  "publishedAt": null,
+  "crawledAt": "2026-09-26T16:30:57.849Z",
+  "content": "Our CEO, Demis Hassabis was jointly awarded the Nobel Prize in Chemistry in 2024 for AlphaFold 2, the breakthrough AI model for protein structure prediction developed by Google DeepMind. This groundbreaking AI model inspired the founding of Isomorphic Labs in 2021. Demis Hassabis delivered his Nobel Prize lecture \"Accelerating scientific discovery with AI\" on 8 December 2024 at the Aula Magna, Stockholm University. He was introduced by Professor Johan Åqvist, Member of the Nobel Committee for Chemistry.",
+  "contentStatus": "ready",
+  "extractionMethod": "meta-description",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-26T16:30:57.849Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "6abddfa91e6c942f1da1137c555cfd8138318fc734bd6e313d60e3b810a3346b"
+}

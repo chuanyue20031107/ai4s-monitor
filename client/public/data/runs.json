@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "id": "e575e869-0916-48f2-9f9e-39fec6b9cc57",
+      "taskType": "来源抓取",
+      "status": "success",
+      "processed": 36,
+      "succeeded": 36,
+      "failed": 0,
+      "inserted": 4,
+      "enriched": 0,
+      "detail": "来源 36：成功 36，失败 0；新增 4，补正文 0；未进行 AI 分析",
+      "failureReason": "",
+      "startedAt": "2026-09-26T16:30:32.443Z",
+      "finishedAt": "2026-09-26T16:30:58.597Z"
+    },
+    {
       "id": "61fd0a31-7256-420f-af97-a2dcf13e6735",
       "taskType": "来源抓取",
       "status": "failed",
@@ -1455,5 +1469,5 @@
       "finishedAt": "2026-09-16T05:12:19.802Z"
     }
   ],
-  "updatedAt": "2026-09-26T11:33:41.294Z"
+  "updatedAt": "2026-09-26T16:30:58.731Z"
 }
