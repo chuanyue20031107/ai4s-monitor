@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "fdc65275363367599abe2cadeef3a47a",
+      "title": "Latent Labs will be among the first to access NVIDIA DGX Cloud Lepton - Latent Labs",
+      "sourceKey": "s02-19",
+      "sourceName": "Latent Labs",
+      "sourceType": "生成式生物公司",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-09-27T17:04:12.593Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.latentlabs.com/press-release/525/",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "8389db8c851015a24f1099eb0d2cbef3",
       "title": "RCSB PDB News",
       "sourceKey": "s07-13",
@@ -7329,5 +7347,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-09-27T12:14:00.905Z"
+  "updatedAt": "2026-09-27T17:07:02.860Z"
 }

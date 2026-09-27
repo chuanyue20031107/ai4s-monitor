@@ -1,11 +1,22 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-27T12:14:00.905Z",
-  "pendingCount": 96,
-  "readyCount": 96,
+  "updatedAt": "2026-09-27T17:07:02.860Z",
+  "pendingCount": 97,
+  "readyCount": 97,
   "awaitingContentCount": 0,
   "excludedContentCount": 87,
   "items": [
+    {
+      "id": "fdc65275363367599abe2cadeef3a47a",
+      "title": "Latent Labs will be among the first to access NVIDIA DGX Cloud Lepton - Latent Labs",
+      "url": "https://www.latentlabs.com/press-release/525/",
+      "publishedAt": null,
+      "crawledAt": "2026-09-27T17:04:12.593Z",
+      "contentStatus": "ready",
+      "contentHash": "2f2ffc1e3bccdad8eef6320fb5c4549967fc9a6a0b678d4977acdd42055d2085",
+      "rawPath": "data/raw/fdc65275363367599abe2cadeef3a47a.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "8389db8c851015a24f1099eb0d2cbef3",
       "title": "RCSB PDB News",
