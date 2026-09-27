@@ -1,11 +1,44 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-26T21:20:32.233Z",
-  "pendingCount": 93,
-  "readyCount": 93,
+  "updatedAt": "2026-09-27T05:26:48.937Z",
+  "pendingCount": 96,
+  "readyCount": 96,
   "awaitingContentCount": 0,
-  "excludedContentCount": 91,
+  "excludedContentCount": 87,
   "items": [
+    {
+      "id": "8389db8c851015a24f1099eb0d2cbef3",
+      "title": "RCSB PDB News",
+      "url": "https://www.rcsb.org/news",
+      "publishedAt": null,
+      "crawledAt": "2026-09-27T05:26:45.390Z",
+      "contentStatus": "ready",
+      "contentHash": "11a654ce6d18f52ae7a03d01d9b419640f1f30aa1d8a9b80715edb9719d54193",
+      "rawPath": "data/raw/8389db8c851015a24f1099eb0d2cbef3.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "da1a7b58126e7b63d5e315f0fcb1bfa5",
+      "title": "Register for the December 7 Webinar on pdb_extract",
+      "url": "https://www.rcsb.org/news/training/69e252596c4fcd38cafe946f",
+      "publishedAt": null,
+      "crawledAt": "2026-09-27T05:26:45.277Z",
+      "contentStatus": "ready",
+      "contentHash": "5659bdca13636e067ab95a22caf1f0248786ca72cfec5ce1c5a37bbf6f623fa6",
+      "rawPath": "data/raw/da1a7b58126e7b63d5e315f0fcb1bfa5.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "b2220e74899e99cf24cf9a08947e1890",
+      "title": "Register for the Nov 3 Ask A Biocurator Anything",
+      "url": "https://www.rcsb.org/news/training/6a4e89e70fba48755e860648",
+      "publishedAt": null,
+      "crawledAt": "2026-09-27T05:26:45.133Z",
+      "contentStatus": "ready",
+      "contentHash": "4c7b08a9380de0d12958886ea476f3821041df5ec95d61c56f37827f84785788",
+      "rawPath": "data/raw/b2220e74899e99cf24cf9a08947e1890.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "d3079105eecc3f94ef2212a6f4b52811",
       "title": "Nobel Prize lecture: Demis Hassabis, Nobel Prize in Chemistry 2024 - Isomorphic Labs",
