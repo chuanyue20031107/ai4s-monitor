@@ -1,11 +1,44 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-28T05:35:47.592Z",
-  "pendingCount": 106,
-  "readyCount": 106,
+  "updatedAt": "2026-09-28T14:16:16.592Z",
+  "pendingCount": 109,
+  "readyCount": 109,
   "awaitingContentCount": 0,
-  "excludedContentCount": 86,
+  "excludedContentCount": 85,
   "items": [
+    {
+      "id": "a46f98257c69e806da7f81c53c0b73d2",
+      "title": "Structural Biology and Nobel Prizes",
+      "url": "https://www.rcsb.org/news/6aac02853bf5580b84a87d3f",
+      "publishedAt": null,
+      "crawledAt": "2026-09-28T14:13:17.762Z",
+      "contentStatus": "ready",
+      "contentHash": "a5cacd58e76ccc25d482fe9316c76a506236165800a1333e51438036b4747e70",
+      "rawPath": "data/raw/a46f98257c69e806da7f81c53c0b73d2.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "c245410ed4c0b99bf0b71cad433f5701",
+      "title": "Subscribe to newsletters",
+      "url": "https://www.rcsb.org/pages/news",
+      "publishedAt": null,
+      "crawledAt": "2026-09-28T14:13:17.625Z",
+      "contentStatus": "ready",
+      "contentHash": "dee12565476868fe393aded0c99b6f43e279a3181c888ccc1861e5a0105d58fe",
+      "rawPath": "data/raw/c245410ed4c0b99bf0b71cad433f5701.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "8b45f4cbb0cdeb98abd7712a7fcf68c3",
+      "title": "天津工生所在葡萄糖调控解淀粉芽孢杆菌抗真菌代谢物合成方面取得新进展",
+      "url": "https://tib.cas.cn/xwdt/kyjz/202609/t20260914_8282727.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-28T14:07:36.455Z",
+      "contentStatus": "ready",
+      "contentHash": "1077f0481ebdd5315ba9ff625d47d890e02957d4076791a5d398336984db4800",
+      "rawPath": "data/raw/8b45f4cbb0cdeb98abd7712a7fcf68c3.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "690609f426ad136a08439a20e6ef18d7",
       "title": "上海交通大学与中国远洋海运集团举行战略合作签约仪式 2026年09月26日",

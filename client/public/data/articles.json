@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "id": "a46f98257c69e806da7f81c53c0b73d2",
+      "title": "Structural Biology and Nobel Prizes",
+      "sourceKey": "s07-13",
+      "sourceName": "RCSB Protein Data Bank",
+      "sourceType": "科学数据库与平台",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-09-28T14:13:17.762Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.rcsb.org/news/6aac02853bf5580b84a87d3f",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "c245410ed4c0b99bf0b71cad433f5701",
+      "title": "Subscribe to newsletters",
+      "sourceKey": "s07-13",
+      "sourceName": "RCSB Protein Data Bank",
+      "sourceType": "科学数据库与平台",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-09-28T14:13:17.625Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.rcsb.org/pages/news",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "8b45f4cbb0cdeb98abd7712a7fcf68c3",
+      "title": "天津工生所在葡萄糖调控解淀粉芽孢杆菌抗真菌代谢物合成方面取得新进展",
+      "sourceKey": "s05-08",
+      "sourceName": "国家合成生物技术创新中心/生物铸造平台",
+      "sourceType": "自主实验室与平台",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-09-28T14:07:36.455Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://tib.cas.cn/xwdt/kyjz/202609/t20260914_8282727.html",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "690609f426ad136a08439a20e6ef18d7",
       "title": "上海交通大学与中国远洋海运集团举行战略合作签约仪式 2026年09月26日",
       "sourceKey": "s05-05",
@@ -7509,5 +7563,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-09-28T05:35:47.592Z"
+  "updatedAt": "2026-09-28T14:16:16.592Z"
 }
