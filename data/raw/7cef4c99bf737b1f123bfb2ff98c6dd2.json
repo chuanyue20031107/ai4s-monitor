@@ -1,0 +1,18 @@
+{
+  "id": "7cef4c99bf737b1f123bfb2ff98c6dd2",
+  "title": "The Quest to ‘Solve All Disease’ with AI: Isomorphic Labs’ Max Jaderberg - Isomorphic Labs",
+  "url": "https://www.isomorphiclabs.com/articles/the-quest-to-solve-all-diseases-with-ai-isomorphic-labs-max-jaderberg",
+  "sourceKey": "s02-01",
+  "sourceName": "Isomorphic Labs",
+  "sourceType": "AI药物公司",
+  "publishedAt": null,
+  "crawledAt": "2026-09-28T05:32:52.344Z",
+  "content": "He discusses how AlphaFold 3's diffusion-based architecture enables unprecedented understanding of molecular interactions, and why we're approaching a \"Move 37 moment\" in AI-powered drug design where models will surpass human intuition. Max shares his vision for generalised AI models that can solve all disease, and the importance of developing agents that can learn to search through the whole potential design space. Hear more on the podcast hosted by Stephanie Zhan, Sequoia capital.",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-28T05:32:52.344Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "0462ffb9b16deecdb05b00ec31a36ff706d18b05abc0c4a5c6f9ef54ebde95f3"
+}

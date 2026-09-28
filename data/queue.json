@@ -1,11 +1,110 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-27T21:29:35.055Z",
-  "pendingCount": 97,
-  "readyCount": 97,
+  "updatedAt": "2026-09-28T05:35:47.592Z",
+  "pendingCount": 106,
+  "readyCount": 106,
   "awaitingContentCount": 0,
   "excludedContentCount": 86,
   "items": [
+    {
+      "id": "690609f426ad136a08439a20e6ef18d7",
+      "title": "上海交通大学与中国远洋海运集团举行战略合作签约仪式 2026年09月26日",
+      "url": "https://news.sjtu.edu.cn/jdyw/20260927/226264.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-28T05:33:25.095Z",
+      "contentStatus": "ready",
+      "contentHash": "38707faee771f46d4eaa6b7d294dcd93020024c0363bb2d0aedcc31b07826ff1",
+      "rawPath": "data/raw/690609f426ad136a08439a20e6ef18d7.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "09149c1a7d7a7bd7dafc94ab3ba734d1",
+      "title": "上海交通大学教职工人工智能素养提升专题培训暨“AI素养大讲堂”首讲开讲",
+      "url": "https://news.sjtu.edu.cn/jdyw/20260922/226186.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-28T05:33:24.872Z",
+      "contentStatus": "ready",
+      "contentHash": "11984021cc5375f6bf57fe24139be4b51c4c8bf211afaf29477cd50d864c8a0f",
+      "rawPath": "data/raw/09149c1a7d7a7bd7dafc94ab3ba734d1.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "30434bb7df0070676f66296c3bf6a2e6",
+      "title": "“戏韵中华·友谊长青”区校联动2026民间外交主题活动成功举办",
+      "url": "https://news.sjtu.edu.cn/jdyw/20260922/226188.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-28T05:33:22.371Z",
+      "contentStatus": "ready",
+      "contentHash": "80c4187582c4a406fd8fa77c692b6e759a84a033abdcfdbce40048e8bd369109",
+      "rawPath": "data/raw/30434bb7df0070676f66296c3bf6a2e6.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "c0c40da3217f3187791c011d17267a58",
+      "title": "关于2026年度我校省保健对象体检补检的通知",
+      "url": "https://www.ustc.edu.cn/tzggcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1363&wbnewsid=25821",
+      "publishedAt": null,
+      "crawledAt": "2026-09-28T05:33:14.243Z",
+      "contentStatus": "ready",
+      "contentHash": "0bbca3a39e114a3aa22ec7e8235af77921f6f4f2d78dcee3d26748fe179f94c0",
+      "rawPath": "data/raw/c0c40da3217f3187791c011d17267a58.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "31fd7e7dcbd16e193e7c6e0efc6cb4e6",
+      "title": "水上邀明月，商管共此时——科技商学院、管理学院举办2026级本科新生中...",
+      "url": "http://news.ustc.edu.cn/info/1055/96427.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-09-28T05:33:14.029Z",
+      "contentStatus": "ready",
+      "contentHash": "8dea4ba7bf36d5bc84d5d896493cc5e662c519fcba2039d3e65fb6aa3f4f11b4",
+      "rawPath": "data/raw/31fd7e7dcbd16e193e7c6e0efc6cb4e6.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "9e45b790f1316e2eaea88ba392feeb62",
+      "title": "校友宋晓东教授荣获2026年度AGU英厄·莱曼奖章",
+      "url": "http://news.ustc.edu.cn/info/1055/96434.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-09-28T05:33:13.013Z",
+      "contentStatus": "ready",
+      "contentHash": "370f57ad8e1f319bd26e3c2d8956066e5eef84e425ebe1b652f1dc50e2fc5556",
+      "rawPath": "data/raw/9e45b790f1316e2eaea88ba392feeb62.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "0dad26b50f2a5bfc2631fa8dfe523978",
+      "title": "Isomorphic Labs announces new Scientific Advisory Board - Isomorphic Labs",
+      "url": "https://www.isomorphiclabs.com/articles/isomorphic-labs-announces-new-scientific-advisory-board",
+      "publishedAt": null,
+      "crawledAt": "2026-09-28T05:32:52.403Z",
+      "contentStatus": "ready",
+      "contentHash": "cc39c42bfdd99a413485f0edc9e48eef39223603e0891c9aedc67d680c8df901",
+      "rawPath": "data/raw/0dad26b50f2a5bfc2631fa8dfe523978.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "b1b8bdf632475d65815a33375c91fc95",
+      "title": "AlphaFold 3 predicts the structure and interactions of all of life’s molecules - Isomorphic Labs",
+      "url": "https://www.isomorphiclabs.com/articles/alphafold-3-predicts-the-structure-and-interactions-of-all-of-lifes-molecules",
+      "publishedAt": null,
+      "crawledAt": "2026-09-28T05:32:52.378Z",
+      "contentStatus": "ready",
+      "contentHash": "705a4f6aede6d0ad47fe2b5b54860f6e5437c5e78cd281a2a7cb8a82b5607cc8",
+      "rawPath": "data/raw/b1b8bdf632475d65815a33375c91fc95.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "7cef4c99bf737b1f123bfb2ff98c6dd2",
+      "title": "The Quest to ‘Solve All Disease’ with AI: Isomorphic Labs’ Max Jaderberg - Isomorphic Labs",
+      "url": "https://www.isomorphiclabs.com/articles/the-quest-to-solve-all-diseases-with-ai-isomorphic-labs-max-jaderberg",
+      "publishedAt": null,
+      "crawledAt": "2026-09-28T05:32:52.344Z",
+      "contentStatus": "ready",
+      "contentHash": "0462ffb9b16deecdb05b00ec31a36ff706d18b05abc0c4a5c6f9ef54ebde95f3",
+      "rawPath": "data/raw/7cef4c99bf737b1f123bfb2ff98c6dd2.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "fdc65275363367599abe2cadeef3a47a",
       "title": "Latent Labs will be among the first to access NVIDIA DGX Cloud Lepton - Latent Labs",
