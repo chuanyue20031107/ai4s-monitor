@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "ad29a1eb1b36a122a817b93a507efcd7",
+      "title": "关于举办2026年中国药学会药物临床评价研究专业委员...",
+      "sourceKey": "s10-13",
+      "sourceName": "全国药物化学学术会议",
+      "sourceType": "专题学术会议",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-09-28T23:24:42.122Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.cpa.org.cn/?do=info&cid=79065",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "0681294f54cd2340ec06380080bf7fdf",
+      "title": "研究揭示俯冲界面粗糙度并非大地震的主控因素",
+      "sourceKey": "s08-06",
+      "sourceName": "中国科学院",
+      "sourceType": "国家科研机构",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-09-28T23:21:56.024Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.cas.cn/syky/202609/t20260920_5120650.shtml",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "bdc186dc308c105fc55e95bb5574cad8",
+      "title": "研究揭示非计划冲动性与拖延之间的共享神经遗传基础",
+      "sourceKey": "s08-06",
+      "sourceName": "中国科学院",
+      "sourceType": "国家科研机构",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-09-28T23:21:55.514Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.cas.cn/syky/202609/t20260928_5121102.shtml",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "001ccd66ec38c5823a9b37046bf6b6b7",
+      "title": "1,3-二烯立体发散性调聚反应研究取得进展",
+      "sourceKey": "s08-06",
+      "sourceName": "中国科学院",
+      "sourceType": "国家科研机构",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-09-28T23:21:54.512Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.cas.cn/syky/202609/t20260928_5121113.shtml",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "a46f98257c69e806da7f81c53c0b73d2",
       "title": "Structural Biology and Nobel Prizes",
       "sourceKey": "s07-13",
@@ -7563,5 +7635,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-09-28T14:16:16.592Z"
+  "updatedAt": "2026-09-28T23:25:06.705Z"
 }

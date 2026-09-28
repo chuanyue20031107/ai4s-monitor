@@ -1,11 +1,55 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-28T14:16:16.592Z",
-  "pendingCount": 109,
-  "readyCount": 109,
+  "updatedAt": "2026-09-28T23:25:06.705Z",
+  "pendingCount": 113,
+  "readyCount": 113,
   "awaitingContentCount": 0,
   "excludedContentCount": 85,
   "items": [
+    {
+      "id": "ad29a1eb1b36a122a817b93a507efcd7",
+      "title": "关于举办2026年中国药学会药物临床评价研究专业委员...",
+      "url": "https://www.cpa.org.cn/?do=info&cid=79065",
+      "publishedAt": null,
+      "crawledAt": "2026-09-28T23:24:42.122Z",
+      "contentStatus": "ready",
+      "contentHash": "d6a09b5f904a90ac227482d018a506c06dfdfbc4085dc12c52ded1654c2aa944",
+      "rawPath": "data/raw/ad29a1eb1b36a122a817b93a507efcd7.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "0681294f54cd2340ec06380080bf7fdf",
+      "title": "研究揭示俯冲界面粗糙度并非大地震的主控因素",
+      "url": "https://www.cas.cn/syky/202609/t20260920_5120650.shtml",
+      "publishedAt": null,
+      "crawledAt": "2026-09-28T23:21:56.024Z",
+      "contentStatus": "ready",
+      "contentHash": "388702334a885436d736956b599fd9cbe316d96a0f05d9f7d51974e55bdecdaa",
+      "rawPath": "data/raw/0681294f54cd2340ec06380080bf7fdf.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "bdc186dc308c105fc55e95bb5574cad8",
+      "title": "研究揭示非计划冲动性与拖延之间的共享神经遗传基础",
+      "url": "https://www.cas.cn/syky/202609/t20260928_5121102.shtml",
+      "publishedAt": null,
+      "crawledAt": "2026-09-28T23:21:55.514Z",
+      "contentStatus": "ready",
+      "contentHash": "b3e5bc484159c86a533444fa6f91057953180e8ea3877171a118962608ab3271",
+      "rawPath": "data/raw/bdc186dc308c105fc55e95bb5574cad8.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "001ccd66ec38c5823a9b37046bf6b6b7",
+      "title": "1,3-二烯立体发散性调聚反应研究取得进展",
+      "url": "https://www.cas.cn/syky/202609/t20260928_5121113.shtml",
+      "publishedAt": null,
+      "crawledAt": "2026-09-28T23:21:54.512Z",
+      "contentStatus": "ready",
+      "contentHash": "c156018a606a51dc75867847d66feedc08dfee3465b915db81702567ccb140f1",
+      "rawPath": "data/raw/001ccd66ec38c5823a9b37046bf6b6b7.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "a46f98257c69e806da7f81c53c0b73d2",
       "title": "Structural Biology and Nobel Prizes",
