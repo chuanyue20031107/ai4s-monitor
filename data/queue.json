@@ -1,11 +1,88 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-28T23:25:06.705Z",
-  "pendingCount": 113,
-  "readyCount": 113,
+  "updatedAt": "2026-09-29T05:54:53.542Z",
+  "pendingCount": 123,
+  "readyCount": 123,
   "awaitingContentCount": 0,
   "excludedContentCount": 85,
   "items": [
+    {
+      "id": "c3af3db517e9cbd16bf830d3d819a3ef",
+      "title": "中国向前，需要更精准的答案 2026-09-28",
+      "url": "https://www.fpi-inc.com/news_cont_48322.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-29T05:52:29.123Z",
+      "contentStatus": "ready",
+      "contentHash": "e87d95741de5266ea67f5fe7e559b8c2957ada80049675459393984826a54d6f",
+      "rawPath": "data/raw/c3af3db517e9cbd16bf830d3d819a3ef.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "ae1ed4f1dfbba7fbf95edaae48f74855",
+      "title": "聚光科技成立半导体事业部，以精密检测支撑中国“芯”",
+      "url": "https://www.fpi-inc.com/news_cont_48281.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-29T05:52:27.792Z",
+      "contentStatus": "ready",
+      "contentHash": "b9ddfa87298fe2773f658878d57482491e4982ca0d978fa95721edfef7c72f00",
+      "rawPath": "data/raw/ae1ed4f1dfbba7fbf95edaae48f74855.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "74dab4f1728265aba2c47ddafd3cc946",
+      "title": "Center Director Masashi Sugiyama Delivered a Keynote Speech at CoLLAs2026",
+      "url": "https://aip.riken.jp/news/202609collas2026keynote/",
+      "publishedAt": null,
+      "crawledAt": "2026-09-29T05:52:13.924Z",
+      "contentStatus": "ready",
+      "contentHash": "e8443f02a1f52d7097e85886d10d5ac46677b1c78771dcdda7c40fc5eab58ef3",
+      "rawPath": "data/raw/74dab4f1728265aba2c47ddafd3cc946.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "1d0a514b05927b18bcedf96a7bee7557",
+      "title": "Artificial Intelligence Get production-ready AI that automates, builds, creates, decides, and engages at scale",
+      "url": "https://aws.amazon.com/ai/",
+      "publishedAt": null,
+      "crawledAt": "2026-09-29T05:52:09.398Z",
+      "contentStatus": "ready",
+      "contentHash": "9cc93d9ca9f50c880eb6a76868140642c201ecd008d05941dd0675764eaba359",
+      "rawPath": "data/raw/1d0a514b05927b18bcedf96a7bee7557.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "d94cb9366b32084b4b2fc636a6033e11",
+      "title": "Why are silicon wafers round?",
+      "url": "https://research.ibm.com/blog/why-are-silicon-wafers-round",
+      "publishedAt": null,
+      "crawledAt": "2026-09-29T05:52:09.316Z",
+      "contentStatus": "ready",
+      "contentHash": "1563ed287134ee8988b578d79f099f441b5e5379033568a77d89816a6b04650c",
+      "rawPath": "data/raw/d94cb9366b32084b4b2fc636a6033e11.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "a92143436bca52d1b0b6df4a9b44759d",
+      "title": "Data & Analytics Future proof your data foundation for agentic AI",
+      "url": "https://aws.amazon.com/data/",
+      "publishedAt": null,
+      "crawledAt": "2026-09-29T05:52:09.226Z",
+      "contentStatus": "ready",
+      "contentHash": "4405e7a8d9dad785463e03bdc1a6807bba7b6e50f9b2571222362744ed6790d9",
+      "rawPath": "data/raw/a92143436bca52d1b0b6df4a9b44759d.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "c12b1b274d761f0a97b940097ea95375",
+      "title": "Migrate & Modernize Clear technical debt, modernize infrastructure, and move to the cloud",
+      "url": "https://aws.amazon.com/migration-and-modernization/",
+      "publishedAt": null,
+      "crawledAt": "2026-09-29T05:52:09.132Z",
+      "contentStatus": "ready",
+      "contentHash": "f80956bc95c50e145ebcdaa22b950908e46550ae3eb9ed6c51a86598dafc55e5",
+      "rawPath": "data/raw/c12b1b274d761f0a97b940097ea95375.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "ad29a1eb1b36a122a817b93a507efcd7",
       "title": "关于举办2026年中国药学会药物临床评价研究专业委员...",
@@ -51,6 +128,17 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "50d71cd52400f551c336b9ad5bff2105",
+      "title": "How we will do better for Australia",
+      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "publishedAt": "2026-09-28T19:00:00.000Z",
+      "crawledAt": "2026-09-29T05:52:09.619Z",
+      "contentStatus": "ready",
+      "contentHash": "dc6f9c179d0b0edc3a1c1ee927123c991de436c011adc9dc3d851f09cba4382a",
+      "rawPath": "data/raw/50d71cd52400f551c336b9ad5bff2105.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "a46f98257c69e806da7f81c53c0b73d2",
       "title": "Structural Biology and Nobel Prizes",
       "url": "https://www.rcsb.org/news/6aac02853bf5580b84a87d3f",
@@ -81,6 +169,17 @@
       "contentStatus": "ready",
       "contentHash": "1077f0481ebdd5315ba9ff625d47d890e02957d4076791a5d398336984db4800",
       "rawPath": "data/raw/8b45f4cbb0cdeb98abd7712a7fcf68c3.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "0adf5bb2a473897d12526e4b9a8c8839",
+      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "publishedAt": "2026-09-28T07:00:00.000Z",
+      "crawledAt": "2026-09-29T05:52:09.619Z",
+      "contentStatus": "ready",
+      "contentHash": "f0750e2610bf72b3c7c3bece8589cd8ea996d830c646e56074659c8dc51b8277",
+      "rawPath": "data/raw/0adf5bb2a473897d12526e4b9a8c8839.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -180,6 +279,17 @@
       "contentStatus": "ready",
       "contentHash": "0462ffb9b16deecdb05b00ec31a36ff706d18b05abc0c4a5c6f9ef54ebde95f3",
       "rawPath": "data/raw/7cef4c99bf737b1f123bfb2ff98c6dd2.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "833e9419a34f8836dc9d75020b228e7e",
+      "title": "Are you a Codex Original?",
+      "url": "https://openai.com/form/codex-originals",
+      "publishedAt": "2026-09-28T00:00:00.000Z",
+      "crawledAt": "2026-09-29T05:52:09.619Z",
+      "contentStatus": "ready",
+      "contentHash": "37ee240f0bfaeb80acf714fc33f5801f6a7147b42d541406a2649ea503f862c9",
+      "rawPath": "data/raw/833e9419a34f8836dc9d75020b228e7e.json",
       "lastAnalysisStatus": "pending"
     },
     {

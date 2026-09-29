@@ -1,0 +1,18 @@
+{
+  "id": "50d71cd52400f551c336b9ad5bff2105",
+  "title": "How we will do better for Australia",
+  "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+  "sourceKey": "s01-14",
+  "sourceName": "OpenAI",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": "2026-09-28T19:00:00.000Z",
+  "crawledAt": "2026-09-29T05:52:09.619Z",
+  "content": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-29T05:52:09.619Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "dc6f9c179d0b0edc3a1c1ee927123c991de436c011adc9dc3d851f09cba4382a"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "74dab4f1728265aba2c47ddafd3cc946",
+  "title": "Center Director Masashi Sugiyama Delivered a Keynote Speech at CoLLAs2026",
+  "url": "https://aip.riken.jp/news/202609collas2026keynote/",
+  "sourceKey": "s01-22",
+  "sourceName": "RIKEN Center for Advanced Intelligence Project",
+  "sourceType": "国家研究机构",
+  "publishedAt": null,
+  "crawledAt": "2026-09-29T05:52:13.924Z",
+  "content": "Center Director Masashi Sugiyama delivered a keynote lecture at the Fifth Conference on Lifelong Learning Agents (CoLLAs 2026). CoLLAs is an annual gathering of researchers to exchange ideas on all facets of adaptation of ML models, especially, but not limited to, the ability for lifelong learning. Dr. Sugiyama presented a unified view of key challenges: learning from weak and noisy supervision, adapting to distribution shifts while balancing stability and plasticity, and reinforcement learning under sparse, noisy, and non-stationary feedback. CoLLAs has also featured AIP researchers as keynote speakers. At CoLLAs 2024, Team Director Emtiyaz Khan of the Adaptive Bayesian Intelligence Team delivered a keynote lecture. Nihonbashi 1-chome Mitsui Building, 15th floor, e-mail: aip-koho [at]riken.jp *Please replace \"[at]\" with \"@\".",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-29T05:52:13.924Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "e8443f02a1f52d7097e85886d10d5ac46677b1c78771dcdda7c40fc5eab58ef3"
+}
