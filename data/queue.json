@@ -1,11 +1,55 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-29T13:02:31.018Z",
-  "pendingCount": 128,
-  "readyCount": 128,
+  "updatedAt": "2026-09-29T22:26:07.919Z",
+  "pendingCount": 134,
+  "readyCount": 134,
   "awaitingContentCount": 0,
   "excludedContentCount": 85,
   "items": [
+    {
+      "id": "afcc6d96f015917dcaa01619380d29e1",
+      "title": "Harness 桌面端",
+      "url": "https://www.deepseek.com/harness/",
+      "publishedAt": null,
+      "crawledAt": "2026-09-29T22:22:34.879Z",
+      "contentStatus": "ready",
+      "contentHash": "c972aea1928ec3631e900e01a3ea01f3cc38e423adbf387fd0a3e60243080eb8",
+      "rawPath": "data/raw/afcc6d96f015917dcaa01619380d29e1.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "17a5a04357ca28db28f710ff787ed6a9",
+      "title": "Isomorphic Labs to appoint Max Jaderberg as President - Isomorphic Labs",
+      "url": "https://www.isomorphiclabs.com/articles/isomorphic-labs-to-appoint-max-jaderberg-as-president",
+      "publishedAt": null,
+      "crawledAt": "2026-09-29T22:22:30.152Z",
+      "contentStatus": "ready",
+      "contentHash": "675e4e2fa78c7d60b9867ab1e26534cb27c927a310056879d55fc7159dc5277b",
+      "rawPath": "data/raw/17a5a04357ca28db28f710ff787ed6a9.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "7251e93e166225288c24db1a846c9d11",
+      "title": "In Conversation with Max Jaderberg, Isomorphic Labs' incoming President - Isomorphic Labs",
+      "url": "https://www.isomorphiclabs.com/articles/in-conversation-with-max-jaderberg-isomorphic-labs-incoming-president",
+      "publishedAt": null,
+      "crawledAt": "2026-09-29T22:22:30.122Z",
+      "contentStatus": "ready",
+      "contentHash": "697105aa8d4e0b03e514649ac2a05be4c43ef13f9747c83d10d522e772b4b45b",
+      "rawPath": "data/raw/7251e93e166225288c24db1a846c9d11.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "fc615e071bcda5270221bed43988338c",
+      "title": "Building a new path to make medicines with AI - Isomorphic Labs",
+      "url": "https://www.isomorphiclabs.com/articles/building-a-new-path-to-make-medicines-with-ai",
+      "publishedAt": null,
+      "crawledAt": "2026-09-29T22:22:30.089Z",
+      "contentStatus": "ready",
+      "contentHash": "5b337b5aa3e6ee080f31ae57970d8eb4024edf611aa3b1bcb4d570586e96dfb6",
+      "rawPath": "data/raw/fc615e071bcda5270221bed43988338c.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "636f95afb1e5a23c90d4866835b431db",
       "title": "中国药学会关于2026年度公开招聘编外聘用人员笔试相...",
@@ -48,6 +92,17 @@
       "contentStatus": "ready",
       "contentHash": "5f8576f288846485b3154d335f1f2531e2cc77328ddcbe9b7a606690882536ce",
       "rawPath": "data/raw/aded2fea7b9a0ca2b5e07c832675b14c.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "8fec5497f80715f69493628e13ab985c",
+      "title": "寻找下一个“十亿美金分子”科学创业大赛：XtalPi Science，高校年轻人的第一个创业合伙人",
+      "url": "https://www.xtalpi.com/%e5%af%bb%e6%89%be%e4%b8%8b%e4%b8%80%e4%b8%aa%e5%8d%81%e4%ba%bf%e7%be%8e%e9%87%91%e5%88%86%e5%ad%90%e7%a7%91%e5%ad%a6%e5%88%9b%e4%b8%9a%e5%a4%a7%e8%b5%9b%ef%bc%9axtalpi-science/",
+      "publishedAt": "2026-09-29T07:54:08.000Z",
+      "crawledAt": "2026-09-29T22:22:45.916Z",
+      "contentStatus": "ready",
+      "contentHash": "6745d201824655b90aeeca6d03b56e7bc16ec3c6a9b777d369e49e3665d76f5f",
+      "rawPath": "data/raw/8fec5497f80715f69493628e13ab985c.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -224,6 +279,17 @@
       "contentStatus": "ready",
       "contentHash": "1077f0481ebdd5315ba9ff625d47d890e02957d4076791a5d398336984db4800",
       "rawPath": "data/raw/8b45f4cbb0cdeb98abd7712a7fcf68c3.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "2a0119434f02e37add0aa24b0efec8d5",
+      "title": "NIST Provides Updates on National Construction Safety Team Activities",
+      "url": "https://www.nist.gov/news-events/news/2026/09/nist-provides-updates-national-construction-safety-team-activities",
+      "publishedAt": "2026-09-28T12:00:00.000Z",
+      "crawledAt": "2026-09-29T22:22:29.529Z",
+      "contentStatus": "ready",
+      "contentHash": "cd50b8706ce180a2c445faa01316cbe1e65a4cdfb4457620117bd22e4583b54e",
+      "rawPath": "data/raw/2a0119434f02e37add0aa24b0efec8d5.json",
       "lastAnalysisStatus": "pending"
     },
     {

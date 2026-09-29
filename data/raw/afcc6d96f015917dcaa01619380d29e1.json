@@ -1,0 +1,18 @@
+{
+  "id": "afcc6d96f015917dcaa01619380d29e1",
+  "title": "Harness 桌面端",
+  "url": "https://www.deepseek.com/harness/",
+  "sourceKey": "s03-01",
+  "sourceName": "DeepSeek",
+  "sourceType": "通用模型厂商",
+  "publishedAt": null,
+  "crawledAt": "2026-09-29T22:22:34.879Z",
+  "content": "一切皆插件 安装现有插件，或在「创造模式」中通过对话创建插件，扩展工具、技能和界面。 创造模式 帮我写一个「番茄时钟」插件 帮我写一个「番茄时钟」插件 深度求索中 加载技能 cordis-plugin-development 读取 skills/cordis-plugin-development/SKILL.md 思考 shell.overlay is a frame-wide floating layer — the right target for an always-on-top window. 检查提供方 9 个检查提供方 查询运行时 Slots.listSubTree 写入 dsh-plugin-pomodoro-float/package.json + 35 − 0 写入 dsh-plugin-pomodoro-float/client.js + 638 − 0 工具调用 plugin_manager · install_bundle 编辑 dsh-plugin-pomodoro-float/client.js + 5 − 3 运行命令 检查插件运行状态 用时 5分24秒 番茄时钟悬浮插件已做好、装好并验证通过。 插件 官方 智能体团队 实验性 自动授权审查 实验性 自动化任务 实验性 语音输入 实验性 终端 Agent 循环 子智能体 已安装 番茄时钟 番茄时钟 专注 短休息 25:00 24:59 24:58 24:57 24:56 24:55 24:54 24:53 24:52 24:51 24:50 24:49 24:48 24:47 24:46 24:45 24:44 24:43 24:42 24:41 24:40 24:39 24:38 24:37 24:36 开始专注 25:00 24:59 24:58 24:57 24:56 24:55 24:54 24:53 24:52 24:51 24:50 24:49 24:48 24:47 24:46 24:45 24:44 24:43 24:42 24:41 24:40 24:39 24:38 24:37 24:36 专注",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-29T22:22:34.879Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "c972aea1928ec3631e900e01a3ea01f3cc38e423adbf387fd0a3e60243080eb8"
+}
