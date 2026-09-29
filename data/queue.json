@@ -1,11 +1,55 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-29T05:54:53.542Z",
-  "pendingCount": 123,
-  "readyCount": 123,
+  "updatedAt": "2026-09-29T13:02:31.018Z",
+  "pendingCount": 128,
+  "readyCount": 128,
   "awaitingContentCount": 0,
   "excludedContentCount": 85,
   "items": [
+    {
+      "id": "636f95afb1e5a23c90d4866835b431db",
+      "title": "中国药学会关于2026年度公开招聘编外聘用人员笔试相...",
+      "url": "https://www.cpa.org.cn/?do=info&cid=79070",
+      "publishedAt": null,
+      "crawledAt": "2026-09-29T13:02:24.425Z",
+      "contentStatus": "ready",
+      "contentHash": "355a9ff8442ef0dab635e1fb2e6c3242df155b25ace334a65107cb5459ee92df",
+      "rawPath": "data/raw/636f95afb1e5a23c90d4866835b431db.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "5969b953e25f2284b116d9597d200a5b",
+      "title": "2026-09-29 亿纬锂能ESG评级再获多项国际认可",
+      "url": "https://www.evebattery.com/news-1118",
+      "publishedAt": null,
+      "crawledAt": "2026-09-29T13:02:14.044Z",
+      "contentStatus": "ready",
+      "contentHash": "88f90dfc2ee63552c3058d1b8fed77fc2da1fbaeda82c27ef953d3cd71cbe84b",
+      "rawPath": "data/raw/5969b953e25f2284b116d9597d200a5b.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "61341ad34499eded8b3c301067a143b2",
+      "title": "2026-09-29 亿纬锂能乘用车电池质量再获第一",
+      "url": "https://www.evebattery.com/news-1119",
+      "publishedAt": null,
+      "crawledAt": "2026-09-29T13:02:13.592Z",
+      "contentStatus": "ready",
+      "contentHash": "c8a1f4d668cdeca803eeb18a77ab7a1d267251920f5a9aefc30b0df5daea05e4",
+      "rawPath": "data/raw/61341ad34499eded8b3c301067a143b2.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "aded2fea7b9a0ca2b5e07c832675b14c",
+      "title": "亿纬锂能荣获湖北省长江质量奖",
+      "url": "https://www.evebattery.com/news-1120",
+      "publishedAt": null,
+      "crawledAt": "2026-09-29T13:02:13.153Z",
+      "contentStatus": "ready",
+      "contentHash": "5f8576f288846485b3154d335f1f2531e2cc77328ddcbe9b7a606690882536ce",
+      "rawPath": "data/raw/aded2fea7b9a0ca2b5e07c832675b14c.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "c3af3db517e9cbd16bf830d3d819a3ef",
       "title": "中国向前，需要更精准的答案 2026-09-28",
@@ -125,6 +169,17 @@
       "contentStatus": "ready",
       "contentHash": "c156018a606a51dc75867847d66feedc08dfee3465b915db81702567ccb140f1",
       "rawPath": "data/raw/001ccd66ec38c5823a9b37046bf6b6b7.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "fbb52d3a0c1eaabbb2b5d6edbe5586d9",
+      "title": "One year in: How Microsoft Research Asia – Singapore is advancing research, partnership and talent for real-world impact",
+      "url": "https://www.microsoft.com/en-us/research/blog/one-year-in-how-microsoft-research-asia-singapore-is-advancing-research-partnership-and-talent-for-real-world-impact/",
+      "publishedAt": "2026-09-28T21:00:00.000Z",
+      "crawledAt": "2026-09-29T13:02:30.704Z",
+      "contentStatus": "ready",
+      "contentHash": "2f42ab4587ba15c04ec78e4386683f5de83a1f3ed8c3a41e051bd3011b4a9a54",
+      "rawPath": "data/raw/fbb52d3a0c1eaabbb2b5d6edbe5586d9.json",
       "lastAnalysisStatus": "pending"
     },
     {

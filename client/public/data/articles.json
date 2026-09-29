@@ -1,6 +1,96 @@
 {
   "items": [
     {
+      "id": "fbb52d3a0c1eaabbb2b5d6edbe5586d9",
+      "title": "One year in: How Microsoft Research Asia – Singapore is advancing research, partnership and talent for real-world impact",
+      "sourceKey": "s01-02",
+      "sourceName": "Microsoft Research AI for Science",
+      "sourceType": "科技大厂研究机构",
+      "category": "",
+      "publishedAt": "2026-09-28T21:00:00.000Z",
+      "crawledAt": "2026-09-29T13:02:30.704Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.microsoft.com/en-us/research/blog/one-year-in-how-microsoft-research-asia-singapore-is-advancing-research-partnership-and-talent-for-real-world-impact/",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "636f95afb1e5a23c90d4866835b431db",
+      "title": "中国药学会关于2026年度公开招聘编外聘用人员笔试相...",
+      "sourceKey": "s10-18",
+      "sourceName": "中国药学大会",
+      "sourceType": "全国学术会议",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-09-29T13:02:24.425Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.cpa.org.cn/?do=info&cid=79070",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "5969b953e25f2284b116d9597d200a5b",
+      "title": "2026-09-29 亿纬锂能ESG评级再获多项国际认可",
+      "sourceKey": "s06-11",
+      "sourceName": "亿纬锂能",
+      "sourceType": "研发型企业",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-09-29T13:02:14.044Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.evebattery.com/news-1118",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "61341ad34499eded8b3c301067a143b2",
+      "title": "2026-09-29 亿纬锂能乘用车电池质量再获第一",
+      "sourceKey": "s06-11",
+      "sourceName": "亿纬锂能",
+      "sourceType": "研发型企业",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-09-29T13:02:13.592Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.evebattery.com/news-1119",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "aded2fea7b9a0ca2b5e07c832675b14c",
+      "title": "亿纬锂能荣获湖北省长江质量奖",
+      "sourceKey": "s06-11",
+      "sourceName": "亿纬锂能",
+      "sourceType": "研发型企业",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-09-29T13:02:13.153Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.evebattery.com/news-1120",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "c3af3db517e9cbd16bf830d3d819a3ef",
       "title": "中国向前，需要更精准的答案 2026-09-28",
       "sourceKey": "s04-09",
@@ -7815,5 +7905,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-09-29T05:54:53.542Z"
+  "updatedAt": "2026-09-29T13:02:31.018Z"
 }
