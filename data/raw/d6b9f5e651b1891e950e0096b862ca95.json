@@ -1,0 +1,18 @@
+{
+  "id": "d6b9f5e651b1891e950e0096b862ca95",
+  "title": "Introducing GPT-6.1 Sol",
+  "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+  "sourceKey": "s01-14",
+  "sourceName": "OpenAI",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": "2026-09-29T10:00:00.000Z",
+  "crawledAt": "2026-09-30T22:23:06.611Z",
+  "content": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-30T22:23:06.611Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "0bc032b00450588ff42a0b6b586fdbf3c9ef827a597df576bef5e3185b2ed53a"
+}

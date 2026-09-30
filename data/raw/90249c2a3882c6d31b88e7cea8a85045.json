@@ -1,0 +1,18 @@
+{
+  "id": "90249c2a3882c6d31b88e7cea8a85045",
+  "title": "Disrupting a coordinated model-distillation campaign",
+  "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+  "sourceKey": "s01-14",
+  "sourceName": "OpenAI",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": "2026-09-30T10:30:00.000Z",
+  "crawledAt": "2026-09-30T22:23:06.610Z",
+  "content": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-09-30T22:23:06.610Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "07dc3fe0cf4cc3969dfbe8e4d0e460b1e2f2d334751c8881a2b8b21a8376b55d"
+}

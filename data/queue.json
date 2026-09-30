@@ -1,11 +1,55 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-30T12:50:28.201Z",
-  "pendingCount": 148,
-  "readyCount": 148,
+  "updatedAt": "2026-09-30T22:23:20.122Z",
+  "pendingCount": 155,
+  "readyCount": 155,
   "awaitingContentCount": 0,
   "excludedContentCount": 81,
   "items": [
+    {
+      "id": "306d645824ba7ec026ac671bb836bd61",
+      "title": "Breaking the Tether: Resilient Navigation for Autonomous Systems | SandboxAQ",
+      "url": "https://www.sandboxaq.com/post/breaking-the-tether-the-strategic-vulnerability-of-tethered-autonomy",
+      "publishedAt": null,
+      "crawledAt": "2026-09-30T22:23:13.681Z",
+      "contentStatus": "ready",
+      "contentHash": "20bc83d18b9aa8e7d83aa9afefa68239055c7cf187fef3a9c1e0fc014fae0384",
+      "rawPath": "data/raw/306d645824ba7ec026ac671bb836bd61.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "3499c3856e551ecdf9183fd26d780269",
+      "title": "Biomedical engineering: a key to Europe&rsquo;s future",
+      "url": "https://www.helmholtz.de/en/newsroom/article/biomedical-engineering-als-chance-fuer-europa-2/",
+      "publishedAt": null,
+      "crawledAt": "2026-09-30T22:23:11.497Z",
+      "contentStatus": "ready",
+      "contentHash": "58f6c9c9f2c96f22700c927d79f382e57ca1eafe6faf6342e02d6b40f8b31427",
+      "rawPath": "data/raw/3499c3856e551ecdf9183fd26d780269.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "96e2c146a1c12b38e47c54b00b826bc0",
+      "title": "Hansa Biopharma Partners with Cradle to Advance AI-Driven Protein Design and Engineering",
+      "url": "https://www.cradle.bio/blog/hansa",
+      "publishedAt": null,
+      "crawledAt": "2026-09-30T22:23:11.185Z",
+      "contentStatus": "ready",
+      "contentHash": "a7e5c20a2483611438fa8bd83a67c13681125af82dff5211eb5215b1b7bb7232",
+      "rawPath": "data/raw/96e2c146a1c12b38e47c54b00b826bc0.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "eeb271a7dcff9962363120a60f75fb6e",
+      "title": "18 Papers Accepted at EMNLP 2026",
+      "url": "https://aip.riken.jp/news/emnlp2026/",
+      "publishedAt": null,
+      "crawledAt": "2026-09-30T22:23:10.037Z",
+      "contentStatus": "ready",
+      "contentHash": "242325e1e626d8e775eb9607670f8965f9e3f68ca5acac5bb906f186a793a974",
+      "rawPath": "data/raw/eeb271a7dcff9962363120a60f75fb6e.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "8efa75e8816b9a821744eb0bbce6cd20",
       "title": "习近平和彭丽媛同美国总统特朗普夫妇茶叙 当地时间9月25日上午，国家主席习近平和夫人彭丽媛同美国总统特朗普和夫人梅拉尼娅在白宫举行茶叙。新华社记者 姚大伟 摄 新华社华盛顿9月25日电 当地时间9月25日上午，国家主席习近平和夫人彭丽媛同美国总统特朗普和夫人梅拉尼娅在白宫举行茶叙。两国元首同意进一步丰富中美关系定位的",
@@ -81,6 +125,28 @@
       "contentStatus": "ready",
       "contentHash": "f7fe826444f1b71e6a3ed05122efa62f9bf3ec3e0c3ad6c1cd006c39e5fdcbe7",
       "rawPath": "data/raw/52762c834c6e7eb09e796c74139fd1cc.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "90249c2a3882c6d31b88e7cea8a85045",
+      "title": "Disrupting a coordinated model-distillation campaign",
+      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "publishedAt": "2026-09-30T10:30:00.000Z",
+      "crawledAt": "2026-09-30T22:23:06.610Z",
+      "contentStatus": "ready",
+      "contentHash": "07dc3fe0cf4cc3969dfbe8e4d0e460b1e2f2d334751c8881a2b8b21a8376b55d",
+      "rawPath": "data/raw/90249c2a3882c6d31b88e7cea8a85045.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "061338e668ed697490e5190ccd3e1fba",
+      "title": "Helping small businesses put AI to work",
+      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "publishedAt": "2026-09-30T10:00:00.000Z",
+      "crawledAt": "2026-09-30T22:23:06.610Z",
+      "contentStatus": "ready",
+      "contentHash": "6fe7d823014da5dcee2c89f28077228be748e10441d59b2c8d4c035086ce7fbc",
+      "rawPath": "data/raw/061338e668ed697490e5190ccd3e1fba.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -246,6 +312,17 @@
       "contentStatus": "ready",
       "contentHash": "5f8576f288846485b3154d335f1f2531e2cc77328ddcbe9b7a606690882536ce",
       "rawPath": "data/raw/aded2fea7b9a0ca2b5e07c832675b14c.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "d6b9f5e651b1891e950e0096b862ca95",
+      "title": "Introducing GPT-6.1 Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "publishedAt": "2026-09-29T10:00:00.000Z",
+      "crawledAt": "2026-09-30T22:23:06.611Z",
+      "contentStatus": "ready",
+      "contentHash": "0bc032b00450588ff42a0b6b586fdbf3c9ef827a597df576bef5e3185b2ed53a",
+      "rawPath": "data/raw/d6b9f5e651b1891e950e0096b862ca95.json",
       "lastAnalysisStatus": "pending"
     },
     {
