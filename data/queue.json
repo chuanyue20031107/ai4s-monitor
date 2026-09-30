@@ -1,11 +1,88 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-29T22:26:07.919Z",
-  "pendingCount": 134,
-  "readyCount": 134,
+  "updatedAt": "2026-09-30T05:42:00.081Z",
+  "pendingCount": 141,
+  "readyCount": 141,
   "awaitingContentCount": 0,
-  "excludedContentCount": 85,
+  "excludedContentCount": 84,
   "items": [
+    {
+      "id": "d095a4b1d14471651f1c1a6ecebf4523",
+      "title": "我所开发贵金属燃烧催化剂实现烧结烟气CO净化稳定运行12个月",
+      "url": "https://www.dicp.ac.cn/xwdt/kyjz/202609/t20260929_8287503.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-30T05:41:49.871Z",
+      "contentStatus": "ready",
+      "contentHash": "8f77b3e708a64ee44178c9d8e427f262269b001e3e98b0dbc3b21c9006f463b1",
+      "rawPath": "data/raw/d095a4b1d14471651f1c1a6ecebf4523.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "c680f2051bc4aeac3639177042b277e1",
+      "title": "陈英明：此心不移，初心不改 2026年09月29日",
+      "url": "https://news.sjtu.edu.cn/ztzl_rdcx/20260930/226348.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-30T05:41:40.011Z",
+      "contentStatus": "ready",
+      "contentHash": "7b3cec78eadb7f461b6ced73e94203fc07c995b91af4fd1db52ed0dcb1c47cfe",
+      "rawPath": "data/raw/c680f2051bc4aeac3639177042b277e1.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "7156790ac1796244937e1f5daa0ebe80",
+      "title": "《自然资源学报》创刊四十周年学科前沿与发展研讨会成功举办 2026年09月24日",
+      "url": "https://news.sjtu.edu.cn/jdyw/20260928/226291.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-30T05:41:39.779Z",
+      "contentStatus": "ready",
+      "contentHash": "dc782e1613d5d6ab1bc4f913d54d57cda7bb8f45084f9e158a965cbaeac89600",
+      "rawPath": "data/raw/7156790ac1796244937e1f5daa0ebe80.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "53b9a29598f81f818e5788a6b88ccbc3",
+      "title": "上海交通大学召开2026年秋季学期干部大会 2026年09月28日",
+      "url": "https://news.sjtu.edu.cn/jdyw/20260929/226335.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-30T05:41:37.289Z",
+      "contentStatus": "ready",
+      "contentHash": "e2408be4daa41cc856eddb608d07fb41b0648aa30ac456b052afc99ed42a8d4d",
+      "rawPath": "data/raw/53b9a29598f81f818e5788a6b88ccbc3.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "8a6caa965f41113db5ee27fc10d114e2",
+      "title": "关于开展2026-2027学年寰宇英才计划国际交流...",
+      "url": "https://www.ustc.edu.cn/tzggcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1363&wbnewsid=25829",
+      "publishedAt": null,
+      "crawledAt": "2026-09-30T05:41:36.700Z",
+      "contentStatus": "ready",
+      "contentHash": "ec971ae9c4638730c7c4ace49369e767b16b5eeef94d5928bae1cc6df68a7fcf",
+      "rawPath": "data/raw/8a6caa965f41113db5ee27fc10d114e2.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "c7d45a83279cf6f761a6c531c1ea1ccb",
+      "title": "​ 学校举办2026年“质量月”系列主题活动",
+      "url": "http://news.ustc.edu.cn/info/1055/96462.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-09-30T05:41:36.542Z",
+      "contentStatus": "ready",
+      "contentHash": "d38ab00dce72e8e9912b43ae6d11d8b142a6a68195000080f87f62d05d41ec07",
+      "rawPath": "data/raw/c7d45a83279cf6f761a6c531c1ea1ccb.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "300bdc76566fc6de4c14ee7707cad6d3",
+      "title": "学校召开2026年第三季度书记调度会（扩大）暨机关部处长联席会",
+      "url": "http://news.ustc.edu.cn/info/1055/96437.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-09-30T05:41:35.717Z",
+      "contentStatus": "ready",
+      "contentHash": "8191c0e8edf3baee22435af2dbb70e47ad671f28db6cb3862111124a4579c60b",
+      "rawPath": "data/raw/300bdc76566fc6de4c14ee7707cad6d3.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "afcc6d96f015917dcaa01619380d29e1",
       "title": "Harness 桌面端",
