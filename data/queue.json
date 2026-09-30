@@ -1,11 +1,88 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-30T05:42:00.081Z",
-  "pendingCount": 141,
-  "readyCount": 141,
+  "updatedAt": "2026-09-30T12:50:28.201Z",
+  "pendingCount": 148,
+  "readyCount": 148,
   "awaitingContentCount": 0,
-  "excludedContentCount": 84,
+  "excludedContentCount": 81,
   "items": [
+    {
+      "id": "8efa75e8816b9a821744eb0bbce6cd20",
+      "title": "习近平和彭丽媛同美国总统特朗普夫妇茶叙 当地时间9月25日上午，国家主席习近平和夫人彭丽媛同美国总统特朗普和夫人梅拉尼娅在白宫举行茶叙。新华社记者 姚大伟 摄 新华社华盛顿9月25日电 当地时间9月25日上午，国家主席习近平和夫人彭丽媛同美国总统特朗普和夫人梅拉尼娅在白宫举行茶叙。两国元首同意进一步丰富中美关系定位的",
+      "url": "https://www.caai.cn/site/content/11387.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-30T12:45:27.896Z",
+      "contentStatus": "ready",
+      "contentHash": "d57d916e947d4c4d91d0d009e36cad89c87fde57e8349cd14fb5d3c637a0adf1",
+      "rawPath": "data/raw/8efa75e8816b9a821744eb0bbce6cd20.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "a2009d7292b9fa53077bf6dab491f4a3",
+      "title": "• 2026智能检测与运动控制技术国际会议（IDMCT 2026）在南京成功举办 2026-09-24",
+      "url": "https://www.caai.cn/site/content/11390.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-30T12:45:27.567Z",
+      "contentStatus": "ready",
+      "contentHash": "ec9efd94f74722e021f04942368363cd7fa088af23be939d6807e43c2258a311",
+      "rawPath": "data/raw/a2009d7292b9fa53077bf6dab491f4a3.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "37e9aefb6f649aa42c060fc25da02594",
+      "title": "• CAAI TRIT 入选2025年度世界一流科技期刊目录 2026-09-24",
+      "url": "https://www.caai.cn/site/content/11380.html",
+      "publishedAt": null,
+      "crawledAt": "2026-09-30T12:45:26.947Z",
+      "contentStatus": "ready",
+      "contentHash": "e3e0fb7197439c4918fec6440afb472002a032fc42baee9fa50992b3306dcb36",
+      "rawPath": "data/raw/37e9aefb6f649aa42c060fc25da02594.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "a2a3b4f5f2f8c885c3853fb521330fe6",
+      "title": "清华大学薄膜制备及精细制作系统中标公告更正公告",
+      "url": "https://www.ccgp.gov.cn/cggg/zygg/gzgg/202609/t20260930_27435525.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-09-30T12:45:25.506Z",
+      "contentStatus": "ready",
+      "contentHash": "6853131ce66194b9f7c2a9a10e5eebcd5c9e7f23bc435092b25e938b2ff3f6d1",
+      "rawPath": "data/raw/a2a3b4f5f2f8c885c3853fb521330fe6.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "3ce71eafef5778cde53b3c0f4b445584",
+      "title": "清华大学110GHz连续扫描矢量网络分析仪中标公告",
+      "url": "https://www.ccgp.gov.cn/cggg/zygg/zbgg/202609/t20260930_27435526.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-09-30T12:45:24.893Z",
+      "contentStatus": "ready",
+      "contentHash": "91207d6b9a2ef8b3dd4773567c28f567498f236fe39da2e178c2971b89c8f0b6",
+      "rawPath": "data/raw/3ce71eafef5778cde53b3c0f4b445584.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "babf5e66dd3a0c7785b99702d5ef5fb0",
+      "title": "清华大学67GHz矢量信号发生器中标公告",
+      "url": "https://www.ccgp.gov.cn/cggg/zygg/zbgg/202609/t20260930_27435527.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-09-30T12:45:24.283Z",
+      "contentStatus": "ready",
+      "contentHash": "6501614506affa786255c7a9b1136bdc6a1e125ec2b646bbd639842e034e6e66",
+      "rawPath": "data/raw/babf5e66dd3a0c7785b99702d5ef5fb0.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "52762c834c6e7eb09e796c74139fd1cc",
+      "title": "Poster Prize Awarded at The Protein Society",
+      "url": "https://www.rcsb.org/news/feature/6ab293424ec37840b7ddf61f",
+      "publishedAt": null,
+      "crawledAt": "2026-09-30T12:45:15.282Z",
+      "contentStatus": "ready",
+      "contentHash": "f7fe826444f1b71e6a3ed05122efa62f9bf3ec3e0c3ad6c1cd006c39e5fdcbe7",
+      "rawPath": "data/raw/52762c834c6e7eb09e796c74139fd1cc.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "d095a4b1d14471651f1c1a6ecebf4523",
       "title": "我所开发贵金属燃烧催化剂实现烧结烟气CO净化稳定运行12个月",
