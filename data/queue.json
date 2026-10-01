@@ -1,11 +1,66 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-01T06:11:37.192Z",
-  "pendingCount": 157,
-  "readyCount": 157,
+  "updatedAt": "2026-10-01T13:31:28.372Z",
+  "pendingCount": 167,
+  "readyCount": 167,
   "awaitingContentCount": 0,
-  "excludedContentCount": 81,
+  "excludedContentCount": 78,
   "items": [
+    {
+      "id": "9fe940ea2227476e838150aa9bc9e98c",
+      "title": "Designing Beyond Tolerability Limits: Advancing GB-4362 Into Clinical Development | Generate:Biomedicines",
+      "url": "https://generatebiomedicines.com/blog-posts/designing-beyond-tolerability-limits-advancing-gb-4362-into-clinical-development/",
+      "publishedAt": null,
+      "crawledAt": "2026-10-01T13:29:02.495Z",
+      "contentStatus": "ready",
+      "contentHash": "b7bb63cc2c90e48264589cc52ecf6b3a77205a605c4f70116a75d709152be2f3",
+      "rawPath": "data/raw/9fe940ea2227476e838150aa9bc9e98c.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "828f03c5a334e9dccfa01a9728363270",
+      "title": "Engineering CAR T-Cells to Function Where Others Fail | Generate:Biomedicines",
+      "url": "https://generatebiomedicines.com/blog-posts/engineering-car-t-cells-to-function-where-others-fail/",
+      "publishedAt": null,
+      "crawledAt": "2026-10-01T13:29:02.125Z",
+      "contentStatus": "ready",
+      "contentHash": "feb2fbe80ff26c9b6d0271347c027c172e33d9259ee0100fe7ca1bc32d9e30e3",
+      "rawPath": "data/raw/828f03c5a334e9dccfa01a9728363270.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "3af720e701b7cf773e7b97e09c99237b",
+      "title": "Isomorphic Labs announces $600m external investment round - Isomorphic Labs",
+      "url": "https://www.isomorphiclabs.com/articles/isomorphic-labs-announces-600m-external-investment-round",
+      "publishedAt": null,
+      "crawledAt": "2026-10-01T13:29:00.321Z",
+      "contentStatus": "ready",
+      "contentHash": "874ff6d2bdf1c242bf7933a27349a90cb6be7c35dcb54e4794160ba4d336746a",
+      "rawPath": "data/raw/3af720e701b7cf773e7b97e09c99237b.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "946777a3a811c02e02e411d39b88eb8e",
+      "title": "Introducing Isomorphic Labs - Isomorphic Labs",
+      "url": "https://www.isomorphiclabs.com/articles/introducing-isomorphic-labs",
+      "publishedAt": null,
+      "crawledAt": "2026-10-01T13:29:00.232Z",
+      "contentStatus": "ready",
+      "contentHash": "0592859a6054b5ba1c88c2c2ad54924c565bf051e36e84a8e6b7621296305907",
+      "rawPath": "data/raw/946777a3a811c02e02e411d39b88eb8e.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "364c99ab106a410b609ab8410fd272f1",
+      "title": "In Conversation With Dr. Ben Wolf, Isomorphic Labs' New Chief Medical Officer - Isomorphic Labs",
+      "url": "https://www.isomorphiclabs.com/articles/in-conversation-with-dr-ben-wolf-isomorphic-labs-new-chief-medical-officer",
+      "publishedAt": null,
+      "crawledAt": "2026-10-01T13:29:00.181Z",
+      "contentStatus": "ready",
+      "contentHash": "da4a1c0d9ba73510c1af7a98e5c9ee992c84f9067f1b8b35670faa171fcc0811",
+      "rawPath": "data/raw/364c99ab106a410b609ab8410fd272f1.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "3c25e75985f293be83b11e246507a5f0",
       "title": "非洲最大！国轩高科埃及AC侧储能项目全球交付启动 2026-09-30 2026-09-30",
@@ -59,6 +114,28 @@
       "contentStatus": "ready",
       "contentHash": "242325e1e626d8e775eb9607670f8965f9e3f68ca5acac5bb906f186a793a974",
       "rawPath": "data/raw/eeb271a7dcff9962363120a60f75fb6e.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "63e9a822faf54946f1afdc924835b6b0",
+      "title": "Forecasting space weather risks on power grids",
+      "url": "https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/",
+      "publishedAt": "2026-09-30T16:00:00.000Z",
+      "crawledAt": "2026-10-01T13:28:58.010Z",
+      "contentStatus": "ready",
+      "contentHash": "51c347d6d9e64b1fae0238d924208f5e7be9fdc8f781842561c216cdbdd89aeb",
+      "rawPath": "data/raw/63e9a822faf54946f1afdc924835b6b0.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "ea6903f7004224b57c4c1e5c3cd5a025",
+      "title": "News 09.30.2026",
+      "url": "https://www.broadinstitute.org/news/atlas-immune-cells-explains-how-genetic-variants-cause-disease",
+      "publishedAt": "2026-09-30T15:00:24.000Z",
+      "crawledAt": "2026-10-01T13:28:58.647Z",
+      "contentStatus": "ready",
+      "contentHash": "a86460970af6cdd8f2d0f7297966f24cb1b4de95a77d4ac2c3b3d88de809341e",
+      "rawPath": "data/raw/ea6903f7004224b57c4c1e5c3cd5a025.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -158,6 +235,17 @@
       "contentStatus": "ready",
       "contentHash": "6fe7d823014da5dcee2c89f28077228be748e10441d59b2c8d4c035086ce7fbc",
       "rawPath": "data/raw/061338e668ed697490e5190ccd3e1fba.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "f58242812411dde30bbfad9a915dc198",
+      "title": "News 09.30.2026",
+      "url": "https://www.broadinstitute.org/news/novo-nordisk-foundation-renews-commitment-investigate-genomic-mechanisms-disease-broad",
+      "publishedAt": "2026-09-30T09:00:57.000Z",
+      "crawledAt": "2026-10-01T13:28:58.492Z",
+      "contentStatus": "ready",
+      "contentHash": "1a5d153e9a6df2249244f5a81620d955099af2904564b8aa14b2c1bacb6aeb91",
+      "rawPath": "data/raw/f58242812411dde30bbfad9a915dc198.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -290,6 +378,17 @@
       "contentStatus": "ready",
       "contentHash": "f2be16467c667e6827823ad4de7c9046eabe8c0b8e28e1ca35ca48e12641823f",
       "rawPath": "data/raw/a6c2939032f9e833ca62782eba82e7ef.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "6432f88e541d5635113361348518a6d3",
+      "title": "Introducing Quine: An AI research system designed for the complexity of biology",
+      "url": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/",
+      "publishedAt": "2026-09-29T14:00:02.000Z",
+      "crawledAt": "2026-10-01T13:28:58.010Z",
+      "contentStatus": "ready",
+      "contentHash": "ded6c5392987e58db8f5f0e48af5311e789bcb194222b91607e8873aa30fc442",
+      "rawPath": "data/raw/6432f88e541d5635113361348518a6d3.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -1632,6 +1731,17 @@
       "contentStatus": "ready",
       "contentHash": "6e3798c3078a3628e65337dd0dbad0bd1d2f0b18d7389370d36d294bcc8f8203",
       "rawPath": "data/raw/fa25fa7a033615ef58b7e9b3c07daed4.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "4965a9c2f2e013ebac8d3814afd7c92f",
+      "title": "泰康保险—医疗理赔智能化",
+      "url": "https://ai.baidu.com/support/news?action=detail&id=2113",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T06:05:24.251Z",
+      "contentStatus": "ready",
+      "contentHash": "fe5d1744ee84dd4d6778e88f0e52325237fd05316e2f35d10211c163c78b704d",
+      "rawPath": "data/raw/4965a9c2f2e013ebac8d3814afd7c92f.json",
       "lastAnalysisStatus": "pending"
     },
     {
