@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "a6c2939032f9e833ca62782eba82e7ef",
+      "title": "Operational Leadership in Process Safety",
+      "sourceKey": "s11-17",
+      "sourceName": "AIChE Annual Meeting",
+      "sourceType": "国际学术会议",
+      "category": "",
+      "publishedAt": "2026-09-29T16:03:09.000Z",
+      "crawledAt": "2026-10-01T06:09:33.956Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.aiche.org/operational-leadership-process-safety",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "3c25e75985f293be83b11e246507a5f0",
+      "title": "非洲最大！国轩高科埃及AC侧储能项目全球交付启动 2026-09-30 2026-09-30",
+      "sourceKey": "s06-10",
+      "sourceName": "国轩高科",
+      "sourceType": "研发型企业",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-01T06:08:56.092Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.gotion.com.cn/newsInfo/988",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "306d645824ba7ec026ac671bb836bd61",
       "title": "Breaking the Tether: Resilient Navigation for Autonomous Systems | SandboxAQ",
       "sourceKey": "s02-25",
@@ -8391,5 +8427,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-09-30T22:23:20.122Z"
+  "updatedAt": "2026-10-01T06:11:37.192Z"
 }

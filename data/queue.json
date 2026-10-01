@@ -1,11 +1,22 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-30T22:23:20.122Z",
-  "pendingCount": 155,
-  "readyCount": 155,
+  "updatedAt": "2026-10-01T06:11:37.192Z",
+  "pendingCount": 157,
+  "readyCount": 157,
   "awaitingContentCount": 0,
   "excludedContentCount": 81,
   "items": [
+    {
+      "id": "3c25e75985f293be83b11e246507a5f0",
+      "title": "非洲最大！国轩高科埃及AC侧储能项目全球交付启动 2026-09-30 2026-09-30",
+      "url": "https://www.gotion.com.cn/newsInfo/988",
+      "publishedAt": null,
+      "crawledAt": "2026-10-01T06:08:56.092Z",
+      "contentStatus": "ready",
+      "contentHash": "e4801186ee68668adf14e33e31f962a71817f233d960dbedd48c360ae4012978",
+      "rawPath": "data/raw/3c25e75985f293be83b11e246507a5f0.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "306d645824ba7ec026ac671bb836bd61",
       "title": "Breaking the Tether: Resilient Navigation for Autonomous Systems | SandboxAQ",
@@ -268,6 +279,17 @@
       "contentStatus": "ready",
       "contentHash": "5b337b5aa3e6ee080f31ae57970d8eb4024edf611aa3b1bcb4d570586e96dfb6",
       "rawPath": "data/raw/fc615e071bcda5270221bed43988338c.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "a6c2939032f9e833ca62782eba82e7ef",
+      "title": "Operational Leadership in Process Safety",
+      "url": "https://www.aiche.org/operational-leadership-process-safety",
+      "publishedAt": "2026-09-29T16:03:09.000Z",
+      "crawledAt": "2026-10-01T06:09:33.956Z",
+      "contentStatus": "ready",
+      "contentHash": "f2be16467c667e6827823ad4de7c9046eabe8c0b8e28e1ca35ca48e12641823f",
+      "rawPath": "data/raw/a6c2939032f9e833ca62782eba82e7ef.json",
       "lastAnalysisStatus": "pending"
     },
     {
