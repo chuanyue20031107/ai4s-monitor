@@ -1,11 +1,22 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-02T12:46:55.562Z",
-  "pendingCount": 184,
-  "readyCount": 184,
+  "updatedAt": "2026-10-02T22:20:53.440Z",
+  "pendingCount": 185,
+  "readyCount": 185,
   "awaitingContentCount": 0,
   "excludedContentCount": 77,
   "items": [
+    {
+      "id": "4288c840111b1c24def95710cf742d83",
+      "title": "洛浦县医共体医用耗材及检验试剂采购项目公开招标公告",
+      "url": "https://www.caclp.com/article/?detail_14401.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-02T22:20:44.143Z",
+      "contentStatus": "ready",
+      "contentHash": "6212520191585998ccd439e614323b1d39a14722c71b36ee8ce8b766e30cde65",
+      "rawPath": "data/raw/4288c840111b1c24def95710cf742d83.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "f8b34db17d2c3ef4c8c1119de05fa46b",
       "title": "Calls for Papers for CLeaR2027 Is Now Open",
