@@ -1,11 +1,77 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-01T22:55:09.385Z",
-  "pendingCount": 174,
-  "readyCount": 174,
+  "updatedAt": "2026-10-02T05:55:42.365Z",
+  "pendingCount": 180,
+  "readyCount": 180,
   "awaitingContentCount": 0,
   "excludedContentCount": 77,
   "items": [
+    {
+      "id": "b5447c99074d5492f8c52acaf37bde07",
+      "title": "Annual Report 2026",
+      "url": "https://pistoiaalliance.org/annual-report-2026/",
+      "publishedAt": null,
+      "crawledAt": "2026-10-02T05:53:07.867Z",
+      "contentStatus": "ready",
+      "contentHash": "f12d7916006ec51e16aae920bea344c26c838c5f06deba943499a7db064dfbe8",
+      "rawPath": "data/raw/b5447c99074d5492f8c52acaf37bde07.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "f0b65e088301f7106b4a90d03e5896b4",
+      "title": "• 习近平向全球发展倡议5周年高级别对话会致贺信 2026-09-26",
+      "url": "https://www.caai.cn/site/content/11385.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-02T05:52:39.475Z",
+      "contentStatus": "ready",
+      "contentHash": "263aae680051fd460f95f524852fb2217afbfb09c5a6a1edc5f42cc2729d7e7b",
+      "rawPath": "data/raw/f0b65e088301f7106b4a90d03e5896b4.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "fb2a27711332b94b027badca49973489",
+      "title": "浙江求是招标代理有限公司关于浙江省嘉兴支队桐乡市消防救援大队2026年度食堂服务外包采购项...",
+      "url": "https://www.ccgp.gov.cn/cggg/zygg/gkzb/202609/t20260930_27435529.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-10-02T05:49:49.539Z",
+      "contentStatus": "ready",
+      "contentHash": "6f6c46eeb11b31aa3bdda841ccfb9b8ba54154bd85532fb85e5dadae6be2a052",
+      "rawPath": "data/raw/fb2a27711332b94b027badca49973489.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "252721d99c4e7fb64ce92eb7e6672d27",
+      "title": "广州铁路公安局2026年民警服装采购项目Ⅱ更正公告",
+      "url": "https://www.ccgp.gov.cn/cggg/zygg/gzgg/202609/t20260930_27435903.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-10-02T05:49:48.963Z",
+      "contentStatus": "ready",
+      "contentHash": "a9c6f02f661edfd221ade19693e969defa997f9aced081bae1bc8e95c9d08366",
+      "rawPath": "data/raw/252721d99c4e7fb64ce92eb7e6672d27.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "2dc5b3aef7eecc67bce69337dce0dd8b",
+      "title": "某单位医疗设备物资采购项目Ⅱ公开招标公告",
+      "url": "https://www.ccgp.gov.cn/cggg/zygg/gkzb/202609/t20260930_27435905.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-10-02T05:49:48.387Z",
+      "contentStatus": "ready",
+      "contentHash": "9bd43871a7ba07d16c25302bde4405a5d9d43f4db3f38550ba6581a08b5b3711",
+      "rawPath": "data/raw/2dc5b3aef7eecc67bce69337dce0dd8b.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "897f9efa502e731da3518fc6f27afab3",
+      "title": "Explore Inktober SciArt images",
+      "url": "https://www.rcsb.org/news/6a95aadb3bf5580b84a87d37",
+      "publishedAt": null,
+      "crawledAt": "2026-10-02T05:49:38.774Z",
+      "contentStatus": "ready",
+      "contentHash": "b2e7ac35f8ad95a47e642f90e7c7fec05cf3290241bba5226c26697fab2eef9c",
+      "rawPath": "data/raw/897f9efa502e731da3518fc6f27afab3.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "773db58485418242416f2e6a657a0ec3",
       "title": "我所发表钙钛矿太阳能电池异质成核诱导结晶策略的综述文章",
