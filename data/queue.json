@@ -1,11 +1,22 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-02T05:55:42.365Z",
-  "pendingCount": 180,
-  "readyCount": 180,
+  "updatedAt": "2026-10-02T12:46:55.562Z",
+  "pendingCount": 184,
+  "readyCount": 184,
   "awaitingContentCount": 0,
   "excludedContentCount": 77,
   "items": [
+    {
+      "id": "f8b34db17d2c3ef4c8c1119de05fa46b",
+      "title": "Calls for Papers for CLeaR2027 Is Now Open",
+      "url": "https://aip.riken.jp/news/clear2027/",
+      "publishedAt": null,
+      "crawledAt": "2026-10-02T12:46:30.873Z",
+      "contentStatus": "ready",
+      "contentHash": "8c1c4523590cb079fef6e4b50f0a87c76f7e8965f8ba8bc0f604aff73c14ed59",
+      "rawPath": "data/raw/f8b34db17d2c3ef4c8c1119de05fa46b.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "b5447c99074d5492f8c52acaf37bde07",
       "title": "Annual Report 2026",
@@ -139,6 +150,28 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "b8087b88cb63ae7fc829eff8f3b1641f",
+      "title": "The eternal complement",
+      "url": "https://openai.com/index/the-eternal-complement",
+      "publishedAt": "2026-10-01T17:00:00.000Z",
+      "crawledAt": "2026-10-02T12:46:26.704Z",
+      "contentStatus": "ready",
+      "contentHash": "6435c17b701b1041cc77f5d0353c4bc8d38231335d631af44f00fc678a5c11a0",
+      "rawPath": "data/raw/b8087b88cb63ae7fc829eff8f3b1641f.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "637d3dfa247fa816a4c4160f323cf781",
+      "title": "How Albertsons Companies is reimagining retail from the inside out",
+      "url": "https://openai.com/index/albertsons-reimagining-retail",
+      "publishedAt": "2026-10-01T16:00:00.000Z",
+      "crawledAt": "2026-10-02T12:46:26.704Z",
+      "contentStatus": "ready",
+      "contentHash": "3eeb54801d70b48650e4be9113595f420fc51266139d503d82c32d4ab2ab0c68",
+      "rawPath": "data/raw/637d3dfa247fa816a4c4160f323cf781.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "9fe940ea2227476e838150aa9bc9e98c",
       "title": "Designing Beyond Tolerability Limits: Advancing GB-4362 Into Clinical Development | Generate:Biomedicines",
       "url": "https://generatebiomedicines.com/blog-posts/designing-beyond-tolerability-limits-advancing-gb-4362-into-clinical-development/",
@@ -202,6 +235,17 @@
       "contentStatus": "ready",
       "contentHash": "e4801186ee68668adf14e33e31f962a71817f233d960dbedd48c360ae4012978",
       "rawPath": "data/raw/3c25e75985f293be83b11e246507a5f0.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "2167384f51e2a4466793a69c16672f4e",
+      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+      "url": "https://openai.com/index/the-den-family-social",
+      "publishedAt": "2026-10-01T00:00:00.000Z",
+      "crawledAt": "2026-10-02T12:46:26.704Z",
+      "contentStatus": "ready",
+      "contentHash": "de84fe667c3ab55405470fddfd3d1c88c142415d1df891e9a23809ab9dbb3d42",
+      "rawPath": "data/raw/2167384f51e2a4466793a69c16672f4e.json",
       "lastAnalysisStatus": "pending"
     },
     {

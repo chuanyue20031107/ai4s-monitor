@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "f8b34db17d2c3ef4c8c1119de05fa46b",
+      "title": "Calls for Papers for CLeaR2027 Is Now Open",
+      "sourceKey": "s01-22",
+      "sourceName": "RIKEN Center for Advanced Intelligence Project",
+      "sourceType": "国家研究机构",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-02T12:46:30.873Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://aip.riken.jp/news/clear2027/",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "2167384f51e2a4466793a69c16672f4e",
+      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+      "sourceKey": "s01-14",
+      "sourceName": "OpenAI",
+      "sourceType": "科技大厂研究机构",
+      "category": "",
+      "publishedAt": "2026-10-01T00:00:00.000Z",
+      "crawledAt": "2026-10-02T12:46:26.704Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://openai.com/index/the-den-family-social",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "637d3dfa247fa816a4c4160f323cf781",
+      "title": "How Albertsons Companies is reimagining retail from the inside out",
+      "sourceKey": "s01-14",
+      "sourceName": "OpenAI",
+      "sourceType": "科技大厂研究机构",
+      "category": "",
+      "publishedAt": "2026-10-01T16:00:00.000Z",
+      "crawledAt": "2026-10-02T12:46:26.704Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://openai.com/index/albertsons-reimagining-retail",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "b8087b88cb63ae7fc829eff8f3b1641f",
+      "title": "The eternal complement",
+      "sourceKey": "s01-14",
+      "sourceName": "OpenAI",
+      "sourceType": "科技大厂研究机构",
+      "category": "",
+      "publishedAt": "2026-10-01T17:00:00.000Z",
+      "crawledAt": "2026-10-02T12:46:26.704Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://openai.com/index/the-eternal-complement",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "b5447c99074d5492f8c52acaf37bde07",
       "title": "Annual Report 2026",
       "sourceKey": "s11-05",
@@ -8841,5 +8913,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-10-02T05:55:42.365Z"
+  "updatedAt": "2026-10-02T12:46:55.562Z"
 }
