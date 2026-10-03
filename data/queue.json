@@ -1,11 +1,77 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-03T11:50:46.228Z",
-  "pendingCount": 196,
-  "readyCount": 196,
+  "updatedAt": "2026-10-03T16:32:07.009Z",
+  "pendingCount": 202,
+  "readyCount": 202,
   "awaitingContentCount": 0,
-  "excludedContentCount": 76,
+  "excludedContentCount": 73,
   "items": [
+    {
+      "id": "e2794a38990a88b6c2502de634166365",
+      "title": "人类细胞谱系大科学研究设施项目装修工程（二阶段）造价咨询服务项目公开招标公告",
+      "url": "https://www.ccgp.gov.cn/cggg/zygg/gkzb/202609/t20260930_27435503.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-10-03T16:29:14.532Z",
+      "contentStatus": "ready",
+      "contentHash": "4bdd8dcb5f248d351d4ef1652bae97052548150c9d201b32a3223daca21539e1",
+      "rawPath": "data/raw/e2794a38990a88b6c2502de634166365.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "9753175d4015f649dc57341617144346",
+      "title": "华南理工大学UPS不间断电源等设备一批（校园网核心通信机房和数据中心机房基础设施及环境改造...",
+      "url": "https://www.ccgp.gov.cn/cggg/zygg/gkzb/202609/t20260930_27435501.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-10-03T16:29:13.954Z",
+      "contentStatus": "ready",
+      "contentHash": "f4156dc4e9dcec4d33dae986d8476b57e3def9448698921136b476ebe3fc69bc",
+      "rawPath": "data/raw/9753175d4015f649dc57341617144346.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "d091bd6ea39c02ac5bbba1a6c25a6485",
+      "title": "石嘴山市宁夏平罗工业园区消防救援大队红崖子政府专职第二消防救援站（气防站）提升改造货物...",
+      "url": "https://www.ccgp.gov.cn/cggg/zygg/gkzb/202609/t20260930_27435515.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-10-03T16:29:12.931Z",
+      "contentStatus": "ready",
+      "contentHash": "e7c2bdc48ffa398f5ac4a0cc9392a03ec4d2f8ebcc2a50e48717b37c621f36db",
+      "rawPath": "data/raw/d091bd6ea39c02ac5bbba1a6c25a6485.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "cf8a71359b7f81eba10fd46b2e6fdb1c",
+      "title": "研究阐明乳酸调控程序性细胞坏死新机制",
+      "url": "https://www.cas.cn/syky/202609/t20260929_5121181.shtml",
+      "publishedAt": null,
+      "crawledAt": "2026-10-03T16:29:09.062Z",
+      "contentStatus": "ready",
+      "contentHash": "bcfd0358ed48fdb66e5f17a5551c9258ca1dc0b9c34bb17c13e608cf2cb0d848",
+      "rawPath": "data/raw/cf8a71359b7f81eba10fd46b2e6fdb1c.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "d366a4f412ed09177560278b63097fd1",
+      "title": "单晶金属原子级制造研究取得进展",
+      "url": "https://www.cas.cn/syky/202609/t20260930_5121230.shtml",
+      "publishedAt": null,
+      "crawledAt": "2026-10-03T16:29:08.690Z",
+      "contentStatus": "ready",
+      "contentHash": "a2c424187bbc776d0323cfe472a46089192cc5e18293fd3917e22e5351323a6a",
+      "rawPath": "data/raw/d366a4f412ed09177560278b63097fd1.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "ade5dff130dfee3af4223b8d247772a8",
+      "title": "无钴高镍层状氧化物正极材料研究取得进展",
+      "url": "https://www.cas.cn/syky/202609/t20260928_5121150.shtml",
+      "publishedAt": null,
+      "crawledAt": "2026-10-03T16:29:07.998Z",
+      "contentStatus": "ready",
+      "contentHash": "1ab5b62540592beb9aeb5ce8a880a68cb058daf70703d81ad9280f6d89e20c25",
+      "rawPath": "data/raw/ade5dff130dfee3af4223b8d247772a8.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "bfda6701eded5336524b51e99fd67d71",
       "title": "校领导出席2026年对口支援合作共建新疆师范大学工作例会",
