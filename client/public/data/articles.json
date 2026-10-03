@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "bfda6701eded5336524b51e99fd67d71",
+      "title": "校领导出席2026年对口支援合作共建新疆师范大学工作例会",
+      "sourceKey": "s05-02",
+      "sourceName": "中国科大机器人化学家实验室",
+      "sourceType": "自主实验室与平台",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-03T11:48:17.313Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "http://news.ustc.edu.cn/info/1055/96490.htm",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "84fbe022211c5ef5770d465d34913bca",
       "title": "News & Insights | Xaira Therapeutics",
       "sourceKey": "s02-08",
@@ -9111,5 +9129,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-10-03T05:30:21.529Z"
+  "updatedAt": "2026-10-03T11:50:46.228Z"
 }

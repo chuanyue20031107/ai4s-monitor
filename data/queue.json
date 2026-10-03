@@ -1,11 +1,22 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-03T05:30:21.529Z",
-  "pendingCount": 195,
-  "readyCount": 195,
+  "updatedAt": "2026-10-03T11:50:46.228Z",
+  "pendingCount": 196,
+  "readyCount": 196,
   "awaitingContentCount": 0,
-  "excludedContentCount": 77,
+  "excludedContentCount": 76,
   "items": [
+    {
+      "id": "bfda6701eded5336524b51e99fd67d71",
+      "title": "校领导出席2026年对口支援合作共建新疆师范大学工作例会",
+      "url": "http://news.ustc.edu.cn/info/1055/96490.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-10-03T11:48:17.313Z",
+      "contentStatus": "ready",
+      "contentHash": "6b18c0749be26d0f3d5527324c07073438fe936252abab0f65f2e9ec721743e3",
+      "rawPath": "data/raw/bfda6701eded5336524b51e99fd67d71.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "84fbe022211c5ef5770d465d34913bca",
       "title": "News & Insights | Xaira Therapeutics",
