@@ -1,11 +1,110 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-02T22:20:53.440Z",
-  "pendingCount": 185,
-  "readyCount": 185,
+  "updatedAt": "2026-10-03T05:30:21.529Z",
+  "pendingCount": 195,
+  "readyCount": 195,
   "awaitingContentCount": 0,
   "excludedContentCount": 77,
   "items": [
+    {
+      "id": "84fbe022211c5ef5770d465d34913bca",
+      "title": "News & Insights | Xaira Therapeutics",
+      "url": "https://www.xaira.com/news-content",
+      "publishedAt": null,
+      "crawledAt": "2026-10-03T05:27:02.543Z",
+      "contentStatus": "ready",
+      "contentHash": "3347e19487010dd20cdfa50f90b7acaf180dc3b33650be71bbc02d666caf95b3",
+      "rawPath": "data/raw/84fbe022211c5ef5770d465d34913bca.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "9944412c71f043a0304fe9ecc4b9d5e0",
+      "title": "De Novo Design of Progressable Antibodies to Therapeutic Targets | Xaira Therapeutics",
+      "url": "https://www.xaira.com/news/de-novo-design-of-progressable-antibodies-to-therapeutic-targets",
+      "publishedAt": null,
+      "crawledAt": "2026-10-03T05:27:02.516Z",
+      "contentStatus": "ready",
+      "contentHash": "51d1f88cb39f4f3687b7af5f0d85b0500babad9446ddd6dd1418fa85927d150d",
+      "rawPath": "data/raw/9944412c71f043a0304fe9ecc4b9d5e0.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "1fffffc3745f42bffd9a7b73b80a7077",
+      "title": "Curious about Xaira's approach to building better AI for drug discovery? | Xaira Therapeutics",
+      "url": "https://www.xaira.com/news/curious-about-xairas-approach-to-building-better-ai-for-drug-discovery",
+      "publishedAt": null,
+      "crawledAt": "2026-10-03T05:27:02.452Z",
+      "contentStatus": "ready",
+      "contentHash": "cf81adc4c63b5e3d8e60c8c384e1898eb9dadd636769f52e51b19b104f6e96f9",
+      "rawPath": "data/raw/1fffffc3745f42bffd9a7b73b80a7077.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "fd71bfb40237f181f67f4ea4df98d59e",
+      "title": "Generate Biomedicines Inc. to Participate in September Investor Conferences | Generate:Biomedicines",
+      "url": "https://generatebiomedicines.com/news-releases/generate-biomedicines-inc-to-participate-in-september-investor-conferences/",
+      "publishedAt": null,
+      "crawledAt": "2026-10-03T05:27:02.167Z",
+      "contentStatus": "ready",
+      "contentHash": "99a023f91d1e530e736d05c0cebdc7ca152e5d2fcc00cebb9c7de9126ac0ebcc",
+      "rawPath": "data/raw/fd71bfb40237f181f67f4ea4df98d59e.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "34c0429ccc0085d0e1254c162fd8f15c",
+      "title": "Roswell Park, Generate Biomedicines Launch Exclusive Clinical Trial of ‘Armored’ CAR T Therapy for Ovarian Cancer | Generate:Biomedicines",
+      "url": "https://generatebiomedicines.com/news-releases/roswell-park-generate-biomedicines-launch-exclusive-clinical-trial-of-armored-car-t-therapy-for-ovarian-cancer/",
+      "publishedAt": null,
+      "crawledAt": "2026-10-03T05:27:02.034Z",
+      "contentStatus": "ready",
+      "contentHash": "c6651d2b2739a5ea87ed6f10b09e67d7e57edfafc294104b5b9b9686c5961018",
+      "rawPath": "data/raw/34c0429ccc0085d0e1254c162fd8f15c.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "257fe7a928094052b2bb8571a9fc34b8",
+      "title": "News Releases Archive | Generate:Biomedicines",
+      "url": "https://generatebiomedicines.com/news-releases/",
+      "publishedAt": null,
+      "crawledAt": "2026-10-03T05:27:02.002Z",
+      "contentStatus": "ready",
+      "contentHash": "72211a92a33bcb7685cb3482e11d30750af5a417209ec7df901cf520b06d00c8",
+      "rawPath": "data/raw/257fe7a928094052b2bb8571a9fc34b8.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "204bffa1e848d3a7edbd83f2ff50c6a5",
+      "title": "How to get a job at Isomorphic Labs - Isomorphic Labs",
+      "url": "https://www.isomorphiclabs.com/articles/how-to-get-a-job-at-isomorphic-labs",
+      "publishedAt": null,
+      "crawledAt": "2026-10-03T05:27:00.198Z",
+      "contentStatus": "ready",
+      "contentHash": "f75a60f40fc187b6ff1b5145466cd0e1a35235772683864fe7a6d5b945ebf417",
+      "rawPath": "data/raw/204bffa1e848d3a7edbd83f2ff50c6a5.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "81e1e34a613a67aab73076fca4e0690c",
+      "title": "A glimpse of the next generation of AlphaFold - Isomorphic Labs",
+      "url": "https://www.isomorphiclabs.com/articles/a-glimpse-of-the-next-generation-of-alphafold",
+      "publishedAt": null,
+      "crawledAt": "2026-10-03T05:27:00.170Z",
+      "contentStatus": "ready",
+      "contentHash": "818300f6419296bf8cc180709a8b37420e58f2468379779092f77e399ae697d3",
+      "rawPath": "data/raw/81e1e34a613a67aab73076fca4e0690c.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "f9960ce947ee194c46dcb574e5161aa2",
+      "title": "Meet our team: Agnieszka & Michael - Isomorphic Labs",
+      "url": "https://www.isomorphiclabs.com/articles/meet-our-team-agnieszka-michael",
+      "publishedAt": null,
+      "crawledAt": "2026-10-03T05:27:00.137Z",
+      "contentStatus": "ready",
+      "contentHash": "2eed83b78c19233e4be4304df7759476d49dcef1d8cf2bc7c7e3314d3a2066e4",
+      "rawPath": "data/raw/f9960ce947ee194c46dcb574e5161aa2.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "4288c840111b1c24def95710cf742d83",
       "title": "洛浦县医共体医用耗材及检验试剂采购项目公开招标公告",
@@ -180,6 +279,17 @@
       "contentStatus": "ready",
       "contentHash": "3eeb54801d70b48650e4be9113595f420fc51266139d503d82c32d4ab2ab0c68",
       "rawPath": "data/raw/637d3dfa247fa816a4c4160f323cf781.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "b1629908bf305a47995c5bfd348ab373",
+      "title": "News 10.01.2026",
+      "url": "https://www.broadinstitute.org/news/catalog-mitochondria-across-lifes-family-tree-unearths-new-roles-cells-powerhouse",
+      "publishedAt": "2026-10-01T15:00:00.000Z",
+      "crawledAt": "2026-10-03T05:26:59.986Z",
+      "contentStatus": "ready",
+      "contentHash": "39f2b67ea0491125918e0022ce2b1442547825b34acc41e5ab5fc8a66b8119d3",
+      "rawPath": "data/raw/b1629908bf305a47995c5bfd348ab373.json",
       "lastAnalysisStatus": "pending"
     },
     {
