@@ -1,0 +1,18 @@
+{
+  "id": "6071f63e21f6425413eb63722b160489",
+  "title": "DevDay 2026 Recap",
+  "url": "https://openai.com/index/devday-2026-recap",
+  "sourceKey": "s01-14",
+  "sourceName": "OpenAI",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": "2026-09-29T10:00:00.000Z",
+  "crawledAt": "2026-10-03T21:25:09.581Z",
+  "content": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-10-03T21:25:09.581Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "8c03cb9aa30759adcacca7f99dc89771050a03d48826a74f409b48810a219d5e"
+}

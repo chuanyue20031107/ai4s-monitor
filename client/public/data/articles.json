@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "id": "6071f63e21f6425413eb63722b160489",
+      "title": "DevDay 2026 Recap",
+      "sourceKey": "s01-14",
+      "sourceName": "OpenAI",
+      "sourceType": "科技大厂研究机构",
+      "category": "",
+      "publishedAt": "2026-09-29T10:00:00.000Z",
+      "crawledAt": "2026-10-03T21:25:09.581Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://openai.com/index/devday-2026-recap",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "882596cbc7639eb42bf210ab4eea9136",
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "sourceKey": "s01-14",
+      "sourceName": "OpenAI",
+      "sourceType": "科技大厂研究机构",
+      "category": "",
+      "publishedAt": "2026-10-02T00:00:00.000Z",
+      "crawledAt": "2026-10-03T21:25:09.581Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://openai.com/index/chatham-financial",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "c38af6e5cae43e23a64c1d509c6a587d",
+      "title": "A model guide for the GPT-6 family",
+      "sourceKey": "s01-14",
+      "sourceName": "OpenAI",
+      "sourceType": "科技大厂研究机构",
+      "category": "",
+      "publishedAt": "2026-10-02T16:15:00.000Z",
+      "crawledAt": "2026-10-03T21:25:09.581Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://openai.com/index/practical-guide-building-gpt-6",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "e2794a38990a88b6c2502de634166365",
       "title": "人类细胞谱系大科学研究设施项目装修工程（二阶段）造价咨询服务项目公开招标公告",
       "sourceKey": "s08-07",
@@ -9237,5 +9291,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-10-03T16:32:07.009Z"
+  "updatedAt": "2026-10-03T21:25:17.599Z"
 }

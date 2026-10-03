@@ -1,0 +1,18 @@
+{
+  "id": "c38af6e5cae43e23a64c1d509c6a587d",
+  "title": "A model guide for the GPT-6 family",
+  "url": "https://openai.com/index/practical-guide-building-gpt-6",
+  "sourceKey": "s01-14",
+  "sourceName": "OpenAI",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": "2026-10-02T16:15:00.000Z",
+  "crawledAt": "2026-10-03T21:25:09.581Z",
+  "content": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-10-03T21:25:09.581Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "7b0998feb986630c353ea69fc70f9eae3419419719ce9571158a4083031e1a8a"
+}

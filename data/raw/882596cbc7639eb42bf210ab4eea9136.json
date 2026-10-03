@@ -1,0 +1,18 @@
+{
+  "id": "882596cbc7639eb42bf210ab4eea9136",
+  "title": "Chatham scales its capital markets expertise with OpenAI",
+  "url": "https://openai.com/index/chatham-financial",
+  "sourceKey": "s01-14",
+  "sourceName": "OpenAI",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": "2026-10-02T00:00:00.000Z",
+  "crawledAt": "2026-10-03T21:25:09.581Z",
+  "content": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-10-03T21:25:09.581Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "264fe298791a212010758fa180003ed4e9f798079c3039607494e90c3a12f9eb"
+}

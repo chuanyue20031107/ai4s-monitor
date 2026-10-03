@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-03T16:32:07.009Z",
-  "pendingCount": 202,
-  "readyCount": 202,
+  "updatedAt": "2026-10-03T21:25:17.599Z",
+  "pendingCount": 205,
+  "readyCount": 205,
   "awaitingContentCount": 0,
   "excludedContentCount": 73,
   "items": [
@@ -194,6 +194,17 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "c38af6e5cae43e23a64c1d509c6a587d",
+      "title": "A model guide for the GPT-6 family",
+      "url": "https://openai.com/index/practical-guide-building-gpt-6",
+      "publishedAt": "2026-10-02T16:15:00.000Z",
+      "crawledAt": "2026-10-03T21:25:09.581Z",
+      "contentStatus": "ready",
+      "contentHash": "7b0998feb986630c353ea69fc70f9eae3419419719ce9571158a4083031e1a8a",
+      "rawPath": "data/raw/c38af6e5cae43e23a64c1d509c6a587d.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "f8b34db17d2c3ef4c8c1119de05fa46b",
       "title": "Calls for Papers for CLeaR2027 Is Now Open",
       "url": "https://aip.riken.jp/news/clear2027/",
@@ -268,6 +279,17 @@
       "contentStatus": "ready",
       "contentHash": "b2e7ac35f8ad95a47e642f90e7c7fec05cf3290241bba5226c26697fab2eef9c",
       "rawPath": "data/raw/897f9efa502e731da3518fc6f27afab3.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "882596cbc7639eb42bf210ab4eea9136",
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "url": "https://openai.com/index/chatham-financial",
+      "publishedAt": "2026-10-02T00:00:00.000Z",
+      "crawledAt": "2026-10-03T21:25:09.581Z",
+      "contentStatus": "ready",
+      "contentHash": "264fe298791a212010758fa180003ed4e9f798079c3039607494e90c3a12f9eb",
+      "rawPath": "data/raw/882596cbc7639eb42bf210ab4eea9136.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -818,6 +840,17 @@
       "contentStatus": "ready",
       "contentHash": "5f8576f288846485b3154d335f1f2531e2cc77328ddcbe9b7a606690882536ce",
       "rawPath": "data/raw/aded2fea7b9a0ca2b5e07c832675b14c.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "6071f63e21f6425413eb63722b160489",
+      "title": "DevDay 2026 Recap",
+      "url": "https://openai.com/index/devday-2026-recap",
+      "publishedAt": "2026-09-29T10:00:00.000Z",
+      "crawledAt": "2026-10-03T21:25:09.581Z",
+      "contentStatus": "ready",
+      "contentHash": "8c03cb9aa30759adcacca7f99dc89771050a03d48826a74f409b48810a219d5e",
+      "rawPath": "data/raw/6071f63e21f6425413eb63722b160489.json",
       "lastAnalysisStatus": "pending"
     },
     {
