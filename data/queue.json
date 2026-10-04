@@ -1,11 +1,33 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-03T21:25:17.599Z",
-  "pendingCount": 205,
-  "readyCount": 205,
+  "updatedAt": "2026-10-04T06:05:47.602Z",
+  "pendingCount": 207,
+  "readyCount": 207,
   "awaitingContentCount": 0,
   "excludedContentCount": 73,
   "items": [
+    {
+      "id": "185ce31320bb9b836d162fce2f2b59d2",
+      "title": "安徽医科大学第一附属医院采购流式细胞仪项目招标公告",
+      "url": "https://www.caclp.com/article/?detail_14402.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-04T06:05:01.077Z",
+      "contentStatus": "ready",
+      "contentHash": "27808ed70b68150447e1f8311c7d4edc844b3b5f1c4fc57dcba4776675f9079f",
+      "rawPath": "data/raw/185ce31320bb9b836d162fce2f2b59d2.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "cba7fb4c4cc836af65ffcda2bd78e125",
+      "title": "乌鲁木齐市友爱医院试剂及耗材采购项目（三次）公开招标公告",
+      "url": "https://www.caclp.com/article/?detail_14403.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-04T06:05:00.148Z",
+      "contentStatus": "ready",
+      "contentHash": "1a663b1939750c0a3645450bd2a4806eebfc18ff7072bb6244c45b3e6cb302eb",
+      "rawPath": "data/raw/cba7fb4c4cc836af65ffcda2bd78e125.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "e2794a38990a88b6c2502de634166365",
       "title": "人类细胞谱系大科学研究设施项目装修工程（二阶段）造价咨询服务项目公开招标公告",
