@@ -1,0 +1,18 @@
+{
+  "id": "c1a87fb8c673446e7b4aba8df4963f5d",
+  "title": "Announcing X-Cell, our virtual cell model trained on billions of genomic data points. | Xaira Therapeutics",
+  "url": "https://www.xaira.com/news/announcing-x-cell-our-virtual-cell-model-trained-on-billions-of-genomic-data-points-2",
+  "sourceKey": "s02-08",
+  "sourceName": "Xaira Therapeutics",
+  "sourceType": "AI药物公司",
+  "publishedAt": null,
+  "crawledAt": "2026-10-04T12:31:20.363Z",
+  "content": "Xaira Therapeutics, Inc. 700 Gateway Blvd, 4th Floor. South San Francisco, CA 94080 Embed exports the current palette, type & mode as a self-contained inline canvas (fonts baked in, no panel). It renders opaque over the Canvas colour so it matches this preview exactly \\u2014 set Canvas to your footer colour to blend in, or tick Transparent background to overlay imagery. Interactive: the word rests as solid type \\u2014 move the cursor over a character to turn it into watercolor. Brush size sets the radius, Drying speed how fast it recedes. Tip: drop .otf / .ttf files anywhere to load other fonts. Press H to hide this panel. A real inline element \\u2014 no iframe. Blends natively into the page and can\\\\'t clash with the host site\\\\'s styles or scripts.",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-10-04T12:31:20.363Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "af3ab01a9f5ccfa18ab3b930db6b0a8332705e12d4181083998b41024462b93e"
+}

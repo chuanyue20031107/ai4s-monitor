@@ -1,11 +1,88 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-04T06:05:47.602Z",
-  "pendingCount": 207,
-  "readyCount": 207,
+  "updatedAt": "2026-10-04T12:33:47.063Z",
+  "pendingCount": 214,
+  "readyCount": 214,
   "awaitingContentCount": 0,
   "excludedContentCount": 73,
   "items": [
+    {
+      "id": "1ed5e9729ab7dae27ffed8979cf22eee",
+      "title": "Generate:Biomedicines Provides Update on its Platform and Pipeline Powered by AI at the 43rd Annual J.P. Morgan Healthcare Conference | Generate:Biomedicines",
+      "url": "https://generatebiomedicines.com/news-releases/generatebiomedicines-provides-update-on-its-platform-and-pipeline/",
+      "publishedAt": null,
+      "crawledAt": "2026-10-04T12:31:20.533Z",
+      "contentStatus": "ready",
+      "contentHash": "20a09757a835aa35008ec521df350842a9d15a7888a1852fef59ec5aff6ae344",
+      "rawPath": "data/raw/1ed5e9729ab7dae27ffed8979cf22eee.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "617c8079497491f90aa82a45813769a6",
+      "title": "Press Release: Xaira Therapeutics Launches to Deliver Transformative Medicines by Advancing and Harnessing AI for Drug Discovery and Development | Xaira Therapeutics",
+      "url": "https://www.xaira.com/news/press-release-xaira-therapeutics-launches-to-deliver-transformative-medicines-by-advancing-and-harnessing-ai-for-drug-discovery-and-development",
+      "publishedAt": null,
+      "crawledAt": "2026-10-04T12:31:20.412Z",
+      "contentStatus": "ready",
+      "contentHash": "9dcccc70deb6648a9d5dec67e7a63df9da38646333d2c1710eac02d9e548d52f",
+      "rawPath": "data/raw/617c8079497491f90aa82a45813769a6.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "c1a87fb8c673446e7b4aba8df4963f5d",
+      "title": "Announcing X-Cell, our virtual cell model trained on billions of genomic data points. | Xaira Therapeutics",
+      "url": "https://www.xaira.com/news/announcing-x-cell-our-virtual-cell-model-trained-on-billions-of-genomic-data-points-2",
+      "publishedAt": null,
+      "crawledAt": "2026-10-04T12:31:20.363Z",
+      "contentStatus": "ready",
+      "contentHash": "af3ab01a9f5ccfa18ab3b930db6b0a8332705e12d4181083998b41024462b93e",
+      "rawPath": "data/raw/c1a87fb8c673446e7b4aba8df4963f5d.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "f78016d9a7434641aab9f1f137241938",
+      "title": "Generate:Biomedicines Announces Multi-Target Collaboration with Novartis to Discover and Develop Protein Therapeutics with Generative AI | Generate:Biomedicines",
+      "url": "https://generatebiomedicines.com/news-releases/generatebiomedicines-announces-multi-target-collaboration-with-novartis/",
+      "publishedAt": null,
+      "crawledAt": "2026-10-04T12:31:20.320Z",
+      "contentStatus": "ready",
+      "contentHash": "db18239cc751a951c6d2e836b36bd1d14c225d5fb6982e70588b004491154158",
+      "rawPath": "data/raw/f78016d9a7434641aab9f1f137241938.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "3da21c1f381117a84fbf1f61c77cda56",
+      "title": "Modelling the invisible world of Molecular Biology with Machine Learning - Isomorphic Labs",
+      "url": "https://www.isomorphiclabs.com/articles/modelling-the-invisible-world-of-molecular-biology-with-machine-learning",
+      "publishedAt": null,
+      "crawledAt": "2026-10-04T12:31:18.405Z",
+      "contentStatus": "ready",
+      "contentHash": "2c5997967c9d9a40ffa4a072b93b4a27578451cc8301e81d0da58948a8d46656",
+      "rawPath": "data/raw/3da21c1f381117a84fbf1f61c77cda56.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "598b975d5ad101d1aba18cc693818450",
+      "title": "“It's both humbling and exciting to adopt a beginner’s mindset” - Having permission to be wrong - Isomorphic Labs",
+      "url": "https://www.isomorphiclabs.com/articles/its-both-humbling-and-exciting-to-adopt-a-beginners-mindset-having-permission-to-be-wrong",
+      "publishedAt": null,
+      "crawledAt": "2026-10-04T12:31:18.381Z",
+      "contentStatus": "ready",
+      "contentHash": "1b9bc778f11f2652501ae0f9ef4e00fab16898fc28614126fc9a220e1b0e5551",
+      "rawPath": "data/raw/598b975d5ad101d1aba18cc693818450.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "c896ab74911e60ee99d822caec1c1dfa",
+      "title": "Isomorphic Labs Announces New Lausanne Location - Isomorphic Labs",
+      "url": "https://www.isomorphiclabs.com/articles/isomorphic-labs-has-announced-the-opening-of-its-new-offices-in-lausanne-switzerland",
+      "publishedAt": null,
+      "crawledAt": "2026-10-04T12:31:18.357Z",
+      "contentStatus": "ready",
+      "contentHash": "8830da9f12e1db36bf544f6d896bf7c8a0f26f72d227b5d69419d1e08d733e8a",
+      "rawPath": "data/raw/c896ab74911e60ee99d822caec1c1dfa.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "185ce31320bb9b836d162fce2f2b59d2",
       "title": "安徽医科大学第一附属医院采购流式细胞仪项目招标公告",
