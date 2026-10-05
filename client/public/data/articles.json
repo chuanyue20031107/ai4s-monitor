@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "6b537a1cc5def223c69d8041269dcef7",
+      "title": "Helmholtz Association Establishes Media Lab",
+      "sourceKey": "s01-24",
+      "sourceName": "Helmholtz Association",
+      "sourceType": "国家研究联合体",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-05T14:52:58.545Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.helmholtz.de/en/newsroom/article/helmholtz-association-establishes-media-lab/",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "7881d482cf0379dbc910e52a7f0555ab",
+      "title": "Read more",
+      "sourceKey": "s01-20",
+      "sourceName": "Wellcome Sanger Institute",
+      "sourceType": "非营利研究机构",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-05T14:52:57.236Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.sanger.ac.uk/news_item/expanding-understanding-of-link-between-genetics-and-cognitive-ability/",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "2d8e70fb45cef7470a5baf361c95df26",
+      "title": "Building advertising for the way people use AI",
+      "sourceKey": "s01-14",
+      "sourceName": "OpenAI",
+      "sourceType": "科技大厂研究机构",
+      "category": "",
+      "publishedAt": "2026-10-05T10:00:00.000Z",
+      "crawledAt": "2026-10-05T14:52:54.917Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "dec620cb7225d2434a9b02e6e0197b19",
+      "title": "Introducing dots",
+      "sourceKey": "s01-14",
+      "sourceName": "OpenAI",
+      "sourceType": "科技大厂研究机构",
+      "category": "",
+      "publishedAt": "2026-09-29T00:00:00.000Z",
+      "crawledAt": "2026-10-05T14:52:54.917Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://openai.com/index/introducing-dots",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "8ecf3a3d3798678b05b476df7f151230",
       "title": "小麦耐逆和抗穗发芽研究获进展",
       "sourceKey": "s08-06",
@@ -9507,5 +9579,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-10-05T05:58:56.162Z"
+  "updatedAt": "2026-10-05T14:53:02.309Z"
 }

@@ -1,0 +1,18 @@
+{
+  "id": "dec620cb7225d2434a9b02e6e0197b19",
+  "title": "Introducing dots",
+  "url": "https://openai.com/index/introducing-dots",
+  "sourceKey": "s01-14",
+  "sourceName": "OpenAI",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": "2026-09-29T00:00:00.000Z",
+  "crawledAt": "2026-10-05T14:52:54.917Z",
+  "content": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-10-05T14:52:54.917Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "fc636488a74fcc4504635f848a1f8cfa0dea8c841c79458eb4960c8858b1ed72"
+}

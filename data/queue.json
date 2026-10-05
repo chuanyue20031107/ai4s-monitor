@@ -1,11 +1,44 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-05T05:58:56.162Z",
-  "pendingCount": 217,
-  "readyCount": 217,
+  "updatedAt": "2026-10-05T14:53:02.309Z",
+  "pendingCount": 221,
+  "readyCount": 221,
   "awaitingContentCount": 0,
   "excludedContentCount": 73,
   "items": [
+    {
+      "id": "6b537a1cc5def223c69d8041269dcef7",
+      "title": "Helmholtz Association Establishes Media Lab",
+      "url": "https://www.helmholtz.de/en/newsroom/article/helmholtz-association-establishes-media-lab/",
+      "publishedAt": null,
+      "crawledAt": "2026-10-05T14:52:58.545Z",
+      "contentStatus": "ready",
+      "contentHash": "286ebdea2670f54828e19f249048ca02ea402feb9ff9e18122bdb0901d17ef0d",
+      "rawPath": "data/raw/6b537a1cc5def223c69d8041269dcef7.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "7881d482cf0379dbc910e52a7f0555ab",
+      "title": "Read more",
+      "url": "https://www.sanger.ac.uk/news_item/expanding-understanding-of-link-between-genetics-and-cognitive-ability/",
+      "publishedAt": null,
+      "crawledAt": "2026-10-05T14:52:57.236Z",
+      "contentStatus": "ready",
+      "contentHash": "9a22aaf08bd593fc35d8b2a6f8e992447053e2ab537b86bb0e6f05069154d207",
+      "rawPath": "data/raw/7881d482cf0379dbc910e52a7f0555ab.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "2d8e70fb45cef7470a5baf361c95df26",
+      "title": "Building advertising for the way people use AI",
+      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "publishedAt": "2026-10-05T10:00:00.000Z",
+      "crawledAt": "2026-10-05T14:52:54.917Z",
+      "contentStatus": "ready",
+      "contentHash": "68c690783cb6c4a253cedadebed57c7021fbd07c74f77bd66cc902d36beb71d5",
+      "rawPath": "data/raw/2d8e70fb45cef7470a5baf361c95df26.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "8ecf3a3d3798678b05b476df7f151230",
       "title": "小麦耐逆和抗穗发芽研究获进展",
@@ -1082,6 +1115,17 @@
       "contentStatus": "ready",
       "contentHash": "f80956bc95c50e145ebcdaa22b950908e46550ae3eb9ed6c51a86598dafc55e5",
       "rawPath": "data/raw/c12b1b274d761f0a97b940097ea95375.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "dec620cb7225d2434a9b02e6e0197b19",
+      "title": "Introducing dots",
+      "url": "https://openai.com/index/introducing-dots",
+      "publishedAt": "2026-09-29T00:00:00.000Z",
+      "crawledAt": "2026-10-05T14:52:54.917Z",
+      "contentStatus": "ready",
+      "contentHash": "fc636488a74fcc4504635f848a1f8cfa0dea8c841c79458eb4960c8858b1ed72",
+      "rawPath": "data/raw/dec620cb7225d2434a9b02e6e0197b19.json",
       "lastAnalysisStatus": "pending"
     },
     {
