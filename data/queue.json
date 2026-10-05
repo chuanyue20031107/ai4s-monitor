@@ -1,11 +1,44 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-04T21:44:39.949Z",
-  "pendingCount": 214,
-  "readyCount": 214,
+  "updatedAt": "2026-10-05T05:58:56.162Z",
+  "pendingCount": 217,
+  "readyCount": 217,
   "awaitingContentCount": 0,
   "excludedContentCount": 73,
   "items": [
+    {
+      "id": "8ecf3a3d3798678b05b476df7f151230",
+      "title": "小麦耐逆和抗穗发芽研究获进展",
+      "url": "https://www.cas.cn/syky/202609/t20260924_5120972.shtml",
+      "publishedAt": null,
+      "crawledAt": "2026-10-05T05:54:50.198Z",
+      "contentStatus": "ready",
+      "contentHash": "1cff370848412971fba34daa380bb7ab2fc10261c8d71336d9d35879cab61091",
+      "rawPath": "data/raw/8ecf3a3d3798678b05b476df7f151230.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "ec1a28687cb8f248a52ffc1b1864201b",
+      "title": "环境自适应陶瓷高温液态润滑研究获进展",
+      "url": "https://www.cas.cn/syky/202609/t20260929_5121182.shtml",
+      "publishedAt": null,
+      "crawledAt": "2026-10-05T05:54:49.799Z",
+      "contentStatus": "ready",
+      "contentHash": "388b95efa473307997f266fe5bf32972cf1750972a73826949957c6faca199a0",
+      "rawPath": "data/raw/ec1a28687cb8f248a52ffc1b1864201b.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "8c5b8016b230c3cfb907c68add74e16d",
+      "title": "研究揭示印度洋与大西洋跨洋联动加剧沿岸洪涝风险",
+      "url": "https://www.cas.cn/syky/202609/t20260924_5120973.shtml",
+      "publishedAt": null,
+      "crawledAt": "2026-10-05T05:54:49.055Z",
+      "contentStatus": "ready",
+      "contentHash": "11736d321b1ebdb913606cf2eb46fe29054d9016e2730852e27bc62d01aac17a",
+      "rawPath": "data/raw/8c5b8016b230c3cfb907c68add74e16d.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "1ed5e9729ab7dae27ffed8979cf22eee",
       "title": "Generate:Biomedicines Provides Update on its Platform and Pipeline Powered by AI at the 43rd Annual J.P. Morgan Healthcare Conference | Generate:Biomedicines",
