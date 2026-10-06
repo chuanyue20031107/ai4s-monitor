@@ -1,11 +1,88 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-06T00:11:08.090Z",
-  "pendingCount": 221,
-  "readyCount": 221,
+  "updatedAt": "2026-10-06T06:31:02.338Z",
+  "pendingCount": 229,
+  "readyCount": 229,
   "awaitingContentCount": 0,
   "excludedContentCount": 73,
   "items": [
+    {
+      "id": "a5fe1ec98e559387fdcfe2a77b540d1c",
+      "title": "Endpoints 11 winner Xaira Therapeutics: Biotech’s largest AI bet with A-list backers | Xaira Therapeutics",
+      "url": "https://www.xaira.com/news/endpoints-11-winner-xaira-therapeutics-biotechs-largest-ai-bet-with-a-list-backers",
+      "publishedAt": null,
+      "crawledAt": "2026-10-06T06:30:58.684Z",
+      "contentStatus": "ready",
+      "contentHash": "144645dae8ad6080f3ce4a2377524d0c449fb91aca4f61101d0d6255efaf9909",
+      "rawPath": "data/raw/a5fe1ec98e559387fdcfe2a77b540d1c.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "88546c57f893cb5aeede55f9cb4c42f2",
+      "title": "Buzzy AI biotech Xaira reveals antibody platform, first taste of pipeline | Xaira Therapeutics",
+      "url": "https://www.xaira.com/news/buzzy-ai-biotech-xaira-reveals-antibody-platform-first-taste-of-pipeline",
+      "publishedAt": null,
+      "crawledAt": "2026-10-06T06:30:58.607Z",
+      "contentStatus": "ready",
+      "contentHash": "65c0b503a004f9b3dee0fb3274500c889ede4d05def899621c39f500438c679d",
+      "rawPath": "data/raw/88546c57f893cb5aeede55f9cb4c42f2.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "504dafa548372fbbae203a426a610884",
+      "title": "Generate:Biomedicines Welcomes Laurie Lee, MD, as Chief Medical Officer for the Immunology & Inflammation Portfolio | Generate:Biomedicines",
+      "url": "https://generatebiomedicines.com/news-releases/generate-welcomes-laurie-lee/",
+      "publishedAt": null,
+      "crawledAt": "2026-10-06T06:30:58.373Z",
+      "contentStatus": "ready",
+      "contentHash": "6f23ee573670cbf70c92e8396673b8792d694f74aa4f0298a673b916ece7f3de",
+      "rawPath": "data/raw/504dafa548372fbbae203a426a610884.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "ecfcff59a54ded965e2c557cf07f1fbf",
+      "title": "Generate:Biomedicines Expands Board of Directors with Appointment of Marsha Fanucci | Generate:Biomedicines",
+      "url": "https://generatebiomedicines.com/news-releases/generatebiomedicines-expands-board-of-directors-with-appointment-of-marsha-fanucci/",
+      "publishedAt": null,
+      "crawledAt": "2026-10-06T06:30:58.268Z",
+      "contentStatus": "ready",
+      "contentHash": "a050c38d6e2ef29d88e43536bb8fb601f4cf82f033418697f335c97f1bcf0d69",
+      "rawPath": "data/raw/ecfcff59a54ded965e2c557cf07f1fbf.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "a5b965b07e87539e543df143dd1aa328",
+      "title": "Breaking barriers and building bridges with purpose - Isomorphic Labs",
+      "url": "https://www.isomorphiclabs.com/articles/we-can-only-innovate-with-collaboration-creativity-and-chemistry",
+      "publishedAt": null,
+      "crawledAt": "2026-10-06T06:30:56.451Z",
+      "contentStatus": "ready",
+      "contentHash": "26c39c688c0dc545ff3ebdbb25cd9bc21978128b2ef07dc83ab53c37da3f0070",
+      "rawPath": "data/raw/a5b965b07e87539e543df143dd1aa328.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "75018f49db6b12eb2822acb9a8cea4f4",
+      "title": "Using our state-of-the-art AI models to power drug design - Isomorphic Labs",
+      "url": "https://www.isomorphiclabs.com/articles/using-bespoke-ai-models-to-power-drug-design",
+      "publishedAt": null,
+      "crawledAt": "2026-10-06T06:30:56.417Z",
+      "contentStatus": "ready",
+      "contentHash": "105375e728f60a191170c709f96ce48b0b669b79e4b40117270c34f62db2a65c",
+      "rawPath": "data/raw/75018f49db6b12eb2822acb9a8cea4f4.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "19bb377ce97735e7e30e4ee087278106",
+      "title": "“Once in a lifetime - or never” - Reflections from year one at Isomorphic Labs - Isomorphic Labs",
+      "url": "https://www.isomorphiclabs.com/articles/once-in-a-lifetime-or-never-reflections-from-year-one-at-isomorphic-labs",
+      "publishedAt": null,
+      "crawledAt": "2026-10-06T06:30:56.378Z",
+      "contentStatus": "ready",
+      "contentHash": "f3f0ed440b2c3a9ce90521b6ad6df158985e62756fe6a1d1242eecc1b56f419e",
+      "rawPath": "data/raw/19bb377ce97735e7e30e4ee087278106.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "6b537a1cc5def223c69d8041269dcef7",
       "title": "Helmholtz Association Establishes Media Lab",
@@ -26,6 +103,17 @@
       "contentStatus": "ready",
       "contentHash": "9a22aaf08bd593fc35d8b2a6f8e992447053e2ab537b86bb0e6f05069154d207",
       "rawPath": "data/raw/7881d482cf0379dbc910e52a7f0555ab.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "bf0ca2cd677a0b9eb94f705ac29683e7",
+      "title": "Physicist Jun Ye Wins Wolf Prize in Physics",
+      "url": "https://www.nist.gov/news-events/news/2026/10/physicist-jun-ye-wins-wolf-prize-physics",
+      "publishedAt": "2026-10-05T12:00:00.000Z",
+      "crawledAt": "2026-10-06T06:30:55.637Z",
+      "contentStatus": "ready",
+      "contentHash": "bd1cba5eb79b11be45df5203a1a472a991071844b6d4e4dc09eaf553cd236820",
+      "rawPath": "data/raw/bf0ca2cd677a0b9eb94f705ac29683e7.json",
       "lastAnalysisStatus": "pending"
     },
     {
