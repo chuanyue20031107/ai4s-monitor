@@ -1,11 +1,33 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-06T06:31:02.338Z",
-  "pendingCount": 229,
-  "readyCount": 229,
+  "updatedAt": "2026-10-06T18:36:22.689Z",
+  "pendingCount": 231,
+  "readyCount": 231,
   "awaitingContentCount": 0,
-  "excludedContentCount": 73,
+  "excludedContentCount": 70,
   "items": [
+    {
+      "id": "11b09900918b35e1bcdb1f3173d01f3a",
+      "title": "我所发表纯硅分子筛研究进展的综述文章",
+      "url": "https://www.dicp.ac.cn/xwdt/kyjz/202610/t20261006_8289359.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-06T18:29:57.610Z",
+      "contentStatus": "ready",
+      "contentHash": "cbd929e21e0ec7f960409f5a27729b7395a722ced8c4542534be5b29937eaa2d",
+      "rawPath": "data/raw/11b09900918b35e1bcdb1f3173d01f3a.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "59f70d5ef9eb8df888036d77b9f4ca06",
+      "title": "国家科技重大专项：移动信息网络专项2026年...",
+      "url": "https://www.ustc.edu.cn/info/1362/25860.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-10-06T18:29:32.722Z",
+      "contentStatus": "ready",
+      "contentHash": "dd5ae3df625848024e3400f9d23f00a0e335c1453ad64dfd516e9d36edbd414c",
+      "rawPath": "data/raw/59f70d5ef9eb8df888036d77b9f4ca06.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "a5fe1ec98e559387fdcfe2a77b540d1c",
       "title": "Endpoints 11 winner Xaira Therapeutics: Biotech’s largest AI bet with A-list backers | Xaira Therapeutics",
