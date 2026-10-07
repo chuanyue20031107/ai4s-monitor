@@ -1,0 +1,18 @@
+{
+  "id": "f57eff9c23a4454b476bbb268bd95c2d",
+  "title": "Advancing computer use with Ironclad",
+  "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+  "sourceKey": "s01-14",
+  "sourceName": "OpenAI",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": "2026-10-06T10:00:00.000Z",
+  "crawledAt": "2026-10-07T13:35:37.850Z",
+  "content": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-10-07T13:35:37.850Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "421fe0926ad6fab116baa772b585a66637b6bf4c51b40183032e21ad51f59da9"
+}

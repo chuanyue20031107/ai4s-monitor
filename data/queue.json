@@ -1,11 +1,33 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-07T06:12:05.992Z",
-  "pendingCount": 233,
-  "readyCount": 233,
+  "updatedAt": "2026-10-07T13:38:09.283Z",
+  "pendingCount": 240,
+  "readyCount": 240,
   "awaitingContentCount": 0,
   "excludedContentCount": 69,
   "items": [
+    {
+      "id": "1436bcd85351d1a856b180aa10825fd2",
+      "title": "Helmholtz congratulates Francis Halzen on winning the Nobel Prize in Physics",
+      "url": "https://www.helmholtz.de/en/newsroom/2026/helmholtz-congratulates-francis-halzen-on-winning-the-nobel-prize-in-physics/",
+      "publishedAt": null,
+      "crawledAt": "2026-10-07T13:35:50.700Z",
+      "contentStatus": "ready",
+      "contentHash": "41765175a81a8e877a84384d8b7f0744950faef6350ce049a66a2759e8ceee00",
+      "rawPath": "data/raw/1436bcd85351d1a856b180aa10825fd2.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "9064b5e4bda3d9e703abdb08fb11d696",
+      "title": "Delegation from Technical University of Darmstadt, Germany Visits RIKEN AIP (September 29, 2026)",
+      "url": "https://aip.riken.jp/news/2609tuda/",
+      "publishedAt": null,
+      "crawledAt": "2026-10-07T13:35:45.962Z",
+      "contentStatus": "ready",
+      "contentHash": "9a443c4d202e89159d5d5e8db2a05d4a25ce47f50f7511d3b389973b3dc19762",
+      "rawPath": "data/raw/9064b5e4bda3d9e703abdb08fb11d696.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "7a6902cf27a9f84ca8eaa32500cbde71",
       "title": "Guide to Understanding PDB Data: PDB IDs",
@@ -48,6 +70,39 @@
       "contentStatus": "ready",
       "contentHash": "dd5ae3df625848024e3400f9d23f00a0e335c1453ad64dfd516e9d36edbd414c",
       "rawPath": "data/raw/59f70d5ef9eb8df888036d77b9f4ca06.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "00427e47df5ef3064509e152a7737292",
+      "title": "Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "publishedAt": "2026-10-06T12:00:00.000Z",
+      "crawledAt": "2026-10-07T13:35:37.850Z",
+      "contentStatus": "ready",
+      "contentHash": "0045c1c78b9c2e9af11bca6c8aa443067038ed194639cbc741716651d8b432e6",
+      "rawPath": "data/raw/00427e47df5ef3064509e152a7737292.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "ebb413cc5359756bf9234b81256f8710",
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "url": "https://openai.com/index/jump-trading",
+      "publishedAt": "2026-10-06T12:00:00.000Z",
+      "crawledAt": "2026-10-07T13:35:37.850Z",
+      "contentStatus": "ready",
+      "contentHash": "b7de8fc9f5ae8be37ca27760f04748e34ecbe05e240b0b896b85059bbbf19c9b",
+      "rawPath": "data/raw/ebb413cc5359756bf9234b81256f8710.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "f57eff9c23a4454b476bbb268bd95c2d",
+      "title": "Advancing computer use with Ironclad",
+      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "publishedAt": "2026-10-06T10:00:00.000Z",
+      "crawledAt": "2026-10-07T13:35:37.850Z",
+      "contentStatus": "ready",
+      "contentHash": "421fe0926ad6fab116baa772b585a66637b6bf4c51b40183032e21ad51f59da9",
+      "rawPath": "data/raw/f57eff9c23a4454b476bbb268bd95c2d.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -125,6 +180,28 @@
       "contentStatus": "ready",
       "contentHash": "f3f0ed440b2c3a9ce90521b6ad6df158985e62756fe6a1d1242eecc1b56f419e",
       "rawPath": "data/raw/19bb377ce97735e7e30e4ee087278106.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "c7eb0505e0825d58818870f02cf54199",
+      "title": "Qiskit beyond Python: Fortran, C++, and Julia",
+      "url": "https://research.ibm.com/blog/qiskit-beyond-python",
+      "publishedAt": "2026-10-06T04:00:00.000Z",
+      "crawledAt": "2026-10-07T13:35:34.069Z",
+      "contentStatus": "ready",
+      "contentHash": "7360d2cecf6b30b9a6d1b4bc0ba53bbc2b8fe811612be5de0e41805f5a51979d",
+      "rawPath": "data/raw/c7eb0505e0825d58818870f02cf54199.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "2af2d1f732b38e3849a427a2ff3fa303",
+      "title": "Directed execution: Scaling a research platform for quantum error correction",
+      "url": "https://research.ibm.com/blog/directed-execution",
+      "publishedAt": "2026-10-05T16:30:00.000Z",
+      "crawledAt": "2026-10-07T13:35:35.255Z",
+      "contentStatus": "ready",
+      "contentHash": "9ccc60f082afdc14af2e31e73d1b982f70c39d4c09afd3a654ff23c3cb5b4389",
+      "rawPath": "data/raw/2af2d1f732b38e3849a427a2ff3fa303.json",
       "lastAnalysisStatus": "pending"
     },
     {
