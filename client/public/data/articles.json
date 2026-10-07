@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "7a6902cf27a9f84ca8eaa32500cbde71",
+      "title": "Guide to Understanding PDB Data: PDB IDs",
+      "sourceKey": "s07-13",
+      "sourceName": "RCSB Protein Data Bank",
+      "sourceType": "科学数据库与平台",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-07T06:09:37.198Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.rcsb.org/news/6a60ea273bf5580b84a87d26",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "9f67611ef40feb73af4497c3a67e1a73",
+      "title": "Fifty-five years of collaborative open-access structural biology",
+      "sourceKey": "s07-13",
+      "sourceName": "RCSB Protein Data Bank",
+      "sourceType": "科学数据库与平台",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-07T06:09:37.058Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.rcsb.org/news/feature/6abff7354ec37840b7ddf620",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "11b09900918b35e1bcdb1f3173d01f3a",
       "title": "我所发表纯硅分子筛研究进展的综述文章",
       "sourceKey": "s05-19",
@@ -9759,5 +9795,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-10-06T18:36:22.689Z"
+  "updatedAt": "2026-10-07T06:12:05.992Z"
 }
