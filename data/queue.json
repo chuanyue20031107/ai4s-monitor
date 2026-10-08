@@ -1,11 +1,44 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-08T06:18:46.391Z",
-  "pendingCount": 252,
-  "readyCount": 252,
+  "updatedAt": "2026-10-08T13:47:23.114Z",
+  "pendingCount": 258,
+  "readyCount": 258,
   "awaitingContentCount": 0,
   "excludedContentCount": 69,
   "items": [
+    {
+      "id": "370225a6ba4e4523429584f2b911f661",
+      "title": "2026/10 23 How (we think) bridge-like proteins in the VPS13 family transfer bulk lipid 2026年10月23日 10:00-11:30 Dr. Karin Reinisch 卫光生命科学园1A栋19楼1925会议室 了解详情",
+      "url": "https://www.szbl.ac.cn/info/1017/10590.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-10-08T13:44:54.926Z",
+      "contentStatus": "ready",
+      "contentHash": "083c466076c9a4bb26db5cc7c7159e92622da7898aad2b15d65aa867bcaec27b",
+      "rawPath": "data/raw/370225a6ba4e4523429584f2b911f661.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "140e2f5a68f08e6c4707b9404f9a2120",
+      "title": "深圳湾实验室获光明科学城建设卓越贡献奖 会上，参会领导为获得光明科学城建设卓越贡献奖的10家先进集体、30位先进个人进行颁奖。深圳湾实验室获先进集体，实验室特聘研究员张雷获先进个人。 2023 . 10 . 19 科研进展 阅读全文",
+      "url": "https://www.szbl.ac.cn/info/1016/10584.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-10-08T13:44:53.904Z",
+      "contentStatus": "ready",
+      "contentHash": "3b981343331ddb4cbb666a4ed14b4c70da0b738be1a2b55a5652beb247bc34af",
+      "rawPath": "data/raw/140e2f5a68f08e6c4707b9404f9a2120.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "c8320ed90d1ac1c3c6a532fefb54de65",
+      "title": "Register for the webinar",
+      "url": "https://www.orbitalindustries.com/webinar",
+      "publishedAt": null,
+      "crawledAt": "2026-10-08T13:41:50.394Z",
+      "contentStatus": "ready",
+      "contentHash": "0753e927a627f1d4d7e5beb416816987970f853c5c7bbe47e09c1ac62fb8cbf9",
+      "rawPath": "data/raw/c8320ed90d1ac1c3c6a532fefb54de65.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "89028c11951e60166961c2ab0aada67d",
       "title": "Generate:Biomedicines to Initiate Global Phase 3 Studies of GB-0895, a Long-Acting Anti-TSLP Antibody for Severe Asthma Engineered with AI | Generate:Biomedicines",
@@ -73,6 +106,17 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "972f56dc3b5e647fa716cc1b859c5aca",
+      "title": "站在诺奖的肩膀上，化学正在从“发现规律”走向“设计规律”",
+      "url": "https://www.xtalpi.com/%e7%ab%99%e5%9c%a8%e8%af%ba%e5%a5%96%e7%9a%84%e8%82%a9%e8%86%80%e4%b8%8a%ef%bc%8c%e5%8c%96%e5%ad%a6%e6%ad%a3%e5%9c%a8%e4%bb%8e%e5%8f%91%e7%8e%b0%e8%a7%84%e5%be%8b%e8%b5%b0%e5%90%91/",
+      "publishedAt": "2026-10-08T05:26:00.000Z",
+      "crawledAt": "2026-10-08T13:42:09.584Z",
+      "contentStatus": "ready",
+      "contentHash": "0b7cee0d590d704f5511415468f2d6648848006e89b06069a698d568443d87e8",
+      "rawPath": "data/raw/972f56dc3b5e647fa716cc1b859c5aca.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "e986592dff42085cd40df279903eabc0",
       "title": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
       "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/",
@@ -136,6 +180,17 @@
       "contentStatus": "ready",
       "contentHash": "fb83dfdab31b39c3c8c6f456c5a7b210eba990a9122bb94dd4b44528fc4c6cf0",
       "rawPath": "data/raw/9f67611ef40feb73af4497c3a67e1a73.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "cf348999bae6131803e69782ef8c980e",
+      "title": "从AI预测到干湿闭环：AI for Science 正在跨越临界点",
+      "url": "https://www.xtalpi.com/%e4%bb%8eai%e9%a2%84%e6%b5%8b%e5%88%b0%e5%b9%b2%e6%b9%bf%e9%97%ad%e7%8e%af%ef%bc%9aai-for-science-%e6%ad%a3%e5%9c%a8%e8%b7%a8%e8%b6%8a%e4%b8%b4%e7%95%8c%e7%82%b9/",
+      "publishedAt": "2026-10-07T03:30:18.000Z",
+      "crawledAt": "2026-10-08T13:42:09.584Z",
+      "contentStatus": "ready",
+      "contentHash": "1862846f73d3fc07f9d6c91b84a9841e47713325aa2f2e5306c5186b06bd30a7",
+      "rawPath": "data/raw/cf348999bae6131803e69782ef8c980e.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -312,6 +367,17 @@
       "contentStatus": "ready",
       "contentHash": "7360d2cecf6b30b9a6d1b4bc0ba53bbc2b8fe811612be5de0e41805f5a51979d",
       "rawPath": "data/raw/c7eb0505e0825d58818870f02cf54199.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "1e69830c52fad2a247786ceaf2cfa74d",
+      "title": "活性提升超千倍！晶泰分子胶管线公布最新进展",
+      "url": "https://www.xtalpi.com/%e6%b4%bb%e6%80%a7%e6%8f%90%e5%8d%87%e8%b6%85%e5%8d%83%e5%80%8d%ef%bc%81%e6%99%b6%e6%b3%b0%e5%88%86%e5%ad%90%e8%83%b6%e7%ae%a1%e7%ba%bf%e5%85%ac%e5%b8%83%e6%9c%80%e6%96%b0%e8%bf%9b%e5%b1%95/",
+      "publishedAt": "2026-10-06T03:29:09.000Z",
+      "crawledAt": "2026-10-08T13:42:09.584Z",
+      "contentStatus": "ready",
+      "contentHash": "da57c6af8b2224cb090ce40b3d3d3b591426be410d8ee64890081de382f73cbb",
+      "rawPath": "data/raw/1e69830c52fad2a247786ceaf2cfa74d.json",
       "lastAnalysisStatus": "pending"
     },
     {
