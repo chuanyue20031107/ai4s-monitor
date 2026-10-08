@@ -1,6 +1,96 @@
 {
   "items": [
     {
+      "id": "f043c8e573e3a9a77babf30b74a42919",
+      "title": "研究发现制约调节性T细胞存活及免疫功能的关键机制",
+      "sourceKey": "s08-06",
+      "sourceName": "中国科学院",
+      "sourceType": "国家科研机构",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-08T23:32:03.899Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.cas.cn/syky/202609/t20260904_5119721.shtml",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "a1f17924b1dee33275c3ecb114741b8f",
+      "title": "科研人员研发出仿生仙人掌集雾器",
+      "sourceKey": "s08-06",
+      "sourceName": "中国科学院",
+      "sourceType": "国家科研机构",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-08T23:32:03.494Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.cas.cn/syky/202609/t20260928_5121136.shtml",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "58c7ca247ed89736b005f567315f7741",
+      "title": "研究揭示双星摄动下S型行星质量与“亚木星沙漠”新特征",
+      "sourceKey": "s08-06",
+      "sourceName": "中国科学院",
+      "sourceType": "国家科研机构",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-08T23:32:02.758Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.cas.cn/syky/202609/t20260930_5121256.shtml",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "08faadc5658d7b296ba9632403ef254f",
+      "title": "我所提出调控溴络合剂水合作用实现锌溴液流电池低温稳定运行",
+      "sourceKey": "s05-19",
+      "sourceName": "中科院大连化物所高通量实验与催化平台",
+      "sourceType": "自主实验室与平台",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-08T23:26:49.830Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.dicp.ac.cn/xwdt/kyjz/202610/t20261006_8289369.html",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "114f16fe8630c4b7e9a4b0c978fd917e",
+      "title": "我所提出螯合剂介导的双电层调控策略实现直接海水电解制氢",
+      "sourceKey": "s05-19",
+      "sourceName": "中科院大连化物所高通量实验与催化平台",
+      "sourceType": "自主实验室与平台",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-08T23:26:49.393Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.dicp.ac.cn/xwdt/kyjz/202610/t20261008_8289756.html",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "370225a6ba4e4523429584f2b911f661",
       "title": "2026/10 23 How (we think) bridge-like proteins in the VPS13 family transfer bulk lipid 2026年10月23日 10:00-11:30 Dr. Karin Reinisch 卫光生命科学园1A栋19楼1925会议室 了解详情",
       "sourceKey": "s05-14",
@@ -10245,5 +10335,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-10-08T13:47:23.114Z"
+  "updatedAt": "2026-10-08T23:33:06.317Z"
 }

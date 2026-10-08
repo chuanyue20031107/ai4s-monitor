@@ -1,11 +1,66 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-08T13:47:23.114Z",
-  "pendingCount": 258,
-  "readyCount": 258,
+  "updatedAt": "2026-10-08T23:33:06.317Z",
+  "pendingCount": 263,
+  "readyCount": 263,
   "awaitingContentCount": 0,
-  "excludedContentCount": 69,
+  "excludedContentCount": 66,
   "items": [
+    {
+      "id": "f043c8e573e3a9a77babf30b74a42919",
+      "title": "研究发现制约调节性T细胞存活及免疫功能的关键机制",
+      "url": "https://www.cas.cn/syky/202609/t20260904_5119721.shtml",
+      "publishedAt": null,
+      "crawledAt": "2026-10-08T23:32:03.899Z",
+      "contentStatus": "ready",
+      "contentHash": "f96df27721c13c6dc0cea6f12d8381d052974c6d76ea7a64adc3a83d7e0719d8",
+      "rawPath": "data/raw/f043c8e573e3a9a77babf30b74a42919.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "a1f17924b1dee33275c3ecb114741b8f",
+      "title": "科研人员研发出仿生仙人掌集雾器",
+      "url": "https://www.cas.cn/syky/202609/t20260928_5121136.shtml",
+      "publishedAt": null,
+      "crawledAt": "2026-10-08T23:32:03.494Z",
+      "contentStatus": "ready",
+      "contentHash": "2bc80cbcfdc8b67a088fb5a2810956b8f4555b4a4d67859664f4bd352e69e316",
+      "rawPath": "data/raw/a1f17924b1dee33275c3ecb114741b8f.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "58c7ca247ed89736b005f567315f7741",
+      "title": "研究揭示双星摄动下S型行星质量与“亚木星沙漠”新特征",
+      "url": "https://www.cas.cn/syky/202609/t20260930_5121256.shtml",
+      "publishedAt": null,
+      "crawledAt": "2026-10-08T23:32:02.758Z",
+      "contentStatus": "ready",
+      "contentHash": "bd65f9ced092f704836c794dc72d9a8bc57ab6f03d6584bd50fd9045094dd6d2",
+      "rawPath": "data/raw/58c7ca247ed89736b005f567315f7741.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "08faadc5658d7b296ba9632403ef254f",
+      "title": "我所提出调控溴络合剂水合作用实现锌溴液流电池低温稳定运行",
+      "url": "https://www.dicp.ac.cn/xwdt/kyjz/202610/t20261006_8289369.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-08T23:26:49.830Z",
+      "contentStatus": "ready",
+      "contentHash": "156af93ce7b89dab0d40fe3d9f192b3c1288cad742fe917b674746ecdaf33bda",
+      "rawPath": "data/raw/08faadc5658d7b296ba9632403ef254f.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "114f16fe8630c4b7e9a4b0c978fd917e",
+      "title": "我所提出螯合剂介导的双电层调控策略实现直接海水电解制氢",
+      "url": "https://www.dicp.ac.cn/xwdt/kyjz/202610/t20261008_8289756.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-08T23:26:49.393Z",
+      "contentStatus": "ready",
+      "contentHash": "e6c5d7756f62384f3633240cff46d72274fdab04966d7f9e4b4a217027759c77",
+      "rawPath": "data/raw/114f16fe8630c4b7e9a4b0c978fd917e.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "370225a6ba4e4523429584f2b911f661",
       "title": "2026/10 23 How (we think) bridge-like proteins in the VPS13 family transfer bulk lipid 2026年10月23日 10:00-11:30 Dr. Karin Reinisch 卫光生命科学园1A栋19楼1925会议室 了解详情",
