@@ -1,11 +1,88 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-07T23:16:29.636Z",
-  "pendingCount": 240,
-  "readyCount": 240,
+  "updatedAt": "2026-10-08T06:18:46.391Z",
+  "pendingCount": 252,
+  "readyCount": 252,
   "awaitingContentCount": 0,
   "excludedContentCount": 69,
   "items": [
+    {
+      "id": "89028c11951e60166961c2ab0aada67d",
+      "title": "Generate:Biomedicines to Initiate Global Phase 3 Studies of GB-0895, a Long-Acting Anti-TSLP Antibody for Severe Asthma Engineered with AI | Generate:Biomedicines",
+      "url": "https://generatebiomedicines.com/news-releases/generatebiomedicines-to-initiate-global-phase-3-studies-of-gb-0895-a-long-acting-anti-tslp-antibody-for-severe-asthma-engineered-with-ai/",
+      "publishedAt": null,
+      "crawledAt": "2026-10-08T06:16:20.495Z",
+      "contentStatus": "ready",
+      "contentHash": "f59721ed961404dc7dcee6195b09bce88d3a29e2f0dee9207fcaed69850d7c41",
+      "rawPath": "data/raw/89028c11951e60166961c2ab0aada67d.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "783cb2bda1e23d9cef61c90763eeee1d",
+      "title": "AI Academic To Take His Work to ‘the Next Level’ | Xaira Therapeutics",
+      "url": "https://www.xaira.com/news/ai-academic-to-take-his-work-to-the-next-level",
+      "publishedAt": null,
+      "crawledAt": "2026-10-08T06:16:20.481Z",
+      "contentStatus": "ready",
+      "contentHash": "144645dae8ad6080f3ce4a2377524d0c449fb91aca4f61101d0d6255efaf9909",
+      "rawPath": "data/raw/783cb2bda1e23d9cef61c90763eeee1d.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "19ed787220004c3f332bab40f610558a",
+      "title": "Xaira, an AI drug discovery startup, launches with a massive $1B, says it’s ‘ready’ to start developing drugs | Xaira Therapeutics",
+      "url": "https://www.xaira.com/news/xaira-an-ai-drug-discovery-startup-launches-with-a-massive-1b-says-its-ready-to-start-developing-drugs",
+      "publishedAt": null,
+      "crawledAt": "2026-10-08T06:16:20.438Z",
+      "contentStatus": "ready",
+      "contentHash": "144645dae8ad6080f3ce4a2377524d0c449fb91aca4f61101d0d6255efaf9909",
+      "rawPath": "data/raw/19ed787220004c3f332bab40f610558a.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "329ae73d2b90c2050ca1849743eb02cc",
+      "title": "Generate:Biomedicines to Present Phase 1 Results for AI-Engineered GB-0895 in Asthma at the European Respiratory Society International Congress | Generate:Biomedicines",
+      "url": "https://generatebiomedicines.com/news-releases/generatebiomedicines-to-present-phase-1-results/",
+      "publishedAt": null,
+      "crawledAt": "2026-10-08T06:16:20.293Z",
+      "contentStatus": "ready",
+      "contentHash": "4b0568e6846490da059958b8fe07ccd735023506b80d4de451ba828fe051df11",
+      "rawPath": "data/raw/329ae73d2b90c2050ca1849743eb02cc.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "34ddd20f93baa596dd79b0e5165b0bb8",
+      "title": "Why I: Isomorphic Labs colleagues share why they joined the company - Isomorphic Labs",
+      "url": "https://www.isomorphiclabs.com/articles/why-i-isomorphic-labs-collegues-share-why-they-joined-the-company",
+      "publishedAt": null,
+      "crawledAt": "2026-10-08T06:16:17.556Z",
+      "contentStatus": "ready",
+      "contentHash": "d48a2a1171ad792477e2dd8167d193c978e80c1aa96f787677472e1e39809abe",
+      "rawPath": "data/raw/34ddd20f93baa596dd79b0e5165b0bb8.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "6d50c0b2e9771d047d98d9edc528c785",
+      "title": "Why I: Isomorphic Labs colleagues share what attracted them and inspires their work - Isomorphic Labs",
+      "url": "https://www.isomorphiclabs.com/articles/why-i-isomorphic-labs-colleagues-share-what-attracted-them-and-inspires-their-work",
+      "publishedAt": null,
+      "crawledAt": "2026-10-08T06:16:17.500Z",
+      "contentStatus": "ready",
+      "contentHash": "54ee4b14b8fa1b607307d763723b0ffc2fa9d5f2c6caea8d021cd48c21b17fab",
+      "rawPath": "data/raw/6d50c0b2e9771d047d98d9edc528c785.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "e986592dff42085cd40df279903eabc0",
+      "title": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
+      "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/",
+      "publishedAt": "2026-10-07T16:00:00.000Z",
+      "crawledAt": "2026-10-08T06:16:12.035Z",
+      "contentStatus": "ready",
+      "contentHash": "a3fe15727e03cddb23b8a93e43e2e7c0d03f9027326ac3b8316f777c0c7ae422",
+      "rawPath": "data/raw/e986592dff42085cd40df279903eabc0.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "1436bcd85351d1a856b180aa10825fd2",
       "title": "Helmholtz congratulates Francis Halzen on winning the Nobel Prize in Physics",
@@ -26,6 +103,17 @@
       "contentStatus": "ready",
       "contentHash": "9a443c4d202e89159d5d5e8db2a05d4a25ce47f50f7511d3b389973b3dc19762",
       "rawPath": "data/raw/9064b5e4bda3d9e703abdb08fb11d696.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "295744665d0658406e17fd65c9d9a2c4",
+      "title": "The International System of Units: A Never-Ending Quest for the Perfect Measurement System",
+      "url": "https://www.nist.gov/blogs/taking-measure/international-system-units-never-ending-quest-perfect-measurement-system",
+      "publishedAt": "2026-10-07T12:00:00.000Z",
+      "crawledAt": "2026-10-08T06:16:16.202Z",
+      "contentStatus": "ready",
+      "contentHash": "52ba62a5968f8d02c5efa2e9c2a1e202ac284d4ed9aa9a01460db3c43cecbc85",
+      "rawPath": "data/raw/295744665d0658406e17fd65c9d9a2c4.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -70,6 +158,39 @@
       "contentStatus": "ready",
       "contentHash": "dd5ae3df625848024e3400f9d23f00a0e335c1453ad64dfd516e9d36edbd414c",
       "rawPath": "data/raw/59f70d5ef9eb8df888036d77b9f4ca06.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "a38ad8641743fbf5311eab54ab7b1553",
+      "title": "What AI gets wrong and what failure teaches us",
+      "url": "https://www.microsoft.com/en-us/research/podcast/what-ai-gets-wrong-and-what-failure-teaches-us/",
+      "publishedAt": "2026-10-06T16:19:06.000Z",
+      "crawledAt": "2026-10-08T06:16:12.035Z",
+      "contentStatus": "ready",
+      "contentHash": "ae4b5d7f6e69625301a4d85411c76bba8d6db40f9fa13400493141bb3b773a67",
+      "rawPath": "data/raw/a38ad8641743fbf5311eab54ab7b1553.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "c6e584fde314263c0eec4a6d0844f1f0",
+      "title": "The Energy Challenge Behind Direct Air Capture",
+      "url": "https://www.aiche.org/energy-challenge-behind-direct-air-capture",
+      "publishedAt": "2026-10-06T15:03:10.000Z",
+      "crawledAt": "2026-10-08T06:16:03.595Z",
+      "contentStatus": "ready",
+      "contentHash": "e8cfd47cd07cfa241fbcd730e27cf1259642fe351c1d42a6088edfe5baebdccc",
+      "rawPath": "data/raw/c6e584fde314263c0eec4a6d0844f1f0.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "022ec3d94cef2bd95fb39a796170aa77",
+      "title": "News 10.06.2026",
+      "url": "https://www.broadinstitute.org/news/three-broad-researchers-honored-nihs-high-risk-high-reward-program",
+      "publishedAt": "2026-10-06T14:00:27.000Z",
+      "crawledAt": "2026-10-08T06:16:17.843Z",
+      "contentStatus": "ready",
+      "contentHash": "ce2f4d58fcc0aac89b279d50e46a3d15488fb5c0217ce3c122bf24fb67c3afec",
+      "rawPath": "data/raw/022ec3d94cef2bd95fb39a796170aa77.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -191,6 +312,17 @@
       "contentStatus": "ready",
       "contentHash": "7360d2cecf6b30b9a6d1b4bc0ba53bbc2b8fe811612be5de0e41805f5a51979d",
       "rawPath": "data/raw/c7eb0505e0825d58818870f02cf54199.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "583a0d22d6a5a0ed17cef40b3459ee5d",
+      "title": "Dr. Kevin Seibert to Receive AIChE’s 2026 Industrial R&D Award",
+      "url": "https://www.aiche.org/dr-kevin-seibert-receive-aiches-2026-industrial-rd-award",
+      "publishedAt": "2026-10-05T19:03:09.000Z",
+      "crawledAt": "2026-10-08T06:16:03.596Z",
+      "contentStatus": "ready",
+      "contentHash": "9270f76194765f5975614197ee86fb64680533363087a63ab62e00d584ab1b9f",
+      "rawPath": "data/raw/583a0d22d6a5a0ed17cef40b3459ee5d.json",
       "lastAnalysisStatus": "pending"
     },
     {
