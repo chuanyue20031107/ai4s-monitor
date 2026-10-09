@@ -1,13 +1,13 @@
 {
   "stats": {
-    "runId": "b074eaa6-afcc-49b7-ac3e-557662d8f686",
+    "runId": "eb67aca1-3f57-48ab-8ece-4479ccfb0d2b",
     "status": "failed",
     "running": false,
     "total": 184,
-    "ok": 102,
+    "ok": 109,
     "noContent": 36,
-    "failed": 46,
+    "failed": 39,
     "failureByType": [],
-    "lastCheckAt": "2026-10-08T23:33:06.164Z"
+    "lastCheckAt": "2026-10-09T06:21:36.955Z"
   }
 }

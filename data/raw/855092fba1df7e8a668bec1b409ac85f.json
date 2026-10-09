@@ -1,0 +1,18 @@
+{
+  "id": "855092fba1df7e8a668bec1b409ac85f",
+  "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+  "url": "https://openai.com/index/pollo-ai",
+  "sourceKey": "s01-14",
+  "sourceName": "OpenAI",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": "2026-10-08T12:00:00.000Z",
+  "crawledAt": "2026-10-09T06:19:00.968Z",
+  "content": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-10-09T06:19:00.968Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "ab7c4914332df1d16fac5827f6e61dc697a1c891f5ec6cafcfc8af95c63edec3"
+}

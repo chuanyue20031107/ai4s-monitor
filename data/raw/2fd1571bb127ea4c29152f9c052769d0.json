@@ -1,0 +1,18 @@
+{
+  "id": "2fd1571bb127ea4c29152f9c052769d0",
+  "title": "What's new at IBM Quantum Q3 2026",
+  "url": "https://research.ibm.com/blog/whats-new-q3-2026",
+  "sourceKey": "s01-11",
+  "sourceName": "IBM Research",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": null,
+  "crawledAt": "2026-10-09T06:18:59.243Z",
+  "content": "Platform See, customize, and extend your error mitigation Error mitigation that once ran out of sight on IBM servers now runs on your client—see it, customize it, extend it. The directed execution model is the foundation of the IBM Quantum error correction stack, powering many of the tools described in this edition of our quarterly update. Your circuits run exactly the way you direct them. Explore the docs Read the blog",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-10-09T06:18:59.243Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "be49da4e153892c8c198dbacafb01f77e1d308a0816fb0437b83da0a2f5f8b16"
+}

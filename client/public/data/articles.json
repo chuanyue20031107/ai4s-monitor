@@ -1,6 +1,96 @@
 {
   "items": [
     {
+      "id": "45d6a2b79938283a07ca47b39fd2409f",
+      "title": "LegalOn halves Codex costs while maintaining development speed",
+      "sourceKey": "s01-14",
+      "sourceName": "OpenAI",
+      "sourceType": "科技大厂研究机构",
+      "category": "",
+      "publishedAt": "2026-10-08T12:00:00.000Z",
+      "crawledAt": "2026-10-09T06:19:00.969Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://openai.com/index/legalon-halves-codex-costs",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "855092fba1df7e8a668bec1b409ac85f",
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "sourceKey": "s01-14",
+      "sourceName": "OpenAI",
+      "sourceType": "科技大厂研究机构",
+      "category": "",
+      "publishedAt": "2026-10-08T12:00:00.000Z",
+      "crawledAt": "2026-10-09T06:19:00.968Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://openai.com/index/pollo-ai",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "db7b9e6fe248e3146f87743abb423de6",
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "sourceKey": "s01-14",
+      "sourceName": "OpenAI",
+      "sourceType": "科技大厂研究机构",
+      "category": "",
+      "publishedAt": "2026-10-08T16:00:00.000Z",
+      "crawledAt": "2026-10-09T06:19:00.968Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://openai.com/index/oracle",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "2fd1571bb127ea4c29152f9c052769d0",
+      "title": "What's new at IBM Quantum Q3 2026",
+      "sourceKey": "s01-11",
+      "sourceName": "IBM Research",
+      "sourceType": "科技大厂研究机构",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-09T06:18:59.243Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://research.ibm.com/blog/whats-new-q3-2026",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "ce927deb6c33b49cff4240cd016ca674",
+      "title": "分析仪器品牌馆",
+      "sourceKey": "s10-10",
+      "sourceName": "慕尼黑上海分析生化展 analytica China",
+      "sourceType": "实验室技术展会",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-09T06:18:46.812Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.analyticachina.com.cn/cn/Discover-analytica-china/Press-Release/Exhibition-News/detail/Analytical-Instrument-Brands-Hall",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "f043c8e573e3a9a77babf30b74a42919",
       "title": "研究发现制约调节性T细胞存活及免疫功能的关键机制",
       "sourceKey": "s08-06",
@@ -10335,5 +10425,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-10-08T23:33:06.317Z"
+  "updatedAt": "2026-10-09T06:21:37.096Z"
 }

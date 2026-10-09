@@ -1,11 +1,33 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-08T23:33:06.317Z",
-  "pendingCount": 263,
-  "readyCount": 263,
+  "updatedAt": "2026-10-09T06:21:37.096Z",
+  "pendingCount": 268,
+  "readyCount": 268,
   "awaitingContentCount": 0,
   "excludedContentCount": 66,
   "items": [
+    {
+      "id": "2fd1571bb127ea4c29152f9c052769d0",
+      "title": "What's new at IBM Quantum Q3 2026",
+      "url": "https://research.ibm.com/blog/whats-new-q3-2026",
+      "publishedAt": null,
+      "crawledAt": "2026-10-09T06:18:59.243Z",
+      "contentStatus": "ready",
+      "contentHash": "be49da4e153892c8c198dbacafb01f77e1d308a0816fb0437b83da0a2f5f8b16",
+      "rawPath": "data/raw/2fd1571bb127ea4c29152f9c052769d0.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "ce927deb6c33b49cff4240cd016ca674",
+      "title": "分析仪器品牌馆",
+      "url": "https://www.analyticachina.com.cn/cn/Discover-analytica-china/Press-Release/Exhibition-News/detail/Analytical-Instrument-Brands-Hall",
+      "publishedAt": null,
+      "crawledAt": "2026-10-09T06:18:46.812Z",
+      "contentStatus": "ready",
+      "contentHash": "7ae0ba3fe5c3ca1c5dab8d8e685e5a1ffbd92b38febe8c0f1cfac83b2c071cd7",
+      "rawPath": "data/raw/ce927deb6c33b49cff4240cd016ca674.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "f043c8e573e3a9a77babf30b74a42919",
       "title": "研究发现制约调节性T细胞存活及免疫功能的关键机制",
@@ -62,6 +84,17 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "db7b9e6fe248e3146f87743abb423de6",
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "url": "https://openai.com/index/oracle",
+      "publishedAt": "2026-10-08T16:00:00.000Z",
+      "crawledAt": "2026-10-09T06:19:00.968Z",
+      "contentStatus": "ready",
+      "contentHash": "fc2fed5c6a1e07a24f916ab4fa8d1f4d60fb73d96e3dad3fa3012f743c058b3e",
+      "rawPath": "data/raw/db7b9e6fe248e3146f87743abb423de6.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "370225a6ba4e4523429584f2b911f661",
       "title": "2026/10 23 How (we think) bridge-like proteins in the VPS13 family transfer bulk lipid 2026年10月23日 10:00-11:30 Dr. Karin Reinisch 卫光生命科学园1A栋19楼1925会议室 了解详情",
       "url": "https://www.szbl.ac.cn/info/1017/10590.htm",
@@ -92,6 +125,28 @@
       "contentStatus": "ready",
       "contentHash": "0753e927a627f1d4d7e5beb416816987970f853c5c7bbe47e09c1ac62fb8cbf9",
       "rawPath": "data/raw/c8320ed90d1ac1c3c6a532fefb54de65.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "45d6a2b79938283a07ca47b39fd2409f",
+      "title": "LegalOn halves Codex costs while maintaining development speed",
+      "url": "https://openai.com/index/legalon-halves-codex-costs",
+      "publishedAt": "2026-10-08T12:00:00.000Z",
+      "crawledAt": "2026-10-09T06:19:00.969Z",
+      "contentStatus": "ready",
+      "contentHash": "c1d7114bbfc38d3b425085fc94225bb06c09977e14f6054efca349182b339596",
+      "rawPath": "data/raw/45d6a2b79938283a07ca47b39fd2409f.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "855092fba1df7e8a668bec1b409ac85f",
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "url": "https://openai.com/index/pollo-ai",
+      "publishedAt": "2026-10-08T12:00:00.000Z",
+      "crawledAt": "2026-10-09T06:19:00.968Z",
+      "contentStatus": "ready",
+      "contentHash": "ab7c4914332df1d16fac5827f6e61dc697a1c891f5ec6cafcfc8af95c63edec3",
+      "rawPath": "data/raw/855092fba1df7e8a668bec1b409ac85f.json",
       "lastAnalysisStatus": "pending"
     },
     {

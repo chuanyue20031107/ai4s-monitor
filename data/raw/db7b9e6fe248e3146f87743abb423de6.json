@@ -1,0 +1,18 @@
+{
+  "id": "db7b9e6fe248e3146f87743abb423de6",
+  "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+  "url": "https://openai.com/index/oracle",
+  "sourceKey": "s01-14",
+  "sourceName": "OpenAI",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": "2026-10-08T16:00:00.000Z",
+  "crawledAt": "2026-10-09T06:19:00.968Z",
+  "content": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-10-09T06:19:00.968Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "fc2fed5c6a1e07a24f916ab4fa8d1f4d60fb73d96e3dad3fa3012f743c058b3e"
+}
