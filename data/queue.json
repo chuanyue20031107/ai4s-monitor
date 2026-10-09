@@ -1,11 +1,33 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-09T06:21:37.096Z",
-  "pendingCount": 268,
-  "readyCount": 268,
+  "updatedAt": "2026-10-09T13:31:14.880Z",
+  "pendingCount": 270,
+  "readyCount": 270,
   "awaitingContentCount": 0,
   "excludedContentCount": 66,
   "items": [
+    {
+      "id": "c1dc57ec6dc37ba0f8335a52ff728224",
+      "title": "当中国仪器遇上越南榴莲 2026-10-09",
+      "url": "https://www.fpi-inc.com/news_cont_48331.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-09T13:31:05.962Z",
+      "contentStatus": "ready",
+      "contentHash": "96ec1d98a72add79381827df42507885bc71ee96f7cceb7e0d2300f78f9f405f",
+      "rawPath": "data/raw/c1dc57ec6dc37ba0f8335a52ff728224.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "d03d430859399dc71acab93d595c2a0a",
+      "title": "SandboxAQ AQPotency Available on AWS Marketplace & SageMaker | SandboxAQ",
+      "url": "https://www.sandboxaq.com/post/aqpotency-from-sandboxaq-is-now-generally-available-in-aws-marketplace-and-deployable-on-amazon-sagemaker",
+      "publishedAt": null,
+      "crawledAt": "2026-10-09T13:30:56.782Z",
+      "contentStatus": "ready",
+      "contentHash": "6ab226a7d965829b327f51aed0af2d3392a26475196dcc4c04a07e6f44df3836",
+      "rawPath": "data/raw/d03d430859399dc71acab93d595c2a0a.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "2fd1571bb127ea4c29152f9c052769d0",
       "title": "What's new at IBM Quantum Q3 2026",

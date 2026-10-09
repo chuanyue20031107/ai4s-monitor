@@ -1,0 +1,18 @@
+{
+  "id": "d03d430859399dc71acab93d595c2a0a",
+  "title": "SandboxAQ AQPotency Available on AWS Marketplace & SageMaker | SandboxAQ",
+  "url": "https://www.sandboxaq.com/post/aqpotency-from-sandboxaq-is-now-generally-available-in-aws-marketplace-and-deployable-on-amazon-sagemaker",
+  "sourceKey": "s02-25",
+  "sourceName": "SandboxAQ",
+  "sourceType": "AI/量子技术公司",
+  "publishedAt": null,
+  "crawledAt": "2026-10-09T13:30:56.782Z",
+  "content": "SandboxAQ announces the availability of AQPotency, a Large Quantitative Model for potency prediction in small molecule drug discovery, generally available in AWS Marketplace and deployable on Amazon SageMaker. Deploying AQPotency has been available through Claude via Model Context Protocol since August. Adding Amazon SageMaker gives drug discovery teams more flexibility in how they reach the model. Assessing AQPotency on AWS enables drug discovery teams to rank millions of compounds just in a few hours using CPU instances inside their own AWS environment, with no custom code required. AQPotency ranks how strongly candidate compounds bind their protein targets. It takes a target UniProt ID and ligand SMILES strings, without the need for 3D crystal structures, and returns a predicted potency, an uncertainty estimate, and an applicability signal for each pair. Computational chemists can use AQPotency to examine security liability, off-target panels, and selectivity of a compound early in their exploration, as well as screen large libraries of small molecules quickly. These predictions enable teams to triage broadly before committing to synthesis, free energy perturbation methods, or wet lab work, and reach targets structure-based methods cannot, such as membrane proteins, mutant panels, and proteins no one has crystallized. For more details on how the model works, see How AQPotency Ranks Compounds Swiftly, Without a Crystal Structure . Deployment is straightforward for teams already operating on AWS. Customers can subscribe to AQPotency on the AWS Marketplace listing and deploy AQPotency as a SageMaker model package. Users can dynamically interact with the model using a real-time endpoint, or submit large asynchronous jobs to screen libraries of millions of ligands within a few hours, without supervision. To protect your privacy, SandboxAQ does not collect any metadata about users’ targets or molecules. AQPotency is available to AWS commercial customers in North America in AWS Marketplace. For more information, visit the AQPotency model page .",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-10-09T13:30:56.782Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "6ab226a7d965829b327f51aed0af2d3392a26475196dcc4c04a07e6f44df3836"
+}

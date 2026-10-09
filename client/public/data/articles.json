@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "c1dc57ec6dc37ba0f8335a52ff728224",
+      "title": "当中国仪器遇上越南榴莲 2026-10-09",
+      "sourceKey": "s04-09",
+      "sourceName": "聚光科技 FPI",
+      "sourceType": "科学仪器企业",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-09T13:31:05.962Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.fpi-inc.com/news_cont_48331.html",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "d03d430859399dc71acab93d595c2a0a",
+      "title": "SandboxAQ AQPotency Available on AWS Marketplace & SageMaker | SandboxAQ",
+      "sourceKey": "s02-25",
+      "sourceName": "SandboxAQ",
+      "sourceType": "AI/量子技术公司",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-09T13:30:56.782Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.sandboxaq.com/post/aqpotency-from-sandboxaq-is-now-generally-available-in-aws-marketplace-and-deployable-on-amazon-sagemaker",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "45d6a2b79938283a07ca47b39fd2409f",
       "title": "LegalOn halves Codex costs while maintaining development speed",
       "sourceKey": "s01-14",
@@ -10425,5 +10461,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-10-09T06:21:37.096Z"
+  "updatedAt": "2026-10-09T13:31:14.880Z"
 }
