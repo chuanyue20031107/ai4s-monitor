@@ -1,11 +1,77 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-09T13:31:14.880Z",
-  "pendingCount": 270,
-  "readyCount": 270,
+  "updatedAt": "2026-10-09T22:46:11.372Z",
+  "pendingCount": 280,
+  "readyCount": 280,
   "awaitingContentCount": 0,
   "excludedContentCount": 66,
   "items": [
+    {
+      "id": "b90b3dda4906e485ba4fcb226562717d",
+      "title": "Generate Biomedicines, Inc. Announces Pricing of Initial Public Offering | Generate:Biomedicines",
+      "url": "https://generatebiomedicines.com/news-releases/generate-biomedicines-inc-announces-pricing-of-initial-public-offering/",
+      "publishedAt": null,
+      "crawledAt": "2026-10-09T22:46:10.301Z",
+      "contentStatus": "ready",
+      "contentHash": "694dd796570052fc2bbef06355615a7ad48fece63a00cca7314ea8e2499defcd",
+      "rawPath": "data/raw/b90b3dda4906e485ba4fcb226562717d.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "98244d62c20c962ef615c0183ab35383",
+      "title": "Generate:Biomedicines Welcomes Aarif Khakoo, MD, MBA, as Chief Scientific Officer | Generate:Biomedicines",
+      "url": "https://generatebiomedicines.com/news-releases/generatebiomedicines-welcomes-aarif-khakoo-md-mba-as-chief-scientific-officer/",
+      "publishedAt": null,
+      "crawledAt": "2026-10-09T22:46:10.124Z",
+      "contentStatus": "ready",
+      "contentHash": "7ebc2423551e60aeac89a3d675c3e7b804667a09b569cbfd21107cb7664ff9eb",
+      "rawPath": "data/raw/98244d62c20c962ef615c0183ab35383.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "19ad6da45accc987f910a974d043e640",
+      "title": "2027 Award Recipients",
+      "url": "https://pittcon.org/conference/award-recipients/",
+      "publishedAt": null,
+      "crawledAt": "2026-10-09T22:46:03.887Z",
+      "contentStatus": "ready",
+      "contentHash": "61f99acfffe8ad6152c3c1b3ab74b18d6c4c82514cf06720dc39a72deedae590",
+      "rawPath": "data/raw/19ad6da45accc987f910a974d043e640.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "95ac32850e7321049c8e3d80e61c82ad",
+      "title": "贝克曼S5000流水线落地大三甲医院",
+      "url": "https://www.caclp.com/article/?detail_14404.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-09T22:45:58.160Z",
+      "contentStatus": "ready",
+      "contentHash": "a393b490a95fa1d82415b678bbbbe74fe00f16e5ccd5ad27e716ce77cf6765da",
+      "rawPath": "data/raw/95ac32850e7321049c8e3d80e61c82ad.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "11b4de3e7d80031e4aef424b7f4849de",
+      "title": "新产业，新园区启用！",
+      "url": "https://www.caclp.com/article/?detail_14405.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-09T22:45:56.991Z",
+      "contentStatus": "ready",
+      "contentHash": "b6453fa1ebf851fb1aa527038a8e54e5e5610003bd8c932eb1b61fff30e6c329",
+      "rawPath": "data/raw/11b4de3e7d80031e4aef424b7f4849de.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "ab62b26bac0614585a9d8cd7a1691952",
+      "title": "沈洪兵人民日报撰文：加快推动疾控事业高质量发展",
+      "url": "https://www.caclp.com/article/?detail_14406.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-09T22:45:55.876Z",
+      "contentStatus": "ready",
+      "contentHash": "054f986b3bcb5167d60d8d77a16f84020422336f6d701fbfe2196e0db9b49eac",
+      "rawPath": "data/raw/ab62b26bac0614585a9d8cd7a1691952.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "c1dc57ec6dc37ba0f8335a52ff728224",
       "title": "当中国仪器遇上越南榴莲 2026-10-09",
@@ -150,6 +216,39 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "712c7be23c8325477fe57e7d1d55c72a",
+      "title": "Five Things Chemical Engineering Students Should Know about AI",
+      "url": "https://www.aiche.org/five-things-chemical-engineering-students-should-know-about-ai",
+      "publishedAt": "2026-10-08T12:03:09.000Z",
+      "crawledAt": "2026-10-09T22:46:03.190Z",
+      "contentStatus": "ready",
+      "contentHash": "1652bb932c294921adefa65d106b96dd7d786cebb7e3220ec82aa62bce8cd094",
+      "rawPath": "data/raw/712c7be23c8325477fe57e7d1d55c72a.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "131c5ed777613eb23d221d738c62eb27",
+      "title": "NIST Study Shows How the Toxic Substances Mixed Into Fentanyl Vary Across the U.S. and Change Over Time",
+      "url": "https://www.nist.gov/news-events/news/2026/10/nist-study-shows-how-toxic-substances-mixed-fentanyl-vary-across-us-and",
+      "publishedAt": "2026-10-08T12:00:00.000Z",
+      "crawledAt": "2026-10-09T22:46:07.362Z",
+      "contentStatus": "ready",
+      "contentHash": "b36a2f76efbefcb0d1974a142ee35e96cf58dc62e0b6c4ddb9343b17d987c541",
+      "rawPath": "data/raw/131c5ed777613eb23d221d738c62eb27.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "34c6d6b8f09c1fc0e178e81fdb6c5e39",
+      "title": "NIST Joins White House Effort to Drive ‘A New Golden Age of Science’",
+      "url": "https://www.nist.gov/news-events/news/2026/10/nist-joins-white-house-effort-drive-new-golden-age-science",
+      "publishedAt": "2026-10-08T12:00:00.000Z",
+      "crawledAt": "2026-10-09T22:46:07.405Z",
+      "contentStatus": "ready",
+      "contentHash": "a88f07dc29e89a90c68a1bc29d617efee80cb6daeab102d6448ceb9192992334",
+      "rawPath": "data/raw/34c6d6b8f09c1fc0e178e81fdb6c5e39.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "45d6a2b79938283a07ca47b39fd2409f",
       "title": "LegalOn halves Codex costs while maintaining development speed",
       "url": "https://openai.com/index/legalon-halves-codex-costs",
@@ -246,6 +345,17 @@
       "contentStatus": "ready",
       "contentHash": "0b7cee0d590d704f5511415468f2d6648848006e89b06069a698d568443d87e8",
       "rawPath": "data/raw/972f56dc3b5e647fa716cc1b859c5aca.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "2321da9400d7c255388f611fdff78406",
+      "title": "October 2026 CEP Preview",
+      "url": "https://www.aiche.org/october-2026-cep-preview",
+      "publishedAt": "2026-10-07T23:03:05.000Z",
+      "crawledAt": "2026-10-09T22:46:03.190Z",
+      "contentStatus": "ready",
+      "contentHash": "f68839b36b75dda8450137fd1cec87670114c0e6b3f33b29fd7bd001cab2d6ff",
+      "rawPath": "data/raw/2321da9400d7c255388f611fdff78406.json",
       "lastAnalysisStatus": "pending"
     },
     {
