@@ -1,11 +1,66 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-09T22:46:11.372Z",
-  "pendingCount": 280,
-  "readyCount": 280,
+  "updatedAt": "2026-10-10T06:05:20.753Z",
+  "pendingCount": 288,
+  "readyCount": 288,
   "awaitingContentCount": 0,
-  "excludedContentCount": 66,
+  "excludedContentCount": 63,
   "items": [
+    {
+      "id": "58e50618c67c9397e77f7aa2b6a0e833",
+      "title": "国家科技重大专项：煤炭重大专项2027年度第...",
+      "url": "https://www.ustc.edu.cn/info/1362/25868.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-10-10T06:01:57.255Z",
+      "contentStatus": "ready",
+      "contentHash": "56b5db123432f842723f15208458592ab04f97aa8bc2fc46f59085716cecb9f0",
+      "rawPath": "data/raw/58e50618c67c9397e77f7aa2b6a0e833.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "5d5bf6fdee5cf07df4ac9235ecb97b71",
+      "title": "中国科大学生桥牌队荣获2026年全国桥牌高校联赛决赛冠军",
+      "url": "http://news.ustc.edu.cn/info/1055/96505.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-10-10T06:01:55.509Z",
+      "contentStatus": "ready",
+      "contentHash": "1facdb84adfb64407eafb883a9401ebc6bddc0e248e8944efb00bbd723e614a1",
+      "rawPath": "data/raw/5d5bf6fdee5cf07df4ac9235ecb97b71.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "cabd1c7909fff6384128ed118a1777f9",
+      "title": "首站清华大学，创材深造Deep Material2027届校园招聘正式启动！ 9月29日，创材深造（Deep Material）2027 届全球校园招聘正式启动，首站活动在清华大学举行。 2026.10.10",
+      "url": "https://www.deep-material.com/qiyexinwen/94",
+      "publishedAt": null,
+      "crawledAt": "2026-10-10T06:01:52.816Z",
+      "contentStatus": "ready",
+      "contentHash": "c06f30b0b37555c22351388245bac35f58dc624dceebba2b9deed073f05da59c",
+      "rawPath": "data/raw/cabd1c7909fff6384128ed118a1777f9.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "d1b73f5a369719903553770bbdb79c9c",
+      "title": "Atomically accurate de novo design of single-domain antibodies | Xaira Therapeutics",
+      "url": "https://www.xaira.com/news/atomically-accurate-de-novo-design-of-single-domain-antibodies",
+      "publishedAt": null,
+      "crawledAt": "2026-10-10T06:01:37.845Z",
+      "contentStatus": "ready",
+      "contentHash": "ef9ea722272dc5c3e4ee33386a3008b72466fd4a846b382dd3c11b5d43ce3277",
+      "rawPath": "data/raw/d1b73f5a369719903553770bbdb79c9c.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "6c24c2566e9156ca8c22efd8726d12bc",
+      "title": "AI enters a new phase, and the Fortune 50 AI Innovators list identifies the companies leading it | Xaira Therapeutics",
+      "url": "https://www.xaira.com/news/ai-enters-a-new-phase-and-the-fortune-50-ai-innovators-list-identifies-the-companies-leading-it",
+      "publishedAt": null,
+      "crawledAt": "2026-10-10T06:01:37.759Z",
+      "contentStatus": "ready",
+      "contentHash": "144645dae8ad6080f3ce4a2377524d0c449fb91aca4f61101d0d6255efaf9909",
+      "rawPath": "data/raw/6c24c2566e9156ca8c22efd8726d12bc.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "b90b3dda4906e485ba4fcb226562717d",
       "title": "Generate Biomedicines, Inc. Announces Pricing of Initial Public Offering | Generate:Biomedicines",
@@ -722,6 +777,17 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "2c5d50e58a22556c4576ef36ec3d12c6",
+      "title": "成本可降近90%！赋澈生物造出可“按温度拆解”的新塑料，登上Nature Biotechnology",
+      "url": "https://www.xtalpi.com/%e6%88%90%e6%9c%ac%e5%8f%af%e9%99%8d%e8%bf%9190%ef%bc%81%e8%b5%8b%e6%be%88%e7%94%9f%e7%89%a9%e9%80%a0%e5%87%ba%e5%8f%af%e6%8c%89%e6%b8%a9%e5%ba%a6%e6%8b%86%e8%a7%a3%e7%9a%84%e6%96%b0/",
+      "publishedAt": "2026-10-05T03:08:30.000Z",
+      "crawledAt": "2026-10-10T06:01:52.252Z",
+      "contentStatus": "ready",
+      "contentHash": "c79cffdb5f0ccf0e8da99447d202f7040863c02e27475b7be9f35c8686f8198e",
+      "rawPath": "data/raw/2c5d50e58a22556c4576ef36ec3d12c6.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "1ed5e9729ab7dae27ffed8979cf22eee",
       "title": "Generate:Biomedicines Provides Update on its Platform and Pipeline Powered by AI at the 43rd Annual J.P. Morgan Healthcare Conference | Generate:Biomedicines",
       "url": "https://generatebiomedicines.com/news-releases/generatebiomedicines-provides-update-on-its-platform-and-pipeline/",
@@ -1093,6 +1159,17 @@
       "contentStatus": "ready",
       "contentHash": "b2e7ac35f8ad95a47e642f90e7c7fec05cf3290241bba5226c26697fab2eef9c",
       "rawPath": "data/raw/897f9efa502e731da3518fc6f27afab3.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "87e5e99324ddb9b98fe616dfdc91005a",
+      "title": "晶泰生发管线进入 IND-enabling 阶段：以极低浓度，解锁温和高效生发新可能",
+      "url": "https://www.xtalpi.com/%e6%99%b6%e6%b3%b0%e7%94%9f%e5%8f%91%e7%ae%a1%e7%ba%bf%e8%bf%9b%e5%85%a5-ind-enabling-%e9%98%b6%e6%ae%b5%ef%bc%9a%e4%bb%a5%e6%9e%81%e4%bd%8e%e6%b5%93%e5%ba%a6%ef%bc%8c%e8%a7%a3%e9%94%81%e6%b8%a9/",
+      "publishedAt": "2026-10-02T02:52:02.000Z",
+      "crawledAt": "2026-10-10T06:01:52.253Z",
+      "contentStatus": "ready",
+      "contentHash": "e1614cc7746ba8f98a79698a4ca35d09999968b43fe3f2f3fd76686efbf3366b",
+      "rawPath": "data/raw/87e5e99324ddb9b98fe616dfdc91005a.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -2985,6 +3062,17 @@
       "contentStatus": "ready",
       "contentHash": "fe5d1744ee84dd4d6778e88f0e52325237fd05316e2f35d10211c163c78b704d",
       "rawPath": "data/raw/4965a9c2f2e013ebac8d3814afd7c92f.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "ae31ade0022ec4b75dcf89343b017549",
+      "title": "端到端语音语言大模型 正式商用 开口即真人 最高享100万免费tokens 查看详情",
+      "url": "https://ai.baidu.com/support/news?action=detail&id=3271",
+      "publishedAt": null,
+      "crawledAt": "2026-09-16T06:05:24.251Z",
+      "contentStatus": "ready",
+      "contentHash": "718202e7e1ebb0982e0a7e87fa5feb2caae79282f33e8849a84a90cb8a6b23ad",
+      "rawPath": "data/raw/ae31ade0022ec4b75dcf89343b017549.json",
       "lastAnalysisStatus": "pending"
     },
     {

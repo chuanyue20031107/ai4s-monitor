@@ -7,12 +7,13 @@
   "sourceType": "科技大厂",
   "publishedAt": null,
   "crawledAt": "2026-09-16T06:05:24.251Z",
-  "content": "",
-  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "contentStatus": "fetch_failed",
-  "extractionMethod": "legacy-title-only",
+  "content": "百度发布的业界首个基于Cross-Attention的 端到端语音语言大模型（Pro版本） 现已正式商用 。 从\\\"能听会说\\\"到\\\" 开口即真人 \\\"，产品具备超拟人语音合成、智能打断、环境降噪及多方言能力，打造全新语音交互体验 。即刻进入 百度智能云语音技术控制台 ，完成 实名认证，最高可享 100万免费tokens 。点击 了解 产品详情 。 百度发布的业界首个基于Cross-Attention的 端到端语音语言大模型（Pro版本） 现已正式商用 。 从\"能听会说\"到\" 开口即真人 \"，产品具备超拟人语音合成、智能打断、环境降噪及多方言能力，打造全新语音交互体验 。即刻进入 百度智能云语音技术控制台 ，完成 实名认证，最高可享 100万免费tokens 。点击 了解 产品详情 。",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
   "discardReason": "",
+  "contentHash": "718202e7e1ebb0982e0a7e87fa5feb2caae79282f33e8849a84a90cb8a6b23ad",
   "legacyId": "7ed69d32ffcde0e0909d34d020b64992",
-  "lastFetchAt": "2026-09-17T08:47:29.586Z",
-  "contentError": "fetch failed"
+  "lastFetchAt": "2026-10-10T06:05:11.757Z",
+  "contentError": "",
+  "contentTruncated": false
 }
