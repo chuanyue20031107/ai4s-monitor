@@ -1,0 +1,18 @@
+{
+  "id": "570fe3204556675e8dd927e7dbd15e71",
+  "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+  "url": "https://openai.com/index/sophos",
+  "sourceKey": "s01-14",
+  "sourceName": "OpenAI",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": "2026-10-09T07:00:00.000Z",
+  "crawledAt": "2026-10-10T21:51:46.079Z",
+  "content": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-10-10T21:51:46.079Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "bcf634010cd6e3fdbe9a4bd8c87edcdda209d5da6dc6909c91b41bef72d21853"
+}

@@ -1,6 +1,96 @@
 {
   "items": [
     {
+      "id": "570fe3204556675e8dd927e7dbd15e71",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "sourceKey": "s01-14",
+      "sourceName": "OpenAI",
+      "sourceType": "科技大厂研究机构",
+      "category": "",
+      "publishedAt": "2026-10-09T07:00:00.000Z",
+      "crawledAt": "2026-10-10T21:51:46.079Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://openai.com/index/sophos",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "9bf93d58cc35db9987f8bca45379eba9",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "sourceKey": "s01-14",
+      "sourceName": "OpenAI",
+      "sourceType": "科技大厂研究机构",
+      "category": "",
+      "publishedAt": "2026-10-09T07:00:00.000Z",
+      "crawledAt": "2026-10-10T21:51:46.079Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://openai.com/index/asana-browser-agent",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "d9e485b409fe8517ac6e3a5ba39a5770",
+      "title": "Disrupting AI-enabled “false front” operations",
+      "sourceKey": "s01-14",
+      "sourceName": "OpenAI",
+      "sourceType": "科技大厂研究机构",
+      "category": "",
+      "publishedAt": "2026-10-08T00:00:00.000Z",
+      "crawledAt": "2026-10-10T21:51:46.079Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "e887356f4c6923cd3401238bb4dfe7d1",
+      "title": "• 庆祝中华人民共和国成立77周年招待会在京举行 习近平发表重要讲话 2026-09-30",
+      "sourceKey": "s10-05",
+      "sourceName": "中国人工智能大会 CCAI",
+      "sourceType": "全国学术大会",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-10T21:51:32.703Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.caai.cn/site/content/11410.html",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "aa5c5b47c4db03617be534a625a18eb0",
+      "title": "烈士纪念日向人民英雄敬献花篮仪式在京隆重举行 习近平等党和国家领导人出席 烈士纪念日向人民英雄敬献花篮仪式在京隆重举行 习近平李强赵乐际王沪宁蔡奇丁薛祥李希韩正出席 9月30日上午，党和国家领导人习近平、李强、赵乐际、王沪宁、蔡奇、丁薛祥、李希、韩正等来到北京天安门广场，出席烈士纪念日向人民英雄敬献花篮仪式。这是习近平整理花篮上的缎带。新华社记者",
+      "sourceKey": "s10-05",
+      "sourceName": "中国人工智能大会 CCAI",
+      "sourceType": "全国学术大会",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-10T21:51:32.222Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.caai.cn/site/content/11411.html",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "ad2944de66091a487977be302a170826",
       "title": "PDB-101 Focus: Biotechnology",
       "sourceKey": "s07-13",
@@ -10965,5 +11055,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-10-10T12:44:33.656Z"
+  "updatedAt": "2026-10-10T21:54:09.857Z"
 }

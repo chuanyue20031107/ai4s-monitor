@@ -1,0 +1,18 @@
+{
+  "id": "9bf93d58cc35db9987f8bca45379eba9",
+  "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+  "url": "https://openai.com/index/asana-browser-agent",
+  "sourceKey": "s01-14",
+  "sourceName": "OpenAI",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": "2026-10-09T07:00:00.000Z",
+  "crawledAt": "2026-10-10T21:51:46.079Z",
+  "content": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-10-10T21:51:46.079Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "e3280aaa05a46948e875aa6267d0b835044b48609ca33d56b422dda3d34a557b"
+}
