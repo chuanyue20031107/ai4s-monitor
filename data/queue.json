@@ -1,11 +1,44 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-11T06:02:59.072Z",
-  "pendingCount": 305,
-  "readyCount": 305,
+  "updatedAt": "2026-10-11T13:04:16.710Z",
+  "pendingCount": 309,
+  "readyCount": 309,
   "awaitingContentCount": 0,
   "excludedContentCount": 63,
   "items": [
+    {
+      "id": "97f55147df3e6352dfebdb6df9fa03fb",
+      "title": "康录生物快速FISH探针获印尼IVD进口注册认证",
+      "url": "https://www.caclp.com/article/?detail_14409.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-11T13:01:28.368Z",
+      "contentStatus": "ready",
+      "contentHash": "29d29d646e6f8df09615ed6602e02a52b7fe22945bd5b78a7a09b76880b49117",
+      "rawPath": "data/raw/97f55147df3e6352dfebdb6df9fa03fb.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "a4b3bdc46c7912b4023cde39f887dc84",
+      "title": "大三甲检验科主任，拿下国家专项，经费7392万！",
+      "url": "https://www.caclp.com/article/?detail_14410.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-11T13:01:26.581Z",
+      "contentStatus": "ready",
+      "contentHash": "f97a9db288ae5ccf16b98f828004cfcd372e04d49676f8b2ea7164d9896864ac",
+      "rawPath": "data/raw/a4b3bdc46c7912b4023cde39f887dc84.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "7d6573a7abfd7fbc4fd7326c2ed0aad6",
+      "title": "复旦大学附属华山医院关明教授团队研究：基于胞外囊泡的髓核细胞铁死亡干预新策略",
+      "url": "https://www.caclp.com/article/?detail_14411.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-11T13:01:25.224Z",
+      "contentStatus": "ready",
+      "contentHash": "5e5ca9bf9df83d7ae41a8b9343ac3c041636e543d627c5f29e7455e14a1a95eb",
+      "rawPath": "data/raw/7d6573a7abfd7fbc4fd7326c2ed0aad6.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "48cd90144e25baeaa2fc04563c75eb6b",
       "title": "国轩高科2026全国科普月 以新能源之光，照亮科学普及之路 2026-10-10 2026-10-10",
@@ -279,6 +312,17 @@
       "contentStatus": "ready",
       "contentHash": "054f986b3bcb5167d60d8d77a16f84020422336f6d701fbfe2196e0db9b49eac",
       "rawPath": "data/raw/ab62b26bac0614585a9d8cd7a1691952.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "ac3b3aeb27a8ccc8f5d49009e09fa0bd",
+      "title": "Dr. Theresa Whiting to Receive AIChE’s 2026 Industrial Progress Award",
+      "url": "https://www.aiche.org/dr-theresa-whiting-receive-aiches-2026-industrial-progress-award",
+      "publishedAt": "2026-10-09T15:03:10.000Z",
+      "crawledAt": "2026-10-11T13:01:39.870Z",
+      "contentStatus": "ready",
+      "contentHash": "dd4d6b7d93d38ab41bbbde146815ef037b6ccf2a42c7054654d82b903fa939ce",
+      "rawPath": "data/raw/ac3b3aeb27a8ccc8f5d49009e09fa0bd.json",
       "lastAnalysisStatus": "pending"
     },
     {

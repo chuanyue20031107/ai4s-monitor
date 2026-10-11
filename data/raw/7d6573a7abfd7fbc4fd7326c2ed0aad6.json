@@ -1,0 +1,18 @@
+{
+  "id": "7d6573a7abfd7fbc4fd7326c2ed0aad6",
+  "title": "复旦大学附属华山医院关明教授团队研究：基于胞外囊泡的髓核细胞铁死亡干预新策略",
+  "url": "https://www.caclp.com/article/?detail_14411.html",
+  "sourceKey": "s10-15",
+  "sourceName": "CACLP中国国际检验医学暨输血仪器试剂博览会",
+  "sourceType": "行业展会/会议",
+  "publishedAt": null,
+  "crawledAt": "2026-10-11T13:01:25.224Z",
+  "content": "椎间盘退变（IDD）是慢性下腰痛最主要的病理基础，给患者与社会带来沉重负担。近年研究提示，髓核细胞（NPCs）的铁死亡在IDD进展中居于核心地位，抑制NPCs铁死亡可显著延缓椎间盘结构退变。基于细胞外囊泡的靶向递送因其低免疫原性与组织亲和性被视为颇具前景的干预策略，但天然囊泡治疗作用有限，如何通过工程化改造提升其靶向性与功能仍有待突破。 针对上述瓶颈， 复旦大学附属华山医院关明教授、徐州医科大学高丰雷教授、徐州医科大学附属淮安医院周全教授、徐州医科大学附属医院潘彬教授 团队 构建双基因工程化胞外囊泡mFD-PEV，旨在通过调控铁/氧化还原稳态抑制NPCs铁死亡、延缓退变进程。 研究发表于 Advanced Science （IF：14.1）。 结合临床样本与生信分析，研究证实退变髓核组织中铁死亡、胞吞通路显著紊乱，FTH1、DAB2关键基因表达显著下调。研究团队对髓核祖细胞进行基因修饰，制备得到 mFD-PEVs：一方面，囊泡表面的DAB2能够显著提升髓核细胞对囊泡的摄取效率；另一方面，内腔封装 FTH1 mRNA，使其在靶细胞内递送并恢复铁代谢与氧化还原稳态。 机制研究表明，mFD-PEVs处理可显著降低NPCs内Fe2+蓄积、ROS生成与脂质过氧化水平，改善线粒体功能障碍，同时维持SLC7A11/GPX4抗氧化防御轴，从而减轻铁死亡相关的细胞损伤。 大鼠IDD模型体内研究显示，mFD-PEVs可延长在椎间盘局部滞留时间，有效维持椎间盘高度，改善髓核组织病理学表型，恢复铁死亡通路关键保护蛋白的表达水平。转录组分析提示，mFD-PEVs主要调控氧化应激、氧化还原稳态及铁死亡相关特征基因。 综上，该研究将双基因工程化胞外囊泡的靶向递送与铁死亡调控相结合，证实mFD-PEVs可经重塑氧化还原稳态减轻NPCs铁死亡损伤、延缓IDD进展，为椎间盘退变的干预提供了可借鉴的新路径。 https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.77329 Yan J, Guan M, Lin YZ, et al. Dual‑Gene Edited Extracellular Vesicles Remodel the Redox Homeostasis to Inhibit Ferroptosis in Intervertebral Disc Degeneration [J]. Advanced Science, 2026. 邮件群发 | Copyright &copy; CACLP体外诊断资讯网 All Rights Reserved. 沪公网安备 31010502005883号",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-10-11T13:01:25.224Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "5e5ca9bf9df83d7ae41a8b9343ac3c041636e543d627c5f29e7455e14a1a95eb"
+}

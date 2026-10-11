@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "ac3b3aeb27a8ccc8f5d49009e09fa0bd",
+      "title": "Dr. Theresa Whiting to Receive AIChE’s 2026 Industrial Progress Award",
+      "sourceKey": "s11-17",
+      "sourceName": "AIChE Annual Meeting",
+      "sourceType": "国际学术会议",
+      "category": "",
+      "publishedAt": "2026-10-09T15:03:10.000Z",
+      "crawledAt": "2026-10-11T13:01:39.870Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.aiche.org/dr-theresa-whiting-receive-aiches-2026-industrial-progress-award",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "97f55147df3e6352dfebdb6df9fa03fb",
+      "title": "康录生物快速FISH探针获印尼IVD进口注册认证",
+      "sourceKey": "s10-15",
+      "sourceName": "CACLP中国国际检验医学暨输血仪器试剂博览会",
+      "sourceType": "行业展会/会议",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-11T13:01:28.368Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.caclp.com/article/?detail_14409.html",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "a4b3bdc46c7912b4023cde39f887dc84",
+      "title": "大三甲检验科主任，拿下国家专项，经费7392万！",
+      "sourceKey": "s10-15",
+      "sourceName": "CACLP中国国际检验医学暨输血仪器试剂博览会",
+      "sourceType": "行业展会/会议",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-11T13:01:26.581Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.caclp.com/article/?detail_14410.html",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "7d6573a7abfd7fbc4fd7326c2ed0aad6",
+      "title": "复旦大学附属华山医院关明教授团队研究：基于胞外囊泡的髓核细胞铁死亡干预新策略",
+      "sourceKey": "s10-15",
+      "sourceName": "CACLP中国国际检验医学暨输血仪器试剂博览会",
+      "sourceType": "行业展会/会议",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-11T13:01:25.224Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.caclp.com/article/?detail_14411.html",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "48cd90144e25baeaa2fc04563c75eb6b",
       "title": "国轩高科2026全国科普月 以新能源之光，照亮科学普及之路 2026-10-10 2026-10-10",
       "sourceKey": "s06-10",
@@ -11091,5 +11163,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-10-11T06:02:59.072Z"
+  "updatedAt": "2026-10-11T13:04:16.710Z"
 }
