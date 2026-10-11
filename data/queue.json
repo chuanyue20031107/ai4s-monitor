@@ -1,11 +1,77 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-11T13:04:16.710Z",
-  "pendingCount": 309,
-  "readyCount": 309,
+  "updatedAt": "2026-10-11T22:08:51.990Z",
+  "pendingCount": 315,
+  "readyCount": 315,
   "awaitingContentCount": 0,
   "excludedContentCount": 63,
   "items": [
+    {
+      "id": "ae2e6955f03962d30d1e19b92793bd26",
+      "title": "国家科技重大专项：深地专项2026年度第二批...",
+      "url": "https://www.ustc.edu.cn/info/1362/25874.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-10-11T22:05:33.273Z",
+      "contentStatus": "ready",
+      "contentHash": "02286c29a7b7fa6268a85be2ce09f95820e558ee0082dce3599f67e8a5b9ca7f",
+      "rawPath": "data/raw/ae2e6955f03962d30d1e19b92793bd26.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "6c65038a174371875a373dc0d9d9a8ae",
+      "title": "我校召开2026年秋季学期毕业生就业工作推进会",
+      "url": "http://news.ustc.edu.cn/info/1055/96519.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-10-11T22:05:31.520Z",
+      "contentStatus": "ready",
+      "contentHash": "9414a42cee7685da12b42d8b2cad4e7ac2d53f405e0216a9a804786463b3e3f3",
+      "rawPath": "data/raw/6c65038a174371875a373dc0d9d9a8ae.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "57b48ba88b93d2e3746084acb5d9dcd5",
+      "title": "Designed endocytosis-inducing proteins degrade targets and amplify signals | Xaira Therapeutics",
+      "url": "https://www.xaira.com/news/designed-endocytosis-inducing-proteins-degrade-targets-and-amplify-signals",
+      "publishedAt": null,
+      "crawledAt": "2026-10-11T22:05:14.544Z",
+      "contentStatus": "ready",
+      "contentHash": "adb18d7303b8ac6aff3f17b90ccc6f23e9fa9ff2d5d0db8273a7d551d191a044",
+      "rawPath": "data/raw/57b48ba88b93d2e3746084acb5d9dcd5.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "853695254b1c0d7bf1e115c59a3b1cb3",
+      "title": "De novo design of protein structure and function with RFdiffusion | Xaira Therapeutics",
+      "url": "https://www.xaira.com/news/de-novo-design-of-protein-structure-and-function-with-rfdiffusion",
+      "publishedAt": null,
+      "crawledAt": "2026-10-11T22:05:14.504Z",
+      "contentStatus": "ready",
+      "contentHash": "ef9ea722272dc5c3e4ee33386a3008b72466fd4a846b382dd3c11b5d43ce3277",
+      "rawPath": "data/raw/853695254b1c0d7bf1e115c59a3b1cb3.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "c349df17ef7f2aa2af1fd022b6d8928c",
+      "title": "Generate:Biomedicines Announces First External Equity Raise of $370 Million to Advance its Drug Generation Platform | Generate:Biomedicines",
+      "url": "https://generatebiomedicines.com/news-releases/generate-biomedicines-announces-first-external-equity-raise-of-370-million-to-advance-its-drug-generation-platform/",
+      "publishedAt": null,
+      "crawledAt": "2026-10-11T22:05:14.191Z",
+      "contentStatus": "ready",
+      "contentHash": "e29e1b414f6bc6e0ae65cd1ea09bad670737492672593f1d1848913327d3bfc1",
+      "rawPath": "data/raw/c349df17ef7f2aa2af1fd022b6d8928c.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "cce052a2236b6396f8e0f439f8f4c292",
+      "title": "Generate Biomedicines Inc. to Participate in Goldman Sachs 47th Annual Global Healthcare Conference | Generate:Biomedicines",
+      "url": "https://generatebiomedicines.com/news-releases/generate-biomedicines-inc-to-participate-in-goldman-sachs-47th-annual-global-healthcare-conference/",
+      "publishedAt": null,
+      "crawledAt": "2026-10-11T22:05:14.128Z",
+      "contentStatus": "ready",
+      "contentHash": "b445688e7dd4b287f9b957d9b524161b9eb265b489dead1a3279fe944f36279f",
+      "rawPath": "data/raw/cce052a2236b6396f8e0f439f8f4c292.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "97f55147df3e6352dfebdb6df9fa03fb",
       "title": "康录生物快速FISH探针获印尼IVD进口注册认证",
