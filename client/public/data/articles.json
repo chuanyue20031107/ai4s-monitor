@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "id": "7a0243ce7c6b05770e7dd11fcf23a9c5",
+      "title": "黄委黄河水土保持西峰治理监督局机关大楼改造加固设计、采购、施工EPC总承包（二次）资格预审...",
+      "sourceKey": "s08-07",
+      "sourceName": "中国政府采购网",
+      "sourceType": "政府采购平台",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-12T15:39:28.315Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.ccgp.gov.cn/cggg/zygg/zgysgg/202610/t20261012_27475695.htm",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "b77d298a35899ae604344690077f5e1d",
+      "title": "民航西北空管局2026年度在职职工健康体检服务采购公开招标公告",
+      "sourceKey": "s08-07",
+      "sourceName": "中国政府采购网",
+      "sourceType": "政府采购平台",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-12T15:39:27.730Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.ccgp.gov.cn/cggg/zygg/gkzb/202610/t20261012_27475720.htm",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "a823709f63137e0fb72853e76c4437fd",
+      "title": "储罐完整性检测项目竞争性磋商公告",
+      "sourceKey": "s08-07",
+      "sourceName": "中国政府采购网",
+      "sourceType": "政府采购平台",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-12T15:39:27.147Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.ccgp.gov.cn/cggg/zygg/qtgg/202610/t20261012_27475738.htm",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "a9e5878aebcf58b7508d271ad3502939",
       "title": "2026-10-08 宁德时代携手苏州市吴江区部署CharGo充电狗，完成双节移动能源保障 了解更多",
       "sourceKey": "s06-05",
@@ -11325,5 +11379,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-10-12T06:17:21.072Z"
+  "updatedAt": "2026-10-12T15:42:31.163Z"
 }

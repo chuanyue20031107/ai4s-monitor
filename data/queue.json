@@ -1,11 +1,44 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-12T06:17:21.072Z",
-  "pendingCount": 318,
-  "readyCount": 318,
+  "updatedAt": "2026-10-12T15:42:31.163Z",
+  "pendingCount": 321,
+  "readyCount": 321,
   "awaitingContentCount": 0,
   "excludedContentCount": 63,
   "items": [
+    {
+      "id": "7a0243ce7c6b05770e7dd11fcf23a9c5",
+      "title": "黄委黄河水土保持西峰治理监督局机关大楼改造加固设计、采购、施工EPC总承包（二次）资格预审...",
+      "url": "https://www.ccgp.gov.cn/cggg/zygg/zgysgg/202610/t20261012_27475695.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-10-12T15:39:28.315Z",
+      "contentStatus": "ready",
+      "contentHash": "4a6365bdc0f241a8a4df559a9000d84e0a763c2d70377771b3b5256271884a7a",
+      "rawPath": "data/raw/7a0243ce7c6b05770e7dd11fcf23a9c5.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "b77d298a35899ae604344690077f5e1d",
+      "title": "民航西北空管局2026年度在职职工健康体检服务采购公开招标公告",
+      "url": "https://www.ccgp.gov.cn/cggg/zygg/gkzb/202610/t20261012_27475720.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-10-12T15:39:27.730Z",
+      "contentStatus": "ready",
+      "contentHash": "7a698ce32beb30b14884c40339cf147482e9d22bacbf9898f9fee9aff6599dd3",
+      "rawPath": "data/raw/b77d298a35899ae604344690077f5e1d.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "a823709f63137e0fb72853e76c4437fd",
+      "title": "储罐完整性检测项目竞争性磋商公告",
+      "url": "https://www.ccgp.gov.cn/cggg/zygg/qtgg/202610/t20261012_27475738.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-10-12T15:39:27.147Z",
+      "contentStatus": "ready",
+      "contentHash": "2e3e0cbfe08ba1e23ae43cf3f71b896906afc7fb164e9d2806c93c7bed88a98d",
+      "rawPath": "data/raw/a823709f63137e0fb72853e76c4437fd.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "a9e5878aebcf58b7508d271ad3502939",
       "title": "2026-10-08 宁德时代携手苏州市吴江区部署CharGo充电狗，完成双节移动能源保障 了解更多",
