@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "id": "a9e5878aebcf58b7508d271ad3502939",
+      "title": "2026-10-08 宁德时代携手苏州市吴江区部署CharGo充电狗，完成双节移动能源保障 了解更多",
+      "sourceKey": "s06-05",
+      "sourceName": "宁德时代",
+      "sourceType": "研发型企业",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-12T06:11:19.281Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.catl.com/news/10215.html",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "fbac2dee77f12726d972585f0a4b4568",
+      "title": "2026-10-12 全球唯一！宁德时代成连续三期均有产品发布GBA电池护照企业 了解更多",
+      "sourceKey": "s06-05",
+      "sourceName": "宁德时代",
+      "sourceType": "研发型企业",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-12T06:11:18.996Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.catl.com/news/10214.html",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "1ae0708019d4b812306ab6fe8551807f",
+      "title": "2026/10 14 Characterizing and engineering melanin-peptide polymers 2026年10月14日15:00-16:00 Deepesh Nagarajan 助理教授‌ 卫光生命科学园1A栋303会议室 了解详情",
+      "sourceKey": "s05-14",
+      "sourceName": "深圳湾实验室",
+      "sourceType": "自主实验室与平台",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-12T06:08:24.904Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.szbl.ac.cn/info/1017/10594.htm",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "ae2e6955f03962d30d1e19b92793bd26",
       "title": "国家科技重大专项：深地专项2026年度第二批...",
       "sourceKey": "s05-02",
@@ -11271,5 +11325,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-10-11T22:08:51.990Z"
+  "updatedAt": "2026-10-12T06:17:21.072Z"
 }

@@ -1,11 +1,44 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-11T22:08:51.990Z",
-  "pendingCount": 315,
-  "readyCount": 315,
+  "updatedAt": "2026-10-12T06:17:21.072Z",
+  "pendingCount": 318,
+  "readyCount": 318,
   "awaitingContentCount": 0,
   "excludedContentCount": 63,
   "items": [
+    {
+      "id": "a9e5878aebcf58b7508d271ad3502939",
+      "title": "2026-10-08 宁德时代携手苏州市吴江区部署CharGo充电狗，完成双节移动能源保障 了解更多",
+      "url": "https://www.catl.com/news/10215.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-12T06:11:19.281Z",
+      "contentStatus": "ready",
+      "contentHash": "f042efa6414ca4abb112a50b5dca4c2496705f9fb15054f83ba988390fccb228",
+      "rawPath": "data/raw/a9e5878aebcf58b7508d271ad3502939.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "fbac2dee77f12726d972585f0a4b4568",
+      "title": "2026-10-12 全球唯一！宁德时代成连续三期均有产品发布GBA电池护照企业 了解更多",
+      "url": "https://www.catl.com/news/10214.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-12T06:11:18.996Z",
+      "contentStatus": "ready",
+      "contentHash": "c0e628f971e8c5e644948ff2c25ed91cf856ac75bc9e40a64485b5506adac736",
+      "rawPath": "data/raw/fbac2dee77f12726d972585f0a4b4568.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "1ae0708019d4b812306ab6fe8551807f",
+      "title": "2026/10 14 Characterizing and engineering melanin-peptide polymers 2026年10月14日15:00-16:00 Deepesh Nagarajan 助理教授‌ 卫光生命科学园1A栋303会议室 了解详情",
+      "url": "https://www.szbl.ac.cn/info/1017/10594.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-10-12T06:08:24.904Z",
+      "contentStatus": "ready",
+      "contentHash": "6624bdd906d7ed7693fa8587e0b7eeb95bf7959b2bd67b2d6527ba609bea34b2",
+      "rawPath": "data/raw/1ae0708019d4b812306ab6fe8551807f.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "ae2e6955f03962d30d1e19b92793bd26",
       "title": "国家科技重大专项：深地专项2026年度第二批...",
