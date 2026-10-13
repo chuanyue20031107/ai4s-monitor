@@ -1,11 +1,22 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-12T15:42:31.163Z",
-  "pendingCount": 321,
-  "readyCount": 321,
+  "updatedAt": "2026-10-13T00:51:13.542Z",
+  "pendingCount": 325,
+  "readyCount": 325,
   "awaitingContentCount": 0,
   "excludedContentCount": 63,
   "items": [
+    {
+      "id": "6f4c99243d3dd3ad25ff994bbf5f23de",
+      "title": "Read more",
+      "url": "https://www.sanger.ac.uk/news_item/sanger-institute-joins-international-collaboration-to-build-foundational-data-for-ai-models-to-predict-and-treat-disease/",
+      "publishedAt": null,
+      "crawledAt": "2026-10-13T00:48:33.238Z",
+      "contentStatus": "ready",
+      "contentHash": "cc2bbe79bc21da6ca644610c58d582bfb27cd583f94ad655bf7c127f250bf20f",
+      "rawPath": "data/raw/6f4c99243d3dd3ad25ff994bbf5f23de.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "7a0243ce7c6b05770e7dd11fcf23a9c5",
       "title": "黄委黄河水土保持西峰治理监督局机关大楼改造加固设计、采购、施工EPC总承包（二次）资格预审...",
@@ -821,6 +832,28 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "661f64ddb5f472a2675ed75a0fb09828",
+      "title": "Helping teens learn, plan, and shape the future of AI",
+      "url": "https://openai.com/index/teens-learn-and-plan",
+      "publishedAt": "2026-10-07T12:00:00.000Z",
+      "crawledAt": "2026-10-13T00:48:31.723Z",
+      "contentStatus": "ready",
+      "contentHash": "d4e053651431703f8108110f9eb4a3b41411c1c7c37d95da0ba56441c133c1f9",
+      "rawPath": "data/raw/661f64ddb5f472a2675ed75a0fb09828.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "4e324623ab7ca6fee0e142410ae1fff6",
+      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "url": "https://openai.com/index/radisson",
+      "publishedAt": "2026-10-07T07:00:00.000Z",
+      "crawledAt": "2026-10-13T00:48:31.723Z",
+      "contentStatus": "ready",
+      "contentHash": "dee80c49e93f809b6ef57db8e6ae7cfe22b5d61967ee02cc27372ff573a16112",
+      "rawPath": "data/raw/4e324623ab7ca6fee0e142410ae1fff6.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "7a6902cf27a9f84ca8eaa32500cbde71",
       "title": "Guide to Understanding PDB Data: PDB IDs",
       "url": "https://www.rcsb.org/news/6a60ea273bf5580b84a87d26",
@@ -851,6 +884,17 @@
       "contentStatus": "ready",
       "contentHash": "1862846f73d3fc07f9d6c91b84a9841e47713325aa2f2e5306c5186b06bd30a7",
       "rawPath": "data/raw/cf348999bae6131803e69782ef8c980e.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "a097ef0d441a7216b7cd0e2333e660ca",
+      "title": "GPT-6 and Intelligent UI for everyone",
+      "url": "https://openai.com/index/gpt-6-for-everyone",
+      "publishedAt": "2026-10-07T00:00:00.000Z",
+      "crawledAt": "2026-10-13T00:48:31.723Z",
+      "contentStatus": "ready",
+      "contentHash": "dc4da448a31a1b1cc32e6c4090d6a6f9edd98493c6d8206b037999fcb41c46cb",
+      "rawPath": "data/raw/a097ef0d441a7216b7cd0e2333e660ca.json",
       "lastAnalysisStatus": "pending"
     },
     {

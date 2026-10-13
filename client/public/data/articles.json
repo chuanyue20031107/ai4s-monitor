@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "6f4c99243d3dd3ad25ff994bbf5f23de",
+      "title": "Read more",
+      "sourceKey": "s01-20",
+      "sourceName": "Wellcome Sanger Institute",
+      "sourceType": "非营利研究机构",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-13T00:48:33.238Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.sanger.ac.uk/news_item/sanger-institute-joins-international-collaboration-to-build-foundational-data-for-ai-models-to-predict-and-treat-disease/",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "4e324623ab7ca6fee0e142410ae1fff6",
+      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "sourceKey": "s01-14",
+      "sourceName": "OpenAI",
+      "sourceType": "科技大厂研究机构",
+      "category": "",
+      "publishedAt": "2026-10-07T07:00:00.000Z",
+      "crawledAt": "2026-10-13T00:48:31.723Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://openai.com/index/radisson",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "661f64ddb5f472a2675ed75a0fb09828",
+      "title": "Helping teens learn, plan, and shape the future of AI",
+      "sourceKey": "s01-14",
+      "sourceName": "OpenAI",
+      "sourceType": "科技大厂研究机构",
+      "category": "",
+      "publishedAt": "2026-10-07T12:00:00.000Z",
+      "crawledAt": "2026-10-13T00:48:31.723Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://openai.com/index/teens-learn-and-plan",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "a097ef0d441a7216b7cd0e2333e660ca",
+      "title": "GPT-6 and Intelligent UI for everyone",
+      "sourceKey": "s01-14",
+      "sourceName": "OpenAI",
+      "sourceType": "科技大厂研究机构",
+      "category": "",
+      "publishedAt": "2026-10-07T00:00:00.000Z",
+      "crawledAt": "2026-10-13T00:48:31.723Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://openai.com/index/gpt-6-for-everyone",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "7a0243ce7c6b05770e7dd11fcf23a9c5",
       "title": "黄委黄河水土保持西峰治理监督局机关大楼改造加固设计、采购、施工EPC总承包（二次）资格预审...",
       "sourceKey": "s08-07",
@@ -11379,5 +11451,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-10-12T15:42:31.163Z"
+  "updatedAt": "2026-10-13T00:51:13.542Z"
 }

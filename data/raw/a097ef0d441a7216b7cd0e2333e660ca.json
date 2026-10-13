@@ -1,0 +1,18 @@
+{
+  "id": "a097ef0d441a7216b7cd0e2333e660ca",
+  "title": "GPT-6 and Intelligent UI for everyone",
+  "url": "https://openai.com/index/gpt-6-for-everyone",
+  "sourceKey": "s01-14",
+  "sourceName": "OpenAI",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": "2026-10-07T00:00:00.000Z",
+  "crawledAt": "2026-10-13T00:48:31.723Z",
+  "content": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-10-13T00:48:31.723Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "dc4da448a31a1b1cc32e6c4090d6a6f9edd98493c6d8206b037999fcb41c46cb"
+}
