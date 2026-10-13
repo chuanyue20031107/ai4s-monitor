@@ -1,0 +1,18 @@
+{
+  "id": "64aa2eb2a9a6147f2c7ec99c1eec6777",
+  "title": "晶泰科技开源首个化学反应产率定量AI模型",
+  "url": "https://www.xtalpi.com/%e6%99%b6%e6%b3%b0%e7%a7%91%e6%8a%80%e5%bc%80%e6%ba%90%e9%a6%96%e4%b8%aa%e5%8c%96%e5%ad%a6%e5%8f%8d%e5%ba%94%e4%ba%a7%e7%8e%87%e5%ae%9a%e9%87%8fai%e6%a8%a1%e5%9e%8b/",
+  "sourceKey": "s04-05",
+  "sourceName": "晶泰科技 XtalPi",
+  "sourceType": "AI药物与自动化实验企业",
+  "publishedAt": "2026-10-12T09:16:50.000Z",
+  "crawledAt": "2026-10-13T22:53:01.828Z",
+  "content": "深圳，2026-10-12——近日，晶泰科技（2228.HK）在GitHub开源用于化学反应产率定量的AI模型LCMS2Yield，同步公开模型权重、推理代码，以及用于训练和评测的分子结构与校正因子数据。该模型通过预测紫外校正因子，结合实验检测数据计算产物浓度和反应产率，为高通量化学实验提供定量分析工具。 反应产率是评估实验效果、优化反应条件的重要依据。传统校准曲线法通常需要制备目标产物纯品标准品，增加了分析所需的时间与工作量。 为减少这一需求，LCMS2Yield根据分子结构预测全光谱紫外校正因子，再结合液相色谱紫外检测（LC-UV）数据及已知浓度的内标，计算目标产物浓度和反应产率，无需逐一制备目标产物纯品标准品。 模型采用Graph Transformer与Kolmogorov-Arnold Network（KAN）相结合的架构，通过预训练和微调两个阶段学习分子结构与校正因子之间的关系。研究团队首先利用22,609个化合物的量子化学计算所得校正因子进行预训练，随后利用1,845个化合物的实验校正因子数据进行微调，使模型预测更贴近实际检测条件。 研究团队使用144种美国食品药品监督管理局（FDA）已批准药物开展浓度定量测试，并在涵盖四类常见化学反应的178组实验中验证产率定量能力。与传统校准曲线法得到的参考产率相比，该方法计算所得产率的平均绝对误差为4.74个百分点。实际应用时，仍需结合待测化合物的紫外吸收特征及检测条件评估其适用性。相关研究此前已发表于化学期刊《JACS Au》。 项目仓库提供运行环境说明和调用示例。科研人员和开发者可获取模型开展紫外校正因子预测，结合自身实验数据评估其定量表现；也可利用公开数据复现模型预测结果、开展算法改进，探索模型在不同化学分析场景中的适用性。 研究团队表示，数据与自动化实验正在为分子研发提供更多决策依据。LCMS2Yield将量子化学计算、实验数据与模型预测相结合，是科学人工智能（Scientific AI）与自动化实验及机器人技术（Physical AI）协同应用的一个实例：科学模型支持信息解析与决策，自动化实验提供数据与验证。此次开源为更多研究者使用和改进模型提供了条件，也为科学模型与自动化实验的进一步结合提供了可复用的工具。 GitHub项目地址： LCMS2Yield项目仓库 《JACS Au》论文链接： AI-Predicted Full-Spectrum UV Correction Factors: An Analyte-Standard-Free Framework for Reaction Yield Quantification The post 晶泰科技开源首个化学反应产率定量AI模型 appeared first on 晶泰科技 XtalPi .",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-10-13T22:53:01.828Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "d52930c322bc9701abf5c24d61ea89966b9d84c8314ee9f85ca92010cbab8b72"
+}
