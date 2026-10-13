@@ -1,11 +1,22 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-13T00:51:13.542Z",
-  "pendingCount": 325,
-  "readyCount": 325,
+  "updatedAt": "2026-10-13T14:25:50.676Z",
+  "pendingCount": 328,
+  "readyCount": 328,
   "awaitingContentCount": 0,
   "excludedContentCount": 63,
   "items": [
+    {
+      "id": "89a0e280293d2aac2b2c3c4d1eb46f66",
+      "title": "关于召开2026年中国药学会药物流行病学学术年会的通...",
+      "url": "https://www.cpa.org.cn/?do=info&cid=79090",
+      "publishedAt": null,
+      "crawledAt": "2026-10-13T14:22:22.371Z",
+      "contentStatus": "ready",
+      "contentHash": "cb98ba22b8fa7fcde6207a1eadff5ccdbb6f72017f0d7cea5ed404a53124014b",
+      "rawPath": "data/raw/89a0e280293d2aac2b2c3c4d1eb46f66.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "6f4c99243d3dd3ad25ff994bbf5f23de",
       "title": "Read more",
@@ -15,6 +26,17 @@
       "contentStatus": "ready",
       "contentHash": "cc2bbe79bc21da6ca644610c58d582bfb27cd583f94ad655bf7c127f250bf20f",
       "rawPath": "data/raw/6f4c99243d3dd3ad25ff994bbf5f23de.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "e3ff286dbca97504a4835ad2b964a66c",
+      "title": "Simulating student learning for better AI tutoring",
+      "url": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
+      "publishedAt": "2026-10-12T16:00:00.000Z",
+      "crawledAt": "2026-10-13T14:22:26.709Z",
+      "contentStatus": "ready",
+      "contentHash": "30bce9f1050443e49eb3628d8a1e8ec0115c8bfb98d6b50959e042ba0a71c5a7",
+      "rawPath": "data/raw/e3ff286dbca97504a4835ad2b964a66c.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -455,6 +477,17 @@
       "contentStatus": "ready",
       "contentHash": "054f986b3bcb5167d60d8d77a16f84020422336f6d701fbfe2196e0db9b49eac",
       "rawPath": "data/raw/ab62b26bac0614585a9d8cd7a1691952.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "c9aeb362a737ab1c2d01cc0433a0837a",
+      "title": "News 10.09.2026",
+      "url": "https://www.broadinstitute.org/news/drug-combination-reduces-oxygen-levels-tissues-improves-parkinsons-symptoms-mice",
+      "publishedAt": "2026-10-09T18:00:20.000Z",
+      "crawledAt": "2026-10-13T14:22:27.153Z",
+      "contentStatus": "ready",
+      "contentHash": "0e365255900fc9dde67ff1fb43af5774dfb003a90dc75f5f2bce231cddad1cec",
+      "rawPath": "data/raw/c9aeb362a737ab1c2d01cc0433a0837a.json",
       "lastAnalysisStatus": "pending"
     },
     {

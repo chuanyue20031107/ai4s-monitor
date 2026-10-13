@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "id": "c9aeb362a737ab1c2d01cc0433a0837a",
+      "title": "News 10.09.2026",
+      "sourceKey": "s01-06",
+      "sourceName": "Broad Institute",
+      "sourceType": "非营利研究机构",
+      "category": "",
+      "publishedAt": "2026-10-09T18:00:20.000Z",
+      "crawledAt": "2026-10-13T14:22:27.153Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.broadinstitute.org/news/drug-combination-reduces-oxygen-levels-tissues-improves-parkinsons-symptoms-mice",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "e3ff286dbca97504a4835ad2b964a66c",
+      "title": "Simulating student learning for better AI tutoring",
+      "sourceKey": "s01-02",
+      "sourceName": "Microsoft Research AI for Science",
+      "sourceType": "科技大厂研究机构",
+      "category": "",
+      "publishedAt": "2026-10-12T16:00:00.000Z",
+      "crawledAt": "2026-10-13T14:22:26.709Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "89a0e280293d2aac2b2c3c4d1eb46f66",
+      "title": "关于召开2026年中国药学会药物流行病学学术年会的通...",
+      "sourceKey": "s10-18",
+      "sourceName": "中国药学大会",
+      "sourceType": "全国学术会议",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-13T14:22:22.371Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.cpa.org.cn/?do=info&cid=79090",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "6f4c99243d3dd3ad25ff994bbf5f23de",
       "title": "Read more",
       "sourceKey": "s01-20",
@@ -11451,5 +11505,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-10-13T00:51:13.542Z"
+  "updatedAt": "2026-10-13T14:25:50.676Z"
 }
