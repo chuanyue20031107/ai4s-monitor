@@ -1,11 +1,88 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-13T22:55:39.423Z",
-  "pendingCount": 338,
-  "readyCount": 338,
+  "updatedAt": "2026-10-14T05:05:16.070Z",
+  "pendingCount": 345,
+  "readyCount": 345,
   "awaitingContentCount": 0,
   "excludedContentCount": 62,
   "items": [
+    {
+      "id": "0168d997794e1942396b984a6779cd62",
+      "title": "Celebrate PDB55 with IUCr and Erica Ollmann Saphire",
+      "url": "https://www.rcsb.org/news/6accece44ec37840b7ddf62a",
+      "publishedAt": null,
+      "crawledAt": "2026-10-14T05:02:38.941Z",
+      "contentStatus": "ready",
+      "contentHash": "c961563e70af1f5dda72ed5b87d160affc0186b27511e9dd691808c9a0021da6",
+      "rawPath": "data/raw/0168d997794e1942396b984a6779cd62.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "1baa1486b3a3d11cc5be1ffa8a524aea",
+      "title": "Register for the Nov 16 Virtual Office Hour on Visualization",
+      "url": "https://www.rcsb.org/news/training/6a9593193bf5580b84a87d35",
+      "publishedAt": null,
+      "crawledAt": "2026-10-14T05:02:38.753Z",
+      "contentStatus": "ready",
+      "contentHash": "a10941ccdf4f182eff448749b4df8f3c34e651fb994ebd18e4eff45cbf321139",
+      "rawPath": "data/raw/1baa1486b3a3d11cc5be1ffa8a524aea.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "2db93640d30bcc27aef59df93fc79f42",
+      "title": "2026-10-08 宁德时代携手苏州市吴江区部署CharGo充电狗，完成双节移动能源保障 了解更多",
+      "url": "https://www.catl.com/news/10219.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-14T05:02:28.561Z",
+      "contentStatus": "ready",
+      "contentHash": "eaef06945d2948b3008e3108dc06ee8211e47ec98ef1b0c94db40b051147f551",
+      "rawPath": "data/raw/2db93640d30bcc27aef59df93fc79f42.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "e723d1be86d1e9e56ade65dcafb50cd7",
+      "title": "2026-10-10 再扩产！宁德时代与赛力斯签署长期战略合作协议 了解更多",
+      "url": "https://www.catl.com/news/10218.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-14T05:02:27.560Z",
+      "contentStatus": "ready",
+      "contentHash": "ca010a8f50b34c0ea4da77f884e81f6a9e8796b466762e3a54d8d8ed1c2c4875",
+      "rawPath": "data/raw/e723d1be86d1e9e56ade65dcafb50cd7.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "1a50d0f04801073ab14549893c0cab00",
+      "title": "松山湖材料实验室医用CoCrMo合金棒材生产工艺路线研究采购项目单一来源公示公告",
+      "url": "https://www.sslab.org.cn/news/noticedetail?id=26101215074074155777342A5",
+      "publishedAt": null,
+      "crawledAt": "2026-10-14T05:02:21.912Z",
+      "contentStatus": "ready",
+      "contentHash": "8ef84f562ec6ab36189a9da706b531fd7db78cb84935ca14dcd8b63fb8956ed8",
+      "rawPath": "data/raw/1a50d0f04801073ab14549893c0cab00.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "a31ac9b85cd8aa908311d24ae5d1afdc",
+      "title": "2026/10 20 Quantitative dissection of the metastatic cascade at single colony resolution 2026年10月20日 14:00-15:30 汤睿 助理教授 高科创新中心B座1楼大型多媒体会议室 了解详情",
+      "url": "https://www.szbl.ac.cn/info/1017/10597.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-10-14T05:02:19.296Z",
+      "contentStatus": "ready",
+      "contentHash": "203518a597847b11186778842fe91d16209ad29dbccc83b7450a3cea3821313f",
+      "rawPath": "data/raw/a31ac9b85cd8aa908311d24ae5d1afdc.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "9e6fc39400184e998ac1d5f3294f0104",
+      "title": "2026/10 26 红树林第56期 | Cellular network controlling tolerance and vigilance at the intestinal barrier 2026年10月26日上午10:00-11:30 Dr. Dan R. Littman 卫光生命科学园1A栋3楼302-303会议室 了解详情",
+      "url": "https://www.szbl.ac.cn/info/1017/10598.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-10-14T05:02:18.995Z",
+      "contentStatus": "ready",
+      "contentHash": "024c3f5b3aba14947dcb32349a8fb90027c34d139cd737a1198f713e79953535",
+      "rawPath": "data/raw/9e6fc39400184e998ac1d5f3294f0104.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "fff5aee662e4617deca5829c2bdd504e",
       "title": "《诗行长江》——感知长江人文与自然景观",
