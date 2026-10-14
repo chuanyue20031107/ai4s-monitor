@@ -1,11 +1,66 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-14T12:06:36.978Z",
-  "pendingCount": 351,
-  "readyCount": 351,
+  "updatedAt": "2026-10-14T17:24:16.783Z",
+  "pendingCount": 359,
+  "readyCount": 359,
   "awaitingContentCount": 0,
   "excludedContentCount": 62,
   "items": [
+    {
+      "id": "b888cec657d86438b9448b79002f4ac0",
+      "title": "半导体持续扩张，高端分析检测迎来哪些机会？ 2026-10-13",
+      "url": "https://www.fpi-inc.com/news_cont_48336.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-14T17:21:42.443Z",
+      "contentStatus": "ready",
+      "contentHash": "b511e98644f8bf2956f6f63a62eb4e78105468b03fb269fe095de8d4ba1797ab",
+      "rawPath": "data/raw/b888cec657d86438b9448b79002f4ac0.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "08ae4f079e7e301dab66c4db6446725f",
+      "title": "76 Papers Accepted for NeurIPS 2026",
+      "url": "https://aip.riken.jp/news/neurips2026/",
+      "publishedAt": null,
+      "crawledAt": "2026-10-14T17:21:32.251Z",
+      "contentStatus": "ready",
+      "contentHash": "d436a52230667dd4b50de10fedc49a905182d24236373b66a1f705c8ce8bfd3a",
+      "rawPath": "data/raw/08ae4f079e7e301dab66c4db6446725f.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "0befcab693ac4a45400a6bcbd26e0dae",
+      "title": "How distributed inference keeps large AI models moving",
+      "url": "https://research.ibm.com/blog/distributed-inference",
+      "publishedAt": null,
+      "crawledAt": "2026-10-14T17:21:27.761Z",
+      "contentStatus": "ready",
+      "contentHash": "de35444d19670e560bc39d81e06e6589348db93c32b694f9717123c2bd26144e",
+      "rawPath": "data/raw/0befcab693ac4a45400a6bcbd26e0dae.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "803c10c4a28efe491c163e05369b8675",
+      "title": "Making AI-driven chip design affordable with open agent factories and distributed inference at scale",
+      "url": "https://research.ibm.com/blog/open-agent-factories-and-distributed-inference-for-chip-design",
+      "publishedAt": null,
+      "crawledAt": "2026-10-14T17:21:27.105Z",
+      "contentStatus": "ready",
+      "contentHash": "de35444d19670e560bc39d81e06e6589348db93c32b694f9717123c2bd26144e",
+      "rawPath": "data/raw/803c10c4a28efe491c163e05369b8675.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "9af9a2ec9ea540996473de2ed05d628d",
+      "title": "Preparing chip designers for the nanostack era",
+      "url": "https://research.ibm.com/blog/preparing-chip-designers-for-the-nanostack-era",
+      "publishedAt": null,
+      "crawledAt": "2026-10-14T17:21:27.045Z",
+      "contentStatus": "ready",
+      "contentHash": "f6b300f051534a192a6690f64220507d48f89af03453c40d9ae48dff72a9c64e",
+      "rawPath": "data/raw/9af9a2ec9ea540996473de2ed05d628d.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "6f34342fab1059588ee5abac4101d909",
       "title": "关于举办2026年中国药学会制药工程专业委员会学术年...",
@@ -70,6 +125,28 @@
       "contentStatus": "ready",
       "contentHash": "df7ce9d8e3920c18229c02ef50818d257447df20ef1aab67802f188e17daaf10",
       "rawPath": "data/raw/766212f2f137d2ec020bd6e4d16663d8.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "57c3309db5bedcdec4e0532a65e89697",
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "url": "https://openai.com/index/amp-beyond-coding",
+      "publishedAt": "2026-10-14T12:00:00.000Z",
+      "crawledAt": "2026-10-14T17:21:27.040Z",
+      "contentStatus": "ready",
+      "contentHash": "7e2cea82fc626b90fef309e59b73e5270efaa62f50d402768d1089b7be5d92df",
+      "rawPath": "data/raw/57c3309db5bedcdec4e0532a65e89697.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "a8b8c31de898145e14c82e5a132c6ade",
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "url": "https://openai.com/index/third-moment-research",
+      "publishedAt": "2026-10-14T07:00:00.000Z",
+      "crawledAt": "2026-10-14T17:21:27.040Z",
+      "contentStatus": "ready",
+      "contentHash": "a25b8961522e5a113e822d8feffe947d2d0f0a7461fa6851343ce2bb799cb2c3",
+      "rawPath": "data/raw/a8b8c31de898145e14c82e5a132c6ade.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -147,6 +224,17 @@
       "contentStatus": "ready",
       "contentHash": "024c3f5b3aba14947dcb32349a8fb90027c34d139cd737a1198f713e79953535",
       "rawPath": "data/raw/9e6fc39400184e998ac1d5f3294f0104.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "200a5d3dd39c6bfb7a20192865ba844e",
+      "title": "The EU’s next chapter in AI is agentic",
+      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "publishedAt": "2026-10-14T00:00:00.000Z",
+      "crawledAt": "2026-10-14T17:21:27.040Z",
+      "contentStatus": "ready",
+      "contentHash": "4b58459af7180df9bce090ffcc756d78ea1ce130bb5001623b56c5d70dd47fef",
+      "rawPath": "data/raw/200a5d3dd39c6bfb7a20192865ba844e.json",
       "lastAnalysisStatus": "pending"
     },
     {

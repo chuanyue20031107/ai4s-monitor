@@ -1,0 +1,18 @@
+{
+  "id": "803c10c4a28efe491c163e05369b8675",
+  "title": "Making AI-driven chip design affordable with open agent factories and distributed inference at scale",
+  "url": "https://research.ibm.com/blog/open-agent-factories-and-distributed-inference-for-chip-design",
+  "sourceKey": "s01-11",
+  "sourceName": "IBM Research",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": null,
+  "crawledAt": "2026-10-14T17:21:27.105Z",
+  "content": "Preparing chip designers for the nanostack era Release Peter Hess 13 Oct 2026 Hardware Technology Logic Scaling Semiconductors",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-10-14T17:21:27.105Z",
+  "contentTruncated": true,
+  "contentError": "",
+  "contentHash": "de35444d19670e560bc39d81e06e6589348db93c32b694f9717123c2bd26144e"
+}
