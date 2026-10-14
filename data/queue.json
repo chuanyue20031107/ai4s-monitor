@@ -1,11 +1,77 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-14T05:05:16.070Z",
-  "pendingCount": 345,
-  "readyCount": 345,
+  "updatedAt": "2026-10-14T12:06:36.978Z",
+  "pendingCount": 351,
+  "readyCount": 351,
   "awaitingContentCount": 0,
   "excludedContentCount": 62,
   "items": [
+    {
+      "id": "6f34342fab1059588ee5abac4101d909",
+      "title": "关于举办2026年中国药学会制药工程专业委员会学术年...",
+      "url": "https://www.cpa.org.cn/?do=info&cid=79094",
+      "publishedAt": null,
+      "crawledAt": "2026-10-14T12:03:59.723Z",
+      "contentStatus": "ready",
+      "contentHash": "039de050c71f69deccb80669908f09d14770729581d7f65e26f0d8a2a6ae4855",
+      "rawPath": "data/raw/6f34342fab1059588ee5abac4101d909.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "b1432dfaf7acbc627a7d86311f4acf6c",
+      "title": "关于召开2026年中国药学会智能药物专业委员会学术年...",
+      "url": "https://www.cpa.org.cn/?do=info&cid=79095",
+      "publishedAt": null,
+      "crawledAt": "2026-10-14T12:03:59.484Z",
+      "contentStatus": "ready",
+      "contentHash": "47f25d224adb6745499c9f6d276991dbde2a4518974ffe7c888b83de8c2f6c67",
+      "rawPath": "data/raw/b1432dfaf7acbc627a7d86311f4acf6c.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "be1c12f39d885889148fdb5c9356518d",
+      "title": "10-14 2026 第十九届中国智能机器人大会会议通知",
+      "url": "https://www.caai.cn/site/content/11432.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-14T12:03:56.375Z",
+      "contentStatus": "ready",
+      "contentHash": "35f3de4386086fda4a17dc09abe46409f69779265e488b60bb5eac6b4566c041",
+      "rawPath": "data/raw/be1c12f39d885889148fdb5c9356518d.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "0ae4224ebc11e6d757863e5898f75873",
+      "title": "科研人员实现乌洛托品的绿色电合成",
+      "url": "https://www.cas.cn/syky/202610/t20261010_5121985.shtml",
+      "publishedAt": null,
+      "crawledAt": "2026-10-14T12:03:52.916Z",
+      "contentStatus": "ready",
+      "contentHash": "d17c23f59608d7724e72e337ce92b16fe8772cdb2e8e48e7a54d9963995aa13a",
+      "rawPath": "data/raw/0ae4224ebc11e6d757863e5898f75873.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "db57265de0d47ba99ccddf095242bee1",
+      "title": "研究揭示钠离子电池硬碳负极界面调控新策略",
+      "url": "https://www.cas.cn/syky/202610/t20261012_5122088.shtml",
+      "publishedAt": null,
+      "crawledAt": "2026-10-14T12:03:52.616Z",
+      "contentStatus": "ready",
+      "contentHash": "4feef3c43d438820761b308110c434c2cc9a8e6de97af43dd9f929aefee7132a",
+      "rawPath": "data/raw/db57265de0d47ba99ccddf095242bee1.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "766212f2f137d2ec020bd6e4d16663d8",
+      "title": "科学家利用拓扑探针首次实现交错磁体原子尺度自旋成像",
+      "url": "https://www.cas.cn/syky/202610/t20261014_5122179.shtml",
+      "publishedAt": null,
+      "crawledAt": "2026-10-14T12:03:52.053Z",
+      "contentStatus": "ready",
+      "contentHash": "df7ce9d8e3920c18229c02ef50818d257447df20ef1aab67802f188e17daaf10",
+      "rawPath": "data/raw/766212f2f137d2ec020bd6e4d16663d8.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "0168d997794e1942396b984a6779cd62",
       "title": "Celebrate PDB55 with IUCr and Erica Ollmann Saphire",
