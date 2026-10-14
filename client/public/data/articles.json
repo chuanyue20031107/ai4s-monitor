@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "7f17140765fe5720328b600b34c8449b",
+      "title": "Dr. M. Scott Shell Is AIChE’s 2026 Acrivos Professional Progress Award Recipient",
+      "sourceKey": "s11-17",
+      "sourceName": "AIChE Annual Meeting",
+      "sourceType": "国际学术会议",
+      "category": "",
+      "publishedAt": "2026-10-13T22:03:05.000Z",
+      "crawledAt": "2026-10-14T21:50:12.113Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.aiche.org/dr-m-scott-shell-aiches-2026-acrivos-professional-progress-award-recipient",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "f56b6681190be49b8b8e6cb93df96e68",
+      "title": "Building a More Inclusive Engineering Community at the 2026 AIChE Annual Meeting",
+      "sourceKey": "s11-17",
+      "sourceName": "AIChE Annual Meeting",
+      "sourceType": "国际学术会议",
+      "category": "",
+      "publishedAt": "2026-10-14T06:03:04.000Z",
+      "crawledAt": "2026-10-14T21:50:12.113Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.aiche.org/building-more-inclusive-engineering-community-2026-aiche-annual-meeting",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "8fe9f88a950e4c2c90e3a36b93d7d088",
+      "title": "亿纬锂能18kWh户储首单交付菲律宾NSS，东南亚布局持续深化",
+      "sourceKey": "s06-11",
+      "sourceName": "亿纬锂能",
+      "sourceType": "研发型企业",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-14T21:49:48.985Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.evebattery.com/news-1121",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "4dbb4e853554f4090ce819c94be3f34d",
+      "title": "全省首家新能源电池领域省级技能大师工作室在国轩高科揭牌 2026-10-14 2026-10-14",
+      "sourceKey": "s06-10",
+      "sourceName": "国轩高科",
+      "sourceType": "研发型企业",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-14T21:49:47.958Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.gotion.com.cn/newsInfo/992",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "b888cec657d86438b9448b79002f4ac0",
       "title": "半导体持续扩张，高端分析检测迎来哪些机会？ 2026-10-13",
       "sourceKey": "s04-09",
@@ -12063,5 +12135,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-10-14T17:24:16.783Z"
+  "updatedAt": "2026-10-14T21:52:47.213Z"
 }

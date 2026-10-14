@@ -1,11 +1,33 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-14T17:24:16.783Z",
-  "pendingCount": 359,
-  "readyCount": 359,
+  "updatedAt": "2026-10-14T21:52:47.213Z",
+  "pendingCount": 363,
+  "readyCount": 363,
   "awaitingContentCount": 0,
   "excludedContentCount": 62,
   "items": [
+    {
+      "id": "8fe9f88a950e4c2c90e3a36b93d7d088",
+      "title": "亿纬锂能18kWh户储首单交付菲律宾NSS，东南亚布局持续深化",
+      "url": "https://www.evebattery.com/news-1121",
+      "publishedAt": null,
+      "crawledAt": "2026-10-14T21:49:48.985Z",
+      "contentStatus": "ready",
+      "contentHash": "b21b21fe029c028d96138ffbd8094bf6d21cf6b8ebda54758210d32a9e7e1761",
+      "rawPath": "data/raw/8fe9f88a950e4c2c90e3a36b93d7d088.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "4dbb4e853554f4090ce819c94be3f34d",
+      "title": "全省首家新能源电池领域省级技能大师工作室在国轩高科揭牌 2026-10-14 2026-10-14",
+      "url": "https://www.gotion.com.cn/newsInfo/992",
+      "publishedAt": null,
+      "crawledAt": "2026-10-14T21:49:47.958Z",
+      "contentStatus": "ready",
+      "contentHash": "3bf30150f9a0ca4e33dcef84f044d091399378bf49c809a1a57684926ae10175",
+      "rawPath": "data/raw/4dbb4e853554f4090ce819c94be3f34d.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "b888cec657d86438b9448b79002f4ac0",
       "title": "半导体持续扩张，高端分析检测迎来哪些机会？ 2026-10-13",
@@ -147,6 +169,17 @@
       "contentStatus": "ready",
       "contentHash": "a25b8961522e5a113e822d8feffe947d2d0f0a7461fa6851343ce2bb799cb2c3",
       "rawPath": "data/raw/a8b8c31de898145e14c82e5a132c6ade.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "f56b6681190be49b8b8e6cb93df96e68",
+      "title": "Building a More Inclusive Engineering Community at the 2026 AIChE Annual Meeting",
+      "url": "https://www.aiche.org/building-more-inclusive-engineering-community-2026-aiche-annual-meeting",
+      "publishedAt": "2026-10-14T06:03:04.000Z",
+      "crawledAt": "2026-10-14T21:50:12.113Z",
+      "contentStatus": "ready",
+      "contentHash": "fc37ecf8e6259769c70757aca3eead589d2f81c0f57415d49d49e5b6f16b5cea",
+      "rawPath": "data/raw/f56b6681190be49b8b8e6cb93df96e68.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -312,6 +345,17 @@
       "contentStatus": "ready",
       "contentHash": "3b719179df9ae9f752843b3b6700d8aada47c727bee4f239f7e16a5e07d7e148",
       "rawPath": "data/raw/e623d4eabad92fb35438d525da4e4c4e.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "7f17140765fe5720328b600b34c8449b",
+      "title": "Dr. M. Scott Shell Is AIChE’s 2026 Acrivos Professional Progress Award Recipient",
+      "url": "https://www.aiche.org/dr-m-scott-shell-aiches-2026-acrivos-professional-progress-award-recipient",
+      "publishedAt": "2026-10-13T22:03:05.000Z",
+      "crawledAt": "2026-10-14T21:50:12.113Z",
+      "contentStatus": "ready",
+      "contentHash": "98b5da5700c206613f4bc108e747ba2fb0d821fa5851de2dd44c04dd7d0647e0",
+      "rawPath": "data/raw/7f17140765fe5720328b600b34c8449b.json",
       "lastAnalysisStatus": "pending"
     },
     {
