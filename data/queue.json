@@ -1,11 +1,33 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-15T17:11:59.853Z",
-  "pendingCount": 386,
-  "readyCount": 386,
+  "updatedAt": "2026-10-15T21:31:46.976Z",
+  "pendingCount": 391,
+  "readyCount": 391,
   "awaitingContentCount": 0,
   "excludedContentCount": 62,
   "items": [
+    {
+      "id": "df95bf894b385a677559b96daca3d414",
+      "title": "Mihoko Otake, Team Director of the Cognitive Behavioral Assistive Technology Team, Receives the Women in AI APAC Awards 2026 – AI for Social Good Award",
+      "url": "https://aip.riken.jp/news/women-in-ai-apac-awards-2026/",
+      "publishedAt": null,
+      "crawledAt": "2026-10-15T21:31:37.046Z",
+      "contentStatus": "ready",
+      "contentHash": "a8abfcd51ba131cda55721774774f72cb07ff1f4ae98c5ee011afb0a234bdb19",
+      "rawPath": "data/raw/df95bf894b385a677559b96daca3d414.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "da8ebfcd6a451d005e088bf49fcc16ae",
+      "title": "Read more news on our blog",
+      "url": "https://research.ibm.com/blog",
+      "publishedAt": null,
+      "crawledAt": "2026-10-15T21:31:33.547Z",
+      "contentStatus": "ready",
+      "contentHash": "f6b300f051534a192a6690f64220507d48f89af03453c40d9ae48dff72a9c64e",
+      "rawPath": "data/raw/da8ebfcd6a451d005e088bf49fcc16ae.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "dd9e39cf8bef3beee8179b83cdc1317b",
       "title": "• 2026中国人工智能学会第五期清源论坛在山东大学成功举办 2026-09-28",
@@ -81,6 +103,17 @@
       "contentStatus": "ready",
       "contentHash": "0852e4709299a66108199e877982a36a4eadae99e3bcfcb6720995ddc72426ea",
       "rawPath": "data/raw/4e4dc19261526d43ed8582e17df6817c.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "a60f4a701f887ae8f46b94e06646a5fb",
+      "title": "Teaching students to think and learn through questions",
+      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+      "publishedAt": "2026-10-15T13:00:00.000Z",
+      "crawledAt": "2026-10-15T21:31:34.178Z",
+      "contentStatus": "ready",
+      "contentHash": "1b77faba4c30b58e82f2da3754c58acd99626bfc62578ea8c8406cc352932945",
+      "rawPath": "data/raw/a60f4a701f887ae8f46b94e06646a5fb.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -370,6 +403,17 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "004cd593adabcd24c97d9e96a166c251",
+      "title": "SentinelOne cuts malware analysis from weeks to hours",
+      "url": "https://openai.com/index/sentinelone",
+      "publishedAt": "2026-10-14T12:00:00.000Z",
+      "crawledAt": "2026-10-15T21:31:34.178Z",
+      "contentStatus": "ready",
+      "contentHash": "8740ad58255f90886ffa9f687077ed6d2e2b8d7c70bb86a33ebbf8ba827350a9",
+      "rawPath": "data/raw/004cd593adabcd24c97d9e96a166c251.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "56274f208965aa6059c57c67a3b3daf0",
       "title": "How Many Units Should Be in the Metric System? Even NIST Experts Disagree.",
       "url": "https://www.nist.gov/blogs/taking-measure/how-many-units-should-be-metric-system-even-nist-experts-disagree",
@@ -389,6 +433,17 @@
       "contentStatus": "ready",
       "contentHash": "7e2cea82fc626b90fef309e59b73e5270efaa62f50d402768d1089b7be5d92df",
       "rawPath": "data/raw/57c3309db5bedcdec4e0532a65e89697.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "94ee28b93f9d2d830319b5f76c0aa727",
+      "title": "How Block is building AI-powered security with OpenAI technology",
+      "url": "https://openai.com/index/block-ai-powered-security",
+      "publishedAt": "2026-10-14T07:00:00.000Z",
+      "crawledAt": "2026-10-15T21:31:34.179Z",
+      "contentStatus": "ready",
+      "contentHash": "9e4b2c83a815aa182fe45c8a44cbb1859260f2fa6ae0e170f57bfacd62f0df4f",
+      "rawPath": "data/raw/94ee28b93f9d2d830319b5f76c0aa727.json",
       "lastAnalysisStatus": "pending"
     },
     {

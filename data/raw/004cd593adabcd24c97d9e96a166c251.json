@@ -1,0 +1,18 @@
+{
+  "id": "004cd593adabcd24c97d9e96a166c251",
+  "title": "SentinelOne cuts malware analysis from weeks to hours",
+  "url": "https://openai.com/index/sentinelone",
+  "sourceKey": "s01-14",
+  "sourceName": "OpenAI",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": "2026-10-14T12:00:00.000Z",
+  "crawledAt": "2026-10-15T21:31:34.178Z",
+  "content": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-10-15T21:31:34.178Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "8740ad58255f90886ffa9f687077ed6d2e2b8d7c70bb86a33ebbf8ba827350a9"
+}

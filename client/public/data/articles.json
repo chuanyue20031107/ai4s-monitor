@@ -1,6 +1,96 @@
 {
   "items": [
     {
+      "id": "df95bf894b385a677559b96daca3d414",
+      "title": "Mihoko Otake, Team Director of the Cognitive Behavioral Assistive Technology Team, Receives the Women in AI APAC Awards 2026 – AI for Social Good Award",
+      "sourceKey": "s01-22",
+      "sourceName": "RIKEN Center for Advanced Intelligence Project",
+      "sourceType": "国家研究机构",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-15T21:31:37.046Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://aip.riken.jp/news/women-in-ai-apac-awards-2026/",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "94ee28b93f9d2d830319b5f76c0aa727",
+      "title": "How Block is building AI-powered security with OpenAI technology",
+      "sourceKey": "s01-14",
+      "sourceName": "OpenAI",
+      "sourceType": "科技大厂研究机构",
+      "category": "",
+      "publishedAt": "2026-10-14T07:00:00.000Z",
+      "crawledAt": "2026-10-15T21:31:34.179Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://openai.com/index/block-ai-powered-security",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "004cd593adabcd24c97d9e96a166c251",
+      "title": "SentinelOne cuts malware analysis from weeks to hours",
+      "sourceKey": "s01-14",
+      "sourceName": "OpenAI",
+      "sourceType": "科技大厂研究机构",
+      "category": "",
+      "publishedAt": "2026-10-14T12:00:00.000Z",
+      "crawledAt": "2026-10-15T21:31:34.178Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://openai.com/index/sentinelone",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "a60f4a701f887ae8f46b94e06646a5fb",
+      "title": "Teaching students to think and learn through questions",
+      "sourceKey": "s01-14",
+      "sourceName": "OpenAI",
+      "sourceType": "科技大厂研究机构",
+      "category": "",
+      "publishedAt": "2026-10-15T13:00:00.000Z",
+      "crawledAt": "2026-10-15T21:31:34.178Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "da8ebfcd6a451d005e088bf49fcc16ae",
+      "title": "Read more news on our blog",
+      "sourceKey": "s01-11",
+      "sourceName": "IBM Research",
+      "sourceType": "科技大厂研究机构",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-15T21:31:33.547Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://research.ibm.com/blog",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "dd9e39cf8bef3beee8179b83cdc1317b",
       "title": "• 2026中国人工智能学会第五期清源论坛在山东大学成功举办 2026-09-28",
       "sourceKey": "s10-05",
@@ -12549,5 +12639,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-10-15T17:11:59.853Z"
+  "updatedAt": "2026-10-15T21:31:46.976Z"
 }
