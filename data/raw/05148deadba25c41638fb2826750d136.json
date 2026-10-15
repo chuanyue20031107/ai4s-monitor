@@ -1,0 +1,18 @@
+{
+  "id": "05148deadba25c41638fb2826750d136",
+  "title": "Integrating Multimodal AI with Encoded Medicinal Knowledge and Physics Simulations: A Unified Platform for Accelerated Drug Discovery from Patent Analysis to Potency Validation",
+  "url": "https://www.xtalpi.com/integrating-multimodal-ai-with-encoded-medicinal-knowledge-and-physics-simulations-a-unified-platform-for-accelerated-drug-discovery-from-patent-analysis-to-potency-validation/",
+  "sourceKey": "s04-05",
+  "sourceName": "晶泰科技 XtalPi",
+  "sourceType": "AI药物与自动化实验企业",
+  "publishedAt": "2026-10-08T09:21:32.000Z",
+  "crawledAt": "2026-10-15T04:51:11.068Z",
+  "content": "Periodicals Journal of Medicinal Chemistry Authors Huimin Cheng; Yuliang Wu; Xiaowen Niu; Yuhang Wu; Tian Zhou; Junjie Zou; Huobin Wang; Chunwang Peng; Zhiqiang Liu; Rui He; Lijie Peng; Yongpan Chen; Zhang Zhang * ; Mingjun Yang * ; Jian Ma * Abstract Traditional drug discovery faces challenges from fragmented data, tacit knowledge dependence, and inefficient design-test cycles. We present an integrated AI workflow combining multimodal data curation, encoded medicinal chemistry rules, and physics-based simulations to establish a closed-loop from patent analysis to candidate validation. Application across six patents for four targets successfully deciphered SAR and identified representative molecules. A retrospective case study on RET kinase inhibitors demonstrated the workflow’s efficiency: focusing on patent-derived SAR enabled rapid discovery of Cpd-31 (RET IC 50 = 0.48 nM, 95.88% tumor inhibition at 10 mg/kg) with only three initial compounds synthesized. This data-centric approach streamlines early drug discovery by providing objective molecular design foundations, significantly reducing synthetic efforts and hypothesis-driven exploration. Full Article The post Integrating Multimodal AI with Encoded Medicinal Knowledge and Physics Simulations: A Unified Platform for Accelerated Drug Discovery from Patent Analysis to Potency Validation appeared first on 晶泰科技 XtalPi .",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-10-15T04:51:11.068Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "c3b3e46dd027cc7af4d0fd81d4ef48e7fa27272991387a6796a75ddcbccd1973"
+}

@@ -1,11 +1,55 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-14T21:52:47.213Z",
-  "pendingCount": 363,
-  "readyCount": 363,
+  "updatedAt": "2026-10-15T04:54:14.305Z",
+  "pendingCount": 370,
+  "readyCount": 370,
   "awaitingContentCount": 0,
   "excludedContentCount": 62,
   "items": [
+    {
+      "id": "f8c5306fcd34553b0919db8eb73b6807",
+      "title": "Generate:Biomedicines Expands Leadership Team with the Addition of Chief Medical Officer Alexandra Snyder, M.D. | Generate:Biomedicines",
+      "url": "https://generatebiomedicines.com/news-releases/generate-biomedicines-expands-leadership-team-with-the-addition-of-chief-medical-officer-alexandra-snyder-m-d/",
+      "publishedAt": null,
+      "crawledAt": "2026-10-15T04:50:37.328Z",
+      "contentStatus": "ready",
+      "contentHash": "28426ead7207b60256a0fca06a5616f1635163554283669a7bdc39401acb9d12",
+      "rawPath": "data/raw/f8c5306fcd34553b0919db8eb73b6807.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "0536838d4b5f9df7a86bacde91595881",
+      "title": "How scGPT pioneer Bo Wang, Ph.D. and Xaira’s $1B+ war chest aim to build a ‘virtual cell’ | Xaira Therapeutics",
+      "url": "https://www.xaira.com/news/how-scgpt-pioneer-bo-wang-ph-d-and-xairas-1b-war-chest-aim-to-build-a-virtual-cell",
+      "publishedAt": null,
+      "crawledAt": "2026-10-15T04:50:37.230Z",
+      "contentStatus": "ready",
+      "contentHash": "144645dae8ad6080f3ce4a2377524d0c449fb91aca4f61101d0d6255efaf9909",
+      "rawPath": "data/raw/0536838d4b5f9df7a86bacde91595881.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "58bf0458bdbb6db485152fd2688ed0d4",
+      "title": "Generate:Biomedicines Bolsters Leadership Team with the Addition of Jason Silvers, M.D., J.D., as Chief Financial Officer | Generate:Biomedicines",
+      "url": "https://generatebiomedicines.com/news-releases/generate-biomedicines-bolsters-leadership-team-with-the-addition-of-jason-silvers-m-d-j-d-as-chief-financial-officer/",
+      "publishedAt": null,
+      "crawledAt": "2026-10-15T04:50:37.218Z",
+      "contentStatus": "ready",
+      "contentHash": "4194c96abd242a827627145d00ac7c8aa1131bf171e32ddf2c95cc1825cb8565",
+      "rawPath": "data/raw/58bf0458bdbb6db485152fd2688ed0d4.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "271e3e0812bb75fb4e660c96e3b37e67",
+      "title": "How AI is Driving Drug Discovery: Xaira Therapeutics' Marc Tessier Lavigne | Xaira Therapeutics",
+      "url": "https://www.xaira.com/news/how-ai-is-driving-drug-discovery-xaira-therapeutics-marc-tessier-lavigne",
+      "publishedAt": null,
+      "crawledAt": "2026-10-15T04:50:37.198Z",
+      "contentStatus": "ready",
+      "contentHash": "144645dae8ad6080f3ce4a2377524d0c449fb91aca4f61101d0d6255efaf9909",
+      "rawPath": "data/raw/271e3e0812bb75fb4e660c96e3b37e67.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "8fe9f88a950e4c2c90e3a36b93d7d088",
       "title": "亿纬锂能18kWh户储首单交付菲律宾NSS，东南亚布局持续深化",
@@ -150,6 +194,17 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "56274f208965aa6059c57c67a3b3daf0",
+      "title": "How Many Units Should Be in the Metric System? Even NIST Experts Disagree.",
+      "url": "https://www.nist.gov/blogs/taking-measure/how-many-units-should-be-metric-system-even-nist-experts-disagree",
+      "publishedAt": "2026-10-14T12:00:00.000Z",
+      "crawledAt": "2026-10-15T04:50:34.746Z",
+      "contentStatus": "ready",
+      "contentHash": "52ba62a5968f8d02c5efa2e9c2a1e202ac284d4ed9aa9a01460db3c43cecbc85",
+      "rawPath": "data/raw/56274f208965aa6059c57c67a3b3daf0.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "57c3309db5bedcdec4e0532a65e89697",
       "title": "Amp puts AI agents to work beyond code with OpenAI models",
       "url": "https://openai.com/index/amp-beyond-coding",
@@ -268,6 +323,17 @@
       "contentStatus": "ready",
       "contentHash": "4b58459af7180df9bce090ffcc756d78ea1ce130bb5001623b56c5d70dd47fef",
       "rawPath": "data/raw/200a5d3dd39c6bfb7a20192865ba844e.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "9f6d75595ae801a70921cb758973872a",
+      "title": "晶泰科技旗下Ailux任命Lloyd S. Miller博士为首席医学官，持续深化临床研发布局",
+      "url": "https://www.xtalpi.com/%e6%99%b6%e6%b3%b0%e7%a7%91%e6%8a%80%e6%97%97%e4%b8%8bailux%e4%bb%bb%e5%91%bdlloyd-s-miller%e5%8d%9a%e5%a3%ab%e4%b8%ba%e9%a6%96%e5%b8%ad%e5%8c%bb%e5%ad%a6%e5%ae%98%ef%bc%8c%e6%8c%81%e7%bb%ad%e6%b7%b1/",
+      "publishedAt": "2026-10-13T23:30:00.000Z",
+      "crawledAt": "2026-10-15T04:51:11.067Z",
+      "contentStatus": "ready",
+      "contentHash": "b85af9e3345479acbdf22d165d5cae880b079e9e65bab2fd38b125b53c4a83ac",
+      "rawPath": "data/raw/9f6d75595ae801a70921cb758973872a.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -1104,6 +1170,17 @@
       "contentStatus": "ready",
       "contentHash": "ab7c4914332df1d16fac5827f6e61dc697a1c891f5ec6cafcfc8af95c63edec3",
       "rawPath": "data/raw/855092fba1df7e8a668bec1b409ac85f.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "05148deadba25c41638fb2826750d136",
+      "title": "Integrating Multimodal AI with Encoded Medicinal Knowledge and Physics Simulations: A Unified Platform for Accelerated Drug Discovery from Patent Analysis to Potency Validation",
+      "url": "https://www.xtalpi.com/integrating-multimodal-ai-with-encoded-medicinal-knowledge-and-physics-simulations-a-unified-platform-for-accelerated-drug-discovery-from-patent-analysis-to-potency-validation/",
+      "publishedAt": "2026-10-08T09:21:32.000Z",
+      "crawledAt": "2026-10-15T04:51:11.068Z",
+      "contentStatus": "ready",
+      "contentHash": "c3b3e46dd027cc7af4d0fd81d4ef48e7fa27272991387a6796a75ddcbccd1973",
+      "rawPath": "data/raw/05148deadba25c41638fb2826750d136.json",
       "lastAnalysisStatus": "pending"
     },
     {
