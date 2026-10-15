@@ -1,11 +1,88 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-15T11:49:24.932Z",
-  "pendingCount": 379,
-  "readyCount": 379,
+  "updatedAt": "2026-10-15T17:11:59.853Z",
+  "pendingCount": 386,
+  "readyCount": 386,
   "awaitingContentCount": 0,
   "excludedContentCount": 62,
   "items": [
+    {
+      "id": "dd9e39cf8bef3beee8179b83cdc1317b",
+      "title": "• 2026中国人工智能学会第五期清源论坛在山东大学成功举办 2026-09-28",
+      "url": "https://www.caai.cn/site/content/11389.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-15T17:09:01.752Z",
+      "contentStatus": "ready",
+      "contentHash": "db29bf69da5d1b073d9ea21a00bf5a0a42b7948c15fc85936c048fe429f2a5cb",
+      "rawPath": "data/raw/dd9e39cf8bef3beee8179b83cdc1317b.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "73c602d202a75a2c1a7b14f507ac6064",
+      "title": "• 开放场景，AI创新——2026中国人工智能数字创新大赛正式启动 2026-09-29",
+      "url": "https://www.caai.cn/site/content/11423.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-15T17:09:01.484Z",
+      "contentStatus": "ready",
+      "contentHash": "93dcc0ff8ab5167347e42b33df6b0136db45c1091d0649ce60516960d086ed7b",
+      "rawPath": "data/raw/73c602d202a75a2c1a7b14f507ac6064.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "f50c5978b8a3a3046367720f2931ff5f",
+      "title": "• 2026人工智能领域专业技术转移转化能力提升高级研修班在常州成功举办 2026-09-29",
+      "url": "https://www.caai.cn/site/content/11424.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-15T17:09:01.000Z",
+      "contentStatus": "ready",
+      "contentHash": "e185253793bbe7b8185076c8cbe302fb3bd68e9563765c2d328d2889edddad6e",
+      "rawPath": "data/raw/f50c5978b8a3a3046367720f2931ff5f.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "d4250c6c6b211af8b5d62f13a2ac2f54",
+      "title": "科研人员首次观测到宇宙纤维向星系团分裂流入",
+      "url": "https://www.cas.cn/syky/202610/t20261013_5122156.shtml",
+      "publishedAt": null,
+      "crawledAt": "2026-10-15T17:08:54.969Z",
+      "contentStatus": "ready",
+      "contentHash": "65b5d0dd8dd110b963f750f0c116500df0cc531474e9ecfe3778bd9f12aefe2b",
+      "rawPath": "data/raw/d4250c6c6b211af8b5d62f13a2ac2f54.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "d7a75995932d25374f47385a4bb1bdc1",
+      "title": "磁暴期间中低纬电离层多尺度响应机制研究获进展",
+      "url": "https://www.cas.cn/syky/202610/t20261014_5122196.shtml",
+      "publishedAt": null,
+      "crawledAt": "2026-10-15T17:08:54.633Z",
+      "contentStatus": "ready",
+      "contentHash": "74ba166292a3050f98f693e8412958201448d769a8da381bf10960d2d087417a",
+      "rawPath": "data/raw/d7a75995932d25374f47385a4bb1bdc1.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "10b522159174af928c24db1ae40afd78",
+      "title": "研究阐明海藻糖-6-磷酸受体与信号转导机制",
+      "url": "https://www.cas.cn/syky/202610/t20261015_5122280.shtml",
+      "publishedAt": null,
+      "crawledAt": "2026-10-15T17:08:54.030Z",
+      "contentStatus": "ready",
+      "contentHash": "62d7a1455c5cd55fdacf3edcdc456dd5c8fce45816b352826af613439fcb3527",
+      "rawPath": "data/raw/10b522159174af928c24db1ae40afd78.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "4e4dc19261526d43ed8582e17df6817c",
+      "title": "Celebrate PDB55 with IUCr and Yifan Cheng",
+      "url": "https://www.rcsb.org/news/6ace9b264ec37840b7ddf62c",
+      "publishedAt": null,
+      "crawledAt": "2026-10-15T17:08:44.859Z",
+      "contentStatus": "ready",
+      "contentHash": "0852e4709299a66108199e877982a36a4eadae99e3bcfcb6720995ddc72426ea",
+      "rawPath": "data/raw/4e4dc19261526d43ed8582e17df6817c.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "c3644ba6404a33071d75a2633e4f172b",
       "title": "我所提出第三代代谢组学发展新框架",
