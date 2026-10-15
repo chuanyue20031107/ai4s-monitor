@@ -1,11 +1,110 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-15T04:54:14.305Z",
-  "pendingCount": 370,
-  "readyCount": 370,
+  "updatedAt": "2026-10-15T11:49:24.932Z",
+  "pendingCount": 379,
+  "readyCount": 379,
   "awaitingContentCount": 0,
   "excludedContentCount": 62,
   "items": [
+    {
+      "id": "c3644ba6404a33071d75a2633e4f172b",
+      "title": "我所提出第三代代谢组学发展新框架",
+      "url": "https://www.dicp.ac.cn/xwdt/kyjz/202610/t20261014_8292261.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-15T11:43:19.123Z",
+      "contentStatus": "ready",
+      "contentHash": "2d8d40e710500ca618b932bc46d87aa87658c4bb908ea852a6ad8f1abec999a2",
+      "rawPath": "data/raw/c3644ba6404a33071d75a2633e4f172b.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "92148ef5b9214b2cd877c63ca687ba19",
+      "title": "我所提出铝阳极低温失效机制新观点",
+      "url": "https://www.dicp.ac.cn/xwdt/kyjz/202610/t20261015_8292638.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-15T11:43:18.876Z",
+      "contentStatus": "ready",
+      "contentHash": "f4d14e554ebd7b9fff3124a5d4878310244cfbf306945672aae08888082816b5",
+      "rawPath": "data/raw/92148ef5b9214b2cd877c63ca687ba19.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "fe36b51f58b11dbd23e953da5e12c2f8",
+      "title": "中国科学院“攻坚：弘扬新时代科学家精神”主题宣讲（第三期）暨大连化学物理研究所文化讲坛第211讲“科学家精神的太空回响”成功举办",
+      "url": "https://www.dicp.ac.cn/xwdt/ttxw/202610/t20261015_8292620.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-15T11:43:18.664Z",
+      "contentStatus": "ready",
+      "contentHash": "abbbc79ac42fee47ab04ce85f66322d1e34a58555e8386b99314e249f277d8b7",
+      "rawPath": "data/raw/fe36b51f58b11dbd23e953da5e12c2f8.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "5216ef28d14ce98350d3bcf8cd616ea5",
+      "title": "2026/10 19 神经退行性疾病的发病机制及精准诊疗 2026年10月19日 08:00-17:00 多位知名专家 卫光生命科学园1A栋3楼报告厅 了解详情",
+      "url": "https://www.szbl.ac.cn/info/1017/10608.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-10-15T11:43:06.966Z",
+      "contentStatus": "ready",
+      "contentHash": "6d150f20c6d9fdf62599073d18c1214aae32f6ebe7e0d8f5b85d56fcd3cadf74",
+      "rawPath": "data/raw/5216ef28d14ce98350d3bcf8cd616ea5.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "f569611e7ebba3cfa9423286161f93e2",
+      "title": "深圳湾实验室获光明科学城建设卓越贡献奖 会上，参会领导为获得光明科学城建设卓越贡献奖的10家先进集体、30位先进个人进行颁奖。深圳湾实验室获先进集体，实验室特聘研究员张雷获先进个人。 2023 . 10 . 19 科研进展 阅读全文",
+      "url": "https://www.szbl.ac.cn/info/2010/10604.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-10-15T11:43:04.298Z",
+      "contentStatus": "ready",
+      "contentHash": "1999ebfdd7bfa88f9bb2497920cc15f9203abbc604db21241e2bbe17065d8dc9",
+      "rawPath": "data/raw/f569611e7ebba3cfa9423286161f93e2.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "507ecb2a73d2a1b4472a201d4511b312",
+      "title": "“智汇潇湘 才聚湖南”2026年上海站专场招聘活动举行 2026年10月15日",
+      "url": "https://news.sjtu.edu.cn/jdyw/20261015/226675.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-15T11:40:33.685Z",
+      "contentStatus": "ready",
+      "contentHash": "0c74763d0b08b352e61b3647032ab66204e915f36ea9a13dd14e8f5e7479a50a",
+      "rawPath": "data/raw/507ecb2a73d2a1b4472a201d4511b312.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "a86bf4c9f480ff7548dcb5a324ab11dd",
+      "title": "常州市市长周伟一行到访上海交大 2026年10月12日",
+      "url": "https://news.sjtu.edu.cn/jdyw/20261013/226629.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-15T11:40:33.425Z",
+      "contentStatus": "ready",
+      "contentHash": "c972a1dadccd800158a6fd712e3a9cb3230c52d537ab15cc5a6a14e38a1b9d44",
+      "rawPath": "data/raw/a86bf4c9f480ff7548dcb5a324ab11dd.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "82c3674b839624f6bfc334abbc55f826",
+      "title": "上海交通大学2026年庆祝敬老节暨表彰大会召开",
+      "url": "https://news.sjtu.edu.cn/jdyw/20261014/226656.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-15T11:40:30.441Z",
+      "contentStatus": "ready",
+      "contentHash": "64c2a06bde9d9849c596f0ac2c174a7cf2b1c5cf6fdb8f03796776501e89fb80",
+      "rawPath": "data/raw/82c3674b839624f6bfc334abbc55f826.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "2857ab3599e2013abe62ce1ef1e340a4",
+      "title": "关于开展2026年“省社科界优秀青年人才库”...",
+      "url": "https://www.ustc.edu.cn/tzggcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1361&wbnewsid=25889",
+      "publishedAt": null,
+      "crawledAt": "2026-10-15T11:40:28.849Z",
+      "contentStatus": "ready",
+      "contentHash": "c66330f2da590704e9dd28b9054d39d19496f159fce61ca3cb94027da24c0bf3",
+      "rawPath": "data/raw/2857ab3599e2013abe62ce1ef1e340a4.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "f8c5306fcd34553b0919db8eb73b6807",
       "title": "Generate:Biomedicines Expands Leadership Team with the Addition of Chief Medical Officer Alexandra Snyder, M.D. | Generate:Biomedicines",
