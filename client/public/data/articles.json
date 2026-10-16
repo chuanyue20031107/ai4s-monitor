@@ -1,6 +1,96 @@
 {
   "items": [
     {
+      "id": "217d42f5a89e5a51e7fec5a91a0dce55",
+      "title": "LinkedIn Top Startups 2024: The 50 U.S. companies on the rise | Xaira Therapeutics",
+      "sourceKey": "s02-08",
+      "sourceName": "Xaira Therapeutics",
+      "sourceType": "AI药物公司",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-16T11:33:54.949Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.xaira.com/news/linkedin-top-startups-2024-the-50-u-s-companies-on-the-rise",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "03017efd5ea5e5de7535443a07ecbb89",
+      "title": "Inside the Seattle labs of Xaira, the AI-powered startup launched with $1B from investors | Xaira Therapeutics",
+      "sourceKey": "s02-08",
+      "sourceName": "Xaira Therapeutics",
+      "sourceType": "AI药物公司",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-16T11:33:54.896Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.xaira.com/news/inside-the-seattle-labs-of-xaira-the-ai-powered-startup-launched-with-1b-from-investors",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "dbbb702ba4938653610326bed0cf6158",
+      "title": "Recursion Announces Pricing of $200 Million Underwritten Offering of Class A Common Stock",
+      "sourceKey": "s02-02",
+      "sourceName": "Recursion",
+      "sourceType": "AI药物/自动化实验公司",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-16T11:33:53.461Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://ir.recursion.com/news-releases/news-release-details/recursion-announces-pricing-200-million-underwritten-offering",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "cc03c1b994f4b52487539b1463161134",
+      "title": "Recursion Announces Sanofi Options Potential First-in-Class Immunology Development Candidate from Their Collaboration",
+      "sourceKey": "s02-02",
+      "sourceName": "Recursion",
+      "sourceType": "AI药物/自动化实验公司",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-16T11:33:53.384Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://ir.recursion.com/news-releases/news-release-details/recursion-announces-sanofi-options-potential-first-class",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "2b0a4f23c4eeb155767a83882c09836d",
+      "title": "Proof-based general-purpose computing with Magnetar",
+      "sourceKey": "s01-02",
+      "sourceName": "Microsoft Research AI for Science",
+      "sourceType": "科技大厂研究机构",
+      "category": "",
+      "publishedAt": "2026-10-15T16:00:00.000Z",
+      "crawledAt": "2026-10-16T11:33:51.463Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar/",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "27ed048ac12d150f7d66af93ca29f46f",
       "title": "Drug Discovery 2031",
       "sourceKey": "s11-22",
@@ -12675,5 +12765,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-10-16T04:44:04.955Z"
+  "updatedAt": "2026-10-16T11:34:02.565Z"
 }
