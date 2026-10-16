@@ -1,11 +1,33 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-15T21:31:46.976Z",
-  "pendingCount": 391,
-  "readyCount": 391,
+  "updatedAt": "2026-10-16T04:44:04.955Z",
+  "pendingCount": 393,
+  "readyCount": 393,
   "awaitingContentCount": 0,
   "excludedContentCount": 62,
   "items": [
+    {
+      "id": "27ed048ac12d150f7d66af93ca29f46f",
+      "title": "Drug Discovery 2031",
+      "url": "https://elrig.org/portfolio/drug-discovery-2031/",
+      "publishedAt": null,
+      "crawledAt": "2026-10-16T04:41:21.846Z",
+      "contentStatus": "ready",
+      "contentHash": "dd5c7bfd6780bd7d04d156de262b9e4cb775a0d040ec4c4bed2a00165d5124a4",
+      "rawPath": "data/raw/27ed048ac12d150f7d66af93ca29f46f.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "2f38177ce77ab5aff612df7fe547c487",
+      "title": "《Water Research》里的8.04：国产ICP-MS支撑湖泊“锁磷”机制研究 2026-10-15",
+      "url": "https://www.fpi-inc.com/news_cont_48343.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-16T04:40:53.536Z",
+      "contentStatus": "ready",
+      "contentHash": "550ab57721213bbcf48c1d121d19c1d4f4a2b4b3f262b462e0bbe6db39dfe36f",
+      "rawPath": "data/raw/2f38177ce77ab5aff612df7fe547c487.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "df95bf894b385a677559b96daca3d414",
       "title": "Mihoko Otake, Team Director of the Cognitive Behavioral Assistive Technology Team, Receives the Women in AI APAC Awards 2026 – AI for Social Good Award",
