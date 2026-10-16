@@ -1,11 +1,77 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-16T11:34:02.565Z",
-  "pendingCount": 398,
-  "readyCount": 398,
+  "updatedAt": "2026-10-16T16:46:41.143Z",
+  "pendingCount": 405,
+  "readyCount": 405,
   "awaitingContentCount": 0,
-  "excludedContentCount": 62,
+  "excludedContentCount": 61,
   "items": [
+    {
+      "id": "396b0ecc2799c897bc6a232d9e0c0066",
+      "title": "2026-10-15 曾毓群博士：从规模爆发到长期可靠，储能迈入新型基础设施时代 了解更多",
+      "url": "https://www.catl.com/news/10319.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-16T16:46:32.425Z",
+      "contentStatus": "ready",
+      "contentHash": "91f238cafd7fdfed6cd9c557ae25f1b0d3ade95f90cce4684c5f4e8a7b2961ce",
+      "rawPath": "data/raw/396b0ecc2799c897bc6a232d9e0c0066.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "17ffe0039b9f763b1219f12c433ffdc2",
+      "title": "我所提出原子尺度界面焊接策略解决质子陶瓷电池界面活性受限问题",
+      "url": "https://www.dicp.ac.cn/xwdt/kyjz/202610/t20261015_8292683.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-16T16:46:29.523Z",
+      "contentStatus": "ready",
+      "contentHash": "1f3fa52ef30d1f57745746f6b40a5f54d5072964153cfdfb94bb35710e554f6c",
+      "rawPath": "data/raw/17ffe0039b9f763b1219f12c433ffdc2.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "a18be8dabc6141400bfaa66a74867fbb",
+      "title": "【交大名师】关增建：以科学史为舟，载学子横渡科技文明的浩瀚长河 2026年10月14日",
+      "url": "https://news.sjtu.edu.cn/ztzl_jdms/20261014/226649.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-16T16:46:18.593Z",
+      "contentStatus": "ready",
+      "contentHash": "e1f7e6708841546597a5f943f6389f3a05a107a5e1647a5e1ca96ad522a23247",
+      "rawPath": "data/raw/a18be8dabc6141400bfaa66a74867fbb.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "bca0d198c895eaf11c01d154c2cb30d6",
+      "title": "上海交通大学2026级新疆籍本科新生座谈会举行 2026年10月15日",
+      "url": "https://news.sjtu.edu.cn/jdyw/20261015/226674.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-16T16:46:18.364Z",
+      "contentStatus": "ready",
+      "contentHash": "1ab5cdd39aee7290d6a1ca3e5db7b4aa78363bbcd246c4ec7e77d393efad0c8f",
+      "rawPath": "data/raw/bca0d198c895eaf11c01d154c2cb30d6.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "4d66b1e7a0bcfe779d6234a54e72fffc",
+      "title": "弦歌百卅 思启三百 丁奎岭校长第300期大师讲坛分享合成创造未来 2026年10月10日",
+      "url": "https://news.sjtu.edu.cn/jdyw/20261010/226569.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-16T16:46:15.378Z",
+      "contentStatus": "ready",
+      "contentHash": "0567fbb9046ca6cabb6c4f9c0ae4b8f5e1fdbba8701b26150f720b71910eb2a1",
+      "rawPath": "data/raw/4d66b1e7a0bcfe779d6234a54e72fffc.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "46b5124b50b5ddc5d87bca370c5dd4e3",
+      "title": "校党委召开2026年中央巡视整改落实情况“再总结”工作汇报会议",
+      "url": "http://news.ustc.edu.cn/info/1055/96598.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-10-16T16:46:13.718Z",
+      "contentStatus": "ready",
+      "contentHash": "3ea6a92071249de5c2a430fc604d78c102aed57f0f035c0a1cb2ddadbdb65a18",
+      "rawPath": "data/raw/46b5124b50b5ddc5d87bca370c5dd4e3.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "217d42f5a89e5a51e7fec5a91a0dce55",
       "title": "LinkedIn Top Startups 2024: The 50 U.S. companies on the rise | Xaira Therapeutics",
@@ -334,6 +400,17 @@
       "contentStatus": "ready",
       "contentHash": "144645dae8ad6080f3ce4a2377524d0c449fb91aca4f61101d0d6255efaf9909",
       "rawPath": "data/raw/271e3e0812bb75fb4e660c96e3b37e67.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "0c63095c81e96a04306474ec980a9c2a",
+      "title": "晶泰科技首个siRNA项目9个月确认PCC，展现同类最佳潜力",
+      "url": "https://www.xtalpi.com/%e6%99%b6%e6%b3%b0%e7%a7%91%e6%8a%80%e9%a6%96%e4%b8%aasirna%e9%a1%b9%e7%9b%ae9%e4%b8%aa%e6%9c%88%e7%a1%ae%e8%ae%a4pcc%ef%bc%8c%e5%b1%95%e7%8e%b0%e5%90%8c%e7%b1%bb%e6%9c%80%e4%bd%b3%e6%bd%9c%e5%8a%9b/",
+      "publishedAt": "2026-10-15T01:34:18.000Z",
+      "crawledAt": "2026-10-16T16:46:11.531Z",
+      "contentStatus": "ready",
+      "contentHash": "2daaa277905d2d9d72f3bda4a4d098a15b4d128ce60b9f21d5e848dacaa6774f",
+      "rawPath": "data/raw/0c63095c81e96a04306474ec980a9c2a.json",
       "lastAnalysisStatus": "pending"
     },
     {
