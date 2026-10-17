@@ -1,11 +1,44 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-17T04:38:11.175Z",
-  "pendingCount": 418,
-  "readyCount": 418,
+  "updatedAt": "2026-10-17T10:56:58.262Z",
+  "pendingCount": 422,
+  "readyCount": 422,
   "awaitingContentCount": 0,
   "excludedContentCount": 61,
   "items": [
+    {
+      "id": "19f308aaff05187cc16b4b2939232d6d",
+      "title": "陈春美任福建省第二人民医院院长",
+      "url": "https://www.caclp.com/article/?detail_14413.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-17T10:56:27.182Z",
+      "contentStatus": "ready",
+      "contentHash": "3e8bbcf236919b4e5ac0e03bcd5d56a67085f1c91c5d358d4e97cc0eb4d800b1",
+      "rawPath": "data/raw/19f308aaff05187cc16b4b2939232d6d.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "bfde22f1ce006cc716b265d1c21cc988",
+      "title": "中央资金“提前批”开闸，浙江36个医疗项目拟申请16.4亿元",
+      "url": "https://www.caclp.com/article/?detail_14414.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-17T10:56:25.954Z",
+      "contentStatus": "ready",
+      "contentHash": "a6f099084b2107539f359fc5fe32c08a8796294500a651b3ce9987ee71931b03",
+      "rawPath": "data/raw/bfde22f1ce006cc716b265d1c21cc988.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "46ddbfce133e7c499997927e69b9ee7f",
+      "title": "床位500张！四川省人民医院成华医院开诊",
+      "url": "https://www.caclp.com/article/?detail_14415.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-17T10:56:23.696Z",
+      "contentStatus": "ready",
+      "contentHash": "504286aca43d8f80554eaa6352c670be1ac693cebe139c15371dc313f2a72d37",
+      "rawPath": "data/raw/46ddbfce133e7c499997927e69b9ee7f.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "2cd8a42b6cc362e7346af41e39de30a1",
       "title": "Fourth Conference on Parsimony and Learning (CPAL 2027)",
@@ -125,6 +158,17 @@
       "contentStatus": "ready",
       "contentHash": "5628a918bade6a5b1d611ba386b7c82d0bcf66ed66a0e9af119fb3cc01d684c9",
       "rawPath": "data/raw/9732b2763df5a67ab9455b8255aee230.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "59518b2921d1aa6a8b99428aa2eed529",
+      "title": "Dr. Dionisios Vlachos Is AIChE’s 2026 William H. Walker Award Recipient",
+      "url": "https://www.aiche.org/dr-dionisios-vlachos-aiches-2026-william-h-walker-award-recipient",
+      "publishedAt": "2026-10-16T18:03:09.000Z",
+      "crawledAt": "2026-10-17T10:56:32.191Z",
+      "contentStatus": "ready",
+      "contentHash": "ea81b9519faab56fb483d299c908d62df36ee20168b10e308e7554432747544b",
+      "rawPath": "data/raw/59518b2921d1aa6a8b99428aa2eed529.json",
       "lastAnalysisStatus": "pending"
     },
     {
