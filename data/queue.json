@@ -1,11 +1,22 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-17T15:47:02.354Z",
-  "pendingCount": 428,
-  "readyCount": 428,
+  "updatedAt": "2026-10-17T20:50:28.293Z",
+  "pendingCount": 429,
+  "readyCount": 429,
   "awaitingContentCount": 0,
   "excludedContentCount": 61,
   "items": [
+    {
+      "id": "ce41e9d728fe08bc32b632aa0569e1ef",
+      "title": "采用我所技术的多乙烯多胺工业装置投料开车成功",
+      "url": "https://www.dicp.ac.cn/xwdt/kyjz/202610/t20261017_8293198.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-17T20:45:28.649Z",
+      "contentStatus": "ready",
+      "contentHash": "5a9dd7534042a46e5f803483cdc9cd2c516a9dd6631fde630b4ae9467e8e17fe",
+      "rawPath": "data/raw/ce41e9d728fe08bc32b632aa0569e1ef.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "275491b799837914ad19d2b12f95f94b",
       "title": "AutoClaw",
