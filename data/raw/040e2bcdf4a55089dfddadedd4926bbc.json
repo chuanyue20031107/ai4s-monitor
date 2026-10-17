@@ -1,0 +1,18 @@
+{
+  "id": "040e2bcdf4a55089dfddadedd4926bbc",
+  "title": "New Chip-Based ‘Tape Measure’ for Light Could Revolutionize Mobile Timekeeping and Enhance National Security",
+  "url": "https://www.nist.gov/news-events/news/2026/10/new-chip-based-tape-measure-light-could-revolutionize-mobile-timekeeping",
+  "sourceKey": "s01-08",
+  "sourceName": "National Institute of Standards and Technology",
+  "sourceType": "国家计量标准机构",
+  "publishedAt": "2026-10-16T12:00:00.000Z",
+  "crawledAt": "2026-10-17T15:43:23.171Z",
+  "content": "An official website of the United States government Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock ( Lock A locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites. https://www.nist.gov/news-events/news/2026/10/new-chip-based-tape-measure-light-could-revolutionize-mobile-timekeeping Microcombs, which act as miniature rulers for light, are fabricated on wafers like the one shown here. Each wafer contains more than 400 chips, with each chip housing up to 300 tiny ring-shaped resonators that form the heart of the new microcomb technology. Researchers at the National Institute of Standards and Technology (NIST) and their colleagues have demonstrated a new way to generate a miniature tape measure for light. Unlike previous designs, it can make high-quality optical measurements without needing to be tethered to bulky laboratory equipment. The new device could help revolutionize ultraprecise mobile timekeeping, and in turn, provide vital navigation signals for drones, cars, submarines and other vehicles when GPS is either unavailable or has been jammed. The miniature instruments, known as microchip frequency combs, generate a spectrum of precise, evenly spaced colors that act like tick marks on a ruler to measure the frequencies of light with extraordinary accuracy. Frequency combs are essential components of optical atomic clocks , which produce extremely precise timing signals. Mobile optical clocks could be used for many applications beyond timekeeping , such as military navigation and oil, gas and mineral exploration. In their approach, scientists at NIST and JQI, a research partnership between NIST and the University of Maryland, send light from two lasers around a tiny ring known as a microresonator. The light interacts with itself in such a way as to produce the evenly spaced “tick marks” of a comb. The technique avoids a problem associated with previous, single-laser methods, which required additional, power-hungry equipment to produce stable, high-quality tick marks. Learn more in this JQI news story: New Chip-Based Frequency Combs Demonstrate Potential for Portable Atomic Clocks",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-10-17T15:43:23.171Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "e03fe55dfbaeda8e75a7052021c8a015f1b07eae47fb900b73e6aa1be014124d"
+}

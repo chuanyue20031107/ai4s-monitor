@@ -1,11 +1,66 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-17T10:56:58.262Z",
-  "pendingCount": 422,
-  "readyCount": 422,
+  "updatedAt": "2026-10-17T15:47:02.354Z",
+  "pendingCount": 428,
+  "readyCount": 428,
   "awaitingContentCount": 0,
   "excludedContentCount": 61,
   "items": [
+    {
+      "id": "275491b799837914ad19d2b12f95f94b",
+      "title": "AutoClaw",
+      "url": "https://autoclaw.zhipuai.cn/?channel=AutoClaw20",
+      "publishedAt": null,
+      "crawledAt": "2026-10-17T15:43:34.420Z",
+      "contentStatus": "ready",
+      "contentHash": "fc76bdb47332c44e99b6d38e16935b6c7bfd544738bb14b20fc4c6ce73505e3d",
+      "rawPath": "data/raw/275491b799837914ad19d2b12f95f94b.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "d36d762bee588d621a2230c54937dbdb",
+      "title": "DeepSeek V4.1 Flash 现已更新至 V4.1-Flash-1017 版本，项目开发能力提升显著，更低成本、更快速度完成任务；新增 API 支持网页搜索与抓取，欢迎测试和反馈",
+      "url": "https://api-docs.deepseek.com/zh-cn/guides/search/",
+      "publishedAt": null,
+      "crawledAt": "2026-10-17T15:43:29.761Z",
+      "contentStatus": "ready",
+      "contentHash": "5185814c961db9f9b9478e2289b550911fa50038c6ef797d1d3b9b907cff69e9",
+      "rawPath": "data/raw/d36d762bee588d621a2230c54937dbdb.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "44dadd53b07d20a7444fc4424681ebca",
+      "title": "Single cell sequencing as a general variant interpretation assay | Xaira Therapeutics",
+      "url": "https://www.xaira.com/news/single-cell-sequencing-as-a-general-variant-interpretation-assay",
+      "publishedAt": null,
+      "crawledAt": "2026-10-17T15:43:27.603Z",
+      "contentStatus": "ready",
+      "contentHash": "ef9ea722272dc5c3e4ee33386a3008b72466fd4a846b382dd3c11b5d43ce3277",
+      "rawPath": "data/raw/44dadd53b07d20a7444fc4424681ebca.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "0e1ceceb9b96389444ce6d89bb7578fe",
+      "title": "Reinventing drug discovery with AI | Xaira Therapeutics",
+      "url": "https://www.xaira.com/news/reinventing-drug-discovery-with-ai",
+      "publishedAt": null,
+      "crawledAt": "2026-10-17T15:43:27.537Z",
+      "contentStatus": "ready",
+      "contentHash": "144645dae8ad6080f3ce4a2377524d0c449fb91aca4f61101d0d6255efaf9909",
+      "rawPath": "data/raw/0e1ceceb9b96389444ce6d89bb7578fe.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "29368090eb34d8807a2e1b1da2135cb8",
+      "title": "Recursion Announces $200 Million Oversubscribed Follow-On Offering, Clinical Data Updates, and Partnership Milestone",
+      "url": "https://ir.recursion.com/news-releases/news-release-details/recursion-announces-200-million-oversubscribed-follow-offering",
+      "publishedAt": null,
+      "crawledAt": "2026-10-17T15:43:25.625Z",
+      "contentStatus": "ready",
+      "contentHash": "887fee3e4d073a99ffa6286cd48125eb1278a8388385498d7ec80c12bf59505a",
+      "rawPath": "data/raw/29368090eb34d8807a2e1b1da2135cb8.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "19f308aaff05187cc16b4b2939232d6d",
       "title": "陈春美任福建省第二人民医院院长",
@@ -235,6 +290,17 @@
       "contentStatus": "ready",
       "contentHash": "3ea6a92071249de5c2a430fc604d78c102aed57f0f035c0a1cb2ddadbdb65a18",
       "rawPath": "data/raw/46b5124b50b5ddc5d87bca370c5dd4e3.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "040e2bcdf4a55089dfddadedd4926bbc",
+      "title": "New Chip-Based ‘Tape Measure’ for Light Could Revolutionize Mobile Timekeeping and Enhance National Security",
+      "url": "https://www.nist.gov/news-events/news/2026/10/new-chip-based-tape-measure-light-could-revolutionize-mobile-timekeeping",
+      "publishedAt": "2026-10-16T12:00:00.000Z",
+      "crawledAt": "2026-10-17T15:43:23.171Z",
+      "contentStatus": "ready",
+      "contentHash": "e03fe55dfbaeda8e75a7052021c8a015f1b07eae47fb900b73e6aa1be014124d",
+      "rawPath": "data/raw/040e2bcdf4a55089dfddadedd4926bbc.json",
       "lastAnalysisStatus": "pending"
     },
     {
