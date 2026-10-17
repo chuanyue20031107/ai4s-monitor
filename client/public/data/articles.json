@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "2cd8a42b6cc362e7346af41e39de30a1",
+      "title": "Fourth Conference on Parsimony and Learning (CPAL 2027)",
+      "sourceKey": "s01-22",
+      "sourceName": "RIKEN Center for Advanced Intelligence Project",
+      "sourceType": "国家研究机构",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-17T04:38:06.282Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://aip.riken.jp/events/event_199763/",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "32165ee6af8945a5bd83e4231d3e0524",
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "sourceKey": "s01-14",
+      "sourceName": "OpenAI",
+      "sourceType": "科技大厂研究机构",
+      "category": "",
+      "publishedAt": "2026-10-15T19:00:00.000Z",
+      "crawledAt": "2026-10-17T04:38:01.034Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "9732b2763df5a67ab9455b8255aee230",
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "sourceKey": "s01-14",
+      "sourceName": "OpenAI",
+      "sourceType": "科技大厂研究机构",
+      "category": "",
+      "publishedAt": "2026-10-16T19:00:00.000Z",
+      "crawledAt": "2026-10-17T04:38:01.033Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://openai.com/index/itau-generative-ai",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "9e63539289a31c8631b61e2dab00ee43",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "sourceKey": "s01-14",
+      "sourceName": "OpenAI",
+      "sourceType": "科技大厂研究机构",
+      "category": "",
+      "publishedAt": "2026-10-16T00:00:00.000Z",
+      "crawledAt": "2026-10-17T04:38:01.033Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "8efcbdbe79a26cb8fcc883b3deda365c",
       "title": "• 习近平会见多哥部长会议主席福雷 2026-10-14",
       "sourceKey": "s10-05",
@@ -13053,5 +13125,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-10-16T21:21:53.716Z"
+  "updatedAt": "2026-10-17T04:38:11.175Z"
 }

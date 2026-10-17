@@ -1,11 +1,22 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-16T21:21:53.716Z",
-  "pendingCount": 414,
-  "readyCount": 414,
+  "updatedAt": "2026-10-17T04:38:11.175Z",
+  "pendingCount": 418,
+  "readyCount": 418,
   "awaitingContentCount": 0,
   "excludedContentCount": 61,
   "items": [
+    {
+      "id": "2cd8a42b6cc362e7346af41e39de30a1",
+      "title": "Fourth Conference on Parsimony and Learning (CPAL 2027)",
+      "url": "https://aip.riken.jp/events/event_199763/",
+      "publishedAt": null,
+      "crawledAt": "2026-10-17T04:38:06.282Z",
+      "contentStatus": "ready",
+      "contentHash": "68c19713689e36ff6be1406ad5f3c1cc4c3cbb492644383f03eb23753a89dbd3",
+      "rawPath": "data/raw/2cd8a42b6cc362e7346af41e39de30a1.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "8efcbdbe79a26cb8fcc883b3deda365c",
       "title": "• 习近平会见多哥部长会议主席福雷 2026-10-14",
@@ -103,6 +114,17 @@
       "contentStatus": "ready",
       "contentHash": "c19191cb420ee319db2b606542190d03348ff4b1752c758c3b19d33d69d2db22",
       "rawPath": "data/raw/ce0ed65cc343fdbaa55817f1f5bd73e3.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "9732b2763df5a67ab9455b8255aee230",
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "url": "https://openai.com/index/itau-generative-ai",
+      "publishedAt": "2026-10-16T19:00:00.000Z",
+      "crawledAt": "2026-10-17T04:38:01.033Z",
+      "contentStatus": "ready",
+      "contentHash": "5628a918bade6a5b1d611ba386b7c82d0bcf66ed66a0e9af119fb3cc01d684c9",
+      "rawPath": "data/raw/9732b2763df5a67ab9455b8255aee230.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -238,6 +260,17 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "9e63539289a31c8631b61e2dab00ee43",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "publishedAt": "2026-10-16T00:00:00.000Z",
+      "crawledAt": "2026-10-17T04:38:01.033Z",
+      "contentStatus": "ready",
+      "contentHash": "28dfe1fc07b1686164cf6c6ecb2802cb3e0abde61e25422442e5a04d7e6f8537",
+      "rawPath": "data/raw/9e63539289a31c8631b61e2dab00ee43.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "df95bf894b385a677559b96daca3d414",
       "title": "Mihoko Otake, Team Director of the Cognitive Behavioral Assistive Technology Team, Receives the Women in AI APAC Awards 2026 – AI for Social Good Award",
       "url": "https://aip.riken.jp/news/women-in-ai-apac-awards-2026/",
@@ -257,6 +290,17 @@
       "contentStatus": "ready",
       "contentHash": "f6b300f051534a192a6690f64220507d48f89af03453c40d9ae48dff72a9c64e",
       "rawPath": "data/raw/da8ebfcd6a451d005e088bf49fcc16ae.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "32165ee6af8945a5bd83e4231d3e0524",
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "publishedAt": "2026-10-15T19:00:00.000Z",
+      "crawledAt": "2026-10-17T04:38:01.034Z",
+      "contentStatus": "ready",
+      "contentHash": "6d4b5435963ed5834446c905ecffdc9f523c8b8630467cbe5d445531e4d54bcb",
+      "rawPath": "data/raw/32165ee6af8945a5bd83e4231d3e0524.json",
       "lastAnalysisStatus": "pending"
     },
     {

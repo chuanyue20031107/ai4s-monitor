@@ -1,0 +1,18 @@
+{
+  "id": "9732b2763df5a67ab9455b8255aee230",
+  "title": "How Itaú is building generative AI for its entire customer base",
+  "url": "https://openai.com/index/itau-generative-ai",
+  "sourceKey": "s01-14",
+  "sourceName": "OpenAI",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": "2026-10-16T19:00:00.000Z",
+  "crawledAt": "2026-10-17T04:38:01.033Z",
+  "content": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-10-17T04:38:01.033Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "5628a918bade6a5b1d611ba386b7c82d0bcf66ed66a0e9af119fb3cc01d684c9"
+}
