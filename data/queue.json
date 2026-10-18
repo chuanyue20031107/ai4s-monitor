@@ -1,11 +1,22 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-18T04:50:58.318Z",
-  "pendingCount": 433,
-  "readyCount": 433,
+  "updatedAt": "2026-10-18T11:18:39.863Z",
+  "pendingCount": 437,
+  "readyCount": 437,
   "awaitingContentCount": 0,
   "excludedContentCount": 61,
   "items": [
+    {
+      "id": "e7caacad83a26ee2c903ec81c5136072",
+      "title": "【Event Report】 University of Bristol & RIKEN AIP Joint Workshop（September 22-23, 2026, UK）",
+      "url": "https://aip.riken.jp/news/university-of-bristol-riken-aip-joint-workshop/",
+      "publishedAt": null,
+      "crawledAt": "2026-10-18T11:18:35.918Z",
+      "contentStatus": "ready",
+      "contentHash": "a88f6c5c3795afe2ffb5da8abf72b729c4c8f9b45dddfa31c16610598d3f4516",
+      "rawPath": "data/raw/e7caacad83a26ee2c903ec81c5136072.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "b92315851bdd8737aefd4406f9591420",
       "title": "深圳海关2026年皇岗口岸土地整备安置项目配套光伏系统工程采购项目单一来源采购公示",
@@ -436,6 +447,17 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "b6756c0a180ee554226c332b456c2b3f",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "url": "https://openai.com/index/benefit-street-partners",
+      "publishedAt": "2026-10-16T00:00:00.000Z",
+      "crawledAt": "2026-10-18T11:18:31.893Z",
+      "contentStatus": "ready",
+      "contentHash": "e898a768fb2301dc59e98fbb426fc73070164be7d62e352bf9489587d89c3570",
+      "rawPath": "data/raw/b6756c0a180ee554226c332b456c2b3f.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "df95bf894b385a677559b96daca3d414",
       "title": "Mihoko Otake, Team Director of the Cognitive Behavioral Assistive Technology Team, Receives the Women in AI APAC Awards 2026 – AI for Social Good Award",
       "url": "https://aip.riken.jp/news/women-in-ai-apac-awards-2026/",
@@ -719,6 +741,17 @@
       "contentStatus": "ready",
       "contentHash": "2daaa277905d2d9d72f3bda4a4d098a15b4d128ce60b9f21d5e848dacaa6774f",
       "rawPath": "data/raw/0c63095c81e96a04306474ec980a9c2a.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "94eadcab22c41e356a1d9bf1e35dbdb6",
+      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "url": "https://openai.com/index/sullivan-cromwell",
+      "publishedAt": "2026-10-15T00:00:00.000Z",
+      "crawledAt": "2026-10-18T11:18:31.894Z",
+      "contentStatus": "ready",
+      "contentHash": "d7f8032b38e26b89c89a0233416b59860aa6c83f5a6dbb7897fd191fbb5d4386",
+      "rawPath": "data/raw/94eadcab22c41e356a1d9bf1e35dbdb6.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -1126,6 +1159,17 @@
       "contentStatus": "ready",
       "contentHash": "cb98ba22b8fa7fcde6207a1eadff5ccdbb6f72017f0d7cea5ed404a53124014b",
       "rawPath": "data/raw/89a0e280293d2aac2b2c3c4d1eb46f66.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "8d45898e533e591d4241f4c1821bbb7b",
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "publishedAt": "2026-10-13T12:00:00.000Z",
+      "crawledAt": "2026-10-18T11:18:31.894Z",
+      "contentStatus": "ready",
+      "contentHash": "b8289508936a791b1b78531367ff5d1edb96caa472d7c20ed1c791a6e8e2dc15",
+      "rawPath": "data/raw/8d45898e533e591d4241f4c1821bbb7b.json",
       "lastAnalysisStatus": "pending"
     },
     {

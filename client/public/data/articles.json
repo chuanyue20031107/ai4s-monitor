@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "e7caacad83a26ee2c903ec81c5136072",
+      "title": "【Event Report】 University of Bristol & RIKEN AIP Joint Workshop（September 22-23, 2026, UK）",
+      "sourceKey": "s01-22",
+      "sourceName": "RIKEN Center for Advanced Intelligence Project",
+      "sourceType": "国家研究机构",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-18T11:18:35.918Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://aip.riken.jp/news/university-of-bristol-riken-aip-joint-workshop/",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "8d45898e533e591d4241f4c1821bbb7b",
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "sourceKey": "s01-14",
+      "sourceName": "OpenAI",
+      "sourceType": "科技大厂研究机构",
+      "category": "",
+      "publishedAt": "2026-10-13T12:00:00.000Z",
+      "crawledAt": "2026-10-18T11:18:31.894Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "94eadcab22c41e356a1d9bf1e35dbdb6",
+      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "sourceKey": "s01-14",
+      "sourceName": "OpenAI",
+      "sourceType": "科技大厂研究机构",
+      "category": "",
+      "publishedAt": "2026-10-15T00:00:00.000Z",
+      "crawledAt": "2026-10-18T11:18:31.894Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://openai.com/index/sullivan-cromwell",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "b6756c0a180ee554226c332b456c2b3f",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "sourceKey": "s01-14",
+      "sourceName": "OpenAI",
+      "sourceType": "科技大厂研究机构",
+      "category": "",
+      "publishedAt": "2026-10-16T00:00:00.000Z",
+      "crawledAt": "2026-10-18T11:18:31.893Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://openai.com/index/benefit-street-partners",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "b92315851bdd8737aefd4406f9591420",
       "title": "深圳海关2026年皇岗口岸土地整备安置项目配套光伏系统工程采购项目单一来源采购公示",
       "sourceKey": "s08-07",
@@ -13395,5 +13467,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-10-18T04:50:58.318Z"
+  "updatedAt": "2026-10-18T11:18:39.863Z"
 }
