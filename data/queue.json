@@ -1,11 +1,55 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-17T20:50:28.293Z",
-  "pendingCount": 429,
-  "readyCount": 429,
+  "updatedAt": "2026-10-18T04:50:58.318Z",
+  "pendingCount": 433,
+  "readyCount": 433,
   "awaitingContentCount": 0,
   "excludedContentCount": 61,
   "items": [
+    {
+      "id": "b92315851bdd8737aefd4406f9591420",
+      "title": "深圳海关2026年皇岗口岸土地整备安置项目配套光伏系统工程采购项目单一来源采购公示",
+      "url": "https://www.ccgp.gov.cn/cggg/zygg/qtgg/202610/t20261017_27513478.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-10-18T04:45:57.982Z",
+      "contentStatus": "ready",
+      "contentHash": "75c1bee8ff8a09ccf9cfec13afc4dc0fde7f5b7a85f169c94a377002d8f377ca",
+      "rawPath": "data/raw/b92315851bdd8737aefd4406f9591420.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "925f6487b447897a7010b0e0c595f077",
+      "title": "深圳海关2026年皇岗口岸土地整备安置项目配套光伏系统工程采购项目更正公告",
+      "url": "https://www.ccgp.gov.cn/cggg/zygg/gzgg/202610/t20261017_27513524.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-10-18T04:45:57.776Z",
+      "contentStatus": "ready",
+      "contentHash": "4e49c13efef8df83607da6446abf16770ff5637c4d1ff8f3e1e85b12f96abd2e",
+      "rawPath": "data/raw/925f6487b447897a7010b0e0c595f077.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "e2c6876b410e3fa7e82f0df65524a661",
+      "title": "东北大学月球固体矿产资源开采力学参数测试研究与测试模块公开招标公告",
+      "url": "https://www.ccgp.gov.cn/cggg/zygg/gkzb/202610/t20261018_27513650.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-10-18T04:45:57.508Z",
+      "contentStatus": "ready",
+      "contentHash": "f50707c40460bfad7dca3eccdaef2054f5fa4e19198587466589524650982c07",
+      "rawPath": "data/raw/e2c6876b410e3fa7e82f0df65524a661.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "2473ad1be30d5fee617355eb4a961ae8",
+      "title": "Register for Special Webinar Celebrating PDB55",
+      "url": "https://www.rcsb.org/news/6ad0eac54ec37840b7ddf630",
+      "publishedAt": null,
+      "crawledAt": "2026-10-18T04:45:46.483Z",
+      "contentStatus": "ready",
+      "contentHash": "91bb70c47bbad3996382d9501f25326c41bacafcf0298d2c43a2983f1eb56ad4",
+      "rawPath": "data/raw/2473ad1be30d5fee617355eb4a961ae8.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "ce41e9d728fe08bc32b632aa0569e1ef",
       "title": "采用我所技术的多乙烯多胺工业装置投料开车成功",

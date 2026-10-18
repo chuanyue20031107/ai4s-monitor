@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "b92315851bdd8737aefd4406f9591420",
+      "title": "深圳海关2026年皇岗口岸土地整备安置项目配套光伏系统工程采购项目单一来源采购公示",
+      "sourceKey": "s08-07",
+      "sourceName": "中国政府采购网",
+      "sourceType": "政府采购平台",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-18T04:45:57.982Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.ccgp.gov.cn/cggg/zygg/qtgg/202610/t20261017_27513478.htm",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "925f6487b447897a7010b0e0c595f077",
+      "title": "深圳海关2026年皇岗口岸土地整备安置项目配套光伏系统工程采购项目更正公告",
+      "sourceKey": "s08-07",
+      "sourceName": "中国政府采购网",
+      "sourceType": "政府采购平台",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-18T04:45:57.776Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.ccgp.gov.cn/cggg/zygg/gzgg/202610/t20261017_27513524.htm",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "e2c6876b410e3fa7e82f0df65524a661",
+      "title": "东北大学月球固体矿产资源开采力学参数测试研究与测试模块公开招标公告",
+      "sourceKey": "s08-07",
+      "sourceName": "中国政府采购网",
+      "sourceType": "政府采购平台",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-18T04:45:57.508Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.ccgp.gov.cn/cggg/zygg/gkzb/202610/t20261018_27513650.htm",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "2473ad1be30d5fee617355eb4a961ae8",
+      "title": "Register for Special Webinar Celebrating PDB55",
+      "sourceKey": "s07-13",
+      "sourceName": "RCSB Protein Data Bank",
+      "sourceType": "科学数据库与平台",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-18T04:45:46.483Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.rcsb.org/news/6ad0eac54ec37840b7ddf630",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "ce41e9d728fe08bc32b632aa0569e1ef",
       "title": "采用我所技术的多乙烯多胺工业装置投料开车成功",
       "sourceKey": "s05-19",
@@ -13323,5 +13395,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-10-17T20:50:28.293Z"
+  "updatedAt": "2026-10-18T04:50:58.318Z"
 }
