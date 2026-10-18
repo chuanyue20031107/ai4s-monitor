@@ -1,11 +1,33 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-18T16:02:06.786Z",
-  "pendingCount": 437,
-  "readyCount": 437,
+  "updatedAt": "2026-10-18T20:52:36.678Z",
+  "pendingCount": 439,
+  "readyCount": 439,
   "awaitingContentCount": 0,
   "excludedContentCount": 61,
   "items": [
+    {
+      "id": "d157d44fcc34c8e2c13d0271c9894bd6",
+      "title": "Virtual Cells: Four Paths To A Digital Revolution In Drug Discovery | Xaira Therapeutics",
+      "url": "https://www.xaira.com/news/virtual-cells-four-paths-to-a-digital-revolution-in-drug-discovery",
+      "publishedAt": null,
+      "crawledAt": "2026-10-18T20:52:29.616Z",
+      "contentStatus": "ready",
+      "contentHash": "144645dae8ad6080f3ce4a2377524d0c449fb91aca4f61101d0d6255efaf9909",
+      "rawPath": "data/raw/d157d44fcc34c8e2c13d0271c9894bd6.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "144ef57520bb78524320020bc9136230",
+      "title": "Up and down the ladder: The latest comings and goings | Xaira Therapeutics",
+      "url": "https://www.xaira.com/news/up-and-down-the-ladder-the-latest-comings-and-goings",
+      "publishedAt": null,
+      "crawledAt": "2026-10-18T20:52:29.575Z",
+      "contentStatus": "ready",
+      "contentHash": "144645dae8ad6080f3ce4a2377524d0c449fb91aca4f61101d0d6255efaf9909",
+      "rawPath": "data/raw/144ef57520bb78524320020bc9136230.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "e7caacad83a26ee2c903ec81c5136072",
       "title": "【Event Report】 University of Bristol & RIKEN AIP Joint Workshop（September 22-23, 2026, UK）",
