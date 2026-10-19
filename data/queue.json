@@ -1,11 +1,44 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-18T20:52:36.678Z",
-  "pendingCount": 439,
-  "readyCount": 439,
+  "updatedAt": "2026-10-19T04:55:17.476Z",
+  "pendingCount": 442,
+  "readyCount": 442,
   "awaitingContentCount": 0,
   "excludedContentCount": 61,
   "items": [
+    {
+      "id": "c04fdf94c05490bb64efba9cf86663e7",
+      "title": "2026-10-16 宁德时代联合国际可再生能源署发布《“储能+”范式》报告，共推全球储能倡议组织 了解更多",
+      "url": "https://www.catl.com/news/10322.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-19T04:52:12.517Z",
+      "contentStatus": "ready",
+      "contentHash": "6f712992d72069e32bce7e9c992ebc9c025b6bf04a451303e1123e08b004cec1",
+      "rawPath": "data/raw/c04fdf94c05490bb64efba9cf86663e7.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "2191a544d70b51a1363125f7dea6e04a",
+      "title": "我所揭示析氢界面双电层空间组织影响质子传输的微观机制",
+      "url": "https://www.dicp.ac.cn/xwdt/kyjz/202610/t20261016_8293016.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-19T04:52:08.358Z",
+      "contentStatus": "ready",
+      "contentHash": "58269ef8664d601ba22a7f85337926b5a6725af8c9ec0315391c770ee4f5c092",
+      "rawPath": "data/raw/2191a544d70b51a1363125f7dea6e04a.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "8920ac79471f4f5abb92902580ff33c5",
+      "title": "关于发布贵州省生物制造实验室 2026 年基于发酵食品生产过程二氧化碳的生物转化制备短碳链有机酸和醇项目的通知",
+      "url": "https://isynbio.siat.ac.cn/siat/isb/xwhd/zhxw/2026101517153779446/index.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-19T04:52:02.313Z",
+      "contentStatus": "ready",
+      "contentHash": "f379f552ea299a05377bf9cbbff410df56ecf5c2bc2d4934bccee364bcb7161b",
+      "rawPath": "data/raw/8920ac79471f4f5abb92902580ff33c5.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "d157d44fcc34c8e2c13d0271c9894bd6",
       "title": "Virtual Cells: Four Paths To A Digital Revolution In Drug Discovery | Xaira Therapeutics",

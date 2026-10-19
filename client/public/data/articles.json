@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "id": "c04fdf94c05490bb64efba9cf86663e7",
+      "title": "2026-10-16 宁德时代联合国际可再生能源署发布《“储能+”范式》报告，共推全球储能倡议组织 了解更多",
+      "sourceKey": "s06-05",
+      "sourceName": "宁德时代",
+      "sourceType": "研发型企业",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-19T04:52:12.517Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.catl.com/news/10322.html",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "2191a544d70b51a1363125f7dea6e04a",
+      "title": "我所揭示析氢界面双电层空间组织影响质子传输的微观机制",
+      "sourceKey": "s05-19",
+      "sourceName": "中科院大连化物所高通量实验与催化平台",
+      "sourceType": "自主实验室与平台",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-19T04:52:08.358Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.dicp.ac.cn/xwdt/kyjz/202610/t20261016_8293016.html",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "8920ac79471f4f5abb92902580ff33c5",
+      "title": "关于发布贵州省生物制造实验室 2026 年基于发酵食品生产过程二氧化碳的生物转化制备短碳链有机酸和醇项目的通知",
+      "sourceKey": "s05-10",
+      "sourceName": "深圳合成生物研究重大科技基础设施",
+      "sourceType": "自主实验室与平台",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-19T04:52:02.313Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://isynbio.siat.ac.cn/siat/isb/xwhd/zhxw/2026101517153779446/index.html",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "d157d44fcc34c8e2c13d0271c9894bd6",
       "title": "Virtual Cells: Four Paths To A Digital Revolution In Drug Discovery | Xaira Therapeutics",
       "sourceKey": "s02-08",
@@ -13503,5 +13557,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-10-18T20:52:36.678Z"
+  "updatedAt": "2026-10-19T04:55:17.476Z"
 }
