@@ -1,11 +1,44 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-19T04:55:17.476Z",
-  "pendingCount": 442,
-  "readyCount": 442,
+  "updatedAt": "2026-10-19T13:31:09.585Z",
+  "pendingCount": 445,
+  "readyCount": 445,
   "awaitingContentCount": 0,
   "excludedContentCount": 61,
   "items": [
+    {
+      "id": "b74f678291bb77f526df7d001919c9ce",
+      "title": "zycgr24041501太阳电池活性层及功能层真空蒸镀设备采购公开招标公告",
+      "url": "https://www.ccgp.gov.cn/cggg/zygg/gkzb/202610/t20261019_27520599.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-10-19T13:31:04.600Z",
+      "contentStatus": "ready",
+      "contentHash": "58011aeca0a74d87bd1ea1b182e3d7cdd988e7b9672b1852ff7bfc00a83f11d5",
+      "rawPath": "data/raw/b74f678291bb77f526df7d001919c9ce.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "68bd21135f3941ea66b5dfc992483562",
+      "title": "中国地质大学（北京）废旧物资回收商遴选项目遴选公告",
+      "url": "https://www.ccgp.gov.cn/cggg/zygg/qtgg/202610/t20261019_27520612.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-10-19T13:31:04.048Z",
+      "contentStatus": "ready",
+      "contentHash": "649df7c9dd4436f566c34c0a3e5d1e6f29738a93e834df75394a7379a9b66045",
+      "rawPath": "data/raw/68bd21135f3941ea66b5dfc992483562.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "5fb665ddf32905c1ee1884dafbd0ce78",
+      "title": "中国人民银行海南省分行滨海新村5套房简单改造工程采购项目竞争性磋商公告",
+      "url": "https://www.ccgp.gov.cn/cggg/zygg/jzxcs/202610/t20261019_27520615.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-10-19T13:31:03.494Z",
+      "contentStatus": "ready",
+      "contentHash": "b51c44e7c8b3dff73786533259e8ee54530539a61cb90f9c63d302b71130bcdb",
+      "rawPath": "data/raw/5fb665ddf32905c1ee1884dafbd0ce78.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "c04fdf94c05490bb64efba9cf86663e7",
       "title": "2026-10-16 宁德时代联合国际可再生能源署发布《“储能+”范式》报告，共推全球储能倡议组织 了解更多",

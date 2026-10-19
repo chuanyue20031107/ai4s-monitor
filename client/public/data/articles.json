@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "id": "b74f678291bb77f526df7d001919c9ce",
+      "title": "zycgr24041501太阳电池活性层及功能层真空蒸镀设备采购公开招标公告",
+      "sourceKey": "s08-07",
+      "sourceName": "中国政府采购网",
+      "sourceType": "政府采购平台",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-19T13:31:04.600Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.ccgp.gov.cn/cggg/zygg/gkzb/202610/t20261019_27520599.htm",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "68bd21135f3941ea66b5dfc992483562",
+      "title": "中国地质大学（北京）废旧物资回收商遴选项目遴选公告",
+      "sourceKey": "s08-07",
+      "sourceName": "中国政府采购网",
+      "sourceType": "政府采购平台",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-19T13:31:04.048Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.ccgp.gov.cn/cggg/zygg/qtgg/202610/t20261019_27520612.htm",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "5fb665ddf32905c1ee1884dafbd0ce78",
+      "title": "中国人民银行海南省分行滨海新村5套房简单改造工程采购项目竞争性磋商公告",
+      "sourceKey": "s08-07",
+      "sourceName": "中国政府采购网",
+      "sourceType": "政府采购平台",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-19T13:31:03.494Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.ccgp.gov.cn/cggg/zygg/jzxcs/202610/t20261019_27520615.htm",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "c04fdf94c05490bb64efba9cf86663e7",
       "title": "2026-10-16 宁德时代联合国际可再生能源署发布《“储能+”范式》报告，共推全球储能倡议组织 了解更多",
       "sourceKey": "s06-05",
@@ -13557,5 +13611,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-10-19T04:55:17.476Z"
+  "updatedAt": "2026-10-19T13:31:09.585Z"
 }
