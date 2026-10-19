@@ -1,0 +1,18 @@
+{
+  "id": "8f9d754a5735ee6356505ed02bc2b659",
+  "title": "Appendix to Does an antibody Fab need a specialist model?: Correcting for batch effects Oct 19, 2026",
+  "url": "https://www.cradle.bio/blog/fab-test-appendix",
+  "sourceKey": "s02-17",
+  "sourceName": "Cradle",
+  "sourceType": "蛋白工程软件公司",
+  "publishedAt": null,
+  "crawledAt": "2026-10-19T22:27:32.168Z",
+  "content": "This appendix accompanies Does an antibody Fab need a specialist model?, a two-round comparison of a paired-chain antibody model and a general-purpose protein language model on an anti-SARS-CoV-2 Fab. This appendix accompanies Does an antibody Fab need a specialist model? , a two-round comparison of a paired-chain antibody model and a general-purpose protein language model on an anti-SARS-CoV-2 Fab. The designs in that test were measured across several 96-well plates, split by model and by round, and each plate carries its own absolute measurement offsets. Every number reported in the post is computed after the corrections described below. Our 96-well expression and binding assays produce plate-level variation in absolute measurement values. For a single-round, single-pipeline experiment this doesn’t matter, but here we want to compare measurements across (model, round) groups that were run on different plates. We use template and control wells that appear on every plate to fit per-property corrections. Step 1: Paired-chain → Single-chain scale alignment. Round 1 was split across two plates, one per model, each with its own template controls. We fit a per-property regression (linear in log-space for Kᴅ, linear for Tm and Yield) on the overlap of sequences measured on both plates, mapping paired-chain model values onto the single-chain model scale. Round 1 paired-chain vs single-chain model measurements after scale correction. Points on the identity line (dotted) indicate well-aligned measurements. For comparison, here are the same measurements before correction, showing the systematic offset that needed to be corrected: Round 1 paired-chain vs single-chain model measurements before scale correction. The systematic offset demonstrates the need for batch effect correction. Step 2: Round 2 → Round 1 scale alignment. Variants re-measured in Round 2 that also appeared in Round 1 were used to fit a per-property shift mapping Round 2 measurements onto the Round 1 scale. As we had fewer data points overlapping between these subsets, we used a simple average-and-shift approach instead of a linear regression. Round 1 versus Round 2 measurements after shift correction. All Pareto memberships, per-property bests, and cross-correlation figures in the post are computed on the data after both corrections are applied. Subscribe and get new posts and updates from Cradle straight to your inbox. Appendix to Does an antibody Fab need a specialist model?: Correcting for batch effects A tight antibody that also passed developability: Our performance in the AIntibody Challenge Hansa Biopharma Partners with Cradle to Advance AI-Driven Protein Design and Engineering Optimizing across the entire batch is one secret to better proteins Appendix to Does an antibody Fab need a specialist model?: Correcting for batch effects A tight antibody that also passed developability: Our performance in the AIntibody Challenge You have successfully joined our subscriber list. You have successfully joined our subscriber list. You have successfully joined our subscriber list.",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-10-19T22:27:32.168Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "5307732fa5c6a7790fed6bc17f3711084f6151ded73d35bd1b74ecc0f37ab645"
+}

@@ -1,6 +1,96 @@
 {
   "items": [
     {
+      "id": "8f9d754a5735ee6356505ed02bc2b659",
+      "title": "Appendix to Does an antibody Fab need a specialist model?: Correcting for batch effects Oct 19, 2026",
+      "sourceKey": "s02-17",
+      "sourceName": "Cradle",
+      "sourceType": "蛋白工程软件公司",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-19T22:27:32.168Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.cradle.bio/blog/fab-test-appendix",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "fe2ea3df95075d52801b355d9cba0d37",
+      "title": "Does an antibody Fab need a specialist model?",
+      "sourceKey": "s02-17",
+      "sourceName": "Cradle",
+      "sourceType": "蛋白工程软件公司",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-19T22:27:32.135Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.cradle.bio/blog/fab-test",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "4c8ef27396a497dfbffdf2bb7cfc5420",
+      "title": "【Event Report】TU Darmstadt & RIKEN-AIP Joint Workshop（October 6, 2026, Darmstadt, Germany）",
+      "sourceKey": "s01-22",
+      "sourceName": "RIKEN Center for Advanced Intelligence Project",
+      "sourceType": "国家研究机构",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-19T22:27:29.988Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://aip.riken.jp/news/tu-darmstadt-riken-aip-joint-workshop/",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "0342f5196cfd318c9f364fbce47d0e77",
+      "title": "A new IBM Research specialization teaches how AI models run on modern accelerators",
+      "sourceKey": "s01-11",
+      "sourceName": "IBM Research",
+      "sourceType": "科技大厂研究机构",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-19T22:27:22.274Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://research.ibm.com/blog/coursera-dataflow-accelerator-architecture-specialization",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "f9fee1540bd2b41109142aa60122397e",
+      "title": "关于举办2026年中国药学会药物分析专业委员会学术年...",
+      "sourceKey": "s10-13",
+      "sourceName": "全国药物化学学术会议",
+      "sourceType": "专题学术会议",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-19T22:27:16.206Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.cpa.org.cn/?do=info&cid=79109",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "b74f678291bb77f526df7d001919c9ce",
       "title": "zycgr24041501太阳电池活性层及功能层真空蒸镀设备采购公开招标公告",
       "sourceKey": "s08-07",
@@ -13611,5 +13701,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-10-19T13:31:09.585Z"
+  "updatedAt": "2026-10-19T22:29:55.734Z"
 }

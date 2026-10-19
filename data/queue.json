@@ -1,11 +1,66 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-19T13:31:09.585Z",
-  "pendingCount": 445,
-  "readyCount": 445,
+  "updatedAt": "2026-10-19T22:29:55.734Z",
+  "pendingCount": 450,
+  "readyCount": 450,
   "awaitingContentCount": 0,
   "excludedContentCount": 61,
   "items": [
+    {
+      "id": "8f9d754a5735ee6356505ed02bc2b659",
+      "title": "Appendix to Does an antibody Fab need a specialist model?: Correcting for batch effects Oct 19, 2026",
+      "url": "https://www.cradle.bio/blog/fab-test-appendix",
+      "publishedAt": null,
+      "crawledAt": "2026-10-19T22:27:32.168Z",
+      "contentStatus": "ready",
+      "contentHash": "5307732fa5c6a7790fed6bc17f3711084f6151ded73d35bd1b74ecc0f37ab645",
+      "rawPath": "data/raw/8f9d754a5735ee6356505ed02bc2b659.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "fe2ea3df95075d52801b355d9cba0d37",
+      "title": "Does an antibody Fab need a specialist model?",
+      "url": "https://www.cradle.bio/blog/fab-test",
+      "publishedAt": null,
+      "crawledAt": "2026-10-19T22:27:32.135Z",
+      "contentStatus": "ready",
+      "contentHash": "c44dcb4461e6f471cc098c967f1a5e72cf62aaecacee5ebc98d4594df9879b0d",
+      "rawPath": "data/raw/fe2ea3df95075d52801b355d9cba0d37.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "4c8ef27396a497dfbffdf2bb7cfc5420",
+      "title": "【Event Report】TU Darmstadt & RIKEN-AIP Joint Workshop（October 6, 2026, Darmstadt, Germany）",
+      "url": "https://aip.riken.jp/news/tu-darmstadt-riken-aip-joint-workshop/",
+      "publishedAt": null,
+      "crawledAt": "2026-10-19T22:27:29.988Z",
+      "contentStatus": "ready",
+      "contentHash": "f0b7b9ee79c074720f55527177e732ea6c6d64e0f0db8c5776436b77e964148f",
+      "rawPath": "data/raw/4c8ef27396a497dfbffdf2bb7cfc5420.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "0342f5196cfd318c9f364fbce47d0e77",
+      "title": "A new IBM Research specialization teaches how AI models run on modern accelerators",
+      "url": "https://research.ibm.com/blog/coursera-dataflow-accelerator-architecture-specialization",
+      "publishedAt": null,
+      "crawledAt": "2026-10-19T22:27:22.274Z",
+      "contentStatus": "ready",
+      "contentHash": "f6b300f051534a192a6690f64220507d48f89af03453c40d9ae48dff72a9c64e",
+      "rawPath": "data/raw/0342f5196cfd318c9f364fbce47d0e77.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "f9fee1540bd2b41109142aa60122397e",
+      "title": "关于举办2026年中国药学会药物分析专业委员会学术年...",
+      "url": "https://www.cpa.org.cn/?do=info&cid=79109",
+      "publishedAt": null,
+      "crawledAt": "2026-10-19T22:27:16.206Z",
+      "contentStatus": "ready",
+      "contentHash": "d14820b8d96b2876bd320da72b372d28a2fd84347bd32a9f6ea01214d405dc13",
+      "rawPath": "data/raw/f9fee1540bd2b41109142aa60122397e.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "b74f678291bb77f526df7d001919c9ce",
       "title": "zycgr24041501太阳电池活性层及功能层真空蒸镀设备采购公开招标公告",
