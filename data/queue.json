@@ -1,11 +1,110 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-20T17:23:08.686Z",
-  "pendingCount": 472,
-  "readyCount": 472,
+  "updatedAt": "2026-10-20T21:50:01.244Z",
+  "pendingCount": 481,
+  "readyCount": 481,
   "awaitingContentCount": 0,
   "excludedContentCount": 61,
   "items": [
+    {
+      "id": "ca7f1ad037088a5b39497ad4ff42cddb",
+      "title": "龙岩消防救援机动支队2026年度车辆保险购置服务项目（二次）流标公告",
+      "url": "https://www.ccgp.gov.cn/cggg/zygg/qtgg/202610/t20261020_27529604.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-10-20T21:46:53.614Z",
+      "contentStatus": "ready",
+      "contentHash": "9dd15b0184d82850c2ed1e1191d6e2a9e56b15b05e19eacd8c0805523b61907c",
+      "rawPath": "data/raw/ca7f1ad037088a5b39497ad4ff42cddb.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "9d443a661ddae4d0f814d2ed7aead3b0",
+      "title": "中华人民共和国江门出入境边防检查站机关楼网络线路升级改造项目简易采购公告",
+      "url": "https://www.ccgp.gov.cn/cggg/zygg/qtgg/202610/t20261020_27529620.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-10-20T21:46:53.139Z",
+      "contentStatus": "ready",
+      "contentHash": "30c41acaf8c1528935593f90799d546f23537220989c61826672aaa4331dfc63",
+      "rawPath": "data/raw/9d443a661ddae4d0f814d2ed7aead3b0.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "4bd8def1b5a50f0b1e116b95116e8cee",
+      "title": "中国科学院上海微系统与信息技术研究所晶圆激光解键合机中标公告更正公告",
+      "url": "https://www.ccgp.gov.cn/cggg/zygg/gzgg/202610/t20261020_27529615.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-10-20T21:46:52.365Z",
+      "contentStatus": "ready",
+      "contentHash": "0f0aaeb9e344da385ab948e212b9a2c5510c6207b824e8336703707da090d2d2",
+      "rawPath": "data/raw/4bd8def1b5a50f0b1e116b95116e8cee.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "645930b7e1025bcee59ff7650c7c1e31",
+      "title": "研究解析自支撑钌酸锶薄膜超快退磁与热输运的解耦机制",
+      "url": "https://www.cas.cn/syky/202610/t20261019_5122467.shtml",
+      "publishedAt": null,
+      "crawledAt": "2026-10-20T21:46:46.691Z",
+      "contentStatus": "ready",
+      "contentHash": "d8eb7add0e63d2f7bf34ed4bd3d1bd228b86848313f9f06609accb5fdc713637",
+      "rawPath": "data/raw/645930b7e1025bcee59ff7650c7c1e31.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "1acb2ca3bba950dc4d330cb26e10364f",
+      "title": "生成式人工智能赋能原子力显微超分辨成像研究取得进展",
+      "url": "https://www.cas.cn/syky/202609/t20260929_5121183.shtml",
+      "publishedAt": null,
+      "crawledAt": "2026-10-20T21:46:46.364Z",
+      "contentStatus": "ready",
+      "contentHash": "d4391923de3802824dbb9d1a70d89c3a1b65b441d6c9dbd517ba1768dcae8051",
+      "rawPath": "data/raw/1acb2ca3bba950dc4d330cb26e10364f.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "845b2d39990b12eaefbf6c0d966cbd2a",
+      "title": "研究揭示高风速降低生态系统水分利用效率作用路径",
+      "url": "https://www.cas.cn/syky/202610/t20261019_5122469.shtml",
+      "publishedAt": null,
+      "crawledAt": "2026-10-20T21:46:45.786Z",
+      "contentStatus": "ready",
+      "contentHash": "c34475bd34553bd8c1318c39dd028f7100535b1439e7d7b78fe7d9cd8b536b56",
+      "rawPath": "data/raw/845b2d39990b12eaefbf6c0d966cbd2a.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "f54827d005432901c48db661e662af45",
+      "title": "PDB's Emerald Anniversary",
+      "url": "https://www.rcsb.org/news/feature/6ace613b4ec37840b7ddf62b",
+      "publishedAt": null,
+      "crawledAt": "2026-10-20T21:46:35.390Z",
+      "contentStatus": "ready",
+      "contentHash": "3765f9753170b1ec00ed5ec2d85ec2b48e5c4f14a891ceb12a5fd53f1cfbffa2",
+      "rawPath": "data/raw/f54827d005432901c48db661e662af45.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "6a6392b4c0223d95f664497f73222fbd",
+      "title": "药明康德荣膺弗若斯特沙利文“2026全球CRDMO年度公司奖” 上海，2026年10月20日 — 药明康德今日宣布，公司荣获全球增长咨询机构弗若斯特沙利文（Frost & Sullivan）颁发的“2026全球CRDMO年度公司奖”。这是药明康德连续第十年获得该机构的认可。 阅读更多",
+      "url": "https://www.wuxiapptec.cn/news/wuxi-news/fcjl98dq7fc4ocs8xv02g3xw",
+      "publishedAt": null,
+      "crawledAt": "2026-10-20T21:43:52.305Z",
+      "contentStatus": "ready",
+      "contentHash": "792a92874fd2c06dea1176d103b470eb721c946fbbf870fd12081c18d1534f4c",
+      "rawPath": "data/raw/6a6392b4c0223d95f664497f73222fbd.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "f4b75b32eb9c0e22ddfe6aa4d5f1150d",
+      "title": "2026-10-19 淮河能源与宁德时代签署战略合作协议 了解更多",
+      "url": "https://www.catl.com/news/10323.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-20T21:43:50.550Z",
+      "contentStatus": "ready",
+      "contentHash": "8f86a44a9085d9ac3b0846e5ea608bc7bb39ca70631ef46728e99ff5f8a2c8a3",
+      "rawPath": "data/raw/f4b75b32eb9c0e22ddfe6aa4d5f1150d.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "441feece76e0a2aae6d88eef94c36c71",
       "title": "我所应邀发表单原子催化研究评述文章",
