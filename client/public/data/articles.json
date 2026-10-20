@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "id": "3220ff0a88f367c518fec20101a55ab0",
+      "title": "Why VC legend Bob Nelsen is making the biggest initial bet of his 37-year career on Xaira | Xaira Therapeutics",
+      "sourceKey": "s02-08",
+      "sourceName": "Xaira Therapeutics",
+      "sourceType": "AI药物公司",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-20T11:48:59.486Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.xaira.com/news/why-vc-legend-bob-nelsen-is-making-the-biggest-initial-bet-of-his-37-year-career-on-xaira",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "b55520ee60c6e780fe1c2b876bfbe9e7",
+      "title": "What David Baker’s AI biotech unicorn Xaira has been up to | Xaira Therapeutics",
+      "sourceKey": "s02-08",
+      "sourceName": "Xaira Therapeutics",
+      "sourceType": "AI药物公司",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-20T11:48:59.451Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.xaira.com/news/what-david-bakers-ai-biotech-unicorn-xaira-has-been-up-to",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "71e8c5c4543282bd250d281f9acb2f90",
+      "title": "How Chemical Engineers Are Tackling Climate Change at the 2026 Annual Meeting",
+      "sourceKey": "s11-17",
+      "sourceName": "AIChE Annual Meeting",
+      "sourceType": "国际学术会议",
+      "category": "",
+      "publishedAt": "2026-10-19T16:03:04.000Z",
+      "crawledAt": "2026-10-20T11:48:48.866Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.aiche.org/how-chemical-engineers-are-tackling-climate-change-2026-annual-meeting",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "7270d7ab677d0cc7fba13e3387e2c656",
       "title": "聚势鹏城，硕果盈枝，2026 CPHI深圳展圆满收官！",
       "sourceKey": "s10-16",
@@ -13863,5 +13917,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-10-20T05:05:46.621Z"
+  "updatedAt": "2026-10-20T11:51:25.127Z"
 }

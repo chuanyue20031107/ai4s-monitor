@@ -1,11 +1,33 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-20T05:05:46.621Z",
-  "pendingCount": 459,
-  "readyCount": 459,
+  "updatedAt": "2026-10-20T11:51:25.127Z",
+  "pendingCount": 462,
+  "readyCount": 462,
   "awaitingContentCount": 0,
   "excludedContentCount": 61,
   "items": [
+    {
+      "id": "3220ff0a88f367c518fec20101a55ab0",
+      "title": "Why VC legend Bob Nelsen is making the biggest initial bet of his 37-year career on Xaira | Xaira Therapeutics",
+      "url": "https://www.xaira.com/news/why-vc-legend-bob-nelsen-is-making-the-biggest-initial-bet-of-his-37-year-career-on-xaira",
+      "publishedAt": null,
+      "crawledAt": "2026-10-20T11:48:59.486Z",
+      "contentStatus": "ready",
+      "contentHash": "144645dae8ad6080f3ce4a2377524d0c449fb91aca4f61101d0d6255efaf9909",
+      "rawPath": "data/raw/3220ff0a88f367c518fec20101a55ab0.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "b55520ee60c6e780fe1c2b876bfbe9e7",
+      "title": "What David Baker’s AI biotech unicorn Xaira has been up to | Xaira Therapeutics",
+      "url": "https://www.xaira.com/news/what-david-bakers-ai-biotech-unicorn-xaira-has-been-up-to",
+      "publishedAt": null,
+      "crawledAt": "2026-10-20T11:48:59.451Z",
+      "contentStatus": "ready",
+      "contentHash": "144645dae8ad6080f3ce4a2377524d0c449fb91aca4f61101d0d6255efaf9909",
+      "rawPath": "data/raw/b55520ee60c6e780fe1c2b876bfbe9e7.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "06766ca872af417ac8b42f7d564542f4",
       "title": "昆明市疾病预防控制中心2026年重大公共卫生服务补助资金艾滋病梅毒乙肝丙肝等相关诊断试剂采购项目公开招标公告",
@@ -147,6 +169,17 @@
       "contentStatus": "ready",
       "contentHash": "d14820b8d96b2876bd320da72b372d28a2fd84347bd32a9f6ea01214d405dc13",
       "rawPath": "data/raw/f9fee1540bd2b41109142aa60122397e.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "71e8c5c4543282bd250d281f9acb2f90",
+      "title": "How Chemical Engineers Are Tackling Climate Change at the 2026 Annual Meeting",
+      "url": "https://www.aiche.org/how-chemical-engineers-are-tackling-climate-change-2026-annual-meeting",
+      "publishedAt": "2026-10-19T16:03:04.000Z",
+      "crawledAt": "2026-10-20T11:48:48.866Z",
+      "contentStatus": "ready",
+      "contentHash": "3da518c3f73cf1a75a4e52554e9f8b7ba870aad418b1ca0faaddb84f542b4cf1",
+      "rawPath": "data/raw/71e8c5c4543282bd250d281f9acb2f90.json",
       "lastAnalysisStatus": "pending"
     },
     {
