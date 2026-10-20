@@ -1,0 +1,18 @@
+{
+  "id": "475f0516d3809c3f67f609099e0534f5",
+  "title": "查看全部 >",
+  "url": "https://www.minimax.cn/blog",
+  "sourceKey": "s03-10",
+  "sourceName": "MiniMax",
+  "sourceType": "通用模型厂商",
+  "publishedAt": null,
+  "crawledAt": "2026-10-20T05:00:09.212Z",
+  "content": "今天，我们正式更新 MiniMax M3.1 Flash。作为新一代 Flash 模型，M3.1 Flash 在 Agentic 任务、编程、Computer Use 及网络安全能力等方面实现了代际的提升，同时线上推理速度提升了近 3 倍，使用成本降低了 70%。",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-10-20T05:00:09.212Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "04628006d5b365cd76d34e8e2c103ff02dd3efbbfabd118eda6d1f078b58c182"
+}

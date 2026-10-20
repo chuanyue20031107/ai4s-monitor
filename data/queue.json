@@ -1,11 +1,99 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-19T22:29:55.734Z",
-  "pendingCount": 450,
-  "readyCount": 450,
+  "updatedAt": "2026-10-20T05:05:46.621Z",
+  "pendingCount": 459,
+  "readyCount": 459,
   "awaitingContentCount": 0,
   "excludedContentCount": 61,
   "items": [
+    {
+      "id": "06766ca872af417ac8b42f7d564542f4",
+      "title": "昆明市疾病预防控制中心2026年重大公共卫生服务补助资金艾滋病梅毒乙肝丙肝等相关诊断试剂采购项目公开招标公告",
+      "url": "https://www.caclp.com/article/?detail_14416.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-20T05:03:12.792Z",
+      "contentStatus": "ready",
+      "contentHash": "00205c0e409c16c73b8dd281b5d92a54c3c73152b0de5c0f7ec393391f00d0f0",
+      "rawPath": "data/raw/06766ca872af417ac8b42f7d564542f4.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "4df24e14edf66a58ff7e2d2a056b38b1",
+      "title": "三甲院长，任省卫健委书记！",
+      "url": "https://www.caclp.com/article/?detail_14417.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-20T05:03:11.507Z",
+      "contentStatus": "ready",
+      "contentHash": "2dab2f8d2553e0613c19e33e79d823f6ba7f185f98d590395358f47db24cb0a1",
+      "rawPath": "data/raw/4df24e14edf66a58ff7e2d2a056b38b1.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "7ff299f5fd627a14287538ac3aaddfc9",
+      "title": "上海伯杰“纤溶酶-α2纤溶酶抑制剂复合物（PIC）测定试剂盒（化学发光免疫分析法）”已获批！",
+      "url": "https://www.caclp.com/article/?detail_14418.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-20T05:03:10.450Z",
+      "contentStatus": "ready",
+      "contentHash": "84c9069929747aac0ad2f7d311904b175d72a526f6618a1c6003965e2c285527",
+      "rawPath": "data/raw/7ff299f5fd627a14287538ac3aaddfc9.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "fadcb97c7050be6fb0e9329a06bb2d71",
+      "title": "标准赋能绿色转型 共促可持续发展 ---2026年合肥市“世界标准日”主题纪念活动在国轩高科成功举行 2026-10-20 2026-10-20",
+      "url": "https://www.gotion.com.cn/newsInfo/993",
+      "publishedAt": null,
+      "crawledAt": "2026-10-20T05:02:50.208Z",
+      "contentStatus": "ready",
+      "contentHash": "880c37d610fc38c8dc5e4ab8aef523d2a9da4106395210d132d73ea444654b5c",
+      "rawPath": "data/raw/fadcb97c7050be6fb0e9329a06bb2d71.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "72c41404dcfdaa5683bdbe7344336217",
+      "title": "整车减重400公斤！国轩高科推出新一代 CTB 后背集成式重卡产品 2026-10-20 2026-10-20",
+      "url": "https://www.gotion.com.cn/newsInfo/994",
+      "publishedAt": null,
+      "crawledAt": "2026-10-20T05:02:49.943Z",
+      "contentStatus": "ready",
+      "contentHash": "5612ca0c486e84dc3f69447dae33eccb7c3a267153a9b4a9036d6ebb3b7b8559",
+      "rawPath": "data/raw/72c41404dcfdaa5683bdbe7344336217.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "a6a687c4cd049266e8962b6f3891bd05",
+      "title": "国产核酸质谱，走进国家级科研机构 2026-10-20",
+      "url": "https://www.fpi-inc.com/news_cont_48348.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-20T05:00:10.350Z",
+      "contentStatus": "ready",
+      "contentHash": "4794cc175c2b5e7c1a5c312e506b115057e266f18ef7a6e074b4afd8f8755fae",
+      "rawPath": "data/raw/a6a687c4cd049266e8962b6f3891bd05.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "475f0516d3809c3f67f609099e0534f5",
+      "title": "查看全部 >",
+      "url": "https://www.minimax.cn/blog",
+      "publishedAt": null,
+      "crawledAt": "2026-10-20T05:00:09.212Z",
+      "contentStatus": "ready",
+      "contentHash": "04628006d5b365cd76d34e8e2c103ff02dd3efbbfabd118eda6d1f078b58c182",
+      "rawPath": "data/raw/475f0516d3809c3f67f609099e0534f5.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "52a6db02c82060ba97fa51f9debda0db",
+      "title": "MiniMax M3.1 Flash",
+      "url": "https://www.minimax.cn/blog/minimax-m31f",
+      "publishedAt": null,
+      "crawledAt": "2026-10-20T05:00:08.720Z",
+      "contentStatus": "ready",
+      "contentHash": "95b7c749b9abb3abf7bc90dcf85b76fcfd151440f47836af91373bb0e3d593e1",
+      "rawPath": "data/raw/52a6db02c82060ba97fa51f9debda0db.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "8f9d754a5735ee6356505ed02bc2b659",
       "title": "Appendix to Does an antibody Fab need a specialist model?: Correcting for batch effects Oct 19, 2026",
@@ -125,6 +213,17 @@
       "contentStatus": "ready",
       "contentHash": "f379f552ea299a05377bf9cbbff410df56ecf5c2bc2d4934bccee364bcb7161b",
       "rawPath": "data/raw/8920ac79471f4f5abb92902580ff33c5.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "7270d7ab677d0cc7fba13e3387e2c656",
+      "title": "聚势鹏城，硕果盈枝，2026 CPHI深圳展圆满收官！",
+      "url": "https://www.cphi-china.cn/industrynews/99316/",
+      "publishedAt": "2026-10-19T01:20:40.000Z",
+      "crawledAt": "2026-10-20T05:03:16.097Z",
+      "contentStatus": "ready",
+      "contentHash": "7e3050568bc86f6d8047e009ec140660b2a51f63e0852c6b719643c09e94faf6",
+      "rawPath": "data/raw/7270d7ab677d0cc7fba13e3387e2c656.json",
       "lastAnalysisStatus": "pending"
     },
     {
