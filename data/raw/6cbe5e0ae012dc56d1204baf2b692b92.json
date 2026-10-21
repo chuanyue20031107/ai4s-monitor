@@ -1,0 +1,18 @@
+{
+  "id": "6cbe5e0ae012dc56d1204baf2b692b92",
+  "title": "› Materials History",
+  "url": "https://citrine.io/solution/data/materials-history/",
+  "sourceKey": "s02-15",
+  "sourceName": "Citrine Informatics",
+  "sourceType": "材料信息学公司",
+  "publishedAt": null,
+  "crawledAt": "2026-10-21T21:49:08.429Z",
+  "content": "Home | Solution | Data | Materials History Data Materials History An interactive window into your products. Trace every ingredient, process step, and property relationship from raw material to final output. Representing the Full Complexity The Citrine Platform was built by materials scientists who understand that composition, processing, structure, and properties are deeply interconnected, and that AI learns best when those connections are preserved. Raw Materials Capture starting compositions and supplier-level attributes with full traceability. Intermediates Track every transformation step, preserving the processing context that shapes performance. Final Products Link end-use properties back to upstream decisions. Every material — whether a raw input, an intermediate, or a finished product — is stored with its complete materials and processing history , giving AI models the richest possible context to learn from. Visualizing it to Make it Simple Complex materials relationships are surfaced through intuitive, interactive diagrams that anyone on your team can explore — from seasoned researchers to engineers joining the project for the first time. “You’re essentially institutionalizing the knowledge that you are generating in a way that can be easily accessed and used by your next generation of scientists or formulators coming in to the team.” — David Cranfill, Director of Innovation and Technology, Huntsman Polyurethanes",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-10-21T21:49:08.429Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "bfaaf00393b5f3c5ddc0e16639ca77e56dbbaf0a83b797a16cfb0721794b19b9"
+}

@@ -1,11 +1,88 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-21T17:20:09.546Z",
-  "pendingCount": 495,
-  "readyCount": 495,
+  "updatedAt": "2026-10-21T21:52:41.919Z",
+  "pendingCount": 502,
+  "readyCount": 502,
   "awaitingContentCount": 0,
   "excludedContentCount": 59,
   "items": [
+    {
+      "id": "4f7f37d582a6e5f6e98a03c959db9a66",
+      "title": "2026/11 06 RNA-guided DNA integration for therapeutic genome and microbiome engineering 2026年11月6日 09:30-11:30 Samuel Sternberg 教授 卫光生命科学园1A座1925会议室 了解详情",
+      "url": "https://www.szbl.ac.cn/info/1017/10615.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-10-21T21:49:48.380Z",
+      "contentStatus": "ready",
+      "contentHash": "5026675a93d84fc0d99393eeb0dbd1892c75769e4deebeeed140e71d6f866fa7",
+      "rawPath": "data/raw/4f7f37d582a6e5f6e98a03c959db9a66.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "6d318a2b91916c96b1b78aaf3befdc3e",
+      "title": "关于做好2026年度管理服务类教师奖申报评选...",
+      "url": "https://www.ustc.edu.cn/info/1364/25917.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-10-21T21:49:27.186Z",
+      "contentStatus": "ready",
+      "contentHash": "60f65f3ae91543392a18e5711a238a86c807856571ead6fd0ffd96fa492ac408",
+      "rawPath": "data/raw/6d318a2b91916c96b1b78aaf3befdc3e.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "3837dad15db554428c2050118a17a05d",
+      "title": "关于启动2028年度学校维修改造项目预算申报...",
+      "url": "https://www.ustc.edu.cn/info/1364/25930.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-10-21T21:49:26.751Z",
+      "contentStatus": "ready",
+      "contentHash": "24055dff7fe06fafeb85bf8a685b2d8a2418eb7c44e708cac6a05b54285db59d",
+      "rawPath": "data/raw/3837dad15db554428c2050118a17a05d.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "d57b3b32a9eca741bb9c00bd90ea3a7a",
+      "title": "明“职”笃行——2026年选调生经验分享会顺利举办",
+      "url": "http://news.ustc.edu.cn/info/1055/96649.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-10-21T21:49:24.774Z",
+      "contentStatus": "ready",
+      "contentHash": "a8cd4aa0312d486514ce44609cba8ce732b34b0c49b67b755abc90d420d61f09",
+      "rawPath": "data/raw/d57b3b32a9eca741bb9c00bd90ea3a7a.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "9135d9985d705219067e4b5672a76205",
+      "title": "› Catalyst – AI workflow accelerator",
+      "url": "https://citrine.io/solution/insight/catalyst/",
+      "publishedAt": null,
+      "crawledAt": "2026-10-21T21:49:10.015Z",
+      "contentStatus": "ready",
+      "contentHash": "c138d4d09f39e5ba37d55d3b0b34f9b28250b858132f0d4fd4c4438a50610dbc",
+      "rawPath": "data/raw/9135d9985d705219067e4b5672a76205.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "9d54917e2028355ffdadc01441c8a13f",
+      "title": "Insight",
+      "url": "https://citrine.io/solution/insight/",
+      "publishedAt": null,
+      "crawledAt": "2026-10-21T21:49:09.164Z",
+      "contentStatus": "ready",
+      "contentHash": "c48f64908d588a0d2faacc15f1ffcc35a9ecb4d46408752f23fedca303875e41",
+      "rawPath": "data/raw/9d54917e2028355ffdadc01441c8a13f.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "6cbe5e0ae012dc56d1204baf2b692b92",
+      "title": "› Materials History",
+      "url": "https://citrine.io/solution/data/materials-history/",
+      "publishedAt": null,
+      "crawledAt": "2026-10-21T21:49:08.429Z",
+      "contentStatus": "ready",
+      "contentHash": "bfaaf00393b5f3c5ddc0e16639ca77e56dbbaf0a83b797a16cfb0721794b19b9",
+      "rawPath": "data/raw/6cbe5e0ae012dc56d1204baf2b692b92.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "c0eeb0eeb89aee19fcc70ce2b2363e52",
       "title": "Check out our open roles →",
