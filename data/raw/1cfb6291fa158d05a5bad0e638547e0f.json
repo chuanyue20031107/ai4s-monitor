@@ -1,0 +1,18 @@
+{
+  "id": "1cfb6291fa158d05a5bad0e638547e0f",
+  "title": "OpenAI acquires Orchestra Bio",
+  "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+  "sourceKey": "s01-14",
+  "sourceName": "OpenAI",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": "2026-10-20T00:00:00.000Z",
+  "crawledAt": "2026-10-21T04:58:54.661Z",
+  "content": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-10-21T04:58:54.661Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "3006e2562ed6d9b0ab928737199eb7df315b3d61251113325a29287808cac940"
+}

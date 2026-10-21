@@ -1,0 +1,18 @@
+{
+  "id": "e87b2a26e437b6431a2ae2dd96566e50",
+  "title": "Request for Donations: Support for Future AI Talent",
+  "url": "https://aip.riken.jp/pressrelease/donations/?lang=en",
+  "sourceKey": "s01-22",
+  "sourceName": "RIKEN Center for Advanced Intelligence Project",
+  "sourceType": "国家研究机构",
+  "publishedAt": null,
+  "crawledAt": "2026-10-21T04:58:59.917Z",
+  "content": "The project aims to comprehensively develop future researchers in AI and related fields. By encouraging and deepening exchanges among young researchers in both AI and other fields from Japan and overseas, this project will support the next generation of AI researchers and the research projects born from their unique ideas. Please refer to the website below. ・Support RIKEN on RIKEN’s external website ( https://www.riken.jp/support/ai_2/index.html ) Advanced Intelligence Project Promotion Office, RIKEN E-mail: aip-suishin@riken.jp Address: Nihonbashi 1-chome Mitsui Building, 15th floor, 1-4-1 Nihonbashi, Chuo-ku, Tokyo 103-0027, Japan Nihonbashi 1-chome Mitsui Building, 15th floor, e-mail: aip-koho [at]riken.jp *Please replace \"[at]\" with \"@\".",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-10-21T04:58:59.917Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "3f7ad5d8c8a57f5c11b20a841ede92ee7e295a8af16eb6a13e419780d2d1e1fc"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "aa8847d44cbae3328f3c5cbb65bcffcd",
+  "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+  "url": "https://openai.com/index/terminal-x",
+  "sourceKey": "s01-14",
+  "sourceName": "OpenAI",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": "2026-10-20T07:00:00.000Z",
+  "crawledAt": "2026-10-21T04:58:54.661Z",
+  "content": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-10-21T04:58:54.661Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "8a9237f408faa86dd3f2abd5ba4a34cf77ffe41fb015ddaab35035a5016e6d12"
+}

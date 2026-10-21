@@ -1,11 +1,44 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-20T21:50:01.244Z",
-  "pendingCount": 481,
-  "readyCount": 481,
+  "updatedAt": "2026-10-21T05:01:17.154Z",
+  "pendingCount": 487,
+  "readyCount": 487,
   "awaitingContentCount": 0,
   "excludedContentCount": 61,
   "items": [
+    {
+      "id": "e87b2a26e437b6431a2ae2dd96566e50",
+      "title": "Request for Donations: Support for Future AI Talent",
+      "url": "https://aip.riken.jp/pressrelease/donations/?lang=en",
+      "publishedAt": null,
+      "crawledAt": "2026-10-21T04:58:59.917Z",
+      "contentStatus": "ready",
+      "contentHash": "3f7ad5d8c8a57f5c11b20a841ede92ee7e295a8af16eb6a13e419780d2d1e1fc",
+      "rawPath": "data/raw/e87b2a26e437b6431a2ae2dd96566e50.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "da583fb23e3f66a9fa01a7f0ec8dff26",
+      "title": "llm-d 1.0 hardens open-source AI inference for day 2 production operations",
+      "url": "https://research.ibm.com/blog/llmd-1-0-is-ready-for-production-inference-serving",
+      "publishedAt": null,
+      "crawledAt": "2026-10-21T04:58:53.911Z",
+      "contentStatus": "ready",
+      "contentHash": "1afb1d56d9682f6a9eb3436dd298b1827a8b08724a6d1cfae5928af427616806",
+      "rawPath": "data/raw/da583fb23e3f66a9fa01a7f0ec8dff26.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "8a8fc81dbe3fdd49862cf5ac1c938624",
+      "title": "中国药学会关于2026年度公开招聘编外聘用人员进入面...",
+      "url": "https://www.cpa.org.cn/?do=info&cid=79113",
+      "publishedAt": null,
+      "crawledAt": "2026-10-21T04:58:49.957Z",
+      "contentStatus": "ready",
+      "contentHash": "3dacefe006ef7cd5f7575ffebefb20cdd4f3aa307b22b523a9526fc4182ef25e",
+      "rawPath": "data/raw/8a8fc81dbe3fdd49862cf5ac1c938624.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "ca7f1ad037088a5b39497ad4ff42cddb",
       "title": "龙岩消防救援机动支队2026年度车辆保险购置服务项目（二次）流标公告",
@@ -227,6 +260,28 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "1725d137aa3debc0d8ae9b76a5f8f5fc",
+      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "url": "https://openai.com/index/ted-taylor-restaurant",
+      "publishedAt": "2026-10-20T10:00:00.000Z",
+      "crawledAt": "2026-10-21T04:58:54.660Z",
+      "contentStatus": "ready",
+      "contentHash": "ef79659560ea9899919398cb126cfad5e231b632fefd72f519f5dd67414a6970",
+      "rawPath": "data/raw/1725d137aa3debc0d8ae9b76a5f8f5fc.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "aa8847d44cbae3328f3c5cbb65bcffcd",
+      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "url": "https://openai.com/index/terminal-x",
+      "publishedAt": "2026-10-20T07:00:00.000Z",
+      "crawledAt": "2026-10-21T04:58:54.661Z",
+      "contentStatus": "ready",
+      "contentHash": "8a9237f408faa86dd3f2abd5ba4a34cf77ffe41fb015ddaab35035a5016e6d12",
+      "rawPath": "data/raw/aa8847d44cbae3328f3c5cbb65bcffcd.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "06766ca872af417ac8b42f7d564542f4",
       "title": "昆明市疾病预防控制中心2026年重大公共卫生服务补助资金艾滋病梅毒乙肝丙肝等相关诊断试剂采购项目公开招标公告",
       "url": "https://www.caclp.com/article/?detail_14416.html",
@@ -312,6 +367,17 @@
       "contentStatus": "ready",
       "contentHash": "95b7c749b9abb3abf7bc90dcf85b76fcfd151440f47836af91373bb0e3d593e1",
       "rawPath": "data/raw/52a6db02c82060ba97fa51f9debda0db.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "1cfb6291fa158d05a5bad0e638547e0f",
+      "title": "OpenAI acquires Orchestra Bio",
+      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+      "publishedAt": "2026-10-20T00:00:00.000Z",
+      "crawledAt": "2026-10-21T04:58:54.661Z",
+      "contentStatus": "ready",
+      "contentHash": "3006e2562ed6d9b0ab928737199eb7df315b3d61251113325a29287808cac940",
+      "rawPath": "data/raw/1cfb6291fa158d05a5bad0e638547e0f.json",
       "lastAnalysisStatus": "pending"
     },
     {

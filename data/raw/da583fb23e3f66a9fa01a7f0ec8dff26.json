@@ -1,0 +1,18 @@
+{
+  "id": "da583fb23e3f66a9fa01a7f0ec8dff26",
+  "title": "llm-d 1.0 hardens open-source AI inference for day 2 production operations",
+  "url": "https://research.ibm.com/blog/llmd-1-0-is-ready-for-production-inference-serving",
+  "sourceKey": "s01-11",
+  "sourceName": "IBM Research",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": null,
+  "crawledAt": "2026-10-21T04:58:53.911Z",
+  "content": "A new IBM Research specialization teaches how AI models run on modern accelerators Technical note Kaoutar El Maghraoui 19 Oct 2026 AI AI Hardware Computer Science Generative AI",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-10-21T04:58:53.911Z",
+  "contentTruncated": true,
+  "contentError": "",
+  "contentHash": "1afb1d56d9682f6a9eb3436dd298b1827a8b08724a6d1cfae5928af427616806"
+}
