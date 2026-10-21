@@ -1,11 +1,33 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-21T05:01:17.154Z",
-  "pendingCount": 487,
-  "readyCount": 487,
+  "updatedAt": "2026-10-21T12:03:28.448Z",
+  "pendingCount": 489,
+  "readyCount": 489,
   "awaitingContentCount": 0,
   "excludedContentCount": 61,
   "items": [
+    {
+      "id": "dfc1825e4041e42569dc6a9b7000d5de",
+      "title": "徐州市东方人民医院阿尔茨海默病相关生物标志物检测仪器及试剂采购项目公开招标公告",
+      "url": "https://www.caclp.com/article/?detail_14412.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-21T12:01:05.867Z",
+      "contentStatus": "ready",
+      "contentHash": "0b988227e12735bcc790e0c5b3847f45c0f4b7fb742ab49d7e0b39cfcf3863af",
+      "rawPath": "data/raw/dfc1825e4041e42569dc6a9b7000d5de.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "b56e21836786a22082357e2d261f82be",
+      "title": "References to Does a Fab Antibody Need a Specialist Model?",
+      "url": "https://www.cradle.bio/blog/references-to-does-a-fab-antibody-need-a-specialist-model",
+      "publishedAt": null,
+      "crawledAt": "2026-10-21T12:00:32.218Z",
+      "contentStatus": "ready",
+      "contentHash": "029abbc9055ad406d95397f7a465375e0f16d377bce067966134079f8708b332",
+      "rawPath": "data/raw/b56e21836786a22082357e2d261f82be.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "e87b2a26e437b6431a2ae2dd96566e50",
       "title": "Request for Donations: Support for Future AI Talent",
