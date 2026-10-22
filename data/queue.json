@@ -1,11 +1,33 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-22T17:23:32.639Z",
-  "pendingCount": 525,
-  "readyCount": 525,
+  "updatedAt": "2026-10-22T21:46:42.738Z",
+  "pendingCount": 529,
+  "readyCount": 529,
   "awaitingContentCount": 0,
   "excludedContentCount": 59,
   "items": [
+    {
+      "id": "b5605eab71a268183b75049642058e22",
+      "title": "Generate:Biomedicines Grows Leadership Team with Head of Vaccines and Infectious Disease Research and Senior Vice President of Technical Operations | Generate:Biomedicines",
+      "url": "https://generatebiomedicines.com/news-releases/generate-biomedicines-grows-leadership-team-with-head-of-vaccines-and-infectious-disease-research-and-senior-vice-president-of-technical-operations/",
+      "publishedAt": null,
+      "crawledAt": "2026-10-22T21:44:18.618Z",
+      "contentStatus": "ready",
+      "contentHash": "138ebe2591e481876972a9a32c2cbc2bbd845b9b68aee122dc4e46268d703d2e",
+      "rawPath": "data/raw/b5605eab71a268183b75049642058e22.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "8f9f9abda4717846cc67ecc20977c088",
+      "title": "Generate Biomedicines to Participate in November Investor Conferences | Generate:Biomedicines",
+      "url": "https://generatebiomedicines.com/news-releases/generate-biomedicines-to-participate-in-november-investor-conferences/",
+      "publishedAt": null,
+      "crawledAt": "2026-10-22T21:44:18.285Z",
+      "contentStatus": "ready",
+      "contentHash": "9861b5019f830cbb53cf4bb86a621c901b760a18a27a63483465a8eb7af8cf9b",
+      "rawPath": "data/raw/8f9f9abda4717846cc67ecc20977c088.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "03dff935b342538b3eba9a834e3b0d22",
       "title": "AI走进产业现场，为什么离不开科学仪器？ 2026-10-22",
@@ -48,6 +70,17 @@
       "contentStatus": "ready",
       "contentHash": "3405dc491c98042d6b5f0256dfb9d5fe019c4af74539fd8d5beabd1580ee3f11",
       "rawPath": "data/raw/6d951911e0bdec3631adf7c8367d52f0.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "db007afeffa315bee0761498c7f31884",
+      "title": "Flint-interactive: A language for creating interactive data visualizations",
+      "url": "https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/",
+      "publishedAt": "2026-10-22T16:00:00.000Z",
+      "crawledAt": "2026-10-22T21:44:12.117Z",
+      "contentStatus": "ready",
+      "contentHash": "40b5348ae2c9326b4a8713d69136c24942578edbc1a8ff576e6f4be2ca07ffbb",
+      "rawPath": "data/raw/db007afeffa315bee0761498c7f31884.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -345,6 +378,17 @@
       "contentStatus": "ready",
       "contentHash": "865e912bc9c650f5ca84e38459da4bf70566292d515a7a2bb4acc90fa4f3eace",
       "rawPath": "data/raw/c78605d766b3ef1a1250ba9e3db5f6ba.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "3c49840060f9f5671c306e7e9713005d",
+      "title": "Dr. Ruilan Guo Named AIChE’s 2026 Industrial Gases Technology Award Recipient",
+      "url": "https://www.aiche.org/dr-ruilan-guo-named-aiches-2026-industrial-gases-technology-award-recipient",
+      "publishedAt": "2026-10-21T17:03:11.000Z",
+      "crawledAt": "2026-10-22T21:44:07.335Z",
+      "contentStatus": "ready",
+      "contentHash": "b8de83ac65d3d281c335c2b1dc1777a16ae00ce20b552a1b319fcad6728eef76",
+      "rawPath": "data/raw/3c49840060f9f5671c306e7e9713005d.json",
       "lastAnalysisStatus": "pending"
     },
     {
