@@ -1,0 +1,18 @@
+{
+  "id": "68204ae0ce2a97440b61df0a80565f8d",
+  "title": "Toward fast AI interpretability and control",
+  "url": "https://research.ibm.com/blog/fast-interpretability-plugin-vllm",
+  "sourceKey": "s01-11",
+  "sourceName": "IBM Research",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": null,
+  "crawledAt": "2026-10-22T12:03:10.857Z",
+  "content": "llm-d 1.0 hardens open-source AI inference for day 2 production operations Release Peter Hess 20 Oct 2026 AI AI for Code Generative AI Open Source",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-10-22T12:03:10.857Z",
+  "contentTruncated": true,
+  "contentError": "",
+  "contentHash": "db8a2227f920afdd42fc5dc4b037cde863671638fdd2112f5e2cda55388dc940"
+}

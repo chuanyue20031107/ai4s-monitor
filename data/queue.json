@@ -1,11 +1,66 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-22T05:02:07.287Z",
-  "pendingCount": 513,
-  "readyCount": 513,
+  "updatedAt": "2026-10-22T12:05:34.131Z",
+  "pendingCount": 521,
+  "readyCount": 521,
   "awaitingContentCount": 0,
   "excludedContentCount": 59,
   "items": [
+    {
+      "id": "a4f6620ab2ac25852b255af6c64e98ea",
+      "title": "Read more",
+      "url": "https://www.sanger.ac.uk/news_item/wimpole-estate-buzzes-with-life-as-sanger-scientists-help-record-over-5000-species/",
+      "publishedAt": null,
+      "crawledAt": "2026-10-22T12:03:14.817Z",
+      "contentStatus": "ready",
+      "contentHash": "56448d85bd2a3c535839f5af5992db02124130a767e7c25d41ea85a7c1dba4ef",
+      "rawPath": "data/raw/a4f6620ab2ac25852b255af6c64e98ea.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "68204ae0ce2a97440b61df0a80565f8d",
+      "title": "Toward fast AI interpretability and control",
+      "url": "https://research.ibm.com/blog/fast-interpretability-plugin-vllm",
+      "publishedAt": null,
+      "crawledAt": "2026-10-22T12:03:10.857Z",
+      "contentStatus": "ready",
+      "contentHash": "db8a2227f920afdd42fc5dc4b037cde863671638fdd2112f5e2cda55388dc940",
+      "rawPath": "data/raw/68204ae0ce2a97440b61df0a80565f8d.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "904eb6186417750f9016ab0564c19d9d",
+      "title": "习近平在内蒙古乌兰察布考察时强调 统筹高质量发展和高水平保护 坚定不移走生态优先绿色发展之路 新华社内蒙古乌兰察布10月16日电 中共中央总书记、国家主席、中央军委主席习近平16日在内蒙古自治区乌兰察布市考察时强调，绿色发展是高质量发展的应有之义，要统筹高质量发展和高水平保护，坚持山水林田湖草沙一体化保护和系统治理，协同推进降碳、减污、扩绿、增长，坚定不移走生态优先、绿色",
+      "url": "https://www.caai.cn/site/content/11463.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-22T12:03:02.775Z",
+      "contentStatus": "ready",
+      "contentHash": "1080eb6773c27999a694d20ce82be4750d24e3e1d75b85fb6fb3f0f62c322187",
+      "rawPath": "data/raw/904eb6186417750f9016ab0564c19d9d.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "54f286d547c81d51a239f22eaffe3cf3",
+      "title": "• 科学教育校园行系列活动（第九期）走进武汉中小学 2026-10-13",
+      "url": "https://www.caai.cn/site/content/11442.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-22T12:03:02.446Z",
+      "contentStatus": "ready",
+      "contentHash": "e4554d38c3f3d0b9a38e995730629031242e831ba7200fcf2f66cf3790efc9de",
+      "rawPath": "data/raw/54f286d547c81d51a239f22eaffe3cf3.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "85d71806a3527f85204604f5898552bf",
+      "title": "2026物理AI与世界模型大会开幕 10月20日，以“建模物理世界 智启美好未来”为主题的2026物理AI与世界模型大会在南京开幕。省长刘小涛出席大会并致辞。国家数据局副局长夏冰，世界数据组织理事长谭铁牛，中国人工智能学会理事长戴琼海致辞。刘小涛说，物理AI与世界模型的探索是人工智能技术向客观真实世界延伸、向系统化认知升级、向实体场景落地演进的重要方向，江苏将着力拓展场景应用、集聚创新人才、夯实算力底座、优化产业生态、营造优良环境，",
+      "url": "https://www.caai.cn/site/content/11474.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-22T12:03:01.838Z",
+      "contentStatus": "ready",
+      "contentHash": "0e26892a818af5376121786aabd95fd6ea9d933f21066cc8076b7709fd0485a5",
+      "rawPath": "data/raw/85d71806a3527f85204604f5898552bf.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "d68cc6e609990d2daa2023a40ab95a28",
       "title": "中国极地研究中心（中国极地研究所）南极中山站机场工程初步设计中标公告",
@@ -205,6 +260,17 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "3f1a11956436b167380065dcbfb11acf",
+      "title": "Broad access through consistent standards",
+      "url": "https://openai.com/index/broad-access-through-consistent-standards",
+      "publishedAt": "2026-10-21T21:00:00.000Z",
+      "crawledAt": "2026-10-22T12:03:12.383Z",
+      "contentStatus": "ready",
+      "contentHash": "38778e26f8c935f631d92adb15f7d0fdca99fbb1a7b82119ad15359ca8cac840",
+      "rawPath": "data/raw/3f1a11956436b167380065dcbfb11acf.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "c0eeb0eeb89aee19fcc70ce2b2363e52",
       "title": "Check out our open roles →",
       "url": "https://www.lila.ai/open-roles",
@@ -238,6 +304,17 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "39cad894cdd240fbe2dba606200e5472",
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "url": "https://openai.com/index/att-legal",
+      "publishedAt": "2026-10-21T17:00:00.000Z",
+      "crawledAt": "2026-10-22T12:03:12.383Z",
+      "contentStatus": "ready",
+      "contentHash": "cdb1f58bcbc6981aa685f3d301e1500d122a21b9f439ace0b50d7a3379094efe",
+      "rawPath": "data/raw/39cad894cdd240fbe2dba606200e5472.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "f5a67a23b0dd5c70b4db35e5f8f70dda",
       "title": "Solving a 31-year-old grand challenge in mathematics – the KLS conjecture",
       "url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/",
@@ -268,6 +345,17 @@
       "contentStatus": "ready",
       "contentHash": "029abbc9055ad406d95397f7a465375e0f16d377bce067966134079f8708b332",
       "rawPath": "data/raw/b56e21836786a22082357e2d261f82be.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "95dedf578de78f3ec264f66e37a7c309",
+      "title": "OpenAI models are coming to Google Cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "publishedAt": "2026-10-21T12:00:00.000Z",
+      "crawledAt": "2026-10-22T12:03:12.383Z",
+      "contentStatus": "ready",
+      "contentHash": "9b12f5bcdc9230c49a50baae037dbb81e606ae036219b6db7cfeeb6c6c4dff82",
+      "rawPath": "data/raw/95dedf578de78f3ec264f66e37a7c309.json",
       "lastAnalysisStatus": "pending"
     },
     {
