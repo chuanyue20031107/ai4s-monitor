@@ -1,11 +1,88 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-22T21:46:42.738Z",
-  "pendingCount": 529,
-  "readyCount": 529,
+  "updatedAt": "2026-10-23T05:04:26.453Z",
+  "pendingCount": 536,
+  "readyCount": 536,
   "awaitingContentCount": 0,
-  "excludedContentCount": 59,
+  "excludedContentCount": 57,
   "items": [
+    {
+      "id": "e3cf5d0b1905312fd011f3e509fa67ff",
+      "title": "关于2026年度教育部哲学社会科学研究重大课...",
+      "url": "https://www.ustc.edu.cn/tzggcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1361&wbnewsid=25931",
+      "publishedAt": null,
+      "crawledAt": "2026-10-23T05:01:20.215Z",
+      "contentStatus": "ready",
+      "contentHash": "63b4567cd19b90b2402eb8343336ece7d6ebde9c29cc7dd0be7a621bab08bada",
+      "rawPath": "data/raw/e3cf5d0b1905312fd011f3e509fa67ff.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "e00c4c6407045d791f6b91c73cbba2d0",
+      "title": "2026年世界粮食日和全国粮食安全宣传周主会场活动在合肥举行",
+      "url": "http://news.ustc.edu.cn/info/1055/96672.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-10-23T05:01:18.339Z",
+      "contentStatus": "ready",
+      "contentHash": "523c39cde8e72b7a86e7bb0aa4e9b59d1b714e013fbea4171ad725ae3cdb4b58",
+      "rawPath": "data/raw/e00c4c6407045d791f6b91c73cbba2d0.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "5d91649e1adb4af228ed6c5abaab631c",
+      "title": "› Articles",
+      "url": "https://citrine.io/media-type/news/",
+      "publishedAt": null,
+      "crawledAt": "2026-10-23T05:01:08.882Z",
+      "contentStatus": "ready",
+      "contentHash": "aaf45cc6d2250d8e4f551825e1238905d70fcc2ef2fad650131e168d14142a49",
+      "rawPath": "data/raw/5d91649e1adb4af228ed6c5abaab631c.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "c35fe95774975e6670d39cd36e73e797",
+      "title": "› Uncover driving forces",
+      "url": "https://citrine.io/solution/insight/uncover-driving-forces/",
+      "publishedAt": null,
+      "crawledAt": "2026-10-23T05:01:08.680Z",
+      "contentStatus": "ready",
+      "contentHash": "703cc4200b80dbdd3b3d61eb7ded83ae8ad65cd440cde136fa91dde65dafe655",
+      "rawPath": "data/raw/c35fe95774975e6670d39cd36e73e797.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "cf1ab4e05c945c6450ca64b4eb0af337",
+      "title": "› Data analysis and visualization",
+      "url": "https://citrine.io/solution/insight/data-analysis-and-visualization/",
+      "publishedAt": null,
+      "crawledAt": "2026-10-23T05:01:02.641Z",
+      "contentStatus": "ready",
+      "contentHash": "7c42a52beef7e2d6dc2685d3fc51bb94616cdee9c4434447fcb0424ded63f6ca",
+      "rawPath": "data/raw/cf1ab4e05c945c6450ca64b4eb0af337.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "716c63328b58f4535f4edf977f910d42",
+      "title": "X-Cell: Scaling Causal Perturbation Prediction Across Diverse Cellular Contexts via Diffusion Language Models | Xaira Therapeutics",
+      "url": "https://www.xaira.com/news/x-cell-scaling-causal-perturbation-prediction-across-diverse-cellular-contexts-via-diffusion-language-models",
+      "publishedAt": null,
+      "crawledAt": "2026-10-23T05:01:01.115Z",
+      "contentStatus": "ready",
+      "contentHash": "a4fa813dfa3507a59263964997b5e20f18003d797600ee9908131451e4155c0e",
+      "rawPath": "data/raw/716c63328b58f4535f4edf977f910d42.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "79a93efb8be005fcf7df94a0e252b55c",
+      "title": "X-Atlas/Orion: Xaira Therapeutics Unveils Largest Publicly Available Genome-Wide Perturb-seq Dataset to Power Next-Generation AI for Biology | Xaira Therapeutics",
+      "url": "https://www.xaira.com/news/x-atlas-orion-xaira-therapeutics-unveils-largest-publicly-available-genome-wide-perturb-seq-dataset-to-power-next-generation-ai-for-biology",
+      "publishedAt": null,
+      "crawledAt": "2026-10-23T05:01:01.038Z",
+      "contentStatus": "ready",
+      "contentHash": "9dcccc70deb6648a9d5dec67e7a63df9da38646333d2c1710eac02d9e548d52f",
+      "rawPath": "data/raw/79a93efb8be005fcf7df94a0e252b55c.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "b5605eab71a268183b75049642058e22",
       "title": "Generate:Biomedicines Grows Leadership Team with Head of Vaccines and Infectious Disease Research and Senior Vice President of Technical Operations | Generate:Biomedicines",
