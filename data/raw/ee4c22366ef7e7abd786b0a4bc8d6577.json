@@ -1,0 +1,18 @@
+{
+  "id": "ee4c22366ef7e7abd786b0a4bc8d6577",
+  "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+  "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+  "sourceKey": "s01-14",
+  "sourceName": "OpenAI",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": "2026-10-23T17:00:00.000Z",
+  "crawledAt": "2026-10-23T17:16:34.470Z",
+  "content": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-10-23T17:16:34.470Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "f1203858b890adf5adc2d2fb0c619c62f9ef8f07916dc1416021988a53019093"
+}

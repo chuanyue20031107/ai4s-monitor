@@ -1,11 +1,66 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-23T11:54:49.538Z",
-  "pendingCount": 544,
-  "readyCount": 544,
+  "updatedAt": "2026-10-23T17:19:03.877Z",
+  "pendingCount": 554,
+  "readyCount": 554,
   "awaitingContentCount": 0,
-  "excludedContentCount": 57,
+  "excludedContentCount": 55,
   "items": [
+    {
+      "id": "4f09881a071ae288a59f730ff01d1e00",
+      "title": "Health Data Sharing, Privacy, and Regulatory Forum (formerly GDPR Forum)",
+      "url": "https://www.ga4gh.org/news-events/health-data-sharing-privacy-and-regulatory-forum-formerly-gdpr-forum/",
+      "publishedAt": null,
+      "crawledAt": "2026-10-23T17:16:24.109Z",
+      "contentStatus": "ready",
+      "contentHash": "b449d3d58d9c6829c91cccc82dcf87d4dde33d8a09ab6b1a5e5e75163c38cfd8",
+      "rawPath": "data/raw/4f09881a071ae288a59f730ff01d1e00.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "8caf90456386c5989747a4e6058704b3",
+      "title": "中国药学会关于发布《中国药物经济学评价 指南（第2版...",
+      "url": "https://www.cpa.org.cn/?do=info&cid=79123",
+      "publishedAt": null,
+      "crawledAt": "2026-10-23T17:16:18.856Z",
+      "contentStatus": "ready",
+      "contentHash": "2aae69bec84b7288956a3d38ec0d2fb00c7296702a6c5d6db69d51c1934f3426",
+      "rawPath": "data/raw/8caf90456386c5989747a4e6058704b3.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "af1df67228875f83b0786b95203ff60a",
+      "title": "关于举办2026年中国药学会药物化学学术大会的通知（...",
+      "url": "https://www.cpa.org.cn/?do=info&cid=79124",
+      "publishedAt": null,
+      "crawledAt": "2026-10-23T17:16:18.587Z",
+      "contentStatus": "ready",
+      "contentHash": "ae35fd452d93e428a8ab879f13571b763126d06e0ebe766a95c745aeb45fde85",
+      "rawPath": "data/raw/af1df67228875f83b0786b95203ff60a.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "aa88100b97e423ee74425b2d81835f8d",
+      "title": "关于召开2026年中国药学会麻醉药物专业委员会学术年...",
+      "url": "https://www.cpa.org.cn/?do=info&cid=79127",
+      "publishedAt": null,
+      "crawledAt": "2026-10-23T17:16:18.317Z",
+      "contentStatus": "ready",
+      "contentHash": "3687fcf87788b5a2f5ff344c1f20a93630ab7360ab54bf554445b558f30dc2ac",
+      "rawPath": "data/raw/aa88100b97e423ee74425b2d81835f8d.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "ee4c22366ef7e7abd786b0a4bc8d6577",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "publishedAt": "2026-10-23T17:00:00.000Z",
+      "crawledAt": "2026-10-23T17:16:34.470Z",
+      "contentStatus": "ready",
+      "contentHash": "f1203858b890adf5adc2d2fb0c619c62f9ef8f07916dc1416021988a53019093",
+      "rawPath": "data/raw/ee4c22366ef7e7abd786b0a4bc8d6577.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "1802c7cb236e720f6b062a4dac92192d",
       "title": "科学家实现体内记忆样NK细胞诱导及抗肿瘤免疫",
@@ -169,6 +224,17 @@
       "contentStatus": "ready",
       "contentHash": "9dcccc70deb6648a9d5dec67e7a63df9da38646333d2c1710eac02d9e548d52f",
       "rawPath": "data/raw/79a93efb8be005fcf7df94a0e252b55c.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "1a543055a02f9816518cc03996b6a0ed",
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "publishedAt": "2026-10-23T00:00:00.000Z",
+      "crawledAt": "2026-10-23T17:16:34.470Z",
+      "contentStatus": "ready",
+      "contentHash": "4b90a5b89b816077a0f4b6fa7641f1a463066e94eacf383c9088461628d20e11",
+      "rawPath": "data/raw/1a543055a02f9816518cc03996b6a0ed.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -422,6 +488,17 @@
       "contentStatus": "ready",
       "contentHash": "4ba2e3c578845d0c62b50de37d2e753111e904cc3c42318824cf20be7ceba5ca",
       "rawPath": "data/raw/405b405e39fc62534e1f6b95addad968.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "5b43a3e8954cb352af3f6b591ee4744c",
+      "title": "Qiskit SDK v2.6 release summary",
+      "url": "https://research.ibm.com/blog/qiskit-2-6-release-summary",
+      "publishedAt": "2026-10-22T04:00:00.000Z",
+      "crawledAt": "2026-10-23T17:16:31.485Z",
+      "contentStatus": "ready",
+      "contentHash": "a774669a3911c4d2f8926863175de1c796975865dc29aa5b3052c8f795f19d0d",
+      "rawPath": "data/raw/5b43a3e8954cb352af3f6b591ee4744c.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -1060,6 +1137,28 @@
       "contentStatus": "ready",
       "contentHash": "d14820b8d96b2876bd320da72b372d28a2fd84347bd32a9f6ea01214d405dc13",
       "rawPath": "data/raw/f9fee1540bd2b41109142aa60122397e.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "4eef5feae4810110bc655173532ef301",
+      "title": "The University of Chicago Announces 2026 Recipients of the Pritzker Prize for AI in Science Research Excellence",
+      "url": "https://jclinic.mit.edu/2026-recipients-of-the-pritzker-prize-for-ai-in-science/",
+      "publishedAt": "2026-10-19T19:06:47.000Z",
+      "crawledAt": "2026-10-23T17:16:34.713Z",
+      "contentStatus": "ready",
+      "contentHash": "184f0350b28a2ee7b2edb21e2f04feab2e50ef2b18668ed5e8b851e59371ed7c",
+      "rawPath": "data/raw/4eef5feae4810110bc655173532ef301.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "1be9ab0f0b69c4b4ead410d530e3acbe",
+      "title": "Why teaching AI about symmetry could make prenatal diagnosis more reliable",
+      "url": "https://jclinic.mit.edu/why-teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable/",
+      "publishedAt": "2026-10-19T18:10:47.000Z",
+      "crawledAt": "2026-10-23T17:16:34.714Z",
+      "contentStatus": "ready",
+      "contentHash": "7ef5e9a1cc7a7c8556b693735df26043f5301314773222da93deaabe3f649889",
+      "rawPath": "data/raw/1be9ab0f0b69c4b4ead410d530e3acbe.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -2358,6 +2457,17 @@
       "contentStatus": "ready",
       "contentHash": "cc2bbe79bc21da6ca644610c58d582bfb27cd583f94ad655bf7c127f250bf20f",
       "rawPath": "data/raw/6f4c99243d3dd3ad25ff994bbf5f23de.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "08d29d6e97a3eb610d2ed5f33af60dab",
+      "title": "Innovative, Comprehensive, Extensive: Breast Cancer Care Continues to Advance",
+      "url": "https://jclinic.mit.edu/innovative-comprehensive-extensive-breast-cancer-care-continues-to-advance/",
+      "publishedAt": "2026-10-12T18:10:27.000Z",
+      "crawledAt": "2026-10-23T17:16:34.714Z",
+      "contentStatus": "ready",
+      "contentHash": "33c992215e75d76def735c55eebd46690b2d7ade9181a628ca333df076d8cbb7",
+      "rawPath": "data/raw/08d29d6e97a3eb610d2ed5f33af60dab.json",
       "lastAnalysisStatus": "pending"
     },
     {
