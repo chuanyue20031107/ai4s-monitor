@@ -1,0 +1,18 @@
+{
+  "id": "25ead10ebc2439c2f1bd69c3710e8c68",
+  "title": "【Event Report】RIKEN AIP and Monash University Hold Joint Hybrid Seminar on Human-Robot Interaction and Digital Health in Dementia Care",
+  "url": "https://aip.riken.jp/news/ittc_aip_2026/",
+  "sourceKey": "s01-22",
+  "sourceName": "RIKEN Center for Advanced Intelligence Project",
+  "sourceType": "国家研究机构",
+  "publishedAt": null,
+  "crawledAt": "2026-10-23T21:30:53.069Z",
+  "content": "On September 30, 2026, the RIKEN Center for Advanced Intelligence Project (RIKEN AIP) and Monash University’s ARC Training Centre for Optimal Ageing in Australia jointly held the “ITTC in Optimal Ageing and RIKEN AIP Joint Hybrid Seminar on Human-Robot Interaction and Digital Health in Dementia Care.” Japan and Australia are both experiencing rapid population ageing. The seminar introduced research and initiatives on robotics and digital technologies for dementia care and prevention from the perspectives of Human-Robot Interaction (HRI) and digital health, and aimed to deepen mutual understanding of approaches in the two countries. The seminar was held in a hybrid format. Prof. Dana Kulić, Prof. Yen Ying Lim, and Dr. Kazumi Kumagai (RIKEN AIP) took part on site at Monash University in Australia, while Team Director Mihoko Otake-Matsuura (RIKEN AIP) joined online from Japan. After a welcome address by Prof. Kulić, Prof. Lim presented on the early detection of cognitive decline using passive measurements such as smartphone sensing. Team Director Otake-Matsuura then presented cognitive behavioral assistive technology based on the Coimagination method, and Dr. Kumagai presented on how older adults behave towards robots and how robots should adapt to them. In the panel Q&A and networking session that followed, participants exchanged views and deepened the discussion. Nihonbashi 1-chome Mitsui Building, 15th floor, e-mail: aip-koho [at]riken.jp *Please replace \"[at]\" with \"@\".",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-10-23T21:30:53.069Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "0946811023e5bd2500dd4959020cb7db3f1e40b41f494e81459c34497b981195"
+}

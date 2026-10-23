@@ -1,11 +1,22 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-23T17:19:03.877Z",
-  "pendingCount": 554,
-  "readyCount": 554,
+  "updatedAt": "2026-10-23T21:31:55.189Z",
+  "pendingCount": 555,
+  "readyCount": 555,
   "awaitingContentCount": 0,
   "excludedContentCount": 55,
   "items": [
+    {
+      "id": "25ead10ebc2439c2f1bd69c3710e8c68",
+      "title": "【Event Report】RIKEN AIP and Monash University Hold Joint Hybrid Seminar on Human-Robot Interaction and Digital Health in Dementia Care",
+      "url": "https://aip.riken.jp/news/ittc_aip_2026/",
+      "publishedAt": null,
+      "crawledAt": "2026-10-23T21:30:53.069Z",
+      "contentStatus": "ready",
+      "contentHash": "0946811023e5bd2500dd4959020cb7db3f1e40b41f494e81459c34497b981195",
+      "rawPath": "data/raw/25ead10ebc2439c2f1bd69c3710e8c68.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "4f09881a071ae288a59f730ff01d1e00",
       "title": "Health Data Sharing, Privacy, and Regulatory Forum (formerly GDPR Forum)",
