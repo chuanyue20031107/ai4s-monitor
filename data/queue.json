@@ -1,11 +1,99 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-23T05:04:26.453Z",
-  "pendingCount": 536,
-  "readyCount": 536,
+  "updatedAt": "2026-10-23T11:54:49.538Z",
+  "pendingCount": 544,
+  "readyCount": 544,
   "awaitingContentCount": 0,
   "excludedContentCount": 57,
   "items": [
+    {
+      "id": "1802c7cb236e720f6b062a4dac92192d",
+      "title": "科学家实现体内记忆样NK细胞诱导及抗肿瘤免疫",
+      "url": "https://www.cas.cn/syky/202610/t20261015_5122274.shtml",
+      "publishedAt": null,
+      "crawledAt": "2026-10-23T11:53:41.526Z",
+      "contentStatus": "ready",
+      "contentHash": "be89aeba3957094108e3f37a68af15ae3beac5c1fa4c84970da4626e9d71fa63",
+      "rawPath": "data/raw/1802c7cb236e720f6b062a4dac92192d.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "71110c08d01a1882e7438272cb16fc54",
+      "title": "3 高压超导研究获进展\" target=\"_blank\" ignoreapd=\"1\" >ReO 3 高压超导研究获进展",
+      "url": "https://www.cas.cn/syky/202610/t20261019_5122477.shtml",
+      "publishedAt": null,
+      "crawledAt": "2026-10-23T11:53:41.264Z",
+      "contentStatus": "ready",
+      "contentHash": "b989307b11646290d476e4ec1e51cf44e1652278fb350f4f0d7c8cf366bf0f96",
+      "rawPath": "data/raw/71110c08d01a1882e7438272cb16fc54.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "6c2fe7e96d2b2d9c3c7f6b2aeabba4fb",
+      "title": "研究揭示盘风与湍流环境下星子形成新机制",
+      "url": "https://www.cas.cn/syky/202610/t20261020_5122554.shtml",
+      "publishedAt": null,
+      "crawledAt": "2026-10-23T11:53:40.657Z",
+      "contentStatus": "ready",
+      "contentHash": "5725aae1252d51831b106b1fedf187858052eb77b8496c224e8f2617ec52ced3",
+      "rawPath": "data/raw/6c2fe7e96d2b2d9c3c7f6b2aeabba4fb.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "ca709a5fda5ac8d9943b38a29282073a",
+      "title": "2026-10-21 陕西交控集团与宁德时代签署战略合作协议 了解更多",
+      "url": "https://www.catl.com/news/10332.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-23T11:48:39.792Z",
+      "contentStatus": "ready",
+      "contentHash": "d49b7aba3c24ac62964e1febc1f33bb22609cb701345e822bfa9b1498147d5cd",
+      "rawPath": "data/raw/ca709a5fda5ac8d9943b38a29282073a.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "c918cdadb7d26f7fccc6a7aedfa93374",
+      "title": "我所揭示圆红冬孢酵母油脂累积与组成重塑规律",
+      "url": "https://www.dicp.ac.cn/xwdt/kyjz/202610/t20261022_8296845.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-23T11:48:29.370Z",
+      "contentStatus": "ready",
+      "contentHash": "1330146f9e9e89de857b8316dfd5ece2f5a7467db49b28e71b0357b64a1e3c66",
+      "rawPath": "data/raw/c918cdadb7d26f7fccc6a7aedfa93374.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "0844769295cfd19471dca2ee761c5b0d",
+      "title": "2026/10 28 Stochastic analysis of single ion channels and their roles in mediating membrane current and noise 2026年10月28日 14:00-15:00 吳淼鑫 教授 卫光生命科学园1A栋1925会议室 了解详情",
+      "url": "https://www.szbl.ac.cn/info/1017/10625.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-10-23T11:48:25.288Z",
+      "contentStatus": "ready",
+      "contentHash": "d51db26e9dc7cf076a6a240cb5ed6bbdbe5d04076b6c6f90989d9b4448a44ab9",
+      "rawPath": "data/raw/0844769295cfd19471dca2ee761c5b0d.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "1fc3fb58fb8a0db1cd8beae9cdb0f346",
+      "title": "2026/10 29 Effector CD4 T cells convert transient responses to KRAS targeted therapy into long-term durable remissions in pancreatic cancer 2026年10月29日 上午10:00 强荔 研究员 高科创新中心A803会议室 了解详情",
+      "url": "https://www.szbl.ac.cn/info/1017/10622.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-10-23T11:48:22.844Z",
+      "contentStatus": "ready",
+      "contentHash": "1e2f362245c3828e3f19b460ec0deb64ac9daa1d38934fba985dceece5a2fb86",
+      "rawPath": "data/raw/1fc3fb58fb8a0db1cd8beae9cdb0f346.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "dc06b42d346f547f0c2be42e516a1bdc",
+      "title": "松山湖材料实验室档案整理与数字化服务项目询比价邀约",
+      "url": "https://www.sslab.org.cn/news/noticedetail?id=261023172632001359750293F",
+      "publishedAt": null,
+      "crawledAt": "2026-10-23T11:48:22.191Z",
+      "contentStatus": "ready",
+      "contentHash": "2da27730553f2fcb25fefe5b5bb77180c06987c796b6d17479d0a45ef39f7c34",
+      "rawPath": "data/raw/dc06b42d346f547f0c2be42e516a1bdc.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "e3cf5d0b1905312fd011f3e509fa67ff",
       "title": "关于2026年度教育部哲学社会科学研究重大课...",
