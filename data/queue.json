@@ -1,11 +1,44 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-23T21:31:55.189Z",
-  "pendingCount": 555,
-  "readyCount": 555,
+  "updatedAt": "2026-10-24T04:46:52.607Z",
+  "pendingCount": 558,
+  "readyCount": 558,
   "awaitingContentCount": 0,
   "excludedContentCount": 55,
   "items": [
+    {
+      "id": "687477d278618a74ae42e0ae7b5552b2",
+      "title": "两项医学检验服务团体标准正式实施，圣湘生物参与起草",
+      "url": "https://www.caclp.com/article/?detail_14420.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-24T04:46:28.991Z",
+      "contentStatus": "ready",
+      "contentHash": "86c401a0ba3e969f2060357d6caa150bf8fce51838bc058dd167b0cf28340112",
+      "rawPath": "data/raw/687477d278618a74ae42e0ae7b5552b2.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "867244db22ec6a265e92d6df5ac5ff64",
+      "title": "华大基因VISTA™染色体测序产品获CE-IVDR认证",
+      "url": "https://www.caclp.com/article/?detail_14421.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-24T04:46:27.803Z",
+      "contentStatus": "ready",
+      "contentHash": "36a0ca34ac76e4a0098cad92598775c31f00640cc713053d5cace0151b558efe",
+      "rawPath": "data/raw/867244db22ec6a265e92d6df5ac5ff64.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "c5f1b5e2373c70fc1aeb036d265d2b95",
+      "title": "赴港IPO入口放宽，审核和监管收紧",
+      "url": "https://www.caclp.com/article/?detail_14422.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-24T04:46:26.371Z",
+      "contentStatus": "ready",
+      "contentHash": "76a995fd5ce100e9b06f5f53130e5b8fa74b348a3c91ed23bb52cedf6becaf59",
+      "rawPath": "data/raw/c5f1b5e2373c70fc1aeb036d265d2b95.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "25ead10ebc2439c2f1bd69c3710e8c68",
       "title": "【Event Report】RIKEN AIP and Monash University Hold Joint Hybrid Seminar on Human-Robot Interaction and Digital Health in Dementia Care",

@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "id": "687477d278618a74ae42e0ae7b5552b2",
+      "title": "两项医学检验服务团体标准正式实施，圣湘生物参与起草",
+      "sourceKey": "s10-15",
+      "sourceName": "CACLP中国国际检验医学暨输血仪器试剂博览会",
+      "sourceType": "行业展会/会议",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-24T04:46:28.991Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.caclp.com/article/?detail_14420.html",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "867244db22ec6a265e92d6df5ac5ff64",
+      "title": "华大基因VISTA™染色体测序产品获CE-IVDR认证",
+      "sourceKey": "s10-15",
+      "sourceName": "CACLP中国国际检验医学暨输血仪器试剂博览会",
+      "sourceType": "行业展会/会议",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-24T04:46:27.803Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.caclp.com/article/?detail_14421.html",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "c5f1b5e2373c70fc1aeb036d265d2b95",
+      "title": "赴港IPO入口放宽，审核和监管收紧",
+      "sourceKey": "s10-15",
+      "sourceName": "CACLP中国国际检验医学暨输血仪器试剂博览会",
+      "sourceType": "行业展会/会议",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-24T04:46:26.371Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.caclp.com/article/?detail_14422.html",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "25ead10ebc2439c2f1bd69c3710e8c68",
       "title": "【Event Report】RIKEN AIP and Monash University Hold Joint Hybrid Seminar on Human-Robot Interaction and Digital Health in Dementia Care",
       "sourceKey": "s01-22",
@@ -15591,5 +15645,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-10-23T21:31:55.189Z"
+  "updatedAt": "2026-10-24T04:46:52.607Z"
 }
