@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "id": "4487d570d59ede04f52c79257acbf629",
+      "title": "Register for the December 7 Webinar on pdb_extract",
+      "sourceKey": "s07-13",
+      "sourceName": "RCSB Protein Data Bank",
+      "sourceType": "科学数据库与平台",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-24T16:03:58.028Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.rcsb.org/news/training/6a95aa733bf5580b84a87d36",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "d4f3de3f0b8b0352d0c2c48735ed702a",
+      "title": "Register for the Nov 16 Virtual Office Hour on Visualization",
+      "sourceKey": "s07-13",
+      "sourceName": "RCSB Protein Data Bank",
+      "sourceType": "科学数据库与平台",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-24T16:03:57.841Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.rcsb.org/news/training/6adbaba34ec37840b7ddf632",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "ef79b942247b7e1e6629f01da22c473d",
+      "title": "Register for the Nov 3 Ask A Biocurator Anything",
+      "sourceKey": "s07-13",
+      "sourceName": "RCSB Protein Data Bank",
+      "sourceType": "科学数据库与平台",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-24T16:03:57.654Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.rcsb.org/news/training/6a95abdc3bf5580b84a87d38",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "131063ef37ea68ae397ee8d735157802",
       "title": "语音合成新增 10 款发音人 经典卡通 IP 音色正式亮相 欢迎试听体验 查看详情",
       "sourceKey": "s03-04",
@@ -15825,5 +15879,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-10-24T11:16:34.979Z"
+  "updatedAt": "2026-10-24T16:04:02.483Z"
 }

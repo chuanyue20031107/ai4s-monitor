@@ -1,11 +1,44 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-24T11:16:34.979Z",
-  "pendingCount": 568,
-  "readyCount": 568,
+  "updatedAt": "2026-10-24T16:04:02.483Z",
+  "pendingCount": 571,
+  "readyCount": 571,
   "awaitingContentCount": 0,
   "excludedContentCount": 55,
   "items": [
+    {
+      "id": "4487d570d59ede04f52c79257acbf629",
+      "title": "Register for the December 7 Webinar on pdb_extract",
+      "url": "https://www.rcsb.org/news/training/6a95aa733bf5580b84a87d36",
+      "publishedAt": null,
+      "crawledAt": "2026-10-24T16:03:58.028Z",
+      "contentStatus": "ready",
+      "contentHash": "22ee24b2467941c0626db7ce191a2af23c8933e32f4a0e5cc77fe755ce79c544",
+      "rawPath": "data/raw/4487d570d59ede04f52c79257acbf629.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "d4f3de3f0b8b0352d0c2c48735ed702a",
+      "title": "Register for the Nov 16 Virtual Office Hour on Visualization",
+      "url": "https://www.rcsb.org/news/training/6adbaba34ec37840b7ddf632",
+      "publishedAt": null,
+      "crawledAt": "2026-10-24T16:03:57.841Z",
+      "contentStatus": "ready",
+      "contentHash": "ac09304fd62dd84a66a2944406603ee89a5c70f58e451df8acaebbeb814e6107",
+      "rawPath": "data/raw/d4f3de3f0b8b0352d0c2c48735ed702a.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "ef79b942247b7e1e6629f01da22c473d",
+      "title": "Register for the Nov 3 Ask A Biocurator Anything",
+      "url": "https://www.rcsb.org/news/training/6a95abdc3bf5580b84a87d38",
+      "publishedAt": null,
+      "crawledAt": "2026-10-24T16:03:57.654Z",
+      "contentStatus": "ready",
+      "contentHash": "f3cbb46f104110863ffb467b7205f559a8609183a36a67b429a0cc6fb1426b20",
+      "rawPath": "data/raw/ef79b942247b7e1e6629f01da22c473d.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "131063ef37ea68ae397ee8d735157802",
       "title": "语音合成新增 10 款发音人 经典卡通 IP 音色正式亮相 欢迎试听体验 查看详情",
