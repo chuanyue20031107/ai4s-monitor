@@ -1,11 +1,44 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-24T16:04:02.483Z",
-  "pendingCount": 571,
-  "readyCount": 571,
+  "updatedAt": "2026-10-24T20:59:59.403Z",
+  "pendingCount": 575,
+  "readyCount": 575,
   "awaitingContentCount": 0,
   "excludedContentCount": 55,
   "items": [
+    {
+      "id": "ac016c70fe9f358551ca69e8831a1b6f",
+      "title": "Public Attitudes for Genomics and Policy Blog",
+      "url": "https://www.ga4gh.org/news-events/public-attitudes-for-genomics-and-policy-blog/",
+      "publishedAt": null,
+      "crawledAt": "2026-10-24T20:57:31.093Z",
+      "contentStatus": "ready",
+      "contentHash": "ea70a0f0769539cb70527bf9d1170016623aa7d424624ca889dd1d6ad1abfe63",
+      "rawPath": "data/raw/ac016c70fe9f358551ca69e8831a1b6f.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "8a0b61bf078dc9524dffd20582587044",
+      "title": "大连化物所开发的贵金属燃烧催化剂实现烧结烟气CO净化稳定运行",
+      "url": "https://www.cas.cn/cg/zh/202610/t20261012_5122084.shtml",
+      "publishedAt": null,
+      "crawledAt": "2026-10-24T20:57:20.524Z",
+      "contentStatus": "ready",
+      "contentHash": "129d4a6c60b07419067105731c2af31be0b76514a2a34b356e4349c1c55db0db",
+      "rawPath": "data/raw/8a0b61bf078dc9524dffd20582587044.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "57ac88a0e0201867bc7860a0a5fc8964",
+      "title": "理化所超流氦系统冷压缩机实现千瓦级技术突破",
+      "url": "https://www.cas.cn/cg/zh/202610/t20261016_5122360.shtml",
+      "publishedAt": null,
+      "crawledAt": "2026-10-24T20:57:19.940Z",
+      "contentStatus": "ready",
+      "contentHash": "a8482977be716fcc9599ef2c4128e1083fe6923ab510627c0511baa388af2e55",
+      "rawPath": "data/raw/57ac88a0e0201867bc7860a0a5fc8964.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "4487d570d59ede04f52c79257acbf629",
       "title": "Register for the December 7 Webinar on pdb_extract",
@@ -411,6 +444,17 @@
       "contentStatus": "ready",
       "contentHash": "9dcccc70deb6648a9d5dec67e7a63df9da38646333d2c1710eac02d9e548d52f",
       "rawPath": "data/raw/79a93efb8be005fcf7df94a0e252b55c.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "4acb79cfe5a5ed2279559b09f5216712",
+      "title": "IBM supports award-winning projects in NEDO Quantum Challenge",
+      "url": "https://research.ibm.com/blog/ibm-nedo-challenge-2026",
+      "publishedAt": "2026-10-23T04:00:00.000Z",
+      "crawledAt": "2026-10-24T20:57:35.087Z",
+      "contentStatus": "ready",
+      "contentHash": "d7127e089b405a04f514edf699a131344f3f7693525230447bc7f0fd0120d8fb",
+      "rawPath": "data/raw/4acb79cfe5a5ed2279559b09f5216712.json",
       "lastAnalysisStatus": "pending"
     },
     {

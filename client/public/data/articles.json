@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "4acb79cfe5a5ed2279559b09f5216712",
+      "title": "IBM supports award-winning projects in NEDO Quantum Challenge",
+      "sourceKey": "s01-11",
+      "sourceName": "IBM Research",
+      "sourceType": "科技大厂研究机构",
+      "category": "",
+      "publishedAt": "2026-10-23T04:00:00.000Z",
+      "crawledAt": "2026-10-24T20:57:35.087Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://research.ibm.com/blog/ibm-nedo-challenge-2026",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "ac016c70fe9f358551ca69e8831a1b6f",
+      "title": "Public Attitudes for Genomics and Policy Blog",
+      "sourceKey": "s11-04",
+      "sourceName": "GA4GH",
+      "sourceType": "基因组标准组织",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-24T20:57:31.093Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.ga4gh.org/news-events/public-attitudes-for-genomics-and-policy-blog/",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "8a0b61bf078dc9524dffd20582587044",
+      "title": "大连化物所开发的贵金属燃烧催化剂实现烧结烟气CO净化稳定运行",
+      "sourceKey": "s08-06",
+      "sourceName": "中国科学院",
+      "sourceType": "国家科研机构",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-24T20:57:20.524Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.cas.cn/cg/zh/202610/t20261012_5122084.shtml",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "57ac88a0e0201867bc7860a0a5fc8964",
+      "title": "理化所超流氦系统冷压缩机实现千瓦级技术突破",
+      "sourceKey": "s08-06",
+      "sourceName": "中国科学院",
+      "sourceType": "国家科研机构",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-24T20:57:19.940Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.cas.cn/cg/zh/202610/t20261016_5122360.shtml",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "4487d570d59ede04f52c79257acbf629",
       "title": "Register for the December 7 Webinar on pdb_extract",
       "sourceKey": "s07-13",
@@ -15879,5 +15951,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-10-24T16:04:02.483Z"
+  "updatedAt": "2026-10-24T20:59:59.403Z"
 }
