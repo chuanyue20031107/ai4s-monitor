@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "b2ba51b60cd4caa65019d342fdcfa0e8",
+      "title": "Dr. Samir Mitragotri Named 2026 Alpha Chi Sigma Award Recipient",
+      "sourceKey": "s11-17",
+      "sourceName": "AIChE Annual Meeting",
+      "sourceType": "国际学术会议",
+      "category": "",
+      "publishedAt": "2026-10-23T18:03:09.000Z",
+      "crawledAt": "2026-10-25T11:43:18.846Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.aiche.org/dr-samir-mitragotri-named-2026-alpha-chi-sigma-award-recipient",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "d123323fef20fa8c425eab0fcdce0938",
+      "title": "第三省！检验价格公布！114个加收项！",
+      "sourceKey": "s10-15",
+      "sourceName": "CACLP中国国际检验医学暨输血仪器试剂博览会",
+      "sourceType": "行业展会/会议",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-25T11:43:05.115Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.caclp.com/article/?detail_14419.html",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "f8c156dba7886826388b35c0408d87e4",
       "title": "Securing our frontier model training environment",
       "sourceKey": "s01-14",
@@ -15969,5 +16005,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-10-25T04:55:53.709Z"
+  "updatedAt": "2026-10-25T11:46:15.224Z"
 }

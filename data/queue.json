@@ -1,11 +1,22 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-25T04:55:53.709Z",
-  "pendingCount": 576,
-  "readyCount": 576,
+  "updatedAt": "2026-10-25T11:46:15.224Z",
+  "pendingCount": 578,
+  "readyCount": 578,
   "awaitingContentCount": 0,
   "excludedContentCount": 55,
   "items": [
+    {
+      "id": "d123323fef20fa8c425eab0fcdce0938",
+      "title": "第三省！检验价格公布！114个加收项！",
+      "url": "https://www.caclp.com/article/?detail_14419.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-25T11:43:05.115Z",
+      "contentStatus": "ready",
+      "contentHash": "aae9316bb53980fa1f9bf7c739fd76b83b61a6ec2ff40dca7bc079cf98a17869",
+      "rawPath": "data/raw/d123323fef20fa8c425eab0fcdce0938.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "ac016c70fe9f358551ca69e8831a1b6f",
       "title": "Public Attitudes for Genomics and Policy Blog",
@@ -224,6 +235,17 @@
       "contentStatus": "ready",
       "contentHash": "0946811023e5bd2500dd4959020cb7db3f1e40b41f494e81459c34497b981195",
       "rawPath": "data/raw/25ead10ebc2439c2f1bd69c3710e8c68.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "b2ba51b60cd4caa65019d342fdcfa0e8",
+      "title": "Dr. Samir Mitragotri Named 2026 Alpha Chi Sigma Award Recipient",
+      "url": "https://www.aiche.org/dr-samir-mitragotri-named-2026-alpha-chi-sigma-award-recipient",
+      "publishedAt": "2026-10-23T18:03:09.000Z",
+      "crawledAt": "2026-10-25T11:43:18.846Z",
+      "contentStatus": "ready",
+      "contentHash": "880dcd3dec3e23b2005f8a7784f978d155367f351290e84b9095bf2ced41cc36",
+      "rawPath": "data/raw/b2ba51b60cd4caa65019d342fdcfa0e8.json",
       "lastAnalysisStatus": "pending"
     },
     {
