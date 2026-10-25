@@ -1,11 +1,66 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-25T11:46:15.224Z",
-  "pendingCount": 578,
-  "readyCount": 578,
+  "updatedAt": "2026-10-25T16:35:22.263Z",
+  "pendingCount": 583,
+  "readyCount": 583,
   "awaitingContentCount": 0,
   "excludedContentCount": 55,
   "items": [
+    {
+      "id": "a32834d3901a3bbd656ae9ab504923e5",
+      "title": "【交大金课】段华南：锂电池固体电解质的制备与评价 2026年10月23日",
+      "url": "https://news.sjtu.edu.cn/ztzl_jdjk/20261023/226870.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-25T16:32:57.007Z",
+      "contentStatus": "ready",
+      "contentHash": "aaf76843c4efab1b83a043c392d05cf7b29decfee12f45014d7b68bf624c1498",
+      "rawPath": "data/raw/a32834d3901a3bbd656ae9ab504923e5.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "58dd20ff4582c449e0b84ff12ae1e3b1",
+      "title": "高校学报创新发展暨《上海交通大学学报》创刊70周年研讨会举行 2026年10月25日",
+      "url": "https://news.sjtu.edu.cn/jdyw/20261025/226884.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-25T16:32:56.766Z",
+      "contentStatus": "ready",
+      "contentHash": "1c79949ba72c5b0151bd6242c9113c1018c335aa9445e321bf2341f16e2aa4b5",
+      "rawPath": "data/raw/58dd20ff4582c449e0b84ff12ae1e3b1.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "6012eaaa3d4bf51b53437821c317c050",
+      "title": "2026北外滩国际航运论坛举行，上海交大承办“数字与智能”主题论坛 2026年10月23日",
+      "url": "https://news.sjtu.edu.cn/jdyw/20261023/226878.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-25T16:32:53.976Z",
+      "contentStatus": "ready",
+      "contentHash": "4822cfd6f78ba762fa33869d279e2bcfa99b7e58c0ef8c3fe031434a52f1ce2a",
+      "rawPath": "data/raw/6012eaaa3d4bf51b53437821c317c050.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "247996513ee483e519fe48074948ab39",
+      "title": "Xaira Therapeutics Announces the Appointment of Jeff Jonker as President and Chief Operating Officer | Xaira Therapeutics",
+      "url": "https://www.xaira.com/news/xaira-therapeutics-announces-the-appointment-of-jeff-jonker-as-president-and-chief-operating-officer",
+      "publishedAt": null,
+      "crawledAt": "2026-10-25T16:32:32.855Z",
+      "contentStatus": "ready",
+      "contentHash": "9dcccc70deb6648a9d5dec67e7a63df9da38646333d2c1710eac02d9e548d52f",
+      "rawPath": "data/raw/247996513ee483e519fe48074948ab39.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "ff2449518d62c8e2edab628e39e2c231",
+      "title": "Xaira Therapeutics Announces the Appointment of Dr. Paulo Fontoura as Chief Medical Officer and Dr. Hetu Kamisetty as Chief Technology Officer | Xaira Therapeutics",
+      "url": "https://www.xaira.com/news/xaira-therapeutics-announces-the-appointment-of-dr-paulo-fontoura-as-chief-medical-officer-and-dr-hetu-kamisetty-as-chief-technology-officer",
+      "publishedAt": null,
+      "crawledAt": "2026-10-25T16:32:32.818Z",
+      "contentStatus": "ready",
+      "contentHash": "9dcccc70deb6648a9d5dec67e7a63df9da38646333d2c1710eac02d9e548d52f",
+      "rawPath": "data/raw/ff2449518d62c8e2edab628e39e2c231.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "d123323fef20fa8c425eab0fcdce0938",
       "title": "第三省！检验价格公布！114个加收项！",

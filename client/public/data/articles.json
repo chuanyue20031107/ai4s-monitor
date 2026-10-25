@@ -1,6 +1,96 @@
 {
   "items": [
     {
+      "id": "a32834d3901a3bbd656ae9ab504923e5",
+      "title": "【交大金课】段华南：锂电池固体电解质的制备与评价 2026年10月23日",
+      "sourceKey": "s05-05",
+      "sourceName": "AI原生自主生物分子实验室",
+      "sourceType": "自主实验室与平台",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-25T16:32:57.007Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://news.sjtu.edu.cn/ztzl_jdjk/20261023/226870.html",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "58dd20ff4582c449e0b84ff12ae1e3b1",
+      "title": "高校学报创新发展暨《上海交通大学学报》创刊70周年研讨会举行 2026年10月25日",
+      "sourceKey": "s05-05",
+      "sourceName": "AI原生自主生物分子实验室",
+      "sourceType": "自主实验室与平台",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-25T16:32:56.766Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://news.sjtu.edu.cn/jdyw/20261025/226884.html",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "6012eaaa3d4bf51b53437821c317c050",
+      "title": "2026北外滩国际航运论坛举行，上海交大承办“数字与智能”主题论坛 2026年10月23日",
+      "sourceKey": "s05-05",
+      "sourceName": "AI原生自主生物分子实验室",
+      "sourceType": "自主实验室与平台",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-25T16:32:53.976Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://news.sjtu.edu.cn/jdyw/20261023/226878.html",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "247996513ee483e519fe48074948ab39",
+      "title": "Xaira Therapeutics Announces the Appointment of Jeff Jonker as President and Chief Operating Officer | Xaira Therapeutics",
+      "sourceKey": "s02-08",
+      "sourceName": "Xaira Therapeutics",
+      "sourceType": "AI药物公司",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-25T16:32:32.855Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.xaira.com/news/xaira-therapeutics-announces-the-appointment-of-jeff-jonker-as-president-and-chief-operating-officer",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "ff2449518d62c8e2edab628e39e2c231",
+      "title": "Xaira Therapeutics Announces the Appointment of Dr. Paulo Fontoura as Chief Medical Officer and Dr. Hetu Kamisetty as Chief Technology Officer | Xaira Therapeutics",
+      "sourceKey": "s02-08",
+      "sourceName": "Xaira Therapeutics",
+      "sourceType": "AI药物公司",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-25T16:32:32.818Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.xaira.com/news/xaira-therapeutics-announces-the-appointment-of-dr-paulo-fontoura-as-chief-medical-officer-and-dr-hetu-kamisetty-as-chief-technology-officer",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "b2ba51b60cd4caa65019d342fdcfa0e8",
       "title": "Dr. Samir Mitragotri Named 2026 Alpha Chi Sigma Award Recipient",
       "sourceKey": "s11-17",
@@ -16005,5 +16095,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-10-25T11:46:15.224Z"
+  "updatedAt": "2026-10-25T16:35:22.263Z"
 }
