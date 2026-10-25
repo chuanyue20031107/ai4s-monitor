@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-24T20:59:59.403Z",
-  "pendingCount": 575,
-  "readyCount": 575,
+  "updatedAt": "2026-10-25T04:55:53.709Z",
+  "pendingCount": 576,
+  "readyCount": 576,
   "awaitingContentCount": 0,
   "excludedContentCount": 55,
   "items": [
@@ -367,6 +367,17 @@
       "contentStatus": "ready",
       "contentHash": "2da27730553f2fcb25fefe5b5bb77180c06987c796b6d17479d0a45ef39f7c34",
       "rawPath": "data/raw/dc06b42d346f547f0c2be42e516a1bdc.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "f8c156dba7886826388b35c0408d87e4",
+      "title": "Securing our frontier model training environment",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "publishedAt": "2026-10-23T10:00:00.000Z",
+      "crawledAt": "2026-10-25T04:52:56.910Z",
+      "contentStatus": "ready",
+      "contentHash": "32e75dfd7173585cca708dfb323e63df860f91fe82a2ba9f80f7431b00c20bac",
+      "rawPath": "data/raw/f8c156dba7886826388b35c0408d87e4.json",
       "lastAnalysisStatus": "pending"
     },
     {
