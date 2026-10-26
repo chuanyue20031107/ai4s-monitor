@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "9fefcd7844a438842270c0b2b791a9c1",
+      "title": "Announcements",
+      "sourceKey": "s11-04",
+      "sourceName": "GA4GH",
+      "sourceType": "基因组标准组织",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-26T05:00:19.959Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.ga4gh.org/news-events/announcements/",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "cd3b82e58565b53ed741759db9746096",
+      "title": "上海交通大学多功能光学感知系统实验平台中标公告",
+      "sourceKey": "s08-07",
+      "sourceName": "中国政府采购网",
+      "sourceType": "政府采购平台",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-26T04:57:39.194Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.ccgp.gov.cn/cggg/zygg/zbgg/202610/t20261026_27559870.htm",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "e7b3ef5e629406746004e130ff053042",
+      "title": "贵阳市气象局2026年贵阳市人工影响天气人雨弹采购项目（二次）公开招标公告",
+      "sourceKey": "s08-07",
+      "sourceName": "中国政府采购网",
+      "sourceType": "政府采购平台",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-26T04:57:38.684Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.ccgp.gov.cn/cggg/zygg/gkzb/202610/t20261026_27559872.htm",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "b9a0942a8782958267484f7dee036ea3",
+      "title": "自然资源部第一海洋研究所室内空间功能优化改造--所史馆建设项目（设计施工一体化）废标公告",
+      "sourceKey": "s08-07",
+      "sourceName": "中国政府采购网",
+      "sourceType": "政府采购平台",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-26T04:57:38.166Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.ccgp.gov.cn/cggg/zygg/qtgg/202610/t20261026_27559873.htm",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "a32834d3901a3bbd656ae9ab504923e5",
       "title": "【交大金课】段华南：锂电池固体电解质的制备与评价 2026年10月23日",
       "sourceKey": "s05-05",
@@ -16095,5 +16167,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-10-25T21:06:52.676Z"
+  "updatedAt": "2026-10-26T05:00:55.118Z"
 }

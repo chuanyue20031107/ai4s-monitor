@@ -1,11 +1,55 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-25T21:06:52.676Z",
-  "pendingCount": 583,
-  "readyCount": 583,
+  "updatedAt": "2026-10-26T05:00:55.118Z",
+  "pendingCount": 587,
+  "readyCount": 587,
   "awaitingContentCount": 0,
   "excludedContentCount": 55,
   "items": [
+    {
+      "id": "9fefcd7844a438842270c0b2b791a9c1",
+      "title": "Announcements",
+      "url": "https://www.ga4gh.org/news-events/announcements/",
+      "publishedAt": null,
+      "crawledAt": "2026-10-26T05:00:19.959Z",
+      "contentStatus": "ready",
+      "contentHash": "4779b1a6b75764a989cdee739973a07c448df10a488e96589bae1486591674f3",
+      "rawPath": "data/raw/9fefcd7844a438842270c0b2b791a9c1.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "cd3b82e58565b53ed741759db9746096",
+      "title": "上海交通大学多功能光学感知系统实验平台中标公告",
+      "url": "https://www.ccgp.gov.cn/cggg/zygg/zbgg/202610/t20261026_27559870.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-10-26T04:57:39.194Z",
+      "contentStatus": "ready",
+      "contentHash": "29974a3d7d1a4b43b39c84989d677388beb42b264846b8089bfc9206eca60719",
+      "rawPath": "data/raw/cd3b82e58565b53ed741759db9746096.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "e7b3ef5e629406746004e130ff053042",
+      "title": "贵阳市气象局2026年贵阳市人工影响天气人雨弹采购项目（二次）公开招标公告",
+      "url": "https://www.ccgp.gov.cn/cggg/zygg/gkzb/202610/t20261026_27559872.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-10-26T04:57:38.684Z",
+      "contentStatus": "ready",
+      "contentHash": "43c94af707c234e210ab010dd0b540e3ae512c91c336cd989653a407c6a91922",
+      "rawPath": "data/raw/e7b3ef5e629406746004e130ff053042.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "b9a0942a8782958267484f7dee036ea3",
+      "title": "自然资源部第一海洋研究所室内空间功能优化改造--所史馆建设项目（设计施工一体化）废标公告",
+      "url": "https://www.ccgp.gov.cn/cggg/zygg/qtgg/202610/t20261026_27559873.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-10-26T04:57:38.166Z",
+      "contentStatus": "ready",
+      "contentHash": "1383533c169f3c56f3d22be58dfcda1353d0661800c0744b7f57c3c0ede4f313",
+      "rawPath": "data/raw/b9a0942a8782958267484f7dee036ea3.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "a32834d3901a3bbd656ae9ab504923e5",
       "title": "【交大金课】段华南：锂电池固体电解质的制备与评价 2026年10月23日",
