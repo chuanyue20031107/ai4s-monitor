@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "eda525050cea8fce4b13823379a8b965",
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "sourceKey": "s01-14",
+      "sourceName": "OpenAI",
+      "sourceType": "科技大厂研究机构",
+      "category": "",
+      "publishedAt": "2026-10-22T00:00:00.000Z",
+      "crawledAt": "2026-10-26T13:14:34.140Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "2c525c2566d0d19fbf95d5044121a7eb",
+      "title": "PyTorch opens the AI ecosystem to a new class of accelerators",
+      "sourceKey": "s01-11",
+      "sourceName": "IBM Research",
+      "sourceType": "科技大厂研究机构",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-26T13:14:34.122Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://research.ibm.com/blog/pytorch-spyre-accelerator-software-ecosystem-updates",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "9fefcd7844a438842270c0b2b791a9c1",
       "title": "Announcements",
       "sourceKey": "s11-04",
@@ -16167,5 +16203,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-10-26T05:00:55.118Z"
+  "updatedAt": "2026-10-26T13:14:54.223Z"
 }

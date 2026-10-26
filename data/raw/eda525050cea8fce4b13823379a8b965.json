@@ -1,0 +1,18 @@
+{
+  "id": "eda525050cea8fce4b13823379a8b965",
+  "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+  "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+  "sourceKey": "s01-14",
+  "sourceName": "OpenAI",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": "2026-10-22T00:00:00.000Z",
+  "crawledAt": "2026-10-26T13:14:34.140Z",
+  "content": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-10-26T13:14:34.140Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "574b4d4c1ce3829da7135435072e7376d7a23d00e77d793f9b7262d1434ee105"
+}

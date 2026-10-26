@@ -1,0 +1,18 @@
+{
+  "id": "2c525c2566d0d19fbf95d5044121a7eb",
+  "title": "PyTorch opens the AI ecosystem to a new class of accelerators",
+  "url": "https://research.ibm.com/blog/pytorch-spyre-accelerator-software-ecosystem-updates",
+  "sourceKey": "s01-11",
+  "sourceName": "IBM Research",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": null,
+  "crawledAt": "2026-10-26T13:14:34.122Z",
+  "content": "Toward fast AI interpretability and control News Kim Martineau 21 Oct 2026 AI AI Transparency Generative AI Trustworthy Generation",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-10-26T13:14:34.122Z",
+  "contentTruncated": true,
+  "contentError": "",
+  "contentHash": "5d05f3f125c458e0949bfbf5e9efeb6d2676c0df206b3a8f62ff76bc3d926e7b"
+}

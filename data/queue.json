@@ -1,11 +1,22 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-26T05:00:55.118Z",
-  "pendingCount": 587,
-  "readyCount": 587,
+  "updatedAt": "2026-10-26T13:14:54.223Z",
+  "pendingCount": 589,
+  "readyCount": 589,
   "awaitingContentCount": 0,
   "excludedContentCount": 55,
   "items": [
+    {
+      "id": "2c525c2566d0d19fbf95d5044121a7eb",
+      "title": "PyTorch opens the AI ecosystem to a new class of accelerators",
+      "url": "https://research.ibm.com/blog/pytorch-spyre-accelerator-software-ecosystem-updates",
+      "publishedAt": null,
+      "crawledAt": "2026-10-26T13:14:34.122Z",
+      "contentStatus": "ready",
+      "contentHash": "5d05f3f125c458e0949bfbf5e9efeb6d2676c0df206b3a8f62ff76bc3d926e7b",
+      "rawPath": "data/raw/2c525c2566d0d19fbf95d5044121a7eb.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "9fefcd7844a438842270c0b2b791a9c1",
       "title": "Announcements",
@@ -862,6 +873,17 @@
       "contentStatus": "ready",
       "contentHash": "a774669a3911c4d2f8926863175de1c796975865dc29aa5b3052c8f795f19d0d",
       "rawPath": "data/raw/5b43a3e8954cb352af3f6b591ee4744c.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "eda525050cea8fce4b13823379a8b965",
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+      "publishedAt": "2026-10-22T00:00:00.000Z",
+      "crawledAt": "2026-10-26T13:14:34.140Z",
+      "contentStatus": "ready",
+      "contentHash": "574b4d4c1ce3829da7135435072e7376d7a23d00e77d793f9b7262d1434ee105",
+      "rawPath": "data/raw/eda525050cea8fce4b13823379a8b965.json",
       "lastAnalysisStatus": "pending"
     },
     {
