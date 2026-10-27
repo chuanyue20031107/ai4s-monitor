@@ -1,0 +1,18 @@
+{
+  "id": "2ef44462ad3d2e64970d5e48ea55ad98",
+  "title": "News 10.26.2026",
+  "url": "https://www.broadinstitute.org/news/Broad-Abbott-ultra-sensitive-blood-test-for-cancer-DNA",
+  "sourceKey": "s01-06",
+  "sourceName": "Broad Institute",
+  "sourceType": "非营利研究机构",
+  "publishedAt": "2026-10-26T14:00:01.000Z",
+  "crawledAt": "2026-10-27T05:15:04.069Z",
+  "content": "Broad-developed technology powers an ultra-sensitive blood test for cancer DNA The technology, MAESTRO, is at the heart of Abbott’s new Oncodetect test, which detects extremely low levels of tumor DNA in a patient’s blood sample, helping doctors detect cancer recurrence. By Jessica Colarossi October 26, 2026 Credit: Steph Stevens Viktor Adalsteinsson, senior director of the Gerstner Center, led the development of MAESTRO.",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-10-27T05:15:04.069Z",
+  "contentTruncated": true,
+  "contentError": "",
+  "contentHash": "57e7f51f41395171cd391b5e778bbdde5b2008fb865d5994bd2fe26238bc68c6"
+}

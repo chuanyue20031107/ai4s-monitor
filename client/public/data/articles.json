@@ -1,6 +1,96 @@
 {
   "items": [
     {
+      "id": "facf3b46264adaedb612573e32ee9126",
+      "title": "Xaira Therapeutics Appoints Dr. Debbie Law as Chief Scientific Officer and Julia Tran as Chief People Officer | Xaira Therapeutics",
+      "sourceKey": "s02-08",
+      "sourceName": "Xaira Therapeutics",
+      "sourceType": "AI药物公司",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-27T05:15:05.888Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.xaira.com/news/xaira-therapeutics-appoints-dr-debbie-law-as-chief-scientific-officer-and-julia-tran-as-chief-people-officer",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "d312bf484e2e1a74f46885673c50f3a4",
+      "title": "Xaira Therapeutics Announces the Appointment of Rachel Lane, Ph.D., as Senior Vice President, Business Development and Operations | Xaira Therapeutics",
+      "sourceKey": "s02-08",
+      "sourceName": "Xaira Therapeutics",
+      "sourceType": "AI药物公司",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-27T05:15:05.828Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.xaira.com/news/xaira-therapeutics-announces-the-appointment-of-rachel-lane-ph-d-as-senior-vice-president-business-development-and-operations",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "71c377a3f9b749e26ccd0c46c572f46f",
+      "title": "Recursion to Host Webinar Focused on Updated REC-4881 (FAP) Data from CGA-IGC on Tuesday, November 3",
+      "sourceKey": "s02-02",
+      "sourceName": "Recursion",
+      "sourceType": "AI药物/自动化实验公司",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-27T05:15:04.537Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://ir.recursion.com/news-releases/news-release-details/recursion-host-webinar-focused-updated-rec-4881-fap-data-cga-igc",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "2ef44462ad3d2e64970d5e48ea55ad98",
+      "title": "News 10.26.2026",
+      "sourceKey": "s01-06",
+      "sourceName": "Broad Institute",
+      "sourceType": "非营利研究机构",
+      "category": "",
+      "publishedAt": "2026-10-26T14:00:01.000Z",
+      "crawledAt": "2026-10-27T05:15:04.069Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.broadinstitute.org/news/Broad-Abbott-ultra-sensitive-blood-test-for-cancer-DNA",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "9bc755049b058d25945b215238763777",
+      "title": "How Do You Measure Flammability?",
+      "sourceKey": "s01-08",
+      "sourceName": "National Institute of Standards and Technology",
+      "sourceType": "国家计量标准机构",
+      "category": "",
+      "publishedAt": "2026-10-21T17:31:00.000Z",
+      "crawledAt": "2026-10-27T05:15:03.469Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.nist.gov/how-do-you-measure-it/how-do-you-measure-flammability",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "eda525050cea8fce4b13823379a8b965",
       "title": "Uber brings ChatGPT Work to all employees with OpenAI",
       "sourceKey": "s01-14",
@@ -16203,5 +16293,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-10-26T22:45:45.870Z"
+  "updatedAt": "2026-10-27T05:18:39.382Z"
 }

@@ -1,11 +1,55 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-26T22:45:45.870Z",
-  "pendingCount": 589,
-  "readyCount": 589,
+  "updatedAt": "2026-10-27T05:18:39.382Z",
+  "pendingCount": 594,
+  "readyCount": 594,
   "awaitingContentCount": 0,
   "excludedContentCount": 55,
   "items": [
+    {
+      "id": "facf3b46264adaedb612573e32ee9126",
+      "title": "Xaira Therapeutics Appoints Dr. Debbie Law as Chief Scientific Officer and Julia Tran as Chief People Officer | Xaira Therapeutics",
+      "url": "https://www.xaira.com/news/xaira-therapeutics-appoints-dr-debbie-law-as-chief-scientific-officer-and-julia-tran-as-chief-people-officer",
+      "publishedAt": null,
+      "crawledAt": "2026-10-27T05:15:05.888Z",
+      "contentStatus": "ready",
+      "contentHash": "9dcccc70deb6648a9d5dec67e7a63df9da38646333d2c1710eac02d9e548d52f",
+      "rawPath": "data/raw/facf3b46264adaedb612573e32ee9126.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "d312bf484e2e1a74f46885673c50f3a4",
+      "title": "Xaira Therapeutics Announces the Appointment of Rachel Lane, Ph.D., as Senior Vice President, Business Development and Operations | Xaira Therapeutics",
+      "url": "https://www.xaira.com/news/xaira-therapeutics-announces-the-appointment-of-rachel-lane-ph-d-as-senior-vice-president-business-development-and-operations",
+      "publishedAt": null,
+      "crawledAt": "2026-10-27T05:15:05.828Z",
+      "contentStatus": "ready",
+      "contentHash": "b85762e938b79dcf284b37ee3a3e37147ea1bc7b149d5a31fee20c359478695d",
+      "rawPath": "data/raw/d312bf484e2e1a74f46885673c50f3a4.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "71c377a3f9b749e26ccd0c46c572f46f",
+      "title": "Recursion to Host Webinar Focused on Updated REC-4881 (FAP) Data from CGA-IGC on Tuesday, November 3",
+      "url": "https://ir.recursion.com/news-releases/news-release-details/recursion-host-webinar-focused-updated-rec-4881-fap-data-cga-igc",
+      "publishedAt": null,
+      "crawledAt": "2026-10-27T05:15:04.537Z",
+      "contentStatus": "ready",
+      "contentHash": "18d16f83d723646e91621492524e90d79ff5270b319ab742fb2a81a3e2a23ca2",
+      "rawPath": "data/raw/71c377a3f9b749e26ccd0c46c572f46f.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "2ef44462ad3d2e64970d5e48ea55ad98",
+      "title": "News 10.26.2026",
+      "url": "https://www.broadinstitute.org/news/Broad-Abbott-ultra-sensitive-blood-test-for-cancer-DNA",
+      "publishedAt": "2026-10-26T14:00:01.000Z",
+      "crawledAt": "2026-10-27T05:15:04.069Z",
+      "contentStatus": "ready",
+      "contentHash": "57e7f51f41395171cd391b5e778bbdde5b2008fb865d5994bd2fe26238bc68c6",
+      "rawPath": "data/raw/2ef44462ad3d2e64970d5e48ea55ad98.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "2c525c2566d0d19fbf95d5044121a7eb",
       "title": "PyTorch opens the AI ecosystem to a new class of accelerators",
@@ -972,6 +1016,17 @@
       "contentStatus": "ready",
       "contentHash": "38778e26f8c935f631d92adb15f7d0fdca99fbb1a7b82119ad15359ca8cac840",
       "rawPath": "data/raw/3f1a11956436b167380065dcbfb11acf.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "9bc755049b058d25945b215238763777",
+      "title": "How Do You Measure Flammability?",
+      "url": "https://www.nist.gov/how-do-you-measure-it/how-do-you-measure-flammability",
+      "publishedAt": "2026-10-21T17:31:00.000Z",
+      "crawledAt": "2026-10-27T05:15:03.469Z",
+      "contentStatus": "ready",
+      "contentHash": "0fc370ed179c513bb5200f3d10f51ee4bd4b413d7ebeb12b0b02794c758db473",
+      "rawPath": "data/raw/9bc755049b058d25945b215238763777.json",
       "lastAnalysisStatus": "pending"
     },
     {
