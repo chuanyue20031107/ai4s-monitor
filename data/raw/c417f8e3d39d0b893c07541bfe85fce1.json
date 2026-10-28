@@ -1,0 +1,18 @@
+{
+  "id": "c417f8e3d39d0b893c07541bfe85fce1",
+  "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+  "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+  "sourceKey": "s01-14",
+  "sourceName": "OpenAI",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": "2026-10-27T07:00:00.000Z",
+  "crawledAt": "2026-10-28T05:53:05.477Z",
+  "content": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-10-28T05:53:05.477Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "bc06389219fd2549b37626c6e43340c0a719b49b7c8a23f1f65a623f26243bd7"
+}

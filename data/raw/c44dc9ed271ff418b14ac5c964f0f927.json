@@ -1,0 +1,18 @@
+{
+  "id": "c44dc9ed271ff418b14ac5c964f0f927",
+  "title": "How Check Point accelerates vulnerability research with Daybreak",
+  "url": "https://openai.com/index/check-point-daybreak",
+  "sourceKey": "s01-14",
+  "sourceName": "OpenAI",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": "2026-10-27T00:00:00.000Z",
+  "crawledAt": "2026-10-28T05:53:05.477Z",
+  "content": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-10-28T05:53:05.477Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "d1e0b89e34a843e87343fdd783ed56a84c48cbb9cbce13c10458d28ad212f780"
+}

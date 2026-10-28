@@ -1,0 +1,18 @@
+{
+  "id": "1e3ebf94e41ebe19793bfa16d9a1ceac",
+  "title": "Retell uses OpenAI models to help power 100M monthly calls",
+  "url": "https://openai.com/index/retell-ai",
+  "sourceKey": "s01-14",
+  "sourceName": "OpenAI",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": "2026-10-27T15:00:00.000Z",
+  "crawledAt": "2026-10-28T05:53:05.477Z",
+  "content": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-10-28T05:53:05.477Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "e628fd9d7bae997bf3cbbe74bc93be5c6fab19b78f3a1e680e55edf7f23ad69c"
+}

@@ -1,11 +1,22 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-27T22:25:32.409Z",
-  "pendingCount": 612,
-  "readyCount": 612,
+  "updatedAt": "2026-10-28T05:56:13.560Z",
+  "pendingCount": 618,
+  "readyCount": 618,
   "awaitingContentCount": 0,
   "excludedContentCount": 55,
   "items": [
+    {
+      "id": "d2546a60e89693994f5f58d9fcec8531",
+      "title": "IBM and Kaggle launch leaderboard for Java framework migration",
+      "url": "https://research.ibm.com/blog/ibm-and-kaggle-launch-leaderboard-for-java-framework-migration",
+      "publishedAt": null,
+      "crawledAt": "2026-10-28T05:53:04.754Z",
+      "contentStatus": "ready",
+      "contentHash": "bb2abae42b5d606e575f0bafb2a5a280a8c76833f0a12122194889ca2a7dadac",
+      "rawPath": "data/raw/d2546a60e89693994f5f58d9fcec8531.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "f6024e0f58295d0a932399ec3488d70d",
       "title": "Publications",
@@ -92,6 +103,17 @@
       "contentStatus": "ready",
       "contentHash": "f4d992ba320a3b7bc1088bfbf8592cf1933d4e68c17134528a142191ec785682",
       "rawPath": "data/raw/63227c3af5040a6c976301e9d6bfd32a.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "1e3ebf94e41ebe19793bfa16d9a1ceac",
+      "title": "Retell uses OpenAI models to help power 100M monthly calls",
+      "url": "https://openai.com/index/retell-ai",
+      "publishedAt": "2026-10-27T15:00:00.000Z",
+      "crawledAt": "2026-10-28T05:53:05.477Z",
+      "contentStatus": "ready",
+      "contentHash": "e628fd9d7bae997bf3cbbe74bc93be5c6fab19b78f3a1e680e55edf7f23ad69c",
+      "rawPath": "data/raw/1e3ebf94e41ebe19793bfa16d9a1ceac.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -205,6 +227,28 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "948a3a997896d635c0f563abdc3478d8",
+      "title": "Modular quantum computing takes shape with l-couplers",
+      "url": "https://research.ibm.com/blog/connecting-quantum-processors-with-l-couplers",
+      "publishedAt": "2026-10-27T12:00:00.000Z",
+      "crawledAt": "2026-10-28T05:53:04.095Z",
+      "contentStatus": "ready",
+      "contentHash": "dc65a099671ff420be2cd2a51c38e41500c27dd5ce084ddda40d595ba293143c",
+      "rawPath": "data/raw/948a3a997896d635c0f563abdc3478d8.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "c417f8e3d39d0b893c07541bfe85fce1",
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "publishedAt": "2026-10-27T07:00:00.000Z",
+      "crawledAt": "2026-10-28T05:53:05.477Z",
+      "contentStatus": "ready",
+      "contentHash": "bc06389219fd2549b37626c6e43340c0a719b49b7c8a23f1f65a623f26243bd7",
+      "rawPath": "data/raw/c417f8e3d39d0b893c07541bfe85fce1.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "facf3b46264adaedb612573e32ee9126",
       "title": "Xaira Therapeutics Appoints Dr. Debbie Law as Chief Scientific Officer and Julia Tran as Chief People Officer | Xaira Therapeutics",
       "url": "https://www.xaira.com/news/xaira-therapeutics-appoints-dr-debbie-law-as-chief-scientific-officer-and-julia-tran-as-chief-people-officer",
@@ -235,6 +279,17 @@
       "contentStatus": "ready",
       "contentHash": "18d16f83d723646e91621492524e90d79ff5270b319ab742fb2a81a3e2a23ca2",
       "rawPath": "data/raw/71c377a3f9b749e26ccd0c46c572f46f.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "c44dc9ed271ff418b14ac5c964f0f927",
+      "title": "How Check Point accelerates vulnerability research with Daybreak",
+      "url": "https://openai.com/index/check-point-daybreak",
+      "publishedAt": "2026-10-27T00:00:00.000Z",
+      "crawledAt": "2026-10-28T05:53:05.477Z",
+      "contentStatus": "ready",
+      "contentHash": "d1e0b89e34a843e87343fdd783ed56a84c48cbb9cbce13c10458d28ad212f780",
+      "rawPath": "data/raw/c44dc9ed271ff418b14ac5c964f0f927.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -4965,6 +5020,17 @@
       "contentStatus": "ready",
       "contentHash": "242325e1e626d8e775eb9607670f8965f9e3f68ca5acac5bb906f186a793a974",
       "rawPath": "data/raw/eeb271a7dcff9962363120a60f75fb6e.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "35022fa0087cbaaa82315aab5bed6856",
+      "title": "Ask an Expert Q&A: Teya Bergamaschi",
+      "url": "https://jclinic.mit.edu/ask-an-expert-qa-teya-bergamaschi/",
+      "publishedAt": "2026-09-30T22:16:14.000Z",
+      "crawledAt": "2026-10-28T05:53:05.833Z",
+      "contentStatus": "ready",
+      "contentHash": "bd744aeda41166e1513125097ae9f62c6123741f35e0cafc0090cddd0dccf01b",
+      "rawPath": "data/raw/35022fa0087cbaaa82315aab5bed6856.json",
       "lastAnalysisStatus": "pending"
     },
     {

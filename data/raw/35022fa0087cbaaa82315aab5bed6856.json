@@ -1,0 +1,18 @@
+{
+  "id": "35022fa0087cbaaa82315aab5bed6856",
+  "title": "Ask an Expert Q&A: Teya Bergamaschi",
+  "url": "https://jclinic.mit.edu/ask-an-expert-qa-teya-bergamaschi/",
+  "sourceKey": "s01-16",
+  "sourceName": "MIT Jameel Clinic",
+  "sourceType": "高校研究机构",
+  "publishedAt": "2026-09-30T22:16:14.000Z",
+  "crawledAt": "2026-10-28T05:53:05.833Z",
+  "content": "Teya Bergamaschi is a PhD candidate in the Computational Cardiovascular Research Group, led by Jameel Clinic principal investigator Collin Stultz . There, she builds machine learning models for cardiovascular health monitoring from multimodal clinical data — waveform, imaging, text, and EHR. Her work is centered on self-supervised and representation learning methods for phenotyping, disease prediction, and patient stratification at scale. 1) What’s the biggest question you are trying to answer in your work? My research centers on leveraging data-driven ML methods for complex patient-care questions. 2) What’s something in your research that’s been exciting or surprising lately? It’s been exciting to see how self-supervised learning can surface meaningful patient trajectory patterns from messy, real-world data without needing predefined labels. Finding that these learned representations can capture subtle clinical changes before they become obvious has been really promising, and doing so without labels makes these models far more adaptable across different clinical settings. 3) What is the biggest challenge in your area of research? The biggest challenge is working with the complex, irregular nature of longitudinal EHR data. Beyond managing missingness and timing, evaluating models across different healthcare institutions, where patient populations and clinical practices naturally vary, is challenging. 4) If your research succeeds, how could it help patients or medicine? If successful, this research will allow us to leverage patient data to better predict patient trajectories. The goal is that this will enable clinicians to deliver more patient-centered care and achieve better patient outcomes. 5) What papers or whose work have you been reading lately that you’d like to give a shoutout to? I always want to give a shoutout to my labmates, who are always doing amazing work and who I feel so privileged to get to work with. I have also been really interested in recent work applying topological data analysis and cellular sheaf theory to graph neural networks.",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-10-28T05:53:05.833Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "bd744aeda41166e1513125097ae9f62c6123741f35e0cafc0090cddd0dccf01b"
+}
