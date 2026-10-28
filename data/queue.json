@@ -1,11 +1,66 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-28T13:13:01.725Z",
-  "pendingCount": 624,
-  "readyCount": 624,
+  "updatedAt": "2026-10-28T22:44:06.856Z",
+  "pendingCount": 631,
+  "readyCount": 631,
   "awaitingContentCount": 0,
   "excludedContentCount": 55,
   "items": [
+    {
+      "id": "41fbbb4851e90ac643b9e0c03a4cd08b",
+      "title": "Xaira Therapeutics raised nearly $1 billion. Here's its next act | Xaira Therapeutics",
+      "url": "https://www.xaira.com/news/xaira-therapeutics-raised-nearly-1-billion-heres-its-next-act",
+      "publishedAt": null,
+      "crawledAt": "2026-10-28T22:41:42.319Z",
+      "contentStatus": "ready",
+      "contentHash": "144645dae8ad6080f3ce4a2377524d0c449fb91aca4f61101d0d6255efaf9909",
+      "rawPath": "data/raw/41fbbb4851e90ac643b9e0c03a4cd08b.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "44a4d8ae29b456d3df092e3c5642dd28",
+      "title": "Xaira Therapeutics Launches X-Cell, Its First Virtual Cell Model, Trained on the Largest-Ever Genome-Wide Perturbation Dataset, X-Atlas/Pisces | Xaira Therapeutics",
+      "url": "https://www.xaira.com/news/xaira-therapeutics-launches-x-cell-its-first-virtual-cell-model-trained-on-the-largest-ever-genome-wide-perturbation-dataset-x-atlas-pisces",
+      "publishedAt": null,
+      "crawledAt": "2026-10-28T22:41:42.247Z",
+      "contentStatus": "ready",
+      "contentHash": "de995c583f318caa0677f4d5a5ff5f0df7ac17427b5396844b163320e70e4b92",
+      "rawPath": "data/raw/44a4d8ae29b456d3df092e3c5642dd28.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "2cea5ac40ec8e4c4426176f9237b6e4e",
+      "title": "Designing Beyond Viral Evolution: Peer-Reviewed First-in-Human Results for GB-0669 | Generate:Biomedicines",
+      "url": "https://generatebiomedicines.com/blog-posts/designing-beyond-viral-evolution-peer-reviewed-first-in-human-results-for-gb-0669/",
+      "publishedAt": null,
+      "crawledAt": "2026-10-28T22:41:41.803Z",
+      "contentStatus": "ready",
+      "contentHash": "c784c585283cadd7a3ea8ac132e884acca11e6510213dfead0334bac996f281b",
+      "rawPath": "data/raw/2cea5ac40ec8e4c4426176f9237b6e4e.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "6e2f8e59479ee2168eeeafc854f45e13",
+      "title": "Less is More: Refactoring the CAR Signaling Domain | Generate:Biomedicines",
+      "url": "https://generatebiomedicines.com/blog-posts/less-is-more-refactoring-the-car-signaling-domain/",
+      "publishedAt": null,
+      "crawledAt": "2026-10-28T22:41:41.761Z",
+      "contentStatus": "ready",
+      "contentHash": "6ecad9e00e42a97cde012a1597c06a9ed5dfd819799775470704fd3ebac4c1d7",
+      "rawPath": "data/raw/6e2f8e59479ee2168eeeafc854f45e13.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "896ca22579c377e0a323d93b5e8a58af",
+      "title": "News 10.28.2026",
+      "url": "https://www.broadinstitute.org/news/biological-mechanism-underlying-huntingtons-disease-may-be-more-widespread-brain-previously",
+      "publishedAt": "2026-10-28T13:20:10.000Z",
+      "crawledAt": "2026-10-28T22:41:37.681Z",
+      "contentStatus": "ready",
+      "contentHash": "68fc254946003861f784f7a664a3ef8fbb4cd8a283e5af7e9bc31a7d3e9fdf65",
+      "rawPath": "data/raw/896ca22579c377e0a323d93b5e8a58af.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "cf1028ba9d0bdb77e1e3e7b218aa85ce",
       "title": "关于召开2026年中国药学会药物流行病学学术年会的通...",
@@ -48,6 +103,17 @@
       "contentStatus": "ready",
       "contentHash": "238ea93454657328a9fb6ed68ce7a718815262bdc355f7b08020b1b8ef2db29b",
       "rawPath": "data/raw/68c358cb44f4a3ede16b18e512a52e17.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "3eeb6e522b851184cad2e69a27b21d2f",
+      "title": "Facial Recognition Experts Can Identify You by … Your Ears?",
+      "url": "https://www.nist.gov/blogs/taking-measure/facial-recognition-experts-can-identify-you-your-ears",
+      "publishedAt": "2026-10-28T12:00:00.000Z",
+      "crawledAt": "2026-10-28T22:41:37.098Z",
+      "contentStatus": "ready",
+      "contentHash": "fab2d25c612fad390582feed14d79719400735ac1f202d78e566d7fb154d8a81",
+      "rawPath": "data/raw/3eeb6e522b851184cad2e69a27b21d2f.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -290,6 +356,17 @@
       "contentStatus": "ready",
       "contentHash": "3a847cdf90dc079b52eb68d2ffe2e223476745903e6303da8c854b29a9bd310d",
       "rawPath": "data/raw/1e8da2ce18f9512b7c760f53da6acd80.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "73a3b515772d1b742fd2968fd22a58eb",
+      "title": "NIST Report Provides Guidelines for Transition to Post-Quantum Cryptography Standards",
+      "url": "https://www.nist.gov/news-events/news/2026/10/nist-report-provides-guidelines-transition-post-quantum-cryptography",
+      "publishedAt": "2026-10-27T12:00:00.000Z",
+      "crawledAt": "2026-10-28T22:41:37.039Z",
+      "contentStatus": "ready",
+      "contentHash": "0dc7b4f395d63c1a763dff250a263782d9605cba274a82f05f34772b71487fee",
+      "rawPath": "data/raw/73a3b515772d1b742fd2968fd22a58eb.json",
       "lastAnalysisStatus": "pending"
     },
     {
