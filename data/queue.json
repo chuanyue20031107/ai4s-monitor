@@ -1,11 +1,55 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-28T05:56:13.560Z",
-  "pendingCount": 618,
-  "readyCount": 618,
+  "updatedAt": "2026-10-28T13:13:01.725Z",
+  "pendingCount": 624,
+  "readyCount": 624,
   "awaitingContentCount": 0,
   "excludedContentCount": 55,
   "items": [
+    {
+      "id": "cf1028ba9d0bdb77e1e3e7b218aa85ce",
+      "title": "关于召开2026年中国药学会药物流行病学学术年会的通...",
+      "url": "https://www.cpa.org.cn/?do=info&cid=79135",
+      "publishedAt": null,
+      "crawledAt": "2026-10-28T13:10:24.807Z",
+      "contentStatus": "ready",
+      "contentHash": "f5116185cc782c35c0046d6ae300143fe6327d3c898f8b885ba9986a0c1973d7",
+      "rawPath": "data/raw/cf1028ba9d0bdb77e1e3e7b218aa85ce.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "4ebbcdcf51d32ca9a52eb004b482bb1f",
+      "title": "国轩高科获2026金辑奖最佳出海实践奖 2026-10-23 2026-10-23",
+      "url": "https://www.gotion.com.cn/newsInfo/997",
+      "publishedAt": null,
+      "crawledAt": "2026-10-28T13:10:02.875Z",
+      "contentStatus": "ready",
+      "contentHash": "4fabc6d256bfefc93577c2ad3184d8a9ed24eb4283460ca74b8c1736c7a3dfb9",
+      "rawPath": "data/raw/4ebbcdcf51d32ca9a52eb004b482bb1f.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "c5988cff26447bf892df092570925bab",
+      "title": "获IEC三项国际认证！国轩高科储能BMS以高安全技术体系赋能AIDC等高价值场景 2026-10-28 2026-10-28",
+      "url": "https://www.gotion.com.cn/newsInfo/998",
+      "publishedAt": null,
+      "crawledAt": "2026-10-28T13:10:02.632Z",
+      "contentStatus": "ready",
+      "contentHash": "4b54f615a252d2e277ff8f8cbe76c16534e2f579d3eb1d97fd1ab610ab547130",
+      "rawPath": "data/raw/c5988cff26447bf892df092570925bab.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "68c358cb44f4a3ede16b18e512a52e17",
+      "title": "化工园区环境异常，下一步查哪里？ 2026-10-27",
+      "url": "https://www.fpi-inc.com/news_cont_48361.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-28T13:07:32.620Z",
+      "contentStatus": "ready",
+      "contentHash": "238ea93454657328a9fb6ed68ce7a718815262bdc355f7b08020b1b8ef2db29b",
+      "rawPath": "data/raw/68c358cb44f4a3ede16b18e512a52e17.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "d2546a60e89693994f5f58d9fcec8531",
       "title": "IBM and Kaggle launch leaderboard for Java framework migration",
@@ -103,6 +147,28 @@
       "contentStatus": "ready",
       "contentHash": "f4d992ba320a3b7bc1088bfbf8592cf1933d4e68c17134528a142191ec785682",
       "rawPath": "data/raw/63227c3af5040a6c976301e9d6bfd32a.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "96ebb64edfb710b7042f4cd3c5cb03dc",
+      "title": "Meet the 2026 AIChE 35 Under 35 Award Winners",
+      "url": "https://www.aiche.org/meet-2026-aiche-35-under-35-award-winners",
+      "publishedAt": "2026-10-27T20:03:10.000Z",
+      "crawledAt": "2026-10-28T13:10:26.779Z",
+      "contentStatus": "ready",
+      "contentHash": "791b30a08633c0e97de76b7d95276c9f2d6960068e2d35bc63e245d0f592dcde",
+      "rawPath": "data/raw/96ebb64edfb710b7042f4cd3c5cb03dc.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "346a1b84fad78bc81bf44596bd379429",
+      "title": "Scott Herrmann of Qnity Electronics Named AIChE’s 2026 Lawrence B. Evans Award Recipient",
+      "url": "https://www.aiche.org/scott-herrmann-qnity-electronics-named-aiches-2026-lawrence-b-evans-award-recipient",
+      "publishedAt": "2026-10-27T17:03:09.000Z",
+      "crawledAt": "2026-10-28T13:10:26.779Z",
+      "contentStatus": "ready",
+      "contentHash": "94290df783f6399b073d3b7b9fd4eb3c0e547d8fe12bca7e7bbc6d79b354f5ab",
+      "rawPath": "data/raw/346a1b84fad78bc81bf44596bd379429.json",
       "lastAnalysisStatus": "pending"
     },
     {
