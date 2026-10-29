@@ -1,0 +1,18 @@
+{
+  "id": "865e26f1159d1db7c58a09e3c982718b",
+  "title": "Podcasts",
+  "url": "https://www.ga4gh.org/news-events/podcasts/",
+  "sourceKey": "s11-04",
+  "sourceName": "GA4GH",
+  "sourceType": "基因组标准组织",
+  "publishedAt": null,
+  "crawledAt": "2026-10-29T13:17:55.884Z",
+  "content": "28 February 2024 OmicsXchange Season 2, Episode 1: Together for CHANGE: sequencing the African American genome with Lyndon Mitnaul and James Hildreth Sr. See more",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-10-29T13:17:55.884Z",
+  "contentTruncated": true,
+  "contentError": "",
+  "contentHash": "df8b64cba9b4f45afdc36a119d1836dd8da0a5c35915e5b1b36bd2bd49b8b273"
+}
