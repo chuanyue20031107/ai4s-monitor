@@ -1,0 +1,18 @@
+{
+  "id": "61f4eeb7eafeddc1175767c1f9aca259",
+  "title": "Event Report:Young Researchers' Association for Machine Learning (YAML) 2026 (September 23-25, 2026)",
+  "url": "https://aip.riken.jp/news/yaml2026/",
+  "sourceKey": "s01-22",
+  "sourceName": "RIKEN Center for Advanced Intelligence Project",
+  "sourceType": "国家研究机构",
+  "publishedAt": null,
+  "crawledAt": "2026-10-29T22:51:27.685Z",
+  "content": "From Wednesday, September 23 to Friday, September 25, 2026 , students and young researchers engaged in machine learning research across Japan gathered for the Young Researchers’ Association for Machine Learning (YAML) 2026 , held at Tsukioka Hotel in Kaminoyama Onsen, Yamagata Prefecture . YAML is a retreat-style workshop that brings together students and early-career researchers in machine learning. Through invited talks, research presentations, discussions, and networking activities, participants deepen their understanding of the field while fostering connections across institutions and research areas. This year, approximately 80 participants attended the event, making it larger than the previous year’s gathering. For program details, please visit the following website (Japanese): YAML 2026 Nihonbashi 1-chome Mitsui Building, 15th floor, e-mail: aip-koho [at]riken.jp *Please replace \"[at]\" with \"@\".",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-10-29T22:51:27.685Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "7fd43c6c021b16d26350bc5f1d4bfb7f3e2e150d2b33ab24f57e1aa816240bd2"
+}

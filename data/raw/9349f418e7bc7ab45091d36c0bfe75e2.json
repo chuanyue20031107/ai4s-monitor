@@ -1,0 +1,18 @@
+{
+  "id": "9349f418e7bc7ab45091d36c0bfe75e2",
+  "title": "An updated Model Spec for more capable and beneficial AI",
+  "url": "https://openai.com/index/updated-model-spec",
+  "sourceKey": "s01-14",
+  "sourceName": "OpenAI",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": "2026-10-29T17:00:00.000Z",
+  "crawledAt": "2026-10-29T22:51:23.763Z",
+  "content": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-10-29T22:51:23.763Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "6d9fb8113e3730b8a6bf95ce8d67d4f73348fbaf8a8de73f6270714658c0fd2e"
+}

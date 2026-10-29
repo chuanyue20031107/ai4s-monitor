@@ -1,0 +1,18 @@
+{
+  "id": "cf488dcd263a5aedb5ddab84097b0a92",
+  "title": "AQMed at TCT 2026 | SandboxAQ",
+  "url": "https://www.sandboxaq.com/aqmed-tct-2026",
+  "sourceKey": "s02-25",
+  "sourceName": "SandboxAQ",
+  "sourceType": "AI/量子技术公司",
+  "publishedAt": null,
+  "crawledAt": "2026-10-29T22:51:31.526Z",
+  "content": "We’re in San Diego to share new magnetocardiography research and showcase our investigational cardiac device for mapping the heart’s magnetic field at bedside. Share a few details and we’ll follow up to find a time during the conference. See what the AQMed team and our clinical collaborators are presenting in San Diego. Study of ECG-silent ischemic injury currents using a mobile, unshielded magnetocardiography array. Early results from the PRISM2 feasibility study of mobile, unshielded magnetocardiography in high-risk coronary artery disease. A study with Mount Sinai evaluating unshielded magnetocardiography in the triage of patients with suspected acute coronary syndrome. A study with Mount Sinai evaluating unshielded magnetocardiography in the triage of patients with suspected acute coronary syndrome. Our team is at TCT from October 31 through November 3. Catch our presentations or request a time to meet. Brian Cottle, PhD | Station 5, Halls C–G, Ground Level Agata Sularz, MD (support: Rezwan Ahmed) | Station 4, Halls C–G, Ground Level To view an abstract, find the session number on the TCT program page and select “View Abstract.” AQMed is SandboxAQ’s medical technology initiative, combining advanced sensors with AI. CardiAQ is an investigational magnetocardiography (MCG) device that measures the magnetic fields produced by the heart’s electrical activity. CardiAQ is designed to work without a magnetically shielded room. AI filters out ambient magnetic noise, so scans can happen in a busy hospital environment. CAUTION Investigational device. Limited by Federal (or United States) law to investigational use. How AI & Magnetocardiography (MCG) Could Revolutionize Cardiology | Mayo Clinic & SandboxAQ Inside SandboxAQ: Building Frontier Medical Technology Rebuilding Heart Signals from Noise: The Science Behind SandboxAQ’s MCG Device Beyond the EKG: Using Quantum Sensors to Detect Heart Attacks From the Lab to Hospital Bedside: How Magnetic Fields Can Detect Heart Attacks Faster AI Is Learning to Detect the Human Heart by Filtering Out Magnetic Noise SandboxAQ, Mayo Clinic partner to explore dual-modality cardiac diagnostics for amyloidosis Mayo Clinic taps startup SandboxAQ to study new tech, quantum sensing and AI, for cardiac diagnostics SandboxAQ Announces Collaboration with Mayo Clinic to Advance Cardiovascular Disease Monitoring in Amyloidosis SandboxAQ Collaborates with Mayo Clinic on Novel Cardiac Diagnostics Let’s find time to talk about the research and potential collaboration. CardiAQ is an investigational device. Limited by Federal law to investigational use. It has not been cleared or approved by the U.S. Food and Drug Administration (FDA). It is not available for commercial sale or clinical use. The information on this page is intended for research and educational purposes only and does not constitute medical advice.",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-10-29T22:51:31.526Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "4a839d9d00635e0eae10295a143713b8a3b37a999f2b4d315c9a2ef39de917e2"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0f01adb2acab0a67ba71c0b077a856b8",
+  "title": "How we detect frontier model misalignment",
+  "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+  "sourceKey": "s01-14",
+  "sourceName": "OpenAI",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": "2026-10-29T09:00:00.000Z",
+  "crawledAt": "2026-10-29T22:51:23.764Z",
+  "content": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-10-29T22:51:23.764Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "4485911e5bff8a142bffb59dfefccf91f768ed7ba6e2531413530eb424fbe24b"
+}

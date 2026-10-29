@@ -1,0 +1,18 @@
+{
+  "id": "d948735545c20cf3072195dbbc120386",
+  "title": "How Ropes & Gray is developing AI for transactional diligence",
+  "url": "https://openai.com/index/ropes-gray-ai-diligence",
+  "sourceKey": "s01-14",
+  "sourceName": "OpenAI",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": "2026-10-29T07:00:00.000Z",
+  "crawledAt": "2026-10-29T22:51:23.764Z",
+  "content": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-10-29T22:51:23.764Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "e23ad90c8ce1792be439c2bff042012a77702b8956910b97f8948b3c3c971a63"
+}
