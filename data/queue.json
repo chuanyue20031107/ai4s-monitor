@@ -1,11 +1,88 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-28T22:44:06.856Z",
-  "pendingCount": 631,
-  "readyCount": 631,
+  "updatedAt": "2026-10-29T06:06:23.894Z",
+  "pendingCount": 638,
+  "readyCount": 638,
   "awaitingContentCount": 0,
   "excludedContentCount": 55,
   "items": [
+    {
+      "id": "d4dd447ad488106081830bdae0f5ab21",
+      "title": "2026-10-27 3GWh！INTILION与宁德时代签约，钠电储能规模化出海 了解更多",
+      "url": "https://www.catl.com/news/10337.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-29T06:03:31.024Z",
+      "contentStatus": "ready",
+      "contentHash": "bc50f2aea146c44a88cd2bcb1e2cfa8543b9b027cfcbefb06c40e5a633996317",
+      "rawPath": "data/raw/d4dd447ad488106081830bdae0f5ab21.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "e06205894c6d21a8a3ddd8933e0545b3",
+      "title": "我所发展时空分辨光谱电化学新方法并实现电催化活性位点鉴别",
+      "url": "https://www.dicp.ac.cn/xwdt/kyjz/202610/t20261028_8299751.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-29T06:01:13.173Z",
+      "contentStatus": "ready",
+      "contentHash": "f233b4c685b5984dd59dacea374b113f0ae709e49e7bafc2710f428c0829beb3",
+      "rawPath": "data/raw/e06205894c6d21a8a3ddd8933e0545b3.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "97f83b413ca8f2ca79a7352a90b904b9",
+      "title": "2026/11 23 Modeling human neural development and disease using organoids 2026年11月23日 10:00-11:30 向阳飞教授 卫光生命科学园1A栋19楼1925会议室 了解详情",
+      "url": "https://www.szbl.ac.cn/info/1017/10633.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-10-29T06:00:57.510Z",
+      "contentStatus": "ready",
+      "contentHash": "c129eb732e8800a720e8a6d1910c7902c54d90187cb9fdefbdc32ae1525d7e2e",
+      "rawPath": "data/raw/97f83b413ca8f2ca79a7352a90b904b9.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "f85e1520732d69bea06490277a588b3a",
+      "title": "天津工生所在活性肽生物创制及其代谢调控方面取得系列进展",
+      "url": "https://tib.cas.cn/xwdt/kyjz/202610/t20261013_8291825.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-29T05:58:29.762Z",
+      "contentStatus": "ready",
+      "contentHash": "41e76317e1bfe06ef0291bd95435c3eaafacb8028674cee70688f6daa699da7d",
+      "rawPath": "data/raw/f85e1520732d69bea06490277a588b3a.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "34d1372980dca374c80aa163654249e7",
+      "title": "天津工生所在嗜热真菌表观遗传编辑与纤维素酶表达可逆调控方面取得新进展",
+      "url": "https://tib.cas.cn/xwdt/kyjz/202610/t20261014_8292289.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-29T05:58:29.355Z",
+      "contentStatus": "ready",
+      "contentHash": "98c9218484b1b4278de68b0efbcec1b9776bea69670e96697c21033f472cd7f2",
+      "rawPath": "data/raw/34d1372980dca374c80aa163654249e7.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "140221443d5c95db51a8fb42c5f229c7",
+      "title": "天津工生所在生物质一步发酵合成谷氨酸方面取得新进展",
+      "url": "https://tib.cas.cn/xwdt/kyjz/202610/t20261014_8292291.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-29T05:58:28.651Z",
+      "contentStatus": "ready",
+      "contentHash": "57ec263cdc58efba597c66ce2ec5f04e6c7eef189d8a2a2cbc2f0b36229ef37a",
+      "rawPath": "data/raw/140221443d5c95db51a8fb42c5f229c7.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "5ab88d93edd9d1d45bc53ce328415a4a",
+      "title": "学校举办2027届毕业生中学教师专场招聘会",
+      "url": "http://news.ustc.edu.cn/info/1055/96715.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-10-29T05:58:20.267Z",
+      "contentStatus": "ready",
+      "contentHash": "6b3722b69f191d194cbbc74eb0e1cb86b29463ef466176317fe842c5cd8864dd",
+      "rawPath": "data/raw/5ab88d93edd9d1d45bc53ce328415a4a.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "41fbbb4851e90ac643b9e0c03a4cd08b",
       "title": "Xaira Therapeutics raised nearly $1 billion. Here's its next act | Xaira Therapeutics",
