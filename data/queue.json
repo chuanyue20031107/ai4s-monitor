@@ -1,11 +1,44 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-30T13:07:43.859Z",
-  "pendingCount": 666,
-  "readyCount": 666,
+  "updatedAt": "2026-10-30T22:31:17.555Z",
+  "pendingCount": 672,
+  "readyCount": 672,
   "awaitingContentCount": 0,
   "excludedContentCount": 55,
   "items": [
+    {
+      "id": "5512e3b3bb8051e27b9d11d088e962bd",
+      "title": "我所开发协同添加剂策略拓宽空气环境下狭缝涂布钙钛矿加工窗口",
+      "url": "https://www.dicp.ac.cn/xwdt/kyjz/202610/t20261030_8300497.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-30T22:31:10.564Z",
+      "contentStatus": "ready",
+      "contentHash": "460ac4efd4bfcf60af70926b1189bef7a7cf2454bcc6cc8df973293420844323",
+      "rawPath": "data/raw/5512e3b3bb8051e27b9d11d088e962bd.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "e47231f90d8284a6d939c03767f3f211",
+      "title": "辽宁省委常委、大连市委书记李强，大连市委副书记、市长姚华明调研我所",
+      "url": "https://www.dicp.ac.cn/xwdt/ttxw/202610/t20261030_8300489.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-30T22:31:10.167Z",
+      "contentStatus": "ready",
+      "contentHash": "e64d29c5c6499bf4eb240689a06f4b7354b20c553a49434f137709e102c42a0f",
+      "rawPath": "data/raw/e47231f90d8284a6d939c03767f3f211.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "6c33cb5e3eed1897ff7ae18cb222ca7d",
+      "title": "2026国际能源与催化研讨会在中国科大举行",
+      "url": "http://news.ustc.edu.cn/info/1055/96756.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-10-30T22:30:57.821Z",
+      "contentStatus": "ready",
+      "contentHash": "40f4867324a6d9cb7a640ef02c9a3e3470caae6564c0abe32f76ab4a30fb2c25",
+      "rawPath": "data/raw/6c33cb5e3eed1897ff7ae18cb222ca7d.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "b26bef6587ebbd5691f911691b6dabe8",
       "title": "Xaira wins the 2026 Fierce AI Innovation Award for Preclinical Development | Xaira Therapeutics",
@@ -392,6 +425,17 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "e89f5fdbd218c94db175f6c9a15f9834",
+      "title": "晶泰科技与新加坡科技研究局签署合作备忘录，以AI加速材料创新与产业转化",
+      "url": "https://www.xtalpi.com/%e6%99%b6%e6%b3%b0%e7%a7%91%e6%8a%80%e4%b8%8e%e6%96%b0%e5%8a%a0%e5%9d%a1%e7%a7%91%e6%8a%80%e7%a0%94%e7%a9%b6%e5%b1%80%e7%ad%be%e7%bd%b2%e5%90%88%e4%bd%9c%e5%a4%87%e5%bf%98%e5%bd%95%ef%bc%8c%e4%bb%a5ai/",
+      "publishedAt": "2026-10-29T02:40:34.000Z",
+      "crawledAt": "2026-10-30T22:30:56.487Z",
+      "contentStatus": "ready",
+      "contentHash": "8f18bc1b4790d81af1ff8bc40e866191bc7a801fda7d282184e70e012331506a",
+      "rawPath": "data/raw/e89f5fdbd218c94db175f6c9a15f9834.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "41fbbb4851e90ac643b9e0c03a4cd08b",
       "title": "Xaira Therapeutics raised nearly $1 billion. Here's its next act | Xaira Therapeutics",
       "url": "https://www.xaira.com/news/xaira-therapeutics-raised-nearly-1-billion-heres-its-next-act",
@@ -510,6 +554,17 @@
       "contentStatus": "ready",
       "contentHash": "bb2abae42b5d606e575f0bafb2a5a280a8c76833f0a12122194889ca2a7dadac",
       "rawPath": "data/raw/d2546a60e89693994f5f58d9fcec8531.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "b97ecbef2174b186e39c5ce17bdcd149",
+      "title": "晶泰自研创新药获FDA临床试验许可",
+      "url": "https://www.xtalpi.com/%e6%99%b6%e6%b3%b0%e8%87%aa%e7%a0%94%e5%88%9b%e6%96%b0%e8%8d%af%e8%8e%b7fda%e4%b8%b4%e5%ba%8a%e8%af%95%e9%aa%8c%e8%ae%b8%e5%8f%af/",
+      "publishedAt": "2026-10-28T02:37:33.000Z",
+      "crawledAt": "2026-10-30T22:30:56.488Z",
+      "contentStatus": "ready",
+      "contentHash": "c91e0de1371931018a68de847af7958aec976eec8ef3de206f332be770f41501",
+      "rawPath": "data/raw/b97ecbef2174b186e39c5ce17bdcd149.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -807,6 +862,17 @@
       "contentStatus": "ready",
       "contentHash": "18d16f83d723646e91621492524e90d79ff5270b319ab742fb2a81a3e2a23ca2",
       "rawPath": "data/raw/71c377a3f9b749e26ccd0c46c572f46f.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "5f59b40aed65419e51a75a4b31c3cb69",
+      "title": "挑战“不可成药”三十余年，这位哈佛科学家为何将目光投向中国？",
+      "url": "https://www.xtalpi.com/%e6%8c%91%e6%88%98%e4%b8%8d%e5%8f%af%e6%88%90%e8%8d%af%e4%b8%89%e5%8d%81%e4%bd%99%e5%b9%b4%ef%bc%8c%e8%bf%99%e4%bd%8d%e5%93%88%e4%bd%9b%e7%a7%91%e5%ad%a6%e5%ae%b6%e4%b8%ba%e4%bd%95/",
+      "publishedAt": "2026-10-27T02:32:30.000Z",
+      "crawledAt": "2026-10-30T22:30:56.488Z",
+      "contentStatus": "ready",
+      "contentHash": "4daf0c9bfeaf8c177b658d17635d259f11c1433e57b7aa285eace8ec876dd896",
+      "rawPath": "data/raw/5f59b40aed65419e51a75a4b31c3cb69.json",
       "lastAnalysisStatus": "pending"
     },
     {
