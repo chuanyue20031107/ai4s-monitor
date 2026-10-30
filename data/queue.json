@@ -1,11 +1,66 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-30T05:58:51.699Z",
-  "pendingCount": 659,
-  "readyCount": 659,
+  "updatedAt": "2026-10-30T13:07:43.859Z",
+  "pendingCount": 666,
+  "readyCount": 666,
   "awaitingContentCount": 0,
   "excludedContentCount": 55,
   "items": [
+    {
+      "id": "b26bef6587ebbd5691f911691b6dabe8",
+      "title": "Xaira wins the 2026 Fierce AI Innovation Award for Preclinical Development | Xaira Therapeutics",
+      "url": "https://www.xaira.com/news/xaira-wins-the-2026-fierce-ai-innovation-award-for-preclinical-development",
+      "publishedAt": null,
+      "crawledAt": "2026-10-30T13:07:25.944Z",
+      "contentStatus": "ready",
+      "contentHash": "cc50a241de65cb175e616ee704e35b9f55be0a86df582e7a30e52242d7ba86ab",
+      "rawPath": "data/raw/b26bef6587ebbd5691f911691b6dabe8.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "a8a20d1fb1bd19c7e911f0be79d7405d",
+      "title": "Xaira Therapeutics Releases Largest Perturb-Seq Dataset to Power the Virtual Cell | Xaira Therapeutics",
+      "url": "https://www.xaira.com/news/xaira-therapeutics-releases-largest-perturb-seq-dataset-to-power-the-virtual-cell",
+      "publishedAt": null,
+      "crawledAt": "2026-10-30T13:07:25.896Z",
+      "contentStatus": "ready",
+      "contentHash": "144645dae8ad6080f3ce4a2377524d0c449fb91aca4f61101d0d6255efaf9909",
+      "rawPath": "data/raw/a8a20d1fb1bd19c7e911f0be79d7405d.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "ff0228520a768cae83aa3d2b07db9af6",
+      "title": "Introducing Generative Biology, Part I: Extracting the Hidden Principles of Biology with Machine Learning | Generate:Biomedicines",
+      "url": "https://generatebiomedicines.com/blog-posts/introducing-generative-biology-part-i/",
+      "publishedAt": null,
+      "crawledAt": "2026-10-30T13:07:25.543Z",
+      "contentStatus": "ready",
+      "contentHash": "c79ad36b32b43e1f57dbff4c4f4cd550f2807486e98dd27fe7fbb33be6bcab3f",
+      "rawPath": "data/raw/ff0228520a768cae83aa3d2b07db9af6.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "effdae7446b8fb6184a0e3c66d3882b1",
+      "title": "Chroma | Generate:Biomedicines",
+      "url": "https://generatebiomedicines.com/blog-posts/generatechroma-a-generative-model-for-protein-design/",
+      "publishedAt": null,
+      "crawledAt": "2026-10-30T13:07:25.119Z",
+      "contentStatus": "ready",
+      "contentHash": "2b2c752ca27c688d31956d767938f1c427b6a8455726a5ed59f275f23573f98b",
+      "rawPath": "data/raw/effdae7446b8fb6184a0e3c66d3882b1.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "7f76fde50a9a411473a4fa7d4321343e",
+      "title": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence",
+      "url": "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/",
+      "publishedAt": "2026-10-30T13:05:28.000Z",
+      "crawledAt": "2026-10-30T13:07:21.806Z",
+      "contentStatus": "ready",
+      "contentHash": "0581cd111c3f79696b7127ddcb20896a5d18fc9a815d204b2909aed162ffc495",
+      "rawPath": "data/raw/7f76fde50a9a411473a4fa7d4321343e.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "3838d38ffe6644bcc993151fe11af933",
       "title": "亮相马来西亚IGEM展会｜GOTION展示核心产品，并获“Best Creative Booth” 2026-10-28 2026-10-28",
@@ -92,6 +147,17 @@
       "contentStatus": "ready",
       "contentHash": "f1ccfd3c53666ae0819bb27bb938a1ae4048c970649994dbebd23e63b538c58d",
       "rawPath": "data/raw/d9a1c1cbf790b69c9a6dab72888dab2f.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "d368308dafb9bf4a5ac8b05985cacf3f",
+      "title": "Microsoft Research Focus – Edition #97",
+      "url": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97/",
+      "publishedAt": "2026-10-29T19:19:16.000Z",
+      "crawledAt": "2026-10-30T13:07:21.807Z",
+      "contentStatus": "ready",
+      "contentHash": "9bfcc44312ad93ecc9b2aa96858b0a381258177ca6fb3706b650a7563e57ec6b",
+      "rawPath": "data/raw/d368308dafb9bf4a5ac8b05985cacf3f.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -213,6 +279,17 @@
       "contentStatus": "ready",
       "contentHash": "a856a583d8a3f4815188bcfb0835657c7347d5a05103e4db39ea7907b3b8ec5e",
       "rawPath": "data/raw/a0d62a7dcca7f9488d2f9d57041d6642.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "36b7e1433bea11dd9672e7049acac3f7",
+      "title": "News 10.29.2026",
+      "url": "https://www.broadinstitute.org/news/study-reveals-distinct-cellular-and-genetic-differences-colorectal-cancer-younger-patients",
+      "publishedAt": "2026-10-29T10:13:48.000Z",
+      "crawledAt": "2026-10-30T13:07:22.895Z",
+      "contentStatus": "ready",
+      "contentHash": "81dd5affd5469b8c87f587f7f668b7978871783ce45dfc28595a67d7433fd920",
+      "rawPath": "data/raw/36b7e1433bea11dd9672e7049acac3f7.json",
       "lastAnalysisStatus": "pending"
     },
     {
