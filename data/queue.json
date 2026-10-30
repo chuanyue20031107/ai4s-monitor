@@ -1,11 +1,44 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-29T22:51:36.368Z",
-  "pendingCount": 656,
-  "readyCount": 656,
+  "updatedAt": "2026-10-30T05:58:51.699Z",
+  "pendingCount": 659,
+  "readyCount": 659,
   "awaitingContentCount": 0,
   "excludedContentCount": 55,
   "items": [
+    {
+      "id": "3838d38ffe6644bcc993151fe11af933",
+      "title": "亮相马来西亚IGEM展会｜GOTION展示核心产品，并获“Best Creative Booth” 2026-10-28 2026-10-28",
+      "url": "https://www.gotion.com.cn/newsInfo/999",
+      "publishedAt": null,
+      "crawledAt": "2026-10-30T05:58:33.353Z",
+      "contentStatus": "ready",
+      "contentHash": "061bbfdf6b95fc2435020709210cab643e4598214ac09876b825fc2aca8393ea",
+      "rawPath": "data/raw/3838d38ffe6644bcc993151fe11af933.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "a1aad1fb018817052898b3ed86a9f58d",
+      "title": "国产毛细管电泳仪，进入头部第三方医学检验机构 2026-10-29",
+      "url": "https://www.fpi-inc.com/news_cont_48364.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-30T05:58:29.934Z",
+      "contentStatus": "ready",
+      "contentHash": "30eadcb8ecc1d84aac5fcc8727ef216c7aa612add9970f3e686bcb885a68c275",
+      "rawPath": "data/raw/a1aad1fb018817052898b3ed86a9f58d.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "3f25d600db1b0ce4b7d274efc8e47c86",
+      "title": "数智赋能制药高质量发展｜睿科集团亮相 PIC2026 第四届制药产业大会（成都）",
+      "url": "https://www.raykol.com/index.php/shows/27/538.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-30T05:58:25.530Z",
+      "contentStatus": "ready",
+      "contentHash": "0c876adc19222cef9f72ef57f93f29bd15139610a6f290aef1749906af6edd9a",
+      "rawPath": "data/raw/3f25d600db1b0ce4b7d274efc8e47c86.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "cf488dcd263a5aedb5ddab84097b0a92",
       "title": "AQMed at TCT 2026 | SandboxAQ",

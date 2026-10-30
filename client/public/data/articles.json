@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "id": "3838d38ffe6644bcc993151fe11af933",
+      "title": "亮相马来西亚IGEM展会｜GOTION展示核心产品，并获“Best Creative Booth” 2026-10-28 2026-10-28",
+      "sourceKey": "s06-10",
+      "sourceName": "国轩高科",
+      "sourceType": "研发型企业",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-30T05:58:33.353Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.gotion.com.cn/newsInfo/999",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "a1aad1fb018817052898b3ed86a9f58d",
+      "title": "国产毛细管电泳仪，进入头部第三方医学检验机构 2026-10-29",
+      "sourceKey": "s04-09",
+      "sourceName": "聚光科技 FPI",
+      "sourceType": "科学仪器企业",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-30T05:58:29.934Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.fpi-inc.com/news_cont_48364.html",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "3f25d600db1b0ce4b7d274efc8e47c86",
+      "title": "数智赋能制药高质量发展｜睿科集团亮相 PIC2026 第四届制药产业大会（成都）",
+      "sourceKey": "s04-08",
+      "sourceName": "睿科集团 RayKol",
+      "sourceType": "样品前处理仪器企业",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-30T05:58:25.530Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.raykol.com/index.php/shows/27/538.html",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "cf488dcd263a5aedb5ddab84097b0a92",
       "title": "AQMed at TCT 2026 | SandboxAQ",
       "sourceKey": "s02-25",
@@ -17409,5 +17463,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-10-29T22:51:36.368Z"
+  "updatedAt": "2026-10-30T05:58:51.699Z"
 }
