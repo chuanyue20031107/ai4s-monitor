@@ -1,11 +1,77 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-30T22:31:17.555Z",
-  "pendingCount": 672,
-  "readyCount": 672,
+  "updatedAt": "2026-10-31T05:58:43.242Z",
+  "pendingCount": 678,
+  "readyCount": 678,
   "awaitingContentCount": 0,
   "excludedContentCount": 55,
   "items": [
+    {
+      "id": "0c53d2131483fba9f3b7e532dd898728",
+      "title": "• 中国人工智能学会人工智能赋能医学与生物信息学创新高端论坛成功举办 2026-10-23",
+      "url": "https://www.caai.cn/site/content/11485.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-31T05:55:35.191Z",
+      "contentStatus": "ready",
+      "contentHash": "6ce8250a177fd9e678d317b14790353c4c994e7b6a2f8680fb7092538fe0877f",
+      "rawPath": "data/raw/0c53d2131483fba9f3b7e532dd898728.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "e6a3b29c06c34a0bfbf778644d11b1c4",
+      "title": "• 2026中国人工智能学会第六期清源论坛在长沙成功举办 2026-10-27",
+      "url": "https://www.caai.cn/site/content/11484.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-31T05:55:34.914Z",
+      "contentStatus": "ready",
+      "contentHash": "12ae3971bd3f4ce3911cf60e9cf4dc678ba54ce0bf1d0f7d1ffa66e18f527e2d",
+      "rawPath": "data/raw/e6a3b29c06c34a0bfbf778644d11b1c4.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "d3b1fc88a9cf48241474e028beb31418",
+      "title": "陕西省咸阳市消防救援支队2026年度消防装备采购项目技术参数公示及意见征集",
+      "url": "https://www.ccgp.gov.cn/cggg/zygg/qtgg/202610/t20261031_27597064.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-10-31T05:55:34.781Z",
+      "contentStatus": "ready",
+      "contentHash": "31c6d75800f1242262e3354f9aadd215e0961c91f305d0ec71829b1911417baf",
+      "rawPath": "data/raw/d3b1fc88a9cf48241474e028beb31418.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "5000cc7cb9655e79f8acbcab652b0fe7",
+      "title": "• 第三届中国人工智能学会自主无人系统大会在长沙成功举办 2026-10-28",
+      "url": "https://www.caai.cn/site/content/11483.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-31T05:55:34.405Z",
+      "contentStatus": "ready",
+      "contentHash": "f086f40f32c253f7e91e3cf53a169d78361d054a0a0b2d1c1843dfd673d76a13",
+      "rawPath": "data/raw/5000cc7cb9655e79f8acbcab652b0fe7.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "747207a9e610f2b255aa9d89d0ccb7db",
+      "title": "大连经济技术开发区消防救援大队大连普湾经济区消防救援大队博浪涛消防车维修服务采购项目中...",
+      "url": "https://www.ccgp.gov.cn/cggg/zygg/zbgg/202610/t20261031_27597277.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-10-31T05:55:34.160Z",
+      "contentStatus": "ready",
+      "contentHash": "fcdd8bcdddf6b9fe15baf22cd413c049dadbfe1cd89b07e36ce635e62ee5fab9",
+      "rawPath": "data/raw/747207a9e610f2b255aa9d89d0ccb7db.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "533451b7c2512ff364c6387dbb2a9726",
+      "title": "南京大学苏州校区校医院彩色多普勒超声诊断仪（B超）公开招标公告",
+      "url": "https://www.ccgp.gov.cn/cggg/zygg/gkzb/202610/t20261031_27597322.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-10-31T05:55:33.540Z",
+      "contentStatus": "ready",
+      "contentHash": "007ac91564a3607c4b17a3b6973ecdf31e3f0022cc0d06f5582fe50f945b285f",
+      "rawPath": "data/raw/533451b7c2512ff364c6387dbb2a9726.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "5512e3b3bb8051e27b9d11d088e962bd",
       "title": "我所开发协同添加剂策略拓宽空气环境下狭缝涂布钙钛矿加工窗口",
