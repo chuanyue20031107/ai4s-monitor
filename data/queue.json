@@ -1,11 +1,55 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-31T12:45:45.042Z",
-  "pendingCount": 684,
-  "readyCount": 684,
+  "updatedAt": "2026-10-31T21:50:35.380Z",
+  "pendingCount": 688,
+  "readyCount": 688,
   "awaitingContentCount": 0,
   "excludedContentCount": 55,
   "items": [
+    {
+      "id": "ebd745f086f72ec153ed25f890d5c5da",
+      "title": "黔东南苗族侗族自治州疾病预防控制中心关于黔东南州疾控中心2026年度分子生物实验室试剂耗材采购项目（二次）的公开招标公告",
+      "url": "https://www.caclp.com/article/?detail_14423.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-31T21:48:30.401Z",
+      "contentStatus": "ready",
+      "contentHash": "ad11468f4be7dd53277f7293d3daad0a6e91864ff5dbf277553b8aff00413c25",
+      "rawPath": "data/raw/ebd745f086f72ec153ed25f890d5c5da.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "92004213b915f2c471c7c2510021be7a",
+      "title": "湖北国际旅行卫生保健中心（武汉海关口岸门诊部）2026年试剂耗材采购公开招标公告（第二次）",
+      "url": "https://www.caclp.com/article/?detail_14424.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-31T21:48:28.673Z",
+      "contentStatus": "ready",
+      "contentHash": "a01f69f5f225b330d410dce3fe144e87c87db6281fd87976651a4cccf3844b5f",
+      "rawPath": "data/raw/92004213b915f2c471c7c2510021be7a.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "6cc2e94091fc57785bc7e2e72f76eb52",
+      "title": "MiniMax Design",
+      "url": "https://design.minimax.cn/",
+      "publishedAt": null,
+      "crawledAt": "2026-10-31T21:42:58.433Z",
+      "contentStatus": "ready",
+      "contentHash": "76a9d3c6b41ede398ecc29b08d7d1cec146c006e9330c554fc67a4df98595ba0",
+      "rawPath": "data/raw/6cc2e94091fc57785bc7e2e72f76eb52.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "f9817a306fb935582fa66b9606526f1d",
+      "title": "数智赋能制药高质量发展｜睿科集团亮相 PIC2026 第四届制药产业大会（成都）",
+      "url": "https://www.raykol.com/shows/27/538.html",
+      "publishedAt": null,
+      "crawledAt": "2026-10-31T21:42:52.939Z",
+      "contentStatus": "ready",
+      "contentHash": "0c876adc19222cef9f72ef57f93f29bd15139610a6f290aef1749906af6edd9a",
+      "rawPath": "data/raw/f9817a306fb935582fa66b9606526f1d.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "02a5e3bf4b39e00b7df4a126d22ff116",
       "title": "Three questions for Public Health Expert Connie Hoe",

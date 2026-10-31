@@ -1,0 +1,18 @@
+{
+  "id": "6cc2e94091fc57785bc7e2e72f76eb52",
+  "title": "MiniMax Design",
+  "url": "https://design.minimax.cn/",
+  "sourceKey": "s03-10",
+  "sourceName": "MiniMax",
+  "sourceType": "通用模型厂商",
+  "publishedAt": null,
+  "crawledAt": "2026-10-31T21:42:58.433Z",
+  "content": "01 / 05 / 灵感输入 · AGENT MODE 描述你的灵感，启动 Agent 执行 说出想法，或直接丢进一份策划文档——主 Agent 理解意图后，自动拆解任务分配，自动（也可手动）适配最优模型，开始执行。 创意简报 任务拆解 查看详情",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-10-31T21:42:58.433Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "76a9d3c6b41ede398ecc29b08d7d1cec146c006e9330c554fc67a4df98595ba0"
+}

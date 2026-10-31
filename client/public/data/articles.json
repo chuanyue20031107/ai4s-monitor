@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "ebd745f086f72ec153ed25f890d5c5da",
+      "title": "黔东南苗族侗族自治州疾病预防控制中心关于黔东南州疾控中心2026年度分子生物实验室试剂耗材采购项目（二次）的公开招标公告",
+      "sourceKey": "s10-15",
+      "sourceName": "CACLP中国国际检验医学暨输血仪器试剂博览会",
+      "sourceType": "行业展会/会议",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-31T21:48:30.401Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.caclp.com/article/?detail_14423.html",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "92004213b915f2c471c7c2510021be7a",
+      "title": "湖北国际旅行卫生保健中心（武汉海关口岸门诊部）2026年试剂耗材采购公开招标公告（第二次）",
+      "sourceKey": "s10-15",
+      "sourceName": "CACLP中国国际检验医学暨输血仪器试剂博览会",
+      "sourceType": "行业展会/会议",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-31T21:48:28.673Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.caclp.com/article/?detail_14424.html",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "6cc2e94091fc57785bc7e2e72f76eb52",
+      "title": "MiniMax Design",
+      "sourceKey": "s03-10",
+      "sourceName": "MiniMax",
+      "sourceType": "通用模型厂商",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-31T21:42:58.433Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://design.minimax.cn/",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "f9817a306fb935582fa66b9606526f1d",
+      "title": "数智赋能制药高质量发展｜睿科集团亮相 PIC2026 第四届制药产业大会（成都）",
+      "sourceKey": "s04-08",
+      "sourceName": "睿科集团 RayKol",
+      "sourceType": "样品前处理仪器企业",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-10-31T21:42:52.939Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.raykol.com/shows/27/538.html",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "02a5e3bf4b39e00b7df4a126d22ff116",
       "title": "Three questions for Public Health Expert Connie Hoe",
       "sourceKey": "s01-24",
@@ -17913,5 +17985,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-10-31T12:45:45.042Z"
+  "updatedAt": "2026-10-31T21:50:35.380Z"
 }
