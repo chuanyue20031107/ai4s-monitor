@@ -1,11 +1,33 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-31T05:58:43.242Z",
-  "pendingCount": 678,
-  "readyCount": 678,
+  "updatedAt": "2026-10-31T12:45:45.042Z",
+  "pendingCount": 684,
+  "readyCount": 684,
   "awaitingContentCount": 0,
   "excludedContentCount": 55,
   "items": [
+    {
+      "id": "02a5e3bf4b39e00b7df4a126d22ff116",
+      "title": "Three questions for Public Health Expert Connie Hoe",
+      "url": "https://www.helmholtz.de/en/newsroom/article/three-questions-for-connie-hoe/",
+      "publishedAt": null,
+      "crawledAt": "2026-10-31T12:45:42.011Z",
+      "contentStatus": "ready",
+      "contentHash": "fad9268c59ef4aea0e4f2bf06037aee73d9bb921d28f44444b6f4866dcb85c46",
+      "rawPath": "data/raw/02a5e3bf4b39e00b7df4a126d22ff116.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "1c643b06c282b2dde769d5ef8c4a6a9d",
+      "title": "Why In Vitro Alternatives Are Equivalent to Animal Testing",
+      "url": "https://www.helmholtz.de/en/newsroom/article/why-in-vitro-alternatives-are-equivalent-to-animal-testing/",
+      "publishedAt": null,
+      "crawledAt": "2026-10-31T12:45:41.492Z",
+      "contentStatus": "ready",
+      "contentHash": "3880d1e8c26197e78947b11df29294e36bd63b04e8b8db529cf40f79149c2819",
+      "rawPath": "data/raw/1c643b06c282b2dde769d5ef8c4a6a9d.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "0c53d2131483fba9f3b7e532dd898728",
       "title": "• 中国人工智能学会人工智能赋能医学与生物信息学创新高端论坛成功举办 2026-10-23",
@@ -106,6 +128,17 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "bf434fd24cea022413b93c0a9ef34ffe",
+      "title": "10 posters you need to see NeurIPS 2026 in Sydney, Atlanta, and Paris",
+      "url": "https://jclinic.mit.edu/10-posters-to-check-at-out-neurips-2026-in-sydney-atlanta-and-paris/",
+      "publishedAt": "2026-10-30T20:15:33.000Z",
+      "crawledAt": "2026-10-31T12:45:37.820Z",
+      "contentStatus": "ready",
+      "contentHash": "41be5318c631d7df1c6e1141de47b2781dc830900a679a521b5498e22b03ba14",
+      "rawPath": "data/raw/bf434fd24cea022413b93c0a9ef34ffe.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "b26bef6587ebbd5691f911691b6dabe8",
       "title": "Xaira wins the 2026 Fierce AI Innovation Award for Preclinical Development | Xaira Therapeutics",
       "url": "https://www.xaira.com/news/xaira-wins-the-2026-fierce-ai-innovation-award-for-preclinical-development",
@@ -161,6 +194,28 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "84abd1857de5dfd951d90dcfdd8cecc9",
+      "title": "Making it easier for websites to express AI training preferences",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "publishedAt": "2026-10-30T09:30:00.000Z",
+      "crawledAt": "2026-10-31T12:45:37.620Z",
+      "contentStatus": "ready",
+      "contentHash": "375e8c7c27106cc7dde8515b67f64d8ea524ec39d1c1adfdb8a24db05c19d0b1",
+      "rawPath": "data/raw/84abd1857de5dfd951d90dcfdd8cecc9.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "a86d24c59c826150d16deb117d5d2c5c",
+      "title": "Community safety report and new protections for teens",
+      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "publishedAt": "2026-10-30T09:00:00.000Z",
+      "crawledAt": "2026-10-31T12:45:37.620Z",
+      "contentStatus": "ready",
+      "contentHash": "4b460fb8393151b71252b179d9855afd9c3effcb0a10dee0d79f3aa5e8f0d66a",
+      "rawPath": "data/raw/a86d24c59c826150d16deb117d5d2c5c.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "3838d38ffe6644bcc993151fe11af933",
       "title": "亮相马来西亚IGEM展会｜GOTION展示核心产品，并获“Best Creative Booth” 2026-10-28 2026-10-28",
       "url": "https://www.gotion.com.cn/newsInfo/999",
@@ -191,6 +246,17 @@
       "contentStatus": "ready",
       "contentHash": "0c876adc19222cef9f72ef57f93f29bd15139610a6f290aef1749906af6edd9a",
       "rawPath": "data/raw/3f25d600db1b0ce4b7d274efc8e47c86.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "574dbaf7fc8731e405753fdd629edf08",
+      "title": "Fair use benefits everyone",
+      "url": "https://openai.com/index/fair-use-benefits-everyone",
+      "publishedAt": "2026-10-30T00:00:00.000Z",
+      "crawledAt": "2026-10-31T12:45:37.621Z",
+      "contentStatus": "ready",
+      "contentHash": "5d8c179f4be0e2066d5cd0cea0ca7c77af707e1b85bedc225adda1b08cf9e398",
+      "rawPath": "data/raw/574dbaf7fc8731e405753fdd629edf08.json",
       "lastAnalysisStatus": "pending"
     },
     {

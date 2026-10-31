@@ -1,0 +1,18 @@
+{
+  "id": "84abd1857de5dfd951d90dcfdd8cecc9",
+  "title": "Making it easier for websites to express AI training preferences",
+  "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+  "sourceKey": "s01-14",
+  "sourceName": "OpenAI",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": "2026-10-30T09:30:00.000Z",
+  "crawledAt": "2026-10-31T12:45:37.620Z",
+  "content": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-10-31T12:45:37.620Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "375e8c7c27106cc7dde8515b67f64d8ea524ec39d1c1adfdb8a24db05c19d0b1"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "574dbaf7fc8731e405753fdd629edf08",
+  "title": "Fair use benefits everyone",
+  "url": "https://openai.com/index/fair-use-benefits-everyone",
+  "sourceKey": "s01-14",
+  "sourceName": "OpenAI",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": "2026-10-30T00:00:00.000Z",
+  "crawledAt": "2026-10-31T12:45:37.621Z",
+  "content": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-10-31T12:45:37.621Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "5d8c179f4be0e2066d5cd0cea0ca7c77af707e1b85bedc225adda1b08cf9e398"
+}
