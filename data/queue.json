@@ -1,11 +1,66 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-01T06:21:26.057Z",
-  "pendingCount": 692,
-  "readyCount": 692,
+  "updatedAt": "2026-11-01T13:46:49.008Z",
+  "pendingCount": 699,
+  "readyCount": 699,
   "awaitingContentCount": 0,
   "excludedContentCount": 55,
   "items": [
+    {
+      "id": "07718c315c5258da40b288eea207876c",
+      "title": "“秉钧·仁心”纪念基金签约，杨咏曼校董第八次捐赠上海交通大学",
+      "url": "https://news.sjtu.edu.cn/jdyw/20261030/227093.html",
+      "publishedAt": null,
+      "crawledAt": "2026-11-01T13:40:38.899Z",
+      "contentStatus": "ready",
+      "contentHash": "63791c9227cbda3a5ae011d74f509cfd60b738caa504e5257a29af6d2d359c4e",
+      "rawPath": "data/raw/07718c315c5258da40b288eea207876c.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "0b2490303ca528659206a40d0a9aba35",
+      "title": "上海交大多项成果助力“申海氢能1号”落地",
+      "url": "https://news.sjtu.edu.cn/jdyw/20261028/227020.html",
+      "publishedAt": null,
+      "crawledAt": "2026-11-01T13:40:38.669Z",
+      "contentStatus": "ready",
+      "contentHash": "bc0872c6b91b9b134e857e9eb7560adc1e013f4648a3a7c80e31ea4a74406296",
+      "rawPath": "data/raw/0b2490303ca528659206a40d0a9aba35.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "da5f845889cde47a9d11ddcc7832b662",
+      "title": "上海交通大学举行2026年党员基本培训第二次集中授课",
+      "url": "https://news.sjtu.edu.cn/jdyw/20261028/227032.html",
+      "publishedAt": null,
+      "crawledAt": "2026-11-01T13:40:35.813Z",
+      "contentStatus": "ready",
+      "contentHash": "dc9640316f1d573690b3e44729104e85d32d13b034bb57b697eb4d86bf20c2c2",
+      "rawPath": "data/raw/da5f845889cde47a9d11ddcc7832b662.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "11674cbf040bec3997301dcf1c783f03",
+      "title": "中国科大开展2026年“敬老月”系列活动",
+      "url": "http://news.ustc.edu.cn/info/1055/96770.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-11-01T13:40:32.544Z",
+      "contentStatus": "ready",
+      "contentHash": "dfc69ebf995e0796a54243c8773f45dfac6ed0481c2f0f6faac61f3fd2fcea4a",
+      "rawPath": "data/raw/11674cbf040bec3997301dcf1c783f03.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "e3bf04fa7af4fed0dd98c92ef959bd9f",
+      "title": "2026年秋季“合肥千企万岗请您来”中国科大专场活动举行",
+      "url": "http://news.ustc.edu.cn/info/1055/96777.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-11-01T13:40:30.703Z",
+      "contentStatus": "ready",
+      "contentHash": "f65f4287fbd4051e6da83574611e969129b37fb1e28a291aef6ef34725739845",
+      "rawPath": "data/raw/e3bf04fa7af4fed0dd98c92ef959bd9f.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "f0c5f3b5f1e4ae1306a059fe6c1eb42c",
       "title": "Xaira’s First Virtual Cell Model Is Largest To-Date, Toward Complex Biology | Xaira Therapeutics",
@@ -1173,6 +1228,17 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "fbf887f88a02695e1710f3ceec86e18e",
+      "title": "晶泰科技入选港交所人工智能指数，权重位列前十",
+      "url": "https://www.xtalpi.com/%e6%99%b6%e6%b3%b0%e7%a7%91%e6%8a%80%e5%85%a5%e9%80%89%e6%b8%af%e4%ba%a4%e6%89%80%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e6%8c%87%e6%95%b0%ef%bc%8c%e6%9d%83%e9%87%8d%e4%bd%8d%e5%88%97%e5%89%8d%e5%8d%81/",
+      "publishedAt": "2026-10-26T02:27:12.000Z",
+      "crawledAt": "2026-11-01T13:40:27.533Z",
+      "contentStatus": "ready",
+      "contentHash": "db34238f9e6cb4359db3a1ea23ea3f03d42fd08bfb0006c592b2f8b47d4b645c",
+      "rawPath": "data/raw/fbf887f88a02695e1710f3ceec86e18e.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "a32834d3901a3bbd656ae9ab504923e5",
       "title": "【交大金课】段华南：锂电池固体电解质的制备与评价 2026年10月23日",
       "url": "https://news.sjtu.edu.cn/ztzl_jdjk/20261023/226870.html",
@@ -2237,6 +2303,17 @@
       "contentStatus": "ready",
       "contentHash": "3dacefe006ef7cd5f7575ffebefb20cdd4f3aa307b22b523a9526fc4182ef25e",
       "rawPath": "data/raw/8a8fc81dbe3fdd49862cf5ac1c938624.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "0e226b4ddef285c85a9ad248abbeffe3",
+      "title": "国家数据集团成立，AI for Science将加快释放科研数据价值",
+      "url": "https://www.xtalpi.com/%e5%9b%bd%e5%ae%b6%e6%95%b0%e6%8d%ae%e9%9b%86%e5%9b%a2%e6%88%90%e7%ab%8b%ef%bc%8cai-for-science%e5%b0%86%e5%8a%a0%e5%bf%ab%e9%87%8a%e6%94%be%e7%a7%91%e7%a0%94%e6%95%b0%e6%8d%ae%e4%bb%b7%e5%80%bc/",
+      "publishedAt": "2026-10-21T02:22:44.000Z",
+      "crawledAt": "2026-11-01T13:40:27.533Z",
+      "contentStatus": "ready",
+      "contentHash": "ef5d2cf4e9ef22741b2a9b8f542ddcafd2647fac468fc86bc0a483bfd3523a1a",
+      "rawPath": "data/raw/0e226b4ddef285c85a9ad248abbeffe3.json",
       "lastAnalysisStatus": "pending"
     },
     {
