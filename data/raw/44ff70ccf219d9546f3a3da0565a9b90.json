@@ -1,0 +1,18 @@
+{
+  "id": "44ff70ccf219d9546f3a3da0565a9b90",
+  "title": "Refactored intracellular domains enhance CAR expression and function | bioRxiv",
+  "url": "https://generatebiomedicines.com/publications/refactored-intracellular-domains-enhance-car-expression-and-function/",
+  "sourceKey": "s02-05",
+  "sourceName": "Generate Biomedicines",
+  "sourceType": "生成式生物公司",
+  "publishedAt": "2026-10-29T00:00:00.000Z",
+  "crawledAt": "2026-11-01T06:19:00.094Z",
+  "content": "Chimeric antigen receptor (CAR) intracellular domains (ICDs) couple antigen recognition to T-cell activation. Here we worked with AI agents to refactor CAR ICDs, proposing designs and refining them as measurements accumulated over three rounds. This approach yielded KRGR-ζ1-40, a 45-amino-acid ICD less than a third the length of the clinical 4-1BB-CD3ζ (BBζ) ICD. Compared with BBζ, KRGR-ζ1-40 increased CAR surface expression and antigen-driven IFN-γ release, without detectable antigen-independent IFN-γ release. KRGR-ζ1-40 extended CAR expression and target-cell killing after transient mRNA delivery, supported the expression of four CARs from a shared mRNA dose, and enhanced B-cell depletion after lentiviral and lipid-nanoparticle delivery. These results show that iterative agent-guided design with experimental feedback can yield compact ICDs that enhance CAR expression and sustain CAR T-cell function. The authors have declared no competing interest. Thank you for your interest in spreading the word about bioRxiv. NOTE: Your email address is requested solely to identify you as the sender of this article.",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-11-01T06:19:00.094Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "b7d4a106150aa110e7160022d1b96e3ff7228cf53d48d232b9e8a6e16e9fee28"
+}

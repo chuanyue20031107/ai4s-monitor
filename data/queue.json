@@ -1,11 +1,33 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-31T21:50:35.380Z",
-  "pendingCount": 688,
-  "readyCount": 688,
+  "updatedAt": "2026-11-01T06:21:26.057Z",
+  "pendingCount": 692,
+  "readyCount": 692,
   "awaitingContentCount": 0,
   "excludedContentCount": 55,
   "items": [
+    {
+      "id": "f0c5f3b5f1e4ae1306a059fe6c1eb42c",
+      "title": "Xaira’s First Virtual Cell Model Is Largest To-Date, Toward Complex Biology | Xaira Therapeutics",
+      "url": "https://www.xaira.com/news/xairas-first-virtual-cell-model-is-largest-to-date-toward-complex-biology",
+      "publishedAt": null,
+      "crawledAt": "2026-11-01T06:19:00.645Z",
+      "contentStatus": "ready",
+      "contentHash": "144645dae8ad6080f3ce4a2377524d0c449fb91aca4f61101d0d6255efaf9909",
+      "rawPath": "data/raw/f0c5f3b5f1e4ae1306a059fe6c1eb42c.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "d932ad3654b71e62ec99eafcec94aed1",
+      "title": "Publications Archive | Generate:Biomedicines",
+      "url": "https://generatebiomedicines.com/publications/",
+      "publishedAt": null,
+      "crawledAt": "2026-11-01T06:18:59.945Z",
+      "contentStatus": "ready",
+      "contentHash": "edd590afc43800f91e5b1488b61b809709c9fefce29f8c0e47e315e7b574eec5",
+      "rawPath": "data/raw/d932ad3654b71e62ec99eafcec94aed1.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "ebd745f086f72ec153ed25f890d5c5da",
       "title": "黔东南苗族侗族自治州疾病预防控制中心关于黔东南州疾控中心2026年度分子生物实验室试剂耗材采购项目（二次）的公开招标公告",
@@ -180,6 +202,17 @@
       "contentStatus": "ready",
       "contentHash": "41be5318c631d7df1c6e1141de47b2781dc830900a679a521b5498e22b03ba14",
       "rawPath": "data/raw/bf434fd24cea022413b93c0a9ef34ffe.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "54e6e6424cb646cd10e8e5bf00576289",
+      "title": "Dr. Nicholas Peppas Is AIChE’s 2026 F. J. & Dorothy Van Antwerpen Award Recipient",
+      "url": "https://www.aiche.org/dr-nicholas-peppas-aiches-2026-f-j-dorothy-van-antwerpen-award-recipient",
+      "publishedAt": "2026-10-30T18:03:08.000Z",
+      "crawledAt": "2026-11-01T06:18:52.828Z",
+      "contentStatus": "ready",
+      "contentHash": "9c00ff0f15ff7bdbb6f299e91a647d47bf80ca1d9acb6b063dd1dd10f67398bf",
+      "rawPath": "data/raw/54e6e6424cb646cd10e8e5bf00576289.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -609,6 +642,17 @@
       "contentStatus": "ready",
       "contentHash": "8f18bc1b4790d81af1ff8bc40e866191bc7a801fda7d282184e70e012331506a",
       "rawPath": "data/raw/e89f5fdbd218c94db175f6c9a15f9834.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "44ff70ccf219d9546f3a3da0565a9b90",
+      "title": "Refactored intracellular domains enhance CAR expression and function | bioRxiv",
+      "url": "https://generatebiomedicines.com/publications/refactored-intracellular-domains-enhance-car-expression-and-function/",
+      "publishedAt": "2026-10-29T00:00:00.000Z",
+      "crawledAt": "2026-11-01T06:19:00.094Z",
+      "contentStatus": "ready",
+      "contentHash": "b7d4a106150aa110e7160022d1b96e3ff7228cf53d48d232b9e8a6e16e9fee28",
+      "rawPath": "data/raw/44ff70ccf219d9546f3a3da0565a9b90.json",
       "lastAnalysisStatus": "pending"
     },
     {
