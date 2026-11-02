@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "7f2e798903c982919ad7f2eac396c884",
+      "title": "[AIP Distinguished Lecture] Talk by Prof. Haim Sompolinsky (Harvard University and Hebrew University) on \"Lifelong Memory in Large Language Models\"",
+      "sourceKey": "s01-22",
+      "sourceName": "RIKEN Center for Advanced Intelligence Project",
+      "sourceType": "国家研究机构",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-11-02T06:20:35.612Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://aip.riken.jp/events/event_200143/",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "85f94c0fe8f02a81789bf1080d36944e",
+      "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+      "sourceKey": "s01-14",
+      "sourceName": "OpenAI",
+      "sourceType": "科技大厂研究机构",
+      "category": "",
+      "publishedAt": "2026-10-29T00:00:00.000Z",
+      "crawledAt": "2026-11-02T06:20:30.216Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://openai.com/index/credit-saison",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "a395c7da350b5086cc15f6b616a71f22",
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "sourceKey": "s01-14",
+      "sourceName": "OpenAI",
+      "sourceType": "科技大厂研究机构",
+      "category": "",
+      "publishedAt": "2026-10-28T13:15:00.000Z",
+      "crawledAt": "2026-11-02T06:20:30.216Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "825be745a59ebb201e3f63242afee24b",
+      "title": "Ponder This Challenge - November 2026 - The SumSum",
+      "sourceKey": "s01-11",
+      "sourceName": "IBM Research",
+      "sourceType": "科技大厂研究机构",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-11-02T06:20:30.094Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://research.ibm.com/blog/ponder-this-november-2026",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "50dee473615532ce19dd7118d9816d36",
       "title": "10-20 2026 2026中国人工智能学会智能系统工程专委会学术年会会议通知（第一轮）",
       "sourceKey": "s10-05",
@@ -18291,5 +18363,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-11-01T22:15:20.279Z"
+  "updatedAt": "2026-11-02T06:20:37.575Z"
 }

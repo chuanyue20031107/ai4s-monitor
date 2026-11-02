@@ -1,11 +1,33 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-01T22:15:20.279Z",
-  "pendingCount": 705,
-  "readyCount": 705,
+  "updatedAt": "2026-11-02T06:20:37.575Z",
+  "pendingCount": 709,
+  "readyCount": 709,
   "awaitingContentCount": 0,
   "excludedContentCount": 55,
   "items": [
+    {
+      "id": "7f2e798903c982919ad7f2eac396c884",
+      "title": "[AIP Distinguished Lecture] Talk by Prof. Haim Sompolinsky (Harvard University and Hebrew University) on \"Lifelong Memory in Large Language Models\"",
+      "url": "https://aip.riken.jp/events/event_200143/",
+      "publishedAt": null,
+      "crawledAt": "2026-11-02T06:20:35.612Z",
+      "contentStatus": "ready",
+      "contentHash": "6b1a041d2a889121a000e06877ade040c0a207fec73e2bdb07cb02a9005fa413",
+      "rawPath": "data/raw/7f2e798903c982919ad7f2eac396c884.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "825be745a59ebb201e3f63242afee24b",
+      "title": "Ponder This Challenge - November 2026 - The SumSum",
+      "url": "https://research.ibm.com/blog/ponder-this-november-2026",
+      "publishedAt": null,
+      "crawledAt": "2026-11-02T06:20:30.094Z",
+      "contentStatus": "ready",
+      "contentHash": "fe7ca4407b16935f8bd1d6d6f0fd73f703c32589a9625d296971c0af112b9a6c",
+      "rawPath": "data/raw/825be745a59ebb201e3f63242afee24b.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "50dee473615532ce19dd7118d9816d36",
       "title": "10-20 2026 2026中国人工智能学会智能系统工程专委会学术年会会议通知（第一轮）",
@@ -777,6 +799,17 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "85f94c0fe8f02a81789bf1080d36944e",
+      "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+      "url": "https://openai.com/index/credit-saison",
+      "publishedAt": "2026-10-29T00:00:00.000Z",
+      "crawledAt": "2026-11-02T06:20:30.216Z",
+      "contentStatus": "ready",
+      "contentHash": "f8df14363481c1c26f7055e4554259de42728ac20aa172b974d7d4a49f5c0ce8",
+      "rawPath": "data/raw/85f94c0fe8f02a81789bf1080d36944e.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "41fbbb4851e90ac643b9e0c03a4cd08b",
       "title": "Xaira Therapeutics raised nearly $1 billion. Here's its next act | Xaira Therapeutics",
       "url": "https://www.xaira.com/news/xaira-therapeutics-raised-nearly-1-billion-heres-its-next-act",
@@ -829,6 +862,17 @@
       "contentStatus": "ready",
       "contentHash": "68fc254946003861f784f7a664a3ef8fbb4cd8a283e5af7e9bc31a7d3e9fdf65",
       "rawPath": "data/raw/896ca22579c377e0a323d93b5e8a58af.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "a395c7da350b5086cc15f6b616a71f22",
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "publishedAt": "2026-10-28T13:15:00.000Z",
+      "crawledAt": "2026-11-02T06:20:30.216Z",
+      "contentStatus": "ready",
+      "contentHash": "b930a50cd24995813279fdc9e45c5c625fb2cf579ef3e09338f3ec19ca3a2609",
+      "rawPath": "data/raw/a395c7da350b5086cc15f6b616a71f22.json",
       "lastAnalysisStatus": "pending"
     },
     {

@@ -1,0 +1,18 @@
+{
+  "id": "a395c7da350b5086cc15f6b616a71f22",
+  "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+  "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+  "sourceKey": "s01-14",
+  "sourceName": "OpenAI",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": "2026-10-28T13:15:00.000Z",
+  "crawledAt": "2026-11-02T06:20:30.216Z",
+  "content": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-11-02T06:20:30.216Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "b930a50cd24995813279fdc9e45c5c625fb2cf579ef3e09338f3ec19ca3a2609"
+}

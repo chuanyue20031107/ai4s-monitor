@@ -1,0 +1,18 @@
+{
+  "id": "7f2e798903c982919ad7f2eac396c884",
+  "title": "[AIP Distinguished Lecture] Talk by Prof. Haim Sompolinsky (Harvard University and Hebrew University) on \"Lifelong Memory in Large Language Models\"",
+  "url": "https://aip.riken.jp/events/event_200143/",
+  "sourceKey": "s01-22",
+  "sourceName": "RIKEN Center for Advanced Intelligence Project",
+  "sourceType": "国家研究机构",
+  "publishedAt": null,
+  "crawledAt": "2026-11-02T06:20:35.612Z",
+  "content": "DATE & TIME November 5, 2026: 10:30 am – 12:00 pm (JST) FORMAT & VENUE Hybrid (Online + Open Space, RIKEN Nihonbashi Office) *In-person attendance is limited to AIP researchers. TITLE Lifelong Memory in Large Language Models SPEAKER Prof. Haim Sompolinsky (Harvard University and Hebrew University) ABSTRACT Large language models (LLMs) access new information mainly through context windows and retrieval-augmented generation, both of which have limitations. An alternative is to encode experiences directly in the network’s weights through fine-tuning, analogous to memory storage through synaptic plasticity in the brain. The goal is to integrate these memories with existing knowledge and use them flexibly. However, current algorithms for sequential fine-tuning on a stream of new experiences often suffer from catastrophic forgetting. I will present an approach to lifelong memory in LLMs based on the complementary learning systems framework from cognitive neuroscience. The model encodes memories through fine-tuning at two timescales. In the fast, hippocampus-like system, Gated LoRA encodes each experience in its own sparse low-rank adapter, and competitive gating selects the relevant adapter during recall. In the slow, cortex-like system, replay consolidates memories into the base weights. I will present the model’s performance and limitations on large-scale memory datasets. I will then introduce a statistical-mechanical theory of memorization of experiences through low-rank fine-tuning. To our knowledge, this is the first rigorous theory of memory in LLMs. It explains how compact adapters can store long sequences, how memory capacity scales with the number of trainable parameters, and how pretrained knowledge enhances memory efficiency and recall robustness. Nihonbashi 1-chome Mitsui Building, 15th floor, e-mail: aip-koho [at]riken.jp *Please replace \"[at]\" with \"@\".",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-11-02T06:20:35.612Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "6b1a041d2a889121a000e06877ade040c0a207fec73e2bdb07cb02a9005fa413"
+}
