@@ -1,0 +1,18 @@
+{
+  "id": "75e5eec644b80d99b3fde4102832dd8b",
+  "title": "让每个想法都能落地。 MiniMax M3.1 flash",
+  "url": "https://agent.minimax.cn/",
+  "sourceKey": "s03-10",
+  "sourceName": "MiniMax",
+  "sourceType": "通用模型厂商",
+  "publishedAt": null,
+  "crawledAt": "2026-11-03T06:58:46.082Z",
+  "content": "MiniMax Code 是基于顶尖多模态大语言模型打造的智能AI伙伴，为你带来全方位的智能体验：精准搜索解答、一目了然的图像识别、沉浸式语音对话、专业创意写作、文档闪速解析，还有独家悬浮球功能让复杂任务变得轻而易举。支持MCP多智能体协作，让AI团队为你高效解决复杂问题。10倍速获取信息，10倍速解决问题，无论你是学生、职场人士、自由工作者还是创作者，Agent都能随叫随到，一触即用。AI写作、搜题、办公、翻译、编程、创作、文档总结，甚至是日常聊天、语言学习、面试准备，Agent都能胜任，成为你的全能智慧助手。",
+  "contentStatus": "ready",
+  "extractionMethod": "meta-description",
+  "discardReason": "",
+  "lastFetchAt": "2026-11-03T06:58:46.082Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "52ec1dcbfdc46c65e21a5520cd3891101695ad4a0cc99a865f12c4bce7a3c171"
+}

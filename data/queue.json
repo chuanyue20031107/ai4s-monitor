@@ -1,11 +1,99 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-02T06:20:37.575Z",
-  "pendingCount": 709,
-  "readyCount": 709,
+  "updatedAt": "2026-11-03T06:59:01.719Z",
+  "pendingCount": 717,
+  "readyCount": 717,
   "awaitingContentCount": 0,
   "excludedContentCount": 55,
   "items": [
+    {
+      "id": "01961fb246ceb4beb8cff113eeca3116",
+      "title": "丹娜生物与金域医学携手共筑真菌病精准诊治新生态——双方正式签署《真菌病项目战略框架协议》",
+      "url": "https://www.caclp.com/article/?detail_14428.html",
+      "publishedAt": null,
+      "crawledAt": "2026-11-03T06:58:53.435Z",
+      "contentStatus": "ready",
+      "contentHash": "2f55dc43a95251190dfee4a3f141cac8762950e8e7d255ce35f72d5a2238a83d",
+      "rawPath": "data/raw/01961fb246ceb4beb8cff113eeca3116.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "3e68f2802ecab419070b3fd51dab89c0",
+      "title": "民航总医院检验科血球流水线及配套试剂采购项目公开招标公告",
+      "url": "https://www.caclp.com/article/?detail_14430.html",
+      "publishedAt": null,
+      "crawledAt": "2026-11-03T06:58:52.310Z",
+      "contentStatus": "ready",
+      "contentHash": "a75df911d2c5e381c0a56f70d22b40bc69182d8e476c66273c835608330425fe",
+      "rawPath": "data/raw/3e68f2802ecab419070b3fd51dab89c0.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "4263b3f0893a7875aebd6ab2c0afcdd8",
+      "title": "CACLP 2027 南京｜解锁首批参展企业",
+      "url": "https://www.caclp.com/article/?detail_14429.html",
+      "publishedAt": null,
+      "crawledAt": "2026-11-03T06:58:51.311Z",
+      "contentStatus": "ready",
+      "contentHash": "0112b8f796dbde224f0e4b8019ccdca59dce553d4029f6545028afc6684b16ce",
+      "rawPath": "data/raw/4263b3f0893a7875aebd6ab2c0afcdd8.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "aba4aa5f38cbfa9f011bd1e2d3c4fbbf",
+      "title": "材料加速度！国轩闰辉年产 20 万吨正极材料全线投产 2026-10-30 2026-10-30",
+      "url": "https://www.gotion.com.cn/newsInfo/1001",
+      "publishedAt": null,
+      "crawledAt": "2026-11-03T06:58:48.088Z",
+      "contentStatus": "ready",
+      "contentHash": "6aa31b3760b11edffa990ea9aa96977fb10c4a62db8e6030d35d21f8c70a8c0d",
+      "rawPath": "data/raw/aba4aa5f38cbfa9f011bd1e2d3c4fbbf.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "75e5eec644b80d99b3fde4102832dd8b",
+      "title": "让每个想法都能落地。 MiniMax M3.1 flash",
+      "url": "https://agent.minimax.cn/",
+      "publishedAt": null,
+      "crawledAt": "2026-11-03T06:58:46.082Z",
+      "contentStatus": "ready",
+      "contentHash": "52ec1dcbfdc46c65e21a5520cd3891101695ad4a0cc99a865f12c4bce7a3c171",
+      "rawPath": "data/raw/75e5eec644b80d99b3fde4102832dd8b.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "ab1d6a55eb5d35453b971a681c7c12d8",
+      "title": "环境监测，从“有好数据”到“用好数据” 2026-11-03",
+      "url": "https://www.fpi-inc.com/news_cont_48366.html",
+      "publishedAt": null,
+      "crawledAt": "2026-11-03T06:58:42.110Z",
+      "contentStatus": "ready",
+      "contentHash": "0a7376ac0b5fc9137d8a541085815852b96d06a2961509284f8182f8b63503ba",
+      "rawPath": "data/raw/ab1d6a55eb5d35453b971a681c7c12d8.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "8316616c6135553ef8fb55dc77fe943d",
+      "title": "投资者关系",
+      "url": "https://ir.minimax.cn/",
+      "publishedAt": null,
+      "crawledAt": "2026-11-03T06:58:41.450Z",
+      "contentStatus": "ready",
+      "contentHash": "d691d03b5b3cfbcea4f82a9b557d9528c7b55e690e7afcaec454101f1a979ae7",
+      "rawPath": "data/raw/8316616c6135553ef8fb55dc77fe943d.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "fd807ee94e8787e0a597041d888b6f5e",
+      "title": "SandboxAQ Expands Switch AI with Trust and ROI Tools | SandboxAQ",
+      "url": "https://www.sandboxaq.com/press/sandboxaq-expands-switch-ai-to-give-enterprises-greater-choice-control-and-accountability-across-their-agentic-ai-workforce",
+      "publishedAt": null,
+      "crawledAt": "2026-11-03T06:58:34.469Z",
+      "contentStatus": "ready",
+      "contentHash": "94c76d7092d29c6bb3a9c8999707fd87d7ea145f9be6536e6bb4ca077d712ee7",
+      "rawPath": "data/raw/fd807ee94e8787e0a597041d888b6f5e.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "7f2e798903c982919ad7f2eac396c884",
       "title": "[AIP Distinguished Lecture] Talk by Prof. Haim Sompolinsky (Harvard University and Hebrew University) on \"Lifelong Memory in Large Language Models\"",
