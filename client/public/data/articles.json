@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "afb675d032e4479e881b0e02eaa7a3ac",
+      "title": "New Phase 2 REC-4881 Data Presented at CGA-IGC Show Deep, Durable Polyp Burden Reductions in FAP, with Activity Across the GI Tract and in Larger, Higher-Risk Polyps",
+      "sourceKey": "s02-02",
+      "sourceName": "Recursion",
+      "sourceType": "AI药物/自动化实验公司",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-11-03T19:34:56.266Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://ir.recursion.com/news-releases/news-release-details/new-phase-2-rec-4881-data-presented-cga-igc-show-deep-durable",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "b6599317f0b602c9df557b1e0f7e1769",
+      "title": "Recursion Reports Third Quarter 2026 Financial Results and Extends Cash Runway; Highlights Positive Clinical Data in REC-4881 and REC-1245, Sanofi Development Candidate Option and Appointment of Fred Hassan as Chair",
+      "sourceKey": "s02-02",
+      "sourceName": "Recursion",
+      "sourceType": "AI药物/自动化实验公司",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-11-03T19:34:56.080Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://ir.recursion.com/news-releases/news-release-details/recursion-reports-third-quarter-2026-financial-results-and",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "ea9ecc5119c8cf4ddfb858dbf65e9244",
+      "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
+      "sourceKey": "s01-08",
+      "sourceName": "National Institute of Standards and Technology",
+      "sourceType": "国家计量标准机构",
+      "category": "",
+      "publishedAt": "2026-11-02T12:00:00.000Z",
+      "crawledAt": "2026-11-03T19:34:53.693Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "e790a34c95d47f72aebde4c13cec6f74",
+      "title": "Learn the rules: The hacker mindset",
+      "sourceKey": "s01-02",
+      "sourceName": "Microsoft Research AI for Science",
+      "sourceType": "科技大厂研究机构",
+      "category": "",
+      "publishedAt": "2026-11-03T17:14:38.000Z",
+      "crawledAt": "2026-11-03T19:34:53.268Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.microsoft.com/en-us/research/podcast/learn-the-rules-the-hacker-mindset/",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "01961fb246ceb4beb8cff113eeca3116",
       "title": "丹娜生物与金域医学携手共筑真菌病精准诊治新生态——双方正式签署《真菌病项目战略框架协议》",
       "sourceKey": "s10-15",
@@ -18507,5 +18579,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-11-03T06:59:01.719Z"
+  "updatedAt": "2026-11-03T19:35:01.707Z"
 }
