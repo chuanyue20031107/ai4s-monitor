@@ -1,0 +1,18 @@
+{
+  "id": "c32a220ce74218d81680c9a13ec0b539",
+  "title": "我所揭示电子限域诱导的单原子功能可促进羟胺电合成",
+  "url": "https://www.dicp.ac.cn/xwdt/kyjz/202611/t20261103_8302589.html",
+  "sourceKey": "s05-19",
+  "sourceName": "中科院大连化物所高通量实验与催化平台",
+  "sourceType": "自主实验室与平台",
+  "publishedAt": null,
+  "crawledAt": "2026-11-04T06:40:03.191Z",
+  "content": "发布时间：2026-11-03 | 供稿部门：511组 | 【 放大 】 【 缩小 】 | 【 打印 】 【 关闭 】 近日，我所能源催化转化全国重点实验室计算和数据驱动催化研究组（ 511 组）肖建平研究员、李欢博士等与德国不来梅大学等单位合作，在电催化一氧化氮还原合成羟胺选择性研究方面取得新进展。研究团队结合恒电势模拟、微观动力学分析及巨正则系综蒙特卡洛（ GCMC ）模拟，发现电子限域可以赋予金属催化剂单原子功能，为电催化高选择性合成羟胺及催化剂理性设计提供了新的理论指导。 羟胺（ NH 2 OH ）广泛应用于医药、农业和精细化工领域，利用可再生电力驱动一氧化氮（ NO ）还原，为绿色合成羟胺提供了新途径。然而， NO 电还原的中间体易深度还原为氨（ NH 3 ），产物选择性调控仍面临挑战。传统认识认为，单原子催化剂因吸附作用较弱而更有利于羟胺生成（ Nat. Commun. ， 2021 ； Angew. Chem. Int. Ed. ， 2023 ； Angew. Chem. Int. Ed. ， 2024 ），但部分强吸附金属催化剂在特定条件下同样表现出高羟胺选择性（ J. Am. Chem. Soc. , 2022 ； Chem , 2023 ），表明仅凭吸附强度难以解释其选择性规律，亟需揭示真实活性位点及其电子结构起源。 在本工作中，研究团队利用自主开发的恒电势模拟方法（ J. Phys. Chem. Lett. , 2023 ），并结合微动力学分析，发现 NO 初始质子化形成 *HNO 和 *NOH 的竞争是决定羟胺与氨选择性的关键；其中 Fe–N 4 位点上 *HNO 形成能垒仅为 0.14 eV ，低于 *NOH 的 1.06 eV ，因而优先引导反应生成羟胺。研究团队进一步通过 GCMC 模拟发现，金属铁在表面氧物种作用下发生表面重构，形成 FeO x /Fe 界面及具有单原子功能的孤立 top-Fe 位点（ top-Fe@FeO x ），同样能够优先稳定 *HNO 。电子结构分析表明， Fe 与配位 N 或 O 原子的轨道杂化引起 d 带窄化和电子局域化，使活性位点在适度结合中间体的同时维持 N–O 键稳定。该研究揭示了电子限域诱导单原子功能性的统一机制，说明高选择性催化活性位点也可在反应过程中动态形成，为羟胺电合成催化剂设计提供了新思路。 相关研究以 “Electronic Confinement Induced Single Atom Functionality in Hydroxylamine Synthesis Unveiled by Constant Potential Simulation”为题， 于近日 发表 在 《德国应用化学》 （ Angewandte Chemie International Edition ）上。以上工作得到国家自然科学基金、中国博士后科学基金、国家留学基金委等项目的支持。（文 / 图 魏昌庚）",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-11-04T06:40:03.191Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "2ee54f1da0337fbb6319b67a022568b83420c9160132fec77033771ff8b7327e"
+}
