@@ -1,0 +1,18 @@
+{
+  "id": "fbaa86a829ad59fd10c58d013d595611",
+  "title": "A thousand fewer paths to root",
+  "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+  "sourceKey": "s01-14",
+  "sourceName": "OpenAI",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": "2026-11-04T08:00:00.000Z",
+  "crawledAt": "2026-11-05T07:01:07.908Z",
+  "content": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-11-05T07:01:07.908Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "3ef898e58e738e8ff03c8130399b584472c5f779c6f1cddd939c6c5a3b61572e"
+}

@@ -1,11 +1,66 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-04T19:52:25.980Z",
-  "pendingCount": 745,
-  "readyCount": 745,
+  "updatedAt": "2026-11-05T07:03:29.811Z",
+  "pendingCount": 752,
+  "readyCount": 752,
   "awaitingContentCount": 0,
   "excludedContentCount": 55,
   "items": [
+    {
+      "id": "a50815d19d7f4128af16a1014ad8a33a",
+      "title": "Center Director Masashi Sugiyama and Team Director Takayuki Osa delivered speeches at Trilateral AI Symposium 2026 (October 27-28, 2026)",
+      "url": "https://aip.riken.jp/news/trilateral-ai-symposium-2026/",
+      "publishedAt": null,
+      "crawledAt": "2026-11-05T07:01:12.846Z",
+      "contentStatus": "ready",
+      "contentHash": "db15c27d7ec464ed866f33dea28309d72d8b44c6def0a9e9af083e1aeb5b0318",
+      "rawPath": "data/raw/a50815d19d7f4128af16a1014ad8a33a.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "51c6253fc1d69fc70825c6d45caf70ae",
+      "title": "Read more",
+      "url": "https://www.sanger.ac.uk/news_item/uncovering-rules-for-aggressive-brain-tumours-could-lead-to-better-treatments/",
+      "publishedAt": null,
+      "crawledAt": "2026-11-05T07:01:10.113Z",
+      "contentStatus": "ready",
+      "contentHash": "ca278434f5f593aae273e06bb7ea798d7d9846834cbada35ab5e5166be2ce15e",
+      "rawPath": "data/raw/51c6253fc1d69fc70825c6d45caf70ae.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "0b6aa16cbda01df8c6bb459f22b0113a",
+      "title": "2023中国药学会药物化学学术会议暨中欧药物化学研讨会在...",
+      "url": "https://www.cpa.org.cn/?do=info&cid=76612",
+      "publishedAt": null,
+      "crawledAt": "2026-11-05T07:00:58.817Z",
+      "contentStatus": "ready",
+      "contentHash": "881c3739ffefa7bdceaa1118537a70f52effdbe910a0c1bd00487d7b1e035803",
+      "rawPath": "data/raw/0b6aa16cbda01df8c6bb459f22b0113a.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "4d0602268a2f65eaef45a5ba3bdc6da1",
+      "title": "关于延长2027-2028年中国药学会青年科创能力提...",
+      "url": "https://www.cpa.org.cn/?do=info&cid=79148",
+      "publishedAt": null,
+      "crawledAt": "2026-11-05T07:00:58.580Z",
+      "contentStatus": "ready",
+      "contentHash": "1cb5b136d7707742adae0a79a08a6a1359ae7126c8010344c2c33f1b5eb4655c",
+      "rawPath": "data/raw/4d0602268a2f65eaef45a5ba3bdc6da1.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "fd602c691fdb46069e70339daddbede1",
+      "title": "关于举办2026年中国药学会药用辅料专业委员会学术年...",
+      "url": "https://www.cpa.org.cn/?do=info&cid=79150",
+      "publishedAt": null,
+      "crawledAt": "2026-11-05T07:00:58.339Z",
+      "contentStatus": "ready",
+      "contentHash": "bb7abf63cc621622b4e5fc9a75cabfbe7d3b7c4dbd48a9ba58e16f2ddf3efaa3",
+      "rawPath": "data/raw/fd602c691fdb46069e70339daddbede1.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "4caeb849992c5c878227d6a11a0b632d",
       "title": "10-30 2026 2026年智能创意与数字艺术学术年会会议通知（第一轮）",
@@ -158,6 +213,28 @@
       "contentStatus": "ready",
       "contentHash": "31043f383bdb42c9c53232a2712f43c4483350f9171dead3b7e5f5c2c56811b1",
       "rawPath": "data/raw/960449b199fefb952de4ce9b3ebef1db.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "fbaa86a829ad59fd10c58d013d595611",
+      "title": "A thousand fewer paths to root",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "publishedAt": "2026-11-04T08:00:00.000Z",
+      "crawledAt": "2026-11-05T07:01:07.908Z",
+      "contentStatus": "ready",
+      "contentHash": "3ef898e58e738e8ff03c8130399b584472c5f779c6f1cddd939c6c5a3b61572e",
+      "rawPath": "data/raw/fbaa86a829ad59fd10c58d013d595611.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "a3433e936d2c04bfa7722c64f05b5efd",
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "publishedAt": "2026-11-04T07:00:00.000Z",
+      "crawledAt": "2026-11-05T07:01:07.908Z",
+      "contentStatus": "ready",
+      "contentHash": "ceeb0818d1d3f99857bc04f3c702fb9e46be74ede59da5e3f7420a0a071b735c",
+      "rawPath": "data/raw/a3433e936d2c04bfa7722c64f05b5efd.json",
       "lastAnalysisStatus": "pending"
     },
     {
