@@ -1,6 +1,96 @@
 {
   "items": [
     {
+      "id": "8776b4582c14ebb8c5d49c2633ecc18e",
+      "title": "黑客爬取385万条医院数据：获利1.08万，赔150万",
+      "sourceKey": "s10-15",
+      "sourceName": "CACLP中国国际检验医学暨输血仪器试剂博览会",
+      "sourceType": "行业展会/会议",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-11-05T20:07:10.663Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.caclp.com/article/?detail_14434.html",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "2255f9f635e1046276936215d524dc1f",
+      "title": "西门子诊断更名为Olyrian",
+      "sourceKey": "s10-15",
+      "sourceName": "CACLP中国国际检验医学暨输血仪器试剂博览会",
+      "sourceType": "行业展会/会议",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-11-05T20:07:09.747Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.caclp.com/article/?detail_14435.html",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "8996e2acced4bd1b9421b50f6cadc1f6",
+      "title": "脱发背后的血汞异常，国产质谱助力临床诊断 2026-11-05",
+      "sourceKey": "s04-09",
+      "sourceName": "聚光科技 FPI",
+      "sourceType": "科学仪器企业",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-11-05T20:04:22.111Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.fpi-inc.com/news_cont_48370.html",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "614d8a9b88123fa66dd98b773d6ee4e1",
+      "title": "AQMed at AHA Scientific Sessions 2026 | SandboxAQ",
+      "sourceKey": "s02-25",
+      "sourceName": "SandboxAQ",
+      "sourceType": "AI/量子技术公司",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-11-05T20:04:14.441Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.sandboxaq.com/aqmed-aha-2026",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "9f5a65e6089d6e1a517ec530ee7010c0",
+      "title": "UCB advances its digital antibody engineering program with new Cradle collaboration",
+      "sourceKey": "s02-17",
+      "sourceName": "Cradle",
+      "sourceType": "蛋白工程软件公司",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-11-05T20:04:13.110Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.cradle.bio/blog/ucb",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "a50815d19d7f4128af16a1014ad8a33a",
       "title": "Center Director Masashi Sugiyama and Team Director Takayuki Osa delivered speeches at Trilateral AI Symposium 2026 (October 27-28, 2026)",
       "sourceKey": "s01-22",
@@ -19137,5 +19227,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-11-05T07:03:29.811Z"
+  "updatedAt": "2026-11-05T20:07:39.522Z"
 }
