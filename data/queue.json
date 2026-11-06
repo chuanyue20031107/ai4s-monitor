@@ -1,11 +1,66 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-06T07:02:27.892Z",
-  "pendingCount": 762,
-  "readyCount": 762,
+  "updatedAt": "2026-11-06T19:36:03.690Z",
+  "pendingCount": 768,
+  "readyCount": 768,
   "awaitingContentCount": 0,
   "excludedContentCount": 55,
   "items": [
+    {
+      "id": "abfa204f750bbb9d11d2ab22a2ef57ae",
+      "title": "2026/11 09 Advancing the structural pharmacology of lipid metabolism for therapeutic discovery 2026年11月9日 10:00–11:00 任若冰 青年研究员 卫光生命科学园1A栋1926会议室 了解详情",
+      "url": "https://www.szbl.ac.cn/info/1017/10663.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-11-06T19:33:41.068Z",
+      "contentStatus": "ready",
+      "contentHash": "6dd338d4a0009e22176bdb6815e2291df0ce89123ce46e03e904a926f933ad50",
+      "rawPath": "data/raw/abfa204f750bbb9d11d2ab22a2ef57ae.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "1727b536a3043e772c938a96e5746f24",
+      "title": "2026/11 13 红树林论坛第57期 | Induced Proximity Drug Modalities: Hijacking Mother Nature to Control Protein Function 2026年11月13日 09:30-11:00 Craig M. Crews 教授 深圳湾实验室A座803会议室 了解详情",
+      "url": "https://www.szbl.ac.cn/info/1017/10689.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-11-06T19:33:39.318Z",
+      "contentStatus": "ready",
+      "contentHash": "5bebbdc258e492d3ce5c55f2a3e76d97c2878c1406d00c093b044e7e8ac7e43e",
+      "rawPath": "data/raw/1727b536a3043e772c938a96e5746f24.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "18a840a06bebb344691180e7bc785c2a",
+      "title": "中国科大2026年度“创新创业教育研究课题”...",
+      "url": "https://www.ustc.edu.cn/info/1364/26029.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-11-06T19:30:58.946Z",
+      "contentStatus": "ready",
+      "contentHash": "ef0e76290119917df2e6e05307d6f3653f2e02795ea276491fe9772f1cf2b52a",
+      "rawPath": "data/raw/18a840a06bebb344691180e7bc785c2a.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "a71ee454169721a5519299ce216c7c6c",
+      "title": "《火团团大冒险》入选2026年全国优秀科普图书作品",
+      "url": "http://news.ustc.edu.cn/info/1055/96830.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-11-06T19:30:58.701Z",
+      "contentStatus": "ready",
+      "contentHash": "a5f8297a20db2166039eb2217e1d129b32d76406e2bdcd3fdce861e68109586b",
+      "rawPath": "data/raw/a71ee454169721a5519299ce216c7c6c.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "fe0c2a7bc5915c21c1f7910ee12bd431",
+      "title": "走好新时代长征路，在新征程上贡献青春力量——校党委书记舒歌群为2026...",
+      "url": "http://news.ustc.edu.cn/info/1055/96836.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-11-06T19:30:57.191Z",
+      "contentStatus": "ready",
+      "contentHash": "788f8ed3c4f5b99163089ade562c91fccd2cf722f5d770d34e883f681bdb9610",
+      "rawPath": "data/raw/fe0c2a7bc5915c21c1f7910ee12bd431.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "4f9b7d65d50bbdafb58dcedb784c03ea",
       "title": "Recursion Appoints Fred Hassan as Chair of the Board",
@@ -323,6 +378,17 @@
       "contentStatus": "ready",
       "contentHash": "c01f7dc5c46302baa492a8afddb119c02ebf2036cfb9b599abe67662b4890c80",
       "rawPath": "data/raw/be9ceb169c42f351988b2a819217ee2e.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "2e6b62dbc31bfc5532a6b8588cbb02e9",
+      "title": "从 AI 预测到 AI 原生，药物发现如何向前一步？",
+      "url": "https://www.xtalpi.com/%e4%bb%8e-ai-%e9%a2%84%e6%b5%8b%e5%88%b0-ai-%e5%8e%9f%e7%94%9f%ef%bc%8c%e8%8d%af%e7%89%a9%e5%8f%91%e7%8e%b0%e5%a6%82%e4%bd%95%e5%90%91%e5%89%8d%e4%b8%80%e6%ad%a5%ef%bc%9f/",
+      "publishedAt": "2026-11-04T09:03:00.000Z",
+      "crawledAt": "2026-11-06T19:30:54.612Z",
+      "contentStatus": "ready",
+      "contentHash": "6373b984ac9a5433ce946420798c39a459acb55f1a1ac3641147149047669c75",
+      "rawPath": "data/raw/2e6b62dbc31bfc5532a6b8588cbb02e9.json",
       "lastAnalysisStatus": "pending"
     },
     {
