@@ -1,6 +1,96 @@
 {
   "items": [
     {
+      "id": "4f9b7d65d50bbdafb58dcedb784c03ea",
+      "title": "Recursion Appoints Fred Hassan as Chair of the Board",
+      "sourceKey": "s02-02",
+      "sourceName": "Recursion",
+      "sourceType": "AI药物/自动化实验公司",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-11-06T06:59:59.318Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://ir.recursion.com/news-releases/news-release-details/recursion-appoints-fred-hassan-chair-board",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "d8d2eda57a92e9262017599858043c4c",
+      "title": "High-content imaging and flow cytometry 2027",
+      "sourceKey": "s11-22",
+      "sourceName": "ELRIG Drug Discovery",
+      "sourceType": "国际会议/社区",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-11-06T06:59:57.757Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://elrig.org/portfolio/high-content-imaging-and-flow-cytometry-2027/",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "b28ecfb79591f96a93e5ce4dbf8e96ef",
+      "title": "Formally verifying agent-written full-stack web apps with PDD Kit",
+      "sourceKey": "s01-02",
+      "sourceName": "Microsoft Research AI for Science",
+      "sourceType": "科技大厂研究机构",
+      "category": "",
+      "publishedAt": "2026-11-05T16:00:00.000Z",
+      "crawledAt": "2026-11-06T06:59:55.027Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "ca100cd2ea88e78681649261510dc0ce",
+      "title": "Summer Social 2027",
+      "sourceKey": "s11-22",
+      "sourceName": "ELRIG Drug Discovery",
+      "sourceType": "国际会议/社区",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-11-06T06:59:54.374Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://elrig.org/portfolio/summer-social-2027/",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "be9ceb169c42f351988b2a819217ee2e",
+      "title": "Meet the Winners of the First CEP Photo Contest",
+      "sourceKey": "s11-17",
+      "sourceName": "AIChE Annual Meeting",
+      "sourceType": "国际学术会议",
+      "category": "",
+      "publishedAt": "2026-11-04T15:03:37.000Z",
+      "crawledAt": "2026-11-06T06:59:50.145Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.aiche.org/meet-winners-first-cep-photo-contest",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "8776b4582c14ebb8c5d49c2633ecc18e",
       "title": "黑客爬取385万条医院数据：获利1.08万，赔150万",
       "sourceKey": "s10-15",
@@ -19227,5 +19317,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-11-05T20:07:39.522Z"
+  "updatedAt": "2026-11-06T07:02:27.892Z"
 }

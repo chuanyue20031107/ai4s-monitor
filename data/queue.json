@@ -1,11 +1,44 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-05T20:07:39.522Z",
-  "pendingCount": 757,
-  "readyCount": 757,
+  "updatedAt": "2026-11-06T07:02:27.892Z",
+  "pendingCount": 762,
+  "readyCount": 762,
   "awaitingContentCount": 0,
   "excludedContentCount": 55,
   "items": [
+    {
+      "id": "4f9b7d65d50bbdafb58dcedb784c03ea",
+      "title": "Recursion Appoints Fred Hassan as Chair of the Board",
+      "url": "https://ir.recursion.com/news-releases/news-release-details/recursion-appoints-fred-hassan-chair-board",
+      "publishedAt": null,
+      "crawledAt": "2026-11-06T06:59:59.318Z",
+      "contentStatus": "ready",
+      "contentHash": "d8812f1aed03b964d4e0cab13b5b87b6de03daf48b0602a561ebe709ff8dae6e",
+      "rawPath": "data/raw/4f9b7d65d50bbdafb58dcedb784c03ea.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "d8d2eda57a92e9262017599858043c4c",
+      "title": "High-content imaging and flow cytometry 2027",
+      "url": "https://elrig.org/portfolio/high-content-imaging-and-flow-cytometry-2027/",
+      "publishedAt": null,
+      "crawledAt": "2026-11-06T06:59:57.757Z",
+      "contentStatus": "ready",
+      "contentHash": "5bf8ec880b0ecf6b3afbafe75a628e8d3775e2df4dd5f64a2372c9ab2b350bee",
+      "rawPath": "data/raw/d8d2eda57a92e9262017599858043c4c.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "ca100cd2ea88e78681649261510dc0ce",
+      "title": "Summer Social 2027",
+      "url": "https://elrig.org/portfolio/summer-social-2027/",
+      "publishedAt": null,
+      "crawledAt": "2026-11-06T06:59:54.374Z",
+      "contentStatus": "ready",
+      "contentHash": "c208d389aa4bcf2f9a3c5b13898f7863f47721849b74461f23c8471afe118398",
+      "rawPath": "data/raw/ca100cd2ea88e78681649261510dc0ce.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "8776b4582c14ebb8c5d49c2633ecc18e",
       "title": "黑客爬取385万条医院数据：获利1.08万，赔150万",
@@ -59,6 +92,17 @@
       "contentStatus": "ready",
       "contentHash": "dcca9dd419730d46f64dd410ca30f9445a7e3cf0423b1ae751d52498ffe169d1",
       "rawPath": "data/raw/9f5a65e6089d6e1a517ec530ee7010c0.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "b28ecfb79591f96a93e5ce4dbf8e96ef",
+      "title": "Formally verifying agent-written full-stack web apps with PDD Kit",
+      "url": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/",
+      "publishedAt": "2026-11-05T16:00:00.000Z",
+      "crawledAt": "2026-11-06T06:59:55.027Z",
+      "contentStatus": "ready",
+      "contentHash": "96debff0674317c92499e1d46661c634134a279258a6445fc808a7dff75bd050",
+      "rawPath": "data/raw/b28ecfb79591f96a93e5ce4dbf8e96ef.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -268,6 +312,17 @@
       "contentStatus": "ready",
       "contentHash": "31043f383bdb42c9c53232a2712f43c4483350f9171dead3b7e5f5c2c56811b1",
       "rawPath": "data/raw/960449b199fefb952de4ce9b3ebef1db.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "be9ceb169c42f351988b2a819217ee2e",
+      "title": "Meet the Winners of the First CEP Photo Contest",
+      "url": "https://www.aiche.org/meet-winners-first-cep-photo-contest",
+      "publishedAt": "2026-11-04T15:03:37.000Z",
+      "crawledAt": "2026-11-06T06:59:50.145Z",
+      "contentStatus": "ready",
+      "contentHash": "c01f7dc5c46302baa492a8afddb119c02ebf2036cfb9b599abe67662b4890c80",
+      "rawPath": "data/raw/be9ceb169c42f351988b2a819217ee2e.json",
       "lastAnalysisStatus": "pending"
     },
     {
