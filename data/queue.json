@@ -1,11 +1,33 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-07T13:18:55.683Z",
-  "pendingCount": 785,
-  "readyCount": 785,
+  "updatedAt": "2026-11-07T21:59:30.521Z",
+  "pendingCount": 787,
+  "readyCount": 787,
   "awaitingContentCount": 0,
   "excludedContentCount": 55,
   "items": [
+    {
+      "id": "a7695b7950db9bf9f8c20c5d4c662c3f",
+      "title": "国轩高科获ISO/IEC 27001认证 信息安全管理体系取得CNAS与UKAS双认可 2026-11-06 2026-11-06",
+      "url": "https://www.gotion.com.cn/newsInfo/1003",
+      "publishedAt": null,
+      "crawledAt": "2026-11-07T21:59:27.048Z",
+      "contentStatus": "ready",
+      "contentHash": "d61e8cb76423a613d4de6bf34f918820c39dbf7cf16b0086a8f8d4ab37a15dd6",
+      "rawPath": "data/raw/a7695b7950db9bf9f8c20c5d4c662c3f.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "4aeec48baadb0dde5a3dac5c5655c0cf",
+      "title": "\"To make a real impact, we need to become more international\"",
+      "url": "https://www.helmholtz.de/en/newsroom/article/to-make-a-real-impact-we-need-to-become-more-international/",
+      "publishedAt": null,
+      "crawledAt": "2026-11-07T21:59:17.457Z",
+      "contentStatus": "ready",
+      "contentHash": "b6bc9bee6e127fe9911c4a9acbb33bedb9c18ce005f03f960f062ae91f70f510",
+      "rawPath": "data/raw/4aeec48baadb0dde5a3dac5c5655c0cf.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "9bfe30b1ac8ea712d445d607444dc1a5",
       "title": "How MEMS inertial sensors can rival GPS",

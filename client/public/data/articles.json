@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "a7695b7950db9bf9f8c20c5d4c662c3f",
+      "title": "国轩高科获ISO/IEC 27001认证 信息安全管理体系取得CNAS与UKAS双认可 2026-11-06 2026-11-06",
+      "sourceKey": "s06-10",
+      "sourceName": "国轩高科",
+      "sourceType": "研发型企业",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-11-07T21:59:27.048Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.gotion.com.cn/newsInfo/1003",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "4aeec48baadb0dde5a3dac5c5655c0cf",
+      "title": "\"To make a real impact, we need to become more international\"",
+      "sourceKey": "s01-24",
+      "sourceName": "Helmholtz Association",
+      "sourceType": "国家研究联合体",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-11-07T21:59:17.457Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.helmholtz.de/en/newsroom/article/to-make-a-real-impact-we-need-to-become-more-international/",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "5f721228af3682c2417b4131d4680ee3",
       "title": "Measuring how AI agents handle everyday wet-lab science",
       "sourceKey": "s01-14",
@@ -19731,5 +19767,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-11-07T13:18:55.683Z"
+  "updatedAt": "2026-11-07T21:59:30.521Z"
 }
