@@ -1,11 +1,66 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-07T06:18:34.676Z",
-  "pendingCount": 775,
-  "readyCount": 775,
+  "updatedAt": "2026-11-07T13:18:55.683Z",
+  "pendingCount": 785,
+  "readyCount": 785,
   "awaitingContentCount": 0,
   "excludedContentCount": 55,
   "items": [
+    {
+      "id": "9bfe30b1ac8ea712d445d607444dc1a5",
+      "title": "How MEMS inertial sensors can rival GPS",
+      "url": "https://research.ibm.com/blog/how-mems-inertial-sensors-can-rival-gps",
+      "publishedAt": null,
+      "crawledAt": "2026-11-07T13:16:09.778Z",
+      "contentStatus": "ready",
+      "contentHash": "525073bc535b49e96c3f272723deeb3f0de9995211a8c3268a215655338ae2de",
+      "rawPath": "data/raw/9bfe30b1ac8ea712d445d607444dc1a5.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "a91d575e37a0bb33b46b792d2cec6db8",
+      "title": "关于举办2026年中国药学会临床药学专业委员会学术年...",
+      "url": "https://www.cpa.org.cn/?do=info&cid=79156",
+      "publishedAt": null,
+      "crawledAt": "2026-11-07T13:16:02.400Z",
+      "contentStatus": "ready",
+      "contentHash": "1dd002263dca7a84ea24be65a2cccef6197d93f1a9bdb294027ff0a8775143be",
+      "rawPath": "data/raw/a91d575e37a0bb33b46b792d2cec6db8.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "52154185f46373be2c655c0bb38a4bd1",
+      "title": "• 2026中国人工智能数字创新大会在温州开幕，共谋AI赋能数字经济高质量发展 2026-10-30",
+      "url": "https://www.caai.cn/site/content/11502.html",
+      "publishedAt": null,
+      "crawledAt": "2026-11-07T13:15:56.686Z",
+      "contentStatus": "ready",
+      "contentHash": "8c2f4927a2f23bfaa803088d1f7ff6498355dec3499406dce5986377053d3a43",
+      "rawPath": "data/raw/52154185f46373be2c655c0bb38a4bd1.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "9729e3f2d240190663f52efc9a8423b8",
+      "title": "• 第二届全国人工智能逻辑大会在合肥工业大学成功举行 2026-11-03",
+      "url": "https://www.caai.cn/site/content/11518.html",
+      "publishedAt": null,
+      "crawledAt": "2026-11-07T13:15:56.446Z",
+      "contentStatus": "ready",
+      "contentHash": "47ab26dbc72316ff7dd244d5c7e19e074363bab8e57af5e253248009a3567caa",
+      "rawPath": "data/raw/9729e3f2d240190663f52efc9a8423b8.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "531cd3cd5e4d5b70e44f7ead9471ec15",
+      "title": "• 2026中国人工智能学会智慧医疗专业委员会年会在广州召开 2026-11-04",
+      "url": "https://www.caai.cn/site/content/11517.html",
+      "publishedAt": null,
+      "crawledAt": "2026-11-07T13:15:56.013Z",
+      "contentStatus": "ready",
+      "contentHash": "1776586fce47b80dbb10b1e4625b18057c524c68bb2427bc9da12db41321df58",
+      "rawPath": "data/raw/531cd3cd5e4d5b70e44f7ead9471ec15.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "b9909562a76f37369779bd477fa5be7a",
       "title": "中华人民共和国连云港出入境边防检查站营房墙面、吊顶、地砖及防水修缮工程终止公告",
@@ -139,6 +194,17 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "a0a44ed09dc9a1089b4e099f4e0fbf8e",
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "url": "https://openai.com/index/partnering-with-hacktron",
+      "publishedAt": "2026-11-06T08:00:00.000Z",
+      "crawledAt": "2026-11-07T13:16:11.038Z",
+      "contentStatus": "ready",
+      "contentHash": "b7a0406a5e69feb2f4aa2b8cdc049cfa358b04dace8a44741de523fccd2b770c",
+      "rawPath": "data/raw/a0a44ed09dc9a1089b4e099f4e0fbf8e.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "4f9b7d65d50bbdafb58dcedb784c03ea",
       "title": "Recursion Appoints Fred Hassan as Chair of the Board",
       "url": "https://ir.recursion.com/news-releases/news-release-details/recursion-appoints-fred-hassan-chair-board",
@@ -169,6 +235,28 @@
       "contentStatus": "ready",
       "contentHash": "c208d389aa4bcf2f9a3c5b13898f7863f47721849b74461f23c8471afe118398",
       "rawPath": "data/raw/ca100cd2ea88e78681649261510dc0ce.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "f8eaf34af556eaeca6aec2575c2c0d54",
+      "title": "Chicago’s bid to lead the country in quantum computing",
+      "url": "https://research.ibm.com/blog/chicago-quantum-computer",
+      "publishedAt": "2026-11-06T05:00:00.000Z",
+      "crawledAt": "2026-11-07T13:16:09.127Z",
+      "contentStatus": "ready",
+      "contentHash": "45dec619a191ea5b65f19482b10fafb6973850db1dcd30d174ac490fc7ddc96f",
+      "rawPath": "data/raw/f8eaf34af556eaeca6aec2575c2c0d54.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "5f721228af3682c2417b4131d4680ee3",
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "publishedAt": "2026-11-06T00:00:00.000Z",
+      "crawledAt": "2026-11-07T13:16:11.038Z",
+      "contentStatus": "ready",
+      "contentHash": "e9e5d34bef70c7f55ca1090cab940ded57f4de2bde9e6af037a38dbf666caa21",
+      "rawPath": "data/raw/5f721228af3682c2417b4131d4680ee3.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -227,6 +315,17 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "616c68177b707eae60eb2b7e618a8610",
+      "title": "Australian universities are creating AI-native graduates",
+      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+      "publishedAt": "2026-11-05T17:00:00.000Z",
+      "crawledAt": "2026-11-07T13:16:11.038Z",
+      "contentStatus": "ready",
+      "contentHash": "95e94d6b252d142b0a5165dd3f327fe52c2d920c0c725c016bbad224ef375ed5",
+      "rawPath": "data/raw/616c68177b707eae60eb2b7e618a8610.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "b28ecfb79591f96a93e5ce4dbf8e96ef",
       "title": "Formally verifying agent-written full-stack web apps with PDD Kit",
       "url": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/",
@@ -235,6 +334,17 @@
       "contentStatus": "ready",
       "contentHash": "96debff0674317c92499e1d46661c634134a279258a6445fc808a7dff75bd050",
       "rawPath": "data/raw/b28ecfb79591f96a93e5ce4dbf8e96ef.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "100add3a7bc06122f5f73cdd44bf1cc9",
+      "title": "ORNL, IBM, and AMD launch co-design platform for quantum error correction",
+      "url": "https://research.ibm.com/blog/ornl-amd-error-correction-co-design-platform",
+      "publishedAt": "2026-11-05T13:00:00.000Z",
+      "crawledAt": "2026-11-07T13:16:10.130Z",
+      "contentStatus": "ready",
+      "contentHash": "d1c42a7e29dd132e34b4d2f8e0935db325e12dd696df4cbe8cf569eaf4bd7dd6",
+      "rawPath": "data/raw/100add3a7bc06122f5f73cdd44bf1cc9.json",
       "lastAnalysisStatus": "pending"
     },
     {

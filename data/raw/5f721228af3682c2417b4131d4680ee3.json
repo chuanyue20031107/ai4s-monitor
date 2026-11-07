@@ -1,0 +1,18 @@
+{
+  "id": "5f721228af3682c2417b4131d4680ee3",
+  "title": "Measuring how AI agents handle everyday wet-lab science",
+  "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+  "sourceKey": "s01-14",
+  "sourceName": "OpenAI",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": "2026-11-06T00:00:00.000Z",
+  "crawledAt": "2026-11-07T13:16:11.038Z",
+  "content": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-11-07T13:16:11.038Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "e9e5d34bef70c7f55ca1090cab940ded57f4de2bde9e6af037a38dbf666caa21"
+}

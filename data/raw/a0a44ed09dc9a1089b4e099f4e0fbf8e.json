@@ -1,0 +1,18 @@
+{
+  "id": "a0a44ed09dc9a1089b4e099f4e0fbf8e",
+  "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+  "url": "https://openai.com/index/partnering-with-hacktron",
+  "sourceKey": "s01-14",
+  "sourceName": "OpenAI",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": "2026-11-06T08:00:00.000Z",
+  "crawledAt": "2026-11-07T13:16:11.038Z",
+  "content": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-11-07T13:16:11.038Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "b7a0406a5e69feb2f4aa2b8cdc049cfa358b04dace8a44741de523fccd2b770c"
+}
