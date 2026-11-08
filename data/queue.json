@@ -1,11 +1,55 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-08T06:15:05.116Z",
-  "pendingCount": 790,
-  "readyCount": 790,
+  "updatedAt": "2026-11-08T13:40:36.176Z",
+  "pendingCount": 794,
+  "readyCount": 794,
   "awaitingContentCount": 0,
   "excludedContentCount": 55,
   "items": [
+    {
+      "id": "a1e01f72c2bdac019ace0aec93d119df",
+      "title": "2026全球城市论坛召开 2026年11月05日",
+      "url": "https://news.sjtu.edu.cn/jdyw/20261105/227290.html",
+      "publishedAt": null,
+      "crawledAt": "2026-11-08T13:40:28.658Z",
+      "contentStatus": "ready",
+      "contentHash": "a9863901d64d7d1fc27ed583768c46118118e2efe2190e36ca98431f223a5db3",
+      "rawPath": "data/raw/a1e01f72c2bdac019ace0aec93d119df.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "bc4fe89738eb70841a77cb060d59f9c1",
+      "title": "上海交通大学党委理论学习中心组传达学习党的二十届五中全会精神 2026年11月02日",
+      "url": "https://news.sjtu.edu.cn/jdyw/20261102/227172.html",
+      "publishedAt": null,
+      "crawledAt": "2026-11-08T13:40:28.418Z",
+      "contentStatus": "ready",
+      "contentHash": "5d536d442590cd2f3f5bb73c3eb0770ef0f92f590dea3a8caf5fee6665a574ba",
+      "rawPath": "data/raw/bc4fe89738eb70841a77cb060d59f9c1.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "a41e967f839f926add72b5f9227570c5",
+      "title": "第40届中国化学奥林匹克（决赛）在上海交通大学顺利闭幕",
+      "url": "https://news.sjtu.edu.cn/jdyw/20261105/227275.html",
+      "publishedAt": null,
+      "crawledAt": "2026-11-08T13:40:25.745Z",
+      "contentStatus": "ready",
+      "contentHash": "444bf18052b5a5efbb6bc95d4e490e39169e1601f07cf0692379695f58ac57d9",
+      "rawPath": "data/raw/a41e967f839f926add72b5f9227570c5.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "de1bd7cc33d068a874c842b58862b83c",
+      "title": "关于开展2026年“联合国糖尿病日”科普宣教...",
+      "url": "https://www.ustc.edu.cn/info/1366/26014.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-11-08T13:37:53.953Z",
+      "contentStatus": "ready",
+      "contentHash": "35aba5bc299c29708683c5e288e7b0b9e00d5c420fb5967a2c092330182b9039",
+      "rawPath": "data/raw/de1bd7cc33d068a874c842b58862b83c.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "8c9926f0f67753992ba655c6f2d7c33f",
       "title": "西门子诊断启动独立剥离，正式更名Olyrian Diagnostics",
