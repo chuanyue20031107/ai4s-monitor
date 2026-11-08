@@ -1,11 +1,77 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-08T13:40:36.176Z",
-  "pendingCount": 794,
-  "readyCount": 794,
+  "updatedAt": "2026-11-08T22:18:00.625Z",
+  "pendingCount": 800,
+  "readyCount": 800,
   "awaitingContentCount": 0,
   "excludedContentCount": 55,
   "items": [
+    {
+      "id": "945b11bcd6bf60e5c030e86b5a7b91bc",
+      "title": "科学家发布开源RNA序列基础模型",
+      "url": "https://www.cas.cn/syky/202611/t20261105_5123509.shtml",
+      "publishedAt": null,
+      "crawledAt": "2026-11-08T22:18:00.059Z",
+      "contentStatus": "ready",
+      "contentHash": "cf403d0509591f131a5981d56ce1041296c6ef6f36ecc73524a7795b9077200f",
+      "rawPath": "data/raw/945b11bcd6bf60e5c030e86b5a7b91bc.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "8718ff54dcb8e8f437f8cb4945f331e6",
+      "title": "研究揭示饲养方式调控牦牛肉品质与风味的微生物机制",
+      "url": "https://www.cas.cn/syky/202611/t20261102_5123237.shtml",
+      "publishedAt": null,
+      "crawledAt": "2026-11-08T22:17:59.637Z",
+      "contentStatus": "ready",
+      "contentHash": "4005f7b9a6e115454e9d581b6b035195fb67e9021eea806c3b2b9e55ed8b9e75",
+      "rawPath": "data/raw/8718ff54dcb8e8f437f8cb4945f331e6.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "e2cce045c3e0afae0c9262b6daa79217",
+      "title": "科学家提出超导磁体在线失超探测新方法",
+      "url": "https://www.cas.cn/syky/202611/t20261104_5123451.shtml",
+      "publishedAt": null,
+      "crawledAt": "2026-11-08T22:17:59.132Z",
+      "contentStatus": "ready",
+      "contentHash": "aabd99daefe9d374a44c04e8fe9fe90e785d2a3181eb41bc8d77879f2ce76340",
+      "rawPath": "data/raw/e2cce045c3e0afae0c9262b6daa79217.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "c20cd248b4f37ca60efd967c8788d168",
+      "title": "上海市消防救援总队通信指挥系统（2025年升级改造）子系统建设采购项目配套包件3：软件测评公...",
+      "url": "https://www.ccgp.gov.cn/cggg/zygg/gkzb/202611/t20261108_27642491.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-11-08T22:15:31.736Z",
+      "contentStatus": "ready",
+      "contentHash": "d3c1db013a71757ffed39680ff888deafba14a86d109d55657908c0f317e6e88",
+      "rawPath": "data/raw/c20cd248b4f37ca60efd967c8788d168.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "f2baff2cb51938d56da72078232229ee",
+      "title": "上海市消防救援总队通信指挥系统（2025年升级改造）子系统建设采购项目主体包件7：消防AI大模...",
+      "url": "https://www.ccgp.gov.cn/cggg/zygg/gkzb/202611/t20261108_27642490.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-11-08T22:15:31.140Z",
+      "contentStatus": "ready",
+      "contentHash": "ef493f6542ad79f41382f69f01150202b05d624e9a4956ac958f791f3c7ce0cd",
+      "rawPath": "data/raw/f2baff2cb51938d56da72078232229ee.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "0313d29f7daf750432ad0fb0903fd040",
+      "title": "上海市消防救援总队通信指挥系统（2025年升级改造）子系统建设采购项目主体包件6：业务系统升...",
+      "url": "https://www.ccgp.gov.cn/cggg/zygg/gkzb/202611/t20261108_27642497.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-11-08T22:15:30.194Z",
+      "contentStatus": "ready",
+      "contentHash": "54ca2d86d18e9f1fd995789fe150f5f623d59b440b15b0fcbde8385e0ce46bc4",
+      "rawPath": "data/raw/0313d29f7daf750432ad0fb0903fd040.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "a1e01f72c2bdac019ace0aec93d119df",
       "title": "2026全球城市论坛召开 2026年11月05日",
