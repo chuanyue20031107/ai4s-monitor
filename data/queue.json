@@ -1,11 +1,44 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-07T21:59:30.521Z",
-  "pendingCount": 787,
-  "readyCount": 787,
+  "updatedAt": "2026-11-08T06:15:05.116Z",
+  "pendingCount": 790,
+  "readyCount": 790,
   "awaitingContentCount": 0,
   "excludedContentCount": 55,
   "items": [
+    {
+      "id": "8c9926f0f67753992ba655c6f2d7c33f",
+      "title": "西门子诊断启动独立剥离，正式更名Olyrian Diagnostics",
+      "url": "https://www.caclp.com/article/?detail_14437.html",
+      "publishedAt": null,
+      "crawledAt": "2026-11-08T06:14:53.112Z",
+      "contentStatus": "ready",
+      "contentHash": "2804ddc1d60ed984a9368001428ef79ad81f44267b15fc85f784762376e35baf",
+      "rawPath": "data/raw/8c9926f0f67753992ba655c6f2d7c33f.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "87679f100e55eb0cef747953b820564c",
+      "title": "丹纳赫中国区集团总裁由李蕾接任",
+      "url": "https://www.caclp.com/article/?detail_14438.html",
+      "publishedAt": null,
+      "crawledAt": "2026-11-08T06:14:51.949Z",
+      "contentStatus": "ready",
+      "contentHash": "fb824607dcc98f714fa7d8cbbce4279b5c17eb4cdcec8fa5d6e3961e3b8bf7d0",
+      "rawPath": "data/raw/87679f100e55eb0cef747953b820564c.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "d4fa9f38aaa282eed043c4971e30186d",
+      "title": "罗氏诊断Elecsys pTau217落地海南",
+      "url": "https://www.caclp.com/article/?detail_14439.html",
+      "publishedAt": null,
+      "crawledAt": "2026-11-08T06:14:50.694Z",
+      "contentStatus": "ready",
+      "contentHash": "f4d79f0db71192de04976b95a858976629edcd890fa7c0e249a2caa785bdc6fd",
+      "rawPath": "data/raw/d4fa9f38aaa282eed043c4971e30186d.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "a7695b7950db9bf9f8c20c5d4c662c3f",
       "title": "国轩高科获ISO/IEC 27001认证 信息安全管理体系取得CNAS与UKAS双认可 2026-11-06 2026-11-06",

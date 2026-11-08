@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "id": "8c9926f0f67753992ba655c6f2d7c33f",
+      "title": "西门子诊断启动独立剥离，正式更名Olyrian Diagnostics",
+      "sourceKey": "s10-15",
+      "sourceName": "CACLP中国国际检验医学暨输血仪器试剂博览会",
+      "sourceType": "行业展会/会议",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-11-08T06:14:53.112Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.caclp.com/article/?detail_14437.html",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "87679f100e55eb0cef747953b820564c",
+      "title": "丹纳赫中国区集团总裁由李蕾接任",
+      "sourceKey": "s10-15",
+      "sourceName": "CACLP中国国际检验医学暨输血仪器试剂博览会",
+      "sourceType": "行业展会/会议",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-11-08T06:14:51.949Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.caclp.com/article/?detail_14438.html",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "d4fa9f38aaa282eed043c4971e30186d",
+      "title": "罗氏诊断Elecsys pTau217落地海南",
+      "sourceKey": "s10-15",
+      "sourceName": "CACLP中国国际检验医学暨输血仪器试剂博览会",
+      "sourceType": "行业展会/会议",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-11-08T06:14:50.694Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.caclp.com/article/?detail_14439.html",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "a7695b7950db9bf9f8c20c5d4c662c3f",
       "title": "国轩高科获ISO/IEC 27001认证 信息安全管理体系取得CNAS与UKAS双认可 2026-11-06 2026-11-06",
       "sourceKey": "s06-10",
@@ -19767,5 +19821,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-11-07T21:59:30.521Z"
+  "updatedAt": "2026-11-08T06:15:05.116Z"
 }
