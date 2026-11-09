@@ -1,0 +1,18 @@
+{
+  "id": "db9792e954d447010915e606e8fdb998",
+  "title": "Merge builds product and business tools with OpenAI technology",
+  "url": "https://openai.com/index/merge-builds-with-openai",
+  "sourceKey": "s01-14",
+  "sourceName": "OpenAI",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": "2026-11-05T08:00:00.000Z",
+  "crawledAt": "2026-11-09T06:48:18.958Z",
+  "content": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-11-09T06:48:18.958Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "85d953a63c4281f0caa98bc15c1774c8bec272cb7e6f1d5029feec8b11588d47"
+}
