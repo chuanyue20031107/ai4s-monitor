@@ -1,11 +1,88 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-10T07:31:26.364Z",
-  "pendingCount": 806,
-  "readyCount": 806,
+  "updatedAt": "2026-11-10T19:54:03.429Z",
+  "pendingCount": 814,
+  "readyCount": 814,
   "awaitingContentCount": 0,
   "excludedContentCount": 55,
   "items": [
+    {
+      "id": "5fbf3ea4e6799b83e6be3598fe015dda",
+      "title": "我校召开2026年度“创新创业教育研究课题”立项评审会",
+      "url": "http://news.ustc.edu.cn/info/1055/96852.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-11-10T19:51:20.305Z",
+      "contentStatus": "ready",
+      "contentHash": "9b636df26d098292ee79449796d56db9a302eae7e874ed1c22e964c90a8fc0a3",
+      "rawPath": "data/raw/5fbf3ea4e6799b83e6be3598fe015dda.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "99b34b3f4b7f6e254dc024af76d7c316",
+      "title": "学校举办2026年离退休教职工趣味运动会",
+      "url": "http://news.ustc.edu.cn/info/1055/96869.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-11-10T19:51:20.126Z",
+      "contentStatus": "ready",
+      "contentHash": "609fe29729072ca91276311c557cee5f7d846388c11a8b35972f4ff1758d6e17",
+      "rawPath": "data/raw/99b34b3f4b7f6e254dc024af76d7c316.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "2145a309bbe1b429d7ae0d5bb18a2aaf",
+      "title": "学校2026级心理委员岗前培训暨心理健康活动月启动",
+      "url": "http://news.ustc.edu.cn/info/1055/96861.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-11-10T19:51:18.169Z",
+      "contentStatus": "ready",
+      "contentHash": "cc5069584a918b074c5c9854af87351168cb4e62a8095118f4019fdbe2003037",
+      "rawPath": "data/raw/2145a309bbe1b429d7ae0d5bb18a2aaf.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "608f6eb177cd9cc02c7d6d16f37b2bc8",
+      "title": "--> --> --> --> --> --> --> --> -->",
+      "url": "https://www.mgi-tech.com/mgi-news/1400.html",
+      "publishedAt": null,
+      "crawledAt": "2026-11-10T19:51:14.342Z",
+      "contentStatus": "ready",
+      "contentHash": "157b9381b27767b275cf01ae59ba1ae9d349efaee020e71adff50f1a36f4b13e",
+      "rawPath": "data/raw/608f6eb177cd9cc02c7d6d16f37b2bc8.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "b0a8129f4d7b6723e753172f9d3aa3ed",
+      "title": "Careers",
+      "url": "https://www.chemify.io/careers/",
+      "publishedAt": null,
+      "crawledAt": "2026-11-10T19:51:06.139Z",
+      "contentStatus": "ready",
+      "contentHash": "25d9f40986e23ec20e7fc184397bd9572ca32aac4ff5481b5376b667bfce1290",
+      "rawPath": "data/raw/b0a8129f4d7b6723e753172f9d3aa3ed.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "66aea8ff79c9015d629c6a8ad2632d53",
+      "title": "Generate:Biomedicines Expands Leadership Team with Chief Digital Officer | Generate:Biomedicines",
+      "url": "https://generatebiomedicines.com/news-releases/generate-biomedicines-expands-leadership-team-with-chief-digital-officer/",
+      "publishedAt": null,
+      "crawledAt": "2026-11-10T19:51:02.146Z",
+      "contentStatus": "ready",
+      "contentHash": "4b561b6b8be6f3b5afe58b12cd1c974098e25d4f6b9ace8bcae91e4e928797ab",
+      "rawPath": "data/raw/66aea8ff79c9015d629c6a8ad2632d53.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "156352230162b987182ff1de955c1002",
+      "title": "Generate:Biomedicines Uses AI to Create Proteins That Have Never Existed | Generate:Biomedicines",
+      "url": "https://generatebiomedicines.com/news-releases/generate-biomedicines-uses-ai-to-create-proteins-that-have-never-existed/",
+      "publishedAt": null,
+      "crawledAt": "2026-11-10T19:51:01.838Z",
+      "contentStatus": "ready",
+      "contentHash": "74fe694f7c5d5647a7ac2f7b2e08ce0a3042aefc2bbe6635c38ec8e92ea3f7dc",
+      "rawPath": "data/raw/156352230162b987182ff1de955c1002.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "f90e3f2a4f88725814dee495a8a3c584",
       "title": "全自动模块式动物血液体液分析仪及全自动生化分析仪采购项目公开招标公告",
@@ -48,6 +125,17 @@
       "contentStatus": "ready",
       "contentHash": "555a5c76a52a2875a1f677e40fee7bf8859a59b827132faef64b3289b381cc67",
       "rawPath": "data/raw/b649f9c3f3a527eb366a9a8324a913cd.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "6f9f5e11b322baa37e8045fd723c9a2b",
+      "title": "皮尔法伯集团与晶泰科技宣布达成一项AI驱动药物发现的合作",
+      "url": "https://www.xtalpi.com/%e7%9a%ae%e5%b0%94%e6%b3%95%e4%bc%af%e9%9b%86%e5%9b%a2%e4%b8%8e%e6%99%b6%e6%b3%b0%e7%a7%91%e6%8a%80%e5%ae%a3%e5%b8%83%e8%be%be%e6%88%90%e4%b8%80%e9%a1%b9ai%e9%a9%b1%e5%8a%a8%e8%8d%af%e7%89%a9%e5%8f%91/",
+      "publishedAt": "2026-11-09T00:00:28.000Z",
+      "crawledAt": "2026-11-10T19:51:14.445Z",
+      "contentStatus": "ready",
+      "contentHash": "54e5c70036c1cccdfc0fa7fa1ab2835ac7832491ab163c72cb5b668a9e317862",
+      "rawPath": "data/raw/6f9f5e11b322baa37e8045fd723c9a2b.json",
       "lastAnalysisStatus": "pending"
     },
     {
