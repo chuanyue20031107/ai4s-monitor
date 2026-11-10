@@ -1,11 +1,22 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-09T22:32:53.946Z",
-  "pendingCount": 804,
-  "readyCount": 804,
+  "updatedAt": "2026-11-10T07:31:26.364Z",
+  "pendingCount": 806,
+  "readyCount": 806,
   "awaitingContentCount": 0,
   "excludedContentCount": 55,
   "items": [
+    {
+      "id": "f90e3f2a4f88725814dee495a8a3c584",
+      "title": "全自动模块式动物血液体液分析仪及全自动生化分析仪采购项目公开招标公告",
+      "url": "https://www.caclp.com/article/?detail_14440.html",
+      "publishedAt": null,
+      "crawledAt": "2026-11-10T07:28:45.011Z",
+      "contentStatus": "ready",
+      "contentHash": "fbfce7d4a270f2c9f30557684d25e053c14452744bf8635c0399dec15c04f0d6",
+      "rawPath": "data/raw/f90e3f2a4f88725814dee495a8a3c584.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "79d1638935d55a98e5ccfc7f69b88ffc",
       "title": "• 习近平会见奥地利总理施托克尔 2026-11-06",
@@ -26,6 +37,17 @@
       "contentStatus": "ready",
       "contentHash": "0b6a2b8afc64b0322cae32cac38e06d4e61ad0c8ff60fdd7ffec648896fad5db",
       "rawPath": "data/raw/fdfad98299673894958b36ed1c82b3af.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "b649f9c3f3a527eb366a9a8324a913cd",
+      "title": "The Cato T. Laurencin Regenerative Engineering Society Founder’s Award for 2026 Is Awarded to Gordana Vunjak-Novakovic",
+      "url": "https://www.aiche.org/cato-t-laurencin-regenerative-engineering-society-founders-award-2026-awarded-gordana-vunjak",
+      "publishedAt": "2026-11-09T03:03:15.000Z",
+      "crawledAt": "2026-11-10T07:28:52.031Z",
+      "contentStatus": "ready",
+      "contentHash": "555a5c76a52a2875a1f677e40fee7bf8859a59b827132faef64b3289b381cc67",
+      "rawPath": "data/raw/b649f9c3f3a527eb366a9a8324a913cd.json",
       "lastAnalysisStatus": "pending"
     },
     {
