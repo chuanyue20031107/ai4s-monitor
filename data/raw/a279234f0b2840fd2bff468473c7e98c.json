@@ -1,0 +1,18 @@
+{
+  "id": "a279234f0b2840fd2bff468473c7e98c",
+  "title": "Learn more",
+  "url": "https://research.ibm.com/blog/path-to-starling",
+  "sourceKey": "s01-11",
+  "sourceName": "IBM Research",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": null,
+  "crawledAt": "2026-11-11T19:43:16.374Z",
+  "content": "Tracking progress on the path to IBM Quantum Starling News Matthias Steffen and Matthew Marwick 11 Nov 2026 Quantum Error Correction & Mitigation Quantum Systems",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-11-11T19:43:16.374Z",
+  "contentTruncated": true,
+  "contentError": "",
+  "contentHash": "4df0ba57a99b07a0063f7a9ada4077dfca22796811226e429472eb72d43c27c7"
+}
