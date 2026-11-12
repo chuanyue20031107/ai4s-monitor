@@ -1,0 +1,18 @@
+{
+  "id": "55ff14dc4213127df72a8039620109cd",
+  "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+  "url": "https://openai.com/index/jiostar-vijay-seshadri",
+  "sourceKey": "s01-14",
+  "sourceName": "OpenAI",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": "2026-11-11T00:00:00.000Z",
+  "crawledAt": "2026-11-12T07:22:26.216Z",
+  "content": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-11-12T07:22:26.216Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "434ad442e52bc653da0a3f190c8076d2cc235adc6b1eb686227c815720ae2f3e"
+}

@@ -1,11 +1,77 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-11T19:45:48.347Z",
-  "pendingCount": 832,
-  "readyCount": 832,
+  "updatedAt": "2026-11-12T07:22:50.791Z",
+  "pendingCount": 841,
+  "readyCount": 841,
   "awaitingContentCount": 0,
   "excludedContentCount": 55,
   "items": [
+    {
+      "id": "3ea507ce83b4a00e4dbcb3d1b4a35055",
+      "title": "攀钢到访聚光科技，共探国产仪器多场景合作 2026-11-10",
+      "url": "https://www.fpi-inc.com/news_cont_48397.html",
+      "publishedAt": null,
+      "crawledAt": "2026-11-12T07:22:43.053Z",
+      "contentStatus": "ready",
+      "contentHash": "a90d23ca8fd1d3a7f0ac03c16e07fc05205402c5110c441b12ee7bcec082cdf6",
+      "rawPath": "data/raw/3ea507ce83b4a00e4dbcb3d1b4a35055.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "f601b132b5be5ddaf86f35deb2c686db",
+      "title": "聚光科技成立工业色谱事业部，王继付出任总经理 2026-11-12",
+      "url": "https://www.fpi-inc.com/news_cont_48401.html",
+      "publishedAt": null,
+      "crawledAt": "2026-11-12T07:22:41.900Z",
+      "contentStatus": "ready",
+      "contentHash": "e2dddebc4ace196a641b14cbc4327900d0c95de6c110b891bab6fe158185e5e4",
+      "rawPath": "data/raw/f601b132b5be5ddaf86f35deb2c686db.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "d493ddc6fdca063ca2e65899ca0442f0",
+      "title": "MiniMax H3 Image",
+      "url": "https://www.minimax.cn/blog/minimax-h3-image",
+      "publishedAt": null,
+      "crawledAt": "2026-11-12T07:22:39.821Z",
+      "contentStatus": "ready",
+      "contentHash": "5275311b9d175a6e290d9c17be6318ecc2d901fb2d0e9c98ad5441b67518f0b8",
+      "rawPath": "data/raw/d493ddc6fdca063ca2e65899ca0442f0.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "b815f89becf0e9f449ae9bf57cb1ee04",
+      "title": "Awards & Recognition from Renowned Institutions | SandboxAQ",
+      "url": "https://www.sandboxaq.com/news/awards",
+      "publishedAt": null,
+      "crawledAt": "2026-11-12T07:22:32.429Z",
+      "contentStatus": "ready",
+      "contentHash": "9f65d724298b077ff52df05a730edc5dd34f2d60f19d7491f324b3bd60ab6152",
+      "rawPath": "data/raw/b815f89becf0e9f449ae9bf57cb1ee04.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "e41bea41e0ba156a11f9d21f2600a1de",
+      "title": "Tomonori Taniguchi from AI Medical Engineering Team Selected as a Japanese Delegate to GYSS 2027",
+      "url": "https://aip.riken.jp/news/tomonori-taniguchi-selected-as-delegate-to-gyss2027/",
+      "publishedAt": null,
+      "crawledAt": "2026-11-12T07:22:28.994Z",
+      "contentStatus": "ready",
+      "contentHash": "c252ab8c1ce7e67485e0fea98841673abbbed6ccabd05b119f105e3ead957f76",
+      "rawPath": "data/raw/e41bea41e0ba156a11f9d21f2600a1de.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "f085663733c1ca73d891514b39da4aea",
+      "title": "Researchers from Germany and France Visit the AIP Center",
+      "url": "https://aip.riken.jp/news/researchers-from-germany-and-france-visit-the-aip-center/",
+      "publishedAt": null,
+      "crawledAt": "2026-11-12T07:22:28.558Z",
+      "contentStatus": "ready",
+      "contentHash": "93554bbd222c03860d9d912e4f5b8a289d83bcfbdc97b2d3599f12df131ab32a",
+      "rawPath": "data/raw/f085663733c1ca73d891514b39da4aea.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "1bd79dc41aba2f93afe4a824b528ba52",
       "title": "Analyst Report AWS named a Leader in the 2026 Gartner Magic Quadrant for SCPS",
@@ -139,6 +205,17 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "ac94b61a25ade5edbf713f0897cc9ad6",
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "publishedAt": "2026-11-11T08:00:00.000Z",
+      "crawledAt": "2026-11-12T07:22:26.215Z",
+      "contentStatus": "ready",
+      "contentHash": "b5805270b7462531537a8af7913816a5bf5ffc21d7bd592b82e85ed379673b78",
+      "rawPath": "data/raw/ac94b61a25ade5edbf713f0897cc9ad6.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "3b3d55e48312997b390370a04c70dcf1",
       "title": "Watch the Webinar: CodeBMB for Beginners",
       "url": "https://www.rcsb.org/news/6a199d460fba48755e860635",
@@ -202,6 +279,17 @@
       "contentStatus": "ready",
       "contentHash": "c4ce57694b5fc85bafaf7bf75a31372cb4365c095d9767c80a8a934d337110b7",
       "rawPath": "data/raw/560145b22b350e0608f5128df630be76.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "55ff14dc4213127df72a8039620109cd",
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "url": "https://openai.com/index/jiostar-vijay-seshadri",
+      "publishedAt": "2026-11-11T00:00:00.000Z",
+      "crawledAt": "2026-11-12T07:22:26.216Z",
+      "contentStatus": "ready",
+      "contentHash": "434ad442e52bc653da0a3f190c8076d2cc235adc6b1eb686227c815720ae2f3e",
+      "rawPath": "data/raw/55ff14dc4213127df72a8039620109cd.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -1379,6 +1467,17 @@
       "contentStatus": "ready",
       "contentHash": "fe7ca4407b16935f8bd1d6d6f0fd73f703c32589a9625d296971c0af112b9a6c",
       "rawPath": "data/raw/825be745a59ebb201e3f63242afee24b.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "02ab52047931cda27da0413211604421",
+      "title": "02 11 月 鹭岛潮起，色谱争锋——汉邦科技亮相第68届全国制药机械博览会 药机展CIPM 十月的厦门，海风褪去了盛夏的燥热，多了一份属于收获季节的温润与从容。 鹭江潮水往 [&hellip;] 阅读更多",
+      "url": "https://www.hanbon.com.cn/%e9%b9%ad%e5%b2%9b%e6%bd%ae%e8%b5%b7%ef%bc%8c%e8%89%b2%e8%b0%b1%e4%ba%89%e9%94%8b-%e6%b1%89%e9%82%a6%e7%a7%91%e6%8a%80%e4%ba%ae%e7%9b%b8%e7%ac%ac68%e5%b1%8a%e5%85%a8%e5%9b%bd%e5%88%b6/",
+      "publishedAt": "2026-11-02T05:24:00.000Z",
+      "crawledAt": "2026-11-12T07:22:43.983Z",
+      "contentStatus": "ready",
+      "contentHash": "8cfd6e4aae1294be312869f9082deafd9e02a63eb0e85f418af8fd56207d0e60",
+      "rawPath": "data/raw/02ab52047931cda27da0413211604421.json",
       "lastAnalysisStatus": "pending"
     },
     {

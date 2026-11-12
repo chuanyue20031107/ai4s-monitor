@@ -1,0 +1,18 @@
+{
+  "id": "d493ddc6fdca063ca2e65899ca0442f0",
+  "title": "MiniMax H3 Image",
+  "url": "https://www.minimax.cn/blog/minimax-h3-image",
+  "sourceKey": "s03-10",
+  "sourceName": "MiniMax",
+  "sourceType": "通用模型厂商",
+  "publishedAt": null,
+  "crawledAt": "2026-11-12T07:22:39.821Z",
+  "content": "今天，我们正式发布 MiniMax H3-Image 并开放权重。这是一款衍生自 H3 的图像生成模型，其具备文本生成图像、图像参考和图像编辑能力。它能够在 10 秒内生成一张 4096 x 4096 像素、约 16 MP（4K）的高分辨率图像，同时呈现丰富、真实的细节，并具备优秀的指令遵循和多参考图理解能力。 在 H3 预训练赋予的广泛图像能力基础上，H3-Image 进一步强化了整个后训练链路，在数据、强化学习、步数压缩、PE、部署优化等方面做了许多扎实的工作，这些工作的组合使得 MiniMax H3-image 同时 具备了 速度、画面质量、指令遵循三个方面的竞争力 ： 相比于主流的一百万像素或者四百万像素，一千六百万像素（4K，4096×4096）的图片在细节上具备显著优势。MiniMax H3-Image 可以在 10s 内生成 4K 的高规格图像，速度可达市面主流水平的 5 倍。 这使得 4K 的日常创作成为可能。 画面细节和真实感可以显著拓宽模型的使用范围。有别于常见的“AI 感”，H3-Image 能够提供丰富的画面细节和极强的真实感。 我们希望进一步缩小 AI 生成图像与真实视觉世界之间的距离。 指令遵循能力可以提升创作的上限：高质量的图像生成，不只是让画面好看，更重要的是让创作者能够表达和实现自己的意图。 我们提供了开源模型中最强的指令遵循能力并最多支持 16 张参考图片。 为了促进开源社区的繁荣和技术的共享，也为了方便创作者自由定制独特的模型，我们同 H3 一样坚持 开放权重 的策略。我们希望 MiniMax H3-Image 能变成图像生成领域缩小开源模型与顶尖闭源模型差距的起点，也期待看到更多开发者、创作者和研究者加入，一起探索下一代视觉创作的可能性。 除了开放模型权重，我们还通过 MiniMax 开放平台、MiniMax Code 和 MiniMax 海螺 ，提供稳定、高质量的 H3-Image 图像生成服务。在生成速度上，H3-Image 标准模式的速度是市面上主流工具的 1.5-2 倍，Highspeed 模式则可达到 3–4 倍，显著提升创作效率。与此同时，H3-Image 的价格仅为同档位主流工具的 50%–70%，让高质量图像生成更具性价比。 为了让更多用户体验高质量图像生成能力， 我们将在发布首周，针对 4K 及以上规格的生成请求，提供官方价格的五折优惠。 Hugging Face: https://huggingface.co/MiniMaxAI/MiniMax-H3-Image API: https://platform.minimax.cn/docs/guides/image-generation MiniMax Code: https://code.minimax.cn/about 希望 H3-Image 能够给更多人的日常生活、工作带来便利，我们也会持续构建更强有力的工具来帮助普惠 AGI 的实现。 Intelligence with Everyone.",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-11-12T07:22:39.821Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "5275311b9d175a6e290d9c17be6318ecc2d901fb2d0e9c98ad5441b67518f0b8"
+}
