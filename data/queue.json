@@ -1,11 +1,88 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-12T07:22:50.791Z",
-  "pendingCount": 841,
-  "readyCount": 841,
+  "updatedAt": "2026-11-12T20:04:09.094Z",
+  "pendingCount": 852,
+  "readyCount": 852,
   "awaitingContentCount": 0,
   "excludedContentCount": 55,
   "items": [
+    {
+      "id": "5b069aa8a831a35fcc4eb454ad41c52f",
+      "title": "安徽允英医学检验实验室开业揭牌仪式圆满举行",
+      "url": "https://www.caclp.com/article/?detail_14441.html",
+      "publishedAt": null,
+      "crawledAt": "2026-11-12T20:03:55.242Z",
+      "contentStatus": "ready",
+      "contentHash": "1a5fd7ac9870fe8b5f93bd67bfbe7bf10101c4ec174f6bbdced268171bc0b0e4",
+      "rawPath": "data/raw/5b069aa8a831a35fcc4eb454ad41c52f.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "1602f096f5a5523726c3de52ab9fbea6",
+      "title": "卡尤迪与百图生科在港达成战略合作",
+      "url": "https://www.caclp.com/article/?detail_14442.html",
+      "publishedAt": null,
+      "crawledAt": "2026-11-12T20:03:54.320Z",
+      "contentStatus": "ready",
+      "contentHash": "eda2190dd19b7d9813029bf85c5af17527715b7b5e72b8c7acc0ff9ab89c05ca",
+      "rawPath": "data/raw/1602f096f5a5523726c3de52ab9fbea6.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "d3675cc052529f6e4f7c1b0866cd543d",
+      "title": "IVD相关企业完成近亿元C轮融资",
+      "url": "https://www.caclp.com/article/?detail_14443.html",
+      "publishedAt": null,
+      "crawledAt": "2026-11-12T20:03:53.176Z",
+      "contentStatus": "ready",
+      "contentHash": "67ee5593298a62f031e6634b59988d0d5870f9b9dbfa60a95e3fd3820131e247",
+      "rawPath": "data/raw/d3675cc052529f6e4f7c1b0866cd543d.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "6c5842e175c7f6e6419761c1f6bd949e",
+      "title": "年度大满贯！国轩高科荣膺BNEF Tier 1评级，稳居全球储能第一梯队 2026-11-04 2026-11-04",
+      "url": "https://www.gotion.com.cn/newsInfo/1004",
+      "publishedAt": null,
+      "crawledAt": "2026-11-12T20:03:49.166Z",
+      "contentStatus": "ready",
+      "contentHash": "94e130b900dcb0db85fe9c719e061b1110ac98c068934d9c4664f0e132ddb7e8",
+      "rawPath": "data/raw/6c5842e175c7f6e6419761c1f6bd949e.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "e597cd00763b2c0c51356415d59b1614",
+      "title": "国轩高科澳洲最大光储项目稳步推进 多款储能新品亮相全能源展 2026-11-09 2026-11-09",
+      "url": "https://www.gotion.com.cn/newsInfo/1005",
+      "publishedAt": null,
+      "crawledAt": "2026-11-12T20:03:48.932Z",
+      "contentStatus": "ready",
+      "contentHash": "91125ddabdc750459996268a3e816d2ff7afb9aa3d2814d3d7a267f41eac69c3",
+      "rawPath": "data/raw/e597cd00763b2c0c51356415d59b1614.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "ebf3c4ab5b1bdcfa2c4020be71c77994",
+      "title": "连获两项一等奖！国轩高科获中电联电力创新奖、安徽省科技进步奖一等奖 2026-11-10 2026-11-10",
+      "url": "https://www.gotion.com.cn/newsInfo/1006",
+      "publishedAt": null,
+      "crawledAt": "2026-11-12T20:03:48.698Z",
+      "contentStatus": "ready",
+      "contentHash": "216c35a7c93b32601d0d0cf3ee55793d91b858301ba8cae413327c929b83d843",
+      "rawPath": "data/raw/ebf3c4ab5b1bdcfa2c4020be71c77994.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "093cdf91ec548957e5aa0dc67cb815df",
+      "title": "News 11.12.2026",
+      "url": "https://www.broadinstitute.org/news/researchers-uncover-distinct-zones-and-age-associated-changes-key-brain-area",
+      "publishedAt": "2026-11-12T16:00:00.000Z",
+      "crawledAt": "2026-11-12T20:04:06.233Z",
+      "contentStatus": "ready",
+      "contentHash": "23eab6778420965227f6372ee9d683e694d16ab5187f14ac01ab472200fcc090",
+      "rawPath": "data/raw/093cdf91ec548957e5aa0dc67cb815df.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "3ea507ce83b4a00e4dbcb3d1b4a35055",
       "title": "攀钢到访聚光科技，共探国产仪器多场景合作 2026-11-10",
@@ -70,6 +147,17 @@
       "contentStatus": "ready",
       "contentHash": "93554bbd222c03860d9d912e4f5b8a289d83bcfbdc97b2d3599f12df131ab32a",
       "rawPath": "data/raw/f085663733c1ca73d891514b39da4aea.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "0ac000fdb237d06a39c0ab2f3a791c07",
+      "title": "The National Technical University of Athens Wins H. Scott Fogler 1st Place Award in 2026 Chem-E-Car Competition®",
+      "url": "https://www.aiche.org/national-technical-university-athens-wins-h-scott-fogler-1st-place-award-2026-chem-e-car",
+      "publishedAt": "2026-11-12T01:03:12.000Z",
+      "crawledAt": "2026-11-12T20:04:00.453Z",
+      "contentStatus": "ready",
+      "contentHash": "67985de2c737ebe620367e57662426b1e661eb93cf01678f1eab25e8843f2e27",
+      "rawPath": "data/raw/0ac000fdb237d06a39c0ab2f3a791c07.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -293,6 +381,17 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "e1742b0ed40ea563844b0ca18817ebec",
+      "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
+      "url": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/",
+      "publishedAt": "2026-11-10T20:52:56.000Z",
+      "crawledAt": "2026-11-12T20:04:05.004Z",
+      "contentStatus": "ready",
+      "contentHash": "635fa765f7663f40ba9da3c361323ed70f1d4a59348b68a8253051d7ace0eaa0",
+      "rawPath": "data/raw/e1742b0ed40ea563844b0ca18817ebec.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "5fbf3ea4e6799b83e6be3598fe015dda",
       "title": "我校召开2026年度“创新创业教育研究课题”立项评审会",
       "url": "http://news.ustc.edu.cn/info/1055/96852.htm",
@@ -367,6 +466,28 @@
       "contentStatus": "ready",
       "contentHash": "74fe694f7c5d5647a7ac2f7b2e08ce0a3042aefc2bbe6635c38ec8e92ea3f7dc",
       "rawPath": "data/raw/156352230162b987182ff1de955c1002.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "f6c4ccb6309209cbb724bc2f367ed6ad",
+      "title": "November-December 2026 CEP Preview",
+      "url": "https://www.aiche.org/november-december-2026-cep-preview",
+      "publishedAt": "2026-11-10T18:03:11.000Z",
+      "crawledAt": "2026-11-12T20:04:00.454Z",
+      "contentStatus": "ready",
+      "contentHash": "87d25ec4f5a21dcb966da51c5e7591a1bfb68750ff9b9c7f27ed3e987337b1a8",
+      "rawPath": "data/raw/f6c4ccb6309209cbb724bc2f367ed6ad.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "4a37d5428e636d4cf68d11e8c0c2c945",
+      "title": "NIST Is Turning Scientific Waste Into Cancer-Fighting Material",
+      "url": "https://www.nist.gov/blogs/taking-measure/nist-turning-scientific-waste-cancer-fighting-material",
+      "publishedAt": "2026-11-10T12:00:00.000Z",
+      "crawledAt": "2026-11-12T20:04:06.893Z",
+      "contentStatus": "ready",
+      "contentHash": "acb579c92adfd8960e81accd205231034002b5c758002c2a6bbd2cca9809ea62",
+      "rawPath": "data/raw/4a37d5428e636d4cf68d11e8c0c2c945.json",
       "lastAnalysisStatus": "pending"
     },
     {
