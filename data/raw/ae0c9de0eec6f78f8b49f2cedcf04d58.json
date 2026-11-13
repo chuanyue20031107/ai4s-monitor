@@ -1,0 +1,18 @@
+{
+  "id": "ae0c9de0eec6f78f8b49f2cedcf04d58",
+  "title": "News & media",
+  "url": "https://www.chemify.io/news/",
+  "sourceKey": "s02-16",
+  "sourceName": "Chemify",
+  "sourceType": "自动化化学公司",
+  "publishedAt": null,
+  "crawledAt": "2026-11-13T06:54:59.514Z",
+  "content": "COMPANY NEWS 22 OCT 2026 Rima Alameddine joins Chemify’s Board. Welcoming new expertise as Chemify builds its next chapter.",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-11-13T06:54:59.514Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "49898b402ee0f30d86231a5241ec8de4d8c25ed7c582f2b2a5b3878a7554441e"
+}
