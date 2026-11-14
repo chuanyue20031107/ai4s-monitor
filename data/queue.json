@@ -1,11 +1,66 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-14T06:40:37.515Z",
-  "pendingCount": 876,
-  "readyCount": 876,
+  "updatedAt": "2026-11-14T18:18:21.241Z",
+  "pendingCount": 885,
+  "readyCount": 885,
   "awaitingContentCount": 0,
   "excludedContentCount": 55,
   "items": [
+    {
+      "id": "6c040c3de275c3778d768f95ee7ae4cb",
+      "title": "Eight ERC Synergy Grants for Helmholtz",
+      "url": "https://www.helmholtz.de/en/newsroom/2026/erc-synergy-grants/",
+      "publishedAt": null,
+      "crawledAt": "2026-11-14T18:15:41.638Z",
+      "contentStatus": "ready",
+      "contentHash": "e7c20a0b6bf889abfd7fe78af500fdb040cc780505d7772a413a2b0b919d600e",
+      "rawPath": "data/raw/6c040c3de275c3778d768f95ee7ae4cb.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "5a079ef0787088cb72318f4650c45f6a",
+      "title": "Read more",
+      "url": "https://www.sanger.ac.uk/news_item/new-protein-maps-could-accelerate-precision-medicine/",
+      "publishedAt": null,
+      "crawledAt": "2026-11-14T18:15:39.108Z",
+      "contentStatus": "ready",
+      "contentHash": "ef32546da605a833a7b19edf5510dda57f1aef53888b5b9d65a0e6adba10db94",
+      "rawPath": "data/raw/5a079ef0787088cb72318f4650c45f6a.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "d8781b0af48a7f45b43485120392a369",
+      "title": "Read more",
+      "url": "https://www.sanger.ac.uk/news_item/first-complete-genomes-for-neglected-malaria-parasites/",
+      "publishedAt": null,
+      "crawledAt": "2026-11-14T18:15:38.908Z",
+      "contentStatus": "ready",
+      "contentHash": "83948c741e222bb958afc543d58db01574c79db45791f1104336570f5db89317",
+      "rawPath": "data/raw/d8781b0af48a7f45b43485120392a369.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "0701fd86300e0374d55b58837aad8920",
+      "title": "What is a spin qubit?",
+      "url": "https://research.ibm.com/blog/spin-qubits-explained",
+      "publishedAt": null,
+      "crawledAt": "2026-11-14T18:15:35.333Z",
+      "contentStatus": "ready",
+      "contentHash": "51d8bf5593d66464b52b8961d3e261804f35ddd77eda024eba616de23d4f0326",
+      "rawPath": "data/raw/0701fd86300e0374d55b58837aad8920.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "0f75501a755ab21def083a403f2dd397",
+      "title": "AI for Small Businesses Solutions designed for your business. Delivered by AWS Partners",
+      "url": "https://aws.amazon.com/smart-business/solutions/artificial-intelligence-small-medium-business/?nc2=h_dsc_ex_s6",
+      "publishedAt": null,
+      "crawledAt": "2026-11-14T18:15:34.641Z",
+      "contentStatus": "ready",
+      "contentHash": "b62fc6d9e05a56885b8ce7801d5e74db10589ce8647d42a6d9be6e3a3d0dd929",
+      "rawPath": "data/raw/0f75501a755ab21def083a403f2dd397.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "03a9211e7ce429d1162d07c0f38a5380",
       "title": "COVID-19 Resources",
@@ -205,6 +260,28 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "7d4d71d056da02862d0b2ec1b87dadd7",
+      "title": "Introducing ChatGPT Wallet",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "publishedAt": "2026-11-13T15:00:00.000Z",
+      "crawledAt": "2026-11-14T18:15:34.809Z",
+      "contentStatus": "ready",
+      "contentHash": "80bb9ce908f57e4ec0dbef6e830ab0f0aeaf05c75d3318d110fac549d2f0f8bc",
+      "rawPath": "data/raw/7d4d71d056da02862d0b2ec1b87dadd7.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "a99dfdd20d85acbbb850aa77912a8df9",
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "publishedAt": "2026-11-13T08:00:00.000Z",
+      "crawledAt": "2026-11-14T18:15:34.809Z",
+      "contentStatus": "ready",
+      "contentHash": "8f9b60dabe8f29402f9e09bd87ac7f24b371bf54a862ec3e8b205fb2c92f61fb",
+      "rawPath": "data/raw/a99dfdd20d85acbbb850aa77912a8df9.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "ae0c9de0eec6f78f8b49f2cedcf04d58",
       "title": "News & media",
       "url": "https://www.chemify.io/news/",
@@ -312,6 +389,17 @@
       "contentStatus": "ready",
       "contentHash": "216c35a7c93b32601d0d0cf3ee55793d91b858301ba8cae413327c929b83d843",
       "rawPath": "data/raw/ebf3c4ab5b1bdcfa2c4020be71c77994.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "67672a694e389b29af5588bf1be29a97",
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "url": "https://openai.com/business/customer-stories/amplitude",
+      "publishedAt": "2026-11-12T20:00:00.000Z",
+      "crawledAt": "2026-11-14T18:15:34.809Z",
+      "contentStatus": "ready",
+      "contentHash": "07ed561135373f0b05d34c08a2bbba7ec0f12731b08011acc95266a10b1e78af",
+      "rawPath": "data/raw/67672a694e389b29af5588bf1be29a97.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -543,6 +631,17 @@
       "contentStatus": "ready",
       "contentHash": "35434bb3260d61189eb5637aee11c580cc36f2c7efba085a99abbcbea967627c",
       "rawPath": "data/raw/0c5efb4e67dd5d2a9cc23728517bae1b.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "443ad481f1a109358c39c3230af8cf1d",
+      "title": "Tracking progress on the path to IBM Quantum Starling",
+      "url": "https://research.ibm.com/blog/path-to-ibm-quantum-starling",
+      "publishedAt": "2026-11-11T11:58:00.000Z",
+      "crawledAt": "2026-11-14T18:15:35.424Z",
+      "contentStatus": "ready",
+      "contentHash": "1e514a538a83cd78fdf41813765360eea38d360ea25b721ea2c9027a944125ee",
+      "rawPath": "data/raw/443ad481f1a109358c39c3230af8cf1d.json",
       "lastAnalysisStatus": "pending"
     },
     {

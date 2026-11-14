@@ -1,0 +1,18 @@
+{
+  "id": "7d4d71d056da02862d0b2ec1b87dadd7",
+  "title": "Introducing ChatGPT Wallet",
+  "url": "https://openai.com/index/introducing-chatgpt-wallet",
+  "sourceKey": "s01-14",
+  "sourceName": "OpenAI",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": "2026-11-13T15:00:00.000Z",
+  "crawledAt": "2026-11-14T18:15:34.809Z",
+  "content": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-11-14T18:15:34.809Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "80bb9ce908f57e4ec0dbef6e830ab0f0aeaf05c75d3318d110fac549d2f0f8bc"
+}

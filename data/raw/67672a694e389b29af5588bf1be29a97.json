@@ -1,0 +1,18 @@
+{
+  "id": "67672a694e389b29af5588bf1be29a97",
+  "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+  "url": "https://openai.com/business/customer-stories/amplitude",
+  "sourceKey": "s01-14",
+  "sourceName": "OpenAI",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": "2026-11-12T20:00:00.000Z",
+  "crawledAt": "2026-11-14T18:15:34.809Z",
+  "content": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-11-14T18:15:34.809Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "07ed561135373f0b05d34c08a2bbba7ec0f12731b08011acc95266a10b1e78af"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0701fd86300e0374d55b58837aad8920",
+  "title": "What is a spin qubit?",
+  "url": "https://research.ibm.com/blog/spin-qubits-explained",
+  "sourceKey": "s01-11",
+  "sourceName": "IBM Research",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": null,
+  "crawledAt": "2026-11-14T18:15:35.333Z",
+  "content": "Tracking progress on the path to IBM Quantum Starling Research Matthias Steffen and Matthew Marwick 11 Nov 2026 Fault-Tolerant Quantum Computing Quantum Quantum Architectures Quantum Error Correction & Mitigation",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-11-14T18:15:35.333Z",
+  "contentTruncated": true,
+  "contentError": "",
+  "contentHash": "51d8bf5593d66464b52b8961d3e261804f35ddd77eda024eba616de23d4f0326"
+}
