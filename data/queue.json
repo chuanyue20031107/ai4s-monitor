@@ -1,11 +1,99 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-13T19:53:32.381Z",
-  "pendingCount": 868,
-  "readyCount": 868,
+  "updatedAt": "2026-11-14T06:40:37.515Z",
+  "pendingCount": 876,
+  "readyCount": 876,
   "awaitingContentCount": 0,
   "excludedContentCount": 55,
   "items": [
+    {
+      "id": "03a9211e7ce429d1162d07c0f38a5380",
+      "title": "COVID-19 Resources",
+      "url": "https://www.slas.org/news-highlights/covid-19-resources/",
+      "publishedAt": null,
+      "crawledAt": "2026-11-14T06:38:22.264Z",
+      "contentStatus": "ready",
+      "contentHash": "d4572e314abf3fa7e2d3c1c27be3b9881b430c449643378e48d6639e70bbe35c",
+      "rawPath": "data/raw/03a9211e7ce429d1162d07c0f38a5380.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "a8efc2cc0743d14af8abe08c99445a34",
+      "title": "关于举办2026年中国药学会医药知识产权研究专业委员...",
+      "url": "https://www.cpa.org.cn/?do=info&cid=79173",
+      "publishedAt": null,
+      "crawledAt": "2026-11-14T06:38:08.945Z",
+      "contentStatus": "ready",
+      "contentHash": "8cc1f60d5ad711184f27e0f46abf2103267e06df5543641388cd25b26145024d",
+      "rawPath": "data/raw/a8efc2cc0743d14af8abe08c99445a34.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "8c80481939d1d40bce9665a38e6e162c",
+      "title": "• AI做中学 创未来——人大附中举办人工智能赋能创新人才培养研讨会 2026-11-06",
+      "url": "https://www.caai.cn/site/content/11579.html",
+      "publishedAt": null,
+      "crawledAt": "2026-11-14T06:38:03.507Z",
+      "contentStatus": "ready",
+      "contentHash": "181a27f48d7c7011f6c03a22a3618701e225f6c16510d859a60c046301042f0f",
+      "rawPath": "data/raw/8c80481939d1d40bce9665a38e6e162c.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "621f1ac0b951f1073fe402eb7c834739",
+      "title": "• 中国人工智能学会组织工作委员会2026年度委员纳新通知 2026-11-10",
+      "url": "https://www.caai.cn/site/content/11567.html",
+      "publishedAt": null,
+      "crawledAt": "2026-11-14T06:38:03.302Z",
+      "contentStatus": "ready",
+      "contentHash": "f942f3cc806a4feade4b189455eb3c8d0f6b9d2c94f69bb1b1fc20b9179c39f1",
+      "rawPath": "data/raw/621f1ac0b951f1073fe402eb7c834739.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "5020fbfaf0ca8938f022810eb1fb9124",
+      "title": "• 第十届亚洲人工智能技术大会在重庆成功举办 2026-11-10",
+      "url": "https://www.caai.cn/site/content/11568.html",
+      "publishedAt": null,
+      "crawledAt": "2026-11-14T06:38:03.097Z",
+      "contentStatus": "ready",
+      "contentHash": "284dced85c3d2dcdb4c8bc6324393b5869392938c58fe22df59ee3883ed1998f",
+      "rawPath": "data/raw/5020fbfaf0ca8938f022810eb1fb9124.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "5adc611cbcc4f41959298d31e30627a1",
+      "title": "研究提出草地植物多样性遥感监测新方法",
+      "url": "https://www.cas.cn/syky/202611/t20261110_5123863.shtml",
+      "publishedAt": null,
+      "crawledAt": "2026-11-14T06:38:01.607Z",
+      "contentStatus": "ready",
+      "contentHash": "905385740324895fa9d77cc52e84c2660985b1e818f184c7e4c5473ee6a1495c",
+      "rawPath": "data/raw/5adc611cbcc4f41959298d31e30627a1.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "b67945e22bc19eae1fd6fca88453808d",
+      "title": "胃肠间质瘤治疗新靶点研究获进展",
+      "url": "https://www.cas.cn/syky/202611/t20261111_5124015.shtml",
+      "publishedAt": null,
+      "crawledAt": "2026-11-14T06:38:01.266Z",
+      "contentStatus": "ready",
+      "contentHash": "a281b54e4e2eceae66f657504097ecf619a6abb88fae6261aad04fcf9241e19e",
+      "rawPath": "data/raw/b67945e22bc19eae1fd6fca88453808d.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "4ffc09aa1526c6f762d97406df2272f1",
+      "title": "研究实现陶瓷薄膜低温致密化制备",
+      "url": "https://www.cas.cn/syky/202611/t20261110_5123862.shtml",
+      "publishedAt": null,
+      "crawledAt": "2026-11-14T06:38:00.681Z",
+      "contentStatus": "ready",
+      "contentHash": "5c286f6577197c7b786438e1f07c5293f6ac1fbd30586a4409ca410138554e29",
+      "rawPath": "data/raw/4ffc09aa1526c6f762d97406df2272f1.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "353b2d43c9dd1a9abe1ce06a4f94bd2e",
       "title": "2026-11-09 四大城市公交集团与宁德时代签约 了解更多",
