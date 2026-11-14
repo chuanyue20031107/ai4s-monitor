@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "16dbc3338bdcccfff78de1ca74352040",
+      "title": "Microsoft Research Focus – Edition #98",
+      "sourceKey": "s01-02",
+      "sourceName": "Microsoft Research AI for Science",
+      "sourceType": "科技大厂研究机构",
+      "category": "",
+      "publishedAt": "2026-11-12T21:31:57.000Z",
+      "crawledAt": "2026-11-14T22:36:31.030Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98/",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "4e3d0da3e42b17e5f92f757699f3403b",
+      "title": "2026 Celebration of Chemical Engineers",
+      "sourceKey": "s11-17",
+      "sourceName": "AIChE Annual Meeting",
+      "sourceType": "国际学术会议",
+      "category": "",
+      "publishedAt": "2026-11-13T15:03:15.000Z",
+      "crawledAt": "2026-11-14T22:36:21.883Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.aiche.org/redirect/2026-celebration-chemical-engineers",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "7ebfed760871320a3b6889efb21a1630",
+      "title": "Dr. Doraiswami Ramkrishna Receives the 2026 Warren K. Lewis Award for ChE Education",
+      "sourceKey": "s11-17",
+      "sourceName": "AIChE Annual Meeting",
+      "sourceType": "国际学术会议",
+      "category": "",
+      "publishedAt": "2026-11-12T18:03:44.000Z",
+      "crawledAt": "2026-11-14T22:36:21.883Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.aiche.org/dr-doraiswami-ramkrishna-receives-2026-warren-k-lewis-award-che-education",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "1427d3079cf688ebbd17cfcff0eca3e7",
+      "title": "中日友好医院实体瘤1021基因突变检测试剂、肿瘤分子残留病灶（MRD）循环肿瘤DNA检测试剂委托制备及试剂采购项目公开招标公告",
+      "sourceKey": "s10-15",
+      "sourceName": "CACLP中国国际检验医学暨输血仪器试剂博览会",
+      "sourceType": "行业展会/会议",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-11-14T22:36:08.973Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.caclp.com/article/?detail_14444.html",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "6c040c3de275c3778d768f95ee7ae4cb",
       "title": "Eight ERC Synergy Grants for Helmholtz",
       "sourceKey": "s01-24",
@@ -21531,5 +21603,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-11-14T18:18:21.241Z"
+  "updatedAt": "2026-11-14T22:39:17.667Z"
 }
