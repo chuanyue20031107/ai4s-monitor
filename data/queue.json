@@ -1,11 +1,77 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-15T06:49:02.698Z",
-  "pendingCount": 889,
-  "readyCount": 889,
+  "updatedAt": "2026-11-15T19:06:40.543Z",
+  "pendingCount": 895,
+  "readyCount": 895,
   "awaitingContentCount": 0,
   "excludedContentCount": 55,
   "items": [
+    {
+      "id": "a2a2bd7835d5547b73648eabc340a0dd",
+      "title": "我所发展液相生长新策略实现陶瓷薄膜低温致密化制备",
+      "url": "https://www.dicp.ac.cn/xwdt/kyjz/202611/t20261109_8307196.html",
+      "publishedAt": null,
+      "crawledAt": "2026-11-15T19:00:21.035Z",
+      "contentStatus": "ready",
+      "contentHash": "00f52f593453a28a8392bb0381bb755684909e7bdc456c01badd3ffd70f19c5d",
+      "rawPath": "data/raw/a2a2bd7835d5547b73648eabc340a0dd.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "22818853a2dcd9fb5966fc177af15f12",
+      "title": "“AI百景”｜AI走进教务：AI修业导师，为每位本科生精准解答修业问题",
+      "url": "https://news.sjtu.edu.cn/aibaijing/20261113/227594.html",
+      "publishedAt": null,
+      "crawledAt": "2026-11-15T18:57:32.946Z",
+      "contentStatus": "ready",
+      "contentHash": "cd27bd4099cc655aaf66ba86ab8255811a528c049dd12f3f5a36273c5d22bb5b",
+      "rawPath": "data/raw/22818853a2dcd9fb5966fc177af15f12.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "06e3d0892e308312d35d803d963acdfc",
+      "title": "上海交通大学6本期刊跻身“中国英文科技期刊海外传播影响力百强”",
+      "url": "https://news.sjtu.edu.cn/jdyw/20261110/227461.html",
+      "publishedAt": null,
+      "crawledAt": "2026-11-15T18:57:29.578Z",
+      "contentStatus": "ready",
+      "contentHash": "717502920f6d03dd55a95aa139949f0ed1df1f81d469459242e573a82d4a6c01",
+      "rawPath": "data/raw/06e3d0892e308312d35d803d963acdfc.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "9fc2dfd74b369de3cdf9d0547b170a75",
+      "title": "关于中国科学技术大学2026年度马克思主义理...",
+      "url": "https://www.ustc.edu.cn/tzggcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1361&wbnewsid=26065",
+      "publishedAt": null,
+      "crawledAt": "2026-11-15T18:57:28.728Z",
+      "contentStatus": "ready",
+      "contentHash": "bb454d8534224fda97e3b5236bc47398eb15faefd6c9816547514dc0a1e176de",
+      "rawPath": "data/raw/9fc2dfd74b369de3cdf9d0547b170a75.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "e06005dd1b7e3d5eb2377d5416a7a5b2",
+      "title": "中国科学院2026年度稳定支持基础研究领域青...",
+      "url": "https://www.ustc.edu.cn/info/1362/26068.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-11-15T18:57:28.382Z",
+      "contentStatus": "ready",
+      "contentHash": "04c97b622a6ffd82d29f848724f1ca092137037e366dfaa1d544f1e692974a84",
+      "rawPath": "data/raw/e06005dd1b7e3d5eb2377d5416a7a5b2.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "df54e060ec63dbf75f20474837921ffd",
+      "title": "2026全国颠覆性技术创新大赛智能网联新能源...",
+      "url": "https://www.ustc.edu.cn/info/1362/26069.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-11-15T18:57:28.031Z",
+      "contentStatus": "ready",
+      "contentHash": "2ed30a89415c46b691613a456225711a0f73f1d411a8bb03a26ff51d0ba44051",
+      "rawPath": "data/raw/df54e060ec63dbf75f20474837921ffd.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "1427d3079cf688ebbd17cfcff0eca3e7",
       "title": "中日友好医院实体瘤1021基因突变检测试剂、肿瘤分子残留病灶（MRD）循环肿瘤DNA检测试剂委托制备及试剂采购项目公开招标公告",
