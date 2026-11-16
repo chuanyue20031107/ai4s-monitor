@@ -1,11 +1,99 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-16T06:48:47.635Z",
-  "pendingCount": 897,
-  "readyCount": 897,
+  "updatedAt": "2026-11-16T22:17:00.835Z",
+  "pendingCount": 905,
+  "readyCount": 905,
   "awaitingContentCount": 0,
   "excludedContentCount": 55,
   "items": [
+    {
+      "id": "82669b2ac8e737ec638fa80f9a617c52",
+      "title": "Four things protein engineers taught us at our first user meeting A recap of Unfold 2026 A recap of Unfold 2026 Read now",
+      "url": "https://www.cradle.bio/blog/unfold-wrap-up",
+      "publishedAt": null,
+      "crawledAt": "2026-11-16T22:16:25.414Z",
+      "contentStatus": "ready",
+      "contentHash": "838733bed268139ad8b292cdde50d8e022ff9091c3a2ab62eceba9f38a4e01cd",
+      "rawPath": "data/raw/82669b2ac8e737ec638fa80f9a617c52.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "f674f015c84a418d3dc2b2dba05b9eb7",
+      "title": "[Tensor Learning Team Seminar] - Talk by Dr. Rong-Yang Sun (The Chinese University of Hong Kong) “Autonomous Generation of High-Performance Tensor Network Applications with Agentic AI”",
+      "url": "https://aip.riken.jp/events/event_200452/",
+      "publishedAt": null,
+      "crawledAt": "2026-11-16T22:16:24.439Z",
+      "contentStatus": "ready",
+      "contentHash": "fb1453c3e4dd9f4a189e1cd4df4e2cfcdfaf116b355688f98e1a3941310cbc95",
+      "rawPath": "data/raw/f674f015c84a418d3dc2b2dba05b9eb7.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "419985f0c0bfc0eac9759f2b725a5ce1",
+      "title": "Read more",
+      "url": "https://www.sanger.ac.uk/news_item/two-major-international-projects-will-unlock-secrets-of-human-genome-regulation-and-skin-development/",
+      "publishedAt": null,
+      "crawledAt": "2026-11-16T22:16:23.974Z",
+      "contentStatus": "ready",
+      "contentHash": "99c8e63771c8f0987fb8d5fd8007bf12660f4f354a7198e0a719c0d8a01316c6",
+      "rawPath": "data/raw/419985f0c0bfc0eac9759f2b725a5ce1.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "2d7a5d6b20fff3cd431e56c6c4580045",
+      "title": "Broadening access to AI for scientists",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "publishedAt": "2026-11-16T17:00:00.000Z",
+      "crawledAt": "2026-11-16T22:16:20.439Z",
+      "contentStatus": "ready",
+      "contentHash": "e2cec5fe08011f7694a7fa4b3dec9d5a1b05c47c9842dbf3185a2c7fa9d6e7af",
+      "rawPath": "data/raw/2d7a5d6b20fff3cd431e56c6c4580045.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "dd659f011024f04f24b0b91854491343",
+      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "url": "https://openai.com/index/strengthening-online-child-safety",
+      "publishedAt": "2026-11-16T17:00:00.000Z",
+      "crawledAt": "2026-11-16T22:16:20.439Z",
+      "contentStatus": "ready",
+      "contentHash": "db7a12eeab5c164d8191e9b6c05bce034e18ddf4c5b72b9ef013ee717be76787",
+      "rawPath": "data/raw/dd659f011024f04f24b0b91854491343.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "8d075b1c9e1c9619b7e010a6698c3975",
+      "title": "At SC26, IBM accelerates progress in bringing quantum & HPC together",
+      "url": "https://research.ibm.com/blog/sc26",
+      "publishedAt": "2026-11-16T16:00:00.000Z",
+      "crawledAt": "2026-11-16T22:16:57.636Z",
+      "contentStatus": "ready",
+      "contentHash": "46af6d76fc02cd07f69910c6aaaa2260a9a0bc3fce4b3c55d26d8055ef3c1a25",
+      "rawPath": "data/raw/8d075b1c9e1c9619b7e010a6698c3975.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "3dff42cc94eec8fafd2b36e7cf4da0ac",
+      "title": "IBM, AMD advance quantum error correction decoding at scale",
+      "url": "https://research.ibm.com/blog/pelagos",
+      "publishedAt": "2026-11-16T15:59:00.000Z",
+      "crawledAt": "2026-11-16T22:16:58.808Z",
+      "contentStatus": "ready",
+      "contentHash": "18ab874bdc0ecac3a7e27fb386b53da878c8420aa6e5036f4c01311dfd474fac",
+      "rawPath": "data/raw/3dff42cc94eec8fafd2b36e7cf4da0ac.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "d91fd06de7b8771ee8ad78bbe6c6a0f8",
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "url": "https://openai.com/index/science-at-the-frontier",
+      "publishedAt": "2026-11-16T12:00:00.000Z",
+      "crawledAt": "2026-11-16T22:16:20.439Z",
+      "contentStatus": "ready",
+      "contentHash": "e2089cedbcfd4ee7cb30941703f10acef46afb016c173f1518dc96bb8d04e50d",
+      "rawPath": "data/raw/d91fd06de7b8771ee8ad78bbe6c6a0f8.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "7cfedcb87a9330e59f60f159efa74fa5",
       "title": "• CAAI智能教育技术专委会2026年学术年会在重庆成功举办 2026-11-05",

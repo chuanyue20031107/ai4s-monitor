@@ -1,0 +1,18 @@
+{
+  "id": "d91fd06de7b8771ee8ad78bbe6c6a0f8",
+  "title": "Science at the Frontier: How scientists use ChatGPT",
+  "url": "https://openai.com/index/science-at-the-frontier",
+  "sourceKey": "s01-14",
+  "sourceName": "OpenAI",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": "2026-11-16T12:00:00.000Z",
+  "crawledAt": "2026-11-16T22:16:20.439Z",
+  "content": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-11-16T22:16:20.439Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "e2089cedbcfd4ee7cb30941703f10acef46afb016c173f1518dc96bb8d04e50d"
+}

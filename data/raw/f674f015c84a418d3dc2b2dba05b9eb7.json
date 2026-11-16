@@ -1,0 +1,18 @@
+{
+  "id": "f674f015c84a418d3dc2b2dba05b9eb7",
+  "title": "[Tensor Learning Team Seminar] - Talk by Dr. Rong-Yang Sun (The Chinese University of Hong Kong) “Autonomous Generation of High-Performance Tensor Network Applications with Agentic AI”",
+  "url": "https://aip.riken.jp/events/event_200452/",
+  "sourceKey": "s01-22",
+  "sourceName": "RIKEN Center for Advanced Intelligence Project",
+  "sourceType": "国家研究机构",
+  "publishedAt": null,
+  "crawledAt": "2026-11-16T22:16:24.439Z",
+  "content": "Date and time: Thursday, November 19, 2026, 14:00–15:00 JST Format: Hybrid Language: English Online participation: Open to everyone via Zoom. Please register to receive the connection details. In-person attendance: Limited to RIKEN members. Venue: Open Space, RIKEN AIP Nihonbashi Office Speaker: Dr. Rong-Yang Sun, Research Assistant Professor, The Chinese University of Hong Kong Tensor network methods are widely used in quantum physics and machine learning for efficiently representing high-dimensional objects, including quantum many-body wave functions, complex data, and neural network layers. However, developing high-performance tensor network software for large-scale applications remains challenging. Recent advances in large language model (LLM)-driven agentic AI are transforming software development, yet autonomous programming for high-performance computing remains difficult. In this talk, I will present a fully autonomous agentic workflow for generating and optimizing high-performance tensor network applications. I will demonstrate how this approach can achieve performance comparable to state-of-the-art implementations developed by human experts when solving challenging realistic computational problems. I will further introduce the Tensor Computing API (TCAPI), a unified, cross-platform interface for tensor computations, and explain how its clear abstraction boundaries and concise interface contracts play a crucial role in enabling autonomous development of high-performance tensor network applications. Rong-Yang Sun received his PhD in Physics from Tsinghua University in 2021. From 2021 to 2025, he worked at RIKEN as a Postdoctoral Researcher and Research Scientist. He then worked briefly at California State University Northridge before joining the Chinese University of Hong Kong as a Research Assistant Professor in 2026. His research interests include computational quantum many-body physics, quantum computing, tensor network methods, and high-performance computing. Nihonbashi 1-chome Mitsui Building, 15th floor, e-mail: aip-koho [at]riken.jp *Please replace \"[at]\" with \"@\".",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-11-16T22:16:24.439Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "fb1453c3e4dd9f4a189e1cd4df4e2cfcdfaf116b355688f98e1a3941310cbc95"
+}

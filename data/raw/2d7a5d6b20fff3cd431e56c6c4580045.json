@@ -1,0 +1,18 @@
+{
+  "id": "2d7a5d6b20fff3cd431e56c6c4580045",
+  "title": "Broadening access to AI for scientists",
+  "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+  "sourceKey": "s01-14",
+  "sourceName": "OpenAI",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": "2026-11-16T17:00:00.000Z",
+  "crawledAt": "2026-11-16T22:16:20.439Z",
+  "content": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-11-16T22:16:20.439Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "e2cec5fe08011f7694a7fa4b3dec9d5a1b05c47c9842dbf3185a2c7fa9d6e7af"
+}
