@@ -1,11 +1,33 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-15T19:06:40.543Z",
-  "pendingCount": 895,
-  "readyCount": 895,
+  "updatedAt": "2026-11-16T06:48:47.635Z",
+  "pendingCount": 897,
+  "readyCount": 897,
   "awaitingContentCount": 0,
   "excludedContentCount": 55,
   "items": [
+    {
+      "id": "7cfedcb87a9330e59f60f159efa74fa5",
+      "title": "• CAAI智能教育技术专委会2026年学术年会在重庆成功举办 2026-11-05",
+      "url": "https://www.caai.cn/site/content/11540.html",
+      "publishedAt": null,
+      "crawledAt": "2026-11-16T06:43:56.070Z",
+      "contentStatus": "ready",
+      "contentHash": "6ee056dbc9715395cc8938c2229f3915224aa980fe3876f9b393763a19e92802",
+      "rawPath": "data/raw/7cfedcb87a9330e59f60f159efa74fa5.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "485e41465be6f2e8e406807639a5c5f9",
+      "title": "Nov 17: WHO's Cervical Cancer Elimination Day of Action",
+      "url": "https://www.rcsb.org/news/6ae8e1774f552b29cbb4a73c",
+      "publishedAt": null,
+      "crawledAt": "2026-11-16T06:43:38.247Z",
+      "contentStatus": "ready",
+      "contentHash": "e4e69dd8f22ad3a3cf3a71bafd0a29d9007a3b54070d1e9286b490bbaaa6727f",
+      "rawPath": "data/raw/485e41465be6f2e8e406807639a5c5f9.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "a2a2bd7835d5547b73648eabc340a0dd",
       "title": "我所发展液相生长新策略实现陶瓷薄膜低温致密化制备",
