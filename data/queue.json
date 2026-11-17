@@ -1,11 +1,22 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-17T08:07:03.309Z",
-  "pendingCount": 911,
-  "readyCount": 911,
+  "updatedAt": "2026-11-17T21:05:26.365Z",
+  "pendingCount": 913,
+  "readyCount": 913,
   "awaitingContentCount": 0,
   "excludedContentCount": 55,
   "items": [
+    {
+      "id": "2cce17f778912ab32cf502363f24f9dc",
+      "title": "Isomorphic Labs announces Series C investment round - Isomorphic Labs",
+      "url": "https://www.isomorphiclabs.com/articles/isomorphic-labs-announces-series-c-investment-round",
+      "publishedAt": null,
+      "crawledAt": "2026-11-17T21:01:48.658Z",
+      "contentStatus": "ready",
+      "contentHash": "47ec332837a712f928cec112d6507ff3bfb5873e7e12f5baf78c94853b896f5c",
+      "rawPath": "data/raw/2cce17f778912ab32cf502363f24f9dc.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "dcf51614339b95ee66f6c2068ff4824c",
       "title": "关于召开2026年中国药学会民族药专业委员会学术会议...",
@@ -2193,6 +2204,17 @@
       "contentStatus": "ready",
       "contentHash": "94c76d7092d29c6bb3a9c8999707fd87d7ea145f9be6536e6bb4ca077d712ee7",
       "rawPath": "data/raw/fd807ee94e8787e0a597041d888b6f5e.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "13cc9bf40bca23289b7cc7b8b006291a",
+      "title": "The Gut Microbiome: Measuring Microbes and Setting Standards for Better Health",
+      "url": "https://www.nist.gov/health/gut-microbiome-measuring-microbes-and-setting-standards-better-health",
+      "publishedAt": "2026-11-02T20:30:00.000Z",
+      "crawledAt": "2026-11-17T21:01:46.978Z",
+      "contentStatus": "ready",
+      "contentHash": "3235808bf149bf95e810ce93bc93504db2a8cf9995840c3a23addd9f7b62febe",
+      "rawPath": "data/raw/13cc9bf40bca23289b7cc7b8b006291a.json",
       "lastAnalysisStatus": "pending"
     },
     {
