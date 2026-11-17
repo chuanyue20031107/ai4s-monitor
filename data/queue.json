@@ -1,11 +1,77 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-16T22:17:00.835Z",
-  "pendingCount": 905,
-  "readyCount": 905,
+  "updatedAt": "2026-11-17T08:07:03.309Z",
+  "pendingCount": 911,
+  "readyCount": 911,
   "awaitingContentCount": 0,
   "excludedContentCount": 55,
   "items": [
+    {
+      "id": "dcf51614339b95ee66f6c2068ff4824c",
+      "title": "关于召开2026年中国药学会民族药专业委员会学术会议...",
+      "url": "https://www.cpa.org.cn/?do=info&cid=79178",
+      "publishedAt": null,
+      "crawledAt": "2026-11-17T08:04:05.839Z",
+      "contentStatus": "ready",
+      "contentHash": "35be59255fd88726a20cfe94dee59617eba6afd82fb32612eff88a596561c91a",
+      "rawPath": "data/raw/dcf51614339b95ee66f6c2068ff4824c.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "451e6e87ed9913d2d032787e32f22b9d",
+      "title": "乌鲁木齐市中医医院免疫试剂采购项目（1-3包）三次公开招标公告",
+      "url": "https://www.caclp.com/article/?detail_14445.html",
+      "publishedAt": null,
+      "crawledAt": "2026-11-17T08:03:57.722Z",
+      "contentStatus": "ready",
+      "contentHash": "56c29808edf30ef95846b59304e81de5cb026234c09c8bcd833e2a485499e938",
+      "rawPath": "data/raw/451e6e87ed9913d2d032787e32f22b9d.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "3d88d525e197c28ab3ea268d48bd1869",
+      "title": "太原市尖草坪区中心医院全自动生化分析仪流水线等医疗设备公开招标采购的公开招标公告",
+      "url": "https://www.caclp.com/article/?detail_14446.html",
+      "publishedAt": null,
+      "crawledAt": "2026-11-17T08:03:56.831Z",
+      "contentStatus": "ready",
+      "contentHash": "a2313e48680b664c82909b43d2cef2491c8b3bb35ed91663b7c5b53f7117e526",
+      "rawPath": "data/raw/3d88d525e197c28ab3ea268d48bd1869.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "664fc23c605151422e1136ea60e2b8be",
+      "title": "北京大学第一医院医疗设备更新项目流式细胞仪公开招标公告",
+      "url": "https://www.caclp.com/article/?detail_14447.html",
+      "publishedAt": null,
+      "crawledAt": "2026-11-17T08:03:55.931Z",
+      "contentStatus": "ready",
+      "contentHash": "d6c8247ea4f2064bfab860430cac3a5b8b746cac8f9efc2b9ffa34e5c13c26fc",
+      "rawPath": "data/raw/664fc23c605151422e1136ea60e2b8be.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "eddee19218583a5aa8a2a867e991655a",
+      "title": "国轩高科MSCI ESG评级升至A级 2026-11-16 2026-11-16",
+      "url": "https://www.gotion.com.cn/newsInfo/1007",
+      "publishedAt": null,
+      "crawledAt": "2026-11-17T08:03:53.646Z",
+      "contentStatus": "ready",
+      "contentHash": "ba73f0bfbe62b08a0d5ebf0dbb503d93f003a5f7286a75cdf9e003ff5a8d1d1a",
+      "rawPath": "data/raw/eddee19218583a5aa8a2a867e991655a.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "4b63d2542bd8dea1e2b57d146988d961",
+      "title": "analytica China 2026｜从高端仪器到智能实验室 2026-11-17",
+      "url": "https://www.fpi-inc.com/news_cont_48408.html",
+      "publishedAt": null,
+      "crawledAt": "2026-11-17T08:03:48.473Z",
+      "contentStatus": "ready",
+      "contentHash": "74ce88cdfef512e50864549aab06151b800d5534286658173cdad7f361e51d44",
+      "rawPath": "data/raw/4b63d2542bd8dea1e2b57d146988d961.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "82669b2ac8e737ec638fa80f9a617c52",
       "title": "Four things protein engineers taught us at our first user meeting A recap of Unfold 2026 A recap of Unfold 2026 Read now",
