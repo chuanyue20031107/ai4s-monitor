@@ -1,11 +1,66 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-17T21:05:26.365Z",
-  "pendingCount": 913,
-  "readyCount": 913,
+  "updatedAt": "2026-11-18T07:45:16.442Z",
+  "pendingCount": 918,
+  "readyCount": 918,
   "awaitingContentCount": 0,
   "excludedContentCount": 55,
   "items": [
+    {
+      "id": "ab9a159f87c15fc562df5237aa73254a",
+      "title": "2026-11-12 亿维特航空与宁德时代达成战略合作 了解更多",
+      "url": "https://www.catl.com/news/10368.html",
+      "publishedAt": null,
+      "crawledAt": "2026-11-18T07:42:52.293Z",
+      "contentStatus": "ready",
+      "contentHash": "da024635cc2db31cdef83ede25e5e9d0c88eb303c4edfce6322606a8ca270609",
+      "rawPath": "data/raw/ab9a159f87c15fc562df5237aa73254a.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "dce6b3239187e0c1684cdb4e64921ced",
+      "title": "2026-11-15 宁德时代主办ABAC午餐会，亚太工商界共商零碳未来 了解更多",
+      "url": "https://www.catl.com/news/10369.html",
+      "publishedAt": null,
+      "crawledAt": "2026-11-18T07:42:52.283Z",
+      "contentStatus": "ready",
+      "contentHash": "701fd13a8b408ae355d8a48186a8c5b4c4a77df227f0e005ee16d73f55a280a7",
+      "rawPath": "data/raw/dce6b3239187e0c1684cdb4e64921ced.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "ecf7b207a236cfebafc4a1055d377139",
+      "title": "2026-11-16 罗尔斯·罗伊斯(RRPS)与宁家服务达成战略合作 了解更多",
+      "url": "https://www.catl.com/news/10370.html",
+      "publishedAt": null,
+      "crawledAt": "2026-11-18T07:42:52.271Z",
+      "contentStatus": "ready",
+      "contentHash": "3b974c11bc9972c47a19513e6c07e4b9d9fcec9e680e3c523ff07b31cc2e230c",
+      "rawPath": "data/raw/ecf7b207a236cfebafc4a1055d377139.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "773ae311dcda728d430ff9f8d01b367c",
+      "title": "我所开发热—机械耦合分子筛合成新工艺实现TS-1超低模板剂高效制备",
+      "url": "https://www.dicp.ac.cn/xwdt/kyjz/202611/t20261116_8309509.html",
+      "publishedAt": null,
+      "crawledAt": "2026-11-18T07:42:33.022Z",
+      "contentStatus": "ready",
+      "contentHash": "029127bb74fd73712f8cc89271667b9be30cfd807367d3098f1948940e1d461c",
+      "rawPath": "data/raw/773ae311dcda728d430ff9f8d01b367c.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "ab05b32f50b58cd9db647e8847bb912f",
+      "title": "我所提出反应性液相矿化策略实现陶瓷薄膜600 ℃低温致密生长",
+      "url": "https://www.dicp.ac.cn/xwdt/kyjz/202611/t20261118_8310357.html",
+      "publishedAt": null,
+      "crawledAt": "2026-11-18T07:42:32.610Z",
+      "contentStatus": "ready",
+      "contentHash": "9f6ef217c86843f4039f65729c39b2bd8cf1fefb14b0aa57eb1779da4016e4fb",
+      "rawPath": "data/raw/ab05b32f50b58cd9db647e8847bb912f.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "2cce17f778912ab32cf502363f24f9dc",
       "title": "Isomorphic Labs announces Series C investment round - Isomorphic Labs",
