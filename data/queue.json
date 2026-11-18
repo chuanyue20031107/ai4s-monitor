@@ -1,11 +1,88 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-18T07:45:16.442Z",
-  "pendingCount": 918,
-  "readyCount": 918,
+  "updatedAt": "2026-11-18T20:43:56.541Z",
+  "pendingCount": 925,
+  "readyCount": 925,
   "awaitingContentCount": 0,
   "excludedContentCount": 55,
   "items": [
+    {
+      "id": "cb2fa276d65ac651686c35fc73bd1c1b",
+      "title": "Harmonization of NMR Data Deposition: Adoption of unified NMR data and PDBx/mmCIF",
+      "url": "https://www.rcsb.org/news/6afb00a4a541c8352565779e",
+      "publishedAt": null,
+      "crawledAt": "2026-11-18T20:43:55.302Z",
+      "contentStatus": "ready",
+      "contentHash": "3431370213eec0efc70febe0081855b83121436784008e28ec75d6e997a691b2",
+      "rawPath": "data/raw/cb2fa276d65ac651686c35fc73bd1c1b.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "992ce2c3a339e25f5e26fbce137e2f7a",
+      "title": "Take the Depositor Training Survey and Win",
+      "url": "https://www.rcsb.org/news/training/6afb9718183c171a6bdc5487",
+      "publishedAt": null,
+      "crawledAt": "2026-11-18T20:43:54.850Z",
+      "contentStatus": "ready",
+      "contentHash": "40a1e3685c706b458074d76a229157da73bcbbb802a01abffd6407d1218f92f8",
+      "rawPath": "data/raw/992ce2c3a339e25f5e26fbce137e2f7a.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "b1dca1c59ab3f9ed6d43261501195ea1",
+      "title": "Nov 18-24: World Antimicrobial Awareness Week",
+      "url": "https://www.rcsb.org/news/feature/6adf40404ec37840b7ddf635",
+      "publishedAt": null,
+      "crawledAt": "2026-11-18T20:43:54.335Z",
+      "contentStatus": "ready",
+      "contentHash": "96c10ebe06920f384f72a9e862b0d876bddccca92d0508dca099e81fcdaf6371",
+      "rawPath": "data/raw/b1dca1c59ab3f9ed6d43261501195ea1.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "8979f5f5e91c2265b762dc5de7f5e1b5",
+      "title": "2027 London Conference",
+      "url": "https://pistoiaalliance.org/eventdetails/london-2027-conference/",
+      "publishedAt": null,
+      "crawledAt": "2026-11-18T20:41:04.374Z",
+      "contentStatus": "ready",
+      "contentHash": "b823d1d07a1f36eff0b0aec659fd15ea3990d5ccc80858380f221fdd2d41c576",
+      "rawPath": "data/raw/8979f5f5e91c2265b762dc5de7f5e1b5.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "f60c7afedf216ecc19415a0631c23d2a",
+      "title": "关于举办2026年中国药学会制药工程专业委员会学术年...",
+      "url": "https://www.cpa.org.cn/?do=info&cid=79184",
+      "publishedAt": null,
+      "crawledAt": "2026-11-18T20:40:56.035Z",
+      "contentStatus": "ready",
+      "contentHash": "785c650048c811610d8eba02d644881f8988703a6e4d3591c2d58d9bee87da57",
+      "rawPath": "data/raw/f60c7afedf216ecc19415a0631c23d2a.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "fe7114346c20abbffcadacbca89841ed",
+      "title": "• 纪念孙中山先生诞辰160周年大会在京举行 习近平发表重要讲话 2026-11-12",
+      "url": "https://www.caai.cn/site/content/11581.html",
+      "publishedAt": null,
+      "crawledAt": "2026-11-18T20:40:50.572Z",
+      "contentStatus": "ready",
+      "contentHash": "5c76270c7a92cfd611e57436cd7d0c8bd212a3702c6d11d4bdc0825897ff4383",
+      "rawPath": "data/raw/fe7114346c20abbffcadacbca89841ed.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "a67f9dc276d0a0be98333879409ad495",
+      "title": "习近平对国有企业党的建设工作作出重要指示 习近平对国有企业党的建设工作作出重要指示强调 持之以恒推进全面从严治党 为做强做优做大国有企业和国有资本提供坚强保障 蔡奇出席国有企业党的建设工作座谈会并讲话 新华社北京11月13日电 中共中央总书记、国家主席、中央军委主席习近平近日对国有企业党的建设工作作出重要指示指出",
+      "url": "https://www.caai.cn/site/content/11580.html",
+      "publishedAt": null,
+      "crawledAt": "2026-11-18T20:40:50.337Z",
+      "contentStatus": "ready",
+      "contentHash": "8d2c9db102a9c50098674946a3ae690298312c3cac9805ca76c2563f9ffcb8fe",
+      "rawPath": "data/raw/a67f9dc276d0a0be98333879409ad495.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "ab9a159f87c15fc562df5237aa73254a",
       "title": "2026-11-12 亿维特航空与宁德时代达成战略合作 了解更多",
