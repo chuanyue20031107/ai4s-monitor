@@ -1,11 +1,33 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-19T07:36:11.812Z",
-  "pendingCount": 934,
-  "readyCount": 934,
+  "updatedAt": "2026-11-19T20:51:27.094Z",
+  "pendingCount": 938,
+  "readyCount": 938,
   "awaitingContentCount": 0,
   "excludedContentCount": 55,
   "items": [
+    {
+      "id": "386353a20c83bf46027cdf8d5323baaf",
+      "title": "中国药学会关于征集2027全国优质药学科普作品的通知",
+      "url": "https://www.cpa.org.cn/?do=info&cid=79187",
+      "publishedAt": null,
+      "crawledAt": "2026-11-19T20:49:04.493Z",
+      "contentStatus": "ready",
+      "contentHash": "885be2aa39dd556ab4ad540090dc296b93bae41d0e85f26741a4d8906a009f54",
+      "rawPath": "data/raw/386353a20c83bf46027cdf8d5323baaf.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "98f180ce3b2ff3f29dee9cba5db85337",
+      "title": "VOCs监测，功夫在“看不见”处 2026-11-19",
+      "url": "https://www.fpi-inc.com/news_cont_48414.html",
+      "publishedAt": null,
+      "crawledAt": "2026-11-19T20:45:52.705Z",
+      "contentStatus": "ready",
+      "contentHash": "742fd181886eb3b5fdca7c735ca7b6e1826b4cc56af3c68a0f3bc7418b83ecc1",
+      "rawPath": "data/raw/98f180ce3b2ff3f29dee9cba5db85337.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "7f0c4c64b79499f842113add285f5ccd",
       "title": "Group Director Tatsuya Harada delivered a lecture at the French Japanese Conference on Physical and Multimodal AI for Robotics (Nov. 17, 2026)",
@@ -150,6 +172,17 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "3a4b47825b06654a66050e0d2e1ed344",
+      "title": "Simulation, AI, and the Engineer: A Conversation with Datacor's Steve Brown",
+      "url": "https://www.aiche.org/simulation-ai-and-engineer-conversation-datacors-steve-brown",
+      "publishedAt": "2026-11-18T19:03:56.000Z",
+      "crawledAt": "2026-11-19T20:49:15.358Z",
+      "contentStatus": "ready",
+      "contentHash": "a627ee5e3e5e8a6f6bd3f590cc10e60b3d65622b430ad6880c012e5bd6686f93",
+      "rawPath": "data/raw/3a4b47825b06654a66050e0d2e1ed344.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "184d931227f2504de1a33bebb5615518",
       "title": "The Silent Consensus",
       "url": "https://openai.com/index/the-silent-consensus",
@@ -246,6 +279,17 @@
       "contentStatus": "ready",
       "contentHash": "47ec332837a712f928cec112d6507ff3bfb5873e7e12f5baf78c94853b896f5c",
       "rawPath": "data/raw/2cce17f778912ab32cf502363f24f9dc.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "dfb36bd9e49c19265781a6317c7ab59b",
+      "title": "Dr. Liang-Shih Fan Is AIChE’s 2026 Founders Award Recipient",
+      "url": "https://www.aiche.org/dr-liang-shih-fan-aiches-2026-founders-award-recipient",
+      "publishedAt": "2026-11-17T20:05:15.000Z",
+      "crawledAt": "2026-11-19T20:49:15.358Z",
+      "contentStatus": "ready",
+      "contentHash": "4337e7e273f2141e90915e0bfd5bfdfc16b611a93510c28b4737ef6afd490347",
+      "rawPath": "data/raw/dfb36bd9e49c19265781a6317c7ab59b.json",
       "lastAnalysisStatus": "pending"
     },
     {
