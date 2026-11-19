@@ -1,0 +1,18 @@
+{
+  "id": "184d931227f2504de1a33bebb5615518",
+  "title": "The Silent Consensus",
+  "url": "https://openai.com/index/the-silent-consensus",
+  "sourceKey": "s01-14",
+  "sourceName": "OpenAI",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": "2026-11-18T10:00:00.000Z",
+  "crawledAt": "2026-11-19T07:35:55.969Z",
+  "content": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-11-19T07:35:55.969Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "8d12092b68bfc1ab466608b0125e1d38887ab520be32ed6edccd79442e6be4b5"
+}

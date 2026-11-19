@@ -1,0 +1,18 @@
+{
+  "id": "53d809d7420a3923e8bad7c3bd224d7d",
+  "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+  "url": "https://openai.com/business/customer-stories/sumitomo-life",
+  "sourceKey": "s01-14",
+  "sourceName": "OpenAI",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": "2026-11-18T08:00:00.000Z",
+  "crawledAt": "2026-11-19T07:35:55.969Z",
+  "content": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-11-19T07:35:55.969Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "a463b53d11803f081d3a0e26f8e308cafac8fe27d6160726c8c4f778ffbf7ab0"
+}

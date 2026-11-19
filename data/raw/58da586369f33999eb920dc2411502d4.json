@@ -1,0 +1,18 @@
+{
+  "id": "58da586369f33999eb920dc2411502d4",
+  "title": "Research acceleration: The jagged frontier",
+  "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+  "sourceKey": "s01-14",
+  "sourceName": "OpenAI",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": "2026-11-18T08:00:00.000Z",
+  "crawledAt": "2026-11-19T07:35:55.969Z",
+  "content": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-11-19T07:35:55.969Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "40fe4df18fa8f4b3f81b1b900ac4a2d82a97ca6ef8e3825eb319f1f279c4f421"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "d4e14b26344e11d852a742a616120cda",
+  "title": "AI Models Research Data Platform (opens in a new tab) Team Investigators News Events Careers Contact Funding Facebook",
+  "url": "https://biohub.org/ai-models/",
+  "sourceKey": "s01-21",
+  "sourceName": "Chan Zuckerberg Biohub Network",
+  "sourceType": "非营利研究网络",
+  "publishedAt": null,
+  "crawledAt": "2026-11-19T07:35:57.821Z",
+  "content": "AI models We develop frontier AI models, trained on large-scale biological datasets to understand and model life from the level of molecules to tissue and cells. A world model of protein biology We’re making it possible for the scientific community to explore, understand, discover, and design proteins, through an open source engine for biological discovery and engineering. Learn more ESMC A protein language model that has learned the rules of protein biology from training on billions of protein sequences. Explore ESMC ESMFold2 A state-of-the-art model for protein structure prediction and design that defines a new frontier for speed and accuracy. Explore ESMFold2 ESM Atlas The largest atlas of protein structure and function with 6.8 billion proteins covering the breadth of life’s biodiversity. Explore ESM Atlas",
+  "contentStatus": "ready",
+  "extractionMethod": "article-or-main-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-11-19T07:35:57.821Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "e4e28b80ffc7b235535b6bd434af5b484322d67bd46d1b873f2a38c393453ab4"
+}
