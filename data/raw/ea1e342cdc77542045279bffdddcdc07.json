@@ -1,0 +1,18 @@
+{
+  "id": "ea1e342cdc77542045279bffdddcdc07",
+  "title": "Isomorphic Labs enters into a strategic research collaboration with MSD - Isomorphic Labs",
+  "url": "https://www.isomorphiclabs.com/articles/isomorphic-labs-enters-into-a-research-collaboration-with-msd",
+  "sourceKey": "s02-01",
+  "sourceName": "Isomorphic Labs",
+  "sourceType": "AI药物公司",
+  "publishedAt": null,
+  "crawledAt": "2026-11-20T07:27:14.746Z",
+  "content": "Isomorphic Labs announces a strategic research collaboration with global pharmaceutical leader MSD. This collaboration brings together Isomorphic Labs’ AI approach to drug discovery with MSD’s rich proprietary data resources and deep discovery experience. Isomorphic Labs has built a world-leading, modality-agnostic drug design engine (IsoDDE) comprised of foundational AI models. The computational drug-design system provides the predictive fidelity required to navigate novel biological systems with unprecedented accuracy. The collaboration highlights the transformative power of bringing together advanced AI, unique data sets and established biopharmaceutical leadership to accelerate the advancement of therapeutic candidates for the benefit of patient populations with unmet needs.",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-11-20T07:27:14.746Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "b0cdb7630bbe48bcc7cbe8fd170b51e7c1de90e5f391b1998ea88a1bfd8fdde4"
+}

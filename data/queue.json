@@ -1,11 +1,33 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-19T20:51:27.094Z",
-  "pendingCount": 938,
-  "readyCount": 938,
+  "updatedAt": "2026-11-20T07:29:43.038Z",
+  "pendingCount": 943,
+  "readyCount": 943,
   "awaitingContentCount": 0,
   "excludedContentCount": 55,
   "items": [
+    {
+      "id": "205190884fae3d74cec6ed56d62c1e4c",
+      "title": "Recursion Announces Alignment with FDA on Registrational Phase 3 Trial Design for REC-4881 in Familial Adenomatous Polyposis",
+      "url": "https://ir.recursion.com/news-releases/news-release-details/recursion-announces-alignment-fda-registrational-phase-3-trial",
+      "publishedAt": null,
+      "crawledAt": "2026-11-20T07:27:15.446Z",
+      "contentStatus": "ready",
+      "contentHash": "363cdfd81ee91e1958e300d2e817d042ba9bba875b31f50e0f440843507e0cde",
+      "rawPath": "data/raw/205190884fae3d74cec6ed56d62c1e4c.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "ea1e342cdc77542045279bffdddcdc07",
+      "title": "Isomorphic Labs enters into a strategic research collaboration with MSD - Isomorphic Labs",
+      "url": "https://www.isomorphiclabs.com/articles/isomorphic-labs-enters-into-a-research-collaboration-with-msd",
+      "publishedAt": null,
+      "crawledAt": "2026-11-20T07:27:14.746Z",
+      "contentStatus": "ready",
+      "contentHash": "b0cdb7630bbe48bcc7cbe8fd170b51e7c1de90e5f391b1998ea88a1bfd8fdde4",
+      "rawPath": "data/raw/ea1e342cdc77542045279bffdddcdc07.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "386353a20c83bf46027cdf8d5323baaf",
       "title": "中国药学会关于征集2027全国优质药学科普作品的通知",
@@ -26,6 +48,28 @@
       "contentStatus": "ready",
       "contentHash": "742fd181886eb3b5fdca7c735ca7b6e1826b4cc56af3c68a0f3bc7418b83ecc1",
       "rawPath": "data/raw/98f180ce3b2ff3f29dee9cba5db85337.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "dcca8b630059554773b8248da4e689c9",
+      "title": "News 11.19.2026",
+      "url": "https://www.broadinstitute.org/news/targeting-cellular-traffic-jam-treats-multiple-diseases-mice",
+      "publishedAt": "2026-11-19T16:00:53.000Z",
+      "crawledAt": "2026-11-20T07:27:12.583Z",
+      "contentStatus": "ready",
+      "contentHash": "b9138d489e6c58c674bc6efa2929443ba65b74e3aabaedda5900255176c5c9bf",
+      "rawPath": "data/raw/dcca8b630059554773b8248da4e689c9.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "5f7cd756b3a6f227c355c56439dae47b",
+      "title": "NIST Project Aims to Accelerate Mobile Driver’s License Adoption",
+      "url": "https://www.nist.gov/news-events/news/2026/11/nist-project-aims-accelerate-mobile-drivers-license-adoption",
+      "publishedAt": "2026-11-19T12:00:00.000Z",
+      "crawledAt": "2026-11-20T07:27:13.414Z",
+      "contentStatus": "ready",
+      "contentHash": "06e965ccab188bd872567fa99fdde3ceb39f3452ec16ffcdb705f9603b517b11",
+      "rawPath": "data/raw/5f7cd756b3a6f227c355c56439dae47b.json",
       "lastAnalysisStatus": "pending"
     },
     {
@@ -180,6 +224,17 @@
       "contentStatus": "ready",
       "contentHash": "a627ee5e3e5e8a6f6bd3f590cc10e60b3d65622b430ad6880c012e5bd6686f93",
       "rawPath": "data/raw/3a4b47825b06654a66050e0d2e1ed344.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "2b99e2f0876a90df84163e001d060494",
+      "title": "Quantum Physics Can Verify a Person’s Location, NIST Researchers Show",
+      "url": "https://www.nist.gov/news-events/news/2026/11/quantum-physics-can-verify-persons-location-nist-researchers-show",
+      "publishedAt": "2026-11-18T12:00:00.000Z",
+      "crawledAt": "2026-11-20T07:27:13.389Z",
+      "contentStatus": "ready",
+      "contentHash": "68af8ae867ab9c87bf164cba6a99feec3bb1d0ee6dfdb0b7ee6fb68695cbb3c0",
+      "rawPath": "data/raw/2b99e2f0876a90df84163e001d060494.json",
       "lastAnalysisStatus": "pending"
     },
     {
