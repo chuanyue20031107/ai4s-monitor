@@ -1,11 +1,77 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-20T20:37:30.090Z",
-  "pendingCount": 951,
-  "readyCount": 951,
+  "updatedAt": "2026-11-21T07:29:27.435Z",
+  "pendingCount": 957,
+  "readyCount": 957,
   "awaitingContentCount": 0,
   "excludedContentCount": 53,
   "items": [
+    {
+      "id": "0db0f175e221914cfdcbbf3ffe401e4e",
+      "title": "• 全球音乐科技产业代表齐聚2026首届全国音乐科技大会 2026-11-18",
+      "url": "https://www.caai.cn/site/content/11590.html",
+      "publishedAt": null,
+      "crawledAt": "2026-11-21T07:26:25.699Z",
+      "contentStatus": "ready",
+      "contentHash": "1b779fbc2d9cab4035db5ccb70dce9a6b2132ff6bcb6f366fcb18807659795ef",
+      "rawPath": "data/raw/0db0f175e221914cfdcbbf3ffe401e4e.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "cd9340caf56ca7ea2ba4ea2fd7385983",
+      "title": "• 2026第十二届中国智能技术与大数据会议在南昌成功举办 2026-11-18",
+      "url": "https://www.caai.cn/site/content/11591.html",
+      "publishedAt": null,
+      "crawledAt": "2026-11-21T07:26:25.426Z",
+      "contentStatus": "ready",
+      "contentHash": "d153cf1b8648c399df94d59fde54a4042f3d636a2312de323d11f069c1680a3f",
+      "rawPath": "data/raw/cd9340caf56ca7ea2ba4ea2fd7385983.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "0d33f1f151d2dd8af064ea9ed98a531b",
+      "title": "2026首届全国音乐科技大会在南京举行 2026年11月6日至8日，由中国人工智能学会、南京艺术学院联合主办的2026首届全国音乐科技大会在南京艺术学院举行。来自中央音乐学院、上海音乐学院等10所音乐学院、南京艺术学院等6所综合性艺术院校的校领导，多所高校音乐科技相关学科带头人、师生以及相关科研院所、企事业单位的专家、行业代表等近500位嘉宾齐聚南京。大会围绕音乐科技学科与专业建设、人才培养与产业衔接、人工智能音乐创作及音频技术应用等议",
+      "url": "https://www.caai.cn/site/content/11605.html",
+      "publishedAt": null,
+      "crawledAt": "2026-11-21T07:26:25.152Z",
+      "contentStatus": "ready",
+      "contentHash": "14d2c656f9577b86cb834737d8c15cc49a8c9c25e9d5f1203e960f12a99e7f41",
+      "rawPath": "data/raw/0d33f1f151d2dd8af064ea9ed98a531b.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "5d7b0e23fb458aa52c6f60eb21efb707",
+      "title": "研究揭示大质量恒星形成区致密核的演化序列",
+      "url": "https://www.cas.cn/syky/202611/t20261116_5124222.shtml",
+      "publishedAt": null,
+      "crawledAt": "2026-11-21T07:23:59.223Z",
+      "contentStatus": "ready",
+      "contentHash": "dec513df5a93a3c8d09e2d259b04371929a1181b5242e5004d11aacfb4e7d5dd",
+      "rawPath": "data/raw/5d7b0e23fb458aa52c6f60eb21efb707.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "740d06a5f9f8c0ef723fe51dd9df7c4d",
+      "title": "研究实现神经毒剂超灵敏无线检测",
+      "url": "https://www.cas.cn/syky/202611/t20261119_5124599.shtml",
+      "publishedAt": null,
+      "crawledAt": "2026-11-21T07:23:58.889Z",
+      "contentStatus": "ready",
+      "contentHash": "d4237eb120a348441004c9060d4306e5d910cd2bacdb9ceeab926701d12820b4",
+      "rawPath": "data/raw/740d06a5f9f8c0ef723fe51dd9df7c4d.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "2b66238409dc89eff001cf20446fce5b",
+      "title": "低成本钠离子电池铁锰复合磷酸盐正极材料研究取得进展",
+      "url": "https://www.cas.cn/syky/202611/t20261111_5124017.shtml",
+      "publishedAt": null,
+      "crawledAt": "2026-11-21T07:23:58.097Z",
+      "contentStatus": "ready",
+      "contentHash": "929dacee76a658843c03c11d8b34450cd93ad3a16c9c34a14544f03dfc34c734",
+      "rawPath": "data/raw/2b66238409dc89eff001cf20446fce5b.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "7cddc6c5693dcb37db4b1bf2df0bae15",
       "title": "2026-11-19 南方电网与宁德时代达成战略合作 了解更多",
