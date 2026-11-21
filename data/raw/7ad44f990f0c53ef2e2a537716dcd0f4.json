@@ -1,0 +1,18 @@
+{
+  "id": "7ad44f990f0c53ef2e2a537716dcd0f4",
+  "title": "Combatting adversarial distillation",
+  "url": "https://openai.com/index/combatting-adversarial-distillation",
+  "sourceKey": "s01-14",
+  "sourceName": "OpenAI",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": "2026-11-20T10:00:00.000Z",
+  "crawledAt": "2026-11-21T19:25:36.063Z",
+  "content": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-11-21T19:25:36.063Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "d0ad00f6ddc85b8daa7351c84e75b15be5c6765fcdea3cb0882a864fb51fb52c"
+}

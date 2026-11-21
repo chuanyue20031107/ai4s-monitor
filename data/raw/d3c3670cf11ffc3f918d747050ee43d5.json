@@ -1,0 +1,18 @@
+{
+  "id": "d3c3670cf11ffc3f918d747050ee43d5",
+  "title": "[108th TrustML Young Scientist Seminar] Talk by Yu-Jie Zhang (University of Washington) \"The Role of Curvature in Non-stationary Online Learning\"",
+  "url": "https://aip.riken.jp/events/event_200499/",
+  "sourceKey": "s01-22",
+  "sourceName": "RIKEN Center for Advanced Intelligence Project",
+  "sourceType": "国家研究机构",
+  "publishedAt": null,
+  "crawledAt": "2026-11-21T19:25:40.878Z",
+  "content": "Date and Time: November 27th, 2026, 11:00 — 12:00 (JST) Venue: Meeting Room C, RIKEN Nihonbashi Office and Online *In-person attendance is limited to AIP researchers. Title: The Role of Curvature in Non-stationary Online Learning Speaker: Yu-Jie Zhang (University of Washington) Abstract: Online learning is about making decisions sequentially and improving them based on incoming feedback. In many such problems, the curvature of the loss function is known to enable substantially faster learning when the goal is to compete with the best fixed decision. But what happens when the best decision changes over time? In this talk, I will explore when and how curvature can accelerate learning in such non-stationary settings. We show that, with bounded gradients, curvature can accelerate learning on arbitrary bounded convex domains, without the out-of-domain predictions required by earlier studies. However, when gradients can be unbounded, as in classical online portfolio selection, the picture changes. We find that faster rates depend critically on the geometric structure of the changing comparators, particularly their position relative to the boundary. We establish these findings through rigorous dynamic regret analysis, introducing new mixability-based arguments to exploit loss curvature. Short Bio: Yu-Jie Zhang is an incoming Assistant Professor at the National University of Singapore. Previously, he was an IFDS Postdoctoral Scholar at the University of Washington, working with Kevin Jamieson, and a Postdoctoral Researcher at RIKEN AIP. He received his Ph.D. from the University of Tokyo under the supervision of Masashi Sugiyama. His research focuses on the mathematical foundations and algorithmic design of interactive learning, particularly online optimization, bandits, and reinforcement learning. His work, published in venues such as NeurIPS, ICML, and JMLR, explores how learning algorithms can adapt to uncertain environments with provable performance guarantees. Nihonbashi 1-chome Mitsui Building, 15th floor, e-mail: aip-koho [at]riken.jp *Please replace \"[at]\" with \"@\".",
+  "contentStatus": "ready",
+  "extractionMethod": "paragraph-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-11-21T19:25:40.878Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "880ccd85a72456296c8804b7f75fc090104cb122768e1ea5a1ff42986fb31902"
+}

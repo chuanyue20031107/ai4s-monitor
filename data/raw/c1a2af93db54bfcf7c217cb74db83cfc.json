@@ -1,0 +1,18 @@
+{
+  "id": "c1a2af93db54bfcf7c217cb74db83cfc",
+  "title": "Can AI help scientists identify promising drug candidates?",
+  "url": "https://openai.com/index/introducing-medchembench",
+  "sourceKey": "s01-14",
+  "sourceName": "OpenAI",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": "2026-11-20T00:00:00.000Z",
+  "crawledAt": "2026-11-21T19:25:36.063Z",
+  "content": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-11-21T19:25:36.063Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "f5d2e2b9672fadeee438d67ea61f06047b77cacddf53fd14f1ed2b93915b35c1"
+}

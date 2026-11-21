@@ -1,11 +1,44 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-21T07:29:27.435Z",
-  "pendingCount": 957,
-  "readyCount": 957,
+  "updatedAt": "2026-11-21T19:25:50.237Z",
+  "pendingCount": 964,
+  "readyCount": 964,
   "awaitingContentCount": 0,
   "excludedContentCount": 53,
   "items": [
+    {
+      "id": "d3c3670cf11ffc3f918d747050ee43d5",
+      "title": "[108th TrustML Young Scientist Seminar] Talk by Yu-Jie Zhang (University of Washington) \"The Role of Curvature in Non-stationary Online Learning\"",
+      "url": "https://aip.riken.jp/events/event_200499/",
+      "publishedAt": null,
+      "crawledAt": "2026-11-21T19:25:40.878Z",
+      "contentStatus": "ready",
+      "contentHash": "880ccd85a72456296c8804b7f75fc090104cb122768e1ea5a1ff42986fb31902",
+      "rawPath": "data/raw/d3c3670cf11ffc3f918d747050ee43d5.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "3d370a3a1a423a4a2e626b184d1dc6d4",
+      "title": "Read more",
+      "url": "https://www.sanger.ac.uk/news_item/sanger-scientist-awarded-the-2027-mary-lyon-medal-for-pioneering-research-into-human-genetic-variation-and-genome-evolution/",
+      "publishedAt": null,
+      "crawledAt": "2026-11-21T19:25:38.842Z",
+      "contentStatus": "ready",
+      "contentHash": "f515ceda82cf7225c7a3490170df8e1d8f5ecb98ca6f9bda78378d882e191b47",
+      "rawPath": "data/raw/3d370a3a1a423a4a2e626b184d1dc6d4.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "f3757a5a40fdb0962beb70871cf47004",
+      "title": "Introducing Muse Spark 1.1 JUL 9, 2026",
+      "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
+      "publishedAt": null,
+      "crawledAt": "2026-11-21T19:25:38.405Z",
+      "contentStatus": "ready",
+      "contentHash": "9820eb83cdc01d10f1517c45eed09bb3ae921bbf97fc2e54aa22910b655ecce2",
+      "rawPath": "data/raw/f3757a5a40fdb0962beb70871cf47004.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "0db0f175e221914cfdcbbf3ffe401e4e",
       "title": "• 全球音乐科技产业代表齐聚2026首届全国音乐科技大会 2026-11-18",
@@ -73,6 +106,17 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "81ad953c68079226ea0c6c56fbdda3f0",
+      "title": "Four Members of MIT Jameel Clinic Named to Clarivate’s 2026 Highly Cited Researchers List",
+      "url": "https://jclinic.mit.edu/jameel-clinic-clarivates-2026-highly-cited-researchers-list/",
+      "publishedAt": "2026-11-20T20:39:32.000Z",
+      "crawledAt": "2026-11-21T19:25:36.178Z",
+      "contentStatus": "ready",
+      "contentHash": "861be435bd9a4675256ddef2d2eb323b5c227005251735677f2fd61afa33d2cc",
+      "rawPath": "data/raw/81ad953c68079226ea0c6c56fbdda3f0.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "7cddc6c5693dcb37db4b1bf2df0bae15",
       "title": "2026-11-19 南方电网与宁德时代达成战略合作 了解更多",
       "url": "https://www.catl.com/news/10382.html",
@@ -106,6 +150,17 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "7ad44f990f0c53ef2e2a537716dcd0f4",
+      "title": "Combatting adversarial distillation",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "publishedAt": "2026-11-20T10:00:00.000Z",
+      "crawledAt": "2026-11-21T19:25:36.063Z",
+      "contentStatus": "ready",
+      "contentHash": "d0ad00f6ddc85b8daa7351c84e75b15be5c6765fcdea3cb0882a864fb51fb52c",
+      "rawPath": "data/raw/7ad44f990f0c53ef2e2a537716dcd0f4.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "205190884fae3d74cec6ed56d62c1e4c",
       "title": "Recursion Announces Alignment with FDA on Registrational Phase 3 Trial Design for REC-4881 in Familial Adenomatous Polyposis",
       "url": "https://ir.recursion.com/news-releases/news-release-details/recursion-announces-alignment-fda-registrational-phase-3-trial",
@@ -125,6 +180,28 @@
       "contentStatus": "ready",
       "contentHash": "b0cdb7630bbe48bcc7cbe8fd170b51e7c1de90e5f391b1998ea88a1bfd8fdde4",
       "rawPath": "data/raw/ea1e342cdc77542045279bffdddcdc07.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "8145fefb47ff1ca9fa5560e62b69bf54",
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "url": "https://openai.com/business/customer-stories/hebbia",
+      "publishedAt": "2026-11-20T00:00:00.000Z",
+      "crawledAt": "2026-11-21T19:25:36.063Z",
+      "contentStatus": "ready",
+      "contentHash": "2aac48a05cd79ccc46d75205d8e904d647e03e69ff89da11809cb3c556201abf",
+      "rawPath": "data/raw/8145fefb47ff1ca9fa5560e62b69bf54.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "c1a2af93db54bfcf7c217cb74db83cfc",
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "url": "https://openai.com/index/introducing-medchembench",
+      "publishedAt": "2026-11-20T00:00:00.000Z",
+      "crawledAt": "2026-11-21T19:25:36.063Z",
+      "contentStatus": "ready",
+      "contentHash": "f5d2e2b9672fadeee438d67ea61f06047b77cacddf53fd14f1ed2b93915b35c1",
+      "rawPath": "data/raw/c1a2af93db54bfcf7c217cb74db83cfc.json",
       "lastAnalysisStatus": "pending"
     },
     {
