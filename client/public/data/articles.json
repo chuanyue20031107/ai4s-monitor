@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "85198ed6568f71d4e613451595d9d7a2",
+      "title": "评估 MiniMax 内部模型的密码分析能力",
+      "sourceKey": "s03-10",
+      "sourceName": "MiniMax",
+      "sourceType": "通用模型厂商",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-11-22T07:02:11.339Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.minimax.cn/blog/practical-cryptanalysis-with-minimaxs-latest-internal-model",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "d3c3670cf11ffc3f918d747050ee43d5",
       "title": "[108th TrustML Young Scientist Seminar] Talk by Yu-Jie Zhang (University of Washington) \"The Role of Curvature in Non-stationary Online Learning\"",
       "sourceKey": "s01-22",
@@ -22953,5 +22971,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-11-21T19:25:50.237Z"
+  "updatedAt": "2026-11-22T07:02:39.732Z"
 }
