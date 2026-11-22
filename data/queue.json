@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-22T07:02:39.732Z",
-  "pendingCount": 965,
-  "readyCount": 965,
+  "updatedAt": "2026-11-22T19:49:31.295Z",
+  "pendingCount": 969,
+  "readyCount": 969,
   "awaitingContentCount": 0,
   "excludedContentCount": 53,
   "items": [
@@ -238,6 +238,17 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "fece30b8dd3ed13d597cfe145f0ca8cc",
+      "title": "ICME 2026 to Explore New Frontiers in Microbiome Engineering",
+      "url": "https://www.aiche.org/icme-2026-explore-new-frontiers-microbiome-engineering",
+      "publishedAt": "2026-11-19T16:03:46.000Z",
+      "crawledAt": "2026-11-22T19:49:18.908Z",
+      "contentStatus": "ready",
+      "contentHash": "c68810922ef4dcd9e708af144a758a1f86ecfba13a4676d4ed02acfba0f9345f",
+      "rawPath": "data/raw/fece30b8dd3ed13d597cfe145f0ca8cc.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "dcca8b630059554773b8248da4e689c9",
       "title": "News 11.19.2026",
       "url": "https://www.broadinstitute.org/news/targeting-cellular-traffic-jam-treats-multiple-diseases-mice",
@@ -425,6 +436,17 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "dd56a99a9c4f2c81188ebe5d73468f4c",
+      "title": "How Measurement Science Helped Save Firefighting Planes",
+      "url": "https://www.nist.gov/blogs/taking-measure/how-measurement-science-helped-save-firefighting-planes",
+      "publishedAt": "2026-11-18T12:00:00.000Z",
+      "crawledAt": "2026-11-22T19:49:22.459Z",
+      "contentStatus": "ready",
+      "contentHash": "377d7707b8dd314c0bc77691a4f9c8bcf19a569ce8271fb7bc8f840c8ef35843",
+      "rawPath": "data/raw/dd56a99a9c4f2c81188ebe5d73468f4c.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "184d931227f2504de1a33bebb5615518",
       "title": "The Silent Consensus",
       "url": "https://openai.com/index/the-silent-consensus",
@@ -557,6 +579,17 @@
       "lastAnalysisStatus": "pending"
     },
     {
+      "id": "46af5006ff7ddd91e2553ede86a260cc",
+      "title": "Can AI help build a healthier future?",
+      "url": "https://www.microsoft.com/en-us/research/podcast/can-ai-help-build-a-healthier-future/",
+      "publishedAt": "2026-11-17T16:52:17.000Z",
+      "crawledAt": "2026-11-22T19:49:22.316Z",
+      "contentStatus": "ready",
+      "contentHash": "bfc3a2bb50e960eaab58293d344b38ffba8143cea7bc2234fa610e25d82e5712",
+      "rawPath": "data/raw/46af5006ff7ddd91e2553ede86a260cc.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
       "id": "dcf51614339b95ee66f6c2068ff4824c",
       "title": "关于召开2026年中国药学会民族药专业委员会学术会议...",
       "url": "https://www.cpa.org.cn/?do=info&cid=79178",
@@ -653,6 +686,17 @@
       "contentStatus": "ready",
       "contentHash": "99c8e63771c8f0987fb8d5fd8007bf12660f4f354a7198e0a719c0d8a01316c6",
       "rawPath": "data/raw/419985f0c0bfc0eac9759f2b725a5ce1.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "97087fe3c15c5fa6c7d3911339af6ce9",
+      "title": "TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient",
+      "url": "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/",
+      "publishedAt": "2026-11-16T17:01:35.000Z",
+      "crawledAt": "2026-11-22T19:49:22.316Z",
+      "contentStatus": "ready",
+      "contentHash": "7aec9c7ccd159b297300df8217e11bdf1ecd23308d8c1120ade7c1b3366cb804",
+      "rawPath": "data/raw/97087fe3c15c5fa6c7d3911339af6ce9.json",
       "lastAnalysisStatus": "pending"
     },
     {

@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "dd56a99a9c4f2c81188ebe5d73468f4c",
+      "title": "How Measurement Science Helped Save Firefighting Planes",
+      "sourceKey": "s01-08",
+      "sourceName": "National Institute of Standards and Technology",
+      "sourceType": "国家计量标准机构",
+      "category": "",
+      "publishedAt": "2026-11-18T12:00:00.000Z",
+      "crawledAt": "2026-11-22T19:49:22.459Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.nist.gov/blogs/taking-measure/how-measurement-science-helped-save-firefighting-planes",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "46af5006ff7ddd91e2553ede86a260cc",
+      "title": "Can AI help build a healthier future?",
+      "sourceKey": "s01-02",
+      "sourceName": "Microsoft Research AI for Science",
+      "sourceType": "科技大厂研究机构",
+      "category": "",
+      "publishedAt": "2026-11-17T16:52:17.000Z",
+      "crawledAt": "2026-11-22T19:49:22.316Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.microsoft.com/en-us/research/podcast/can-ai-help-build-a-healthier-future/",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "97087fe3c15c5fa6c7d3911339af6ce9",
+      "title": "TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient",
+      "sourceKey": "s01-02",
+      "sourceName": "Microsoft Research AI for Science",
+      "sourceType": "科技大厂研究机构",
+      "category": "",
+      "publishedAt": "2026-11-16T17:01:35.000Z",
+      "crawledAt": "2026-11-22T19:49:22.316Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "fece30b8dd3ed13d597cfe145f0ca8cc",
+      "title": "ICME 2026 to Explore New Frontiers in Microbiome Engineering",
+      "sourceKey": "s11-17",
+      "sourceName": "AIChE Annual Meeting",
+      "sourceType": "国际学术会议",
+      "category": "",
+      "publishedAt": "2026-11-19T16:03:46.000Z",
+      "crawledAt": "2026-11-22T19:49:18.908Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.aiche.org/icme-2026-explore-new-frontiers-microbiome-engineering",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "85198ed6568f71d4e613451595d9d7a2",
       "title": "评估 MiniMax 内部模型的密码分析能力",
       "sourceKey": "s03-10",
@@ -22971,5 +23043,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-11-22T07:02:39.732Z"
+  "updatedAt": "2026-11-22T19:49:31.295Z"
 }
