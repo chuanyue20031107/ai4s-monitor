@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "d14f69c9fa874b1e835f24a27ff1b17b",
+      "title": "为青年科研撑把伞｜晶泰科技正式发布 “科学家” 计划",
+      "sourceKey": "s04-05",
+      "sourceName": "晶泰科技 XtalPi",
+      "sourceType": "AI药物与自动化实验企业",
+      "category": "",
+      "publishedAt": "2026-11-16T06:03:31.000Z",
+      "crawledAt": "2026-11-23T07:52:06.542Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.xtalpi.com/%e4%b8%ba%e9%9d%92%e5%b9%b4%e7%a7%91%e7%a0%94%e6%92%91%e6%8a%8a%e4%bc%9e%ef%bd%9c%e6%99%b6%e6%b3%b0%e7%a7%91%e6%8a%80%e6%ad%a3%e5%bc%8f%e5%8f%91%e5%b8%83-%e7%a7%91%e5%ad%a6%e5%ae%b6/",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "c2a8b86e010129f0915b51f3d548f006",
+      "title": "实验矿物岩石地球化学2026年学术研讨会在合肥圆满召开",
+      "sourceKey": "s05-02",
+      "sourceName": "中国科大机器人化学家实验室",
+      "sourceType": "自主实验室与平台",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-11-23T07:51:34.214Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "http://news.ustc.edu.cn/info/1055/96984.htm",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "151e28fa0a469672715b098b648b60a4",
+      "title": "牛谦教授荣获2027年度巴克利凝聚态物理奖",
+      "sourceKey": "s05-02",
+      "sourceName": "中国科大机器人化学家实验室",
+      "sourceType": "自主实验室与平台",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-11-23T07:51:33.810Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "http://news.ustc.edu.cn/info/1055/96983.htm",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "7e8a56cece813e7f2d03a4672b7e38dd",
+      "title": "中国科大联合团队获2026年ACM戈登·贝尔奖",
+      "sourceKey": "s05-02",
+      "sourceName": "中国科大机器人化学家实验室",
+      "sourceType": "自主实验室与平台",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-11-23T07:51:32.649Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "http://news.ustc.edu.cn/info/1055/96988.htm",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "dd56a99a9c4f2c81188ebe5d73468f4c",
       "title": "How Measurement Science Helped Save Firefighting Planes",
       "sourceKey": "s01-08",
@@ -23043,5 +23115,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-11-22T19:49:31.295Z"
+  "updatedAt": "2026-11-23T07:54:45.081Z"
 }
