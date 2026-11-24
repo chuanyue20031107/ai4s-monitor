@@ -1,0 +1,18 @@
+{
+  "id": "9a08754629390e50389b002a26f474ec",
+  "title": "MIT Jameel Clinic Board Member Lecia Sequist Awarded $1 Million to Test Sybil AI Lung Cancer Risk Model in Clinical Trial",
+  "url": "https://jclinic.mit.edu/mit-jameel-clinic-board-member-lecia-sequist-awarded-1million-test-sybil-clinical-trial/",
+  "sourceKey": "s01-16",
+  "sourceName": "MIT Jameel Clinic",
+  "sourceType": "高校研究机构",
+  "publishedAt": "2026-11-23T21:10:57.000Z",
+  "crawledAt": "2026-11-24T10:02:15.278Z",
+  "content": "The LUNGevity Foundation, the nation’s leading lung cancer–focused nonprofit organization, recently announced its support of two innovative and ambitious research projects designed to fundamentally change how clinicians evaluate indeterminate pulmonary nodules (IPNs), small spots on chest CT scans that may be an early sign of lung cancer. This award, known as the 2026 RTFCCR/LUNGevity Early Detection Award , is a partnership dedicated to accelerating high-impact early detection research that can be rapidly translated into clinical practice. One of the awarded projects will be led by Lecia Sequist , MD, MPH, of Massachusetts General Hospital and Harvard Medical School, a board member and longtime research collaborator of the MIT Abdul Latif Jameel Clinic for Machine Learning in Health. Her proposal received a $1 million award to lead a three-year clinical trial of Sybil , an open-source artificial intelligence model developed by researchers at MIT Jameel Clinic and Mass General Brigham that predicts 6-year lung cancer risk directly from LDCT scans. Sequist is one of the senior authors of the study that introduced Sybil. Her project, titled The RESOLVE Study: Risk Estimation Using Sybil for Lung Nodules , will evaluate Sybil on 340 adults ages 35–75 with low-risk pulmonary nodules, testing the real-world performance of AI-driven risk assessment in a diverse clinical population. These clinical trials will be funded through a partnership between the Rising Tide Foundation for Clinical Cancer Research and the LUNGevity Foundation, with continued support for early detection research from Upstage Lung Cancer. “We know the most effective health care tools must work for both the patient and the clinic. By advancing two strong choices in assessing lung cancer risk, we are opening the door for more people to have access to this information. One project aims to combine radiomics and liquid biopsy to determine a person’s lung cancer risk, while the other project builds on advanced AI algorithms to offer a personalized risk assessment,” said Upal Basu Roy, PhD, MPH, executive director of LUNGevity Research. “We are proud to partner with Rising Tide Foundation to support the development of tools that can finally bring clarity to millions of patients facing uncertainty after a CT scan.”",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-11-24T10:02:15.278Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "1bc5f2fa5d0ee0c211c59c594ca86b1707b312506bf05603b10ee308401f7c30"
+}

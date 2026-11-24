@@ -1,11 +1,33 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-24T00:04:15.374Z",
-  "pendingCount": 976,
-  "readyCount": 976,
+  "updatedAt": "2026-11-24T10:04:45.247Z",
+  "pendingCount": 982,
+  "readyCount": 982,
   "awaitingContentCount": 0,
   "excludedContentCount": 53,
   "items": [
+    {
+      "id": "e179b14746d9f44fb424ee409368b1b6",
+      "title": "Protein Language Modeling 101",
+      "url": "https://www.cradle.bio/blog/protein-language-modeling-102",
+      "publishedAt": null,
+      "crawledAt": "2026-11-24T10:02:24.024Z",
+      "contentStatus": "ready",
+      "contentHash": "c12bfd31c7ae1eed1efc25437fd3486c3eedddbcc7394c66cf5e00e4a4ce6386",
+      "rawPath": "data/raw/e179b14746d9f44fb424ee409368b1b6.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "6f5a225db14caaeefb27fb4d37b4dadd",
+      "title": "中国药学会2026年度公开招聘编外聘用人员（第二批）...",
+      "url": "https://www.cpa.org.cn/?do=info&cid=79191",
+      "publishedAt": null,
+      "crawledAt": "2026-11-24T10:02:05.550Z",
+      "contentStatus": "ready",
+      "contentHash": "204ff5c79d2572acdf7925d742a6fbf7c62a3602dd990d5b2f8492a8f86e65a5",
+      "rawPath": "data/raw/6f5a225db14caaeefb27fb4d37b4dadd.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "ed0af7eda64a9b02234dcfa42087b08f",
       "title": "• 2026中国人工智能学会第七期清源论坛在重庆成功举办 2026-11-12",
@@ -37,6 +59,50 @@
       "contentStatus": "ready",
       "contentHash": "300265f48314f0c57f544047066d596f615239cd596e6bf561bd875bdc2683c1",
       "rawPath": "data/raw/c65776d2ec7a37aa63c925e9ffb13d9b.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "b0689cf87ab570a441c88635b9101349",
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "url": "https://openai.com/index/introducing-shirudo",
+      "publishedAt": "2026-11-23T21:20:00.000Z",
+      "crawledAt": "2026-11-24T10:02:14.767Z",
+      "contentStatus": "ready",
+      "contentHash": "fe8712c2ea192d01d281d51fd4199dd7e471b29cebf20da8e031aa426cb47d7c",
+      "rawPath": "data/raw/b0689cf87ab570a441c88635b9101349.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "9a08754629390e50389b002a26f474ec",
+      "title": "MIT Jameel Clinic Board Member Lecia Sequist Awarded $1 Million to Test Sybil AI Lung Cancer Risk Model in Clinical Trial",
+      "url": "https://jclinic.mit.edu/mit-jameel-clinic-board-member-lecia-sequist-awarded-1million-test-sybil-clinical-trial/",
+      "publishedAt": "2026-11-23T21:10:57.000Z",
+      "crawledAt": "2026-11-24T10:02:15.278Z",
+      "contentStatus": "ready",
+      "contentHash": "1bc5f2fa5d0ee0c211c59c594ca86b1707b312506bf05603b10ee308401f7c30",
+      "rawPath": "data/raw/9a08754629390e50389b002a26f474ec.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "10878202550bbbf922d1872ab8ac8727",
+      "title": "Connected intelligence for in-house legal",
+      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "publishedAt": "2026-11-23T08:00:00.000Z",
+      "crawledAt": "2026-11-24T10:02:14.767Z",
+      "contentStatus": "ready",
+      "contentHash": "0d8f2377d1e38278080cac3dec6f5edc5c67bc235045040f35cd80054f849627",
+      "rawPath": "data/raw/10878202550bbbf922d1872ab8ac8727.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "1259b534687dd8b3171199ff6c1e4d27",
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "publishedAt": "2026-11-23T08:00:00.000Z",
+      "crawledAt": "2026-11-24T10:02:14.767Z",
+      "contentStatus": "ready",
+      "contentHash": "9d6f28fd9c87f4f5cd300854a097c97475907365139d5d0d2b5a9c0cc31448d5",
+      "rawPath": "data/raw/1259b534687dd8b3171199ff6c1e4d27.json",
       "lastAnalysisStatus": "pending"
     },
     {
