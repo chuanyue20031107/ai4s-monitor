@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "id": "ed0af7eda64a9b02234dcfa42087b08f",
+      "title": "• 2026中国人工智能学会第七期清源论坛在重庆成功举办 2026-11-12",
+      "sourceKey": "s10-05",
+      "sourceName": "中国人工智能大会 CCAI",
+      "sourceType": "全国学术大会",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-11-24T00:01:52.577Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.caai.cn/site/content/11566.html",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "a75d38da4c473603e003c5d2a836f0cc",
+      "title": "• 中国人工智能学会第八期清源论坛在合肥成功举办 2026-11-20",
+      "sourceKey": "s10-05",
+      "sourceName": "中国人工智能大会 CCAI",
+      "sourceType": "全国学术大会",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-11-24T00:01:52.307Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.caai.cn/site/content/11609.html",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "c65776d2ec7a37aa63c925e9ffb13d9b",
+      "title": "第十九届中国智能机器人大会在西安开幕 11月7日至8日，第十九届中国智能机器人大会在西安举行。大会由中国人工智能学会（CAAI）主办，西安交通大学、中国科学院自动化研究所承办，CAAI智能机器人专委会、《机器人技术与应用》杂志社协办，中国科学院长春光学精密机械与物理研究所、北京津发科技股份有限公司、《The Innovation》期刊为大会合作伙伴。学术专家与企业代表围绕智能机器人的前沿技术与产业应用展开交流。本次大会为期2天，设10",
+      "sourceKey": "s10-05",
+      "sourceName": "中国人工智能大会 CCAI",
+      "sourceType": "全国学术大会",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-11-24T00:01:52.035Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.caai.cn/site/content/11608.html",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "d14f69c9fa874b1e835f24a27ff1b17b",
       "title": "为青年科研撑把伞｜晶泰科技正式发布 “科学家” 计划",
       "sourceKey": "s04-05",
@@ -23115,5 +23169,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-11-23T07:54:45.081Z"
+  "updatedAt": "2026-11-24T00:04:15.374Z"
 }

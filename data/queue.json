@@ -1,11 +1,44 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-23T07:54:45.081Z",
-  "pendingCount": 973,
-  "readyCount": 973,
+  "updatedAt": "2026-11-24T00:04:15.374Z",
+  "pendingCount": 976,
+  "readyCount": 976,
   "awaitingContentCount": 0,
   "excludedContentCount": 53,
   "items": [
+    {
+      "id": "ed0af7eda64a9b02234dcfa42087b08f",
+      "title": "• 2026中国人工智能学会第七期清源论坛在重庆成功举办 2026-11-12",
+      "url": "https://www.caai.cn/site/content/11566.html",
+      "publishedAt": null,
+      "crawledAt": "2026-11-24T00:01:52.577Z",
+      "contentStatus": "ready",
+      "contentHash": "b8ee949fea76a9474e163aab665f3132f19e29ece31d5be5b0f1f26bd0ae5e0e",
+      "rawPath": "data/raw/ed0af7eda64a9b02234dcfa42087b08f.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "a75d38da4c473603e003c5d2a836f0cc",
+      "title": "• 中国人工智能学会第八期清源论坛在合肥成功举办 2026-11-20",
+      "url": "https://www.caai.cn/site/content/11609.html",
+      "publishedAt": null,
+      "crawledAt": "2026-11-24T00:01:52.307Z",
+      "contentStatus": "ready",
+      "contentHash": "6d569fc7256f0bdfaca54321d868dcb9b5da7fb41275a2a929174ffc61cac747",
+      "rawPath": "data/raw/a75d38da4c473603e003c5d2a836f0cc.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "c65776d2ec7a37aa63c925e9ffb13d9b",
+      "title": "第十九届中国智能机器人大会在西安开幕 11月7日至8日，第十九届中国智能机器人大会在西安举行。大会由中国人工智能学会（CAAI）主办，西安交通大学、中国科学院自动化研究所承办，CAAI智能机器人专委会、《机器人技术与应用》杂志社协办，中国科学院长春光学精密机械与物理研究所、北京津发科技股份有限公司、《The Innovation》期刊为大会合作伙伴。学术专家与企业代表围绕智能机器人的前沿技术与产业应用展开交流。本次大会为期2天，设10",
+      "url": "https://www.caai.cn/site/content/11608.html",
+      "publishedAt": null,
+      "crawledAt": "2026-11-24T00:01:52.035Z",
+      "contentStatus": "ready",
+      "contentHash": "300265f48314f0c57f544047066d596f615239cd596e6bf561bd875bdc2683c1",
+      "rawPath": "data/raw/c65776d2ec7a37aa63c925e9ffb13d9b.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "c2a8b86e010129f0915b51f3d548f006",
       "title": "实验矿物岩石地球化学2026年学术研讨会在合肥圆满召开",
