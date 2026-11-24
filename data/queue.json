@@ -1,11 +1,44 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-24T10:04:45.247Z",
-  "pendingCount": 982,
-  "readyCount": 982,
+  "updatedAt": "2026-11-24T22:36:56.021Z",
+  "pendingCount": 985,
+  "readyCount": 985,
   "awaitingContentCount": 0,
   "excludedContentCount": 53,
   "items": [
+    {
+      "id": "837931a38742e5731ae16ba06e5df443",
+      "title": "关于组织开展2026年度中国药学期刊集群“能力提升”...",
+      "url": "https://www.cpa.org.cn/?do=info&cid=79188",
+      "publishedAt": null,
+      "crawledAt": "2026-11-24T22:35:00.921Z",
+      "contentStatus": "ready",
+      "contentHash": "0d7bd4b1579bcfb6eb85477bb3f25edbcafd7475d0772fe621e9274dcd5f3b7a",
+      "rawPath": "data/raw/837931a38742e5731ae16ba06e5df443.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "90581223e930cee1b571ffd4d0d7c260",
+      "title": "一个起点，无限创造：从 H3 到 H3 Family，1472 个模型，1.48 亿次下载",
+      "url": "https://www.minimax.cn/blog/minimax-h3-family",
+      "publishedAt": null,
+      "crawledAt": "2026-11-24T22:33:41.483Z",
+      "contentStatus": "ready",
+      "contentHash": "b72ff1f004c171b0f09f30078e848ad137c29816247b71c2a0c360a390801bd6",
+      "rawPath": "data/raw/90581223e930cee1b571ffd4d0d7c260.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "0f33f86ecb44c153c2c3bc914b72336c",
+      "title": "9个站点运行超半年，聚光科技AQMS持续拓展美洲火电应用 2026-11-24",
+      "url": "https://www.fpi-inc.com/news_cont_48421.html",
+      "publishedAt": null,
+      "crawledAt": "2026-11-24T22:33:40.955Z",
+      "contentStatus": "ready",
+      "contentHash": "cb84fae4d01f92c814f98609e4e0ff52deba201fc501edd97ddd194aab104693",
+      "rawPath": "data/raw/0f33f86ecb44c153c2c3bc914b72336c.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "e179b14746d9f44fb424ee409368b1b6",
       "title": "Protein Language Modeling 101",
