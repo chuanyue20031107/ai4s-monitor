@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "dbacdd571572366591a617ad35768eb6",
+      "title": "Profluent | Profluent Named 2026 Emerging Innovator Of The Year At 23rd Annual Pantheon Awards",
+      "sourceKey": "s02-07",
+      "sourceName": "Profluent",
+      "sourceType": "蛋白设计公司",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-11-25T08:47:26.401Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.profluent.bio/media/profluent-named-2026-emerging-innovator-of-the-year-at-23rd-annual-pantheon-awards",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "05ebdc52973daf6ff0bd798697a3786f",
+      "title": "Career Crossroads: Taking Your Skills into a New Industry",
+      "sourceKey": "s11-17",
+      "sourceName": "AIChE Annual Meeting",
+      "sourceType": "国际学术会议",
+      "category": "",
+      "publishedAt": "2026-11-24T16:03:09.000Z",
+      "crawledAt": "2026-11-25T08:47:10.219Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.aiche.org/career-crossroads-taking-your-skills-new-industry",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "837931a38742e5731ae16ba06e5df443",
       "title": "关于组织开展2026年度中国药学期刊集群“能力提升”...",
       "sourceKey": "s10-18",
@@ -23331,5 +23367,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-11-24T22:36:56.021Z"
+  "updatedAt": "2026-11-25T08:50:13.243Z"
 }

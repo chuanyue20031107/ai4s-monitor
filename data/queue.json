@@ -1,11 +1,22 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-24T22:36:56.021Z",
-  "pendingCount": 985,
-  "readyCount": 985,
+  "updatedAt": "2026-11-25T08:50:13.243Z",
+  "pendingCount": 987,
+  "readyCount": 987,
   "awaitingContentCount": 0,
   "excludedContentCount": 53,
   "items": [
+    {
+      "id": "dbacdd571572366591a617ad35768eb6",
+      "title": "Profluent | Profluent Named 2026 Emerging Innovator Of The Year At 23rd Annual Pantheon Awards",
+      "url": "https://www.profluent.bio/media/profluent-named-2026-emerging-innovator-of-the-year-at-23rd-annual-pantheon-awards",
+      "publishedAt": null,
+      "crawledAt": "2026-11-25T08:47:26.401Z",
+      "contentStatus": "ready",
+      "contentHash": "28d571033e40b9eee495bce25482b4ab4973f687ae24758ed6e46cd76265d304",
+      "rawPath": "data/raw/dbacdd571572366591a617ad35768eb6.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "837931a38742e5731ae16ba06e5df443",
       "title": "关于组织开展2026年度中国药学期刊集群“能力提升”...",
@@ -37,6 +48,17 @@
       "contentStatus": "ready",
       "contentHash": "cb84fae4d01f92c814f98609e4e0ff52deba201fc501edd97ddd194aab104693",
       "rawPath": "data/raw/0f33f86ecb44c153c2c3bc914b72336c.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "05ebdc52973daf6ff0bd798697a3786f",
+      "title": "Career Crossroads: Taking Your Skills into a New Industry",
+      "url": "https://www.aiche.org/career-crossroads-taking-your-skills-new-industry",
+      "publishedAt": "2026-11-24T16:03:09.000Z",
+      "crawledAt": "2026-11-25T08:47:10.219Z",
+      "contentStatus": "ready",
+      "contentHash": "a21775ba0e1f214d3104f4107c05c691d708a3a9dabda3cb426da1ad6989a6b1",
+      "rawPath": "data/raw/05ebdc52973daf6ff0bd798697a3786f.json",
       "lastAnalysisStatus": "pending"
     },
     {
