@@ -1,11 +1,77 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-25T21:54:45.847Z",
-  "pendingCount": 993,
-  "readyCount": 993,
+  "updatedAt": "2026-11-26T08:38:22.549Z",
+  "pendingCount": 999,
+  "readyCount": 999,
   "awaitingContentCount": 0,
   "excludedContentCount": 53,
   "items": [
+    {
+      "id": "98fa804faddd178047394c02317b364d",
+      "title": "习近平主持中俄美元首会晤 11月19日下午，国家主席习近平在深圳同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤。新华社记者 申宏 摄 新华社深圳11月19日电 11月19日下午，国家主席习近平在深圳同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤。三国元首围绕“维护世界和平，促进大国关系战略稳定”",
+      "url": "https://www.caai.cn/site/content/11599.html",
+      "publishedAt": null,
+      "crawledAt": "2026-11-26T08:35:20.391Z",
+      "contentStatus": "ready",
+      "contentHash": "3cbec91bc00906a540e451c75d8782b46e2ec1b02a8c6d5a2bfb45c6479d874d",
+      "rawPath": "data/raw/98fa804faddd178047394c02317b364d.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "fa22fe2bf9ee5287bd6ce5859987c6f4",
+      "title": "11-24 2026 第十一届全国青年人工智能创新创业大赛报名通知",
+      "url": "https://www.caai.cn/site/content/11612.html",
+      "publishedAt": null,
+      "crawledAt": "2026-11-26T08:35:20.143Z",
+      "contentStatus": "ready",
+      "contentHash": "af026945b1cd81efae08c9ee3a8ef8838360958d241e50b6eda8f1954d2c1be9",
+      "rawPath": "data/raw/fa22fe2bf9ee5287bd6ce5859987c6f4.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "85d7177f3b1b34c3e53c11ac7eb4e423",
+      "title": "PDB-101 Focus: Biotechnology",
+      "url": "https://www.rcsb.org/news/694548acbcb807eabf14c69f",
+      "publishedAt": null,
+      "crawledAt": "2026-11-26T08:35:02.071Z",
+      "contentStatus": "ready",
+      "contentHash": "5703508396012588294681213d3bfd96d526e763bf6f8caa943fc8462faf0f22",
+      "rawPath": "data/raw/85d7177f3b1b34c3e53c11ac7eb4e423.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "3138e82bb6daa452c70662bef5a85d11",
+      "title": "2026-11-20 东方汇理银行与宁德时代签约，5亿美元融资助力储能客户出海 了解更多",
+      "url": "https://www.catl.com/news/10384.html",
+      "publishedAt": null,
+      "crawledAt": "2026-11-26T08:32:19.493Z",
+      "contentStatus": "ready",
+      "contentHash": "194cb5b719905802e0f5fd8182546bcdca7a4878091528893998c9bd1c01d7c4",
+      "rawPath": "data/raw/3138e82bb6daa452c70662bef5a85d11.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "7b0205a1b34631475f265c4cdddf2bed",
+      "title": "2026-11-23 宁家服务在土耳其首家体验中心开业 了解更多",
+      "url": "https://www.catl.com/news/10386.html",
+      "publishedAt": null,
+      "crawledAt": "2026-11-26T08:32:18.473Z",
+      "contentStatus": "ready",
+      "contentHash": "8503e5ade9fafa759c5debe2eecaa7fbb2e54073a2fe16f6b29b89358d4f4603",
+      "rawPath": "data/raw/7b0205a1b34631475f265c4cdddf2bed.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "fac4d36a8579445392e85f44d5dfa845",
+      "title": "2026-11-25 北控集团与宁德时代达成战略合作 了解更多",
+      "url": "https://www.catl.com/news/10388.html",
+      "publishedAt": null,
+      "crawledAt": "2026-11-26T08:32:17.489Z",
+      "contentStatus": "ready",
+      "contentHash": "b523ef7cedb55b8b7a528afdd9775defc0f072ee13db58d27714b61e29d45cc9",
+      "rawPath": "data/raw/fac4d36a8579445392e85f44d5dfa845.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "5703179a4ca515774fae8503002bc3ee",
       "title": "我所开发出可用于睡眠呼吸暂停预筛查的柔性呼吸监测平台",
