@@ -1,0 +1,18 @@
+{
+  "id": "7758c04a629331bf96383fb7f46e256d",
+  "title": "Searching for distant planets with Astra",
+  "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+  "sourceKey": "s01-14",
+  "sourceName": "OpenAI",
+  "sourceType": "科技大厂研究机构",
+  "publishedAt": "2026-11-24T11:00:00.000Z",
+  "crawledAt": "2026-11-26T21:41:59.510Z",
+  "content": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+  "contentStatus": "ready",
+  "extractionMethod": "feed-excerpt",
+  "discardReason": "",
+  "lastFetchAt": "2026-11-26T21:41:59.510Z",
+  "contentTruncated": false,
+  "contentError": "",
+  "contentHash": "29b92c1f5c2e2ea91b9175563bd2047641efd938584acf0bc6a7c341fd3037ed"
+}
