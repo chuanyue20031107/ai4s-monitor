@@ -1,11 +1,55 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-26T21:44:25.529Z",
-  "pendingCount": 1007,
-  "readyCount": 1007,
+  "updatedAt": "2026-11-27T08:46:43.365Z",
+  "pendingCount": 1011,
+  "readyCount": 1011,
   "awaitingContentCount": 0,
   "excludedContentCount": 53,
   "items": [
+    {
+      "id": "3a05faf8e320256b232e47d9f630c6ac",
+      "title": "病理切片扫描仪招标公告",
+      "url": "https://www.caclp.com/article/?detail_14448.html",
+      "publishedAt": null,
+      "crawledAt": "2026-11-27T08:46:41.420Z",
+      "contentStatus": "ready",
+      "contentHash": "6abb78f430072893a560bea7044ffaf68ed2f569c0ddc00ce9dbd9e4f33f7af6",
+      "rawPath": "data/raw/3a05faf8e320256b232e47d9f630c6ac.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "2cff0e5154d829a2d61f4c1abdf5d4be",
+      "title": "中国科学院动物研究所基因修饰干细胞编辑-分化制备平台-高端多色分选型流式细胞仪-全光谱流式细胞分选仪及高速流式细胞分选仪采购项目公开招标公告",
+      "url": "https://www.caclp.com/article/?detail_14449.html",
+      "publishedAt": null,
+      "crawledAt": "2026-11-27T08:46:39.821Z",
+      "contentStatus": "ready",
+      "contentHash": "521e27d88f78fe633227b0f9ead33ba62e78f730852f0c2cff16ef3a4c31f3e0",
+      "rawPath": "data/raw/2cff0e5154d829a2d61f4c1abdf5d4be.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "e7012cf58b28d91fb6e736eab80f815e",
+      "title": "山东第一医科大学附属肿瘤医院全自动生化分析仪采购项目（61763）公开招标招标公告",
+      "url": "https://www.caclp.com/article/?detail_14450.html",
+      "publishedAt": null,
+      "crawledAt": "2026-11-27T08:46:38.525Z",
+      "contentStatus": "ready",
+      "contentHash": "374587b9c3733ebefdd163723a6007eaa30be8abb4c228b2f91961ced36877a8",
+      "rawPath": "data/raw/e7012cf58b28d91fb6e736eab80f815e.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "95e8539776562afbec8f1b94de39da8e",
+      "title": "Protein Language Modeling 101",
+      "url": "https://www.cradle.bio/blog/protein-language-modeling-101",
+      "publishedAt": null,
+      "crawledAt": "2026-11-27T08:46:20.078Z",
+      "contentStatus": "ready",
+      "contentHash": "d58849c28e00fd242d17c2134710a66ca80e617a59e86d265c722ee906dd4414",
+      "rawPath": "data/raw/95e8539776562afbec8f1b94de39da8e.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "b7ff10580924876e6a66a5f651f3efea",
       "title": "Read more",

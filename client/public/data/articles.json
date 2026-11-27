@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "3a05faf8e320256b232e47d9f630c6ac",
+      "title": "病理切片扫描仪招标公告",
+      "sourceKey": "s10-15",
+      "sourceName": "CACLP中国国际检验医学暨输血仪器试剂博览会",
+      "sourceType": "行业展会/会议",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-11-27T08:46:41.420Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.caclp.com/article/?detail_14448.html",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "2cff0e5154d829a2d61f4c1abdf5d4be",
+      "title": "中国科学院动物研究所基因修饰干细胞编辑-分化制备平台-高端多色分选型流式细胞仪-全光谱流式细胞分选仪及高速流式细胞分选仪采购项目公开招标公告",
+      "sourceKey": "s10-15",
+      "sourceName": "CACLP中国国际检验医学暨输血仪器试剂博览会",
+      "sourceType": "行业展会/会议",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-11-27T08:46:39.821Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.caclp.com/article/?detail_14449.html",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "e7012cf58b28d91fb6e736eab80f815e",
+      "title": "山东第一医科大学附属肿瘤医院全自动生化分析仪采购项目（61763）公开招标招标公告",
+      "sourceKey": "s10-15",
+      "sourceName": "CACLP中国国际检验医学暨输血仪器试剂博览会",
+      "sourceType": "行业展会/会议",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-11-27T08:46:38.525Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.caclp.com/article/?detail_14450.html",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
+      "id": "95e8539776562afbec8f1b94de39da8e",
+      "title": "Protein Language Modeling 101",
+      "sourceKey": "s02-17",
+      "sourceName": "Cradle",
+      "sourceType": "蛋白工程软件公司",
+      "category": "",
+      "publishedAt": null,
+      "crawledAt": "2026-11-27T08:46:20.078Z",
+      "summary": "",
+      "score": 0,
+      "importanceReason": "",
+      "contentType": "",
+      "moatTags": [],
+      "url": "https://www.cradle.bio/blog/protein-language-modeling-101",
+      "analysisStatus": "pending",
+      "failureReason": ""
+    },
+    {
       "id": "b7ff10580924876e6a66a5f651f3efea",
       "title": "Read more",
       "sourceKey": "s01-20",
@@ -23727,5 +23799,5 @@
       "batchFile": "data/inbox/2026-09-18T02-25-00Z-full-011-3a19d2f0.json"
     }
   ],
-  "updatedAt": "2026-11-26T21:44:25.529Z"
+  "updatedAt": "2026-11-27T08:46:43.365Z"
 }
