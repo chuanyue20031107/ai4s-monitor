@@ -1,11 +1,33 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-27T21:26:46.258Z",
-  "pendingCount": 1011,
-  "readyCount": 1011,
+  "updatedAt": "2026-11-28T08:05:23.490Z",
+  "pendingCount": 1013,
+  "readyCount": 1013,
   "awaitingContentCount": 0,
   "excludedContentCount": 53,
   "items": [
+    {
+      "id": "3bd694581350749d0e662ad27b518582",
+      "title": "关于开展2026-2027学年寰宇英才计划国际交流...",
+      "url": "https://www.ustc.edu.cn/tzggcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1363&wbnewsid=26151",
+      "publishedAt": null,
+      "crawledAt": "2026-11-28T08:02:22.734Z",
+      "contentStatus": "ready",
+      "contentHash": "87eace187b636a3a85c3fe5ad6b9baacf747183e8c4ca0392f8cada30f07dbcc",
+      "rawPath": "data/raw/3bd694581350749d0e662ad27b518582.json",
+      "lastAnalysisStatus": "pending"
+    },
+    {
+      "id": "a3d37d4efd32cbbde815b828b68fea76",
+      "title": "国家科技重大专项：新一代人工智能专项2027...",
+      "url": "https://www.ustc.edu.cn/info/1362/26156.htm",
+      "publishedAt": null,
+      "crawledAt": "2026-11-28T08:02:22.488Z",
+      "contentStatus": "ready",
+      "contentHash": "38a383ba4d286059c62a8baac5e683829885aff123e7931f748faf50518332f3",
+      "rawPath": "data/raw/a3d37d4efd32cbbde815b828b68fea76.json",
+      "lastAnalysisStatus": "pending"
+    },
     {
       "id": "3a05faf8e320256b232e47d9f630c6ac",
       "title": "病理切片扫描仪招标公告",
